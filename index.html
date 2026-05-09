@@ -23,13 +23,7 @@
     const log    = document.getElementById('log');
 
     try {
-      // no-cache forces GitHub to skip the CDN and return the current commit's content
-      const res = await fetch(API_URL, {
-        headers: {
-          'Accept': 'application/vnd.github+json',
-          'Cache-Control': 'no-cache',
-        }
-      });
+      const res = await fetch(API_URL);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
       const meta = await res.json();
