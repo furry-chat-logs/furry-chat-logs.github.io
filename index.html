@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,15 +6,16 @@
 </head>
 <body>
 
-<h1>FurryChat Chat Logs</h1>
+<h1>FurryChat Public Chat Logs</h1>
 <p id="status">Loading...</p>
 <p id="count"></p>
 <hr>
 <div id="log"></div>
 
 <script>
-  const RAW_URL =
-    'https://raw.githubusercontent.com/furry-chat-logs/furry-chat-logs.github.io/main/chatlog.json';
+  // GitHub Contents API — bypasses the CDN cache that raw.githubusercontent.com uses
+  const API_URL =
+    'https://api.github.com/repos/furry-chat-logs/furry-chat-logs.github.io/contents/chatlog.json?ref=main';
 
   async function loadLogs() {
     const status = document.getElementById('status');
@@ -23,10 +23,18 @@
     const log    = document.getElementById('log');
 
     try {
-      const res = await fetch(RAW_URL + '?t=' + Date.now());
+      // no-cache forces GitHub to skip the CDN and return the current commit's content
+      const res = await fetch(API_URL, {
+        headers: {
+          'Accept': 'application/vnd.github+json',
+          'Cache-Control': 'no-cache',
+        }
+      });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
-      const entries = await res.json();
+      const meta = await res.json();
+      // Content is base64-encoded by the API — decode it
+      const entries = JSON.parse(atob(meta.content));
 
       status.textContent = 'Last refreshed: ' + new Date().toLocaleString();
       count.textContent  = entries.length + ' message(s) total';
@@ -50,6 +58,7 @@
     }
   }
 
+  // Load on page open, then refresh every 30 seconds
   loadLogs();
   setInterval(loadLogs, 30000);
 </script>
