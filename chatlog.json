@@ -628,5 +628,33 @@
     "date": "9/05 15:50",
     "username": "Nøx",
     "message": "The New Kid if you wish"
+  },
+  {
+    "id": "7874420",
+    "type": "public",
+    "date": "9/05 15:50",
+    "username": "The New Kid",
+    "message": "Voice message"
+  },
+  {
+    "id": "7874421",
+    "type": "public",
+    "date": "9/05 15:50",
+    "username": "The New Kid",
+    "message": "My voice"
+  },
+  {
+    "id": "7874422",
+    "type": "public",
+    "date": "9/05 15:51",
+    "username": "Nøx",
+    "message": "Ooh pretty"
+  },
+  {
+    "id": "7874423",
+    "type": "public",
+    "date": "9/05 15:51",
+    "username": "Miss Divinity",
+    "message": "I have a pretty baritone voice"
   }
 ]
