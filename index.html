@@ -1,1 +1,58 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>FurryChat Logs</title>
+</head>
+<body>
+
+<h1>FurryChat Chat Logs</h1>
+<p id="status">Loading...</p>
+<p id="count"></p>
+<hr>
+<div id="log"></div>
+
+<script>
+  const RAW_URL =
+    'https://raw.githubusercontent.com/furry-chat-logs/furry-chat-logs.github.io/main/chatlog.json';
+
+  async function loadLogs() {
+    const status = document.getElementById('status');
+    const count  = document.getElementById('count');
+    const log    = document.getElementById('log');
+
+    try {
+      const res = await fetch(RAW_URL + '?t=' + Date.now());
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+      const entries = await res.json();
+
+      status.textContent = 'Last refreshed: ' + new Date().toLocaleString();
+      count.textContent  = entries.length + ' message(s) total';
+
+      log.innerHTML = '';
+
+      entries.forEach(m => {
+        const line = document.createElement('p');
+
+        if (m.type === 'system') {
+          line.textContent = '[' + m.date + '] *** SYSTEM: ' + m.message;
+        } else {
+          line.textContent = '[' + m.date + '] ' + m.username + ': ' + m.message;
+        }
+
+        log.appendChild(line);
+      });
+
+    } catch (err) {
+      status.textContent = 'Error loading logs: ' + err.message;
+    }
+  }
+
+  loadLogs();
+  setInterval(loadLogs, 30000);
+</script>
+
+</body>
+</html>
