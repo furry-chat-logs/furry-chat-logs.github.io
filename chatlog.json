@@ -6842,5 +6842,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "my bio is so tuff ik",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877169",
+    "type": "public",
+    "date": "10/05 16:38",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "anyway hi runefaucet how was your day",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877170",
+    "type": "public",
+    "date": "10/05 16:38",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Frogmin It looks goofy lol",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
