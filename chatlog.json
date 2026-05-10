@@ -5084,5 +5084,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Did you atleast get seasoned",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7876993",
+    "type": "public",
+    "date": "10/05 15:21",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "yeah",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
