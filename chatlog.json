@@ -3984,5 +3984,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "liminal what does your OC looks like?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876883",
+    "type": "public",
+    "date": "10/05 14:32",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Hi lol10/05 20:32 HALLO!!!",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876884",
+    "type": "public",
+    "date": "10/05 14:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: XZOHPbgLIC41Xv7sHqGfw1z00&n=46803]",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
