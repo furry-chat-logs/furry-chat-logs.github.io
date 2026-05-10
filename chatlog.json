@@ -5042,5 +5042,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Smiley nini 🧑‍🦯",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7874998",
+    "type": "public",
+    "date": "9/05 23:32",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon14 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWdpdGRmdzZzcGExMzhienF1d3d1ZWx2aDZ3ZHc0bGpiczNzajUyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VFZjFbwZcdD6KSs34L/giphy.gif]",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
