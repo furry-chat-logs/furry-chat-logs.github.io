@@ -3774,5 +3774,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Everyone. Ive got a new phrase now, O My Fur!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876862",
+    "type": "public",
+    "date": "10/05 14:23",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Woah",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
