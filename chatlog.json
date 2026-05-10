@@ -3784,5 +3784,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Womp.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7874871",
+    "type": "public",
+    "date": "9/05 22:39",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon14 bnfont6",
+    "message": "Welp, brb, ima record a video",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7874872",
+    "type": "public",
+    "date": "9/05 22:39",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Yo what would be sick is if we could have background music in our profiles",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
