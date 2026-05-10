@@ -5224,5 +5224,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "Ram3n Im alr",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877007",
+    "type": "public",
+    "date": "10/05 15:31",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "rune scares me sometimes",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
