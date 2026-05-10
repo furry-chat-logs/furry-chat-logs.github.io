@@ -1936,5 +1936,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Idkw",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876678",
+    "type": "public",
+    "date": "10/05 13:43",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My text is blinking",
+    "msgClasses": "chat_message bgrad2 boldital bfont7"
   }
 ]
