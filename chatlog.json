@@ -7902,5 +7902,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "It's almost 100° omfg",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877275",
+    "type": "public",
+    "date": "10/05 17:16",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Porphyrophobia hantavirus incoming",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
