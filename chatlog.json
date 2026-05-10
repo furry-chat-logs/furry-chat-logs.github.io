@@ -1056,5 +1056,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Wdym?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876578",
+    "type": "public",
+    "date": "10/05 13:16",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "fuck fuck shit fuck",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
