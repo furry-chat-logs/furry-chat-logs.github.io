@@ -8432,5 +8432,15 @@
     "userClasses": "username bneon30 bnfont3",
     "message": "hm",
     "msgClasses": "chat_message bneon30  bfont3"
+  },
+  {
+    "id": "7877328",
+    "type": "public",
+    "date": "10/05 17:51",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "ae",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
