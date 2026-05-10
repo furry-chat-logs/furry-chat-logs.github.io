@@ -1376,5 +1376,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "JustAnAnt hi",
     "msgClasses": "chat_message bcolor7 ital bfont9"
+  },
+  {
+    "id": "7876622",
+    "type": "public",
+    "date": "10/05 13:29",
+    "username": "The New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_bd0808b8c879.png]",
+    "msgClasses": "chat_message "
   }
 ]
