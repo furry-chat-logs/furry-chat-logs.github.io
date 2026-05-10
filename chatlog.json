@@ -2436,5 +2436,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Wassup ma dude!?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876728",
+    "type": "public",
+    "date": "10/05 14:00",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon30 bnfont3",
+    "message": "Medokin not quite",
+    "msgClasses": "chat_message bneon30  bfont3"
   }
 ]
