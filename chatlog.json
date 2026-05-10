@@ -5234,5 +5234,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "rune scares me sometimes",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877008",
+    "type": "public",
+    "date": "10/05 15:32",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25944_9955bf576a74.png]",
+    "msgClasses": "chat_message "
   }
 ]
