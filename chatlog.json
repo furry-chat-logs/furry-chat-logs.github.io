@@ -6542,5 +6542,65 @@
     "userClasses": "username bgrad15 ",
     "message": "MY SPEECH IS MESSED UP JUST BE HAPPY I DONT TALK LIKE IM 5",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877139",
+    "type": "public",
+    "date": "10/05 16:32",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "omw to jump parrot rn",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877140",
+    "type": "public",
+    "date": "10/05 16:32",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "omw to jump parrot rn",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877141",
+    "type": "public",
+    "date": "10/05 16:32",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Woah",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877142",
+    "type": "public",
+    "date": "10/05 16:33",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Buggo I will be happy you don't talk like Wifies",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7877143",
+    "type": "public",
+    "date": "10/05 16:33",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "WOW..",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877144",
+    "type": "public",
+    "date": "10/05 16:33",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "[doubt]",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
