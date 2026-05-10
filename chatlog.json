@@ -5424,5 +5424,15 @@
     "userClasses": "username bneon21 bnfont10",
     "message": "Seven people got infected over a month, in a place where the population density can be upwards of 200 times that of new york",
     "msgClasses": "chat_message bcolor24 heavyital bfont10"
+  },
+  {
+    "id": "7877027",
+    "type": "public",
+    "date": "10/05 15:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Uhh",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
