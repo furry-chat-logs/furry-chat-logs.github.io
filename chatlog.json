@@ -776,5 +776,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "[idontcare]",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7876550",
+    "type": "public",
+    "date": "10/05 13:13",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Minecraft it fun",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876551",
+    "type": "public",
+    "date": "10/05 13:13",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Wifies hey! no cuss words",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
