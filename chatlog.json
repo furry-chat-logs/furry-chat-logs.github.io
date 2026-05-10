@@ -1596,5 +1596,25 @@
     "userClasses": "username user ",
     "message": "SwiggleBiggle What was he banned for??",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876644",
+    "type": "public",
+    "date": "10/05 13:36",
+    "username": "Funtime Foxy",
+    "userId": "8363",
+    "userClasses": "username bgrad3 bnfont16",
+    "message": "Avengers",
+    "msgClasses": "chat_message bneon19 ital bfont14"
+  },
+  {
+    "id": "7876645",
+    "type": "public",
+    "date": "10/05 13:36",
+    "username": "Funtime Foxy",
+    "userId": "8363",
+    "userClasses": "username bgrad3 bnfont16",
+    "message": "Assemble",
+    "msgClasses": "chat_message bneon19 ital bfont14"
   }
 ]
