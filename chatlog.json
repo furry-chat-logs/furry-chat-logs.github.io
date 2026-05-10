@@ -916,5 +916,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "someone bought my friend a fucking vibrator </3",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7876564",
+    "type": "public",
+    "date": "10/05 13:15",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_a459cd5e7732.png]",
+    "msgClasses": "chat_message "
   }
 ]
