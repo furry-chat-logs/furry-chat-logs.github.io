@@ -5272,5 +5272,15 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "It might've been a deer i couldnt tell it was pitch black in that forest",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7875021",
+    "type": "public",
+    "date": "9/05 23:51",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcWtoNnB5MThoc2oyc2UwM3c1YXJ4eGgzM2NkY2JteTl3NGpmM3I2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D8UDrdPg96unNalNu8/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
