@@ -6362,5 +6362,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "giggling",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877121",
+    "type": "public",
+    "date": "10/05 16:28",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[skull]",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
