@@ -976,5 +976,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Fuck U.U",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876570",
+    "type": "public",
+    "date": "10/05 13:15",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "rune is to short",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
