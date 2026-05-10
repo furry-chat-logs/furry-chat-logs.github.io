@@ -2656,5 +2656,15 @@
     "message": "test",
     "usernameStyle": "bneon32",
     "msgStyle": "bneon32 bfont3"
+  },
+  {
+    "id": "7874759",
+    "type": "public",
+    "date": "9/05 21:59",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "message": "test 2",
+    "usernameStyle": "bneon32",
+    "msgStyle": "bneon2 heavyital bfont12"
   }
 ]
