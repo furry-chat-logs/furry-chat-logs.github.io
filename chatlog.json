@@ -5922,5 +5922,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "😭😭😭😭",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877077",
+    "type": "public",
+    "date": "10/05 16:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Smiley speaking of which",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
