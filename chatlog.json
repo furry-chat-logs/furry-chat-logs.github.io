@@ -5214,5 +5214,15 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "Mr-Shark Wbuu?",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7877006",
+    "type": "public",
+    "date": "10/05 15:30",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "Ram3n Im alr",
+    "msgClasses": "chat_message "
   }
 ]
