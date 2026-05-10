@@ -5564,5 +5564,13 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user34858_025648242057.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877041",
+    "type": "system",
+    "date": "10/05 15:51",
+    "username": "System",
+    "userId": null,
+    "message": "NimbleLobster906 has been kicked"
   }
 ]
