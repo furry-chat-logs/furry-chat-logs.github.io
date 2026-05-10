@@ -2066,5 +2066,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nah",
     "msgClasses": "chat_message bold bfont7"
+  },
+  {
+    "id": "7876691",
+    "type": "public",
+    "date": "10/05 13:48",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "😔",
+    "msgClasses": "chat_message "
   }
 ]
