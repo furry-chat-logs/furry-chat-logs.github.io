@@ -876,5 +876,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Smiley exactly",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7876560",
+    "type": "public",
+    "date": "10/05 13:14",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Wifies one more out of you and im calling home!",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7876561",
+    "type": "public",
+    "date": "10/05 13:14",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_de81a19de1f1.png]",
+    "msgClasses": "chat_message "
   }
 ]
