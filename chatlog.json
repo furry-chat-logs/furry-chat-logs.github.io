@@ -4374,5 +4374,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Porsche 911 Carrera Cabriolet  10/05 14:43 no",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876922",
+    "type": "public",
+    "date": "10/05 14:44",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Alright i",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
