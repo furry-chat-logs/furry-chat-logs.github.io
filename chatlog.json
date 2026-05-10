@@ -4974,5 +4974,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yea",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876982",
+    "type": "public",
+    "date": "10/05 15:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: XZOHPbgLIC41Xv7sHqGfw1z00&n=46803]",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876983",
+    "type": "public",
+    "date": "10/05 15:02",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "good night, or bye for the amaricans",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
