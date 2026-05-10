@@ -8022,5 +8022,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "That's crazy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877287",
+    "type": "public",
+    "date": "10/05 17:24",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon30 bnfont3",
+    "message": "Shura I did about 1.7 years ago",
+    "msgClasses": "chat_message bneon30  bfont3"
   }
 ]
