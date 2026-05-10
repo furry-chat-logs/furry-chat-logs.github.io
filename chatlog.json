@@ -3304,5 +3304,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Wait what happened",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876815",
+    "type": "public",
+    "date": "10/05 14:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I missed everything",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
