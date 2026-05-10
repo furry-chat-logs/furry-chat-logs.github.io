@@ -6722,5 +6722,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "like who?",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877157",
+    "type": "public",
+    "date": "10/05 16:35",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Wifies the age player that's here",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877158",
+    "type": "public",
+    "date": "10/05 16:35",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Why is the emoji italisazed (i cant spell pls help me)",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877159",
+    "type": "public",
+    "date": "10/05 16:35",
+    "username": "Parrot",
+    "userId": "16465",
+    "userClasses": "username bneon10 bnfont2",
+    "message": "im going to not choose the ego dialog choice",
+    "msgClasses": "chat_message bneon10 bold bfont2"
   }
 ]
