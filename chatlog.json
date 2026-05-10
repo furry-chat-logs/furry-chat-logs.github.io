@@ -446,5 +446,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Its like 7pm im waiting for dinner...",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876517",
+    "type": "public",
+    "date": "10/05 13:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Jive028 I talked bad about another furry chat site",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
