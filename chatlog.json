@@ -4754,5 +4754,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "dw nothing is worse than that",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876960",
+    "type": "public",
+    "date": "10/05 14:52",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "I aint done shit today",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876961",
+    "type": "public",
+    "date": "10/05 14:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[idontcare]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
