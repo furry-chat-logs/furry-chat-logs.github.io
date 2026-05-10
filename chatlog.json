@@ -2976,5 +2976,15 @@
     "userClasses": "username bgrad15 ",
     "message": "👀",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876782",
+    "type": "public",
+    "date": "10/05 14:10",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "They both are typically unwanted in a household",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
