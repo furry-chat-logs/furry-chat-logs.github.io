@@ -3534,5 +3534,15 @@
     "userClasses": "username bcolor28 ",
     "message": "CHICKEN",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876838",
+    "type": "public",
+    "date": "10/05 14:17",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sounds tasty",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
