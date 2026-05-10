@@ -3226,5 +3226,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Me and my girlfriend are gonna play warframe",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876807",
+    "type": "public",
+    "date": "10/05 14:13",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "So again, cry about it, or do something about it and block me",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
