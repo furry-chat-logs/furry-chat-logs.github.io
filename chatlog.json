@@ -4422,5 +4422,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Oh shoot mb",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7874936",
+    "type": "public",
+    "date": "9/05 22:54",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "EagleEdge Thought Processesing of a turtle with Alzheimer's",
+    "msgClasses": "chat_message bneon19  bfont8"
+  },
+  {
+    "id": "7874937",
+    "type": "public",
+    "date": "9/05 22:54",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I stepped on broken lightbulbs about 4 times [sob]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
