@@ -836,5 +836,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I don’t think you can get muted for cussing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876556",
+    "type": "public",
+    "date": "10/05 13:14",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "psychoboi_Togame fuck. you.",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
