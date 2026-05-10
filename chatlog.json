@@ -5274,5 +5274,15 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "Wifies Yass",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7877012",
+    "type": "public",
+    "date": "10/05 15:32",
+    "username": "Emilie",
+    "userId": "13635",
+    "userClasses": "username bneon21 bnfont10",
+    "message": "Is that fucking wifies",
+    "msgClasses": "chat_message bcolor24 heavyital bfont10"
   }
 ]
