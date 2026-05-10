@@ -726,5 +726,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": ".",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7876545",
+    "type": "public",
+    "date": "10/05 13:11",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Do it then",
+    "msgClasses": "chat_message "
   }
 ]
