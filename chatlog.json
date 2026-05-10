@@ -3854,5 +3854,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Unk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876870",
+    "type": "public",
+    "date": "10/05 14:24",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Unc??? 😭",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
