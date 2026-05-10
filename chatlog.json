@@ -216,5 +216,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "omg guys he called me his darling! [happy]",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7876491",
+    "type": "public",
+    "date": "10/05 13:02",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Baaaa",
+    "msgClasses": "chat_message "
   }
 ]
