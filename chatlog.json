@@ -6712,5 +6712,15 @@
     "userClasses": "username bneon10 bnfont2",
     "message": "i know bro",
     "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877156",
+    "type": "public",
+    "date": "10/05 16:35",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "like who?",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
