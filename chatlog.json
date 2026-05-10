@@ -6672,5 +6672,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "ngl Parrot has a nice voice tho",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877152",
+    "type": "public",
+    "date": "10/05 16:35",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877153",
+    "type": "public",
+    "date": "10/05 16:35",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "At least hr doesn't type like rainbowdashwdp U.U",
+    "msgClasses": "chat_message "
   }
 ]
