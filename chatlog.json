@@ -6392,5 +6392,15 @@
     "userClasses": "username bneon10 bnfont2",
     "message": "you are very lucky frogmin showed up",
     "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877124",
+    "type": "public",
+    "date": "10/05 16:28",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "are we sure",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
