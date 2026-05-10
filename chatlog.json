@@ -2286,5 +2286,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user1_d5c0e0e85cb4.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876713",
+    "type": "public",
+    "date": "10/05 13:57",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7876714",
+    "type": "public",
+    "date": "10/05 13:57",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
