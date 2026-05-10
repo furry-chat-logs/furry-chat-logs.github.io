@@ -5414,5 +5414,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "i lowk miss zen",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877026",
+    "type": "public",
+    "date": "10/05 15:38",
+    "username": "Emilie",
+    "userId": "13635",
+    "userClasses": "username bneon21 bnfont10",
+    "message": "Seven people got infected over a month, in a place where the population density can be upwards of 200 times that of new york",
+    "msgClasses": "chat_message bcolor24 heavyital bfont10"
   }
 ]
