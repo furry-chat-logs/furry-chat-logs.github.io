@@ -1246,5 +1246,15 @@
     "userClasses": "username bcolor28 ",
     "message": "[secret-share: 1508QYgoEpxTpTEUShiyS5G6G&n=46369]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876609",
+    "type": "public",
+    "date": "10/05 13:23",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Dose it",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
   }
 ]
