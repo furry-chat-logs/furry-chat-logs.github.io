@@ -3954,5 +3954,13 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Bye.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7874888",
+    "type": "system",
+    "date": "9/05 22:43",
+    "username": "System",
+    "userId": null,
+    "message": "WolfmannRL has been kicked"
   }
 ]
