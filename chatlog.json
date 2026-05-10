@@ -8482,5 +8482,15 @@
     "userClasses": "username bneon30 bnfont3",
     "message": "My back fell off",
     "msgClasses": "chat_message bneon30  bfont3"
+  },
+  {
+    "id": "7877333",
+    "type": "public",
+    "date": "10/05 17:59",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "😭💀",
+    "msgClasses": "chat_message "
   }
 ]
