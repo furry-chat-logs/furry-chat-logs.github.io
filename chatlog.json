@@ -7112,5 +7112,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Oop",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877196",
+    "type": "public",
+    "date": "10/05 17:00",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Shura nom nom",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
