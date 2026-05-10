@@ -5862,5 +5862,25 @@
     "userClasses": "username bneon10 bnfont2",
     "message": "its ok yur wifies all that maters",
     "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877071",
+    "type": "public",
+    "date": "10/05 16:13",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "i watch parrots videos more but i js didnt wanna be parrot😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877072",
+    "type": "public",
+    "date": "10/05 16:13",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "anyway",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
