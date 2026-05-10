@@ -4714,5 +4714,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Yeah, that day.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7876956",
+    "type": "public",
+    "date": "10/05 14:51",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Oh yeah",
+    "msgClasses": "chat_message bold"
   }
 ]
