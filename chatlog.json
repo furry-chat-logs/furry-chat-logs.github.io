@@ -1146,5 +1146,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "Unholyozzy linkin pork",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7876587",
+    "type": "public",
+    "date": "10/05 13:17",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Hi Roon",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
