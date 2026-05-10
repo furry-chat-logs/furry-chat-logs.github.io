@@ -4052,5 +4052,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Frogmin also half the peanut brains on here have never heard of an mp3 before",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7874898",
+    "type": "public",
+    "date": "9/05 22:50",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Additionally mp3 upload buttons are hideous.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
