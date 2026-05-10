@@ -1126,5 +1126,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "We",
     "msgClasses": "chat_message bcolor7 ital bfont9"
+  },
+  {
+    "id": "7876585",
+    "type": "public",
+    "date": "10/05 13:17",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "what is dirk talking about?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
