@@ -1266,5 +1266,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Work",
     "msgClasses": "chat_message bcolor7 ital bfont9"
+  },
+  {
+    "id": "7876611",
+    "type": "public",
+    "date": "10/05 13:23",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Hhhh.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
