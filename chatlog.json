@@ -3314,5 +3314,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I missed everything",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876816",
+    "type": "public",
+    "date": "10/05 14:14",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Miss divinities been kicked",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876817",
+    "type": "public",
+    "date": "10/05 14:14",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "New Kid They were being racist",
+    "msgClasses": "chat_message bold"
   }
 ]
