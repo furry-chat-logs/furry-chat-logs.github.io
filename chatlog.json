@@ -376,5 +376,15 @@
     "userClasses": "username bcolor28 ",
     "message": "cereal sounds so good rn",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876510",
+    "type": "public",
+    "date": "10/05 13:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Jive028 I did not expect being muted...",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
