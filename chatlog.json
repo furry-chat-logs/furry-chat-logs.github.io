@@ -5222,5 +5222,15 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "I am greed",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7875016",
+    "type": "public",
+    "date": "9/05 23:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "•.•",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
