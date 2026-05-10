@@ -3524,5 +3524,15 @@
     "userClasses": "username bcolor28 ",
     "message": "I had a buffalo chucken pizza today",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876837",
+    "type": "public",
+    "date": "10/05 14:17",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "CHICKEN",
+    "msgClasses": "chat_message bold"
   }
 ]
