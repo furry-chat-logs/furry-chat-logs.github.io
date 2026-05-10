@@ -1026,5 +1026,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Help!...",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876575",
+    "type": "public",
+    "date": "10/05 13:16",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wats going on",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
   }
 ]
