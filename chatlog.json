@@ -5682,5 +5682,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "rune tried hitting me with a car onve",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877053",
+    "type": "public",
+    "date": "10/05 15:55",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "*once",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
