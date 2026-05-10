@@ -2476,5 +2476,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Meep!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876732",
+    "type": "public",
+    "date": "10/05 14:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo I'm doing fine",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
