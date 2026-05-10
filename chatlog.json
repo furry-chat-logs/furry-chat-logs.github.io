@@ -7772,5 +7772,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Yaaaaawwnn",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7877262",
+    "type": "public",
+    "date": "10/05 17:12",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "liminal yawn",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
