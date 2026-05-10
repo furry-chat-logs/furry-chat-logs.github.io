@@ -3814,5 +3814,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Real.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7874874",
+    "type": "public",
+    "date": "9/05 22:39",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "I should tell frogmin",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
