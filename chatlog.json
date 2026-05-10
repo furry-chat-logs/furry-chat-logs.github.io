@@ -1436,5 +1436,15 @@
     "userClasses": "username user ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37005_5fc9b196fca0.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876628",
+    "type": "public",
+    "date": "10/05 13:33",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "c o u g h",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
