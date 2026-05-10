@@ -3404,5 +3404,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "😜🤣",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876825",
+    "type": "public",
+    "date": "10/05 14:15",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon30 bnfont3",
+    "message": "New Kid scroll up about 40 paces",
+    "msgClasses": "chat_message bneon30  bfont3"
   }
 ]
