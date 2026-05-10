@@ -5732,5 +5732,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "And it filtered me",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877058",
+    "type": "public",
+    "date": "10/05 16:08",
+    "username": "The Void",
+    "userId": "34239",
+    "userClasses": "username bgrad12 bnfont16",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user34239_bc28f14b5516.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
