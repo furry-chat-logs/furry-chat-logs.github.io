@@ -2726,5 +2726,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "You don't like black mold in your house.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7876757",
+    "type": "public",
+    "date": "10/05 14:06",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Buggo, just take a breath",
+    "msgClasses": "chat_message "
   }
 ]
