@@ -3394,5 +3394,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "What did they say??",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876824",
+    "type": "public",
+    "date": "10/05 14:15",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "😜🤣",
+    "msgClasses": "chat_message "
   }
 ]
