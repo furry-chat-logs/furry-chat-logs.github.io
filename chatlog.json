@@ -3684,5 +3684,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user1_c66f4722dec2.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876853",
+    "type": "public",
+    "date": "10/05 14:21",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I was responding to what you asked",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
