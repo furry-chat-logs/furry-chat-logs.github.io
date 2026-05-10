@@ -706,5 +706,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "i wanna play call of duty",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7876543",
+    "type": "public",
+    "date": "10/05 13:11",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You burned yours right",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
   }
 ]
