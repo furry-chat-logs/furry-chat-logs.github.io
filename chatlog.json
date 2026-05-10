@@ -6942,5 +6942,15 @@
     "userClasses": "username bneon30 bnfont3",
     "message": "The drought is here...",
     "msgClasses": "chat_message bneon30  bfont3"
+  },
+  {
+    "id": "7877179",
+    "type": "public",
+    "date": "10/05 16:43",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon30 bnfont3",
+    "message": "The chat is experiencing a period of drier-than-normal conditions.",
+    "msgClasses": "chat_message bneon30  bfont3"
   }
 ]
