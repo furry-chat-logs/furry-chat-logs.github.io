@@ -4692,5 +4692,15 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZGY5NHdhY201bzJhZDFmd3djc2tnbHQzbXQ2aXp5aGV2anI1MTVhMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9jVAv94PRzPoc/giphy.gif]",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7874963",
+    "type": "public",
+    "date": "9/05 23:18",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Tell me about it lol",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
