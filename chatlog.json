@@ -6972,5 +6972,15 @@
     "userClasses": "username bneon30 bnfont3",
     "message": "Smiley Thats a great solution! I shall ignore it because I'm lazy.",
     "msgClasses": "chat_message bneon30  bfont3"
+  },
+  {
+    "id": "7877182",
+    "type": "public",
+    "date": "10/05 16:46",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "That's relatable",
+    "msgClasses": "chat_message "
   }
 ]
