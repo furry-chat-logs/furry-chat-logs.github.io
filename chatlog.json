@@ -6612,5 +6612,15 @@
     "userClasses": "username bneon10 bnfont2",
     "message": "Frogmin thank you",
     "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877146",
+    "type": "public",
+    "date": "10/05 16:33",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Watchu talk like Wifies",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
