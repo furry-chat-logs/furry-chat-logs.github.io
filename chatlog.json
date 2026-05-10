@@ -3196,5 +3196,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Just turns out that was both.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7876804",
+    "type": "public",
+    "date": "10/05 14:13",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Bordem",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876805",
+    "type": "public",
+    "date": "10/05 14:13",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "NOT FUCKING GOOD",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876806",
+    "type": "public",
+    "date": "10/05 14:13",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Me and my girlfriend are gonna play warframe",
+    "msgClasses": "chat_message bold"
   }
 ]
