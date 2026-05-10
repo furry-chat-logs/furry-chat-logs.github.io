@@ -2886,5 +2886,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Its only been two.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7874784",
+    "type": "public",
+    "date": "9/05 22:15",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Its not spammage.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
