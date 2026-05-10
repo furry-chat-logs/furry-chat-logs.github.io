@@ -4154,5 +4154,45 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Sol_Aizawa foxy I think",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876900",
+    "type": "public",
+    "date": "10/05 14:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "New Kid nice",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876901",
+    "type": "public",
+    "date": "10/05 14:35",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Whats your favorite fnaf character10/05 20:33 big fan of rockstar foxy",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876902",
+    "type": "public",
+    "date": "10/05 14:35",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: XZOHPbgLIC41Xv7sHqGfw1z00&n=46803]",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876903",
+    "type": "public",
+    "date": "10/05 14:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "liminal OOH! nice one",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
