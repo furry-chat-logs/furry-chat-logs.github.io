@@ -2926,5 +2926,15 @@
     "message": "test",
     "usernameStyle": "bgrad4",
     "msgStyle": "bgrad4 bfont3"
+  },
+  {
+    "id": "7874792",
+    "type": "public",
+    "date": "9/05 22:17",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "message": "test 2",
+    "usernameStyle": "bgrad4",
+    "msgStyle": "bgrad4 bfont3"
   }
 ]
