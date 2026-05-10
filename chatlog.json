@@ -5044,5 +5044,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "ryry is that your birthday",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7876989",
+    "type": "public",
+    "date": "10/05 15:20",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Porphyrophobia the pose is frying me",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
