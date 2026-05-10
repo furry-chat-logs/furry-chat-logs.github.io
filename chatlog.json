@@ -5324,5 +5324,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "why💀",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877017",
+    "type": "public",
+    "date": "10/05 15:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Sup",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
