@@ -4014,5 +4014,25 @@
     "userClasses": "username bcolor28 ",
     "message": "Smiley lemme send a photo....",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876886",
+    "type": "public",
+    "date": "10/05 14:33",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user484_9012db82b121.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876887",
+    "type": "public",
+    "date": "10/05 14:33",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Kk",
+    "msgClasses": "chat_message "
   }
 ]
