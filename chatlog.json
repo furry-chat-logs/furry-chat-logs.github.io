@@ -8582,5 +8582,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "Voice message",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877402",
+    "type": "public",
+    "date": "10/05 18:21",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "since when is sharkish back..?😨",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
