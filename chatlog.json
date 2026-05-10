@@ -3334,5 +3334,25 @@
     "userClasses": "username bcolor28 ",
     "message": "New Kid They were being racist",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876818",
+    "type": "public",
+    "date": "10/05 14:14",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Omf",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876819",
+    "type": "public",
+    "date": "10/05 14:14",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nothing",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
