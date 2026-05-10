@@ -2426,5 +2426,15 @@
     "userClasses": "username bgrad15 ",
     "message": "New Kid Hii",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876727",
+    "type": "public",
+    "date": "10/05 14:00",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Wassup ma dude!?",
+    "msgClasses": "chat_message "
   }
 ]
