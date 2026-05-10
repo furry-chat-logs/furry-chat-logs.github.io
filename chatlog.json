@@ -2916,5 +2916,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Really Liminal!? Welp the more u know",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876776",
+    "type": "public",
+    "date": "10/05 14:09",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lock my money",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
