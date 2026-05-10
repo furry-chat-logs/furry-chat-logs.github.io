@@ -436,5 +436,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I got muted for 3 hours, tough frogmin lifted the mute",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876516",
+    "type": "public",
+    "date": "10/05 13:05",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Its like 7pm im waiting for dinner...",
+    "msgClasses": "chat_message bold"
   }
 ]
