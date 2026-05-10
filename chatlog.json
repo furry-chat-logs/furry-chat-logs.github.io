@@ -296,5 +296,15 @@
     "userClasses": "username bcolor28 ",
     "message": "yyyaaaaaawwwn",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876502",
+    "type": "public",
+    "date": "10/05 13:03",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Is that a woof?",
+    "msgClasses": "chat_message "
   }
 ]
