@@ -3636,5 +3636,15 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "Miss Divinity OOHHH, I SEE ITTT",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7874855",
+    "type": "public",
+    "date": "9/05 22:29",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Camellia bro [skull]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
