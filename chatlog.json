@@ -7782,5 +7782,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "liminal yawn",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877263",
+    "type": "public",
+    "date": "10/05 17:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Wifies what",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
