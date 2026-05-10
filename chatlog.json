@@ -3564,5 +3564,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I had leftovers today... You ate food that is way better",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876841",
+    "type": "public",
+    "date": "10/05 14:18",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Hi, welcome to Chillis!",
+    "msgClasses": "chat_message "
   }
 ]
