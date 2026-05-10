@@ -1166,5 +1166,25 @@
     "userClasses": "username bgrad7 bnfont8",
     "message": "Ash٭ my shit fr fr",
     "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7876589",
+    "type": "public",
+    "date": "10/05 13:18",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wat gust happened",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
+  },
+  {
+    "id": "7876590",
+    "type": "public",
+    "date": "10/05 13:18",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "Unholyozzy like im close to something real???",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
