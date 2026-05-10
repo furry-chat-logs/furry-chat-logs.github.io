@@ -1896,5 +1896,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "liminal he doesn't look a day over 13 </3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876674",
+    "type": "public",
+    "date": "10/05 13:42",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username user ",
+    "message": "liminal He looks as old as me (not 19)",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
