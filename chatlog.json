@@ -896,5 +896,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_de81a19de1f1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876562",
+    "type": "public",
+    "date": "10/05 13:14",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Boo",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
   }
 ]
