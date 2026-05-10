@@ -5712,5 +5712,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "sy bau",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877056",
+    "type": "public",
+    "date": "10/05 16:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I said that onve",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
