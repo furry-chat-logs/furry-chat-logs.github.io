@@ -2376,5 +2376,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Gang i have a question",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876722",
+    "type": "public",
+    "date": "10/05 13:59",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "whats your question",
+    "msgClasses": "chat_message bold"
   }
 ]
