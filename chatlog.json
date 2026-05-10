@@ -1,1 +1,200 @@
-
+[
+  {
+    "id": "7876466",
+    "type": "public",
+    "date": "10/05 12:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Nikodem plus, tan upload",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876467",
+    "type": "public",
+    "date": "10/05 12:58",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Ye furries!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876468",
+    "type": "public",
+    "date": "10/05 12:58",
+    "username": "Leon Kennedy",
+    "userId": "35934",
+    "userClasses": "username bgrad32 bnfont10",
+    "message": "Jive028 I don't think I've seen u before",
+    "msgClasses": "chat_message bgrad32  bfont7"
+  },
+  {
+    "id": "7876469",
+    "type": "public",
+    "date": "10/05 12:59",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Same",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876470",
+    "type": "system",
+    "date": "10/05 12:59",
+    "username": "System",
+    "userId": null,
+    "message": "Sol_Aizawa has been muted"
+  },
+  {
+    "id": "7876471",
+    "type": "public",
+    "date": "10/05 12:59",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Wo",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876472",
+    "type": "public",
+    "date": "10/05 12:59",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "OMG!!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876473",
+    "type": "public",
+    "date": "10/05 12:59",
+    "username": "Leon Kennedy",
+    "userId": "35934",
+    "userClasses": "username bgrad32 bnfont10",
+    "message": "?",
+    "msgClasses": "chat_message bgrad32  bfont7"
+  },
+  {
+    "id": "7876474",
+    "type": "public",
+    "date": "10/05 13:00",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "yawnyawnyawn",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876475",
+    "type": "public",
+    "date": "10/05 13:00",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Aizawa been kicked",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876476",
+    "type": "public",
+    "date": "10/05 13:00",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_405f93106f92.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876477",
+    "type": "public",
+    "date": "10/05 13:00",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Wat da yawn for",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876478",
+    "type": "public",
+    "date": "10/05 13:01",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "yaaaawn yawn",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876479",
+    "type": "public",
+    "date": "10/05 13:01",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "!?!?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876480",
+    "type": "public",
+    "date": "10/05 13:01",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Grahjj",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7876481",
+    "type": "public",
+    "date": "10/05 13:02",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Wb nox",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876482",
+    "type": "public",
+    "date": "10/05 13:02",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Im sleepy ajd cold bruh",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876483",
+    "type": "public",
+    "date": "10/05 13:02",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "is that my goat Nøx ?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7876485",
+    "type": "public",
+    "date": "10/05 13:02",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Jive028 ty mate",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7876487",
+    "type": "public",
+    "date": "10/05 13:02",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "psychoboi_Togame it is indeed my darling",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  }
+]
