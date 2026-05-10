@@ -8752,5 +8752,35 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "I don't do work at school or home💔✌🏻",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877420",
+    "type": "public",
+    "date": "10/05 18:34",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Bro I wanna play Minecraft 😭💔",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877421",
+    "type": "public",
+    "date": "10/05 18:35",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i have 2 b's and 4 a's </3",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7877422",
+    "type": "public",
+    "date": "10/05 18:35",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I try to do it at school but im always tired or worrying over something pointless to the point where i cant work",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
