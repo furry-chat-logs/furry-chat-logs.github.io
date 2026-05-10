@@ -1296,5 +1296,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Why are you doing this 10/05 19:22 Why not? I enjoy answering questions!!",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876614",
+    "type": "public",
+    "date": "10/05 13:25",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Is that THE JustAnAnt",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
