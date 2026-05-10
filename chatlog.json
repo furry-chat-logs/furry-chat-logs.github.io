@@ -1306,5 +1306,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Is that THE JustAnAnt",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7876615",
+    "type": "public",
+    "date": "10/05 13:25",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_9eef108c104d.png]",
+    "msgClasses": "chat_message "
   }
 ]
