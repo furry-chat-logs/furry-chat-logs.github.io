@@ -5182,5 +5182,15 @@
     "userClasses": "username bcolor22 bnfont16",
     "message": "Chilling",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7875012",
+    "type": "public",
+    "date": "9/05 23:43",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Y'all I got my first job interview on Tuesday",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
