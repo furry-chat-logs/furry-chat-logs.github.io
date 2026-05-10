@@ -2816,5 +2816,15 @@
     "message": "0G Stupendous Man Yww :p",
     "usernameStyle": "bneon14 bnfont6",
     "msgStyle": "bneon32 bold bfont13"
+  },
+  {
+    "id": "7874775",
+    "type": "public",
+    "date": "9/05 22:11",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 ",
+    "message": "test 4",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
