@@ -4382,5 +4382,15 @@
     "userClasses": "username bgrad7 bnfont8",
     "message": "Ouch",
     "msgClasses": "chat_message bneon19  bfont8"
+  },
+  {
+    "id": "7874932",
+    "type": "public",
+    "date": "9/05 22:53",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Is that possible",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
