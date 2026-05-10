@@ -2406,5 +2406,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yo",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876725",
+    "type": "public",
+    "date": "10/05 14:00",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "liminal How do you get attention without being annoying or guilt trippy or bad or anything negative",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
