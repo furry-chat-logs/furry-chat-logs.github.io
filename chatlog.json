@@ -4214,5 +4214,15 @@
     "userClasses": "username bcolor28 ",
     "message": "It's encoded I think",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876906",
+    "type": "public",
+    "date": "10/05 14:36",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "I got the same message LOL",
+    "msgClasses": "chat_message bold"
   }
 ]
