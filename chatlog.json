@@ -1446,5 +1446,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "c o u g h",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7876629",
+    "type": "public",
+    "date": "10/05 13:33",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon30 bnfont3",
+    "message": "k",
+    "msgClasses": "chat_message bneon30  bfont3"
   }
 ]
