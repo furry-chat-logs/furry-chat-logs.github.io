@@ -226,5 +226,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Baaaa",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876492",
+    "type": "public",
+    "date": "10/05 13:02",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Aww",
+    "msgClasses": "chat_message "
   }
 ]
