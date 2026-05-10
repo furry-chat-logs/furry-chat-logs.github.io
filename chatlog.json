@@ -5782,5 +5782,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "gasp",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877063",
+    "type": "public",
+    "date": "10/05 16:10",
+    "username": "Parrot",
+    "userId": "16465",
+    "userClasses": "username bneon10 bnfont2",
+    "message": "are you larping",
+    "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877064",
+    "type": "public",
+    "date": "10/05 16:11",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
