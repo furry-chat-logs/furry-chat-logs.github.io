@@ -1136,5 +1136,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "what is dirk talking about?",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7876586",
+    "type": "public",
+    "date": "10/05 13:17",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "Unholyozzy linkin pork",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
