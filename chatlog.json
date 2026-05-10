@@ -246,5 +246,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "ka",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7876495",
+    "type": "public",
+    "date": "10/05 13:03",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "anyway",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7876496",
+    "type": "public",
+    "date": "10/05 13:03",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Mm yes indubitably 🧐",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
