@@ -8512,5 +8512,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "*dance party*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877390",
+    "type": "public",
+    "date": "10/05 18:20",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "For no reason",
+    "msgClasses": "chat_message "
   }
 ]
