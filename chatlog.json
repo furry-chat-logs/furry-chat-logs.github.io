@@ -2526,5 +2526,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Finally",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7876737",
+    "type": "public",
+    "date": "10/05 14:03",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_dd01b3502daf.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
