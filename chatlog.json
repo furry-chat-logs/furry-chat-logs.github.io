@@ -4942,5 +4942,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Like where did a bunch of the people go?",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7874988",
+    "type": "public",
+    "date": "9/05 23:30",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Oh might be since we getting closer to finals",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7874989",
+    "type": "public",
+    "date": "9/05 23:30",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon14 bnfont6",
+    "message": "EagleEdge Idk 💔",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
