@@ -4472,5 +4472,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcTl2cmg0YWNtbmZwcWR5NHI4aWd6eWIycnQ0MHN4MTY2bzF5ZW9xdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cmmBPkrdGdnxlApKF1/giphy.gif]",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7874941",
+    "type": "public",
+    "date": "9/05 22:55",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Miss Divinity WHAT",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7874942",
+    "type": "public",
+    "date": "9/05 22:55",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "Okay maybe not 1 foot",
+    "msgClasses": "chat_message bneon19  bfont8"
   }
 ]
