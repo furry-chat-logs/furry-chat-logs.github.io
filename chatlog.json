@@ -4324,5 +4324,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Porsche 911 GT3RS 10/05 20:39 1995 Ford Fiesta",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876917",
+    "type": "public",
+    "date": "10/05 14:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: XZOHPbgLIC41Xv7sHqGfw1z00&n=46803]",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
