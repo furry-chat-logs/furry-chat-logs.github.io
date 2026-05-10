@@ -5464,5 +5464,15 @@
     "userClasses": "username bneon21 bnfont10",
     "message": "Thats why covid was so bad, because it wasn't that deadly",
     "msgClasses": "chat_message bcolor24 heavyital bfont10"
+  },
+  {
+    "id": "7877031",
+    "type": "public",
+    "date": "10/05 15:47",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yea",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
