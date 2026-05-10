@@ -3704,5 +3704,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "liminal Here it is. $92 well spent.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7876855",
+    "type": "public",
+    "date": "10/05 14:21",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Oh my god thank you",
+    "msgClasses": "chat_message bold"
   }
 ]
