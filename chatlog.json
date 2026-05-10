@@ -236,5 +236,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Aww",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876493",
+    "type": "public",
+    "date": "10/05 13:03",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "ka",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
