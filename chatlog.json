@@ -6282,5 +6282,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Parrot ...",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877113",
+    "type": "public",
+    "date": "10/05 16:27",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "zenpai",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877114",
+    "type": "public",
+    "date": "10/05 16:27",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "anyway",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
