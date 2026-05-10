@@ -1406,5 +1406,15 @@
     "userClasses": "username bgrad12 bnfont8",
     "message": "Test",
     "msgClasses": "chat_message bneon32  bfont8"
+  },
+  {
+    "id": "7876625",
+    "type": "public",
+    "date": "10/05 13:29",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Miss Divinity cool profile",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
