@@ -1676,5 +1676,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Really why is he doing that for?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876652",
+    "type": "public",
+    "date": "10/05 13:37",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lock",
+    "msgClasses": "chat_message bgrad11 heavybold bfont13"
   }
 ]
