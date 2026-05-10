@@ -7962,5 +7962,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Porphyrophobia yeah we're in LV for a little vacay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877281",
+    "type": "public",
+    "date": "10/05 17:19",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "fantavirus",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877282",
+    "type": "public",
+    "date": "10/05 17:19",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I wanna go home",
+    "msgClasses": "chat_message "
   }
 ]
