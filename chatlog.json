@@ -4344,5 +4344,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Buggo I BELIEVE!!! I BELIEVE!!",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876919",
+    "type": "public",
+    "date": "10/05 14:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ss boring fr",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
