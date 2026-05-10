@@ -2166,5 +2166,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Really? Omg! Speartons lets fly!!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876701",
+    "type": "public",
+    "date": "10/05 13:51",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I am not excited for summer chat. I may die.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
