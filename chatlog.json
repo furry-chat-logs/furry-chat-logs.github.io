@@ -7292,5 +7292,65 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "It's alr",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877214",
+    "type": "public",
+    "date": "10/05 17:06",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Shura wait do you remember a Moon",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877215",
+    "type": "public",
+    "date": "10/05 17:06",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "moonishiki",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877216",
+    "type": "public",
+    "date": "10/05 17:06",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "something like that",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877217",
+    "type": "public",
+    "date": "10/05 17:06",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "I'm not sure, I haven't been on here in a few years",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877218",
+    "type": "public",
+    "date": "10/05 17:06",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "WAIT HOW DO YOU SPELL IT💀",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877219",
+    "type": "public",
+    "date": "10/05 17:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Shura Oh?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
