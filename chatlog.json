@@ -8672,5 +8672,55 @@
     "userClasses": "username bgrad15 ",
     "message": "Hey gays watcha doin",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877412",
+    "type": "public",
+    "date": "10/05 18:32",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Nothing much",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877413",
+    "type": "public",
+    "date": "10/05 18:32",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "Buggo school work i didnt do at school </3",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7877414",
+    "type": "public",
+    "date": "10/05 18:33",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Ash٭ I just dont do it period.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877415",
+    "type": "public",
+    "date": "10/05 18:33",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "If i didnt do it at school,no way im doing it at home.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877416",
+    "type": "public",
+    "date": "10/05 18:33",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i care abt my grades </3",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
