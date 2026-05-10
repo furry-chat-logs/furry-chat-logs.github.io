@@ -4404,5 +4404,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Hai!",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7876925",
+    "type": "public",
+    "date": "10/05 14:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Miss Divinity hi",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
