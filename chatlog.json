@@ -4124,5 +4124,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "New Kid wich of the tree",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876897",
+    "type": "public",
+    "date": "10/05 14:34",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Baaa",
+    "msgClasses": "chat_message "
   }
 ]
