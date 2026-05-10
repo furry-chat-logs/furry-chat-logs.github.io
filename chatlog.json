@@ -5334,5 +5334,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Sup",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877018",
+    "type": "public",
+    "date": "10/05 15:34",
+    "username": "Emilie",
+    "userId": "13635",
+    "userClasses": "username bneon21 bnfont10",
+    "message": "Keeps saying how hantavirus is gonna be so dangerous",
+    "msgClasses": "chat_message bcolor24 heavyital bfont10"
   }
 ]
