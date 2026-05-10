@@ -1766,5 +1766,15 @@
     "userClasses": "username bcolor28 ",
     "message": "who",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876661",
+    "type": "public",
+    "date": "10/05 13:40",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Video u sent",
+    "msgClasses": "chat_message "
   }
 ]
