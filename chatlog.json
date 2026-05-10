@@ -8312,5 +8312,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Now your left with so little",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877316",
+    "type": "public",
+    "date": "10/05 17:32",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "because i dont need them😭",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
