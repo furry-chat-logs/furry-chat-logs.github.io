@@ -386,5 +386,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Jive028 I did not expect being muted...",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876511",
+    "type": "public",
+    "date": "10/05 13:05",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Why??",
+    "msgClasses": "chat_message "
   }
 ]
