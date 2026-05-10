@@ -6042,5 +6042,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "well i just started recently but yeah",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877089",
+    "type": "public",
+    "date": "10/05 16:23",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877090",
+    "type": "public",
+    "date": "10/05 16:23",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Nvm can't find it",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
