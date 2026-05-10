@@ -3894,5 +3894,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[secret-share: XZOHPbgLIC41Xv7sHqGfw1z00&n=46803] SS open for business",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876874",
+    "type": "public",
+    "date": "10/05 14:29",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_762a0ef78db7.png]",
+    "msgClasses": "chat_message "
   }
 ]
