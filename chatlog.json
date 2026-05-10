@@ -4752,5 +4752,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "HAGAGAHAHGAHA [totallove] [totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7874969",
+    "type": "public",
+    "date": "9/05 23:20",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnRjNXkwb2t4Ymp6eWxhaWJzYXppcXJ3bmU5b3NoOTBvZG95bHY5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8nMtjewFTWxTQAjjKQ/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
