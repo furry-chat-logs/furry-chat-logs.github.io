@@ -6152,5 +6152,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "LMAO",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877100",
+    "type": "public",
+    "date": "10/05 16:24",
+    "username": "Parrot",
+    "userId": "16465",
+    "userClasses": "username bneon10 bnfont2",
+    "message": "[runefaust]",
+    "msgClasses": "chat_message bneon10 bold bfont2"
   }
 ]
