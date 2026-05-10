@@ -4892,5 +4892,15 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "LMFAO",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7874983",
+    "type": "public",
+    "date": "9/05 23:28",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Bro this chat been so dead lately",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
