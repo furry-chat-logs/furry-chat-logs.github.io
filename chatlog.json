@@ -1276,5 +1276,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Hhhh.",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7876612",
+    "type": "public",
+    "date": "10/05 13:23",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ash٭",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
   }
 ]
