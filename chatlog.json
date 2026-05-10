@@ -5444,5 +5444,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "What",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877029",
+    "type": "public",
+    "date": "10/05 15:41",
+    "username": "Emilie",
+    "userId": "13635",
+    "userClasses": "username bneon21 bnfont10",
+    "message": "Pandemics don't just happen every time a deadly virus has an outbreak",
+    "msgClasses": "chat_message bcolor24 heavyital bfont10"
   }
 ]
