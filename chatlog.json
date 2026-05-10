@@ -7692,5 +7692,55 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "??",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877254",
+    "type": "public",
+    "date": "10/05 17:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Shura Yep",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7877255",
+    "type": "public",
+    "date": "10/05 17:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I still do 🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7877256",
+    "type": "public",
+    "date": "10/05 17:11",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_ffd4c4c59e7f.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877257",
+    "type": "public",
+    "date": "10/05 17:11",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "I .ight have you on my old account, I can't get on it tho, my email stopped working 💔",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877258",
+    "type": "public",
+    "date": "10/05 17:11",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "I might*",
+    "msgClasses": "chat_message "
   }
 ]
