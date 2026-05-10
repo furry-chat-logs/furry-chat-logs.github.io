@@ -3736,5 +3736,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Ok.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7874866",
+    "type": "public",
+    "date": "9/05 22:37",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Bio update.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
