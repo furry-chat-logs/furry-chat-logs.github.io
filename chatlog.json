@@ -3794,5 +3794,25 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Buggo, to who",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876864",
+    "type": "public",
+    "date": "10/05 14:23",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "2 u",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876865",
+    "type": "public",
+    "date": "10/05 14:23",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Owe money",
+    "msgClasses": "chat_message "
   }
 ]
