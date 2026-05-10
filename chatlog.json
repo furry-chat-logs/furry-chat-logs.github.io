@@ -2706,5 +2706,25 @@
     "userClasses": "username bcolor28 ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMTdveHk2bWt1OGs1M2pqNm5uOXpmc2pqdnFveDRtN3Y4bDZvbTF6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/na0jdRNxcgHFYqOASF/giphy.gif]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876755",
+    "type": "public",
+    "date": "10/05 14:06",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "What's the difference between normal mold and black mold?",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7876756",
+    "type": "public",
+    "date": "10/05 14:06",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "You don't like black mold in your house.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
