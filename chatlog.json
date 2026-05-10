@@ -6402,5 +6402,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "are we sure",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877125",
+    "type": "public",
+    "date": "10/05 16:29",
+    "username": "Parrot",
+    "userId": "16465",
+    "userClasses": "username bneon10 bnfont2",
+    "message": "are you sure",
+    "msgClasses": "chat_message bneon10 bold bfont2"
   }
 ]
