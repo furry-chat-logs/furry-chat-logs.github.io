@@ -3526,5 +3526,15 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "Miss Divinity Who 😭",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7874842",
+    "type": "public",
+    "date": "9/05 22:27",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "My ears dawg",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
