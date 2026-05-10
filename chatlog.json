@@ -3494,5 +3494,15 @@
     "userClasses": "username bcolor28 ",
     "message": "in like a sandwich🤤🤤🤤🤤",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876834",
+    "type": "public",
+    "date": "10/05 14:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I had a bacon cheeseburger from chili's today",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
