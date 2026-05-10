@@ -4414,5 +4414,45 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Miss Divinity hi",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876926",
+    "type": "public",
+    "date": "10/05 14:45",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "New Kid how're you?",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7876927",
+    "type": "public",
+    "date": "10/05 14:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Heyo, pls look at the friends wall",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876928",
+    "type": "public",
+    "date": "10/05 14:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Miss Divinity good hru",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876929",
+    "type": "public",
+    "date": "10/05 14:46",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I'm doing good!",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
