@@ -6022,5 +6022,15 @@
     "userClasses": "username bneon10 bnfont2",
     "message": "holy peak",
     "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877087",
+    "type": "public",
+    "date": "10/05 16:22",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "ye",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
