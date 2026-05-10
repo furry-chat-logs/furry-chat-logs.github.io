@@ -3414,5 +3414,15 @@
     "userClasses": "username bneon30 bnfont3",
     "message": "New Kid scroll up about 40 paces",
     "msgClasses": "chat_message bneon30  bfont3"
+  },
+  {
+    "id": "7876826",
+    "type": "public",
+    "date": "10/05 14:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Is she permanently cict",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
