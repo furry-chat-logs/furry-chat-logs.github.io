@@ -3264,5 +3264,15 @@
     "username": "System",
     "userId": null,
     "message": "Miss Divinity has been kicked"
+  },
+  {
+    "id": "7876811",
+    "type": "public",
+    "date": "10/05 14:13",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "👍",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
