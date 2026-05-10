@@ -3734,5 +3734,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Hours",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876858",
+    "type": "public",
+    "date": "10/05 14:21",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "I might try adding my fursona to tomodachi life",
+    "msgClasses": "chat_message bold"
   }
 ]
