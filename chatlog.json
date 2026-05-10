@@ -3156,5 +3156,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "No",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876800",
+    "type": "public",
+    "date": "10/05 14:12",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Okay but theres a difference between dark humor and racist humor",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
