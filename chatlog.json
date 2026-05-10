@@ -1816,5 +1816,15 @@
     "userClasses": "username user ",
     "message": "Woah",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876666",
+    "type": "public",
+    "date": "10/05 13:40",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "He looks like he's 12",
+    "msgClasses": "chat_message "
   }
 ]
