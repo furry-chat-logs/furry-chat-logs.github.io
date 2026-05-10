@@ -2446,5 +2446,15 @@
     "userClasses": "username bneon30 bnfont3",
     "message": "Medokin not quite",
     "msgClasses": "chat_message bneon30  bfont3"
+  },
+  {
+    "id": "7876729",
+    "type": "public",
+    "date": "10/05 14:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo heya",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
