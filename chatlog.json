@@ -2536,5 +2536,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_dd01b3502daf.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876738",
+    "type": "public",
+    "date": "10/05 14:03",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "That's cool",
+    "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7876739",
+    "type": "public",
+    "date": "10/05 14:03",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "U make that?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876740",
+    "type": "public",
+    "date": "10/05 14:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo ah",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
