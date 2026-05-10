@@ -1636,5 +1636,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Buggo Going through inspect element and spamming things until he could find something that would annoy people or cause issues.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7876648",
+    "type": "public",
+    "date": "10/05 13:37",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Ive already had mine Liminal",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876649",
+    "type": "public",
+    "date": "10/05 13:37",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username user ",
+    "message": "Ohh",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
