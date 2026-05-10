@@ -5992,5 +5992,25 @@
     "userClasses": "username bneon10 bnfont2",
     "message": "Wifies wait you what",
     "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877084",
+    "type": "public",
+    "date": "10/05 16:22",
+    "username": "Parrot",
+    "userId": "16465",
+    "userClasses": "username bneon10 bnfont2",
+    "message": "you watch parrot",
+    "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877085",
+    "type": "public",
+    "date": "10/05 16:22",
+    "username": "Parrot",
+    "userId": "16465",
+    "userClasses": "username bneon10 bnfont2",
+    "message": "?",
+    "msgClasses": "chat_message bneon10 bold bfont2"
   }
 ]
