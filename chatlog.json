@@ -3444,5 +3444,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Why ms divinity why!?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876829",
+    "type": "public",
+    "date": "10/05 14:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oooohh..",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
