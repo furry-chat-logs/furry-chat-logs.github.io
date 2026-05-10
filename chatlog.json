@@ -5392,5 +5392,15 @@
     "userClasses": "username bgrad4 ",
     "message": "Perhaps my stupid question scared them away",
     "msgClasses": "chat_message bgrad4  bfont3"
+  },
+  {
+    "id": "7875033",
+    "type": "public",
+    "date": "10/05 0:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[sob]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
