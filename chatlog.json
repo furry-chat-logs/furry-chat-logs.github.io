@@ -2996,5 +2996,25 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Buggo no means of freaking you out, but mold can kill",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876784",
+    "type": "public",
+    "date": "10/05 14:10",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Can you say that...",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876785",
+    "type": "public",
+    "date": "10/05 14:10",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Sorry dark humor.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
