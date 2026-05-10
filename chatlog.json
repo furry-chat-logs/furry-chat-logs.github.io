@@ -8182,5 +8182,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "sy.bau",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877303",
+    "type": "public",
+    "date": "10/05 17:30",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Wifies who are you telling to sybau",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7877304",
+    "type": "public",
+    "date": "10/05 17:30",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "the general public",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877305",
+    "type": "public",
+    "date": "10/05 17:30",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😌",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
