@@ -8082,5 +8082,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "How does one see someone's full friend list",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877293",
+    "type": "public",
+    "date": "10/05 17:25",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "💀",
+    "msgClasses": "chat_message "
   }
 ]
