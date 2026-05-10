@@ -496,5 +496,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nom nom",
     "msgClasses": "chat_message bcolor7 ital bfont9"
+  },
+  {
+    "id": "7876522",
+    "type": "public",
+    "date": "10/05 13:08",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Ash٭ did u ask her out?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
