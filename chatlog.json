@@ -636,5 +636,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Ash٭ bbq bacon burger",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7876536",
+    "type": "public",
+    "date": "10/05 13:10",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Yummy!!",
+    "msgClasses": "chat_message "
   }
 ]
