@@ -826,5 +826,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Minecraft!!! Finally someone who loves Minecraft",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876555",
+    "type": "public",
+    "date": "10/05 13:14",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I don’t think you can get muted for cussing",
+    "msgClasses": "chat_message "
   }
 ]
