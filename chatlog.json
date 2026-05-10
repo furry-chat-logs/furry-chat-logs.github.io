@@ -986,5 +986,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "rune is to short",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7876571",
+    "type": "public",
+    "date": "10/05 13:16",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "What?",
+    "msgClasses": "chat_message "
   }
 ]
