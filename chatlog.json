@@ -3764,5 +3764,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Negative 15 dollars to my name (i owe someone money)",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876861",
+    "type": "public",
+    "date": "10/05 14:23",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Everyone. Ive got a new phrase now, O My Fur!",
+    "msgClasses": "chat_message "
   }
 ]
