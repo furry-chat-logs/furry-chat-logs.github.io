@@ -2736,5 +2736,25 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Buggo, just take a breath",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876758",
+    "type": "public",
+    "date": "10/05 14:07",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_2fe72153c3a4.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876759",
+    "type": "public",
+    "date": "10/05 14:07",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Its ok Buggo",
+    "msgClasses": "chat_message "
   }
 ]
