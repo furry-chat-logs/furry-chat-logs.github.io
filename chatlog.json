@@ -5474,5 +5474,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yea",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877032",
+    "type": "public",
+    "date": "10/05 15:47",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Hello everyone",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
