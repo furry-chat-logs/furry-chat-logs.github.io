@@ -666,5 +666,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Jive028 NOT FOR YOU!",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7876539",
+    "type": "public",
+    "date": "10/05 13:11",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Nikodem what do you mean?",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876540",
+    "type": "public",
+    "date": "10/05 13:11",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "oop",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
