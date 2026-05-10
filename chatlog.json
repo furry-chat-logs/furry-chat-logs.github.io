@@ -4784,5 +4784,65 @@
     "userClasses": "username bcolor28 ",
     "message": "(in the uk its in 5 days)",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876963",
+    "type": "public",
+    "date": "10/05 14:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Buggo pls dm it to me, I gotta go [cry]",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876964",
+    "type": "public",
+    "date": "10/05 14:53",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I hate today so much",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7876965",
+    "type": "public",
+    "date": "10/05 14:53",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_19ac539342ef.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876966",
+    "type": "public",
+    "date": "10/05 14:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Buggo OOH it so good",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876967",
+    "type": "public",
+    "date": "10/05 14:54",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "yay!",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876968",
+    "type": "public",
+    "date": "10/05 14:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Buggo I cannot even draw a cat if my life depended on it...",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
