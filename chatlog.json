@@ -1956,5 +1956,45 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Eh?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876680",
+    "type": "public",
+    "date": "10/05 13:43",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": ":p",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876681",
+    "type": "public",
+    "date": "10/05 13:44",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "urgh... I just heard an audio of william afton when he got springlocked, never again",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876682",
+    "type": "public",
+    "date": "10/05 13:44",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Anyone know Stick War?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876683",
+    "type": "public",
+    "date": "10/05 13:44",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Afk im about to throw up bc i havent eaten today brb",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
