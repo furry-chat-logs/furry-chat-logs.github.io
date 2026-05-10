@@ -3884,5 +3884,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "The ok meme",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876873",
+    "type": "public",
+    "date": "10/05 14:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: XZOHPbgLIC41Xv7sHqGfw1z00&n=46803] SS open for business",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
