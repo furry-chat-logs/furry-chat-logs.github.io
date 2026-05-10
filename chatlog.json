@@ -8502,5 +8502,15 @@
     "userClasses": "username bcolor32 bnfont7",
     "message": "Every Guitar Hero player's worst nightmare [link: https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA?si=a8iCXyFITdiU1BxFIClhXg]",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7877388",
+    "type": "public",
+    "date": "10/05 18:20",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "*dance party*",
+    "msgClasses": "chat_message "
   }
 ]
