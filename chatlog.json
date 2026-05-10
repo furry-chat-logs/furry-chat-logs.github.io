@@ -3824,5 +3824,15 @@
     "userClasses": "username bgrad15 ",
     "message": "OH",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876867",
+    "type": "public",
+    "date": "10/05 14:24",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Someone irl",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
