@@ -4844,5 +4844,45 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Buggo I cannot even draw a cat if my life depended on it...",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876969",
+    "type": "public",
+    "date": "10/05 14:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "tough I am proud about my commision for Mr-Shark",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876970",
+    "type": "public",
+    "date": "10/05 14:55",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "he put it as pfp",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876971",
+    "type": "public",
+    "date": "10/05 14:55",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user484_9588f0c3ddf9.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876972",
+    "type": "public",
+    "date": "10/05 14:55",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "dudeits like 10 days till comiccon",
+    "msgClasses": "chat_message bold"
   }
 ]
