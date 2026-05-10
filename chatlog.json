@@ -2916,5 +2916,15 @@
     "userClasses": "username bgrad7 bnfont8",
     "message": "PFFT I know I'm just being a dick ;3",
     "msgClasses": "chat_message bneon19  bfont8"
+  },
+  {
+    "id": "7874787",
+    "type": "public",
+    "date": "9/05 22:16",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "message": "test",
+    "usernameStyle": "bgrad4",
+    "msgStyle": "bgrad4 bfont3"
   }
 ]
