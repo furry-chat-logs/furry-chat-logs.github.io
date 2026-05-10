@@ -3686,5 +3686,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Ram3n yo I really like this one",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7874860",
+    "type": "public",
+    "date": "9/05 22:30",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "EagleEdge lol",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
