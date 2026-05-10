@@ -3656,5 +3656,15 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "Witherborne.MP3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7874857",
+    "type": "public",
+    "date": "9/05 22:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bleh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
