@@ -1386,5 +1386,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_bd0808b8c879.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876623",
+    "type": "public",
+    "date": "10/05 13:29",
+    "username": "The New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Nice.",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7876624",
+    "type": "public",
+    "date": "10/05 13:29",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bgrad12 bnfont8",
+    "message": "Test",
+    "msgClasses": "chat_message bneon32  bfont8"
   }
 ]
