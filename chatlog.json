@@ -8302,5 +8302,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Why'd you give me so muchh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877315",
+    "type": "public",
+    "date": "10/05 17:32",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Now your left with so little",
+    "msgClasses": "chat_message "
   }
 ]
