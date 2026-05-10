@@ -1336,5 +1336,25 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Maybe?",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7876618",
+    "type": "public",
+    "date": "10/05 13:26",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "greetings",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7876619",
+    "type": "public",
+    "date": "10/05 13:27",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Whyre you acting like I'm a celebrity LOL",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
