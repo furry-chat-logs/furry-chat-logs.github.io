@@ -3674,5 +3674,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Ye?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876852",
+    "type": "public",
+    "date": "10/05 14:20",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user1_c66f4722dec2.png]",
+    "msgClasses": "chat_message "
   }
 ]
