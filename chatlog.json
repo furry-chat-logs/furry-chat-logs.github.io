@@ -4802,5 +4802,15 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "Live reaction to seeing someone do cereal before milk:",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7874974",
+    "type": "public",
+    "date": "9/05 23:22",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "..",
+    "msgClasses": "chat_message "
   }
 ]
