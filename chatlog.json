@@ -6322,5 +6322,15 @@
     "userClasses": "username bneon10 bnfont2",
     "message": "do not",
     "msgClasses": "chat_message bneon10 bold bfont2"
+  },
+  {
+    "id": "7877117",
+    "type": "public",
+    "date": "10/05 16:27",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Crazy",
+    "msgClasses": "chat_message "
   }
 ]
