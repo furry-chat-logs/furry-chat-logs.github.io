@@ -8722,5 +8722,35 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "i care abt my grades </3",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7877417",
+    "type": "public",
+    "date": "10/05 18:33",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "As long as its something im not gonna be beat over,i dont care.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877418",
+    "type": "public",
+    "date": "10/05 18:33",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "My grades are bad💔",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877419",
+    "type": "public",
+    "date": "10/05 18:34",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "I don't do work at school or home💔✌🏻",
+    "msgClasses": "chat_message "
   }
 ]
