@@ -8352,5 +8352,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Okay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877320",
+    "type": "public",
+    "date": "10/05 17:32",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "If your sure",
+    "msgClasses": "chat_message "
   }
 ]
