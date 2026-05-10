@@ -5354,5 +5354,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "sigh",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877020",
+    "type": "public",
+    "date": "10/05 15:35",
+    "username": "Emilie",
+    "userId": "13635",
+    "userClasses": "username bneon21 bnfont10",
+    "message": "Like i get yeah covid happened we should be more prepared",
+    "msgClasses": "chat_message bcolor24 heavyital bfont10"
   }
 ]
