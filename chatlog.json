@@ -1576,5 +1576,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "Frogmin he was",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7876642",
+    "type": "public",
+    "date": "10/05 13:36",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Oop. All the higher ups are here now",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876643",
+    "type": "public",
+    "date": "10/05 13:36",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username user ",
+    "message": "SwiggleBiggle What was he banned for??",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
