@@ -2266,5 +2266,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "SwiggleBiggle Just means I have to sleep with youtube on, full time.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7876711",
+    "type": "public",
+    "date": "10/05 13:55",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm going to bed",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
