@@ -2206,5 +2206,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Tha",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7876705",
+    "type": "public",
+    "date": "10/05 13:53",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Thanks",
+    "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7876706",
+    "type": "public",
+    "date": "10/05 13:53",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "It pretty much is already summer here, it's in the 90s already",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876707",
+    "type": "public",
+    "date": "10/05 13:53",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I cant even learn one regular language in a whole year",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
