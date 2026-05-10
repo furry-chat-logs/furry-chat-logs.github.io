@@ -4144,5 +4144,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "*three",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876899",
+    "type": "public",
+    "date": "10/05 14:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Sol_Aizawa foxy I think",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
