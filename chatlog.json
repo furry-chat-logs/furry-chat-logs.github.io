@@ -5544,5 +5544,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "Nebulais_0 Holy shit thats tuff",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877039",
+    "type": "public",
+    "date": "10/05 15:50",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Yeah",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
