@@ -556,5 +556,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Just breathe",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876528",
+    "type": "public",
+    "date": "10/05 13:09",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wat",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
   }
 ]
