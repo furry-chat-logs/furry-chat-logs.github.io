@@ -8852,5 +8852,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I have an A-, B+ and a C",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877430",
+    "type": "public",
+    "date": "10/05 18:44",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Buggo wait forgot the A in P.E.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
