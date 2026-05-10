@@ -646,5 +646,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Yummy!!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876537",
+    "type": "public",
+    "date": "10/05 13:10",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa you can give my picture to your mom",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
   }
 ]
