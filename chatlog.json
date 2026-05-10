@@ -2896,5 +2896,25 @@
     "userClasses": "username bcolor28 ",
     "message": "theres non-toxic black mold and toxic black mold",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7876774",
+    "type": "public",
+    "date": "10/05 14:09",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "liminal racist mold",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7876775",
+    "type": "public",
+    "date": "10/05 14:09",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Really Liminal!? Welp the more u know",
+    "msgClasses": "chat_message "
   }
 ]
