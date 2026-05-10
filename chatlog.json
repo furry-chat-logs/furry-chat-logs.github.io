@@ -6522,5 +6522,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "is frogmin part of the abcdef+ community",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877137",
+    "type": "public",
+    "date": "10/05 16:31",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hi",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877138",
+    "type": "public",
+    "date": "10/05 16:31",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "MY SPEECH IS MESSED UP JUST BE HAPPY I DONT TALK LIKE IM 5",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
