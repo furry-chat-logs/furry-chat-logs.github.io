@@ -3844,5 +3844,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "That used to be a thing back in the day according to mom",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7874877",
+    "type": "public",
+    "date": "9/05 22:40",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Yeah think my parents said they had it on MySpace or smth old like that",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
