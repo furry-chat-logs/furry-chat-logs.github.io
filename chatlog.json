@@ -2016,5 +2016,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Go eat something",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876686",
+    "type": "public",
+    "date": "10/05 13:46",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I got myself an uncrustable,i'll eat it when it thaws.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
