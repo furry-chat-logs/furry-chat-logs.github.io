@@ -816,5 +816,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Wifies or muted for 3 ours like my *shiver*",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876554",
+    "type": "public",
+    "date": "10/05 13:14",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Minecraft!!! Finally someone who loves Minecraft",
+    "msgClasses": "chat_message "
   }
 ]
