@@ -2026,5 +2026,25 @@
     "userClasses": "username bgrad15 ",
     "message": "I got myself an uncrustable,i'll eat it when it thaws.",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876687",
+    "type": "public",
+    "date": "10/05 13:47",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Anyone know Stick War?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876688",
+    "type": "public",
+    "date": "10/05 13:47",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Jive028 Nope",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
