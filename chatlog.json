@@ -2646,5 +2646,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "*OG",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7876749",
+    "type": "public",
+    "date": "10/05 14:04",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wait does it work on multiple devices",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
