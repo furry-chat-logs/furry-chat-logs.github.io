@@ -696,5 +696,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "I know, why so mean!?!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876542",
+    "type": "public",
+    "date": "10/05 13:11",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "i wanna play call of duty",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
