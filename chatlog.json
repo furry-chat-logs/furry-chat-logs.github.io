@@ -7862,5 +7862,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "😍",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7877271",
+    "type": "public",
+    "date": "10/05 17:15",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Lol thx",
+    "msgClasses": "chat_message "
   }
 ]
