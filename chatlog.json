@@ -4694,5 +4694,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Its mothers day",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7876954",
+    "type": "public",
+    "date": "10/05 14:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'd rather not talk about it.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
