@@ -4512,5 +4512,15 @@
     "userClasses": "username bgrad7 bnfont8",
     "message": "But it went clear through",
     "msgClasses": "chat_message bneon19  bfont8"
+  },
+  {
+    "id": "7874945",
+    "type": "public",
+    "date": "9/05 22:55",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[hono]",
+    "msgClasses": "chat_message ital"
   }
 ]
