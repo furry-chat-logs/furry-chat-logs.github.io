@@ -3804,5 +3804,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Yo what would be sick is if we could have background music in our profiles",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7874873",
+    "type": "public",
+    "date": "9/05 22:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Real.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
