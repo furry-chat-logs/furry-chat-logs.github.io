@@ -206,5 +206,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Baaa",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876490",
+    "type": "public",
+    "date": "10/05 13:02",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "omg guys he called me his darling! [happy]",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
