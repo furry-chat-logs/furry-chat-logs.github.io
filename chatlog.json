@@ -5642,5 +5642,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Not in my bedroom*",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7877049",
+    "type": "public",
+    "date": "10/05 15:53",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "And it runs good with the GPU that I bought",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
