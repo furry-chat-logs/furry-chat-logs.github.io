@@ -5484,5 +5484,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Hello everyone",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7877033",
+    "type": "public",
+    "date": "10/05 15:47",
+    "username": "Emilie",
+    "userId": "13635",
+    "userClasses": "username bneon21 bnfont10",
+    "message": "Nebulais_0 hiya",
+    "msgClasses": "chat_message bcolor24 heavyital bfont10"
   }
 ]
