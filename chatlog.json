@@ -2276,5 +2276,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I'm going to bed",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7876712",
+    "type": "public",
+    "date": "10/05 13:55",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user1_d5c0e0e85cb4.png]",
+    "msgClasses": "chat_message "
   }
 ]
