@@ -8962,5 +8962,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Buggo what I was afk",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877441",
+    "type": "public",
+    "date": "10/05 18:56",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "i am the good guy on the spaceship",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
