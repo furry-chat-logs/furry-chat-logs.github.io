@@ -1506,5 +1506,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": ";-;",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876635",
+    "type": "public",
+    "date": "10/05 13:35",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I think he was too",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7876636",
+    "type": "public",
+    "date": "10/05 13:35",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username user ",
+    "message": "Gang im abt to [sayori ddlc] myself",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876637",
+    "type": "public",
+    "date": "10/05 13:35",
+    "username": "Funtime Foxy",
+    "userId": "8363",
+    "userClasses": "username bgrad3 bnfont16",
+    "message": "I wake up in the morning",
+    "msgClasses": "chat_message bneon19 ital bfont14"
   }
 ]
