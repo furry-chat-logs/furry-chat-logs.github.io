@@ -1106,5 +1106,25 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Jee",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7876583",
+    "type": "public",
+    "date": "10/05 13:17",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "i wanna heal! i wanna feel!",
+    "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7876584",
+    "type": "public",
+    "date": "10/05 13:17",
+    "username": "Nikodem",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "We",
+    "msgClasses": "chat_message bcolor7 ital bfont9"
   }
 ]
