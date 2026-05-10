@@ -4972,5 +4972,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Goodnight",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7874991",
+    "type": "public",
+    "date": "9/05 23:30",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Night Smiley",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
