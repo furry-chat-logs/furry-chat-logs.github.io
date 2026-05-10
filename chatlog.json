@@ -3256,5 +3256,13 @@
     "userClasses": "username bgrad15 ",
     "message": "Jive028 Yeah look at what they said b4",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7876810",
+    "type": "system",
+    "date": "10/05 14:13",
+    "username": "System",
+    "userId": null,
+    "message": "Miss Divinity has been kicked"
   }
 ]
