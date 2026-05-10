@@ -4822,5 +4822,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Why would you do milk before cereal?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7874976",
+    "type": "public",
+    "date": "9/05 23:22",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Yeah what",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
