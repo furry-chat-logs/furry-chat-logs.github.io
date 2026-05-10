@@ -2366,5 +2366,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I can do split screen go on this again and get double mony",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7876721",
+    "type": "public",
+    "date": "10/05 13:59",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Gang i have a question",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
