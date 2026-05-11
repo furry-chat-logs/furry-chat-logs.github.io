@@ -29198,5 +29198,15 @@
     "userClasses": "username bneon9 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user23725_f9003d95fbe3.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879844",
+    "type": "public",
+    "date": "11/05 17:55",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Bob is cool",
+    "msgClasses": "chat_message "
   }
 ]
