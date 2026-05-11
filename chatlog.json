@@ -22970,5 +22970,15 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "23 minutes till lunchh, lessgoooo",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7879166",
+    "type": "public",
+    "date": "11/05 12:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Anywho",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
