@@ -18084,5 +18084,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "I FOUND THE SONG I WAS TALKING ABOUT",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878501",
+    "type": "public",
+    "date": "11/05 3:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ok let me hear",
+    "msgClasses": "chat_message bneon14"
   }
 ]
