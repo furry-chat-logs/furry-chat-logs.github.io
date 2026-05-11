@@ -9882,5 +9882,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_c6aefe4f5e4a.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877533",
+    "type": "public",
+    "date": "10/05 19:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo what happened?",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
