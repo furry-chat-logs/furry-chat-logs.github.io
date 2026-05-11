@@ -21502,5 +21502,15 @@
     "userClasses": "username bcolor22 bnfont16",
     "message": "How's chu been",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878992",
+    "type": "public",
+    "date": "11/05 10:40",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "RainbowDashTaiwanWDP i've been good. you?",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
