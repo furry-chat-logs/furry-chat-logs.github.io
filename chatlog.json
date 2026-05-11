@@ -24414,5 +24414,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Joe Biden?",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7879337",
+    "type": "public",
+    "date": "11/05 13:49",
+    "username": "Axolotal",
+    "userId": "34463",
+    "userClasses": "username user ",
+    "message": "Joe Biden?",
+    "msgClasses": "chat_message "
   }
 ]
