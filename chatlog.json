@@ -15844,5 +15844,25 @@
     "userClasses": "username bgrad40 ",
     "message": "if my eyes turn run, red",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878131",
+    "type": "public",
+    "date": "10/05 21:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "paimon No I eat dog",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7878132",
+    "type": "public",
+    "date": "10/05 21:55",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I've eaten alligator once",
+    "msgClasses": "chat_message "
   }
 ]
