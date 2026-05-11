@@ -14764,5 +14764,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "Finna roll in that dough",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7878023",
+    "type": "public",
+    "date": "10/05 21:44",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Lemon ;-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
