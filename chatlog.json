@@ -20972,5 +20972,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Samee",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878939",
+    "type": "public",
+    "date": "11/05 8:59",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Im home",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
