@@ -22920,5 +22920,25 @@
     "userClasses": "username bcolor28 ",
     "message": "HALLOO",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7879158",
+    "type": "public",
+    "date": "11/05 12:31",
+    "username": "DwcayR",
+    "userId": "37166",
+    "userClasses": "username bcolor32 bnfont10",
+    "message": "Hello there",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879159",
+    "type": "public",
+    "date": "11/05 12:31",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "liminal haii",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
