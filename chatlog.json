@@ -12804,5 +12804,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Type of dude who says gay is a sin and thinking it meant gay men",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877827",
+    "type": "public",
+    "date": "10/05 21:32",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Porphyrophobia each second a new species gets dumber",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
