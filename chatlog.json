@@ -16614,5 +16614,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hi",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878267",
+    "type": "public",
+    "date": "10/05 23:41",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Howdy creature",
+    "msgClasses": "chat_message "
   }
 ]
