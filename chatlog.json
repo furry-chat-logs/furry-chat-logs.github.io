@@ -25172,5 +25172,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hi",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7879424",
+    "type": "public",
+    "date": "11/05 14:43",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Yes",
+    "msgClasses": "chat_message "
   }
 ]
