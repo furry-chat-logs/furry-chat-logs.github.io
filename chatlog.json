@@ -29378,5 +29378,15 @@
     "userClasses": "username bgrad40 bnfont12",
     "message": "Damn chats dead af",
     "msgClasses": "chat_message bgrad25 heavybold bfont12"
+  },
+  {
+    "id": "7879862",
+    "type": "public",
+    "date": "11/05 18:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd3Q4MzBwdWRxYW1zeDF1OGQxd2ppdDluMXY3M3AzYTVuM3F6enlnaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8mOPhOrOj8QHfdYdz9/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
