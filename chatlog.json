@@ -25912,5 +25912,15 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "0 Dokuro-chan 0 weed",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879499",
+    "type": "public",
+    "date": "11/05 15:25",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Whats this about weed?!?",
+    "msgClasses": "chat_message "
   }
 ]
