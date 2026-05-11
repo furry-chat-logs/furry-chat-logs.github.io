@@ -14474,5 +14474,25 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Let's play a game",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7877994",
+    "type": "public",
+    "date": "10/05 21:42",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I stopped ✋️ no more",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877995",
+    "type": "public",
+    "date": "10/05 21:42",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Neither side is going to reach a conclusion the other likes",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
