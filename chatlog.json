@@ -26562,5 +26562,15 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "thats what you dont know",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879564",
+    "type": "public",
+    "date": "11/05 15:36",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oh",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
