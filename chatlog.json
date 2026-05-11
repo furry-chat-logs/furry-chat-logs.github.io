@@ -25632,5 +25632,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "How's your day going",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879471",
+    "type": "public",
+    "date": "11/05 15:05",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "good",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
   }
 ]
