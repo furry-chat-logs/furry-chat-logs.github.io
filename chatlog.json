@@ -9942,5 +9942,15 @@
     "userClasses": "username bcolor22 bnfont16",
     "message": "Marie's mes own web app",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877539",
+    "type": "public",
+    "date": "10/05 19:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo o",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
