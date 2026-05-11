@@ -24264,5 +24264,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And I need to stay here",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7879320",
+    "type": "public",
+    "date": "11/05 13:41",
+    "username": "STXRLYN",
+    "userId": "34186",
+    "userClasses": "username bneon32 bnfont7",
+    "message": "Sol_Aizawa It looks good [100]",
+    "msgClasses": "chat_message bneon29 ital bfont10"
+  },
+  {
+    "id": "7879321",
+    "type": "public",
+    "date": "11/05 13:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ouch my ears",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7879322",
+    "type": "public",
+    "date": "11/05 13:41",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SoraTheMikuFan oof",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
