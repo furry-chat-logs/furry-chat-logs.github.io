@@ -25152,5 +25152,15 @@
     "userClasses": "username bneon15 bnfont1",
     "message": "Kill",
     "msgClasses": "chat_message bneon1 ital bfont11"
+  },
+  {
+    "id": "7879422",
+    "type": "public",
+    "date": "11/05 14:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Kill them all",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
