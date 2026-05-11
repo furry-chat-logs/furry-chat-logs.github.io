@@ -22300,5 +22300,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Shura heya",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879084",
+    "type": "public",
+    "date": "11/05 12:13",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "psychoboi_Togame hai",
+    "msgClasses": "chat_message "
   }
 ]
