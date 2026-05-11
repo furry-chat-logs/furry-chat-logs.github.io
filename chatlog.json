@@ -27372,5 +27372,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Nugget.",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879661",
+    "type": "public",
+    "date": "11/05 16:17",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget thinks you should read his bio",
+    "msgClasses": "chat_message bneon4"
   }
 ]
