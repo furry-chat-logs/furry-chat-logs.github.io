@@ -14714,5 +14714,25 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "Finna be working for Walmart, A Bar, and my grandma all at once",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7878018",
+    "type": "public",
+    "date": "10/05 21:44",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Wtfissachip ;-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878019",
+    "type": "public",
+    "date": "10/05 21:44",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "Low-key excited",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
