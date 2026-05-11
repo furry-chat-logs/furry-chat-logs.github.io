@@ -17144,5 +17144,25 @@
     "userClasses": "username bneon14 bnfont9",
     "message": "i said shut uwup ^-^^ im a fuzzy fuwwy",
     "msgClasses": "chat_message bneon13 heavybold bfont5"
+  },
+  {
+    "id": "7878353",
+    "type": "public",
+    "date": "11/05 1:16",
+    "username": "Wren",
+    "userId": "36497",
+    "userClasses": "username bneon14 bnfont9",
+    "message": "WHY DOES IT DO THAT}",
+    "msgClasses": "chat_message bneon13 heavybold bfont5"
+  },
+  {
+    "id": "7878354",
+    "type": "public",
+    "date": "11/05 1:16",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWViczg4MGFlaXMxaGhtc2h2bmZ3MGZ2bXZ3NjQzMjM4c3N6bXk4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BY5tPZNL68V29cVfuz/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
