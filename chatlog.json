@@ -17884,5 +17884,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "There's a chat?",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7878481",
+    "type": "public",
+    "date": "11/05 2:45",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "No",
+    "msgClasses": "chat_message "
   }
 ]
