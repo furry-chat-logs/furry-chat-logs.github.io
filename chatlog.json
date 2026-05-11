@@ -17234,5 +17234,15 @@
     "userClasses": "username user ",
     "message": "Its been so long since ive been on here </3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878362",
+    "type": "public",
+    "date": "11/05 1:16",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_9e8b6f14f9bf.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
