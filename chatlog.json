@@ -13164,5 +13164,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hmmmm",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7877863",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "JustAnAnt finally someone who agrees with me",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877864",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "When did i say i hate gay people you people are mad ?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877865",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "JustAnAnt *sniff*",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
