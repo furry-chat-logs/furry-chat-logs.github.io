@@ -23308,5 +23308,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "That's shit behavior",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879212",
+    "type": "public",
+    "date": "11/05 12:49",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "We were having issues before we broke up and I wasn't feeling it anymore and I wanted to move on and he didn't like that",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
