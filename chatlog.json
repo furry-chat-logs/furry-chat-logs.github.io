@@ -16874,5 +16874,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Wait some monokuma guy be bangin on my door afk",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878326",
+    "type": "public",
+    "date": "11/05 0:47",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[troll]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
