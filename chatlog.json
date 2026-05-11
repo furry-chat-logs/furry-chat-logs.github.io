@@ -15564,5 +15564,25 @@
     "userClasses": "username user ",
     "message": "paimon that's how you know it's good",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878103",
+    "type": "public",
+    "date": "10/05 21:51",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878104",
+    "type": "public",
+    "date": "10/05 21:51",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ";-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
