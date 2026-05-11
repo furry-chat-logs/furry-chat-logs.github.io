@@ -27392,5 +27392,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Nugget 0G Stupendous Man thinks you should read his bio.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7879663",
+    "type": "public",
+    "date": "11/05 16:18",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget already read your bio with perfect precision",
+    "msgClasses": "chat_message bneon4"
   }
 ]
