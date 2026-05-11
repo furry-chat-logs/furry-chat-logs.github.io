@@ -21302,5 +21302,15 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "JustAnAnt ....you lost me",
     "msgClasses": "chat_message bgrad15 boldital bfont11"
+  },
+  {
+    "id": "7878972",
+    "type": "public",
+    "date": "11/05 9:51",
+    "username": "nex",
+    "userId": "33901",
+    "userClasses": "username bneon1 bnfont10",
+    "message": "watermelon",
+    "msgClasses": "chat_message bneon1 heavyital bfont10"
   }
 ]
