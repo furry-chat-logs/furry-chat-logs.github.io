@@ -16354,5 +16354,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Buggo",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7878185",
+    "type": "public",
+    "date": "10/05 23:23",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Oh",
+    "msgClasses": "chat_message "
   }
 ]
