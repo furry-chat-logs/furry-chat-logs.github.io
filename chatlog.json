@@ -23436,5 +23436,15 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "She was spreading rumors about me around the school",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7879225",
+    "type": "public",
+    "date": "11/05 12:51",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "30-40% of Snapchat users are found to be using Snapchat to cheat because messages delete eventually",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
