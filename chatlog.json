@@ -27742,5 +27742,15 @@
     "userClasses": "username bneon1 bnfont1",
     "message": "Damn",
     "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7879698",
+    "type": "public",
+    "date": "11/05 16:34",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Lemon look look",
+    "msgClasses": "chat_message bneon4"
   }
 ]
