@@ -22160,5 +22160,15 @@
     "userClasses": "username bgrad7 bnfont8",
     "message": "i was pissed",
     "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7879064",
+    "type": "public",
+    "date": "11/05 12:05",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Damn",
+    "msgClasses": "chat_message "
   }
 ]
