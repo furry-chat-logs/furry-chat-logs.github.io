@@ -22380,5 +22380,25 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879102",
+    "type": "public",
+    "date": "11/05 12:19",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Damn, do you need svip to post photos on the wall?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879103",
+    "type": "public",
+    "date": "11/05 12:19",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "😭",
+    "msgClasses": "chat_message "
   }
 ]
