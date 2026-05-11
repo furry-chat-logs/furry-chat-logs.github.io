@@ -15104,5 +15104,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "paimon read. My. Bio.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878057",
+    "type": "public",
+    "date": "10/05 21:47",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Some nerd just added me",
+    "msgClasses": "chat_message "
   }
 ]
