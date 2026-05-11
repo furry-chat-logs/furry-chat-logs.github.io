@@ -26542,5 +26542,25 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "Miss Divinity i had to finish killing my mom because she was in so much pain from killing her self she told me to shoot her",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879562",
+    "type": "public",
+    "date": "11/05 15:35",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Now you're just speaking bullshit.",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879563",
+    "type": "public",
+    "date": "11/05 15:36",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "thats what you dont know",
+    "msgClasses": "chat_message bneon20 bold bfont14"
   }
 ]
