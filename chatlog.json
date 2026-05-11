@@ -23486,5 +23486,15 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "It's also a way I express myself through the reals",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7879231",
+    "type": "public",
+    "date": "11/05 12:52",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "My thoughts and feelings",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
