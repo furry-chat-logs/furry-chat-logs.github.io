@@ -25592,5 +25592,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "bro stop",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879467",
+    "type": "public",
+    "date": "11/05 15:05",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "oki [good]",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7879468",
+    "type": "public",
+    "date": "11/05 15:05",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Bro has an embed fail then keeps flooding chat with them 😭",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
