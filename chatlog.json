@@ -22370,5 +22370,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "like always",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879092",
+    "type": "public",
+    "date": "11/05 12:14",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Lol",
+    "msgClasses": "chat_message "
   }
 ]
