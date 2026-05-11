@@ -25052,5 +25052,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Confirmed",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879412",
+    "type": "public",
+    "date": "11/05 14:25",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ".",
+    "msgClasses": "chat_message bgrad26 heavyital bfont10"
+  },
+  {
+    "id": "7879413",
+    "type": "public",
+    "date": "11/05 14:25",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "im gay",
+    "msgClasses": "chat_message bgrad26 heavyital bfont10"
   }
 ]
