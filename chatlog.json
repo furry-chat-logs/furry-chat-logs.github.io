@@ -18812,5 +18812,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "What",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878723",
+    "type": "public",
+    "date": "11/05 7:30",
+    "username": "James_jdm",
+    "userId": "35335",
+    "userClasses": "username bcolor1 ",
+    "message": "Idk, i though the chat didn't had restrictions when it comes to filters",
+    "msgClasses": "chat_message "
   }
 ]
