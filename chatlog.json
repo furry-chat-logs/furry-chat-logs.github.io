@@ -9802,5 +9802,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I look goofy bro",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877525",
+    "type": "public",
+    "date": "10/05 19:15",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I have a dino mask to but they got him.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
