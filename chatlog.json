@@ -24244,5 +24244,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "profile link",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7879318",
+    "type": "public",
+    "date": "11/05 13:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ughhhh my sis is getting food",
+    "msgClasses": "chat_message bneon14"
   }
 ]
