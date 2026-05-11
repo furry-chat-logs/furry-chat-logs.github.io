@@ -12304,5 +12304,25 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "Both are just bad",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7877777",
+    "type": "public",
+    "date": "10/05 21:28",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Buggo aw ilyt :3",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877778",
+    "type": "public",
+    "date": "10/05 21:28",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "I hate both",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
