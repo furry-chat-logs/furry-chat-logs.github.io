@@ -20352,5 +20352,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Pink",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878877",
+    "type": "public",
+    "date": "11/05 8:40",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Diamond",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878878",
+    "type": "public",
+    "date": "11/05 8:40",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Dogs",
+    "msgClasses": "chat_message bneon4"
   }
 ]
