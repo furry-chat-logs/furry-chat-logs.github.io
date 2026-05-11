@@ -25712,5 +25712,15 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "hi",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879479",
+    "type": "public",
+    "date": "11/05 15:14",
+    "username": "Jive028",
+    "userId": "37087",
+    "userClasses": "username bcolor18 bnfont15",
+    "message": "Yo im back and its my birthday!",
+    "msgClasses": "chat_message "
   }
 ]
