@@ -16234,5 +16234,15 @@
     "userClasses": "username bneon1 bnfont12",
     "message": "Meep",
     "msgClasses": "chat_message bneon24 bold bfont3"
+  },
+  {
+    "id": "7878173",
+    "type": "public",
+    "date": "10/05 23:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wow chat's dead",
+    "msgClasses": "chat_message bneon14"
   }
 ]
