@@ -20372,5 +20372,15 @@
     "userClasses": "username bneon4 ",
     "message": "Dogs",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878879",
+    "type": "public",
+    "date": "11/05 8:40",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Youre both correct!",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
