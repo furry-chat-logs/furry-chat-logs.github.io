@@ -22460,5 +22460,15 @@
     "userClasses": "username bneon32 bnfont7",
     "message": "Your welcome. :D",
     "msgClasses": "chat_message bneon29 ital bfont10"
+  },
+  {
+    "id": "7879111",
+    "type": "public",
+    "date": "11/05 12:21",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Oh fuck it",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
