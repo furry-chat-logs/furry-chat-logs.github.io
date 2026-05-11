@@ -19172,5 +19172,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Chat my friend bought me makeup from five bellow ima try and do smth with it bc i have an hour before school 💔",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878759",
+    "type": "public",
+    "date": "11/05 8:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I think I found the cause of the Hannah virus",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878760",
+    "type": "public",
+    "date": "11/05 8:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_ed94088e7f9e.png]",
+    "msgClasses": "chat_message "
   }
 ]
