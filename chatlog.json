@@ -22050,5 +22050,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_e6d9e5ab6ee1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879052",
+    "type": "public",
+    "date": "11/05 11:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I'm in the dark",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
