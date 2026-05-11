@@ -9342,5 +9342,15 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "lucky, do you have a suit?",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7877479",
+    "type": "public",
+    "date": "10/05 19:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_dd97932d2573.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
