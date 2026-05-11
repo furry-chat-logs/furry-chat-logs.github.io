@@ -22260,5 +22260,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Sol_Aizawa i want to but i cant bc of my school being on our ass",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879075",
+    "type": "public",
+    "date": "11/05 12:11",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Sol_Aizawa def wasnt me",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879076",
+    "type": "public",
+    "date": "11/05 12:11",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "psychoboi_Togame alright",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
