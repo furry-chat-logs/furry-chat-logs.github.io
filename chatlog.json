@@ -13974,5 +13974,25 @@
     "userClasses": "username user ",
     "message": "Should've blown the boat up",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877944",
+    "type": "public",
+    "date": "10/05 21:40",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Test",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7877945",
+    "type": "public",
+    "date": "10/05 21:40",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Derikgodzilla18 Why not?",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
