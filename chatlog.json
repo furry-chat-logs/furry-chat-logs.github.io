@@ -12364,5 +12364,35 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "But I would rather swim and cool off",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7877783",
+    "type": "public",
+    "date": "10/05 21:28",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "Then have to warm up",
+    "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7877784",
+    "type": "public",
+    "date": "10/05 21:28",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "bro hates everyday",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877785",
+    "type": "public",
+    "date": "10/05 21:28",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "If people liked Jesus they wouldn't be rude to me I'm being kind here",
+    "msgClasses": "chat_message "
   }
 ]
