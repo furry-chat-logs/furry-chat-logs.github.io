@@ -14924,5 +14924,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "It's a crazy would you rather wanna hear it",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7878039",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lemon i thought it was culinary...",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878040",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "should i keep my computer on 24/7 just for coins",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
