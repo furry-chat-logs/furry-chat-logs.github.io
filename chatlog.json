@@ -20102,5 +20102,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "😶",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878852",
+    "type": "public",
+    "date": "11/05 8:33",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Nugget Hows kindergarten? Are you still uh... Goin to that?",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878853",
+    "type": "public",
+    "date": "11/05 8:33",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "🤮",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
