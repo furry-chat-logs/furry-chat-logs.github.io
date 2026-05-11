@@ -27252,5 +27252,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Oop.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7879649",
+    "type": "public",
+    "date": "11/05 16:13",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget doesn't like being tagged",
+    "msgClasses": "chat_message bneon4"
   }
 ]
