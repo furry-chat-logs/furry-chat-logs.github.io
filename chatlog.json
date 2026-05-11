@@ -20312,5 +20312,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ thank you!",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878873",
+    "type": "public",
+    "date": "11/05 8:40",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Gang guess what color my hair is (hint:its dyed.)",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878874",
+    "type": "public",
+    "date": "11/05 8:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wait who r u talking to",
+    "msgClasses": "chat_message bneon14"
   }
 ]
