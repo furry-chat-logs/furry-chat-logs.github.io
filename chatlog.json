@@ -18712,5 +18712,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "i hate that filter",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7878713",
+    "type": "public",
+    "date": "11/05 7:27",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "P",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
