@@ -10944,5 +10944,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yo hear me out",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877641",
+    "type": "public",
+    "date": "10/05 20:27",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "؜",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
