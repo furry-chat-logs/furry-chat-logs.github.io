@@ -14134,5 +14134,25 @@
     "userClasses": "username bgrad40 ",
     "message": ";-;",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877960",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "EagleEdge can you read",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877961",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "i think",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
