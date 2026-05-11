@@ -19912,5 +19912,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Ew",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878833",
+    "type": "public",
+    "date": "11/05 8:29",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "*faints and straight up tumbles out of the window I was watching from* ....ouch",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878834",
+    "type": "public",
+    "date": "11/05 8:29",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_c0be88b12bda.png]",
+    "msgClasses": "chat_message "
   }
 ]
