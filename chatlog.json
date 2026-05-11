@@ -14844,5 +14844,35 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "Full ride for Computer science 🗣️💥💥",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7878031",
+    "type": "public",
+    "date": "10/05 21:45",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_facc592d0959.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878032",
+    "type": "public",
+    "date": "10/05 21:45",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I have a would you rather chat",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7878033",
+    "type": "public",
+    "date": "10/05 21:45",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Wtfissachip I thought your pfp was a seal this whole time nlg",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
