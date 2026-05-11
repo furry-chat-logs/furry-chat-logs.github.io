@@ -27202,5 +27202,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Y'all can't be Nugget.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879644",
+    "type": "public",
+    "date": "11/05 16:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Besides I think I should stay as the new kid",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
