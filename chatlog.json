@@ -9462,5 +9462,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "*Luffy",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877491",
+    "type": "public",
+    "date": "10/05 19:09",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Ooo",
+    "msgClasses": "chat_message "
   }
 ]
