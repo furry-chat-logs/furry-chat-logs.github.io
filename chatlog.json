@@ -19242,5 +19242,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "SoraTheMikuFan bc if I didn't, Butters  was gonna kick my ass",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878766",
+    "type": "public",
+    "date": "11/05 8:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Who's Butters?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
