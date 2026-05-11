@@ -24374,5 +24374,15 @@
     "userClasses": "username bneon19 bnfont1",
     "message": "what??",
     "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7879333",
+    "type": "public",
+    "date": "11/05 13:46",
+    "username": "Axolotal",
+    "userId": "34463",
+    "userClasses": "username user ",
+    "message": "What?.",
+    "msgClasses": "chat_message "
   }
 ]
