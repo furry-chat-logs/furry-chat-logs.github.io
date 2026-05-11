@@ -29058,5 +29058,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "[runefaust]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879830",
+    "type": "public",
+    "date": "11/05 17:33",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Voice message",
+    "msgClasses": "chat_message "
   }
 ]
