@@ -15644,5 +15644,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Bonus points for the follow through",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7878111",
+    "type": "public",
+    "date": "10/05 21:52",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "EagleEdge no im actually just slow",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
