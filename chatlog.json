@@ -21680,5 +21680,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "king julien is the only pfp that works...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879015",
+    "type": "public",
+    "date": "11/05 11:13",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Pina lol",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
