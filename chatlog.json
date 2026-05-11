@@ -15864,5 +15864,15 @@
     "userClasses": "username user ",
     "message": "I've eaten alligator once",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878133",
+    "type": "public",
+    "date": "10/05 21:55",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Chat im not feeling okay im gonna go take a break",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
