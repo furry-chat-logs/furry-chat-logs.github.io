@@ -14444,5 +14444,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Don't need to turn this into a religious debate room",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7877991",
+    "type": "public",
+    "date": "10/05 21:42",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Except for me.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7877992",
+    "type": "public",
+    "date": "10/05 21:42",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Buggo NO WHAT DO KICKED MEAN",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
