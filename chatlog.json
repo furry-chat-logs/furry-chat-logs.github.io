@@ -23676,5 +23676,15 @@
     "userClasses": "username bcolor24 bnfont15",
     "message": "Wonder what's going on in here today",
     "msgClasses": "chat_message bcolor23 boldital bfont3"
+  },
+  {
+    "id": "7879253",
+    "type": "public",
+    "date": "11/05 13:00",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Mass murder >:3",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
