@@ -13304,5 +13304,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "JustAnAnt \"I like to take things apart to their purest forms and see how they work\" 🗣️🔥🥀",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877877",
+    "type": "public",
+    "date": "10/05 21:35",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "we listen and we dont judge",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
