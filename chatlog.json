@@ -21890,5 +21890,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "This is bob",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879036",
+    "type": "public",
+    "date": "11/05 11:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_512e386baa51.png]",
+    "msgClasses": "chat_message "
   }
 ]
