@@ -9722,5 +9722,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Here's mine",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877517",
+    "type": "public",
+    "date": "10/05 19:14",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_8fa82d151397.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877518",
+    "type": "public",
+    "date": "10/05 19:14",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_5effa89ebd8c.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
