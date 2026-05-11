@@ -15204,5 +15204,25 @@
     "userClasses": "username bgrad40 ",
     "message": "0G Stupendous Man what friend part",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878067",
+    "type": "public",
+    "date": "10/05 21:48",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Rimshu Cats game",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878068",
+    "type": "public",
+    "date": "10/05 21:48",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "We've talked for all of three days.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
