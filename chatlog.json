@@ -19772,5 +19772,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Medokin u have a new lion pfp",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878819",
+    "type": "public",
+    "date": "11/05 8:26",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yeah well these are like... Biting rats with like 10,000 Hannah viruses",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878820",
+    "type": "public",
+    "date": "11/05 8:27",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Yes",
+    "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878821",
+    "type": "public",
+    "date": "11/05 8:27",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "*Nugget eats the rats*",
+    "msgClasses": "chat_message bneon4"
   }
 ]
