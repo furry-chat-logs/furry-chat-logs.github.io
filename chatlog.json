@@ -26412,5 +26412,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Are you really happy, or is it artificial and destroying you inside.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879549",
+    "type": "public",
+    "date": "11/05 15:33",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Voice message",
+    "msgClasses": "chat_message "
   }
 ]
