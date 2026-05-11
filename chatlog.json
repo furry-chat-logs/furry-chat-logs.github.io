@@ -24734,5 +24734,15 @@
     "userClasses": "username user ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user34463_1ccac47aa625.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879373",
+    "type": "public",
+    "date": "11/05 14:01",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "lolz",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
   }
 ]
