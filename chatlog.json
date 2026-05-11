@@ -20752,5 +20752,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hi",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878917",
+    "type": "public",
+    "date": "11/05 8:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Afternoon",
+    "msgClasses": "chat_message bneon14"
   }
 ]
