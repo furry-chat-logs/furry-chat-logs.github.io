@@ -12724,5 +12724,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I'll be damned",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7877819",
+    "type": "public",
+    "date": "10/05 21:31",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Miss Divinity LOL",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
