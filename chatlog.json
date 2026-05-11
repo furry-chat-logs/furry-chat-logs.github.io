@@ -27492,5 +27492,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Acceptance?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7879673",
+    "type": "public",
+    "date": "11/05 16:22",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget allows this",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7879674",
+    "type": "public",
+    "date": "11/05 16:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "WHAT THAT WAS A HACKER",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
