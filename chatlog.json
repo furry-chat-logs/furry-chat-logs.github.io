@@ -19632,5 +19632,25 @@
     "userClasses": "username bneon4 ",
     "message": "Nugget chewed off his own arm to escape school basement",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878805",
+    "type": "public",
+    "date": "11/05 8:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Woah",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878806",
+    "type": "public",
+    "date": "11/05 8:24",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "That's metal",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
