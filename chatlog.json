@@ -24324,5 +24324,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Axolotal heyo",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7879326",
+    "type": "public",
+    "date": "11/05 13:43",
+    "username": "Axolotal",
+    "userId": "34463",
+    "userClasses": "username user ",
+    "message": "Sol_Aizawa Heyo",
+    "msgClasses": "chat_message "
   }
 ]
