@@ -15454,5 +15454,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Chat help",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878092",
+    "type": "public",
+    "date": "10/05 21:50",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "and i can SHOW U",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
