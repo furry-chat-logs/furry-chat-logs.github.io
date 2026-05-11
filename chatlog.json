@@ -23426,5 +23426,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Miss Divinity oof",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7879224",
+    "type": "public",
+    "date": "11/05 12:50",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "She was spreading rumors about me around the school",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
