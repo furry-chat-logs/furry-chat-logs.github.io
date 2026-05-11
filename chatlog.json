@@ -19082,5 +19082,15 @@
     "userClasses": "username bgrad15 ",
     "message": "The hantavirus is a disease spread by rat with a 30-60% fatality rate",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878750",
+    "type": "public",
+    "date": "11/05 8:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ahhhh....",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
