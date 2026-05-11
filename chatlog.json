@@ -28770,5 +28770,35 @@
     "userClasses": "username bneon18 ",
     "message": "Ts is from a reference I found.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7879801",
+    "type": "public",
+    "date": "11/05 17:22",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Guys I'll try monster for the first time",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879802",
+    "type": "public",
+    "date": "11/05 17:22",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "What one should I tey",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879803",
+    "type": "public",
+    "date": "11/05 17:22",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Try",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
