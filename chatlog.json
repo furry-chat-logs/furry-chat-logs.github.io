@@ -29746,5 +29746,15 @@
     "username": "System",
     "userId": null,
     "message": "savoongah has been kicked"
+  },
+  {
+    "id": "7879899",
+    "type": "public",
+    "date": "11/05 18:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Fuck kind of name",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
