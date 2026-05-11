@@ -23526,5 +23526,15 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "Because I find it hard to express my feelings and thoughts, I do bottle them up a lot",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7879235",
+    "type": "public",
+    "date": "11/05 12:53",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "So when I find ways to express them, I use it",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
