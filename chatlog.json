@@ -26692,5 +26692,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_5f1c5cd5e45d.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879577",
+    "type": "public",
+    "date": "11/05 15:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I'm almost level 6",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
