@@ -9592,5 +9592,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "I main diluc",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877504",
+    "type": "public",
+    "date": "10/05 19:11",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Only furries I know irl arent here",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
