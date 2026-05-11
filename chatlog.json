@@ -23754,5 +23754,15 @@
     "userClasses": "username bcolor28 ",
     "message": "I cant believe I turn 18 this year",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7879261",
+    "type": "public",
+    "date": "11/05 13:05",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "liminal nicceeee!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
