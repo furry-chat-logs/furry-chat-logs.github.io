@@ -26232,5 +26232,25 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "bruh just because i smoke",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879531",
+    "type": "public",
+    "date": "11/05 15:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Voice message",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879532",
+    "type": "public",
+    "date": "11/05 15:30",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I'm just trying to help you bro.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
