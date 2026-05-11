@@ -16564,5 +16564,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Miss Divinity I like playing rook",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7878251",
+    "type": "public",
+    "date": "10/05 23:35",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Rook is good",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
