@@ -22940,5 +22940,25 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "liminal haii",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7879160",
+    "type": "public",
+    "date": "11/05 12:31",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "hihihihihi",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7879161",
+    "type": "public",
+    "date": "11/05 12:31",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[secret-share: 1508QYgoEpxTpTEUShiyS5G6G&n=46369]",
+    "msgClasses": "chat_message bold"
   }
 ]
