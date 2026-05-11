@@ -19692,5 +19692,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I can summon people with my phone",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878811",
+    "type": "public",
+    "date": "11/05 8:25",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget wil eat whoever you summon",
+    "msgClasses": "chat_message bneon4"
   }
 ]
