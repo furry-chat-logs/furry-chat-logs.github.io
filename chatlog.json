@@ -24952,5 +24952,15 @@
     "username": "System",
     "userId": null,
     "message": "Maxyway has been kicked"
+  },
+  {
+    "id": "7879401",
+    "type": "public",
+    "date": "11/05 14:15",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZG44OGU0Nnk1cWJhY2Y3Mm5qdDRkcmZnaHF6OTM5dGJkd2F6MmRkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q2rXHUVCugN0HhO3YK/giphy.gif]",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
   }
 ]
