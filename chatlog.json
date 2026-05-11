@@ -9482,5 +9482,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I saw a lot of furries",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877493",
+    "type": "public",
+    "date": "10/05 19:09",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "I saw the guy who voices a character from genshin that I love",
+    "msgClasses": "chat_message "
   }
 ]
