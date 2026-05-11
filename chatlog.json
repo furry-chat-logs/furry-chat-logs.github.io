@@ -20712,5 +20712,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_34dd26a6f4fb.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878913",
+    "type": "public",
+    "date": "11/05 8:50",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Box",
+    "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878914",
+    "type": "public",
+    "date": "11/05 8:50",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Yeah thats what i figured,i was just saying if it were me it would be purple and pink.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
