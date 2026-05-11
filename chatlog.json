@@ -26642,5 +26642,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "This is like a Level 20 quest for me bro",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879572",
+    "type": "public",
+    "date": "11/05 15:37",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "New Kid \"come back when you have the required XP\" ahh interaction",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879573",
+    "type": "public",
+    "date": "11/05 15:37",
+    "username": "Gangle",
+    "userId": "31578",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "How was everyone's mother's day?",
+    "msgClasses": "chat_message bgrad38 bold bfont7"
   }
 ]
