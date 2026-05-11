@@ -15414,5 +15414,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "paimon you don't see the word friend anywhere?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878088",
+    "type": "public",
+    "date": "10/05 21:50",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "All of my time goes to steam and tf2",
+    "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7878089",
+    "type": "public",
+    "date": "10/05 21:50",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lemon yay.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
