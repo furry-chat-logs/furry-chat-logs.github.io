@@ -10050,5 +10050,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "test",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7877550",
+    "type": "public",
+    "date": "10/05 19:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ppl named lucas pmo so much [verysad]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
