@@ -23218,5 +23218,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I'd do the same.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879200",
+    "type": "public",
+    "date": "11/05 12:47",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "Lol",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
