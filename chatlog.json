@@ -11294,5 +11294,45 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Relaxing",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7877676",
+    "type": "public",
+    "date": "10/05 21:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Miss Divinity okay but worried abt smth.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877677",
+    "type": "public",
+    "date": "10/05 21:17",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Quite nice",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7877678",
+    "type": "public",
+    "date": "10/05 21:17",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "What're you worried about, bug one?",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877679",
+    "type": "public",
+    "date": "10/05 21:17",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "It's bedtime for me",
+    "msgClasses": "chat_message "
   }
 ]
