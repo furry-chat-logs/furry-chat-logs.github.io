@@ -19372,5 +19372,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "You get the idea",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878779",
+    "type": "public",
+    "date": "11/05 8:18",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "SoraTheMikuFan Buttrs is the one person from the thing that looks like that guy",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878780",
+    "type": "public",
+    "date": "11/05 8:18",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Yknow",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
