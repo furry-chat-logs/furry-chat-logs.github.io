@@ -9572,5 +9572,25 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "I have a ps4, but since they took genshin off ps4s I've been playing on Xbox series x",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877502",
+    "type": "public",
+    "date": "10/05 19:11",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "same New Kid",
+    "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7877503",
+    "type": "public",
+    "date": "10/05 19:11",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "I main diluc",
+    "msgClasses": "chat_message "
   }
 ]
