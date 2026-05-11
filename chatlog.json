@@ -9432,5 +9432,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "The one in Calgary",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877488",
+    "type": "public",
+    "date": "10/05 19:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Zion ikr!",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
