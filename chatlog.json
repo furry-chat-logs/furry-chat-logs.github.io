@@ -16054,5 +16054,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "A ship made it on shore and spread a virus. We need you to go to it's source, Leon. Head on to Racoon Cruise\"",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7878152",
+    "type": "public",
+    "date": "10/05 22:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_3fab382fb4ac.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
