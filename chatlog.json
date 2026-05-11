@@ -29738,5 +29738,13 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Bc obviously your dad can't -_-",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879898",
+    "type": "system",
+    "date": "11/05 18:44",
+    "username": "System",
+    "userId": null,
+    "message": "savoongah has been kicked"
   }
 ]
