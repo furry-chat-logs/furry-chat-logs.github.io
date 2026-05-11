@@ -15324,5 +15324,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "This site isn't really important to me anymore except like 2 people so I just pop in occasionally",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7878079",
+    "type": "public",
+    "date": "10/05 21:49",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Lemon oh",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
