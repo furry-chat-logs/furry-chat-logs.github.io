@@ -12234,5 +12234,25 @@
     "userClasses": "username bgrad15 ",
     "message": "paimon Yay!!",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877770",
+    "type": "public",
+    "date": "10/05 21:27",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "HOW DO SOME PEOPLE PREFER HOT",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877771",
+    "type": "public",
+    "date": "10/05 21:27",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "A cold bed at night with a cold pillow and a slightly cold blanket",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
