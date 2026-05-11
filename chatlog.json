@@ -16194,5 +16194,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "SwiggleBiggle two what? 😦",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7878169",
+    "type": "public",
+    "date": "10/05 23:05",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnFzdGdubWQxbXBtYnduaTRkbjE1cGpmeTZycmVocDhxOHRyM3F5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JefYGoZrBScaw8z5WZ/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
