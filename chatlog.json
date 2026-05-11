@@ -10080,5 +10080,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Voice message",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877553",
+    "type": "public",
+    "date": "10/05 19:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: 2se32JhO3MoQHAXbvGDV9Orj5&n=46812]",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
