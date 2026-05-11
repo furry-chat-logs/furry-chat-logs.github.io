@@ -20062,5 +20062,25 @@
     "userClasses": "username bneon4 ",
     "message": "Dude",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878848",
+    "type": "public",
+    "date": "11/05 8:32",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I broke character because I thought that said cam",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878849",
+    "type": "public",
+    "date": "11/05 8:32",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "*came",
+    "msgClasses": "chat_message bneon4"
   }
 ]
