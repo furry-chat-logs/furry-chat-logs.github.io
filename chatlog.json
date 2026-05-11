@@ -9042,5 +9042,15 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "really?! thank you!",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7877449",
+    "type": "public",
+    "date": "10/05 19:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo I dmed you",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
