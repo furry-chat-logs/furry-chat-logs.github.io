@@ -20022,5 +20022,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Wat did you do nose redo",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878844",
+    "type": "public",
+    "date": "11/05 8:31",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget has the power to trip over flat surfaces",
+    "msgClasses": "chat_message bneon4"
   }
 ]
