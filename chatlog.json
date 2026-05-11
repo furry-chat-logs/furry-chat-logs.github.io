@@ -23854,5 +23854,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemZ6Z3pldWtsMGN2angxaGs1cjVkMG95N3BxcGp4eW5uMmkybXQ2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oEPyO83kEnoyfwmewB/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7879276",
+    "type": "public",
+    "date": "11/05 13:17",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": ">.>",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879277",
+    "type": "public",
+    "date": "11/05 13:17",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Porphyrophobia 😭😭😭",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
