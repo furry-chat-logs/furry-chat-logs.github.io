@@ -14154,5 +14154,35 @@
     "userClasses": "username bgrad40 ",
     "message": "i think",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877962",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "EagleEdge yeah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877963",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "paimon I'm talking about the boat with the infected people",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877964",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Stop talking about religion",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
