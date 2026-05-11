@@ -27602,5 +27602,15 @@
     "userClasses": "username bcolor22 bnfont16",
     "message": "Oh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879684",
+    "type": "public",
+    "date": "11/05 16:26",
+    "username": "drifter",
+    "userId": "33487",
+    "userClasses": "username bgrad14 bnfont16",
+    "message": "Nugget fair enough",
+    "msgClasses": "chat_message bgrad14 heavyital bfont2"
   }
 ]
