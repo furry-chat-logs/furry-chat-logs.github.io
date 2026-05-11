@@ -23904,5 +23904,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Hi yall",
     "msgClasses": "chat_message bneon19 heavybold bfont7"
+  },
+  {
+    "id": "7879284",
+    "type": "public",
+    "date": "11/05 13:24",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Welcome In",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
