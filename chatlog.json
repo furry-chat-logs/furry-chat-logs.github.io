@@ -22910,5 +22910,15 @@
     "userClasses": "username bcolor32 bnfont7",
     "message": "🫪",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7879157",
+    "type": "public",
+    "date": "11/05 12:31",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "HALLOO",
+    "msgClasses": "chat_message bold"
   }
 ]
