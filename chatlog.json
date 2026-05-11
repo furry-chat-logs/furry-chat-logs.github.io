@@ -16934,5 +16934,25 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "why does waiting for tmrrr feel like a goddamn eternity eughghesfesfdsijlfdskjf",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7878332",
+    "type": "public",
+    "date": "11/05 1:00",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "please go faster",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7878333",
+    "type": "public",
+    "date": "11/05 1:01",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMHEzY3J2cWk0YmcwbWlld2ppdDNhc3B2dGZ6NXJlZXc3eGNlMGFjayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CFnJUSUhZOEqGrcMew/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
