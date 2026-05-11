@@ -14944,5 +14944,25 @@
     "userClasses": "username bgrad40 ",
     "message": "should i keep my computer on 24/7 just for coins",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878041",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user2169_cd15693d3f5c.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878042",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "i dont think its bannable",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
