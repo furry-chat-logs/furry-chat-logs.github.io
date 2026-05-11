@@ -18144,5 +18144,15 @@
     "userClasses": "username bgrad4 bnfont8",
     "message": "this dead asf",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7878507",
+    "type": "public",
+    "date": "11/05 3:30",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "I see",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
