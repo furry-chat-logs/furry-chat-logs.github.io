@@ -19942,5 +19942,25 @@
     "userClasses": "username bneon4 ",
     "message": "Nugget still hungry",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878836",
+    "type": "public",
+    "date": "11/05 8:30",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget resorts to drastic measures",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878837",
+    "type": "public",
+    "date": "11/05 8:30",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Gang use psychonetic powers to see what i look like through the screen and tell me if my makeup looks good chat",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
