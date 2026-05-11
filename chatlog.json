@@ -10700,5 +10700,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Anyone have a coffee item i can have",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877615",
+    "type": "public",
+    "date": "10/05 19:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hi",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
