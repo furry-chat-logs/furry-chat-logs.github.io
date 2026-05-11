@@ -17384,5 +17384,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "I am not willing to even try",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7878377",
+    "type": "public",
+    "date": "11/05 1:19",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Anyways gn chat, hope everyone sleeps erll",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7878378",
+    "type": "public",
+    "date": "11/05 1:19",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Well",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
