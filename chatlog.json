@@ -13664,5 +13664,25 @@
     "userClasses": "username bgrad40 ",
     "message": "Rimshu icecream with cookies",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877913",
+    "type": "public",
+    "date": "10/05 21:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_e23d9568e395.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877914",
+    "type": "public",
+    "date": "10/05 21:37",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "EagleEdge I know the Unholy Trinity, amazing game btw",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
