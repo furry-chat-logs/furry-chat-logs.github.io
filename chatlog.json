@@ -17934,5 +17934,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878486",
+    "type": "public",
+    "date": "11/05 3:10",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "telephone",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
