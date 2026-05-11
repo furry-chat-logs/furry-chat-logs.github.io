@@ -25872,5 +25872,35 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "honestly i do it because it helps me with panic attacks",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879495",
+    "type": "public",
+    "date": "11/05 15:22",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Greatest background change of my life.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7879496",
+    "type": "public",
+    "date": "11/05 15:22",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "?",
+    "msgClasses": "chat_message bneon1 ital bfont11"
+  },
+  {
+    "id": "7879497",
+    "type": "public",
+    "date": "11/05 15:22",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "What is going on-",
+    "msgClasses": "chat_message bneon1 ital bfont11"
   }
 ]
