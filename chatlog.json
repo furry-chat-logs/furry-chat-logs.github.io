@@ -24174,5 +24174,15 @@
     "userClasses": "username bneon19 bnfont1",
     "message": "Profit",
     "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7879311",
+    "type": "public",
+    "date": "11/05 13:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hm?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
