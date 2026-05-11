@@ -19732,5 +19732,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Nugget nuh uh",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878815",
+    "type": "public",
+    "date": "11/05 8:26",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "*summons a swarm of rats with my phone* eat this Nugget",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878816",
+    "type": "public",
+    "date": "11/05 8:26",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rarrrr",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
