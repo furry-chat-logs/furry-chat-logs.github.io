@@ -22520,5 +22520,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Shura You should be able to buy svip now",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879117",
+    "type": "public",
+    "date": "11/05 12:22",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "You didn't have to do that",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879118",
+    "type": "public",
+    "date": "11/05 12:22",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "You're right. I didn't have to, that's why I did it. I don't want anything out of you in return.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
