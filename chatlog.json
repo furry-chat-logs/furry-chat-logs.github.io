@@ -13194,5 +13194,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "JustAnAnt *sniff*",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7877866",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "WE MAD?",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877867",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "De JustAnAnt *you're",
+    "msgClasses": "chat_message "
   }
 ]
