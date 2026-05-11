@@ -20672,5 +20672,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Yeah that except its purple and pink",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878909",
+    "type": "public",
+    "date": "11/05 8:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "No that's me poc",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878910",
+    "type": "public",
+    "date": "11/05 8:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*pov",
+    "msgClasses": "chat_message bneon14"
   }
 ]
