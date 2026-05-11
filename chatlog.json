@@ -15544,5 +15544,25 @@
     "userClasses": "username bgrad40 ",
     "message": "0G Stupendous Man oh",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878101",
+    "type": "public",
+    "date": "10/05 21:51",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "i am blind",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878102",
+    "type": "public",
+    "date": "10/05 21:51",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "paimon that's how you know it's good",
+    "msgClasses": "chat_message "
   }
 ]
