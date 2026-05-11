@@ -10924,5 +10924,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Gang ima lock in and draw myself.",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877639",
+    "type": "public",
+    "date": "10/05 20:18",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_a528e59fa470.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877640",
+    "type": "public",
+    "date": "10/05 20:18",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yo hear me out",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
