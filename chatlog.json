@@ -23706,5 +23706,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Not again",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7879256",
+    "type": "public",
+    "date": "11/05 13:01",
+    "username": "Mew",
+    "userId": "26458",
+    "userClasses": "username bcolor24 bnfont15",
+    "message": "Ill stay quiet",
+    "msgClasses": "chat_message bcolor23 boldital bfont3"
   }
 ]
