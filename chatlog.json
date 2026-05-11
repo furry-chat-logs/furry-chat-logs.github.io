@@ -9232,5 +9232,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "So if you encountered a really nice non fur, would you be their friend?",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877468",
+    "type": "public",
+    "date": "10/05 19:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Probably not, but idk",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
