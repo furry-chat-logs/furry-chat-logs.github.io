@@ -9062,5 +9062,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "If I'm not a furry, am I allowed here?",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877451",
+    "type": "public",
+    "date": "10/05 19:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I mean yeah",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
