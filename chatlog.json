@@ -9862,5 +9862,25 @@
     "userClasses": "username bgrad15 ",
     "message": "I really liked him to.",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877531",
+    "type": "public",
+    "date": "10/05 19:16",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Bro said",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877532",
+    "type": "public",
+    "date": "10/05 19:16",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_c6aefe4f5e4a.gif]",
+    "msgClasses": "chat_message "
   }
 ]
