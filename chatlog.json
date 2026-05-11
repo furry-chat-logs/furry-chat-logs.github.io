@@ -20732,5 +20732,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Yeah thats what i figured,i was just saying if it were me it would be purple and pink.",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878915",
+    "type": "public",
+    "date": "11/05 8:50",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Morning",
+    "msgClasses": "chat_message "
   }
 ]
