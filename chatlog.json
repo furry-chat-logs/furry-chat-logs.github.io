@@ -22720,5 +22720,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Miss Divinity ... [angry]",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879138",
+    "type": "public",
+    "date": "11/05 12:27",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "I can'ttt, I don't want to go back inside because then they gonna make me go to class",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
