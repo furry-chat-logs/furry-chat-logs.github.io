@@ -19542,5 +19542,25 @@
     "userClasses": "username bneon4 ",
     "message": "Nugget is better than Butters",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878796",
+    "type": "public",
+    "date": "11/05 8:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "😭",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878797",
+    "type": "public",
+    "date": "11/05 8:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Nugget ?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
