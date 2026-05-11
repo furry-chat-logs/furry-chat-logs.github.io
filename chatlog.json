@@ -10190,5 +10190,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_f5a0a7aa18c6.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877564",
+    "type": "public",
+    "date": "10/05 19:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I found my vest",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
