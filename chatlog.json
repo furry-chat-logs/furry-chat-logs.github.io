@@ -15434,5 +15434,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lemon yay.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878090",
+    "type": "public",
+    "date": "10/05 21:50",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "0G Stupendous Man no",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
