@@ -14274,5 +14274,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Yall are rude to Christians ✝️",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877974",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Guys can we stop we were literally told to like y'all gonna get kicked 💔",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877975",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Porphyrophobia bring me along",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
