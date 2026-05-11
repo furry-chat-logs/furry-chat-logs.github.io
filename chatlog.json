@@ -13514,5 +13514,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Jesus is son of God",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877898",
+    "type": "public",
+    "date": "10/05 21:36",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "if ur so smart :0",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
