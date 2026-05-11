@@ -25582,5 +25582,15 @@
     "userClasses": "username bneon19 bnfont1",
     "message": "Chat dead",
     "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7879466",
+    "type": "public",
+    "date": "11/05 15:04",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "bro stop",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
