@@ -26702,5 +26702,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I'm almost level 6",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879578",
+    "type": "public",
+    "date": "11/05 15:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I think I got this bro",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
