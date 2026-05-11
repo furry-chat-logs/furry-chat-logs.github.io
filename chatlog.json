@@ -21582,5 +21582,25 @@
     "userClasses": "username bneon19 bnfont1",
     "message": "but it was my mom",
     "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7879000",
+    "type": "public",
+    "date": "11/05 10:50",
+    "username": "RainbowDashTaiwanWDP",
+    "userId": "37012",
+    "userClasses": "username bcolor22 bnfont16",
+    "message": "Dawwwwwwwww cute tho",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879001",
+    "type": "public",
+    "date": "11/05 10:50",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "My friends at school still don't know. but my brother and his friends know. [I sorta used 'em as a control group for if I eventually tell my friends]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
