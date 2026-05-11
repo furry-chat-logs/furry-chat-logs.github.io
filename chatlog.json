@@ -12484,5 +12484,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Derikgodzilla18 you're being passive with shoving it down our throats",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877795",
+    "type": "public",
+    "date": "10/05 21:28",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "We do not care.",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877796",
+    "type": "public",
+    "date": "10/05 21:28",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Ha",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
