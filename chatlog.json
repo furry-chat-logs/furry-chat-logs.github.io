@@ -24184,5 +24184,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hm?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7879312",
+    "type": "public",
+    "date": "11/05 13:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*sigh*",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7879313",
+    "type": "public",
+    "date": "11/05 13:39",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "i hve it and going to sell it lolz",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
   }
 ]
