@@ -26942,5 +26942,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZzRqcWl6OXA5eW9qbmNqcWdpaHBhMnFzam40N3NlYXVxN2VnNm5mcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nLScIh5u0196vyT7iS/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7879618",
+    "type": "public",
+    "date": "11/05 16:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Real",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
