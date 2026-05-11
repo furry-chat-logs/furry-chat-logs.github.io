@@ -10770,5 +10770,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Which one chat... (Im gonna go snooping..)",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877623",
+    "type": "public",
+    "date": "10/05 19:57",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I snooped and figured it out nvm",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
