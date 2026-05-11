@@ -19562,5 +19562,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Nugget ?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878798",
+    "type": "public",
+    "date": "11/05 8:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Nugget you should beat butters up",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
