@@ -10984,5 +10984,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "WOAH",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877645",
+    "type": "public",
+    "date": "10/05 20:33",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "cute",
+    "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7877646",
+    "type": "public",
+    "date": "10/05 20:33",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Gng...someone should draw him...heh...",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
