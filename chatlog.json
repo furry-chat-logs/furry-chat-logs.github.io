@@ -25432,5 +25432,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "My mom just saw the chat [sob]",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7879451",
+    "type": "public",
+    "date": "11/05 14:57",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "o nooooo",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
   }
 ]
