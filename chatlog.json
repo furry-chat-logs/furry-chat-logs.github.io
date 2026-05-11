@@ -19832,5 +19832,15 @@
     "userClasses": "username bneon4 ",
     "message": "Nugget doesn't care",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878825",
+    "type": "public",
+    "date": "11/05 8:27",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget is hungry",
+    "msgClasses": "chat_message bneon4"
   }
 ]
