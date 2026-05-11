@@ -26892,5 +26892,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": ":3",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879613",
+    "type": "public",
+    "date": "11/05 16:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": ":3",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
