@@ -18992,5 +18992,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "New Kid heyo",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7878741",
+    "type": "public",
+    "date": "11/05 7:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Medokin Sol_Aizawa Sharkish  hi",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
