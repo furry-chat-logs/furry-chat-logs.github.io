@@ -27362,5 +27362,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Try me",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879660",
+    "type": "public",
+    "date": "11/05 16:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Nugget.",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
