@@ -20882,5 +20882,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Man two",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878930",
+    "type": "public",
+    "date": "11/05 8:53",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "?",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
