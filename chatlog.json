@@ -23666,5 +23666,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Nice talking to ya!",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879252",
+    "type": "public",
+    "date": "11/05 12:59",
+    "username": "Mew",
+    "userId": "26458",
+    "userClasses": "username bcolor24 bnfont15",
+    "message": "Wonder what's going on in here today",
+    "msgClasses": "chat_message bcolor23 boldital bfont3"
   }
 ]
