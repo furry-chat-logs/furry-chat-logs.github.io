@@ -15974,5 +15974,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878144",
+    "type": "public",
+    "date": "10/05 21:57",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "rocks eat humans",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
