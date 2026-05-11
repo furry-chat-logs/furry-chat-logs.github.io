@@ -26172,5 +26172,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "It gives you dopamine, which is temporary. You'll wake up in the morning feeling like shit, needing more.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879525",
+    "type": "public",
+    "date": "11/05 15:30",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "stfu*",
+    "msgClasses": "chat_message bneon20 bold bfont14"
   }
 ]
