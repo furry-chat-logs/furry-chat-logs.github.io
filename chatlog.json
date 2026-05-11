@@ -24314,5 +24314,15 @@
     "userClasses": "username user ",
     "message": "Hey guys",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879325",
+    "type": "public",
+    "date": "11/05 13:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Axolotal heyo",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
