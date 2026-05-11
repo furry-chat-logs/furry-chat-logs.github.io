@@ -26212,5 +26212,15 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "imma just get off see ya",
     "msgClasses": "chat_message bgrad26 heavyital bfont10"
+  },
+  {
+    "id": "7879529",
+    "type": "public",
+    "date": "11/05 15:30",
+    "username": "0DrakoBloxxer0",
+    "userId": "26198",
+    "userClasses": "username bneon1 bnfont1",
+    "message": "[skull] [prayer]",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
   }
 ]
