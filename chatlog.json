@@ -13484,5 +13484,25 @@
     "userClasses": "username bgrad40 ",
     "message": ";-;",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877895",
+    "type": "public",
+    "date": "10/05 21:36",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "What are yall yammering about",
+    "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7877896",
+    "type": "public",
+    "date": "10/05 21:36",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Derikgodzilla18 alr explain how",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
