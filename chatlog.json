@@ -21162,5 +21162,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Bai!",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7878958",
+    "type": "public",
+    "date": "11/05 9:45",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Ohh okay",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878959",
+    "type": "public",
+    "date": "11/05 9:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "bye",
+    "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7878960",
+    "type": "public",
+    "date": "11/05 9:45",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Baii",
+    "msgClasses": "chat_message "
   }
 ]
