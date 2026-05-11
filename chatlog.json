@@ -24972,5 +24972,15 @@
     "userClasses": "username bneon19 bnfont1",
     "message": "lolz",
     "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7879404",
+    "type": "public",
+    "date": "11/05 14:18",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Any artists online",
+    "msgClasses": "chat_message "
   }
 ]
