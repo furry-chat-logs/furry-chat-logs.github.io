@@ -17664,5 +17664,15 @@
     "userClasses": "username bneon19 bnfont14",
     "message": "[ohare]",
     "msgClasses": "chat_message bneon1 heavyital bfont14"
+  },
+  {
+    "id": "7878408",
+    "type": "public",
+    "date": "11/05 1:33",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "It's unfortunate that the chat is moving so slow.",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
