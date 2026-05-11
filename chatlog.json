@@ -23546,5 +23546,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Yeah I use music mostly",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879238",
+    "type": "public",
+    "date": "11/05 12:54",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "But then ppl always blowing up my phone asking me if I'm okay, and it stresses me out how many ppl are asking me",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
