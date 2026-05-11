@@ -26282,5 +26282,25 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "New Kid real",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879536",
+    "type": "public",
+    "date": "11/05 15:31",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "i dont have any in the first place",
+    "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879537",
+    "type": "public",
+    "date": "11/05 15:31",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Is that lore I hear",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
