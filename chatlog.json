@@ -15064,5 +15064,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Buggo read my bio. Im not friending you.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878053",
+    "type": "public",
+    "date": "10/05 21:47",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "im adding everyone in the chat :_",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
