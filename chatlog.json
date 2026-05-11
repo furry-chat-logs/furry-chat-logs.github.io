@@ -14514,5 +14514,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_9b86fc191c44.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877998",
+    "type": "public",
+    "date": "10/05 21:42",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Rimshu never have i ever?",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877999",
+    "type": "public",
+    "date": "10/05 21:42",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user2169_5946633e3add.png]",
+    "msgClasses": "chat_message "
   }
 ]
