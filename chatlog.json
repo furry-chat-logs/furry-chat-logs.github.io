@@ -9182,5 +9182,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "That sounds supremacist wouldn't you say?",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877463",
+    "type": "public",
+    "date": "10/05 19:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Well not rlly",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
