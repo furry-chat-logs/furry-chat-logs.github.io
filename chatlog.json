@@ -17654,5 +17654,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[ohare]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7878407",
+    "type": "public",
+    "date": "11/05 1:31",
+    "username": "Fleetway Sonic",
+    "userId": "28305",
+    "userClasses": "username bneon19 bnfont14",
+    "message": "[ohare]",
+    "msgClasses": "chat_message bneon1 heavyital bfont14"
   }
 ]
