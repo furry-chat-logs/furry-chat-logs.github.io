@@ -29338,5 +29338,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Australia just needs to be nuked atp",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879858",
+    "type": "public",
+    "date": "11/05 18:01",
+    "username": "IssaAltAcc",
+    "userId": "23725",
+    "userClasses": "username bneon9 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcDdhZTg1YTBoNXdnejVrcXZoNXAzMmRlMms4aTRxcGtodTM4djNkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ryED74VAkygAo/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
