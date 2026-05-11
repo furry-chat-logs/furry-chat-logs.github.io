@@ -20482,5 +20482,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I want dyed hair...",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878890",
+    "type": "public",
+    "date": "11/05 8:41",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "This you",
+    "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878891",
+    "type": "public",
+    "date": "11/05 8:42",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_a1b3891f74ea.png]",
+    "msgClasses": "chat_message "
   }
 ]
