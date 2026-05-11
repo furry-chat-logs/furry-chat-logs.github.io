@@ -25042,5 +25042,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Niko the bee is homophobic",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879411",
+    "type": "public",
+    "date": "11/05 14:23",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Confirmed",
+    "msgClasses": "chat_message "
   }
 ]
