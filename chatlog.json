@@ -20332,5 +20332,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Wait who r u talking to",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878875",
+    "type": "public",
+    "date": "11/05 8:40",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Buggo purple",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878876",
+    "type": "public",
+    "date": "11/05 8:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Pink",
+    "msgClasses": "chat_message bneon14"
   }
 ]
