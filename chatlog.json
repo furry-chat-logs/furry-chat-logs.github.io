@@ -18892,5 +18892,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "It just sporns in my inventory",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878731",
+    "type": "public",
+    "date": "11/05 7:47",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "?",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
