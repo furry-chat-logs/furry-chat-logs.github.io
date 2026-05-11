@@ -15074,5 +15074,25 @@
     "userClasses": "username bgrad40 ",
     "message": "im adding everyone in the chat :_",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878054",
+    "type": "public",
+    "date": "10/05 21:47",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "Maus was a really good book about WWII I highly recommend it",
+    "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7878055",
+    "type": "public",
+    "date": "10/05 21:47",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "0G Stupendous Man Oh mb i skimmed it",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
