@@ -21482,5 +21482,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "It's boopable",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878990",
+    "type": "public",
+    "date": "11/05 10:37",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "it is extremely boopable, indeed",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
