@@ -18174,5 +18174,15 @@
     "userClasses": "username bgrad15 ",
     "message": "[scrylveon]",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878510",
+    "type": "public",
+    "date": "11/05 3:40",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Buggo whatttt",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
