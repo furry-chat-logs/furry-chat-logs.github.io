@@ -21312,5 +21312,15 @@
     "userClasses": "username bneon1 bnfont10",
     "message": "watermelon",
     "msgClasses": "chat_message bneon1 heavyital bfont10"
+  },
+  {
+    "id": "7878973",
+    "type": "public",
+    "date": "11/05 9:52",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "JustAnAnt that'd be crazy, ngl",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
