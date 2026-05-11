@@ -10680,5 +10680,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Jude_28 hi new here",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877613",
+    "type": "public",
+    "date": "10/05 19:50",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Jude_28 hello",
+    "msgClasses": "chat_message "
   }
 ]
