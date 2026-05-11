@@ -25762,5 +25762,15 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "i need me somethin to smoke",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879484",
+    "type": "public",
+    "date": "11/05 15:17",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hello, people.",
+    "msgClasses": "chat_message ital"
   }
 ]
