@@ -18224,5 +18224,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Buggo Hey, I may be a rat but I'm a clean rat",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7878515",
+    "type": "public",
+    "date": "11/05 3:44",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "SwiggleBiggle Even if youre clean,are you sickly?",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
