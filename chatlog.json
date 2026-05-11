@@ -15914,5 +15914,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "My neck is killin me",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878138",
+    "type": "public",
+    "date": "10/05 21:56",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Buggo i hope u feel better!",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
