@@ -20592,5 +20592,25 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": ":0",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7878901",
+    "type": "public",
+    "date": "11/05 8:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Happened to me too today",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878902",
+    "type": "public",
+    "date": "11/05 8:45",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_d6f58b16e69e.png]",
+    "msgClasses": "chat_message "
   }
 ]
