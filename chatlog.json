@@ -25142,5 +25142,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "H",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879421",
+    "type": "public",
+    "date": "11/05 14:35",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "Kill",
+    "msgClasses": "chat_message bneon1 ital bfont11"
   }
 ]
