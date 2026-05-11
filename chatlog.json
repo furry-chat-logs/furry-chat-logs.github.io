@@ -10730,5 +10730,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Im back",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877619",
+    "type": "public",
+    "date": "10/05 19:56",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Buggo oh i was just thinking about you",
+    "msgClasses": "chat_message "
   }
 ]
