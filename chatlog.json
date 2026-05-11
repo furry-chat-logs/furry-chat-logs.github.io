@@ -29826,5 +29826,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Bleh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879907",
+    "type": "public",
+    "date": "11/05 18:55",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Voice message",
+    "msgClasses": "chat_message "
   }
 ]
