@@ -25472,5 +25472,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "not being on here on my phone for one",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7879455",
+    "type": "public",
+    "date": "11/05 14:58",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "mmm",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7879456",
+    "type": "public",
+    "date": "11/05 14:58",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35017_7e874342c221.png]",
+    "msgClasses": "chat_message "
   }
 ]
