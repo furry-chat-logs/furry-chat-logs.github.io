@@ -10310,5 +10310,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Sounds about right",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7877576",
+    "type": "public",
+    "date": "10/05 19:32",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "I find it weird that bro is 36 yrs old and has a locked account",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877577",
+    "type": "public",
+    "date": "10/05 19:32",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Is IT talking rn?",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
