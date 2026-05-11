@@ -16094,5 +16094,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "idk",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7878159",
+    "type": "public",
+    "date": "10/05 22:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Bruh.",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
