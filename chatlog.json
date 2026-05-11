@@ -26042,5 +26042,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "KillerThefemmy I don't give a shit whether or not you care.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879512",
+    "type": "public",
+    "date": "11/05 15:28",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "Miss Divinity then why say somethin",
+    "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879513",
+    "type": "public",
+    "date": "11/05 15:28",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I'll tell you the same when you get lung cancer, degen.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
