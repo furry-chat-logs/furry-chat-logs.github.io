@@ -17454,5 +17454,25 @@
     "userClasses": "username user ",
     "message": "shut uwup ^-^^ im a fuzzy fuwwy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878384",
+    "type": "public",
+    "date": "11/05 1:20",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "ehehhehehehehe",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7878385",
+    "type": "public",
+    "date": "11/05 1:20",
+    "username": "Olliepawss",
+    "userId": "37159",
+    "userClasses": "username user ",
+    "message": "Oh ew",
+    "msgClasses": "chat_message "
   }
 ]
