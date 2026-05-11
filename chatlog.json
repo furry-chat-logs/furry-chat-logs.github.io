@@ -28472,5 +28472,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "Y'all are definitely something",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7879771",
+    "type": "public",
+    "date": "11/05 16:57",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Lemon Am I okay?",
+    "msgClasses": "chat_message ital"
   }
 ]
