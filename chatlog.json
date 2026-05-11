@@ -20172,5 +20172,25 @@
     "userClasses": "username bneon4 ",
     "message": "Buggo Nugget is stuck in Kindergarten by the devil, Nugget has been summoned there by the kids of the school, forever bound to that realm",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878859",
+    "type": "public",
+    "date": "11/05 8:35",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_a165a6475946.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878860",
+    "type": "public",
+    "date": "11/05 8:35",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget like cars",
+    "msgClasses": "chat_message bneon4"
   }
 ]
