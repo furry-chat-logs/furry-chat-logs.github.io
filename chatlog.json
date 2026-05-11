@@ -21660,5 +21660,15 @@
     "username": "System",
     "userId": null,
     "message": "STXRLYN has been kicked"
+  },
+  {
+    "id": "7879013",
+    "type": "public",
+    "date": "11/05 11:11",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "huh....that's not something I expected to happen today",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
