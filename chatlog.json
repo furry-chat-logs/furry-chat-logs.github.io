@@ -23318,5 +23318,25 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "We were having issues before we broke up and I wasn't feeling it anymore and I wanted to move on and he didn't like that",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7879213",
+    "type": "public",
+    "date": "11/05 12:49",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "Miss Divinity yeah it is",
+    "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7879214",
+    "type": "public",
+    "date": "11/05 12:49",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "My ex convinced everyone her ex cheated on her and then cheated on me with HIM.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
