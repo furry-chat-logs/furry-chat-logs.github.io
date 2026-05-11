@@ -27532,5 +27532,15 @@
     "userClasses": "username bneon4 ",
     "message": "Nugget ate a wing off and caused 9/11",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7879677",
+    "type": "public",
+    "date": "11/05 16:24",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "Take a look around you",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
