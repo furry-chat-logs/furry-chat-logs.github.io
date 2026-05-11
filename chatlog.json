@@ -27672,5 +27672,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Jesus.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7879691",
+    "type": "public",
+    "date": "11/05 16:31",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "huh",
+    "msgClasses": "chat_message bneon1 ital bfont11"
   }
 ]
