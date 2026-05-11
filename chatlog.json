@@ -22340,5 +22340,25 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "psychoboi_Togame I'm alr, wbu",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879089",
+    "type": "public",
+    "date": "11/05 12:14",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "liminal lmk if its good",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879090",
+    "type": "public",
+    "date": "11/05 12:14",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Shura chillin",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
