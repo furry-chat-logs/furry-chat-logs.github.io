@@ -15044,5 +15044,25 @@
     "userClasses": "username user ",
     "message": "Miss Divinity Holocaust",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878051",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Funny book name wins every time",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878052",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Buggo read my bio. Im not friending you.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
