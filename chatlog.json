@@ -17024,5 +17024,25 @@
     "userClasses": "username bneon14 bnfont9",
     "message": "test",
     "msgClasses": "chat_message bneon13 heavybold bfont5"
+  },
+  {
+    "id": "7878341",
+    "type": "public",
+    "date": "11/05 1:09",
+    "username": "Wren",
+    "userId": "36497",
+    "userClasses": "username bneon14 bnfont9",
+    "message": "holy pek",
+    "msgClasses": "chat_message bneon13 heavybold bfont5"
+  },
+  {
+    "id": "7878342",
+    "type": "public",
+    "date": "11/05 1:09",
+    "username": "Wren",
+    "userId": "36497",
+    "userClasses": "username bneon14 bnfont9",
+    "message": "peak*",
+    "msgClasses": "chat_message bneon13 heavybold bfont5"
   }
 ]
