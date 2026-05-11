@@ -9242,5 +9242,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Probably not, but idk",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877469",
+    "type": "public",
+    "date": "10/05 19:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I am a really strange person",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
