@@ -16494,5 +16494,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Zen and I have similar humor, I'll send him a Siege meme and he'll be like, that was just on my fyp directly after it was on mine",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7878222",
+    "type": "public",
+    "date": "10/05 23:30",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_372e6c34cddd.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878223",
+    "type": "public",
+    "date": "10/05 23:30",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Goodnight",
+    "msgClasses": "chat_message "
   }
 ]
