@@ -25812,5 +25812,25 @@
     "userClasses": "username bneon1 bnfont1",
     "message": "dissapointing",
     "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7879489",
+    "type": "public",
+    "date": "11/05 15:18",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "bru its weed",
+    "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879490",
+    "type": "public",
+    "date": "11/05 15:18",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "why not\\",
+    "msgClasses": "chat_message bneon20 bold bfont14"
   }
 ]
