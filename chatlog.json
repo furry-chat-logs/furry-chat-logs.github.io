@@ -15014,5 +15014,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "I'm living my dream of being a game dev",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7878048",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "okay",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
