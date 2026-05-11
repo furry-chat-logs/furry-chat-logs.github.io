@@ -28900,5 +28900,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Smiley I just dislike coffee flavors",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879814",
+    "type": "public",
+    "date": "11/05 17:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Faygo [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7879815",
+    "type": "public",
+    "date": "11/05 17:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hrgrgrgrgrg.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
