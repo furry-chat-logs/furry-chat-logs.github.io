@@ -22060,5 +22060,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I'm in the dark",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879053",
+    "type": "public",
+    "date": "11/05 12:01",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Yo, chats a bit dead Ig",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
