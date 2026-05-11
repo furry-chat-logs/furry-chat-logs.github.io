@@ -14664,5 +14664,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Theres me...",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878013",
+    "type": "public",
+    "date": "10/05 21:44",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user710_764927d2f748.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878014",
+    "type": "public",
+    "date": "10/05 21:44",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "paimon they take you out back and put a hole in your head",
+    "msgClasses": "chat_message "
   }
 ]
