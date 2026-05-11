@@ -16474,5 +16474,15 @@
     "userClasses": "username user ",
     "message": "Miss Divinity I've seen that video",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878211",
+    "type": "public",
+    "date": "10/05 23:27",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Wtfissachip yeah it's FOUL",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
