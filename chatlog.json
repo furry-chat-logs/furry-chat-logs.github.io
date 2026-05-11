@@ -15184,5 +15184,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "paimon you sent a request.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878065",
+    "type": "public",
+    "date": "10/05 21:48",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user2169_1a8fec2baffd.png]",
+    "msgClasses": "chat_message "
   }
 ]
