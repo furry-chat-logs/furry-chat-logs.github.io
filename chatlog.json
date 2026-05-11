@@ -22420,5 +22420,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Shura if i had enough i wouldve bought it for u",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879106",
+    "type": "public",
+    "date": "11/05 12:20",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "It's alr",
+    "msgClasses": "chat_message "
   }
 ]
