@@ -15794,5 +15794,15 @@
     "userClasses": "username user ",
     "message": "Reasonable",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878126",
+    "type": "public",
+    "date": "10/05 21:54",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Porphyrophobia dog would eat u",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
