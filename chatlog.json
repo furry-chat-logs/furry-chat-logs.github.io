@@ -20212,5 +20212,15 @@
     "userClasses": "username bgrad15 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37005_e1af77f7a617.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878863",
+    "type": "public",
+    "date": "11/05 8:36",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "LOL",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
