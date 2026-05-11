@@ -14994,5 +14994,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Would you rather have to deny 9/11 every time it is mentioned and \"disprove\" it by showing a video of the Twin Towers being hit in reverse or Deny the Holocaust so intensely that you write a book titled The Liar-y of Anne Frank.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7878046",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lemon damn.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878047",
+    "type": "public",
+    "date": "10/05 21:46",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "I'm living my dream of being a game dev",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
