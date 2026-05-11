@@ -21910,5 +21910,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Cube",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879038",
+    "type": "public",
+    "date": "11/05 11:29",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Spectre_protogen oh... thats not scary",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7879039",
+    "type": "public",
+    "date": "11/05 11:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bggrgrgrgr",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
