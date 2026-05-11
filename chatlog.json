@@ -20962,5 +20962,15 @@
     "userClasses": "username bgrad15 ",
     "message": "School is happenening",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878938",
+    "type": "public",
+    "date": "11/05 8:59",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Samee",
+    "msgClasses": "chat_message "
   }
 ]
