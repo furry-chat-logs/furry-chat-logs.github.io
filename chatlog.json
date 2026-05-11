@@ -21840,5 +21840,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "This is the [][][][][][][][]",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879031",
+    "type": "public",
+    "date": "11/05 11:26",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_67c105cabae9.png]",
+    "msgClasses": "chat_message "
   }
 ]
