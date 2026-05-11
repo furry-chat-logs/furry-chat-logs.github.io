@@ -16634,5 +16634,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Miss Divinity your good",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7878297",
+    "type": "public",
+    "date": "10/05 23:49",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "I see!",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
