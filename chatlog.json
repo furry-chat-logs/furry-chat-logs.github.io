@@ -17374,5 +17374,15 @@
     "userClasses": "username user ",
     "message": "Ash٭  what was even happening?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878376",
+    "type": "public",
+    "date": "11/05 1:19",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "I am not willing to even try",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
