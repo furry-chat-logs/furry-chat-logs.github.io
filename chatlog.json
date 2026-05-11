@@ -17614,5 +17614,15 @@
     "userClasses": "username bneon19 bnfont14",
     "message": "[syndrome]",
     "msgClasses": "chat_message bneon1 heavyital bfont14"
+  },
+  {
+    "id": "7878400",
+    "type": "public",
+    "date": "11/05 1:26",
+    "username": "whiteboycarsyn",
+    "userId": "35819",
+    "userClasses": "username bcolor32 bnfont7",
+    "message": "Wuddup chat",
+    "msgClasses": "chat_message bcolor31 ital bfont7"
   }
 ]
