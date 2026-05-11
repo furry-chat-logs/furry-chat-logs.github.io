@@ -28850,5 +28850,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I wanna just try something new",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879809",
+    "type": "public",
+    "date": "11/05 17:24",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "KingCorgz Alr.",
+    "msgClasses": "chat_message ital"
   }
 ]
