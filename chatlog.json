@@ -19802,5 +19802,35 @@
     "userClasses": "username bneon4 ",
     "message": "*Nugget eats the rats*",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878822",
+    "type": "public",
+    "date": "11/05 8:27",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Nugget Hantavirus. Now.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878823",
+    "type": "public",
+    "date": "11/05 8:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Breh...",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878824",
+    "type": "public",
+    "date": "11/05 8:27",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget doesn't care",
+    "msgClasses": "chat_message bneon4"
   }
 ]
