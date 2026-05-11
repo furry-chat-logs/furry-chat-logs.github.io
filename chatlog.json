@@ -20432,5 +20432,35 @@
     "userClasses": "username bneon4 ",
     "message": "I'm just redying my hair tmrw",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878885",
+    "type": "public",
+    "date": "11/05 8:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wow",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878886",
+    "type": "public",
+    "date": "11/05 8:41",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_8576188ef7cb.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878887",
+    "type": "public",
+    "date": "11/05 8:41",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Black",
+    "msgClasses": "chat_message bneon4"
   }
 ]
