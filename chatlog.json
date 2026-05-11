@@ -20462,5 +20462,25 @@
     "userClasses": "username bneon4 ",
     "message": "Black",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878888",
+    "type": "public",
+    "date": "11/05 8:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "How unfair",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7878889",
+    "type": "public",
+    "date": "11/05 8:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I want dyed hair...",
+    "msgClasses": "chat_message bneon14"
   }
 ]
