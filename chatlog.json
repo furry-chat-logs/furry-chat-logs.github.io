@@ -27192,5 +27192,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I think I'll cancel on that",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879643",
+    "type": "public",
+    "date": "11/05 16:12",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Y'all can't be Nugget.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
