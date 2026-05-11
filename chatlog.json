@@ -20552,5 +20552,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Apples n stuff r good man",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878897",
+    "type": "public",
+    "date": "11/05 8:43",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Har moneyyyyyy",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
