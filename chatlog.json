@@ -9792,5 +9792,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_6688fdaadf1d.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877524",
+    "type": "public",
+    "date": "10/05 19:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I look goofy bro",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
