@@ -26612,5 +26612,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yeah I'm not seasoned enough for this",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879569",
+    "type": "public",
+    "date": "11/05 15:36",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I'm only Level 5 bro",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
