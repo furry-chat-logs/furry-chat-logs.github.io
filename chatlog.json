@@ -18952,5 +18952,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Hey guys",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878737",
+    "type": "public",
+    "date": "11/05 7:52",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Hey",
+    "msgClasses": "chat_message "
   }
 ]
