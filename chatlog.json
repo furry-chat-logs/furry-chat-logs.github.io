@@ -16164,5 +16164,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Real",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878166",
+    "type": "public",
+    "date": "10/05 22:48",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Hi chat",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
