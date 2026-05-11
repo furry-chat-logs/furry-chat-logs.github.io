@@ -27072,5 +27072,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Someone",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7879631",
+    "type": "public",
+    "date": "11/05 16:09",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_93dd5b6380bc.gif]",
+    "msgClasses": "chat_message "
   }
 ]
