@@ -15504,5 +15504,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Its RIGHT. THERE.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878097",
+    "type": "public",
+    "date": "10/05 21:51",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Wtfissachip alr this is going too far",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
