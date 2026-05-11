@@ -18304,5 +18304,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "test",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7878523",
+    "type": "public",
+    "date": "11/05 4:31",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test 2",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
