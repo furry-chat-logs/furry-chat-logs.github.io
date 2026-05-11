@@ -24464,5 +24464,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I will turn it blue again if nobody will do smthn",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7879344",
+    "type": "public",
+    "date": "11/05 13:53",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNjZnZGU3YnQzcnBhNGpqN2lzNzMyYWYxNGdweGExZ2QwMXd4eGdpNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9eYHQ8RZ4zfc4unXx/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
