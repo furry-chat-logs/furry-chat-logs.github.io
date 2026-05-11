@@ -19352,5 +19352,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Well",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878777",
+    "type": "public",
+    "date": "11/05 8:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "A character but",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878778",
+    "type": "public",
+    "date": "11/05 8:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "You get the idea",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
