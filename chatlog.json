@@ -18872,5 +18872,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "How do i get items",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878729",
+    "type": "public",
+    "date": "11/05 7:46",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin dunno, you just get em",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
