@@ -27812,5 +27812,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Porphyrophobia lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7879705",
+    "type": "public",
+    "date": "11/05 16:36",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "woah",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7879706",
+    "type": "public",
+    "date": "11/05 16:36",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "WOAH",
+    "msgClasses": "chat_message bneon4"
   }
 ]
