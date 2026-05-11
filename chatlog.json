@@ -19572,5 +19572,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Nugget you should beat butters up",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878799",
+    "type": "public",
+    "date": "11/05 8:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I like nuggets",
+    "msgClasses": "chat_message bneon14"
   }
 ]
