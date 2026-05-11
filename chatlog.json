@@ -19752,5 +19752,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rarrrr",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878817",
+    "type": "public",
+    "date": "11/05 8:26",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget loves rats",
+    "msgClasses": "chat_message bneon4"
   }
 ]
