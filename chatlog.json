@@ -24204,5 +24204,25 @@
     "userClasses": "username bneon19 bnfont1",
     "message": "i hve it and going to sell it lolz",
     "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7879314",
+    "type": "public",
+    "date": "11/05 13:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm hungry...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7879315",
+    "type": "public",
+    "date": "11/05 13:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_4ee336b0c64f.png]",
+    "msgClasses": "chat_message "
   }
 ]
