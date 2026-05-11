@@ -20242,5 +20242,15 @@
     "userClasses": "username bgrad15 ",
     "message": "I had to put the salad bowl down. It was too much for me.",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878866",
+    "type": "public",
+    "date": "11/05 8:38",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[1f991]",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
