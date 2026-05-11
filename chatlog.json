@@ -20152,5 +20152,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "W",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878857",
+    "type": "public",
+    "date": "11/05 8:34",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "🤖 Pov you",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
