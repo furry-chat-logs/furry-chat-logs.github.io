@@ -25272,5 +25272,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "It's almost 100° </3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879435",
+    "type": "public",
+    "date": "11/05 14:50",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "https://www.google.com/imgres?q=furry%20memes&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcJLkYuWxB7M%2Fsddefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcJLkYuWxB7M&docid=GksGVrXwSDHg3M&tbnid=f3wz-OUcFqu-MM&vet=12ahUKEwjyuNeOgLKUAxUvkyYFHa0eMgA4ChCc8A56BAhcEAE..i&w=640&h=480&hcb=2&ved",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
   }
 ]
