@@ -9492,5 +9492,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "I saw the guy who voices a character from genshin that I love",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877494",
+    "type": "public",
+    "date": "10/05 19:10",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Which character",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
