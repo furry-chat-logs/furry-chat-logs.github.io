@@ -25082,5 +25082,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Friendly fire will not be tolerated",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879415",
+    "type": "public",
+    "date": "11/05 14:25",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ".. im gay im not homo says it in my bio can you not read???",
+    "msgClasses": "chat_message bgrad26 heavyital bfont10"
   }
 ]
