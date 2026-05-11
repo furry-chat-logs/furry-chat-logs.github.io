@@ -20302,5 +20302,15 @@
     "userClasses": "username bcolor9 ",
     "message": "PEAK",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7878872",
+    "type": "public",
+    "date": "11/05 8:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ thank you!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
