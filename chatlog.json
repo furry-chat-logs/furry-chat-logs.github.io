@@ -22820,5 +22820,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Porphyrophobia you have a mind?",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879148",
+    "type": "public",
+    "date": "11/05 12:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "psychoboi_Togame Don't even",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7879149",
+    "type": "public",
+    "date": "11/05 12:29",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "😂🙏🏻",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
