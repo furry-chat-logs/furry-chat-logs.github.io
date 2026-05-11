@@ -27842,5 +27842,15 @@
     "userClasses": "username bneon15 bnfont1",
     "message": "Nugget ?",
     "msgClasses": "chat_message bneon1 ital bfont11"
+  },
+  {
+    "id": "7879708",
+    "type": "public",
+    "date": "11/05 16:36",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget is FLABBERGASTED",
+    "msgClasses": "chat_message bneon4"
   }
 ]
