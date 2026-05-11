@@ -9422,5 +9422,15 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "New Kid, amazing!!",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7877487",
+    "type": "public",
+    "date": "10/05 19:09",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "The one in Calgary",
+    "msgClasses": "chat_message "
   }
 ]
