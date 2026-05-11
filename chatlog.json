@@ -18154,5 +18154,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "I see",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7878508",
+    "type": "public",
+    "date": "11/05 3:37",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_4ef9e84ca9f9.png]",
+    "msgClasses": "chat_message "
   }
 ]
