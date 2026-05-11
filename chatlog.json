@@ -17344,5 +17344,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "stop <//3  🥀",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7878373",
+    "type": "public",
+    "date": "11/05 1:18",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWZvbWZ3MnE5MGowbjJuNjgzd2VpbnMyaDVnNzQyYXh0OWxsMzBwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UY3tY8CCGuRnHH6H69/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
