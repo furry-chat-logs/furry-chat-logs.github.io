@@ -13624,5 +13624,25 @@
     "userClasses": "username bgrad40 ",
     "message": ";-;",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877909",
+    "type": "public",
+    "date": "10/05 21:37",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Cookies and creme ice cream",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7877910",
+    "type": "public",
+    "date": "10/05 21:37",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "NeptuneLynxx aw man",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
