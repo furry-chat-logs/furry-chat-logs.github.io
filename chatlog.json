@@ -15224,5 +15224,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "We've talked for all of three days.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878069",
+    "type": "public",
+    "date": "10/05 21:48",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user710_c6cea239d063.png]",
+    "msgClasses": "chat_message "
   }
 ]
