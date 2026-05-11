@@ -22090,5 +22090,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Yo this school is ass",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879056",
+    "type": "public",
+    "date": "11/05 12:03",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "I'm skipping my math class rn",
+    "msgClasses": "chat_message "
   }
 ]
