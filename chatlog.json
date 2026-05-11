@@ -19702,5 +19702,35 @@
     "userClasses": "username bneon4 ",
     "message": "Nugget wil eat whoever you summon",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878812",
+    "type": "public",
+    "date": "11/05 8:25",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Well sort of it's kinda complicated but...",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878813",
+    "type": "public",
+    "date": "11/05 8:25",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Yesterday one of my friends was trying to do my makeup and she said she couldnt do it bc i have too much skin",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878814",
+    "type": "public",
+    "date": "11/05 8:25",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Nugget nuh uh",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
