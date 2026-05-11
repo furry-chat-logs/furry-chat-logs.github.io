@@ -14554,5 +14554,25 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "I give him 6 minutes until he brings it up again",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7878002",
+    "type": "public",
+    "date": "10/05 21:43",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_9f03db91ae85.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878003",
+    "type": "public",
+    "date": "10/05 21:43",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user710_e9e04e4f6101.png]",
+    "msgClasses": "chat_message "
   }
 ]
