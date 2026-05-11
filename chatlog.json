@@ -9402,5 +9402,25 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "so cool",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7877485",
+    "type": "public",
+    "date": "10/05 19:09",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "I went to comic con a while ago",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877486",
+    "type": "public",
+    "date": "10/05 19:09",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "New Kid, amazing!!",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
