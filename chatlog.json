@@ -25072,5 +25072,15 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "im gay",
     "msgClasses": "chat_message bgrad26 heavyital bfont10"
+  },
+  {
+    "id": "7879414",
+    "type": "public",
+    "date": "11/05 14:25",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Friendly fire will not be tolerated",
+    "msgClasses": "chat_message "
   }
 ]
