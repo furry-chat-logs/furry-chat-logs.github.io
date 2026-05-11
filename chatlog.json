@@ -29010,5 +29010,13 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "JustAnAnt guess who fell in the void tho, not me",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879825",
+    "type": "system",
+    "date": "11/05 17:28",
+    "username": "System",
+    "userId": null,
+    "message": "KillerThefemmy has been kicked"
   }
 ]
