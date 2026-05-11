@@ -29078,5 +29078,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'm not buying any emojis fr",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879832",
+    "type": "public",
+    "date": "11/05 17:34",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdXAxd2puN2ttNTlzN3kzZWNuMzhpMXBucjR4Y25lbXIyc3ZqZGtseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nXDcg9ZyKBKthAYKTu/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
