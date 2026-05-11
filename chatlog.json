@@ -19932,5 +19932,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_c0be88b12bda.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878835",
+    "type": "public",
+    "date": "11/05 8:30",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget still hungry",
+    "msgClasses": "chat_message bneon4"
   }
 ]
