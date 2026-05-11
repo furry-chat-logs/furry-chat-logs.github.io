@@ -18742,5 +18742,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "R",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878716",
+    "type": "public",
+    "date": "11/05 7:28",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "S",
+    "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878717",
+    "type": "public",
+    "date": "11/05 7:28",
+    "username": "James_jdm",
+    "userId": "35335",
+    "userClasses": "username bcolor1 ",
+    "message": "What filter?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878718",
+    "type": "public",
+    "date": "11/05 7:28",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "T",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
