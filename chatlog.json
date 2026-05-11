@@ -13614,5 +13614,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "anyone failing to understand this will get muted or even kicked",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7877908",
+    "type": "public",
+    "date": "10/05 21:37",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ";-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
