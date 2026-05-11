@@ -22660,5 +22660,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "throughout heaven and earth, i am the honored one...",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879132",
+    "type": "public",
+    "date": "11/05 12:26",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "chat was that tuff? :D",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879133",
+    "type": "public",
+    "date": "11/05 12:26",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "My hands are so cold",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
