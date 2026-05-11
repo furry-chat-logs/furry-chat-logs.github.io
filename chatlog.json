@@ -18962,5 +18962,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878738",
+    "type": "public",
+    "date": "11/05 7:52",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "New Kid hi",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
