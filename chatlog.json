@@ -12324,5 +12324,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "I hate both",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7877779",
+    "type": "public",
+    "date": "10/05 21:28",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Lemon ;-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
