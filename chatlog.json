@@ -28870,5 +28870,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Trust me, Java monsters aren't that bad (most times)",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879811",
+    "type": "public",
+    "date": "11/05 17:24",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I work at a gas station",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879812",
+    "type": "public",
+    "date": "11/05 17:24",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I got everything",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
