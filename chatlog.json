@@ -13654,5 +13654,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Lemon no you fricking dont",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7877912",
+    "type": "public",
+    "date": "10/05 21:37",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Rimshu icecream with cookies",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
