@@ -24304,5 +24304,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "STXRLYN thanks!!",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7879324",
+    "type": "public",
+    "date": "11/05 13:42",
+    "username": "Axolotal",
+    "userId": "34463",
+    "userClasses": "username user ",
+    "message": "Hey guys",
+    "msgClasses": "chat_message "
   }
 ]
