@@ -10170,5 +10170,15 @@
     "userClasses": "username bcolor22 bnfont16",
     "message": "=>w<=",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877562",
+    "type": "public",
+    "date": "10/05 19:26",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "awww",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
