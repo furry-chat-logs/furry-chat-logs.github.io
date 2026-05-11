@@ -17734,5 +17734,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Me and Superbot be vibing when nobody else is here.",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7878415",
+    "type": "public",
+    "date": "11/05 1:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Rlly? He never replied to me",
+    "msgClasses": "chat_message bneon14"
   }
 ]
