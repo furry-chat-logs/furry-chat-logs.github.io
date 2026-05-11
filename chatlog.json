@@ -15874,5 +15874,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Chat im not feeling okay im gonna go take a break",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878134",
+    "type": "public",
+    "date": "10/05 21:56",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "You could use a snickers",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878135",
+    "type": "public",
+    "date": "10/05 21:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Buggo same.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
