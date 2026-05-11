@@ -15894,5 +15894,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Buggo same.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878136",
+    "type": "public",
+    "date": "10/05 21:56",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "You're not you when you're hungry",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878137",
+    "type": "public",
+    "date": "10/05 21:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "My neck is killin me",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
