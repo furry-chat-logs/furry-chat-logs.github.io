@@ -14194,5 +14194,45 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I won't be receiving a mute...",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7877966",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Lord fucking g",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7877967",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "🫩 Omfg",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7877968",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Needs to go boom",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877969",
+    "type": "public",
+    "date": "10/05 21:41",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Miss Divinity im not :)",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
