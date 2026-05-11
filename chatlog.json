@@ -17864,5 +17864,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "I ain't ever seen no damn \"somnambulatory\" in my life till now.",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7878479",
+    "type": "public",
+    "date": "11/05 2:42",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Hi chat",
+    "msgClasses": "chat_message "
   }
 ]
