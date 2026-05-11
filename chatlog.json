@@ -25182,5 +25182,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Yes",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879425",
+    "type": "public",
+    "date": "11/05 14:44",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/private/user35017_f65756f0a748.png]",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
   }
 ]
