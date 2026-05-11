@@ -12634,5 +12634,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7877810",
+    "type": "public",
+    "date": "10/05 21:30",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user710_e1485588c157.png]",
+    "msgClasses": "chat_message "
   }
 ]
