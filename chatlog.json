@@ -10750,5 +10750,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Wowzers",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877621",
+    "type": "public",
+    "date": "10/05 19:56",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Cause i saw your name on the other guys bio",
+    "msgClasses": "chat_message "
   }
 ]
