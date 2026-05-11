@@ -10690,5 +10690,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Jude_28 hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877614",
+    "type": "public",
+    "date": "10/05 19:52",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Anyone have a coffee item i can have",
+    "msgClasses": "chat_message "
   }
 ]
