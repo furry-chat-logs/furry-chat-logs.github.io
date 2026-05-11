@@ -15244,5 +15244,25 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Buggo Draw! Good game anyway ^_^",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7878071",
+    "type": "public",
+    "date": "10/05 21:48",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "NOTHING that says friend",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878072",
+    "type": "public",
+    "date": "10/05 21:48",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I don't even know paimon and I accepted",
+    "msgClasses": "chat_message "
   }
 ]
