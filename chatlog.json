@@ -22490,5 +22490,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "No.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879114",
+    "type": "public",
+    "date": "11/05 12:22",
+    "username": "Shura",
+    "userId": "37152",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Miss Divinity whyyy😭 you didn't have to do thatt",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879115",
+    "type": "public",
+    "date": "11/05 12:22",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Miss Divinity not a good time for jokes?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879116",
+    "type": "public",
+    "date": "11/05 12:22",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Shura You should be able to buy svip now",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
