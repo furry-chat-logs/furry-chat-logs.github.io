@@ -20892,5 +20892,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "?",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7878931",
+    "type": "public",
+    "date": "11/05 8:53",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "How do deaktiviert autocorrect",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
