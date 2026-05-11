@@ -19672,5 +19672,25 @@
     "userClasses": "username bneon4 ",
     "message": "Nugget is superior life form",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7878809",
+    "type": "public",
+    "date": "11/05 8:24",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Well uhhh",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878810",
+    "type": "public",
+    "date": "11/05 8:24",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I can summon people with my phone",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
