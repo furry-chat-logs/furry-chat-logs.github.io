@@ -24534,5 +24534,15 @@
     "userClasses": "username user ",
     "message": "SoraTheMikuFan that's cute",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879351",
+    "type": "public",
+    "date": "11/05 13:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Always scares me",
+    "msgClasses": "chat_message bneon14"
   }
 ]
