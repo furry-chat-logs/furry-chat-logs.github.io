@@ -28710,5 +28710,15 @@
     "userClasses": "username bneon18 ",
     "message": "I could do NUMEROUS drawings when I have energy.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7879795",
+    "type": "public",
+    "date": "11/05 17:11",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Voice message",
+    "msgClasses": "chat_message "
   }
 ]
