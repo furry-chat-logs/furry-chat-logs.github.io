@@ -17634,5 +17634,15 @@
     "userClasses": "username user ",
     "message": "The sky",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878405",
+    "type": "public",
+    "date": "11/05 1:31",
+    "username": "Fleetway Sonic",
+    "userId": "28305",
+    "userClasses": "username bneon19 bnfont14",
+    "message": "[lorax]",
+    "msgClasses": "chat_message bneon1 heavyital bfont14"
   }
 ]
