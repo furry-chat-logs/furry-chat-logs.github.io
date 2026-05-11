@@ -21112,5 +21112,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Miss Divinity hiii",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878953",
+    "type": "public",
+    "date": "11/05 9:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bwaa",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
