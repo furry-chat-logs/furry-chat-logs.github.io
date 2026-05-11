@@ -24982,5 +24982,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Any artists online",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879405",
+    "type": "public",
+    "date": "11/05 14:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_d362c2b9aaee.png]",
+    "msgClasses": "chat_message "
   }
 ]
