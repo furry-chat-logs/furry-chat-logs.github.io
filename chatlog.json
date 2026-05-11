@@ -25922,5 +25922,15 @@
     "userClasses": "username bcolor18 bnfont15",
     "message": "Whats this about weed?!?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879500",
+    "type": "public",
+    "date": "11/05 15:26",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "i like it",
+    "msgClasses": "chat_message bneon20 bold bfont14"
   }
 ]
