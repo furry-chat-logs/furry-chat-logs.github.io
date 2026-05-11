@@ -23686,5 +23686,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Mass murder >:3",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879254",
+    "type": "public",
+    "date": "11/05 13:00",
+    "username": "Mew",
+    "userId": "26458",
+    "userClasses": "username bcolor24 bnfont15",
+    "message": "I seee",
+    "msgClasses": "chat_message bcolor23 boldital bfont3"
   }
 ]
