@@ -21012,5 +21012,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I just finished with school, I am done, I want to go home and sleep, to bad I have appointments",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7878943",
+    "type": "public",
+    "date": "11/05 9:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I hate school",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
