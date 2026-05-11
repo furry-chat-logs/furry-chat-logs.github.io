@@ -9132,5 +9132,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Because well this is a FurryChat",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877458",
+    "type": "public",
+    "date": "10/05 19:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "And alot of non furs are annoying",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877459",
+    "type": "public",
+    "date": "10/05 19:04",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Is there something wrong with non furries?",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
