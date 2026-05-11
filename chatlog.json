@@ -14614,5 +14614,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "[media: https://furrychat.net/chat/upload/chat/user2169_b077f0f74576.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878008",
+    "type": "public",
+    "date": "10/05 21:43",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "paimon You get kicked from the site",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
