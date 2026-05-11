@@ -26832,5 +26832,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Voice message",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879591",
+    "type": "public",
+    "date": "11/05 15:51",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I love Sleep Tokens new instrumentals",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
