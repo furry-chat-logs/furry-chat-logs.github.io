@@ -13834,5 +13834,55 @@
     "userClasses": "username user ",
     "message": "That feeling is probably Cancer",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877930",
+    "type": "public",
+    "date": "10/05 21:38",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Rimshu no why?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877931",
+    "type": "public",
+    "date": "10/05 21:38",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Bro said chill I'm DYINF",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877932",
+    "type": "public",
+    "date": "10/05 21:38",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Google told me so",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877933",
+    "type": "public",
+    "date": "10/05 21:38",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "I know you are Derik",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7877934",
+    "type": "public",
+    "date": "10/05 21:38",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ";-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
