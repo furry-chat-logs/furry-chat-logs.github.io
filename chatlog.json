@@ -20052,5 +20052,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I can over myself",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878847",
+    "type": "public",
+    "date": "11/05 8:32",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Dude",
+    "msgClasses": "chat_message bneon4"
   }
 ]
