@@ -12594,5 +12594,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lemon i never responded because i realized that long ago.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7877806",
+    "type": "public",
+    "date": "10/05 21:29",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "then called it ragebait",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
