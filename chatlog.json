@@ -14644,5 +14644,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "TwT",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7878011",
+    "type": "public",
+    "date": "10/05 21:43",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Buggo ah oki",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7878012",
+    "type": "public",
+    "date": "10/05 21:43",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Theres me...",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
