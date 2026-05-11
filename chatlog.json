@@ -20162,5 +20162,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "🤖 Pov you",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7878858",
+    "type": "public",
+    "date": "11/05 8:35",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Buggo Nugget is stuck in Kindergarten by the devil, Nugget has been summoned there by the kids of the school, forever bound to that realm",
+    "msgClasses": "chat_message bneon4"
   }
 ]
