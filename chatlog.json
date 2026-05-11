@@ -23078,5 +23078,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Bro I made a new frien",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879179",
+    "type": "public",
+    "date": "11/05 12:40",
+    "username": "psychoboi_Togame",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Miss Divinity who?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7879180",
+    "type": "public",
+    "date": "11/05 12:40",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_a3764d9444a5.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
