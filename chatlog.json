@@ -27862,5 +27862,15 @@
     "userClasses": "username bneon15 bnfont1",
     "message": "Whatever",
     "msgClasses": "chat_message bneon1 ital bfont11"
+  },
+  {
+    "id": "7879710",
+    "type": "public",
+    "date": "11/05 16:36",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "BLOCKED",
+    "msgClasses": "chat_message bneon1 ital bfont11"
   }
 ]
