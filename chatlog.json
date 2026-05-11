@@ -16764,5 +16764,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Anyway gnight gay hedgehogs its 10:14pm for me and i have school in the morning",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878315",
+    "type": "public",
+    "date": "11/05 0:41",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "The bed bugs will bite.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7878316",
+    "type": "public",
+    "date": "11/05 0:41",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWViczg4MGFlaXMxaGhtc2h2bmZ3MGZ2bXZ3NjQzMjM4c3N6bXk4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BY5tPZNL68V29cVfuz/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
