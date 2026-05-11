@@ -26122,5 +26122,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "For that moment.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879520",
+    "type": "public",
+    "date": "11/05 15:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "That is NOT dababy [omgomg]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7879521",
+    "type": "public",
+    "date": "11/05 15:29",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Weed doesn't keep you happy",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
