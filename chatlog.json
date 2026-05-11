@@ -13084,5 +13084,55 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "You'll love yourself very much doing that.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877855",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "JustAnAnt PEAK",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877856",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "I personally love em I mean I am with them",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7877857",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "JustAnAnt YEAH!!!",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7877858",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "JustAnAnt ok that's just cringe dawg",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7877859",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "i think",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
