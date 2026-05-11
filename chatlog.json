@@ -13994,5 +13994,25 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Derikgodzilla18 Why not?",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7877946",
+    "type": "public",
+    "date": "10/05 21:40",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Literally how would he be Ai?",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7877947",
+    "type": "public",
+    "date": "10/05 21:40",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "We have the military budget why can't we use it",
+    "msgClasses": "chat_message "
   }
 ]
