@@ -16144,5 +16144,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Nighr is wild",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7878164",
+    "type": "public",
+    "date": "10/05 22:45",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "New Kid I was really scared cause I was two letters away from disaster",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
