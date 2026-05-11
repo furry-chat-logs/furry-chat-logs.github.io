@@ -29518,5 +29518,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Till I get paid Wednesday",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7879876",
+    "type": "public",
+    "date": "11/05 18:33",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Nvm",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879877",
+    "type": "public",
+    "date": "11/05 18:34",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "My dad's a fucking BITCH",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
