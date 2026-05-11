@@ -17414,5 +17414,25 @@
     "userClasses": "username user ",
     "message": "Same ngl",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878380",
+    "type": "public",
+    "date": "11/05 1:19",
+    "username": "Olliepawss",
+    "userId": "37159",
+    "userClasses": "username user ",
+    "message": "I dont wanna try that",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878381",
+    "type": "public",
+    "date": "11/05 1:19",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Say g0oner [troll]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
