@@ -15744,5 +15744,15 @@
     "userClasses": "username user ",
     "message": "EagleEdge if only I could quick save",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878121",
+    "type": "public",
+    "date": "10/05 21:54",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWx5czRwMHB2MHVlN3V1eDBsbzVvbnUzNWtwdnN4b21uM2Q4bWF4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B9vg0XBA4UFkzvSeMX/giphy.gif]",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
