@@ -9622,5 +9622,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "*Ghosty",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7877507",
+    "type": "public",
+    "date": "10/05 19:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I don't know any irl furries sadly..m",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
