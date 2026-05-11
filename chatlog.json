@@ -13234,5 +13234,25 @@
     "userClasses": "username bgrad40 ",
     "message": "Wtfissachip ..",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7877870",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Wtfissachip lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7877871",
+    "type": "public",
+    "date": "10/05 21:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Lets use our thinking caps",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
