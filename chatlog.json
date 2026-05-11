@@ -25972,5 +25972,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Wasting your life.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879505",
+    "type": "public",
+    "date": "11/05 15:28",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "That's even more pathetic",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879506",
+    "type": "public",
+    "date": "11/05 15:28",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Blaming it on a disorder",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
