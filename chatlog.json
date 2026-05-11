@@ -26492,5 +26492,25 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "idec anymore",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7879557",
+    "type": "public",
+    "date": "11/05 15:34",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I understand your pain.",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879558",
+    "type": "public",
+    "date": "11/05 15:34",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "Miss Divinity she did weed",
+    "msgClasses": "chat_message bneon20 bold bfont14"
   }
 ]
