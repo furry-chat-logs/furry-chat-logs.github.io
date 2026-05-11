@@ -11094,5 +11094,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": ":3",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7877656",
+    "type": "public",
+    "date": "10/05 20:39",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Helloooooo",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
