@@ -27522,5 +27522,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "YO",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7879676",
+    "type": "public",
+    "date": "11/05 16:24",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget ate a wing off and caused 9/11",
+    "msgClasses": "chat_message bneon4"
   }
 ]
