@@ -21860,5 +21860,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "this is the thing that hides in the shadows",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7879033",
+    "type": "public",
+    "date": "11/05 11:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_1d9a8d070e7c.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879034",
+    "type": "public",
+    "date": "11/05 11:27",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "specifically the shadows in my room. :3",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7879035",
+    "type": "public",
+    "date": "11/05 11:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "This is bob",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
