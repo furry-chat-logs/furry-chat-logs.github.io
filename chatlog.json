@@ -26632,5 +26632,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "New Kid 🥀😭",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879571",
+    "type": "public",
+    "date": "11/05 15:37",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "This is like a Level 20 quest for me bro",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
