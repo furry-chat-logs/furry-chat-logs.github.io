@@ -17274,5 +17274,25 @@
     "userClasses": "username bneon14 bnfont9",
     "message": "everybody shut the helly    up iurhigusrdfkjfdskjfhsukf",
     "msgClasses": "chat_message bneon13 heavybold bfont5"
+  },
+  {
+    "id": "7878366",
+    "type": "public",
+    "date": "11/05 1:17",
+    "username": "Olliepawss",
+    "userId": "37159",
+    "userClasses": "username user ",
+    "message": "Sonic The Hedgehog thanks",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7878367",
+    "type": "public",
+    "date": "11/05 1:17",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXFuY3J0dWxwM3RnYWV3M2M2MjRlOHlmcHlyY2E2eXZjMG9zbDF6NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6SMXXbVWBN5HwrFpj6/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
