@@ -36864,5 +36864,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "They remind me of a squiddle from pressure",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880617",
+    "type": "public",
+    "date": "12/05 0:43",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Haha you're right",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7880618",
+    "type": "public",
+    "date": "12/05 0:43",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Haven't played it much but it's a fun game when I'm not getting thrown around",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7880619",
+    "type": "public",
+    "date": "12/05 0:43",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Bro I'm sweating like crazy😭🙏",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
