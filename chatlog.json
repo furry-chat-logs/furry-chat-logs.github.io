@@ -33714,5 +33714,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "L",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880301",
+    "type": "public",
+    "date": "11/05 20:41",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Turn that VPN off yo",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
