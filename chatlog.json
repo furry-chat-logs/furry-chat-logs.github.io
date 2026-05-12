@@ -37732,5 +37732,15 @@
     "userClasses": "username user ",
     "message": "Nuh uh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880721",
+    "type": "public",
+    "date": "12/05 2:12",
+    "username": "Fleetway Sonic",
+    "userId": "28305",
+    "userClasses": "username bneon19 bnfont14",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMHA0ajFqMjg2Zm11ejBmeXFyeGpiZnppcXpvbDdpMGN3cXBjZGtlYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sMK7zYV1hGGAajEznq/giphy.gif]",
+    "msgClasses": "chat_message bneon1 heavyital bfont14"
   }
 ]
