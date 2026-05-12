@@ -33356,5 +33356,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "It's one of those nights where I ask myself why I'm even alive.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880265",
+    "type": "public",
+    "date": "11/05 20:33",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "there's a reason",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
