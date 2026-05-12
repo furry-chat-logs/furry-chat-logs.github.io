@@ -1456,5 +1456,25 @@
     "userClasses": "username user ",
     "message": "Someone's metal gear is solid",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883469",
+    "type": "public",
+    "date": "12/05 16:59",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Heybyeeeeeeeee",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883470",
+    "type": "public",
+    "date": "12/05 16:59",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "*dissappears*",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
