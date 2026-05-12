@@ -33804,5 +33804,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Bc I never drink energy drinks",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880310",
+    "type": "public",
+    "date": "11/05 20:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Energy drinks taste like straight liquid pennies bro",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
