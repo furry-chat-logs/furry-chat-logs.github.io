@@ -31866,5 +31866,35 @@
     "userClasses": "username bcolor32 ",
     "message": "I want to help make a whis",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880114",
+    "type": "public",
+    "date": "11/05 19:49",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Kids",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880115",
+    "type": "public",
+    "date": "11/05 19:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Whis",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7880116",
+    "type": "public",
+    "date": "11/05 19:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "LMFAO",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
