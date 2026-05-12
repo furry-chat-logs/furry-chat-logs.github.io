@@ -37772,5 +37772,15 @@
     "userClasses": "username user ",
     "message": "I'm legally blind so I can see that",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880725",
+    "type": "public",
+    "date": "12/05 2:14",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "ohh",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
