@@ -1106,5 +1106,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Nevermind. Thank you, Frogmin",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883434",
+    "type": "public",
+    "date": "12/05 16:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_bffde0c9998b.png]",
+    "msgClasses": "chat_message "
   }
 ]
