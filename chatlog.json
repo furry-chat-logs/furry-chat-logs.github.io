@@ -30556,5 +30556,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "(some of it)",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7879980",
+    "type": "public",
+    "date": "11/05 19:22",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Yeah",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
