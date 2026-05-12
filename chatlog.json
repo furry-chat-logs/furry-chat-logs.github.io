@@ -31856,5 +31856,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I do not like you.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880113",
+    "type": "public",
+    "date": "11/05 19:49",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I want to help make a whis",
+    "msgClasses": "chat_message "
   }
 ]
