@@ -1386,5 +1386,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[runefaust] [runefaust]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7883462",
+    "type": "public",
+    "date": "12/05 16:52",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "goe",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883463",
+    "type": "public",
+    "date": "12/05 16:52",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "god",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883464",
+    "type": "public",
+    "date": "12/05 16:52",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": ":runefaust:",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7883465",
+    "type": "public",
+    "date": "12/05 16:52",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Please implement it",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883466",
+    "type": "public",
+    "date": "12/05 16:52",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I wanna say Kojima is Frogmin",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
