@@ -766,5 +766,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user21729_12f6ca40a05a.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883544",
+    "type": "public",
+    "date": "12/05 17:57",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Voice message",
+    "msgClasses": "chat_message "
   }
 ]
