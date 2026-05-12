@@ -566,5 +566,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "It was an accident R tard",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883379",
+    "type": "public",
+    "date": "12/05 16:09",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "New Kid *sigh*",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883380",
+    "type": "public",
+    "date": "12/05 16:09",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "New Kid how?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883381",
+    "type": "public",
+    "date": "12/05 16:09",
+    "username": "Gangle",
+    "userId": "31578",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Two deer walked out of a gay bar. the first one said I can't believe I blowed 100 bucks",
+    "msgClasses": "chat_message bgrad38 bold bfont7"
   }
 ]
