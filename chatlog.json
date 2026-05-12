@@ -33406,5 +33406,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I can't take the suffering",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880270",
+    "type": "public",
+    "date": "11/05 20:33",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "same tbh",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
