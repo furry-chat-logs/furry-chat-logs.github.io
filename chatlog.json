@@ -34194,5 +34194,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Frogmin turn yourself into a buyable emoji",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880350",
+    "type": "public",
+    "date": "11/05 21:30",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Make it 10k gold",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880351",
+    "type": "public",
+    "date": "11/05 21:30",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Num Little Bug Nini!! <3",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
