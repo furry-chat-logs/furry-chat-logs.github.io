@@ -37304,5 +37304,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "k",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7880661",
+    "type": "public",
+    "date": "12/05 1:00",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Rat",
+    "msgClasses": "chat_message "
   }
 ]
