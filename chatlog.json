@@ -34354,5 +34354,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Mojito i wasn't",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880366",
+    "type": "public",
+    "date": "11/05 21:37",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I have returned.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880367",
+    "type": "public",
+    "date": "11/05 21:37",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "You were earlier Derikgodzilla18, now stay away.. creature",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
