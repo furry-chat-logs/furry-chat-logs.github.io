@@ -34924,5 +34924,15 @@
     "userClasses": "username bcolor32 ",
     "message": "0G Stupendous Man lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880423",
+    "type": "public",
+    "date": "11/05 21:48",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Clearly.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
