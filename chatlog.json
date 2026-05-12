@@ -34694,5 +34694,25 @@
     "userClasses": "username bcolor32 ",
     "message": "0G Stupendous Man bro was desperate",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880400",
+    "type": "public",
+    "date": "11/05 21:44",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "He blocked me.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880401",
+    "type": "public",
+    "date": "11/05 21:44",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
