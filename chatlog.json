@@ -30636,5 +30636,15 @@
     "userClasses": "username bcolor32 ",
     "message": "God bless everyone i love everyone i don't hate anyone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879988",
+    "type": "public",
+    "date": "11/05 19:24",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Stop talking about religion",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
