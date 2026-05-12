@@ -33884,5 +33884,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Well what monster flavor should I try",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880318",
+    "type": "public",
+    "date": "11/05 21:02",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "What color",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
