@@ -1366,5 +1366,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_28641bbff16a.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883460",
+    "type": "public",
+    "date": "12/05 16:50",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "[runefaust]",
+    "msgClasses": "chat_message bneon1 ital bfont11"
+  },
+  {
+    "id": "7883461",
+    "type": "public",
+    "date": "12/05 16:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[runefaust] [runefaust]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
