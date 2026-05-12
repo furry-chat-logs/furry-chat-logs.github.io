@@ -486,5 +486,45 @@
     "userClasses": "username bcolor32 ",
     "message": "Meep ok👍",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883371",
+    "type": "public",
+    "date": "12/05 16:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_ee7c3bddaec6.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883372",
+    "type": "public",
+    "date": "12/05 16:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Damn.",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883373",
+    "type": "public",
+    "date": "12/05 16:07",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "New Kid what is this",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883374",
+    "type": "public",
+    "date": "12/05 16:07",
+    "username": "Gangle",
+    "userId": "31578",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Who wants to here a joke?",
+    "msgClasses": "chat_message bgrad38 bold bfont7"
   }
 ]
