@@ -32876,5 +32876,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I love protos",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880216",
+    "type": "public",
+    "date": "11/05 20:15",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "me too!!",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
