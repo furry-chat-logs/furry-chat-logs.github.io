@@ -776,5 +776,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Voice message",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883545",
+    "type": "public",
+    "date": "12/05 17:59",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test.mp3",
+    "msgClasses": "chat_message "
   }
 ]
