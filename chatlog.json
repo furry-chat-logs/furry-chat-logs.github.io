@@ -33546,5 +33546,15 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "how so New Kid?",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7880284",
+    "type": "public",
+    "date": "11/05 20:37",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "So basically they are these artificial creatures that are grown in incubation chambers and when they are fully developed they get brainwashed with vr training to do a specific task",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
