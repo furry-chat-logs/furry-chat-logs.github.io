@@ -33176,5 +33176,25 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "When there's actually a lot of thought, effort, and lore behind the protogens",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7880246",
+    "type": "public",
+    "date": "11/05 20:21",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "I have that, still working it out tho",
+    "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7880247",
+    "type": "public",
+    "date": "11/05 20:21",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I guess I'll go open an SS [secret-share: pRNRGSlQyDWiaHcq2BhEWZHef&n=46850]",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
