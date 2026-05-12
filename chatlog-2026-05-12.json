@@ -318,5 +318,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcHJmcDJ4a2JubXN1NGY0dG5vNHV0b2htdzBvN2g0dGpwNWQ2eHplOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3sdRp3fAABRug/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7883499",
+    "type": "public",
+    "date": "12/05 17:16",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_f16fdc8117eb.png]",
+    "msgClasses": "chat_message "
   }
 ]
