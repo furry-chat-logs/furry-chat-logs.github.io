@@ -806,5 +806,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "strange",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7883548",
+    "type": "public",
+    "date": "12/05 18:09",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWM5MGRyamZncTc4YjNpbW5xY3F6bGJjZjdqZnBnZDRnMTN6bXF0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
