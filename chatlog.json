@@ -1246,5 +1246,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_dcaf62034fff.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883448",
+    "type": "public",
+    "date": "12/05 16:42",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[skull]",
+    "msgClasses": "chat_message ital"
   }
 ]
