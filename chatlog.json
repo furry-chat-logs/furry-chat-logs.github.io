@@ -526,5 +526,45 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Who wants to here a joke?",
     "msgClasses": "chat_message bgrad38 bold bfont7"
+  },
+  {
+    "id": "7883375",
+    "type": "public",
+    "date": "12/05 16:07",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYmVuaW1zZWRzMWk4bm9oeWV4Mng1d2U0MmQ5b3l0MXhqcGU5cmY0MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ifN8pAoK5xhBVJDAGP/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7883376",
+    "type": "public",
+    "date": "12/05 16:08",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "New Kid don't show this in risk of self harm people",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883377",
+    "type": "public",
+    "date": "12/05 16:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Derikgodzilla18 omg stfu",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883378",
+    "type": "public",
+    "date": "12/05 16:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It was an accident R tard",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
