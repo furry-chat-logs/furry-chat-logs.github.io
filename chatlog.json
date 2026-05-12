@@ -33096,5 +33096,15 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "hmmm, if only my artist was on more",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7880238",
+    "type": "public",
+    "date": "11/05 20:18",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "What even is a closed species",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
