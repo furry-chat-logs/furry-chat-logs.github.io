@@ -876,5 +876,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "It's a cat",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7883555",
+    "type": "public",
+    "date": "12/05 18:14",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Look at it closely",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
