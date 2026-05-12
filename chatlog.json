@@ -33606,5 +33606,25 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "New Kid, basically. But not mine",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7880290",
+    "type": "public",
+    "date": "11/05 20:38",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I'm so close to giving up.",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880291",
+    "type": "public",
+    "date": "11/05 20:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "And most protogens don't have free will because of genetic mutations",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
