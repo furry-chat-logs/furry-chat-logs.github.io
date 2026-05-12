@@ -696,5 +696,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "SilverXD Who turned the cat into pinsir?",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7883537",
+    "type": "public",
+    "date": "12/05 17:51",
+    "username": "Nyx",
+    "userId": "495",
+    "userClasses": "username bneon23 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user495_55ab5b55a241.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
