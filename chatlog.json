@@ -37862,5 +37862,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "test",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7880734",
+    "type": "public",
+    "date": "12/05 2:31",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I'm in your sink",
+    "msgClasses": "chat_message "
   }
 ]
