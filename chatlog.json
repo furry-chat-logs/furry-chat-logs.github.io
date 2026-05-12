@@ -33126,5 +33126,15 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "open",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7880241",
+    "type": "public",
+    "date": "11/05 20:19",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It's not like you'll be out casted for using it",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
