@@ -646,5 +646,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "JustAnAnt I'll deal with that in the future.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7883532",
+    "type": "public",
+    "date": "12/05 17:45",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "k",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
