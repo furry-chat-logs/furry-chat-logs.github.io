@@ -37552,5 +37552,25 @@
     "userClasses": "username bneon19 bnfont14",
     "message": "Oh yeah and a electric guitar too!",
     "msgClasses": "chat_message bneon1 heavyital bfont14"
+  },
+  {
+    "id": "7880686",
+    "type": "public",
+    "date": "12/05 1:37",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbzY3azdzbm5qM2swOXc2cWhtbzM4dTN0aXNxaGtkYmNucjNwMXNxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FlILU2ZAQXWF4bE5wn/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880687",
+    "type": "public",
+    "date": "12/05 1:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "morning",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
