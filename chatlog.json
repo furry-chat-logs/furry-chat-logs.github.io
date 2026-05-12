@@ -1346,5 +1346,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Buddha",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883458",
+    "type": "public",
+    "date": "12/05 16:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It ain't working",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883459",
+    "type": "public",
+    "date": "12/05 16:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_28641bbff16a.gif]",
+    "msgClasses": "chat_message "
   }
 ]
