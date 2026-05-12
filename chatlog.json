@@ -35994,5 +35994,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "0G Stupendous Man what did he do",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880530",
+    "type": "public",
+    "date": "11/05 23:30",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Goodnight",
+    "msgClasses": "chat_message "
   }
 ]
