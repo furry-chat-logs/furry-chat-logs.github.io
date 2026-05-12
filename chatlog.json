@@ -36344,5 +36344,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Miss Divinity lwk same",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880565",
+    "type": "public",
+    "date": "12/05 0:25",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Being in a big friend group with your",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
