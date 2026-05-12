@@ -32286,5 +32286,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Nothing, I'm blocking him and stopping this topic.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880156",
+    "type": "public",
+    "date": "11/05 19:57",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Miss Divinity thanks",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880157",
+    "type": "public",
+    "date": "11/05 19:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_d3f90b9675d5.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880158",
+    "type": "public",
+    "date": "11/05 19:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Derikgodzilla18",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
