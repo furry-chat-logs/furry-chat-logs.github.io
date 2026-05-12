@@ -418,5 +418,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "it works!",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7883509",
+    "type": "public",
+    "date": "12/05 17:23",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user2169_241f8afd3b64.png]",
+    "msgClasses": "chat_message "
   }
 ]
