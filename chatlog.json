@@ -34674,5 +34674,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Nah",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880398",
+    "type": "public",
+    "date": "11/05 21:44",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Uh, yes.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
