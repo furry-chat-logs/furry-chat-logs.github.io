@@ -218,5 +218,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "What is bro testing [sob]",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7883489",
+    "type": "public",
+    "date": "12/05 17:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Type 1 diabetes",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
