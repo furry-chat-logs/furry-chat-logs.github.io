@@ -31636,5 +31636,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Thou shall not get caught...",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7880090",
+    "type": "public",
+    "date": "11/05 19:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Or you'll end up just like me [devil]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7880091",
+    "type": "public",
+    "date": "11/05 19:46",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "That's what makes you sheltered.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
