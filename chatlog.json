@@ -32826,5 +32826,25 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Help I ate too much pizza and now my stomach hurts",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7880211",
+    "type": "public",
+    "date": "11/05 20:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_5b87f5d55e4c.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880212",
+    "type": "public",
+    "date": "11/05 20:14",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "rip",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
