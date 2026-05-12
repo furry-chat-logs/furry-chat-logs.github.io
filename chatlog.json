@@ -35224,5 +35224,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Miss Divinity the new virus",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880453",
+    "type": "public",
+    "date": "11/05 21:57",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Derikgodzilla18 hm?",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
