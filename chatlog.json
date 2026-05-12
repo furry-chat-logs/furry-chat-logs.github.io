@@ -36184,5 +36184,35 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Ring pop!! Works every time.",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7880549",
+    "type": "public",
+    "date": "12/05 0:22",
+    "username": "Ultra greed",
+    "userId": "37133",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Understood.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880550",
+    "type": "public",
+    "date": "12/05 0:22",
+    "username": "Ultra greed",
+    "userId": "37133",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Thx",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880551",
+    "type": "public",
+    "date": "12/05 0:22",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Yuh",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
