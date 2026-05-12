@@ -37462,5 +37462,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "noice",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880677",
+    "type": "public",
+    "date": "12/05 1:16",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Goodnight chat!",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880678",
+    "type": "public",
+    "date": "12/05 1:16",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "gn",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
