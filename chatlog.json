@@ -34034,5 +34034,15 @@
     "userClasses": "username bcolor32 ",
     "message": "EagleEdge yo sup",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880333",
+    "type": "public",
+    "date": "11/05 21:20",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Hey yall",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
