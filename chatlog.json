@@ -37592,5 +37592,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "aquatic_ambience.mp3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880690",
+    "type": "public",
+    "date": "12/05 1:39",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaHRxeHhrMjU0MnU1d2JlcWhtbWUzd3lyeHU3czA4eXljNTQ2ZzMzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MvmEQiN3ABcVlJoyTY/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880691",
+    "type": "public",
+    "date": "12/05 1:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Sonic The Hedgehog hmmm... sound familiar",
+    "msgClasses": "chat_message bgrad24  bfont14"
   }
 ]
