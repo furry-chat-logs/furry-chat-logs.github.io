@@ -29906,5 +29906,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Miss Divinity haha its so funny 😁",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879915",
+    "type": "public",
+    "date": "11/05 19:06",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Maybe not to you, snowflake",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
