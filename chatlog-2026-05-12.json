@@ -886,5 +886,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Look at it closely",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7883556",
+    "type": "public",
+    "date": "12/05 18:14",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "how the fuck",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
