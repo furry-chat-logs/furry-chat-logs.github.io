@@ -37084,5 +37084,45 @@
     "userClasses": "username user ",
     "message": "I win",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880639",
+    "type": "public",
+    "date": "12/05 0:46",
+    "username": "LuckyRunAway",
+    "userId": "32142",
+    "userClasses": "username bneon2 bnfont13",
+    "message": "I'm not doing taco",
+    "msgClasses": "chat_message bgrad17 ital bfont2"
+  },
+  {
+    "id": "7880640",
+    "type": "public",
+    "date": "12/05 0:47",
+    "username": "LuckyRunAway",
+    "userId": "32142",
+    "userClasses": "username bneon2 bnfont13",
+    "message": "Name a better food visually",
+    "msgClasses": "chat_message bgrad17 ital bfont2"
+  },
+  {
+    "id": "7880641",
+    "type": "public",
+    "date": "12/05 0:47",
+    "username": "00 Amēthyst",
+    "userId": "758",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "How we doing y'all",
+    "msgClasses": "chat_message bgrad29 ital bfont1"
+  },
+  {
+    "id": "7880642",
+    "type": "public",
+    "date": "12/05 0:47",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "According to Epstein children",
+    "msgClasses": "chat_message "
   }
 ]
