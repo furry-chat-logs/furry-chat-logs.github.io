@@ -33116,5 +33116,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Couldn't you just use that species",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880240",
+    "type": "public",
+    "date": "11/05 20:18",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "open",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
