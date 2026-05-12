@@ -956,5 +956,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFma3I3NTUyMDBmNnQ5bjRsamc2dnlxODYydG5yOTZ1Zmx2ZnBuYmFlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/px6SrgxWZFJYY/giphy.gif]",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7883419",
+    "type": "public",
+    "date": "12/05 16:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm about to chocolate my factory",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
