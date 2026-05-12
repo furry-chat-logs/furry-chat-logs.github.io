@@ -30796,5 +30796,35 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "SHUT THYN TRAP MOTHER",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7880004",
+    "type": "public",
+    "date": "11/05 19:26",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "SILENCE BE UPON YEE",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7880005",
+    "type": "public",
+    "date": "11/05 19:26",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": ">.>",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880006",
+    "type": "public",
+    "date": "11/05 19:26",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I HAVE DONE THEE FATHER!",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
