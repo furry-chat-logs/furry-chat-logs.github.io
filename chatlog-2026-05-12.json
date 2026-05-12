@@ -636,5 +636,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Damn it I don't have enough coins!!",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7883531",
+    "type": "public",
+    "date": "12/05 17:44",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "JustAnAnt I'll deal with that in the future.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
