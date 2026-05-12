@@ -36134,5 +36134,55 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "HELP </3",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7880544",
+    "type": "public",
+    "date": "12/05 0:20",
+    "username": "Ultra greed",
+    "userId": "37133",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "I love someone in ma class (were friends at the moment (and we both bi(",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880545",
+    "type": "public",
+    "date": "12/05 0:21",
+    "username": "Ultra greed",
+    "userId": "37133",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "How do i propoe effectively?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880546",
+    "type": "public",
+    "date": "12/05 0:21",
+    "username": "Ultra greed",
+    "userId": "37133",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "*propose",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880547",
+    "type": "public",
+    "date": "12/05 0:21",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Ultra greed just be forward",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880548",
+    "type": "public",
+    "date": "12/05 0:21",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Ring pop!! Works every time.",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
