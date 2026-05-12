@@ -33306,5 +33306,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I'm tired of everything.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880260",
+    "type": "public",
+    "date": "11/05 20:32",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "same",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
