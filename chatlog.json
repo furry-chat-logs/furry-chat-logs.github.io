@@ -34044,5 +34044,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Hey yall",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7880334",
+    "type": "public",
+    "date": "11/05 21:21",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "SwiggleBiggle Such a great test.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
