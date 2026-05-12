@@ -58,5 +58,15 @@
     "userClasses": "username bcolor3 bnfont7",
     "message": "Ugh I buy way to many books",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883486",
+    "type": "public",
+    "date": "12/05 17:09",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Rimshoe is afk doing homework but hey starry",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
