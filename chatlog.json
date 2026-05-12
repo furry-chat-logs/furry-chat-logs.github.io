@@ -35274,5 +35274,15 @@
     "userClasses": "username bcolor32 ",
     "message": "0G Stupendous Man did i tag you 😳",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880458",
+    "type": "public",
+    "date": "11/05 21:58",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "*runs away and hides inside a dumpster*",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
