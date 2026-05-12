@@ -36104,5 +36104,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "[media: https://furrychat.net/chat/upload/chat/user26425_d03762a5d268.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880541",
+    "type": "public",
+    "date": "12/05 0:19",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Pinteresting",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
