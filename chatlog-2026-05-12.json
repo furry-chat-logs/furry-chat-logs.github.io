@@ -896,5 +896,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "how the fuck",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7883557",
+    "type": "public",
+    "date": "12/05 18:17",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "mithkey😍",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7883558",
+    "type": "public",
+    "date": "12/05 18:19",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "mitski <3",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
