@@ -35554,5 +35554,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Sometimes it's hard, and sometimes it doesn't work like it should.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880486",
+    "type": "public",
+    "date": "11/05 22:06",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Miss Divinity yet it still finds a way, either in or out.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
