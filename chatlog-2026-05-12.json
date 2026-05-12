@@ -268,5 +268,15 @@
     "userClasses": "username bneon18 ",
     "message": "Hm.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7883494",
+    "type": "public",
+    "date": "12/05 17:15",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Thine patience",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
