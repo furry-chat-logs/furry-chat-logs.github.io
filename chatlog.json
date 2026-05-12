@@ -31506,5 +31506,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Porphyrophobia my God thy is stronger than thy darkness",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880076",
+    "type": "public",
+    "date": "11/05 19:41",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Derikgodzilla18",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880077",
+    "type": "public",
+    "date": "11/05 19:41",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "SilverXD hehehe",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
