@@ -34014,5 +34014,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "Michael finally surpassed the Bohemian Rhapsody bio movie",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7880331",
+    "type": "public",
+    "date": "11/05 21:18",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
