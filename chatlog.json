@@ -38012,5 +38012,15 @@
     "userClasses": "username bneon15 bnfont1",
     "message": "[tenshi]",
     "msgClasses": "chat_message bneon1 ital bfont11"
+  },
+  {
+    "id": "7883302",
+    "type": "public",
+    "date": "12/05 15:13",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": ":tenshi:",
+    "msgClasses": "chat_message bneon7 bold bfont7"
   }
 ]
