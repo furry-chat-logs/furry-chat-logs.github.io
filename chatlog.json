@@ -31626,5 +31626,15 @@
     "userClasses": "username bcolor32 ",
     "message": "I will never hate people like you do Miss Divinity",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880089",
+    "type": "public",
+    "date": "11/05 19:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Thou shall not get caught...",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
