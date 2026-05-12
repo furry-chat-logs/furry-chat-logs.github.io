@@ -35844,5 +35844,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I was making a Phasmophobia reference",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880515",
+    "type": "public",
+    "date": "11/05 22:36",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_92ac8db9efaa.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
