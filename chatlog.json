@@ -33844,5 +33844,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Base Redbull tastes like pennies",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880314",
+    "type": "public",
+    "date": "11/05 20:55",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i love monster",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7880315",
+    "type": "public",
+    "date": "11/05 20:55",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i really love monster",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
