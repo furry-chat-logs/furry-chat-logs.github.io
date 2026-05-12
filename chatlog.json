@@ -34464,5 +34464,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Mojito Just use the ignore button, which is \"completely free of charge\"",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7880377",
+    "type": "public",
+    "date": "11/05 21:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Mojito he keeps doing it to me too",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880378",
+    "type": "public",
+    "date": "11/05 21:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
