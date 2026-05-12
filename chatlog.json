@@ -34384,5 +34384,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "What went down?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880369",
+    "type": "public",
+    "date": "11/05 21:38",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "What's wrong",
+    "msgClasses": "chat_message "
   }
 ]
