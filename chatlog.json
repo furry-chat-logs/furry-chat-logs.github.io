@@ -35714,5 +35714,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "They funny and wild",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880502",
+    "type": "public",
+    "date": "11/05 22:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hunter77 thankfully not",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
