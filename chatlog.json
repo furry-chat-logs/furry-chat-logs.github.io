@@ -36784,5 +36784,65 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Just got my one friend Brandon",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880609",
+    "type": "public",
+    "date": "12/05 0:39",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Don't have many friends but",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7880610",
+    "type": "public",
+    "date": "12/05 0:39",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "I have Void here with me",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7880611",
+    "type": "public",
+    "date": "12/05 0:39",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user2169_50f8e803fe11.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880612",
+    "type": "public",
+    "date": "12/05 0:39",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Little doodle",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7880613",
+    "type": "public",
+    "date": "12/05 0:39",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "The void",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880614",
+    "type": "public",
+    "date": "12/05 0:39",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "My mirror bro kinda ugly be we good",
+    "msgClasses": "chat_message "
   }
 ]
