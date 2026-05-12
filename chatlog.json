@@ -31056,5 +31056,15 @@
     "userClasses": "username bcolor32 ",
     "message": "You shell love thy love your neighbor as thy yourself",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880030",
+    "type": "public",
+    "date": "11/05 19:32",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Voice message",
+    "msgClasses": "chat_message "
   }
 ]
