@@ -34144,5 +34144,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Ain't no way is this your alt?",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7880345",
+    "type": "public",
+    "date": "11/05 21:28",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[skull]",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
