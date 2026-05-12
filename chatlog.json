@@ -30456,5 +30456,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "KingCorgz sweet mother sweet mother...",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7879970",
+    "type": "public",
+    "date": "11/05 19:16",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I love everyone and i am sorry",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879971",
+    "type": "public",
+    "date": "11/05 19:16",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Why would I?",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
