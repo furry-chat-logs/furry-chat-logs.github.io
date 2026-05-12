@@ -31446,5 +31446,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Who playing rn SilverXD",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7880069",
+    "type": "public",
+    "date": "11/05 19:39",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "KingCorgz DETROIT AT CLEVELAND",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
