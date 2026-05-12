@@ -198,5 +198,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Miss Divinity snake solid",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7883487",
+    "type": "public",
+    "date": "12/05 17:13",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test 2",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
