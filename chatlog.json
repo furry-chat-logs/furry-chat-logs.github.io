@@ -416,5 +416,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Dead",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7883364",
+    "type": "public",
+    "date": "12/05 16:00",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Meep Meep Meep Meep",
+    "msgClasses": "chat_message "
   }
 ]
