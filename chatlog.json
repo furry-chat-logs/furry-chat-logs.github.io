@@ -37422,5 +37422,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNzlpNGlkZHB2bHdkdWdhbTJvazN0dGYwZjBlaGVvNzN6NGdzZHBiYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NcrhM3USM6TABpus85/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880673",
+    "type": "public",
+    "date": "12/05 1:13",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_0034ace1a0e9.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880674",
+    "type": "public",
+    "date": "12/05 1:13",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Just finished this",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7880675",
+    "type": "public",
+    "date": "12/05 1:13",
+    "username": "Fleetway Sonic",
+    "userId": "28305",
+    "userClasses": "username bneon19 bnfont14",
+    "message": "Nice.",
+    "msgClasses": "chat_message bneon1 heavyital bfont14"
   }
 ]
