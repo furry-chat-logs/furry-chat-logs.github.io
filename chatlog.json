@@ -37294,5 +37294,15 @@
     "userClasses": "username user ",
     "message": "Pretty sure I'm an only child",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880660",
+    "type": "public",
+    "date": "12/05 0:59",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "k",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
