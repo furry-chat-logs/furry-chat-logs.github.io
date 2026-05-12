@@ -31356,5 +31356,15 @@
     "userClasses": "username bcolor32 ",
     "message": "SilverXD its thy choice for them not my thy choice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880060",
+    "type": "public",
+    "date": "11/05 19:37",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Good answer.",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
