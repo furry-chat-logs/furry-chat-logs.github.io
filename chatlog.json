@@ -35724,5 +35724,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Hunter77 thankfully not",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880503",
+    "type": "public",
+    "date": "11/05 22:17",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Apparently the slogan is \"let your stick do the talking\"",
+    "msgClasses": "chat_message "
   }
 ]
