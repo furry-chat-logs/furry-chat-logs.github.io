@@ -35404,5 +35404,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "You?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880471",
+    "type": "public",
+    "date": "11/05 22:01",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Exquisite",
+    "msgClasses": "chat_message "
   }
 ]
