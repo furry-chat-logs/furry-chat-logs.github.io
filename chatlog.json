@@ -33426,5 +33426,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "You really think you could begin to understand?",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880272",
+    "type": "public",
+    "date": "11/05 20:34",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "I can",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
