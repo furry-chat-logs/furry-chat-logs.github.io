@@ -33724,5 +33724,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Turn that VPN off yo",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7880302",
+    "type": "public",
+    "date": "11/05 20:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_6f9a1e947251.png]",
+    "msgClasses": "chat_message "
   }
 ]
