@@ -348,5 +348,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Nerdette",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7883502",
+    "type": "public",
+    "date": "12/05 17:16",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "im back",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
