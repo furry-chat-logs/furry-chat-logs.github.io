@@ -35564,5 +35564,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Miss Divinity yet it still finds a way, either in or out.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880487",
+    "type": "public",
+    "date": "11/05 22:06",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Lo",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
