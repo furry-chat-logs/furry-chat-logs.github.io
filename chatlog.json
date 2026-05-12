@@ -35154,5 +35154,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "And now Ur on ideas?",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880446",
+    "type": "public",
+    "date": "11/05 21:55",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Yes.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
