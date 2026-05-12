@@ -37244,5 +37244,15 @@
     "userClasses": "username user ",
     "message": "But it is interesting",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880655",
+    "type": "public",
+    "date": "12/05 0:51",
+    "username": "LuckyRunAway",
+    "userId": "32142",
+    "userClasses": "username bneon2 bnfont13",
+    "message": "Fym interesting",
+    "msgClasses": "chat_message bgrad17 ital bfont2"
   }
 ]
