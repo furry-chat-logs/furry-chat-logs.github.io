@@ -1536,5 +1536,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "It's Venom Snake",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883477",
+    "type": "public",
+    "date": "12/05 17:03",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Damn I didn't know the words to say",
+    "msgClasses": "chat_message "
   }
 ]
