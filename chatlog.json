@@ -34414,5 +34414,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I see.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880372",
+    "type": "public",
+    "date": "11/05 21:38",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "What's going on",
+    "msgClasses": "chat_message "
   }
 ]
