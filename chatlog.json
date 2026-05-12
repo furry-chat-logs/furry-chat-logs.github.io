@@ -35734,5 +35734,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Apparently the slogan is \"let your stick do the talking\"",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880504",
+    "type": "public",
+    "date": "11/05 22:18",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHZ5OWc5ZGZ6NzV0c2hvaThqanhyMHhxOHhvOG95OHE5b2Q5b2htMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
