@@ -1436,5 +1436,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I wanna say Kojima is Frogmin",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883467",
+    "type": "public",
+    "date": "12/05 16:53",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Kojima?",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
