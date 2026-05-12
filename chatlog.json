@@ -35674,5 +35674,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Just saying I apologize to that man",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880498",
+    "type": "public",
+    "date": "11/05 22:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Hm?",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
