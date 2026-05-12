@@ -1286,5 +1286,25 @@
     "userClasses": "username bgrad11 bnfont14",
     "message": ":3",
     "msgClasses": "chat_message bgrad38  bfont14"
+  },
+  {
+    "id": "7883452",
+    "type": "public",
+    "date": "12/05 16:45",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Gawd.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7883453",
+    "type": "public",
+    "date": "12/05 16:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Guhd",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
