@@ -31676,5 +31676,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Miss Divinity you are not a thy god for you are a human",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880095",
+    "type": "public",
+    "date": "11/05 19:46",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I never said I was a god",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
