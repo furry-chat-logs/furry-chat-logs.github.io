@@ -36624,5 +36624,15 @@
     "userClasses": "username user ",
     "message": "He always got my back",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880593",
+    "type": "public",
+    "date": "12/05 0:30",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "damn",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
