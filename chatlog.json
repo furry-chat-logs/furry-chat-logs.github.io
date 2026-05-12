@@ -34994,5 +34994,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Aw shit I can't delete messages",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880430",
+    "type": "public",
+    "date": "11/05 21:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I guess it's time for plan Z-99B",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880431",
+    "type": "public",
+    "date": "11/05 21:50",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[moai] [prayer]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
