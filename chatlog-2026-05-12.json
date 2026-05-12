@@ -288,5 +288,15 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "33 notifications on the wall😭",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7883496",
+    "type": "public",
+    "date": "12/05 17:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Meow",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
