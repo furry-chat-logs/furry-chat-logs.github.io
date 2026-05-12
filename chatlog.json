@@ -37124,5 +37124,35 @@
     "userClasses": "username user ",
     "message": "According to Epstein children",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880643",
+    "type": "public",
+    "date": "12/05 0:47",
+    "username": "LuckyRunAway",
+    "userId": "32142",
+    "userClasses": "username bneon2 bnfont13",
+    "message": "Unpopular opinion: Epstein jokes are the epitome of unfunny",
+    "msgClasses": "chat_message bgrad17 ital bfont2"
+  },
+  {
+    "id": "7880644",
+    "type": "public",
+    "date": "12/05 0:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHpqNmh2b2twN2tvaXY2b253ZGQwM25yOG1waWFsczBzMHd3YTl3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IffnkBvZhXWZuJplWV/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880645",
+    "type": "public",
+    "date": "12/05 0:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "LuckyRunAway pan dulce",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
