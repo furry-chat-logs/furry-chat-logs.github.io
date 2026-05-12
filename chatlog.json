@@ -596,5 +596,55 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Two deer walked out of a gay bar. the first one said I can't believe I blowed 100 bucks",
     "msgClasses": "chat_message bgrad38 bold bfont7"
+  },
+  {
+    "id": "7883382",
+    "type": "public",
+    "date": "12/05 16:09",
+    "username": "Data",
+    "userId": "2",
+    "userClasses": "username bneon9 bnfont7",
+    "message": "This room has been cleared by Frogmin",
+    "msgClasses": "chat_message chat_system"
+  },
+  {
+    "id": "7883383",
+    "type": "public",
+    "date": "12/05 16:09",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[skull]",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7883384",
+    "type": "public",
+    "date": "12/05 16:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Derikgodzilla18 I was tryna unravel some metal twine",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883385",
+    "type": "public",
+    "date": "12/05 16:10",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[troll]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7883386",
+    "type": "public",
+    "date": "12/05 16:10",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "New Kid how did it get in your finger?",
+    "msgClasses": "chat_message "
   }
 ]
