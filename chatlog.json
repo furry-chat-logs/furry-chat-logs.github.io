@@ -34334,5 +34334,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Most annoying creature on the planet",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880364",
+    "type": "public",
+    "date": "11/05 21:36",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "He was trying to talk about getting a girlfriend [sick2] [gun]",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
