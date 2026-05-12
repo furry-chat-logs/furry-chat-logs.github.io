@@ -31606,5 +31606,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "All you do is come here and yap about religion",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880087",
+    "type": "public",
+    "date": "11/05 19:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Derikgodzilla18 Thou shall not lie.... thou shall not cheat... [devil]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7880088",
+    "type": "public",
+    "date": "11/05 19:46",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I will never hate people like you do Miss Divinity",
+    "msgClasses": "chat_message "
   }
 ]
