@@ -33696,5 +33696,13 @@
     "userClasses": "username bcolor32 ",
     "message": "Miss Divinity huh?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880299",
+    "type": "system",
+    "date": "11/05 20:41",
+    "username": "System",
+    "userId": null,
+    "message": "Meowwww has been kicked"
   }
 ]
