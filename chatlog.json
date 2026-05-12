@@ -37334,5 +37334,23 @@
     "userClasses": "username user ",
     "message": "Wise words",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880664",
+    "type": "system",
+    "date": "12/05 1:04",
+    "username": "System",
+    "userId": null,
+    "message": "Sanchez has been kicked"
+  },
+  {
+    "id": "7880665",
+    "type": "public",
+    "date": "12/05 1:04",
+    "username": "LuckyRunAway",
+    "userId": "32142",
+    "userClasses": "username bneon2 bnfont13",
+    "message": "Any more food",
+    "msgClasses": "chat_message bgrad17 ital bfont2"
   }
 ]
