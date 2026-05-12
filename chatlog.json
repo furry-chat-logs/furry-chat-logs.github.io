@@ -34874,5 +34874,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I will not friend you.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880418",
+    "type": "public",
+    "date": "11/05 21:47",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "0G Stupendous Man okay",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880419",
+    "type": "public",
+    "date": "11/05 21:47",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "He does it to everyone",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
