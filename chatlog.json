@@ -35584,5 +35584,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "You know what they say",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880489",
+    "type": "public",
+    "date": "11/05 22:07",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "It's not a full cake without a candle to blow out first.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
