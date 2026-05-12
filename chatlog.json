@@ -36324,5 +36324,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "That's how it was with my ex",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880563",
+    "type": "public",
+    "date": "12/05 0:25",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Rimshu blood pizza",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
