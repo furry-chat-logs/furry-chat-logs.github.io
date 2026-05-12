@@ -30356,5 +30356,35 @@
     "userClasses": "username bcolor32 ",
     "message": "Miss Divinity but i have a great day",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879960",
+    "type": "public",
+    "date": "11/05 19:15",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Miss Divinity why must i tell you",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879961",
+    "type": "public",
+    "date": "11/05 19:15",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Give me an example.",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879962",
+    "type": "public",
+    "date": "11/05 19:15",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Exactly",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
