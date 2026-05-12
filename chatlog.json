@@ -34584,5 +34584,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Haaa",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880389",
+    "type": "public",
+    "date": "11/05 21:41",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I just got ignored today by vigrose for a very petty reason",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
