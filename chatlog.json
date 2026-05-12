@@ -36894,5 +36894,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Bro I'm sweating like crazy😭🙏",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880620",
+    "type": "public",
+    "date": "12/05 0:43",
+    "username": "Ultra greed",
+    "userId": "37133",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Then just, get a fan.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880621",
+    "type": "public",
+    "date": "12/05 0:44",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Gang, I can't get a breeze if I'm moving my arms constantly when I drum",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880622",
+    "type": "public",
+    "date": "12/05 0:44",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Air conditioning",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
