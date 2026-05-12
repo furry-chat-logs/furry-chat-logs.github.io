@@ -1556,5 +1556,15 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "I Love Venom",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7883479",
+    "type": "public",
+    "date": "12/05 17:06",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Miss Divinity snake solid",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
