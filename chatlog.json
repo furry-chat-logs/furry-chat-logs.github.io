@@ -38062,5 +38062,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I love drawing Blues/Protoman [totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7883331",
+    "type": "public",
+    "date": "12/05 15:24",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZjdjdG8wZnRsbTB6dng2MXBrMzJtYzcxYzhpdWZtZjh1NzludHB0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0rTSxOAEEzG5WbN1NS/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
