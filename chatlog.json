@@ -35494,5 +35494,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaDJjdHpsYW85ejNjbTBtaTl6bnUwNWFxZXE0cnI5eTZrajd4dGhmOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GAXMzzd2XElnG/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880480",
+    "type": "public",
+    "date": "11/05 22:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_6091eacae7c5.png]",
+    "msgClasses": "chat_message "
   }
 ]
