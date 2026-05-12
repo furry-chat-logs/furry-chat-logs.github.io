@@ -32466,5 +32466,25 @@
     "userClasses": "username bcolor32 ",
     "message": "And don't hate your mom",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880175",
+    "type": "public",
+    "date": "11/05 20:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "XD",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880176",
+    "type": "public",
+    "date": "11/05 20:02",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "You only get one mom who made you",
+    "msgClasses": "chat_message "
   }
 ]
