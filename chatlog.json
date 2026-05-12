@@ -33246,5 +33246,15 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "that should be good",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7880254",
+    "type": "public",
+    "date": "11/05 20:30",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "*sigh*",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
