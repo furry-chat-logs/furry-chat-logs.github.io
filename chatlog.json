@@ -38002,5 +38002,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "This is interesting",
     "msgClasses": "chat_message bneon7 bold bfont7"
+  },
+  {
+    "id": "7883301",
+    "type": "public",
+    "date": "12/05 15:13",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "[tenshi]",
+    "msgClasses": "chat_message bneon1 ital bfont11"
   }
 ]
