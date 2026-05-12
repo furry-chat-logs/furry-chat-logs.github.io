@@ -30896,5 +30896,35 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "AND I BURNED YEE GUNDAM HORDE ON THE LAST DUSK OF SPRING",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7880014",
+    "type": "public",
+    "date": "11/05 19:27",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I pray to syndrome everyday",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7880015",
+    "type": "public",
+    "date": "11/05 19:27",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "⬇️ [syndrome]",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880016",
+    "type": "public",
+    "date": "11/05 19:27",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I am his loyal follower",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
