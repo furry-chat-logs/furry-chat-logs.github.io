@@ -34024,5 +34024,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "test",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7880332",
+    "type": "public",
+    "date": "11/05 21:19",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "EagleEdge yo sup",
+    "msgClasses": "chat_message "
   }
 ]
