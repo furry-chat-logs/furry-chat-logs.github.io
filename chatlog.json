@@ -716,5 +716,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Derikgodzilla18 God already used up all his blessings when he gave me to the world.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7883394",
+    "type": "public",
+    "date": "12/05 16:12",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Word",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883395",
+    "type": "public",
+    "date": "12/05 16:13",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Frogmin Frogmin dang you are great God bless you bro",
+    "msgClasses": "chat_message "
   }
 ]
