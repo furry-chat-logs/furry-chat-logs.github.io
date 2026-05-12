@@ -32096,5 +32096,45 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Shit the fuck up",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880137",
+    "type": "public",
+    "date": "11/05 19:52",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Miss Divinity you said God",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880138",
+    "type": "public",
+    "date": "11/05 19:52",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I can put make a wish kid on my list of nicknames including \"Almighty King Douchebag\"",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880139",
+    "type": "public",
+    "date": "11/05 19:52",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Nobody CARES",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880140",
+    "type": "public",
+    "date": "11/05 19:52",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Yes I did",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
