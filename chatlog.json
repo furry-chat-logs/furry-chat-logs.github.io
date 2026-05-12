@@ -1016,5 +1016,15 @@
     "userClasses": "username bgrad11 bnfont14",
     "message": "STORM THE BEACHES OF THE SITE :3 /J",
     "msgClasses": "chat_message bgrad38  bfont14"
+  },
+  {
+    "id": "7883425",
+    "type": "public",
+    "date": "12/05 16:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Interesting.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
