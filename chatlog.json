@@ -30336,5 +30336,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Miss Divinity i have been through things",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879958",
+    "type": "public",
+    "date": "11/05 19:15",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Like what?",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879959",
+    "type": "public",
+    "date": "11/05 19:15",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Miss Divinity but i have a great day",
+    "msgClasses": "chat_message "
   }
 ]
