@@ -37612,5 +37612,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Sonic The Hedgehog hmmm... sound familiar",
     "msgClasses": "chat_message bgrad24  bfont14"
+  },
+  {
+    "id": "7880692",
+    "type": "public",
+    "date": "12/05 1:40",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbDNocDdzMXJ2YnZ6MGowMHg3MXVmN2tzYWFjMzIzb3FkNWJ3czhwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ulSQCy5TONF3jYX47h/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
