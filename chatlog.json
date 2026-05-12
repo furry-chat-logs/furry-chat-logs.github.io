@@ -35874,5 +35874,65 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Sonic The Hedgehog my name changed for good, if you wanna update ur bio.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880518",
+    "type": "public",
+    "date": "11/05 22:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "oh🥀",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880519",
+    "type": "public",
+    "date": "11/05 22:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Damn",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880520",
+    "type": "public",
+    "date": "11/05 22:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "You liked oz?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880521",
+    "type": "public",
+    "date": "11/05 22:39",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "mb man I'll change it",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7880522",
+    "type": "public",
+    "date": "11/05 22:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880523",
+    "type": "public",
+    "date": "11/05 22:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Ok",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
