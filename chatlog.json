@@ -34554,5 +34554,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Go ahead.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880386",
+    "type": "public",
+    "date": "11/05 21:40",
+    "username": "SONIC_THEHEDGEHOG",
+    "userId": "21782",
+    "userClasses": "username bgrad34 bnfont16",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user21782_b90ba2ba08b6.webp]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880387",
+    "type": "public",
+    "date": "11/05 21:40",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Yuhh",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
