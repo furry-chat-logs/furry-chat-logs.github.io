@@ -33704,5 +33704,15 @@
     "username": "System",
     "userId": null,
     "message": "Meowwww has been kicked"
+  },
+  {
+    "id": "7880300",
+    "type": "public",
+    "date": "11/05 20:41",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "L",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
