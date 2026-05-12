@@ -32786,5 +32786,25 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "cute!",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7880207",
+    "type": "public",
+    "date": "11/05 20:13",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "technically if i watched a band play at a con would that count as my first concert",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7880208",
+    "type": "public",
+    "date": "11/05 20:13",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "New Kid lol",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
