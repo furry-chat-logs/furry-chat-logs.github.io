@@ -398,5 +398,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Wifies shut the FUCK up",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7883507",
+    "type": "public",
+    "date": "12/05 17:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[angry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7883508",
+    "type": "public",
+    "date": "12/05 17:19",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "it works!",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
