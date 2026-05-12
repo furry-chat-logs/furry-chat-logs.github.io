@@ -31436,5 +31436,15 @@
     "userClasses": "username bcolor3 bnfont7",
     "message": "Evening all",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880068",
+    "type": "public",
+    "date": "11/05 19:38",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Who playing rn SilverXD",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
