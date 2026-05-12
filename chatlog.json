@@ -976,5 +976,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "I'm bouta do a frogminology speedrun",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7883421",
+    "type": "public",
+    "date": "12/05 16:22",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "what just happened-",
+    "msgClasses": "chat_message bneon1 ital bfont11"
   }
 ]
