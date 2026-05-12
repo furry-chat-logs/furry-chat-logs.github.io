@@ -1546,5 +1546,15 @@
     "userClasses": "username user ",
     "message": "Damn I didn't know the words to say",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883478",
+    "type": "public",
+    "date": "12/05 17:04",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "I Love Venom",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
