@@ -1056,5 +1056,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "...Ah.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7883429",
+    "type": "public",
+    "date": "12/05 16:35",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Frogmin please talk to Derikgodzilla18 about that. He won't stop talking about religion",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883430",
+    "type": "public",
+    "date": "12/05 16:35",
+    "username": "0 Dokuro-chan 0",
+    "userId": "19106",
+    "userClasses": "username bneon15 bnfont1",
+    "message": "Oh.",
+    "msgClasses": "chat_message bneon1 ital bfont11"
+  },
+  {
+    "id": "7883431",
+    "type": "public",
+    "date": "12/05 16:35",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Oh I'm blind as fuck",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883432",
+    "type": "public",
+    "date": "12/05 16:36",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "You already did",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883433",
+    "type": "public",
+    "date": "12/05 16:36",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Nevermind. Thank you, Frogmin",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
