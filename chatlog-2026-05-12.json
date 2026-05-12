@@ -686,5 +686,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "despite all my rage i am still just a rat in a cage",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7883536",
+    "type": "public",
+    "date": "12/05 17:50",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "SilverXD Who turned the cat into pinsir?",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
