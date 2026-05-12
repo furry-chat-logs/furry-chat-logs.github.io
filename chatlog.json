@@ -866,5 +866,55 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Derikgodzilla18 Please don't bring religion here.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7883409",
+    "type": "public",
+    "date": "12/05 16:15",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "The Church of Frogmin is the only accepted religion here.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7883410",
+    "type": "public",
+    "date": "12/05 16:15",
+    "username": "NexusEmily",
+    "userId": "31615",
+    "userClasses": "username bgrad11 bnfont14",
+    "message": "[secret-share: vWicEfIZg9aS7OkrkD1oMRI45&n=37218]",
+    "msgClasses": "chat_message bgrad38  bfont14"
+  },
+  {
+    "id": "7883411",
+    "type": "public",
+    "date": "12/05 16:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Frogmin how do I practice the religion of frogmin",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883412",
+    "type": "public",
+    "date": "12/05 16:16",
+    "username": "NexusEmily",
+    "userId": "31615",
+    "userClasses": "username bgrad11 bnfont14",
+    "message": "Frogmin can i mention them scientology speedruns?",
+    "msgClasses": "chat_message bgrad38  bfont14"
+  },
+  {
+    "id": "7883413",
+    "type": "public",
+    "date": "12/05 16:16",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Frogmin what about the cotfsm",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
