@@ -34424,5 +34424,35 @@
     "userClasses": "username bcolor32 ",
     "message": "What's going on",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880373",
+    "type": "public",
+    "date": "11/05 21:39",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7880374",
+    "type": "public",
+    "date": "11/05 21:39",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "BRO QUIT FRIENDING ME [sob]",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7880375",
+    "type": "public",
+    "date": "11/05 21:39",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I got scolded by cullenn for being a dick to him. I'm glad she did.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
