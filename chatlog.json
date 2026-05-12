@@ -35604,5 +35604,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Oh?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880491",
+    "type": "public",
+    "date": "11/05 22:07",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Y'know what they say...",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
