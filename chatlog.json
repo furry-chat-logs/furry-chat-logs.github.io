@@ -32266,5 +32266,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Yeah. I hope yours is having a grand time in her coffin because she sure isnt in heaven.",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880154",
+    "type": "public",
+    "date": "11/05 19:55",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Uhh what's going on guys",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
