@@ -33476,5 +33476,15 @@
     "userClasses": "username bcolor32 ",
     "message": "The reason you born is cause of your mom you were made to make people feel happy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880277",
+    "type": "public",
+    "date": "11/05 20:35",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Yeah well, when everyone around you has the presence of someone who they can let it all out around, you tend to get pessimistic",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
