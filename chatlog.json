@@ -816,5 +816,55 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Porphyrophobia me?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883404",
+    "type": "public",
+    "date": "12/05 16:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "JustAnAnt LMFAO",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7883405",
+    "type": "public",
+    "date": "12/05 16:14",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I'm taking a break",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883406",
+    "type": "public",
+    "date": "12/05 16:15",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Porphyrophobia *gives you old chocolate from when i was willy wonka.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883407",
+    "type": "public",
+    "date": "12/05 16:15",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "There.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883408",
+    "type": "public",
+    "date": "12/05 16:15",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Derikgodzilla18 Please don't bring religion here.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
