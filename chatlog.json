@@ -31266,5 +31266,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Nope",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880051",
+    "type": "public",
+    "date": "11/05 19:36",
+    "username": "Ash٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "shut uwup ^-^^ im a fuzzy fuwwy </3",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7880052",
+    "type": "public",
+    "date": "11/05 19:36",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I'm just taking",
+    "msgClasses": "chat_message "
   }
 ]
