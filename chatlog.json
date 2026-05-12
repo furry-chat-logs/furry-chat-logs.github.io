@@ -30286,5 +30286,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Didn't i say i stopped Miss Divinity",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7879953",
+    "type": "public",
+    "date": "11/05 19:14",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Yea",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7879954",
+    "type": "public",
+    "date": "11/05 19:14",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Man ykw. THE NIGHT MOTHER FROM SKYRIM IS GOD",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
