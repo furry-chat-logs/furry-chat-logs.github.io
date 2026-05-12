@@ -37872,5 +37872,15 @@
     "userClasses": "username user ",
     "message": "I'm in your sink",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880735",
+    "type": "public",
+    "date": "12/05 3:10",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
