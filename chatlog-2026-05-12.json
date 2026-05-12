@@ -518,5 +518,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcHJmcDJ4a2JubXN1NGY0dG5vNHV0b2htdzBvN2g0dGpwNWQ2eHplOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2cLHHWMIYw7ni/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7883519",
+    "type": "public",
+    "date": "12/05 17:38",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "RIP [skull]",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7883520",
+    "type": "public",
+    "date": "12/05 17:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZmJnOXRpZHh2MnQ0MXlkd3YyM2FpNm9jbTlxMG5zdDIwdzV2Z290cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vkObk6Ig5u76g/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
