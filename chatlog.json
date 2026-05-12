@@ -35464,5 +35464,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "You.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880477",
+    "type": "public",
+    "date": "11/05 22:02",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "^^",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880478",
+    "type": "public",
+    "date": "11/05 22:02",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "In two seconds.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
