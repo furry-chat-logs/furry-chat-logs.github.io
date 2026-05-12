@@ -1496,5 +1496,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Kept you waiting huh?",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7883473",
+    "type": "public",
+    "date": "12/05 17:01",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_b6691c2e1328.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883474",
+    "type": "public",
+    "date": "12/05 17:01",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sigh bow",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
