@@ -218,5 +218,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_412368af1c6e.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883344",
+    "type": "public",
+    "date": "12/05 15:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_00c2fe7415dd.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
