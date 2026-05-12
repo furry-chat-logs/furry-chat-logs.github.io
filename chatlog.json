@@ -248,5 +248,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "What the",
     "msgClasses": "chat_message bcolor30 heavyital bfont2"
+  },
+  {
+    "id": "7883347",
+    "type": "public",
+    "date": "12/05 15:38",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "the What",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
