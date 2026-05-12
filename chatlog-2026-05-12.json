@@ -856,5 +856,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "i thought it was a goldfish💀",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7883553",
+    "type": "public",
+    "date": "12/05 18:14",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19606_f2d2670adc3c.png]",
+    "msgClasses": "chat_message "
   }
 ]
