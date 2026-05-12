@@ -34864,5 +34864,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Read my bio",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7880417",
+    "type": "public",
+    "date": "11/05 21:47",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I will not friend you.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
