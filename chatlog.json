@@ -36694,5 +36694,25 @@
     "userClasses": "username user ",
     "message": "Just gotta rip it out and rearrange it like that family of 4 in my Ford f-150",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7880600",
+    "type": "public",
+    "date": "12/05 0:35",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "You know what",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7880601",
+    "type": "public",
+    "date": "12/05 0:35",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "I think I will keep my aging back problems this time",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
