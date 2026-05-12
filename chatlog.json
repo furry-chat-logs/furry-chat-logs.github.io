@@ -33226,5 +33226,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Where do I find their lore",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7880251",
+    "type": "public",
+    "date": "11/05 20:21",
+    "username": "Zion",
+    "userId": "37007",
+    "userClasses": "username bgrad38 bnfont8",
+    "message": "if only I could remember",
+    "msgClasses": "chat_message bgrad26  bfont10"
   }
 ]
