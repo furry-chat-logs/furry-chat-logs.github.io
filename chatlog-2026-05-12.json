@@ -866,5 +866,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19606_f2d2670adc3c.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883554",
+    "type": "public",
+    "date": "12/05 18:14",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "It's a cat",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
