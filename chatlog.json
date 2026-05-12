@@ -33166,5 +33166,15 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "what do you think they should be like?",
     "msgClasses": "chat_message bgrad26  bfont10"
+  },
+  {
+    "id": "7880245",
+    "type": "public",
+    "date": "11/05 20:20",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "When there's actually a lot of thought, effort, and lore behind the protogens",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
