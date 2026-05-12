@@ -32136,5 +32136,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Yes I did",
     "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880141",
+    "type": "public",
+    "date": "11/05 19:52",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "God damn.",
+    "msgClasses": "chat_message bneon30  bfont8"
+  },
+  {
+    "id": "7880142",
+    "type": "public",
+    "date": "11/05 19:52",
+    "username": "Miss Divinity",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Damn God.",
+    "msgClasses": "chat_message bneon30  bfont8"
   }
 ]
