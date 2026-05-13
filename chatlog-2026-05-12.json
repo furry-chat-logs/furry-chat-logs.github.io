@@ -1306,5 +1306,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Lets try this again.",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7883723",
+    "type": "public",
+    "date": "12/05 21:08",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user19606_6e997c2a5b04.mp3 | test.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
