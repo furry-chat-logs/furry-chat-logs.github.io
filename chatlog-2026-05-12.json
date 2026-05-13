@@ -1006,5 +1006,295 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[nerdliz]",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7883692",
+    "type": "public",
+    "date": "12/05 19:56",
+    "username": "silence",
+    "userId": "27040",
+    "userClasses": "username bgrad22 bnfont9",
+    "message": "irl i mean",
+    "msgClasses": "chat_message bneon3 ital bfont4"
+  },
+  {
+    "id": "7883693",
+    "type": "public",
+    "date": "12/05 19:57",
+    "username": "silence",
+    "userId": "27040",
+    "userClasses": "username bgrad22 bnfont9",
+    "message": "i can",
+    "msgClasses": "chat_message bneon3 ital bfont4"
+  },
+  {
+    "id": "7883694",
+    "type": "public",
+    "date": "12/05 19:59",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "back.",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7883695",
+    "type": "public",
+    "date": "12/05 19:59",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "ig",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7883696",
+    "type": "public",
+    "date": "12/05 20:05",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "this was the song i was drumming to",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7883697",
+    "type": "public",
+    "date": "12/05 20:06",
+    "username": "Fleetway Sonic",
+    "userId": "28305",
+    "userClasses": "username bneon19 bnfont14",
+    "message": "Sick",
+    "msgClasses": "chat_message bneon1 heavyital bfont14"
+  },
+  {
+    "id": "7883698",
+    "type": "public",
+    "date": "12/05 20:23",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": ".",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7883699",
+    "type": "public",
+    "date": "12/05 20:29",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Dead",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7883700",
+    "type": "public",
+    "date": "12/05 20:29",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "ineresting..",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7883701",
+    "type": "public",
+    "date": "12/05 20:29",
+    "username": "psychoboi_agnar",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Meep i know i am",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7883702",
+    "type": "public",
+    "date": "12/05 20:30",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "psychoboi_agnar ...?",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7883703",
+    "type": "public",
+    "date": "12/05 20:30",
+    "username": "psychoboi_agnar",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Meep nvm...",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7883704",
+    "type": "public",
+    "date": "12/05 20:31",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "Meep mcr ref",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7883706",
+    "type": "public",
+    "date": "12/05 20:31",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Ohhh",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7883707",
+    "type": "public",
+    "date": "12/05 20:32",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "have you heard the news that youre dead?",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7883708",
+    "type": "public",
+    "date": "12/05 20:32",
+    "username": "psychoboi_agnar",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "help help help! Meep is trying to make me vent about my feelings",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7883709",
+    "type": "public",
+    "date": "12/05 20:32",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i kinda wanna die-",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7883710",
+    "type": "public",
+    "date": "12/05 20:32",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "psychoboi_agnar I'm trying to help you -_-",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7883711",
+    "type": "public",
+    "date": "12/05 20:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hi",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883712",
+    "type": "public",
+    "date": "12/05 20:36",
+    "username": "psychoboi_agnar",
+    "userId": "8914",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "is that Neo The Protogen",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7883713",
+    "type": "public",
+    "date": "12/05 20:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Aggfasgzsgfdssf",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883714",
+    "type": "public",
+    "date": "12/05 20:50",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I have returned.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883715",
+    "type": "public",
+    "date": "12/05 20:52",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_77bf2954d50f.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7883716",
+    "type": "public",
+    "date": "12/05 20:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Meow meow meow meow",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883717",
+    "type": "public",
+    "date": "12/05 21:00",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Why is it dead here?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883718",
+    "type": "public",
+    "date": "12/05 21:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Idk",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7883719",
+    "type": "public",
+    "date": "12/05 21:00",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Ugh.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883720",
+    "type": "public",
+    "date": "12/05 21:01",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "It always is when I'm here.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7883721",
+    "type": "public",
+    "date": "12/05 21:01",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "How convenient.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
