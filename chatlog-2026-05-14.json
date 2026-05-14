@@ -198,5 +198,15 @@
     "userClasses": "username bneon15 bnfont1",
     "message": "Wiggles feet",
     "msgClasses": "chat_message bneon30 ital bfont11"
+  },
+  {
+    "id": "7890786",
+    "type": "public",
+    "date": "14/05 16:37",
+    "username": "؜Rat",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
