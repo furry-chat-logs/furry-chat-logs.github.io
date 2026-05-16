@@ -798,5 +798,15 @@
     "userClasses": "username bcolor27 bnfont1",
     "message": "Ooh pretty",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895455",
+    "type": "public",
+    "date": "16/05 18:16",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "NeptuneLynxx Nice River.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
