@@ -728,5 +728,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "LMAO",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7895448",
+    "type": "public",
+    "date": "16/05 18:09",
+    "username": "Babyfur_Sooty",
+    "userId": "37242",
+    "userClasses": "username bcolor27 bnfont1",
+    "message": "My fault gng 😔.",
+    "msgClasses": "chat_message "
   }
 ]
