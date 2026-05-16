@@ -1,4 +1,4 @@
-const BASE_URL = "https:
+const BASE_URL = "https://raw.githubusercontent.com/furry-chat-logs/furry-chat-logs.github.io/main"
 let currentEntries = [],
   activeFilters =[],
   searchQuery = "";
