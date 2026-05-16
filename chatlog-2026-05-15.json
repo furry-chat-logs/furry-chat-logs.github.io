@@ -348,5 +348,35 @@
     "userClasses": "username user ",
     "message": "Nice to meet everyone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7893820",
+    "type": "public",
+    "date": "15/05 19:03",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "Nightninja5434 hello there",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7893821",
+    "type": "public",
+    "date": "15/05 19:03",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [happy]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7893822",
+    "type": "public",
+    "date": "15/05 19:03",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hello ID37225",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
