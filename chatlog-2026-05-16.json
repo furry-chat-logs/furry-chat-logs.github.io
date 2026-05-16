@@ -1008,5 +1008,15 @@
     "userClasses": "username bcolor27 bnfont1",
     "message": "Sucks they grow up to be hissing, kill on sight adults",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895476",
+    "type": "public",
+    "date": "16/05 18:22",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hi",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
