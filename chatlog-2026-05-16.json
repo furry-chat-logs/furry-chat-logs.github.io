@@ -1028,5 +1028,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Wifies Hello",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7895478",
+    "type": "public",
+    "date": "16/05 18:23",
+    "username": "Babyfur_Sooty",
+    "userId": "37242",
+    "userClasses": "username bcolor27 bnfont1",
+    "message": "Hi!",
+    "msgClasses": "chat_message "
   }
 ]
