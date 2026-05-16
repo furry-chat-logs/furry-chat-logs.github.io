@@ -778,5 +778,15 @@
     "userClasses": "username bcolor27 bnfont1",
     "message": "Sigh ok then",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895453",
+    "type": "public",
+    "date": "16/05 18:15",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8513_a10286711cb5.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
