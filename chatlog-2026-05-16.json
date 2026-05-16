@@ -228,5 +228,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Test",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7895391",
+    "type": "public",
+    "date": "16/05 17:39",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY3lxNnJxdWlrcHliMmR0NGhiMHZxemt0dG42OXZuMjF5cnlhM3d3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hc1jyTXYaiXy8/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
