@@ -1248,5 +1248,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_02b6953cb458.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895500",
+    "type": "public",
+    "date": "16/05 18:47",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Hi guys",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
