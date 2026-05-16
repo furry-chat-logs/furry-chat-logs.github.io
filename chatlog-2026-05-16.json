@@ -218,5 +218,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Accidentally farts",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7895390",
+    "type": "public",
+    "date": "16/05 17:39",
+    "username": "SwiggleBiggle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Test",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
