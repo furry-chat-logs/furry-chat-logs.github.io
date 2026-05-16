@@ -1038,5 +1038,15 @@
     "userClasses": "username bcolor27 bnfont1",
     "message": "Hi!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895479",
+    "type": "public",
+    "date": "16/05 18:32",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_3a4460222a38.png]",
+    "msgClasses": "chat_message "
   }
 ]
