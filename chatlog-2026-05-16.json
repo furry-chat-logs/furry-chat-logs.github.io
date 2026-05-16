@@ -668,5 +668,15 @@
     "userClasses": "username bgrad8 ",
     "message": "Yami is just built different",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895442",
+    "type": "public",
+    "date": "16/05 18:02",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_d3bdf62fef94.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
