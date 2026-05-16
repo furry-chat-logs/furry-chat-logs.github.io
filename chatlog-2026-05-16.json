@@ -748,5 +748,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[skull]",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7895450",
+    "type": "public",
+    "date": "16/05 18:10",
+    "username": "Babyfur_Sooty",
+    "userId": "37242",
+    "userClasses": "username bcolor27 bnfont1",
+    "message": "I just said hi did i say it zesty or somethin 😔.",
+    "msgClasses": "chat_message "
   }
 ]
