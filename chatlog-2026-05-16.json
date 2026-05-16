@@ -1328,5 +1328,15 @@
     "userClasses": "username bgrad15 ",
     "message": "JustAnAnt Indeed",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7895508",
+    "type": "public",
+    "date": "16/05 18:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
