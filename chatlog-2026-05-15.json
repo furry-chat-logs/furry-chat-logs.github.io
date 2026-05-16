@@ -498,5 +498,15 @@
     "userClasses": "username bneon18 ",
     "message": "Cancel BBNO$ immediately.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7893835",
+    "type": "public",
+    "date": "15/05 19:08",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYmdpbTd2Mm5jdW8xZ2dyOXpueTR3YzdvYXRoYXQ5dDdpMTh6emFsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TGi1zmIHpDRsrxtoPq/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
