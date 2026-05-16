@@ -328,5 +328,15 @@
     "userClasses": "username user ",
     "message": "Hello!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7893818",
+    "type": "public",
+    "date": "15/05 19:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa YEYEYEYEYYE [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
