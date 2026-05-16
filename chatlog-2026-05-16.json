@@ -288,5 +288,15 @@
     "userClasses": "username bgrad8 ",
     "message": "Hi",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895397",
+    "type": "public",
+    "date": "16/05 17:41",
+    "username": "Tsukuyomi",
+    "userId": "6405",
+    "userClasses": "username bgrad8 ",
+    "message": "Doing fine",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
