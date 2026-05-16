@@ -248,5 +248,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Hampter",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895393",
+    "type": "public",
+    "date": "16/05 17:41",
+    "username": "Idkmankkkkkk",
+    "userId": "37240",
+    "userClasses": "username user ",
+    "message": "Hi",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895394",
+    "type": "public",
+    "date": "16/05 17:41",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdW53bDR5MGZhMzNtb3pjbDIxamc3eHZxdnMxZjY3dnExbmNnazRhdSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tXL4FHPSnVJ0A/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
