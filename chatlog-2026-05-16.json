@@ -1418,5 +1418,15 @@
     "userClasses": "username bgrad8 ",
     "message": "Onion rings",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895517",
+    "type": "public",
+    "date": "16/05 18:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_0222c62bf9da.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
