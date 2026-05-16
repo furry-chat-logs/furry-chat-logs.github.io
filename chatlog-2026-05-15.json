@@ -578,5 +578,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "Oh ew",
     "msgClasses": "chat_message bcolor10 heavybold bfont13"
+  },
+  {
+    "id": "7893843",
+    "type": "public",
+    "date": "15/05 19:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I hope his career ends soon",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
