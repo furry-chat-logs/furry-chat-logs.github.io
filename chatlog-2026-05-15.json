@@ -418,5 +418,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Goodnight awesome people",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7893827",
+    "type": "public",
+    "date": "15/05 19:03",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[kiss4]",
+    "msgClasses": "chat_message bold"
   }
 ]
