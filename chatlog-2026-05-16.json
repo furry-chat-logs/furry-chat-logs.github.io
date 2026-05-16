@@ -1088,5 +1088,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "The Internet is an amazing tool made for mankind",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7895484",
+    "type": "public",
+    "date": "16/05 18:36",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Wifies no",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
