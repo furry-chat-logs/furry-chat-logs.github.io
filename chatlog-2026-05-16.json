@@ -2666,5 +2666,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Yea",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895643",
+    "type": "public",
+    "date": "16/05 20:13",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Who the FUCK is that..",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7895644",
+    "type": "public",
+    "date": "16/05 20:13",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Mojito thats a YOU problem",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
