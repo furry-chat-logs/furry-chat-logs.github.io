@@ -10748,5 +10748,25 @@
     "userClasses": "username user ",
     "message": "Sol_Aiz-paw-a no one cawes OnO",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897331",
+    "type": "public",
+    "date": "17/05 13:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "NimbleLobster906 now your just being mean",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7897332",
+    "type": "public",
+    "date": "17/05 13:30",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "omg >w<",
+    "msgClasses": "chat_message "
   }
 ]
