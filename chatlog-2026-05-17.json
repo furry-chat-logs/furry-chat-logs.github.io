@@ -9798,5 +9798,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lo",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897236",
+    "type": "public",
+    "date": "17/05 13:17",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Frogmin So did you fix it all?",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7897237",
+    "type": "public",
+    "date": "17/05 13:17",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "ignoring people",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897238",
+    "type": "public",
+    "date": "17/05 13:18",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "isnt nice",
+    "msgClasses": "chat_message "
   }
 ]
