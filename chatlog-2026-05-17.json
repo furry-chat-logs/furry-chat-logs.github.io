@@ -6028,5 +6028,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "SoraTheMikuFan nah I don't have a hearing condition and nobody in my family speaks it",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896857",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "INSPECTER GAGET",
+    "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7896858",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Mojito isn't that's just the middle finger",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896859",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "New Kid so just for funsies?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
