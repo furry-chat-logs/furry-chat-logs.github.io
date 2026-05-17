@@ -11888,5 +11888,15 @@
     "userClasses": "username bneon18 ",
     "message": "[moai]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7897448",
+    "type": "public",
+    "date": "17/05 14:21",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Mojito wat do you mean",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
