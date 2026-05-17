@@ -5578,5 +5578,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Everyone will now know Porphyrophobia is ghosting them.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896812",
+    "type": "public",
+    "date": "17/05 11:31",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Btw, what language is the site written in?",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
