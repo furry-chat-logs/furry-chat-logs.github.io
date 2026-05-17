@@ -11088,5 +11088,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "I see",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897365",
+    "type": "public",
+    "date": "17/05 13:39",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm.",
+    "msgClasses": "chat_message ital"
   }
 ]
