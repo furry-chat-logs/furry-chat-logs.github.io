@@ -4038,5 +4038,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I was an hour and 30 minutes from home",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896658",
+    "type": "public",
+    "date": "17/05 9:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "By foot",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
