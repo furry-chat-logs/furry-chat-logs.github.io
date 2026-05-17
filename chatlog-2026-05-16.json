@@ -6256,5 +6256,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Family too poor to afford a license and parents who see me as a liability.",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896012",
+    "type": "public",
+    "date": "16/05 22:40",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "same tbh",
+    "msgClasses": "chat_message "
   }
 ]
