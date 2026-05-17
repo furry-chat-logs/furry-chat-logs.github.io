@@ -11528,5 +11528,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Yeah..",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7897410",
+    "type": "public",
+    "date": "17/05 14:09",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[heu]",
+    "msgClasses": "chat_message bold"
   }
 ]
