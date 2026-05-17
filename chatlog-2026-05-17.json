@@ -9868,5 +9868,15 @@
     "userClasses": "username user ",
     "message": "Mojito yeah ik",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897243",
+    "type": "public",
+    "date": "17/05 13:19",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Mojito More or less.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
