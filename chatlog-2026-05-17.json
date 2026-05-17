@@ -2888,5 +2888,15 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": ":p",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896543",
+    "type": "public",
+    "date": "17/05 4:15",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user26710_55c7bdcd37cc.png]",
+    "msgClasses": "chat_message "
   }
 ]
