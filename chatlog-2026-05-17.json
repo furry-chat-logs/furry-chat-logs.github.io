@@ -9468,5 +9468,25 @@
     "userClasses": "username bgrad7 ",
     "message": "For good reason",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897203",
+    "type": "public",
+    "date": "17/05 13:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "irl or in chat?",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897204",
+    "type": "public",
+    "date": "17/05 13:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "You're a good person",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
