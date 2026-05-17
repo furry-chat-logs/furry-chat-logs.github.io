@@ -1856,5 +1856,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "JustAnAnt lmao",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895562",
+    "type": "public",
+    "date": "16/05 19:35",
+    "username": "Fleetway Sonic",
+    "userId": "28305",
+    "userClasses": "username bneon19 bnfont14",
+    "message": "JustAnAnt LMFAO",
+    "msgClasses": "chat_message bneon1 heavyital bfont14"
   }
 ]
