@@ -3028,5 +3028,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "same time zone is crazy qwq",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896557",
+    "type": "public",
+    "date": "17/05 4:21",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "Oop-",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896558",
+    "type": "public",
+    "date": "17/05 4:21",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "2:21am",
+    "msgClasses": "chat_message "
   }
 ]
