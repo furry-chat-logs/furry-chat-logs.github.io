@@ -14586,5 +14586,15 @@
     "userClasses": "username bgrad7 ",
     "message": "New Kid how're you!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897722",
+    "type": "public",
+    "date": "17/05 17:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Moonishiki goood wbu",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
