@@ -1058,5 +1058,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "LovelyFluff809 do you live in Germany?",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896359",
+    "type": "public",
+    "date": "17/05 2:02",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "I wish",
+    "msgClasses": "chat_message "
   }
 ]
