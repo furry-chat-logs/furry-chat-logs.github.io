@@ -14776,5 +14776,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Buggo I can always give you more negative money.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7897746",
+    "type": "public",
+    "date": "17/05 18:01",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I'd be happy to give you $-200 right now.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
