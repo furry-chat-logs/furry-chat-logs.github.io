@@ -6478,5 +6478,35 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Teest",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896902",
+    "type": "public",
+    "date": "17/05 11:49",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "There we go!",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896903",
+    "type": "public",
+    "date": "17/05 11:49",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "what's the issue?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896904",
+    "type": "public",
+    "date": "17/05 11:49",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "What are we testing",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
