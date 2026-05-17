@@ -4508,5 +4508,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I hate people",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896705",
+    "type": "public",
+    "date": "17/05 10:41",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I just went shopping, like most have no shame just bumping into you",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896706",
+    "type": "public",
+    "date": "17/05 10:41",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "\\Sol_Aizawa So you hate me? :c",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
