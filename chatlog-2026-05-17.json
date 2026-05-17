@@ -2008,5 +2008,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "xchViper1106 huh? but your profile says your here since today?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896454",
+    "type": "public",
+    "date": "17/05 2:59",
+    "username": "xchViper1106",
+    "userId": "37250",
+    "userClasses": "username user ",
+    "message": "Sol_Aizawa This is a new account, I cant figure out the password to my old one",
+    "msgClasses": "chat_message "
   }
 ]
