@@ -2858,5 +2858,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "woof",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7896540",
+    "type": "public",
+    "date": "17/05 4:12",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc2xoeGVsZmFzYzdlMGZtaWU3aTlydHF3bXd6NmdxMzJzbjhuazl6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMv36BprGxUAqoWc72/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7896541",
+    "type": "public",
+    "date": "17/05 4:12",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "bleh",
+    "msgClasses": "chat_message "
   }
 ]
