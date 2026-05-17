@@ -4446,5 +4446,25 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "I would cry if I was told that",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7895825",
+    "type": "public",
+    "date": "16/05 21:37",
+    "username": "Tsukuyomi",
+    "userId": "6405",
+    "userClasses": "username bneon32 ",
+    "message": "0G Stupendous Man I fucking see it.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895826",
+    "type": "public",
+    "date": "16/05 21:37",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Lemon Told what?",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
