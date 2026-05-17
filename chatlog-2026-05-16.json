@@ -7886,5 +7886,15 @@
     "userClasses": "username user ",
     "message": "I'm a dude but I catch the vibes",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896176",
+    "type": "public",
+    "date": "16/05 23:07",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "SS) I don't give a fuck if anyone cares. I already know nobody does, including myself.",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
