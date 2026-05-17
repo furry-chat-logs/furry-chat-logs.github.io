@@ -8638,5 +8638,25 @@
     "userClasses": "username bgrad7 ",
     "message": "NimbleLobster906 you need help",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897118",
+    "type": "public",
+    "date": "17/05 12:45",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "Moonishiki [hilarious]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897119",
+    "type": "public",
+    "date": "17/05 12:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Holy DRY",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
