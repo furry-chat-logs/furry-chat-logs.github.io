@@ -5198,5 +5198,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Yeah, it says delivered and then seen",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7896774",
+    "type": "public",
+    "date": "17/05 11:22",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "It needs to update live-time.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
