@@ -12908,5 +12908,25 @@
     "userClasses": "username user ",
     "message": "noww hehe",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897553",
+    "type": "public",
+    "date": "17/05 15:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "JustAnAnt horses are cool",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897554",
+    "type": "public",
+    "date": "17/05 15:45",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Friendless back tf off I got a partner >.>",
+    "msgClasses": "chat_message "
   }
 ]
