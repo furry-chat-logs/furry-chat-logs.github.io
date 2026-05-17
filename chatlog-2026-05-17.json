@@ -1848,5 +1848,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Evil Rat؜ you brittish?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896438",
+    "type": "public",
+    "date": "17/05 2:45",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMThoZWt2c2I1emk2MTFmZ2pzenIxYm90enhlZGM4dmFlbGlldmF0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IfyjWLQMeF6kbG2r0z/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
