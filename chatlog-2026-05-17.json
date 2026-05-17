@@ -8778,5 +8778,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Video*",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897133",
+    "type": "public",
+    "date": "17/05 12:48",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "0G Stupendous Man Yeah bet you haven't listened to the full ten hours of spinning fish >:3",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897134",
+    "type": "public",
+    "date": "17/05 12:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "oh no my finger turned prpl",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897135",
+    "type": "public",
+    "date": "17/05 12:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "help",
+    "msgClasses": "chat_message bneon14"
   }
 ]
