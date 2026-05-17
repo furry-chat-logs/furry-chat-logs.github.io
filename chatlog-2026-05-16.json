@@ -4356,5 +4356,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "what's up chat",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7895816",
+    "type": "public",
+    "date": "16/05 21:36",
+    "username": "Tsukuyomi",
+    "userId": "6405",
+    "userClasses": "username bneon32 ",
+    "message": "prEtzeL I'm done because you clearly haven't tried to understand how much I've been cutting myself up on the inside for you.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895817",
+    "type": "public",
+    "date": "16/05 21:36",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "NeptuneLynxx You're getting demoted as admin and babydiaperfur742 is taking your place",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
