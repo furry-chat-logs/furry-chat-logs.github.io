@@ -10988,5 +10988,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Bleach is cheaper",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897355",
+    "type": "public",
+    "date": "17/05 13:34",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Let's just make Cloroform instead..",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
