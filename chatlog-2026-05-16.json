@@ -4306,5 +4306,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Theres truth.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895811",
+    "type": "public",
+    "date": "16/05 21:34",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "There never is",
+    "msgClasses": "chat_message "
   }
 ]
