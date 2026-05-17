@@ -5496,5 +5496,35 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "no",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7895931",
+    "type": "public",
+    "date": "16/05 22:04",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "that still doesn't work",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7895932",
+    "type": "public",
+    "date": "16/05 22:04",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Frogmin thank you. I wasn't gonna say that, but also, true.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895933",
+    "type": "public",
+    "date": "16/05 22:04",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "u can't force it bud",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
