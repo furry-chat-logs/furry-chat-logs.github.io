@@ -3898,5 +3898,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Shhhh",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896644",
+    "type": "public",
+    "date": "17/05 9:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh ok",
+    "msgClasses": "chat_message bneon14"
   }
 ]
