@@ -5218,5 +5218,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "It looks to me, to be only \"seen\" on re-opening.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896776",
+    "type": "public",
+    "date": "17/05 11:23",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Oh that's true",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
