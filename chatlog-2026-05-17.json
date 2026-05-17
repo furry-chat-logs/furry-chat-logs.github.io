@@ -9458,5 +9458,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "SoraTheMikuFan yea.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897202",
+    "type": "public",
+    "date": "17/05 13:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "For good reason",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
