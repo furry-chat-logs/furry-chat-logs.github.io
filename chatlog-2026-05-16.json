@@ -6306,5 +6306,15 @@
     "userClasses": "username user ",
     "message": "I'm 16",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896018",
+    "type": "public",
+    "date": "16/05 22:43",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "cool music",
+    "msgClasses": "chat_message "
   }
 ]
