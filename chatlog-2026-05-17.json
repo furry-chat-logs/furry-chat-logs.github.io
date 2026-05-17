@@ -4148,5 +4148,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "[happy]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896669",
+    "type": "public",
+    "date": "17/05 10:03",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Sharkish /ban",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
