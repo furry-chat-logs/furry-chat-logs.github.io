@@ -7148,5 +7148,45 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( Ok, then we can be wet. Better?  17/05 10:04 ) ...I think I preferred dry T.T",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896969",
+    "type": "public",
+    "date": "17/05 12:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oh no",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896970",
+    "type": "public",
+    "date": "17/05 12:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ohh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896971",
+    "type": "public",
+    "date": "17/05 12:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_85538f2a38c5.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896972",
+    "type": "public",
+    "date": "17/05 12:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "JavaScript 🧑‍🦯",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
