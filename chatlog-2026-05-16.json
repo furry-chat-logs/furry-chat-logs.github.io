@@ -6656,5 +6656,25 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "it doesn't",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896053",
+    "type": "public",
+    "date": "16/05 22:51",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "ppl have lives outside of u",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896054",
+    "type": "public",
+    "date": "16/05 22:51",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Your mental health should come first",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
