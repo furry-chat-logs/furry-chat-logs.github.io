@@ -1588,5 +1588,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "you new?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896412",
+    "type": "public",
+    "date": "17/05 2:30",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Yeah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896413",
+    "type": "public",
+    "date": "17/05 2:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_3ac8589b9034.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896414",
+    "type": "public",
+    "date": "17/05 2:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I wanna more plants",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
