@@ -8176,5 +8176,25 @@
     "userClasses": "username bcolor32 ",
     "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896205",
+    "type": "public",
+    "date": "16/05 23:24",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] )",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896206",
+    "type": "public",
+    "date": "16/05 23:24",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "People who tell me that I only care about myself don't actually know me",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
