@@ -668,5 +668,15 @@
     "userClasses": "username user ",
     "message": "Well you dony",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896320",
+    "type": "public",
+    "date": "17/05 1:46",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Idk wat to talk about",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
