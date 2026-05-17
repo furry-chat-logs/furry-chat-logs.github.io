@@ -1688,5 +1688,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "LovelyFluff809 how",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896422",
+    "type": "public",
+    "date": "17/05 2:31",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Is their a way to change my name",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896423",
+    "type": "public",
+    "date": "17/05 2:32",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Just you have a lot",
+    "msgClasses": "chat_message "
   }
 ]
