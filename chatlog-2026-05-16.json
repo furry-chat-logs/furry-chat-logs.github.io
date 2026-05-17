@@ -2266,5 +2266,45 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Ok.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895603",
+    "type": "public",
+    "date": "16/05 20:06",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "I've been recording chromatics",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895604",
+    "type": "public",
+    "date": "16/05 20:06",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Smiley are you disney royalty",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895605",
+    "type": "public",
+    "date": "16/05 20:06",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "And gave up!!!",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895606",
+    "type": "public",
+    "date": "16/05 20:06",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "oh she left",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
