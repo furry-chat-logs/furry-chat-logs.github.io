@@ -2446,5 +2446,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Crapola",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895621",
+    "type": "public",
+    "date": "16/05 20:08",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "jxx is cooked when he gets online",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895622",
+    "type": "public",
+    "date": "16/05 20:08",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Oops",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
