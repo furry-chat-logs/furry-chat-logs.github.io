@@ -9608,5 +9608,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "im designing things",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897217",
+    "type": "public",
+    "date": "17/05 13:07",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "me is afk rlly soon too",
+    "msgClasses": "chat_message bneon14"
   }
 ]
