@@ -6668,5 +6668,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "works now",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896921",
+    "type": "public",
+    "date": "17/05 11:53",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Strange.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
