@@ -14786,5 +14786,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I'd be happy to give you $-200 right now.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7897748",
+    "type": "public",
+    "date": "17/05 18:01",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcHg3ZHc5M3h5bzhjeHJjZmM5ZHZkd2t2NDE2ODZ2MWsxNmp4eTJwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pFuQkU1HWZ4khyVYFt/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
