@@ -5596,5 +5596,25 @@
     "userClasses": "username bneon32 ",
     "message": "I'm gonna drown my thoughts in music",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895941",
+    "type": "public",
+    "date": "16/05 22:05",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Horses have a smile like an american recovering crack addict",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7895942",
+    "type": "public",
+    "date": "16/05 22:05",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Tsukuyomi that's why you work it out.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
