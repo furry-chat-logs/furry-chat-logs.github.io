@@ -5108,5 +5108,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Asdfassffdsa",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896765",
+    "type": "public",
+    "date": "17/05 11:20",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Woah that's cool.",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896766",
+    "type": "public",
+    "date": "17/05 11:20",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Ay it works",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
