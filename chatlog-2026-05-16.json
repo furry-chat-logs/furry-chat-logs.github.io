@@ -2826,5 +2826,25 @@
     "userClasses": "username bgrad8 ",
     "message": "That's not good. Leave me out of it, I don't need the drama",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895659",
+    "type": "public",
+    "date": "16/05 20:16",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Th'number 18000 is lower than I expected",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895660",
+    "type": "public",
+    "date": "16/05 20:16",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Ehg",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
