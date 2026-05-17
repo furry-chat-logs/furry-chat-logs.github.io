@@ -6886,5 +6886,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Talk to me like I'm assuming",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896076",
+    "type": "public",
+    "date": "16/05 22:53",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "You are",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896077",
+    "type": "public",
+    "date": "16/05 22:53",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "she's a bitch, you're better off that way Wtfissachip",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
