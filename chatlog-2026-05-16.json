@@ -8246,5 +8246,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[skull]",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896212",
+    "type": "public",
+    "date": "16/05 23:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Yeah I wont",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896213",
+    "type": "public",
+    "date": "16/05 23:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Sorry-",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
