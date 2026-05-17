@@ -14396,5 +14396,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Issa get back here buddy",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7897703",
+    "type": "public",
+    "date": "17/05 17:40",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia Gulps.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7897704",
+    "type": "public",
+    "date": "17/05 17:40",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_dcd2fdcac56a.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
