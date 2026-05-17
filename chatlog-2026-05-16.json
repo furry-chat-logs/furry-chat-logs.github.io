@@ -7116,5 +7116,45 @@
     "userClasses": "username user ",
     "message": "I can hear the national geographic voice now",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896099",
+    "type": "public",
+    "date": "16/05 22:55",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "that's my issue",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896100",
+    "type": "public",
+    "date": "16/05 22:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Just stop",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896101",
+    "type": "public",
+    "date": "16/05 22:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Just stop",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896102",
+    "type": "public",
+    "date": "16/05 22:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "HOW CAN I",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
