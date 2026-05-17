@@ -9408,5 +9408,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Chat, someone is crushing on me ✨️✨️",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897197",
+    "type": "public",
+    "date": "17/05 13:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "im just now designing the first episode",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897198",
+    "type": "public",
+    "date": "17/05 13:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "i lowk might need voice actors...",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
