@@ -3148,5 +3148,15 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "I went to LA a few weeks ago, first time in Cali, it was pretty neat :3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896569",
+    "type": "public",
+    "date": "17/05 4:24",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "Oh nice!",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
