@@ -3316,5 +3316,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Oh. Ok.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895709",
+    "type": "public",
+    "date": "16/05 20:38",
+    "username": "Tsukuyomi",
+    "userId": "6405",
+    "userClasses": "username bneon32 ",
+    "message": "There was a few randoms online earlier and didn't want to take any chances",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
