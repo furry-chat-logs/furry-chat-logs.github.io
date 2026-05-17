@@ -408,5 +408,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Goodnight chat.",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896293",
+    "type": "public",
+    "date": "17/05 1:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Moonishiki good morning",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
