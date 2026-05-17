@@ -6398,5 +6398,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Moonishiki love the banner in the profile",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896894",
+    "type": "public",
+    "date": "17/05 11:45",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515] I guess Ill send one of these",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896895",
+    "type": "public",
+    "date": "17/05 11:45",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Sol_Aizawa Uh thanks",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
