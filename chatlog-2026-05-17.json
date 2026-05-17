@@ -10138,5 +10138,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "*purring",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7897270",
+    "type": "public",
+    "date": "17/05 13:21",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "nah tee hee straight",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897271",
+    "type": "public",
+    "date": "17/05 13:21",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "NimbleLobster906 Ahem.. Moon is one of the most sweetest people, and you tell her \"i'm not talking to you\". Yeah, you literally just said something to her.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
