@@ -6768,5 +6768,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Can happen",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896931",
+    "type": "public",
+    "date": "17/05 11:56",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "SoraTheMikuFan",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896932",
+    "type": "public",
+    "date": "17/05 11:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Btw has someone seen Theterminator?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
