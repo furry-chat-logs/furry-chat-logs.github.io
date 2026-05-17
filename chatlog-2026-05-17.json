@@ -2488,5 +2488,35 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "SoraTheMikuFan I think it's spanish or something",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7896502",
+    "type": "public",
+    "date": "17/05 3:15",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ohhhhh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896503",
+    "type": "public",
+    "date": "17/05 3:15",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Nah I was just curious lol since I've never seen that before",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896504",
+    "type": "public",
+    "date": "17/05 3:15",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Now I see",
+    "msgClasses": "chat_message bneon14"
   }
 ]
