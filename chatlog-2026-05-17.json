@@ -15246,5 +15246,25 @@
     "userClasses": "username bgrad15 ",
     "message": "And than i woke up",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7897800",
+    "type": "public",
+    "date": "17/05 18:16",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Moonishiki truth bomb",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7897801",
+    "type": "public",
+    "date": "17/05 18:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "My dreams will give me a death penalty",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
