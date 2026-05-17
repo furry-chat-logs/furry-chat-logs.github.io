@@ -5926,5 +5926,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Frogmin no fr thats a true story.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895976",
+    "type": "public",
+    "date": "16/05 22:10",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "0G Stupendous Man I know",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
