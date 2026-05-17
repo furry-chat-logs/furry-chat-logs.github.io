@@ -3958,5 +3958,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "For some reason...",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896650",
+    "type": "public",
+    "date": "17/05 9:16",
+    "username": "drifter",
+    "userId": "33487",
+    "userClasses": "username bgrad14 bnfont16",
+    "message": "genes for ya",
+    "msgClasses": "chat_message bgrad14 heavyital bfont2"
   }
 ]
