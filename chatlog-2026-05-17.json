@@ -1218,5 +1218,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "You can get like suits with detachable paws for different like conditions",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896375",
+    "type": "public",
+    "date": "17/05 2:09",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNjVjcmpmZ3pna25iNXY0YXo4eXJnbzJycWZvamlzdzd4a2Fnd2d2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A7TNgi6RfeyVT6S3J5/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
