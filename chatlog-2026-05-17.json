@@ -498,5 +498,15 @@
     "userClasses": "username user ",
     "message": "2 years to be exact",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896303",
+    "type": "public",
+    "date": "17/05 1:40",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "CosmoSkyrin hi I'm new",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
