@@ -4286,5 +4286,15 @@
     "userClasses": "username user ",
     "message": "Wow drama surprise surprise",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895809",
+    "type": "public",
+    "date": "16/05 21:34",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "there's no drama.",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
