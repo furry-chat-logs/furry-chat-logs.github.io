@@ -10688,5 +10688,15 @@
     "userClasses": "username user ",
     "message": "wahs happening >w<",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897325",
+    "type": "public",
+    "date": "17/05 13:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Why do I try...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
