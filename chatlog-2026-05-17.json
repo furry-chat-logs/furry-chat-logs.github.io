@@ -1578,5 +1578,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896411",
+    "type": "public",
+    "date": "17/05 2:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "you new?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
