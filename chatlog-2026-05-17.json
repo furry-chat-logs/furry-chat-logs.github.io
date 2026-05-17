@@ -12268,5 +12268,15 @@
     "userClasses": "username bneon18 ",
     "message": "Go, fay!!",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7897487",
+    "type": "public",
+    "date": "17/05 15:11",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHU3bDJ0cmkwdGZubzRiNDBxYjd4OGpsNmtwamp6cDI1aHlqZWR6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PhHvFqne3ajqf1yXN6/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
