@@ -8958,5 +8958,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNXUxM2MyZGp0eXl2emRxb2p4NGhlbDA0cGtrejByemllOTBjOHl4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fXnRObM8Q0RkOmR5nf/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897152",
+    "type": "public",
+    "date": "17/05 12:51",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "SoraTheMikuFan fr",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
