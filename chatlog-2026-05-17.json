@@ -468,5 +468,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Zen do I know you",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896300",
+    "type": "public",
+    "date": "17/05 1:39",
+    "username": "CosmoSkyrin",
+    "userId": "33540",
+    "userClasses": "username user ",
+    "message": "ehem",
+    "msgClasses": "chat_message "
   }
 ]
