@@ -15036,5 +15036,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Buggo mudkip and some sort of gay shaymin",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7897776",
+    "type": "public",
+    "date": "17/05 18:09",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Its chespin 😭",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7897777",
+    "type": "public",
+    "date": "17/05 18:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo w",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
