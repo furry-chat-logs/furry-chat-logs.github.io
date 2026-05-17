@@ -12528,5 +12528,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Do. Not.",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897515",
+    "type": "public",
+    "date": "17/05 15:41",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Erm what the smigna",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
