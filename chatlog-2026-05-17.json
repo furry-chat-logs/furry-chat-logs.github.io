@@ -4228,5 +4228,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I just got something weird in pms",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7896677",
+    "type": "public",
+    "date": "17/05 10:09",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Yeah, it's gone.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
