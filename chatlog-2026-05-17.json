@@ -8998,5 +8998,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "owo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897156",
+    "type": "public",
+    "date": "17/05 12:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcXNoNTduN2ZkNDBybHBzcWFkcnNsa3d5Z3BrbmV3MzU4eHA1djFnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q6PVNqdO6FrrN6LB4C/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
