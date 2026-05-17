@@ -3738,5 +3738,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "It looks good",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896628",
+    "type": "public",
+    "date": "17/05 7:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I don't like the taste of basilikum",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
