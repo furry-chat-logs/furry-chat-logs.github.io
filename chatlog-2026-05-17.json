@@ -9388,5 +9388,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "mao mao mao mao mao mao mao mao mao mao",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897195",
+    "type": "public",
+    "date": "17/05 13:04",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*smurfs theme song*",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897196",
+    "type": "public",
+    "date": "17/05 13:04",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Chat, someone is crushing on me ✨️✨️",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
