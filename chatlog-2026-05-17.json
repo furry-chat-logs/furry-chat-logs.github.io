@@ -928,5 +928,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "With",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896346",
+    "type": "public",
+    "date": "17/05 1:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wish I could",
+    "msgClasses": "chat_message bneon14"
   }
 ]
