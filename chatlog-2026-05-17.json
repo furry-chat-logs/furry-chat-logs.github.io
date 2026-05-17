@@ -15696,5 +15696,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "test",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7897845",
+    "type": "public",
+    "date": "17/05 18:59",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_f7aa5a5b5a5e.webp]",
+    "msgClasses": "chat_message "
   }
 ]
