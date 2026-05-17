@@ -13388,5 +13388,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Aaaaaa",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897601",
+    "type": "public",
+    "date": "17/05 15:53",
+    "username": "GorePawz",
+    "userId": "35499",
+    "userClasses": "username bgrad31 ",
+    "message": "Hi guys",
+    "msgClasses": "chat_message bneon1 heavybold bfont3"
   }
 ]
