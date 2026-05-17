@@ -3098,5 +3098,15 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "And LA is 7 hours from me lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896564",
+    "type": "public",
+    "date": "17/05 4:23",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "Oh-",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
