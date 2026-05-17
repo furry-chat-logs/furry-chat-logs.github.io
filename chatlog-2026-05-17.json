@@ -1128,5 +1128,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "I don't mind rain",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896366",
+    "type": "public",
+    "date": "17/05 2:04",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wat if you are let's say on the way to a con ant it rains",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
