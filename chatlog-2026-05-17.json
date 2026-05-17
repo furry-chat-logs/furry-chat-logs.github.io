@@ -1398,5 +1398,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_ecf597040b9f.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896393",
+    "type": "public",
+    "date": "17/05 2:25",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "That kind",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896394",
+    "type": "public",
+    "date": "17/05 2:25",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Probably chocolate like cream Oreo cookie cake",
+    "msgClasses": "chat_message "
   }
 ]
