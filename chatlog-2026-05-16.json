@@ -2486,5 +2486,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "its not what he did",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895625",
+    "type": "public",
+    "date": "16/05 20:09",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "its one of the other 5 w's",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895626",
+    "type": "public",
+    "date": "16/05 20:09",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
