@@ -6196,5 +6196,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Not much to talk about",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896006",
+    "type": "public",
+    "date": "16/05 22:39",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "that's fair",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896007",
+    "type": "public",
+    "date": "16/05 22:39",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "any plans for sunday?",
+    "msgClasses": "chat_message "
   }
 ]
