@@ -3126,5 +3126,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "So badly.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895689",
+    "type": "public",
+    "date": "16/05 20:26",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_05809d52a89e.png]",
+    "msgClasses": "chat_message "
   }
 ]
