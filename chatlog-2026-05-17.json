@@ -5148,5 +5148,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Frogmin it's working for me",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896769",
+    "type": "public",
+    "date": "17/05 11:21",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I would say the icon for delivered and sent is a little squished in there",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896770",
+    "type": "public",
+    "date": "17/05 11:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It works",
+    "msgClasses": "chat_message bneon14"
   }
 ]
