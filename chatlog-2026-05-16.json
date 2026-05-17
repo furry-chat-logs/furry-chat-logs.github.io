@@ -4716,5 +4716,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "How's everyone doing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895852",
+    "type": "public",
+    "date": "16/05 21:50",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Hunter77 advicing.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
