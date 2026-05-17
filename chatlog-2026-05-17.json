@@ -6618,5 +6618,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Did u know I'm bad at coding´•^•`",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896916",
+    "type": "public",
+    "date": "17/05 11:52",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "That's strange-",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896917",
+    "type": "public",
+    "date": "17/05 11:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Can't help...",
+    "msgClasses": "chat_message bneon14"
   }
 ]
