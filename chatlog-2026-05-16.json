@@ -1906,5 +1906,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "SwiggleBiggle hey.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895567",
+    "type": "public",
+    "date": "16/05 19:44",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "SwiggleBiggle you're friends with my brother.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
