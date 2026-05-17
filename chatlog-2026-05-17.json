@@ -1248,5 +1248,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "You finke out side the rain",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896378",
+    "type": "public",
+    "date": "17/05 2:12",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Yes",
+    "msgClasses": "chat_message "
   }
 ]
