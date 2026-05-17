@@ -5058,5 +5058,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Mojito Still fixing it. Doesn't update in live time right now. But should do in about 50 seconds",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896760",
+    "type": "public",
+    "date": "17/05 11:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_05fee4ce41ee.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896761",
+    "type": "public",
+    "date": "17/05 11:14",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea this feature so cool. Ty for thinking abt us being left on read and not knowing",
+    "msgClasses": "chat_message bneon14"
   }
 ]
