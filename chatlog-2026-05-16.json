@@ -8036,5 +8036,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Uh.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896191",
+    "type": "public",
+    "date": "16/05 23:15",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Rifht",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896192",
+    "type": "public",
+    "date": "16/05 23:15",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Sorry",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
