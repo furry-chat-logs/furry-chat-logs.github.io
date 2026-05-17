@@ -14506,5 +14506,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "If anyone is interested in my ref sheet, please DM!",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7897714",
+    "type": "public",
+    "date": "17/05 17:55",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_f86997170e96.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897715",
+    "type": "public",
+    "date": "17/05 17:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_bda33737e8ca.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
