@@ -3996,5 +3996,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Uh.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895780",
+    "type": "public",
+    "date": "16/05 21:29",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY2xxbjY0ZTJuMmliZnlrZzJtaDcxOWNkbzl3cDlhMTNtajZycnY5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GAXMzzd2XElnG/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
