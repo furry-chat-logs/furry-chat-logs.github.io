@@ -3648,5 +3648,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "The night in Ikea were crazy",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896619",
+    "type": "public",
+    "date": "17/05 5:09",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_7582f5107fb8.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
