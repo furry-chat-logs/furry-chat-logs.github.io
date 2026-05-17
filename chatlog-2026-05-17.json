@@ -7138,5 +7138,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "New Kid never.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7896968",
+    "type": "public",
+    "date": "17/05 12:05",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( Ok, then we can be wet. Better?  17/05 10:04 ) ...I think I preferred dry T.T",
+    "msgClasses": "chat_message "
   }
 ]
