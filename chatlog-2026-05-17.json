@@ -10998,5 +10998,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Let's just make Cloroform instead..",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7897356",
+    "type": "public",
+    "date": "17/05 13:34",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "But bleach burms",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897357",
+    "type": "public",
+    "date": "17/05 13:34",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Burns",
+    "msgClasses": "chat_message "
   }
 ]
