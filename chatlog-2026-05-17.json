@@ -1438,5 +1438,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "good morning",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896397",
+    "type": "public",
+    "date": "17/05 2:26",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Mine is chocolate banana which apples on top",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
