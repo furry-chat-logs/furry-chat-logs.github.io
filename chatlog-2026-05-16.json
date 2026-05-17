@@ -2046,5 +2046,35 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Not in the slightest",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895581",
+    "type": "public",
+    "date": "16/05 20:02",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Rimshu then i guess no 'hi' for you😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895582",
+    "type": "public",
+    "date": "16/05 20:02",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "0G Stupendous Man hola",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895583",
+    "type": "public",
+    "date": "16/05 20:02",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Sigh",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
