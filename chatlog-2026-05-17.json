@@ -7618,5 +7618,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Mojito lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897016",
+    "type": "public",
+    "date": "17/05 12:17",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I'm gonna go back to playing guitar, PM if needed but I’ll probably not answer for like 30 minutes",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897017",
+    "type": "public",
+    "date": "17/05 12:18",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Mojito I just be typing shi fr",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
