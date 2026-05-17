@@ -2178,5 +2178,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "yeah I am just a multi-sona",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896471",
+    "type": "public",
+    "date": "17/05 3:11",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Zvix1106 their seperate, not a hybrid",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896472",
+    "type": "public",
+    "date": "17/05 3:11",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "I used to be, but figured I need to settle on one",
+    "msgClasses": "chat_message "
   }
 ]
