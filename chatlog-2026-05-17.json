@@ -3698,5 +3698,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "dead chat",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896624",
+    "type": "public",
+    "date": "17/05 7:17",
+    "username": "Fsfjxdgg",
+    "userId": "37253",
+    "userClasses": "username user ",
+    "message": "Milo",
+    "msgClasses": "chat_message "
   }
 ]
