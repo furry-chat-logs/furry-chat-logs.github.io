@@ -3658,5 +3658,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_7582f5107fb8.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896620",
+    "type": "public",
+    "date": "17/05 5:09",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Blue garden",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
