@@ -5796,5 +5796,15 @@
     "userClasses": "username bneon32 ",
     "message": "Bye.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895963",
+    "type": "public",
+    "date": "16/05 22:07",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Tsukuyomi bye.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
