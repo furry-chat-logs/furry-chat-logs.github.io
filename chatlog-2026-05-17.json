@@ -13028,5 +13028,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Why should we ignore a predator",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897565",
+    "type": "public",
+    "date": "17/05 15:47",
+    "username": "Friendless",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "*purrs* im no pwed cwies x3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897566",
+    "type": "public",
+    "date": "17/05 15:47",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "That's like the worst thing you can possibly do 😭",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
