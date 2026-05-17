@@ -7838,5 +7838,25 @@
     "userClasses": "username user ",
     "message": "heyyy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897038",
+    "type": "public",
+    "date": "17/05 12:31",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "NimbleLobster906 hey hey",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897039",
+    "type": "public",
+    "date": "17/05 12:31",
+    "username": "M18 Raccoon",
+    "userId": "37257",
+    "userClasses": "username user ",
+    "message": "how are youuu",
+    "msgClasses": "chat_message "
   }
 ]
