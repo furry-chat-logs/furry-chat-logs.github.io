@@ -10338,5 +10338,35 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "frogmin is god",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7897290",
+    "type": "public",
+    "date": "17/05 13:22",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "NeptuneLynxx Seen receipts added.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7897291",
+    "type": "public",
+    "date": "17/05 13:23",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "NeptuneLynxx awww kitty pool",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897292",
+    "type": "public",
+    "date": "17/05 13:23",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "All hail frog",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
