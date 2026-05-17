@@ -1148,5 +1148,25 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "You got me their",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896368",
+    "type": "public",
+    "date": "17/05 2:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_6781eaf3a930.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896369",
+    "type": "public",
+    "date": "17/05 2:06",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Lol",
+    "msgClasses": "chat_message "
   }
 ]
