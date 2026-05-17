@@ -4788,5 +4788,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I'm okay lmao",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896733",
+    "type": "public",
+    "date": "17/05 10:56",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Thats good! I'mjust really tired, lol",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
