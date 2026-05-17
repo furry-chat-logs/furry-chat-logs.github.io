@@ -14526,5 +14526,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_bda33737e8ca.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897716",
+    "type": "public",
+    "date": "17/05 17:55",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I stole one of these things from a store",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
