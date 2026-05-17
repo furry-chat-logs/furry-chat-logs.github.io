@@ -6416,5 +6416,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yo",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896029",
+    "type": "public",
+    "date": "16/05 22:45",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Hi.",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896030",
+    "type": "public",
+    "date": "16/05 22:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I am existing now I guess",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
