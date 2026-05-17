@@ -7598,5 +7598,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "lets hope no issue now.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7897014",
+    "type": "public",
+    "date": "17/05 12:15",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "\"Balls balls balls sahur\" - New Kid, 2026",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
