@@ -3868,5 +3868,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYmt0Z2VlaHJ2aWYzeWZpNGNmMzQ4d2hmemlva2VxaHFuamhsaTI0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11R5KYi6ZdP8Z2/giphy.gif]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896641",
+    "type": "public",
+    "date": "17/05 9:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yo",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
