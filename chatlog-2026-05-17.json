@@ -3768,5 +3768,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "KaiTheFurry hai",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896631",
+    "type": "public",
+    "date": "17/05 8:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yo",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
