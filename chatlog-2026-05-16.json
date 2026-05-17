@@ -4186,5 +4186,35 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "i was in the hospital and you sat there being pissy",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7895799",
+    "type": "public",
+    "date": "16/05 21:33",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Tsukuyomi",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895800",
+    "type": "public",
+    "date": "16/05 21:33",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "acting like it's all my fault. i physically could not message you.",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7895801",
+    "type": "public",
+    "date": "16/05 21:33",
+    "username": "Tsukuyomi",
+    "userId": "6405",
+    "userClasses": "username bneon32 ",
+    "message": "I messaged you every day m",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
