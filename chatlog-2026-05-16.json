@@ -8506,5 +8506,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Megaman battle network for the Gameboy advance",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7896238",
+    "type": "public",
+    "date": "16/05 23:42",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHFrajNvNTM0dmR1ZWhjaDl3dTIydXphMXRld3U2N2d6amQwYmdidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L0rDsOKmBnOOOMlGQH/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
