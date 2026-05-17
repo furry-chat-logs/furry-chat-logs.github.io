@@ -5896,5 +5896,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user1_4e077310823a.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895973",
+    "type": "public",
+    "date": "16/05 22:09",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Wow.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
