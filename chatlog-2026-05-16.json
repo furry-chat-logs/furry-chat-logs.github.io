@@ -2416,5 +2416,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Cola slurpee from the gas station",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895618",
+    "type": "public",
+    "date": "16/05 20:08",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "speedy cola",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
