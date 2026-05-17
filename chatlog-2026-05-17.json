@@ -12748,5 +12748,35 @@
     "userClasses": "username user ",
     "message": "lol *tail swish*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897537",
+    "type": "public",
+    "date": "17/05 15:43",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Least obvious PDF",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7897538",
+    "type": "public",
+    "date": "17/05 15:44",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Are you gay?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897539",
+    "type": "public",
+    "date": "17/05 15:44",
+    "username": "Friendless",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "*nuzzles* MOowoOnishiki ok mommy",
+    "msgClasses": "chat_message "
   }
 ]
