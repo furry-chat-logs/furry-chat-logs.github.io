@@ -8928,5 +8928,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] )",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897149",
+    "type": "public",
+    "date": "17/05 12:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Deimos a fellow tadc fan! just now realised ur banner",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897150",
+    "type": "public",
+    "date": "17/05 12:51",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hold on I'ma lock in on r6 with this is my ear",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897151",
+    "type": "public",
+    "date": "17/05 12:51",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNXUxM2MyZGp0eXl2emRxb2p4NGhlbDA0cGtrejByemllOTBjOHl4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fXnRObM8Q0RkOmR5nf/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
