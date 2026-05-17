@@ -13856,5 +13856,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "this will be interesting",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7897648",
+    "type": "public",
+    "date": "17/05 16:28",
+    "username": "Evil Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Well that test failed",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
