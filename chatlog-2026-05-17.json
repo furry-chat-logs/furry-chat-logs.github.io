@@ -6948,5 +6948,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I guess my name is \"Новачок\" in Ukrainian",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896949",
+    "type": "public",
+    "date": "17/05 12:00",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( Whats ur fursona species?  17/05 10:00 ) It's in my bio U.U",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896950",
+    "type": "public",
+    "date": "17/05 12:00",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "New Kid lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7896951",
+    "type": "public",
+    "date": "17/05 12:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Interesting",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
