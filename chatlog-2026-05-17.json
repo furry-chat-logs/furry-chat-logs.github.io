@@ -5538,5 +5538,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Frogmin I'm using dark theme, and it works for me",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896808",
+    "type": "public",
+    "date": "17/05 11:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Farts in fear",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
