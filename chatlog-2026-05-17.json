@@ -5048,5 +5048,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": ">.>",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896759",
+    "type": "public",
+    "date": "17/05 11:14",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Mojito Still fixing it. Doesn't update in live time right now. But should do in about 50 seconds",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
