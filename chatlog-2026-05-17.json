@@ -6178,5 +6178,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Frogmin yay",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896872",
+    "type": "public",
+    "date": "17/05 11:40",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I hope.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896873",
+    "type": "public",
+    "date": "17/05 11:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "✨",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896874",
+    "type": "public",
+    "date": "17/05 11:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_ef3be36d7e03.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
