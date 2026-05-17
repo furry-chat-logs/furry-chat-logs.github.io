@@ -5608,5 +5608,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "That's awfully lore accurate",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896815",
+    "type": "public",
+    "date": "17/05 11:31",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "EnGliSh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
