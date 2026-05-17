@@ -6798,5 +6798,35 @@
     "userClasses": "username bgrad7 ",
     "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896934",
+    "type": "public",
+    "date": "17/05 11:57",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "How do you know?",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896935",
+    "type": "public",
+    "date": "17/05 11:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Mojito I didn't ghost u!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896936",
+    "type": "public",
+    "date": "17/05 11:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] Did a lot of coding this year, now suddenly I slacked off 🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
