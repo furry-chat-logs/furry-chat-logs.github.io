@@ -10018,5 +10018,25 @@
     "userClasses": "username user ",
     "message": "something straight is happening ~nya",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897258",
+    "type": "public",
+    "date": "17/05 13:20",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Sol_Aizawa Nice cat",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7897259",
+    "type": "public",
+    "date": "17/05 13:21",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36863_f9d1e78ac85c.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
