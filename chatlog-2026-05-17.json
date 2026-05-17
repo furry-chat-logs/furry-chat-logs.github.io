@@ -7298,5 +7298,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "New Kid lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7896984",
+    "type": "public",
+    "date": "17/05 12:07",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "How do I undo translate",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
