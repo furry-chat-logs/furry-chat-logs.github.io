@@ -9298,5 +9298,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Im already three years in the making of mine.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897186",
+    "type": "public",
+    "date": "17/05 13:01",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "woah",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897187",
+    "type": "public",
+    "date": "17/05 13:02",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Its 4 parts long.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
