@@ -5816,5 +5816,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I remember there was a bear called Wojtek",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7895965",
+    "type": "public",
+    "date": "16/05 22:07",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "that used to drink and smoke every day",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
