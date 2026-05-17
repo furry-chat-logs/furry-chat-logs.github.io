@@ -2018,5 +2018,15 @@
     "userClasses": "username user ",
     "message": "Sol_Aizawa This is a new account, I cant figure out the password to my old one",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896455",
+    "type": "public",
+    "date": "17/05 2:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "aha",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
