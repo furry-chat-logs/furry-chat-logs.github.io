@@ -738,5 +738,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bruh you don't need to tell your parents",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896327",
+    "type": "public",
+    "date": "17/05 1:48",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "Ik",
+    "msgClasses": "chat_message "
   }
 ]
