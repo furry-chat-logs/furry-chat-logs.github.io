@@ -4718,5 +4718,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Num Little Bug Like an actual frog?",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896726",
+    "type": "public",
+    "date": "17/05 10:54",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "TEST",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
