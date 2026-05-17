@@ -4516,5 +4516,15 @@
     "userClasses": "username user ",
     "message": "Or do they",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895832",
+    "type": "public",
+    "date": "16/05 21:38",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Tsukuyomi Stop cutting yourself, and heal.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
