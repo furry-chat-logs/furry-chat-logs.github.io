@@ -9198,5 +9198,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "New Kid hey hey.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897176",
+    "type": "public",
+    "date": "17/05 12:58",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "i'ma try to make an animated series",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
