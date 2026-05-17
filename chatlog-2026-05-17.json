@@ -698,5 +698,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nach do wat you want",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896323",
+    "type": "public",
+    "date": "17/05 1:46",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "I have this already typed",
+    "msgClasses": "chat_message "
   }
 ]
