@@ -2026,5 +2026,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Wifies hey hey.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895579",
+    "type": "public",
+    "date": "16/05 20:02",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "What if I am not gay",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895580",
+    "type": "public",
+    "date": "16/05 20:02",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Not in the slightest",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
