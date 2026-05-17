@@ -158,5 +158,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGNybnh4NHpqdjVkM2FrOXhhdGY5NHQ5cnBjem1ndTFqajZscWJjbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13v0S8Apv0xoSQ/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896268",
+    "type": "public",
+    "date": "17/05 0:17",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Buggo [skull]",
+    "msgClasses": "chat_message ital"
   }
 ]
