@@ -628,5 +628,25 @@
     "userClasses": "username user ",
     "message": "To people that keep sending 34m",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896316",
+    "type": "public",
+    "date": "17/05 1:45",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "I finally found a app that jts that",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896317",
+    "type": "public",
+    "date": "17/05 1:45",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "That's wat most ppl do on here",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
