@@ -1458,5 +1458,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa good morning",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896399",
+    "type": "public",
+    "date": "17/05 2:27",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "That sounds good",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896400",
+    "type": "public",
+    "date": "17/05 2:27",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "What's your favorite ice cream",
+    "msgClasses": "chat_message "
   }
 ]
