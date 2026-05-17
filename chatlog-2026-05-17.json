@@ -11518,5 +11518,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Ew.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897409",
+    "type": "public",
+    "date": "17/05 14:08",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Yeah..",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
