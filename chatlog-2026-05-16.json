@@ -3556,5 +3556,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Bergindine see ya.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895735",
+    "type": "public",
+    "date": "16/05 21:09",
+    "username": "Electricwolf_tony",
+    "userId": "26458",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Now I am here",
+    "msgClasses": "chat_message bcolor30 heavyital bfont2"
   }
 ]
