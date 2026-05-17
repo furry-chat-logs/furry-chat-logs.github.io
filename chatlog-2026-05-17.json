@@ -6078,5 +6078,35 @@
     "userClasses": "username bgrad15 ",
     "message": "Hi chat",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7896862",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "My first language is English,second is Scottish Gaelic (family language)",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896863",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I don't speak it anymore, but like i said my parents were probably trying to make me slow on purpose",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896864",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Buggo hai",
+    "msgClasses": "chat_message bneon14"
   }
 ]
