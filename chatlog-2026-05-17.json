@@ -6558,5 +6558,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[secret-share: 2PESrkO0yoXnzlfCT1poytebF&n=47023] Q&A [tongue3]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896910",
+    "type": "public",
+    "date": "17/05 11:51",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Ooh they added the delivered and read thingy ma tingy",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7896911",
+    "type": "public",
+    "date": "17/05 11:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa said before that she just got into the site and had an error but I didn't get one",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896912",
+    "type": "public",
+    "date": "17/05 11:51",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "For some reason opening dms gets rid of all the seen receipts?",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
