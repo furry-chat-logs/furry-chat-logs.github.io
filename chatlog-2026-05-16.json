@@ -6366,5 +6366,15 @@
     "userClasses": "username bcolor32 ",
     "message": "That's why I listen to it",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896024",
+    "type": "public",
+    "date": "16/05 22:44",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "I shall work a bit on my profile",
+    "msgClasses": "chat_message "
   }
 ]
