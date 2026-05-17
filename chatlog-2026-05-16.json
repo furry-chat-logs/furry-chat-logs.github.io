@@ -3426,5 +3426,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "\\JustAnAnt BAD ANT! NO PERCS! *shoots with airsoft rifle*",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7895722",
+    "type": "public",
+    "date": "16/05 21:03",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Dies",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
