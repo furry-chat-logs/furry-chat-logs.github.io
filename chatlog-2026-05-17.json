@@ -12608,5 +12608,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Its back ✌🏽💔",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7897523",
+    "type": "public",
+    "date": "17/05 15:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Grown man btw",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
