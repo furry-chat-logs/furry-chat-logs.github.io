@@ -5958,5 +5958,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Spanish [nerd]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896850",
+    "type": "public",
+    "date": "17/05 11:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It rlly is cute",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896851",
+    "type": "public",
+    "date": "17/05 11:37",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Toddlers understand it at a very early level",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
