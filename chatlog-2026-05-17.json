@@ -9958,5 +9958,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "NimbleLobster906 do lobsters swish they're tails?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897252",
+    "type": "public",
+    "date": "17/05 13:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_13110b7d4c7d.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897253",
+    "type": "public",
+    "date": "17/05 13:20",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "wtf *tail swish*",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897254",
+    "type": "public",
+    "date": "17/05 13:20",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Their*",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
