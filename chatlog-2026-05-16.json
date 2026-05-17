@@ -6376,5 +6376,25 @@
     "userClasses": "username user ",
     "message": "I shall work a bit on my profile",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896025",
+    "type": "public",
+    "date": "16/05 22:44",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "So much heavy shit and deep screams that every oother thought gets drowned in ig",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896026",
+    "type": "public",
+    "date": "16/05 22:44",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "*it",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
