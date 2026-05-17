@@ -8196,5 +8196,25 @@
     "userClasses": "username bcolor32 ",
     "message": "People who tell me that I only care about myself don't actually know me",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896207",
+    "type": "public",
+    "date": "16/05 23:25",
+    "username": "Data",
+    "userId": "2",
+    "userClasses": "username bneon9 bnfont7",
+    "message": "This room has been cleared by Frogmin",
+    "msgClasses": "chat_message chat_system"
+  },
+  {
+    "id": "7896208",
+    "type": "public",
+    "date": "16/05 23:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Porphy knows this, and most of my closest friends know that too",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
