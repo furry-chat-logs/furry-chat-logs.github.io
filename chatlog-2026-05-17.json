@@ -15336,5 +15336,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "So uhururueu",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7897809",
+    "type": "public",
+    "date": "17/05 18:19",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "centi what?",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
