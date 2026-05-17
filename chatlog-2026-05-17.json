@@ -1178,5 +1178,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Pov you",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896371",
+    "type": "public",
+    "date": "17/05 2:06",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Wait tech",
+    "msgClasses": "chat_message "
   }
 ]
