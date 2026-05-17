@@ -5736,5 +5736,25 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "she's getting better be nice",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7895957",
+    "type": "public",
+    "date": "16/05 22:06",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "SHE WAS EATING GRASS she don look sad",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7895958",
+    "type": "public",
+    "date": "16/05 22:06",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "prEtzeL Give the horse a beer and she'll cheer up.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
