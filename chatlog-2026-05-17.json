@@ -1428,5 +1428,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "Or like that in cheese cake",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896396",
+    "type": "public",
+    "date": "17/05 2:26",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "good morning",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
