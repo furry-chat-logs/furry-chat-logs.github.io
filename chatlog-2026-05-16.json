@@ -6146,5 +6146,25 @@
     "userClasses": "username bcolor32 ",
     "message": "But hbu",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896001",
+    "type": "public",
+    "date": "16/05 22:39",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "a pretty boring answer but nothing, just got bored and registered here, and now talking to you",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896002",
+    "type": "public",
+    "date": "16/05 22:39",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "that's kind of it",
+    "msgClasses": "chat_message "
   }
 ]
