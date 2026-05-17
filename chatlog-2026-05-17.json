@@ -4968,5 +4968,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "SoraTheMikuFan Hru?",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896751",
+    "type": "public",
+    "date": "17/05 11:12",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm ok, invited a friend over today so I wasn't online",
+    "msgClasses": "chat_message bneon14"
   }
 ]
