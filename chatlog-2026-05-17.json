@@ -7418,5 +7418,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Ok we're back.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7896996",
+    "type": "public",
+    "date": "17/05 12:10",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Huh",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896997",
+    "type": "public",
+    "date": "17/05 12:10",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "strange",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
