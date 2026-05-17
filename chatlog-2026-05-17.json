@@ -998,5 +998,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Idk how to feel my close friends are suffering around me",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7896353",
+    "type": "public",
+    "date": "17/05 1:57",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2pldm04NWEyb2czN3Vid3k5dzd3aXpsOWZuNXptMWcybGpkczMyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcESvfRaiFNer2o/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896354",
+    "type": "public",
+    "date": "17/05 1:57",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "This you",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
