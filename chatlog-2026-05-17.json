@@ -11128,5 +11128,15 @@
     "userClasses": "username bneon18 ",
     "message": "Gee whiz why'd I scroll up. [skull]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7897369",
+    "type": "public",
+    "date": "17/05 13:41",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "He either talks like this",
+    "msgClasses": "chat_message "
   }
 ]
