@@ -1068,5 +1068,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "I wish",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896360",
+    "type": "public",
+    "date": "17/05 2:02",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Why do you wish to live in Germany",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
