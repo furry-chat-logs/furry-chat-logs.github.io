@@ -5928,5 +5928,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Mojito I know mom and dad",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896847",
+    "type": "public",
+    "date": "17/05 11:36",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "Frogmin your pfp is so cute lol",
+    "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7896848",
+    "type": "public",
+    "date": "17/05 11:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "My first language is uh uh uh uh uh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
