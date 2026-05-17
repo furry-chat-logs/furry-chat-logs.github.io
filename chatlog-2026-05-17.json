@@ -4128,5 +4128,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Suburbian leaked dms",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896667",
+    "type": "public",
+    "date": "17/05 10:02",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Get em",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896668",
+    "type": "public",
+    "date": "17/05 10:03",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[happy]",
+    "msgClasses": "chat_message "
   }
 ]
