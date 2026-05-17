@@ -808,5 +808,15 @@
     "userClasses": "username user ",
     "message": "I have like no places to hide it",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896334",
+    "type": "public",
+    "date": "17/05 1:50",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "O yeah",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
