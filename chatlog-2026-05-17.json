@@ -7878,5 +7878,35 @@
     "userClasses": "username user ",
     "message": "I neeeeeeeeeeeeeeeeeeeeeeeed thiss",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897042",
+    "type": "public",
+    "date": "17/05 12:31",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "NimbleLobster906 i would, but i just used them myself like... two days ago.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897043",
+    "type": "public",
+    "date": "17/05 12:31",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "my mom is kinda homeless",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897044",
+    "type": "public",
+    "date": "17/05 12:31",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Im sorry.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
