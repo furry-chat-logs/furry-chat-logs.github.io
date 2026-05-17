@@ -1818,5 +1818,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Arg Arg Arg I like money",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7896435",
+    "type": "public",
+    "date": "17/05 2:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Evil Rat؜ you Evil",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
