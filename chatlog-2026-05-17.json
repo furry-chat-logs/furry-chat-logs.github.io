@@ -1508,5 +1508,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "Me too",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896404",
+    "type": "public",
+    "date": "17/05 2:29",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bye",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
