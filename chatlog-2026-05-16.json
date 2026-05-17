@@ -6116,5 +6116,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Sup",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7895998",
+    "type": "public",
+    "date": "16/05 22:38",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "how's it going?",
+    "msgClasses": "chat_message "
   }
 ]
