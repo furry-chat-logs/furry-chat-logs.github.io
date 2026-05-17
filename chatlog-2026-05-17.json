@@ -9638,5 +9638,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I want to see the design",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897220",
+    "type": "public",
+    "date": "17/05 13:07",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "New Kid Don't rush it.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
