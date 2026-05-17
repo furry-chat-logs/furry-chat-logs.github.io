@@ -7528,5 +7528,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Uhuh.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897007",
+    "type": "public",
+    "date": "17/05 12:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
