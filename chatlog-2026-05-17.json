@@ -14546,5 +14546,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Hai!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897718",
+    "type": "public",
+    "date": "17/05 17:56",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [heu]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7897719",
+    "type": "public",
+    "date": "17/05 17:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Moonishiki haiii",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
