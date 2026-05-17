@@ -8398,5 +8398,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I remember now.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897094",
+    "type": "public",
+    "date": "17/05 12:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "0G Stupendous Man now you have them back",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
