@@ -4178,5 +4178,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "We can talk about this",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896672",
+    "type": "public",
+    "date": "17/05 10:05",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Actually i cant talk tn",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896673",
+    "type": "public",
+    "date": "17/05 10:05",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Rn",
+    "msgClasses": "chat_message "
   }
 ]
