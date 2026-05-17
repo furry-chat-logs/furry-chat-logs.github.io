@@ -6258,5 +6258,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "My bad.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896880",
+    "type": "public",
+    "date": "17/05 11:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Frogmin wym?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
