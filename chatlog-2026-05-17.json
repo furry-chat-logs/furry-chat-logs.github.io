@@ -1318,5 +1318,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "<-",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896385",
+    "type": "public",
+    "date": "17/05 2:19",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "It says locked",
+    "msgClasses": "chat_message "
   }
 ]
