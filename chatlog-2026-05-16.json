@@ -8146,5 +8146,25 @@
     "userClasses": "username bcolor32 ",
     "message": "But he said if I feel like I need to inflict myself pain to get through stuff, to do that, but not anywhere vitally",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896202",
+    "type": "public",
+    "date": "16/05 23:24",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "But uh yeah. Anyways",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896203",
+    "type": "public",
+    "date": "16/05 23:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] Hihi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
