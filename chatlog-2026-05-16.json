@@ -6586,5 +6586,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Of course I am. Blocking me really struck.",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896046",
+    "type": "public",
+    "date": "16/05 22:51",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "for my own mental health",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896047",
+    "type": "public",
+    "date": "16/05 22:51",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Still waiting for my color to return to my face",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
