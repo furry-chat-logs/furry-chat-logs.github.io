@@ -2558,5 +2558,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "SoraTheMikuFan Evil? What makes you say that?",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7896509",
+    "type": "public",
+    "date": "17/05 3:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Idk... ur username is Evil Rat؜",
+    "msgClasses": "chat_message bneon14"
   }
 ]
