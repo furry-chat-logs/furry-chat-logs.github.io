@@ -1488,5 +1488,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Decent! About to sleep though as it's 1am...",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7895524",
+    "type": "public",
+    "date": "16/05 19:02",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon29 bnfont5",
+    "message": "It's so empty rn",
+    "msgClasses": "chat_message bfont7"
   }
 ]
