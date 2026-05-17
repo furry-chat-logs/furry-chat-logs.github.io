@@ -2808,5 +2808,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "The sense would common there TwT",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896534",
+    "type": "public",
+    "date": "17/05 3:42",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "Huh-",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896535",
+    "type": "public",
+    "date": "17/05 3:42",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "my brain isnt braining rn",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
