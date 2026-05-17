@@ -4858,5 +4858,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Quick question, is that your fursuit?",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896740",
+    "type": "public",
+    "date": "17/05 11:02",
+    "username": "KaiTheFurry",
+    "userId": "22541",
+    "userClasses": "username bcolor19 bnfont15",
+    "message": "yuhh",
+    "msgClasses": "chat_message "
   }
 ]
