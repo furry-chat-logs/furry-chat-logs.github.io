@@ -838,5 +838,25 @@
     "userClasses": "username user ",
     "message": "No",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896337",
+    "type": "public",
+    "date": "17/05 1:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wish I had oneee",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896338",
+    "type": "public",
+    "date": "17/05 1:51",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "Do you?",
+    "msgClasses": "chat_message "
   }
 ]
