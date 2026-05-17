@@ -2158,5 +2158,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "Each represents a different part of me, so it is glorious uwu",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896469",
+    "type": "public",
+    "date": "17/05 3:10",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "A Wendigo cat is pretty sick",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896470",
+    "type": "public",
+    "date": "17/05 3:10",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "yeah I am just a multi-sona",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
