@@ -1908,5 +1908,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896444",
+    "type": "public",
+    "date": "17/05 2:50",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeW4yMnIwamtsamN3eWtudm51MjE2ejMxa2x0eXdzMjR5aTJ6Y21xYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T70hpBP1L0N7U0jtkq/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
