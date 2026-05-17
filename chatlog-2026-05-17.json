@@ -9048,5 +9048,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "NimbleLobster906 coins.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897161",
+    "type": "public",
+    "date": "17/05 12:52",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "SoraTheMikuFan I like everyone",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7897162",
+    "type": "public",
+    "date": "17/05 12:52",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "not special vip",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897163",
+    "type": "public",
+    "date": "17/05 12:52",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Especially Jax",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
