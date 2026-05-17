@@ -4248,5 +4248,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I'm just testing lmao.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896679",
+    "type": "public",
+    "date": "17/05 10:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "🧑‍🦯",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
