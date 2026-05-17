@@ -7996,5 +7996,25 @@
     "userClasses": "username user ",
     "message": "Jesus fucking Christ",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896187",
+    "type": "public",
+    "date": "16/05 23:14",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Must be exhausting to be this needy for attention",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896188",
+    "type": "public",
+    "date": "16/05 23:14",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
