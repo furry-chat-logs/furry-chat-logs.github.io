@@ -5078,5 +5078,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yea this feature so cool. Ty for thinking abt us being left on read and not knowing",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896762",
+    "type": "public",
+    "date": "17/05 11:16",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "TEST",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
