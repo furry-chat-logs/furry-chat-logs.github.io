@@ -3966,5 +3966,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Hm",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7895777",
+    "type": "public",
+    "date": "16/05 21:29",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Hn",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7895778",
+    "type": "public",
+    "date": "16/05 21:29",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Hm*",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
