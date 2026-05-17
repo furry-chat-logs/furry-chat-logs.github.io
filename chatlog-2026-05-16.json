@@ -1568,5 +1568,25 @@
     "userClasses": "username bcolor2 bnfont11",
     "message": "[media: https://furrychat.net/chat/upload/chat/user33604_68289df68ee9.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895533",
+    "type": "public",
+    "date": "16/05 19:05",
+    "username": "mrlonely0ne11",
+    "userId": "37243",
+    "userClasses": "username user ",
+    "message": "Hii",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895534",
+    "type": "public",
+    "date": "16/05 19:05",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "tuff",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
