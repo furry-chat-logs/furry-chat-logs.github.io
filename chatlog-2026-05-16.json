@@ -7636,5 +7636,15 @@
     "userClasses": "username user ",
     "message": "Ikr apparently this is an airport",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896151",
+    "type": "public",
+    "date": "16/05 23:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hm",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
