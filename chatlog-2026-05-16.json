@@ -3086,5 +3086,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Nice job leaking your identity in a screenshot.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7895685",
+    "type": "public",
+    "date": "16/05 20:26",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[skull]",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
