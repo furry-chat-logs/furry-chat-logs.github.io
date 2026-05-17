@@ -2318,5 +2318,25 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "Zvix1106 Idk yet TwT",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896485",
+    "type": "public",
+    "date": "17/05 3:13",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Maoooo",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896486",
+    "type": "public",
+    "date": "17/05 3:13",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Friennn",
+    "msgClasses": "chat_message bneon14"
   }
 ]
