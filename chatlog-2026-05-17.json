@@ -6538,5 +6538,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hmm",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896908",
+    "type": "public",
+    "date": "17/05 11:50",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "I just refreshed and it worked so",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
