@@ -1238,5 +1238,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "Ik",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896377",
+    "type": "public",
+    "date": "17/05 2:11",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You finke out side the rain",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
