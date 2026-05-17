@@ -14156,5 +14156,15 @@
     "userClasses": "username bcolor32 bnfont16",
     "message": "Gang*",
     "msgClasses": "chat_message bcolor30 heavyital bfont2"
+  },
+  {
+    "id": "7897679",
+    "type": "public",
+    "date": "17/05 17:28",
+    "username": "timothy",
+    "userId": "33083",
+    "userClasses": "username bneon15 bnfont16",
+    "message": "JGAJQG among us",
+    "msgClasses": "chat_message bcolor1 ital bfont4"
   }
 ]
