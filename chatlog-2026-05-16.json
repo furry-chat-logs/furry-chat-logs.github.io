@@ -7826,5 +7826,25 @@
     "userClasses": "username bcolor32 ",
     "message": "SS) how childish!",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896170",
+    "type": "public",
+    "date": "16/05 23:06",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Both both is good",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896171",
+    "type": "public",
+    "date": "16/05 23:06",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "We love to see it.",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
