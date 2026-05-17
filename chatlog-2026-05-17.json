@@ -4808,5 +4808,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Mojito lmao, I'm adding seen receipts now.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896735",
+    "type": "public",
+    "date": "17/05 10:58",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "I saw! it's working in my dms, so",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
