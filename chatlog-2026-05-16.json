@@ -5996,5 +5996,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Moonishiki get some sleep, ok?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895984",
+    "type": "public",
+    "date": "16/05 22:27",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Goodnight,  chat.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
