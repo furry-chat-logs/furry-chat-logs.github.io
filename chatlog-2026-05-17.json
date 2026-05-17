@@ -1858,5 +1858,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMThoZWt2c2I1emk2MTFmZ2pzenIxYm90enhlZGM4dmFlbGlldmF0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IfyjWLQMeF6kbG2r0z/giphy.gif]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896439",
+    "type": "public",
+    "date": "17/05 2:45",
+    "username": "Evil Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Sol_Aizawa I'm not THAT evil",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
