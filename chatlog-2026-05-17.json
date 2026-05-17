@@ -10568,5 +10568,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "what on earth is going on",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7897313",
+    "type": "public",
+    "date": "17/05 13:26",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Bro got the \"your trieded\" award [skull]",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
