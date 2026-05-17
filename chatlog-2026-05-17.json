@@ -1828,5 +1828,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Evil Rat؜ you Evil",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896436",
+    "type": "public",
+    "date": "17/05 2:44",
+    "username": "Evil Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Medokin A tad bit",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
