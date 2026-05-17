@@ -10488,5 +10488,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Ss closed",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897305",
+    "type": "public",
+    "date": "17/05 13:25",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "rawr~ hm",
+    "msgClasses": "chat_message "
   }
 ]
