@@ -13178,5 +13178,15 @@
     "userClasses": "username user ",
     "message": "Hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897580",
+    "type": "public",
+    "date": "17/05 15:48",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_bea995f39c00.gif]",
+    "msgClasses": "chat_message "
   }
 ]
