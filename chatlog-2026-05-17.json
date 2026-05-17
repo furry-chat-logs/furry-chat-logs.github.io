@@ -1618,5 +1618,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I wanna more plants",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896415",
+    "type": "public",
+    "date": "17/05 2:31",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Is their a way to change my name",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896416",
+    "type": "public",
+    "date": "17/05 2:31",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I need more",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
