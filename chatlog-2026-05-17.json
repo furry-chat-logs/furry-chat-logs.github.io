@@ -7438,5 +7438,45 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "strange",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896998",
+    "type": "public",
+    "date": "17/05 12:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_b97adb702300.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896999",
+    "type": "public",
+    "date": "17/05 12:10",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I can't find my hours because I usually have to go through ps app and see after I close the game but it won't show up anywhere after closing for some reason",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897000",
+    "type": "public",
+    "date": "17/05 12:10",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "There we go, it's not a black screen anymore",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897001",
+    "type": "public",
+    "date": "17/05 12:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oh no",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
