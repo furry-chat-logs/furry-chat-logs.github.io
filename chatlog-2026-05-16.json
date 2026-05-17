@@ -2626,5 +2626,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "ah",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895639",
+    "type": "public",
+    "date": "16/05 20:12",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "And i'm his bodygaurd. [skull]",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
