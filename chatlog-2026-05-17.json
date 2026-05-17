@@ -8108,5 +8108,35 @@
     "userClasses": "username user ",
     "message": "i'm bored too<\\3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897065",
+    "type": "public",
+    "date": "17/05 12:34",
+    "username": "M18 Raccoon",
+    "userId": "37257",
+    "userClasses": "username user ",
+    "message": "[heu]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897066",
+    "type": "public",
+    "date": "17/05 12:34",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Get pfps, yall.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897067",
+    "type": "public",
+    "date": "17/05 12:35",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "test",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
