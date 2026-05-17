@@ -2126,5 +2126,25 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Hihi Elly",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895589",
+    "type": "public",
+    "date": "16/05 20:03",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hello to everyone who has an 'i' in their username",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895590",
+    "type": "public",
+    "date": "16/05 20:03",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I'm as straight as the line yall will be walking in after I'm done with ya.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
