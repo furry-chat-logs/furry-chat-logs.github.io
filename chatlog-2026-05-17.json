@@ -508,5 +508,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "CosmoSkyrin hi I'm new",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896304",
+    "type": "public",
+    "date": "17/05 1:40",
+    "username": "CosmoSkyrin",
+    "userId": "33540",
+    "userClasses": "username user ",
+    "message": "hello there",
+    "msgClasses": "chat_message "
   }
 ]
