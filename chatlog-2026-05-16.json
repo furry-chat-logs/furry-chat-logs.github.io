@@ -7926,5 +7926,15 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "send whatever :3",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896180",
+    "type": "public",
+    "date": "16/05 23:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Kinda hard to love when you know people who initally thought they could love me, realized how clingy and reliant I am and left me grobbling at the dirt",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
