@@ -15686,5 +15686,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWE4d25jZmhtaHhlcmF1cWc5cjlkbzVrNWpscm5xc2RzeHd5YnJ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DWHzzisbWoJr6QpbS5/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7897844",
+    "type": "public",
+    "date": "17/05 18:58",
+    "username": "Evil Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
