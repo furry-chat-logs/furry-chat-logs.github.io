@@ -3548,5 +3548,25 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "Oop-",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896609",
+    "type": "public",
+    "date": "17/05 4:33",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "amyway, bed bed time",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896610",
+    "type": "public",
+    "date": "17/05 4:34",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "no cookie for you tho umu",
+    "msgClasses": "chat_message "
   }
 ]
