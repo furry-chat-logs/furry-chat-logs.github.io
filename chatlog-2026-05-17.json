@@ -7768,5 +7768,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "i think i’ll refrain. you know who i am i’ll just let you guess 17/05 12:27 Or you know who I am, so just pm me and see how good it is?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897031",
+    "type": "public",
+    "date": "17/05 12:29",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Anything",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897032",
+    "type": "public",
+    "date": "17/05 12:29",
+    "username": "FurryDog691",
+    "userId": "37256",
+    "userClasses": "username bcolor15 ",
+    "message": "It's from Etsy!! It's me fursuit that I'm getting",
+    "msgClasses": "chat_message "
   }
 ]
