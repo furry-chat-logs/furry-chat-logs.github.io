@@ -448,5 +448,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Zen idk",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896298",
+    "type": "public",
+    "date": "17/05 1:21",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Zen why are you asking",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
