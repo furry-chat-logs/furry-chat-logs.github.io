@@ -1598,5 +1598,35 @@
     "userClasses": "username bcolor2 bnfont11",
     "message": "Yoooo tsym Frogmin",
     "msgClasses": "chat_message bneon1  bfont2"
+  },
+  {
+    "id": "7895536",
+    "type": "public",
+    "date": "16/05 19:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_8928a5da9dda.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895537",
+    "type": "public",
+    "date": "16/05 19:05",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon29 bnfont5",
+    "message": "williams peak",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7895538",
+    "type": "public",
+    "date": "16/05 19:05",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "mrlonely0ne11 Hello",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
