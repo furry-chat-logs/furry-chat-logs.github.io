@@ -9318,5 +9318,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Its 4 parts long.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897188",
+    "type": "public",
+    "date": "17/05 13:02",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "and is it going well?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
