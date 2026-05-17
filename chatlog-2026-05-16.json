@@ -7566,5 +7566,35 @@
     "userClasses": "username user ",
     "message": "She was doing this shit and I talked down to her",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896144",
+    "type": "public",
+    "date": "16/05 23:01",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "I'm going to learn to mask it all again, because someone couldn't keep their promise to be the one I dont have to do that around",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896145",
+    "type": "public",
+    "date": "16/05 23:01",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "oh",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896146",
+    "type": "public",
+    "date": "16/05 23:01",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "lmaooo",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
