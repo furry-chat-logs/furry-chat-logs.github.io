@@ -4378,5 +4378,15 @@
     "userClasses": "username bgrad7 ",
     "message": "That's mah dog",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896692",
+    "type": "public",
+    "date": "17/05 10:29",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": ":D",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
