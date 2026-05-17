@@ -13448,5 +13448,35 @@
     "userClasses": "username bgrad7 ",
     "message": "😭😭💔",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897607",
+    "type": "public",
+    "date": "17/05 15:55",
+    "username": "Friendless",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "onichan hehe",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897608",
+    "type": "public",
+    "date": "17/05 15:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Moonishiki ts pmo 💔🥀😔",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897609",
+    "type": "public",
+    "date": "17/05 15:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Jk",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
