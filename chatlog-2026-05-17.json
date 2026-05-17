@@ -1758,5 +1758,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Hunter77 LovelyFluff809 You must have vip or supervip to change name",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7896429",
+    "type": "public",
+    "date": "17/05 2:33",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "oh right",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
