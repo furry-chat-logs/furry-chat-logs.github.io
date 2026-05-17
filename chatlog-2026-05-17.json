@@ -14906,5 +14906,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Time to change appearance again",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897762",
+    "type": "public",
+    "date": "17/05 18:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Tada",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
