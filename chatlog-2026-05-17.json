@@ -748,5 +748,25 @@
     "userClasses": "username user ",
     "message": "Ik",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896328",
+    "type": "public",
+    "date": "17/05 1:49",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "But if I get a suit",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896329",
+    "type": "public",
+    "date": "17/05 1:49",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "They will find out",
+    "msgClasses": "chat_message "
   }
 ]
