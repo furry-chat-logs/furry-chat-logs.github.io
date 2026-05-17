@@ -9038,5 +9038,15 @@
     "userClasses": "username user ",
     "message": "ok how i get vip",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897160",
+    "type": "public",
+    "date": "17/05 12:52",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "NimbleLobster906 coins.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
