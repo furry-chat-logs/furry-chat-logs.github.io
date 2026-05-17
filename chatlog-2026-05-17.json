@@ -5998,5 +5998,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Meow",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896854",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I speak cat-language",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896855",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "I know \"fuck you\" in sign LMAOOO",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896856",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "SoraTheMikuFan nah I don't have a hearing condition and nobody in my family speaks it",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
