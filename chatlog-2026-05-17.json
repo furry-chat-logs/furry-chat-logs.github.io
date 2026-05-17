@@ -1648,5 +1648,25 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "You have a farm",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896418",
+    "type": "public",
+    "date": "17/05 2:31",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "I have dragon fruit growing",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896419",
+    "type": "public",
+    "date": "17/05 2:31",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Hello y'all",
+    "msgClasses": "chat_message "
   }
 ]
