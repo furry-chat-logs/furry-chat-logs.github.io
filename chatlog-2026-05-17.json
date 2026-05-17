@@ -5358,5 +5358,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896790",
+    "type": "public",
+    "date": "17/05 11:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[totalangry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896791",
+    "type": "public",
+    "date": "17/05 11:25",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "He says \"farts\" alot",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
