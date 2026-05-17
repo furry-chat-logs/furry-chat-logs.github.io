@@ -1936,5 +1936,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "SwiggleBiggle Bubble.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895570",
+    "type": "public",
+    "date": "16/05 19:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_6e4b207a5cb0.png]",
+    "msgClasses": "chat_message "
   }
 ]
