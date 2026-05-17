@@ -6606,5 +6606,35 @@
     "userClasses": "username bcolor32 ",
     "message": "Still waiting for my color to return to my face",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896048",
+    "type": "public",
+    "date": "16/05 22:51",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "i'm allowed to put myself fist.",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896049",
+    "type": "public",
+    "date": "16/05 22:51",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "first",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896050",
+    "type": "public",
+    "date": "16/05 22:51",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Yeah I don't blame you for that one",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
