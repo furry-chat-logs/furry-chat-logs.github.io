@@ -4048,5 +4048,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "By foot",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896659",
+    "type": "public",
+    "date": "17/05 9:19",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I ended up just having to have my parents pick me up",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
