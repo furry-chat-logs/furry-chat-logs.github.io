@@ -10798,5 +10798,35 @@
     "userClasses": "username user ",
     "message": "*boops your nose* Mojito wah line",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897336",
+    "type": "public",
+    "date": "17/05 13:30",
+    "username": "Friendless",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "UwU me wann fwiends",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897337",
+    "type": "public",
+    "date": "17/05 13:30",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "EW THE THNG TOUCHED ME",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7897338",
+    "type": "public",
+    "date": "17/05 13:30",
+    "username": "Friendless",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "UwU why UwU gUwUys doing dis",
+    "msgClasses": "chat_message "
   }
 ]
