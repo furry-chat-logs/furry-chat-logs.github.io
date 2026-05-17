@@ -2978,5 +2978,45 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "it's 2:20 am for me rn",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896552",
+    "type": "public",
+    "date": "17/05 4:20",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "Go eep -w-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896553",
+    "type": "public",
+    "date": "17/05 4:20",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "like i should",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896554",
+    "type": "public",
+    "date": "17/05 4:20",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "but i wont",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896555",
+    "type": "public",
+    "date": "17/05 4:20",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": ":3",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
