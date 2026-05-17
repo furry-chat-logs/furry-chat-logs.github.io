@@ -4756,5 +4756,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "SwiggleBiggle is it, now?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895856",
+    "type": "public",
+    "date": "16/05 21:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bazinga",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7895857",
+    "type": "public",
+    "date": "16/05 21:57",
+    "username": "Tsukuyomi",
+    "userId": "6405",
+    "userClasses": "username bneon32 ",
+    "message": "More or less bitter than splendid",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
