@@ -4426,5 +4426,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Tsukuyomi right there.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895823",
+    "type": "public",
+    "date": "16/05 21:37",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Tsukuyomi see that?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895824",
+    "type": "public",
+    "date": "16/05 21:37",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "I would cry if I was told that",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
