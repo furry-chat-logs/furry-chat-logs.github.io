@@ -3388,5 +3388,15 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "*tackles you at mach 50 and buries you down into the ground 3 ft* go. EEP! >:33",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896593",
+    "type": "public",
+    "date": "17/05 4:30",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "*escapes and runs 25 ft away* No! >:3",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
