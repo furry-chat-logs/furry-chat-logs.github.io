@@ -3688,5 +3688,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Medokin ikea?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896623",
+    "type": "public",
+    "date": "17/05 7:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "dead chat",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
