@@ -8028,5 +8028,45 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Dies",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897057",
+    "type": "public",
+    "date": "17/05 12:33",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( 17/05 10:30 ) Don't worry I barely talk to people and I hate false accusers",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897058",
+    "type": "public",
+    "date": "17/05 12:33",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "im a british prince, currently stranded in iran",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897059",
+    "type": "public",
+    "date": "17/05 12:33",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[secret-share: bjgO6rMDFNiK2uCNxdt1WuEct&n=47024] liven up.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897060",
+    "type": "public",
+    "date": "17/05 12:33",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "someone send me 10j",
+    "msgClasses": "chat_message "
   }
 ]
