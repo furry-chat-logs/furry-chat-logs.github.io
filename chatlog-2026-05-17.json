@@ -478,5 +478,25 @@
     "userClasses": "username user ",
     "message": "ehem",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896301",
+    "type": "public",
+    "date": "17/05 1:39",
+    "username": "CosmoSkyrin",
+    "userId": "33540",
+    "userClasses": "username user ",
+    "message": "been so long since ive been here",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896302",
+    "type": "public",
+    "date": "17/05 1:40",
+    "username": "CosmoSkyrin",
+    "userId": "33540",
+    "userClasses": "username user ",
+    "message": "2 years to be exact",
+    "msgClasses": "chat_message "
   }
 ]
