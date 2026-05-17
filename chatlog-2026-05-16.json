@@ -3116,5 +3116,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I want to apply.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895688",
+    "type": "public",
+    "date": "16/05 20:26",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "So badly.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
