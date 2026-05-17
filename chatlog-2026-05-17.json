@@ -10938,5 +10938,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Its called bleach",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897350",
+    "type": "public",
+    "date": "17/05 13:32",
+    "username": "Friendless",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "cwies",
+    "msgClasses": "chat_message "
   }
 ]
