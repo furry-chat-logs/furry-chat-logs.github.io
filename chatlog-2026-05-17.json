@@ -6888,5 +6888,25 @@
     "userClasses": "username bgrad7 ",
     "message": "SS) not really. Took a class for it one year",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896943",
+    "type": "public",
+    "date": "17/05 11:58",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_54628b9ff7e6.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896944",
+    "type": "public",
+    "date": "17/05 11:59",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I love playing with the page translator",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
