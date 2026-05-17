@@ -1368,5 +1368,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "Srry but what do you mean by cacke",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896390",
+    "type": "public",
+    "date": "17/05 2:24",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_4d837eb417c0.png]",
+    "msgClasses": "chat_message "
   }
 ]
