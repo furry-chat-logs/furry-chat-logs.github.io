@@ -9268,5 +9268,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Moonishiki what is?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897183",
+    "type": "public",
+    "date": "17/05 13:01",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "New Kid SaMe",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897184",
+    "type": "public",
+    "date": "17/05 13:01",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "New Kid ooh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
