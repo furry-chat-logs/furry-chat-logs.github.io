@@ -2536,5 +2536,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "WHO did he do",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895630",
+    "type": "public",
+    "date": "16/05 20:10",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "do yall understand what im trying to say here",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895631",
+    "type": "public",
+    "date": "16/05 20:10",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "...Probably his wife.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7895632",
+    "type": "public",
+    "date": "16/05 20:10",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "I don't know THAT'S WHY I'M ASKING :^))",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
