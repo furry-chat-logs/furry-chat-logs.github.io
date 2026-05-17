@@ -3678,5 +3678,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "How is life going with you all",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896622",
+    "type": "public",
+    "date": "17/05 6:15",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin ikea?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
