@@ -1018,5 +1018,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "This you",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896355",
+    "type": "public",
+    "date": "17/05 1:57",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Maybe cause flaim",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
