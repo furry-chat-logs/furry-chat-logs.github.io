@@ -4318,5 +4318,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Hello",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896686",
+    "type": "public",
+    "date": "17/05 10:26",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Frogmin mornin' frogmin",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
