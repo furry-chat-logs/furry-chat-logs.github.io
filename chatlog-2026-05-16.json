@@ -1718,5 +1718,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "just a bit tired",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7895548",
+    "type": "public",
+    "date": "16/05 19:08",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "UGHHH im so sleepy",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7895549",
+    "type": "public",
+    "date": "16/05 19:08",
+    "username": "williams",
+    "userId": "33604",
+    "userClasses": "username bcolor2 bnfont11",
+    "message": "Yeah, very relatable",
+    "msgClasses": "chat_message bneon1  bfont2"
   }
 ]
