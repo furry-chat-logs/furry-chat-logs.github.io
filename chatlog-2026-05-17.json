@@ -13298,5 +13298,25 @@
     "userClasses": "username user ",
     "message": "K",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897592",
+    "type": "public",
+    "date": "17/05 15:50",
+    "username": "Wolffie_on_pawzzz",
+    "userId": "37020",
+    "userClasses": "username user ",
+    "message": "I completely forgot about this place",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897593",
+    "type": "public",
+    "date": "17/05 15:50",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_382fbaac409a.gif]",
+    "msgClasses": "chat_message "
   }
 ]
