@@ -5208,5 +5208,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "It needs to update live-time.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896775",
+    "type": "public",
+    "date": "17/05 11:23",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "It looks to me, to be only \"seen\" on re-opening.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
