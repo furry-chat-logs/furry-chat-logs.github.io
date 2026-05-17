@@ -5438,5 +5438,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[tongue3]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896798",
+    "type": "public",
+    "date": "17/05 11:26",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "SoraTheMikuFan He's just a strange goober",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896799",
+    "type": "public",
+    "date": "17/05 11:26",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Uhhhh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
