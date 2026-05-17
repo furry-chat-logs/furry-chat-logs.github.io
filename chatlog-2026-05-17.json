@@ -9838,5 +9838,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Womp womp",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897240",
+    "type": "public",
+    "date": "17/05 13:18",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "Moonishiki no one is talking to u deep sh**",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897241",
+    "type": "public",
+    "date": "17/05 13:18",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "NimbleLobster906 Womp womp, you're complaining to the OWNER LOL",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
