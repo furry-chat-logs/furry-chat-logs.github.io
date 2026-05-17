@@ -9488,5 +9488,25 @@
     "userClasses": "username bgrad7 ",
     "message": "You're a good person",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897205",
+    "type": "public",
+    "date": "17/05 13:05",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki why thank you.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897206",
+    "type": "public",
+    "date": "17/05 13:05",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "SoraTheMikuFan in chat.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
