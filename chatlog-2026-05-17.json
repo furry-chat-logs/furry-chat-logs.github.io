@@ -3808,5 +3808,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Frogmin hello",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896635",
+    "type": "public",
+    "date": "17/05 8:57",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Medokin Hey",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
