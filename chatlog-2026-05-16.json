@@ -5866,5 +5866,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "He had his own rations in the war, and the bear was allowed 2 beers a day.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7895970",
+    "type": "public",
+    "date": "16/05 22:08",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I think he had a medal of honour too.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
