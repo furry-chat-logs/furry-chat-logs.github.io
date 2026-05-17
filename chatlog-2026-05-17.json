@@ -10848,5 +10848,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "He is acting like WDP...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7897341",
+    "type": "public",
+    "date": "17/05 13:31",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Burn it with fire!!",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
