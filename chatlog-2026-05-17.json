@@ -3668,5 +3668,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Blue garden",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896621",
+    "type": "public",
+    "date": "17/05 6:14",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "How is life going with you all",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
