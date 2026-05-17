@@ -6266,5 +6266,45 @@
     "userClasses": "username user ",
     "message": "same tbh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896013",
+    "type": "public",
+    "date": "16/05 22:41",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "I need angrier music",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896014",
+    "type": "public",
+    "date": "16/05 22:41",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "I have to work to afford rent",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896015",
+    "type": "public",
+    "date": "16/05 22:41",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "A license for what?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896016",
+    "type": "public",
+    "date": "16/05 22:41",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username user ",
+    "message": "I'm 16",
+    "msgClasses": "chat_message "
   }
 ]
