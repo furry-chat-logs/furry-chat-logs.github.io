@@ -9758,5 +9758,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "It is not night.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897232",
+    "type": "public",
+    "date": "17/05 13:17",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "LOL",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7897233",
+    "type": "public",
+    "date": "17/05 13:17",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "LMAO",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
