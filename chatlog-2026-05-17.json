@@ -14136,5 +14136,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_54349b2aa41f.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897677",
+    "type": "public",
+    "date": "17/05 17:26",
+    "username": "Electricwolf_tony",
+    "userId": "26458",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Hang !",
+    "msgClasses": "chat_message bcolor30 heavyital bfont2"
+  },
+  {
+    "id": "7897678",
+    "type": "public",
+    "date": "17/05 17:26",
+    "username": "Electricwolf_tony",
+    "userId": "26458",
+    "userClasses": "username bcolor32 bnfont16",
+    "message": "Gang*",
+    "msgClasses": "chat_message bcolor30 heavyital bfont2"
   }
 ]
