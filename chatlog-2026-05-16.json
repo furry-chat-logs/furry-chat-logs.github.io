@@ -6226,5 +6226,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Nope",
     "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896009",
+    "type": "public",
+    "date": "16/05 22:40",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "I don't have a life.",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
