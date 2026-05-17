@@ -10638,5 +10638,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "NimbleLobster906 just stop...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7897320",
+    "type": "public",
+    "date": "17/05 13:28",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "He's not technically breaking any rules, so frog can't kick the freak.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7897321",
+    "type": "public",
+    "date": "17/05 13:28",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "rawr~ i cant",
+    "msgClasses": "chat_message "
   }
 ]
