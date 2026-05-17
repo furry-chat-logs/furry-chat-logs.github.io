@@ -6928,5 +6928,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yup",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896947",
+    "type": "public",
+    "date": "17/05 12:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_769b3c57e622.png]",
+    "msgClasses": "chat_message "
   }
 ]
