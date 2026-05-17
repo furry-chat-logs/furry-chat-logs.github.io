@@ -11538,5 +11538,15 @@
     "userClasses": "username bcolor28 ",
     "message": "[heu]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7897411",
+    "type": "public",
+    "date": "17/05 14:10",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "I'm sooooooo bored",
+    "msgClasses": "chat_message bold"
   }
 ]
