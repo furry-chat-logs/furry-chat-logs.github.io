@@ -1498,5 +1498,15 @@
     "userClasses": "username bneon29 bnfont5",
     "message": "It's so empty rn",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7895525",
+    "type": "public",
+    "date": "16/05 19:02",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "How about yourself?",
+    "msgClasses": "chat_message bold"
   }
 ]
