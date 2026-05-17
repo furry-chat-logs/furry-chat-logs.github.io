@@ -1278,5 +1278,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Click on my pf",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896381",
+    "type": "public",
+    "date": "17/05 2:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sniff sniff",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
