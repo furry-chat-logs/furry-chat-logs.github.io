@@ -4898,5 +4898,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "TEST",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896744",
+    "type": "public",
+    "date": "17/05 11:06",
+    "username": "KaiTheFurry",
+    "userId": "22541",
+    "userClasses": "username bcolor19 bnfont15",
+    "message": "alr lmao",
+    "msgClasses": "chat_message "
   }
 ]
