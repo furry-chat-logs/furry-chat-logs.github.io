@@ -2566,5 +2566,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "I don't know THAT'S WHY I'M ASKING :^))",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895633",
+    "type": "public",
+    "date": "16/05 20:11",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hes cheating on her",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
