@@ -6496,5 +6496,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Uhm so what's going on",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896037",
+    "type": "public",
+    "date": "16/05 22:46",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Idk why chat js feels tense",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
