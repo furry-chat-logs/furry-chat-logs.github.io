@@ -6016,5 +6016,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I shall return.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895986",
+    "type": "public",
+    "date": "16/05 22:28",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Doubt I will",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
