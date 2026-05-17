@@ -5798,5 +5798,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Lite works",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896834",
+    "type": "public",
+    "date": "17/05 11:34",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "It doesn't matter to me, you can DM it if you want",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896835",
+    "type": "public",
+    "date": "17/05 11:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "My first language was sign language",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
