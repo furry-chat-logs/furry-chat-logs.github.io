@@ -7398,5 +7398,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "What?",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896994",
+    "type": "public",
+    "date": "17/05 12:09",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yeah",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7896995",
+    "type": "public",
+    "date": "17/05 12:09",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Ok we're back.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
