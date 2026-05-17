@@ -6068,5 +6068,15 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "Idk how to spell that",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7896861",
+    "type": "public",
+    "date": "17/05 11:38",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Hi chat",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
