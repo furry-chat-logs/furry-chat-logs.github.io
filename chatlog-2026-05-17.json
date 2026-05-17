@@ -15676,5 +15676,15 @@
     "userClasses": "username bgrad7 ",
     "message": "LMAO",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897843",
+    "type": "public",
+    "date": "17/05 18:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWE4d25jZmhtaHhlcmF1cWc5cjlkbzVrNWpscm5xc2RzeHd5YnJ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DWHzzisbWoJr6QpbS5/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
