@@ -7268,5 +7268,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "But I forgot most of it.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7896981",
+    "type": "public",
+    "date": "17/05 12:07",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "All I can really read is \"rice ricey chicken with a side of steamed broccoli\"",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896982",
+    "type": "public",
+    "date": "17/05 12:07",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[cry]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
