@@ -2918,5 +2918,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "I'm addicted to this thing qwq",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896546",
+    "type": "public",
+    "date": "17/05 4:19",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "lol",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896547",
+    "type": "public",
+    "date": "17/05 4:19",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "I forgot how much I missed it qwq",
+    "msgClasses": "chat_message "
   }
 ]
