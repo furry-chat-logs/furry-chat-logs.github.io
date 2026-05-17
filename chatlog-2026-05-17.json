@@ -7548,5 +7548,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNWZhbndxNWl6aXQ0ZmZiZGNqYTl5NTIwMzk3b3ExenN4bXE5Z3llMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/18D7b8w95tZEk/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897009",
+    "type": "public",
+    "date": "17/05 12:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Balls balls balls sahur",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
