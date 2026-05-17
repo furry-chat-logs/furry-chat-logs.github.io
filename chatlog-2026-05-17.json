@@ -10658,5 +10658,35 @@
     "userClasses": "username user ",
     "message": "rawr~ i cant",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897322",
+    "type": "public",
+    "date": "17/05 13:28",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sigh...",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897323",
+    "type": "public",
+    "date": "17/05 13:28",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "i dont know OnO",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897324",
+    "type": "public",
+    "date": "17/05 13:28",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "wahs happening >w<",
+    "msgClasses": "chat_message "
   }
 ]
