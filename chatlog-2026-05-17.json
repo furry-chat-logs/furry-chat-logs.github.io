@@ -398,5 +398,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896292",
+    "type": "public",
+    "date": "17/05 1:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Goodnight chat.",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
