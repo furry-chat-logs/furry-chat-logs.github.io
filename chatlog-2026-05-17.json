@@ -6268,5 +6268,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Frogmin wym?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896881",
+    "type": "public",
+    "date": "17/05 11:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa frienn!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896882",
+    "type": "public",
+    "date": "17/05 11:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Bio update!!",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
