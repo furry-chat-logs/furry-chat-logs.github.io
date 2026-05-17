@@ -1718,5 +1718,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "I could be wrong I don't think there is because I wanted to change mine to depressed elephant lover 77 lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896425",
+    "type": "public",
+    "date": "17/05 2:32",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "But I couldn't find where to change it",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896426",
+    "type": "public",
+    "date": "17/05 2:32",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "LovelyFluff809 yes",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
