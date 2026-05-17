@@ -13866,5 +13866,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Well that test failed",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7897649",
+    "type": "public",
+    "date": "17/05 16:29",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Chat is so dead 😭💔",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
