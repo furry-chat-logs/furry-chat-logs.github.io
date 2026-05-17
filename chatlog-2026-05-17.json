@@ -1668,5 +1668,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello y'all",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896420",
+    "type": "public",
+    "date": "17/05 2:31",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
