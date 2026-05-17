@@ -598,5 +598,25 @@
     "userClasses": "username user ",
     "message": "I just joined",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896313",
+    "type": "public",
+    "date": "17/05 1:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[good]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896314",
+    "type": "public",
+    "date": "17/05 1:44",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "I kinda just want to yap",
+    "msgClasses": "chat_message "
   }
 ]
