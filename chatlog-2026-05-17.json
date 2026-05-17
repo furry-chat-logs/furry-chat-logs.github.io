@@ -9178,5 +9178,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[secret-share: bjgO6rMDFNiK2uCNxdt1WuEct&n=47024] Go ahead.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897174",
+    "type": "public",
+    "date": "17/05 12:58",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "hello",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
