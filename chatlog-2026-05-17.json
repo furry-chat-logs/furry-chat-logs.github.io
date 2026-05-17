@@ -8598,5 +8598,35 @@
     "userClasses": "username user ",
     "message": "i need this",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897114",
+    "type": "public",
+    "date": "17/05 12:44",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "my mom is kinda homeless",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897115",
+    "type": "public",
+    "date": "17/05 12:44",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Because I can tell that you obviously don't",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897116",
+    "type": "public",
+    "date": "17/05 12:44",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "i need vip",
+    "msgClasses": "chat_message "
   }
 ]
