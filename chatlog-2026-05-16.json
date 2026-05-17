@@ -2246,5 +2246,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "*learning to play weezer",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895601",
+    "type": "public",
+    "date": "16/05 20:05",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Hm.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895602",
+    "type": "public",
+    "date": "16/05 20:05",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Ok.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
