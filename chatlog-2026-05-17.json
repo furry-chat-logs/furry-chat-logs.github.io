@@ -3238,5 +3238,25 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "bc i gotta get through high school",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896578",
+    "type": "public",
+    "date": "17/05 4:25",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "tho the reason I went to Cali, is because I had a project there (steel building) and had to build it there",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896579",
+    "type": "public",
+    "date": "17/05 4:25",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "which im not even in yet",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
