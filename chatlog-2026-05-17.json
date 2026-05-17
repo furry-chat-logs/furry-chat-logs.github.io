@@ -14716,5 +14716,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Np vro",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897736",
+    "type": "public",
+    "date": "17/05 18:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_427da01149e9.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897737",
+    "type": "public",
+    "date": "17/05 18:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo!!!;",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
