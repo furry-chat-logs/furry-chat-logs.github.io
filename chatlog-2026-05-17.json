@@ -6238,5 +6238,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "W",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896878",
+    "type": "public",
+    "date": "17/05 11:41",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Shit.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896879",
+    "type": "public",
+    "date": "17/05 11:41",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "My bad.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
