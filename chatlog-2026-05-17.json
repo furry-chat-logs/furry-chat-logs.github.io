@@ -9748,5 +9748,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Wake up.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7897231",
+    "type": "public",
+    "date": "17/05 13:17",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "It is not night.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
