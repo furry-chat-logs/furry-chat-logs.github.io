@@ -7728,5 +7728,15 @@
     "userClasses": "username bcolor15 ",
     "message": "Hiii I'm new! How is the gang!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897027",
+    "type": "public",
+    "date": "17/05 12:27",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "FurryDog691 Welcome.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
