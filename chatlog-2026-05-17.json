@@ -3448,5 +3448,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "they were under the bed qwq",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896599",
+    "type": "public",
+    "date": "17/05 4:32",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "ye i can bc i is js special",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7896600",
+    "type": "public",
+    "date": "17/05 4:32",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": ":3",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
