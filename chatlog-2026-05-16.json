@@ -6246,5 +6246,15 @@
     "userClasses": "username user ",
     "message": "why not?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896011",
+    "type": "public",
+    "date": "16/05 22:40",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Family too poor to afford a license and parents who see me as a liability.",
+    "msgClasses": "chat_message bcolor32 heavybold"
   }
 ]
