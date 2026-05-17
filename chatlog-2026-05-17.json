@@ -7258,5 +7258,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I used to be able to read Korean just a bit.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7896980",
+    "type": "public",
+    "date": "17/05 12:06",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "But I forgot most of it.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
