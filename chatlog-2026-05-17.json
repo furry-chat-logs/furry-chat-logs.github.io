@@ -6308,5 +6308,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "SoraTheMikuFan heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896885",
+    "type": "public",
+    "date": "17/05 11:43",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Moonishiki pretty bio",
+    "msgClasses": "chat_message "
   }
 ]
