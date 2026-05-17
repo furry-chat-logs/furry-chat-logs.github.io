@@ -15576,5 +15576,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Back [runefaust]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7897833",
+    "type": "public",
+    "date": "17/05 18:47",
+    "username": "Evil Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "I cannot do lite mode",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
