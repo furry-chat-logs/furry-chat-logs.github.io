@@ -3386,5 +3386,15 @@
     "userClasses": "username bneon32 ",
     "message": "I'm fine..",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7895718",
+    "type": "public",
+    "date": "16/05 20:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Charlie charlie kirkie",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
