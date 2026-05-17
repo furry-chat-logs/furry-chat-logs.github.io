@@ -7206,5 +7206,25 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "no i don't have a national geographic voice:(",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896108",
+    "type": "public",
+    "date": "16/05 22:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNGgwMnU2cjRrcXZrajFzbWxhNHBnaTVkM3BzMzI0NmExMjk1dG4wMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A0Zt7yuDULiy4ofmVD/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896109",
+    "type": "public",
+    "date": "16/05 22:55",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Here we are in the furry chat watching someone have a mental breakdown",
+    "msgClasses": "chat_message "
   }
 ]
