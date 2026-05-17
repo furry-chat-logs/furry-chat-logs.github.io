@@ -2196,5 +2196,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": ":3",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7895596",
+    "type": "public",
+    "date": "16/05 20:04",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895597",
+    "type": "public",
+    "date": "16/05 20:04",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Poor Superbot",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7895598",
+    "type": "public",
+    "date": "16/05 20:04",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "ive been playing weezer for the past hour",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
