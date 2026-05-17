@@ -7706,5 +7706,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Wtfissachip yum",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7896158",
+    "type": "public",
+    "date": "16/05 23:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896159",
+    "type": "public",
+    "date": "16/05 23:05",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "GOODNIGHT LADIES my dog said it's bedtime",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
