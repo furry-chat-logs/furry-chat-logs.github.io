@@ -3956,5 +3956,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f05f2932a2c9.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895776",
+    "type": "public",
+    "date": "16/05 21:27",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Hm",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
