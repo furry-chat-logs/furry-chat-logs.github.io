@@ -9588,5 +9588,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "didn't happen to me on there",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897215",
+    "type": "public",
+    "date": "17/05 13:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "New Kid oki",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7897216",
+    "type": "public",
+    "date": "17/05 13:07",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "im designing things",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
