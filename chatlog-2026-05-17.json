@@ -5898,5 +5898,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Shit.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896844",
+    "type": "public",
+    "date": "17/05 11:36",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "New Kid Actually it is very common to learn VERY basic signing first",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896845",
+    "type": "public",
+    "date": "17/05 11:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Frogmin what happened?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
