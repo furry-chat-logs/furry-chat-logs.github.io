@@ -868,5 +868,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "No",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896340",
+    "type": "public",
+    "date": "17/05 1:51",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Are you in Germany",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896341",
+    "type": "public",
+    "date": "17/05 1:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "T^T",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896342",
+    "type": "public",
+    "date": "17/05 1:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Nope",
+    "msgClasses": "chat_message bneon14"
   }
 ]
