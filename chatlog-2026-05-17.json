@@ -4528,5 +4528,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "\\Sol_Aizawa So you hate me? :c",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7896707",
+    "type": "public",
+    "date": "17/05 10:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa us [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7896708",
+    "type": "public",
+    "date": "17/05 10:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
