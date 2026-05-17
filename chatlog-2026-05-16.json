@@ -4696,5 +4696,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7895850",
+    "type": "public",
+    "date": "16/05 21:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Num Little Bug nini",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
