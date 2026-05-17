@@ -6138,5 +6138,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Smiley isn't that a rare language",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896868",
+    "type": "public",
+    "date": "17/05 11:39",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "and I've fixed the private thing again.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896869",
+    "type": "public",
+    "date": "17/05 11:39",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Hooray.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
