@@ -9778,5 +9778,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "LMAO",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7897234",
+    "type": "public",
+    "date": "17/05 13:17",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "Frogmin",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897235",
+    "type": "public",
+    "date": "17/05 13:17",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lo",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
