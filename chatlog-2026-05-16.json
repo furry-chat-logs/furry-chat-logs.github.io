@@ -6836,5 +6836,35 @@
     "userClasses": "username user ",
     "message": "Eh well she has me blocked so not like I could say anything",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896071",
+    "type": "public",
+    "date": "16/05 22:53",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bcolor32 ",
+    "message": "Yeah.",
+    "msgClasses": "chat_message bcolor32 heavybold"
+  },
+  {
+    "id": "7896072",
+    "type": "public",
+    "date": "16/05 22:53",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "you're not the only person who fucking matters. you're n out the only person who goes thru stuff",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7896073",
+    "type": "public",
+    "date": "16/05 22:53",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "lmaooo",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
