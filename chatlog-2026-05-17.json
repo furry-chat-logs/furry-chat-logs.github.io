@@ -2468,5 +2468,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "What does qwq mean help",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7896500",
+    "type": "public",
+    "date": "17/05 3:15",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "SoraTheMikuFan it's a crying face :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896501",
+    "type": "public",
+    "date": "17/05 3:15",
+    "username": "Evil Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "SoraTheMikuFan I think it's spanish or something",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
