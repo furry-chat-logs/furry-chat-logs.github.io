@@ -2848,5 +2848,15 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "[media: https://furrychat.net/chat/upload/chat/user26710_a7174c8faae0.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896539",
+    "type": "public",
+    "date": "17/05 4:12",
+    "username": "Evil Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "woof",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
