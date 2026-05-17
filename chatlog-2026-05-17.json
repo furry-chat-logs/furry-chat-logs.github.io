@@ -4238,5 +4238,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Yeah, it's gone.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7896678",
+    "type": "public",
+    "date": "17/05 10:09",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I'm just testing lmao.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
