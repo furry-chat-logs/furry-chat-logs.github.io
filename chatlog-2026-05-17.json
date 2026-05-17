@@ -1028,5 +1028,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Maybe cause flaim",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7896356",
+    "type": "public",
+    "date": "17/05 2:00",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "I'm",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896357",
+    "type": "public",
+    "date": "17/05 2:00",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username user ",
+    "message": "Back",
+    "msgClasses": "chat_message "
   }
 ]
