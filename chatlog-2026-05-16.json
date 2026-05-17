@@ -3466,5 +3466,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMXcwNG16N2QxNHVheGdiZnowMzU1czZhdG1iMmVwOHB6NXpodDZuYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/18D7b8w95tZEk/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7895726",
+    "type": "public",
+    "date": "16/05 21:06",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "*COMPRESSION ONLY CPR, CORRECTION.*",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
