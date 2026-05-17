@@ -1766,5 +1766,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "ou",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7895553",
+    "type": "public",
+    "date": "16/05 19:15",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "williams Almost 2 for me...",
+    "msgClasses": "chat_message bold"
   }
 ]
