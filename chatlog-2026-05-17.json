@@ -10598,5 +10598,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "My cats trying to eat ma phone",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7897316",
+    "type": "public",
+    "date": "17/05 13:27",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "im so tUwUff",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897317",
+    "type": "public",
+    "date": "17/05 13:28",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "H-hewwo~ OowoOOowoOo >///<",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897318",
+    "type": "public",
+    "date": "17/05 13:28",
+    "username": "NimbleLobster906",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "rawr~ UwUwUwU",
+    "msgClasses": "chat_message "
   }
 ]
