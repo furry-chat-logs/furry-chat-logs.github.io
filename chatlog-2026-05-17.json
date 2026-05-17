@@ -12778,5 +12778,25 @@
     "userClasses": "username user ",
     "message": "*nuzzles* MOowoOnishiki ok mommy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897540",
+    "type": "public",
+    "date": "17/05 15:44",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Build a bridge and jump off of it Friendless",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897541",
+    "type": "public",
+    "date": "17/05 15:44",
+    "username": "Friendless",
+    "userId": "36463",
+    "userClasses": "username user ",
+    "message": "MOowoOnishiki i dont cawe",
+    "msgClasses": "chat_message "
   }
 ]
