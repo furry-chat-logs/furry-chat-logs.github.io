@@ -5128,5 +5128,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Ay it works",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7896767",
+    "type": "public",
+    "date": "17/05 11:21",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I'm not sure it is working",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
