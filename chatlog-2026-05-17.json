@@ -8508,5 +8508,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( Milk or cereal first?? 17/05 10:41 ) Cereal",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897105",
+    "type": "public",
+    "date": "17/05 12:43",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "NimbleLobster906 s-stranded? wdym",
+    "msgClasses": "chat_message bneon14"
   }
 ]
