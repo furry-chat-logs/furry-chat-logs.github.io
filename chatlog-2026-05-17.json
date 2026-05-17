@@ -10868,5 +10868,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Mojito *hands you a lighter*",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7897343",
+    "type": "public",
+    "date": "17/05 13:31",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user11705_484000a4acef.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897344",
+    "type": "public",
+    "date": "17/05 13:31",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "This is why we need a human equivalent to zevo or some sorta bug spray ಠ⁠_⁠ಠ",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
