@@ -3758,5 +3758,15 @@
     "userClasses": "username bcolor19 bnfont15",
     "message": "heyyoo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896630",
+    "type": "public",
+    "date": "17/05 8:13",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "KaiTheFurry hai",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
