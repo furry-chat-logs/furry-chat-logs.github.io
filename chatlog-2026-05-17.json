@@ -6298,5 +6298,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I just got here and got a error before getting into the site",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7896884",
+    "type": "public",
+    "date": "17/05 11:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SoraTheMikuFan heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
