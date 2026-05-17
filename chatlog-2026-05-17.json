@@ -1788,5 +1788,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Sol_Aizawa it's rare to hear lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896432",
+    "type": "public",
+    "date": "17/05 2:34",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Ok",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7896433",
+    "type": "public",
+    "date": "17/05 2:34",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "That's*",
+    "msgClasses": "chat_message "
   }
 ]
