@@ -24796,5 +24796,35 @@
     "userClasses": "username user ",
     "message": "Yea ima sleep",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898768",
+    "type": "public",
+    "date": "17/05 23:04",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "😂😂",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898769",
+    "type": "public",
+    "date": "17/05 23:04",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Goodnight",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898770",
+    "type": "public",
+    "date": "17/05 23:04",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Everyone",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
