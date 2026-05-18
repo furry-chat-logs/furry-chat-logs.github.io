@@ -4368,5 +4368,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "Hmmm",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7899465",
+    "type": "public",
+    "date": "18/05 11:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd3p0eXc1cGR0bDlhdnlvbXo4dXdvNzB0bmVnb2FqamN3M3M1ZjZ2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dps6uX4XPOKeA/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
