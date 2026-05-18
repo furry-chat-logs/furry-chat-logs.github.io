@@ -2608,5 +2608,15 @@
     "userClasses": "username bneon18 ",
     "message": "Ion need energy drinks.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899287",
+    "type": "public",
+    "date": "18/05 10:11",
+    "username": "Chrislikeda",
+    "userId": "37269",
+    "userClasses": "username user ",
+    "message": "U need water",
+    "msgClasses": "chat_message "
   }
 ]
