@@ -14454,5 +14454,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Jesus 5 dms",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900480",
+    "type": "public",
+    "date": "18/05 16:52",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "JustAnAnt a spear is good, because it has range.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
