@@ -5678,5 +5678,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I forgot :/",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899596",
+    "type": "public",
+    "date": "18/05 11:22",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "I'm almost done with school 😮‍💨",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7899597",
+    "type": "public",
+    "date": "18/05 11:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Jaxxie heheheh yea...",
+    "msgClasses": "chat_message bneon14"
   }
 ]
