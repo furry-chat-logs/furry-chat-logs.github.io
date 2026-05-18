@@ -7528,5 +7528,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "oh shi- wrong damn gc-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899782",
+    "type": "public",
+    "date": "18/05 12:20",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_73729e2db65f.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899783",
+    "type": "public",
+    "date": "18/05 12:20",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "sorry Pina T^T",
+    "msgClasses": "chat_message "
   }
 ]
