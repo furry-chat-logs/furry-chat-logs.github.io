@@ -9938,5 +9938,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "New Kid are you eating on the floor",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7900025",
+    "type": "public",
+    "date": "18/05 14:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yeah",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
