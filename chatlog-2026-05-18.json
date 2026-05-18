@@ -5928,5 +5928,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "what the tung tun-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899621",
+    "type": "public",
+    "date": "18/05 11:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "eww",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899622",
+    "type": "public",
+    "date": "18/05 11:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "barefoot",
+    "msgClasses": "chat_message bneon14"
   }
 ]
