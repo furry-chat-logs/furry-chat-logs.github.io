@@ -24306,5 +24306,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Hehehe those were the days",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898719",
+    "type": "public",
+    "date": "17/05 22:58",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I miss 'em.",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898720",
+    "type": "public",
+    "date": "17/05 22:59",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Ima sleep maybe",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
