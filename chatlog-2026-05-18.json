@@ -998,5 +998,15 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "King_da_Furry Bro,we got highs up to 98 this week here in cali TwT",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7899120",
+    "type": "public",
+    "date": "18/05 6:27",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Morning",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
