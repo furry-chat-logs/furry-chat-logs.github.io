@@ -22606,5 +22606,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_ff164506333e.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898544",
+    "type": "public",
+    "date": "17/05 22:31",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWxucTNpc2Y5Y2NqNnU5Znh6a2MxNTRlZzdrYTl6cmpxaWRubHhmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wM51pIHyUMsasGOhn0/giphy.gif]",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
