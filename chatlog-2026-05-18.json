@@ -828,5 +828,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[troll]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7899103",
+    "type": "public",
+    "date": "18/05 4:31",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWEwZnc4Ym9oYjQ4bGdsbHpvdXpwaDd6dmZkYnI1aWVwdzRkYmp1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3I8H8VvG9D7FRqd92Q/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
