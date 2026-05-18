@@ -12904,5 +12904,15 @@
     "userClasses": "username bneon18 ",
     "message": "Rune [hmm]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7900325",
+    "type": "public",
+    "date": "18/05 16:02",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user2169_e22e29bb7354.png]",
+    "msgClasses": "chat_message "
   }
 ]
