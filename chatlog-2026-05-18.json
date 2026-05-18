@@ -12984,5 +12984,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Rune ok. Prince aruru.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900333",
+    "type": "public",
+    "date": "18/05 16:04",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_fa09eb28556f.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
