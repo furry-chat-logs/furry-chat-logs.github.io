@@ -18736,5 +18736,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Nah it's fine",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7898154",
+    "type": "public",
+    "date": "17/05 21:54",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "My DMs are always open man, i don't mind.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7898155",
+    "type": "public",
+    "date": "17/05 21:54",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I love bunnies :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898156",
+    "type": "public",
+    "date": "17/05 21:54",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Thank you",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
