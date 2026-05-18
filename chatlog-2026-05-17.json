@@ -18496,5 +18496,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Dispaire*?",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7898130",
+    "type": "public",
+    "date": "17/05 21:51",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[lynxx3]",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898131",
+    "type": "public",
+    "date": "17/05 21:51",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Despair",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898132",
+    "type": "public",
+    "date": "17/05 21:51",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Mojito phone",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
