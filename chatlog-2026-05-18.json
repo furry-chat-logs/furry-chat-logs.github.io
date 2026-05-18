@@ -10646,5 +10646,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "THE WIND",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7900096",
+    "type": "public",
+    "date": "18/05 14:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi chat",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7900097",
+    "type": "public",
+    "date": "18/05 14:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Calling me ugly is also correct 😭",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
