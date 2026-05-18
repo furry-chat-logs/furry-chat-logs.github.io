@@ -25446,5 +25446,25 @@
     "userClasses": "username user ",
     "message": "And bum",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898833",
+    "type": "public",
+    "date": "17/05 23:13",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Anything",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898834",
+    "type": "public",
+    "date": "17/05 23:13",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "prEtzeL nom",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
