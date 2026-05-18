@@ -22576,5 +22576,25 @@
     "userClasses": "username user ",
     "message": "[sob]",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898541",
+    "type": "public",
+    "date": "17/05 22:31",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] TwT",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898542",
+    "type": "public",
+    "date": "17/05 22:31",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "That shit caught me off guard",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
