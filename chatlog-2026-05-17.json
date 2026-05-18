@@ -22756,5 +22756,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "[media: https://furrychat.net/chat/upload/chat/user26710_c49e73015170.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898560",
+    "type": "public",
+    "date": "17/05 22:34",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Me",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898561",
+    "type": "public",
+    "date": "17/05 22:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] I don't understand. 🫩",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
