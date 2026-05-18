@@ -5168,5 +5168,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "thats not normal",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899545",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Insidiae lmao",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899546",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "SoraTheMikuFan lol",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
