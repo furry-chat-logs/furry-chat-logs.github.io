@@ -8268,5 +8268,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "OH TYTYYYY-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899857",
+    "type": "public",
+    "date": "18/05 12:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Aw nuts I'm broke..",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
