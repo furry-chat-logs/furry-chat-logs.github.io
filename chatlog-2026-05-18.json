@@ -11546,5 +11546,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "whys my finger blu",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900189",
+    "type": "public",
+    "date": "18/05 15:21",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "😭",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
