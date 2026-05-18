@@ -4448,5 +4448,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid ur mad gay holy chit",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899473",
+    "type": "public",
+    "date": "18/05 11:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmajlpMmJqOHMyZ3V5ZTB3OWthZjFoMG9mN3k1N3ZpMGRjem0zdGUzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/96DeW8wUdpN96/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
