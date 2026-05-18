@@ -20236,5 +20236,45 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Porphyrophobia El Runito",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7898306",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[moai]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7898307",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37263_5d6fedcc62e5.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898308",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "He wasn't shaming you, they do little quotes like those sometimes",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898309",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm gonna start drawing him like this when I'm lazy",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
