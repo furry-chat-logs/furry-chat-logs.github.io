@@ -21936,5 +21936,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Smiley the muffin man",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898476",
+    "type": "public",
+    "date": "17/05 22:22",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Mojito if you cheated then it wassnt their fault",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898477",
+    "type": "public",
+    "date": "17/05 22:22",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Sideeye sideye",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
