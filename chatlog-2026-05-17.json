@@ -24746,5 +24746,25 @@
     "userClasses": "username bgrad7 ",
     "message": ":3",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898763",
+    "type": "public",
+    "date": "17/05 23:03",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "[secret-share: kFucBryDiOsSfc0I1QVaV1KKO&n=47059]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898764",
+    "type": "public",
+    "date": "17/05 23:03",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": ":3",
+    "msgClasses": "chat_message "
   }
 ]
