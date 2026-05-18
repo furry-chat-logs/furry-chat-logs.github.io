@@ -3938,5 +3938,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Well I'm always pissy [anxious]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899421",
+    "type": "public",
+    "date": "18/05 10:56",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjJtZjl3aTFjcjF3ZXV5ZTBxdGh2aXVnM2Q1NXA3bjl2cXNtem5haiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x0AW5CkJ2Akuc/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899422",
+    "type": "public",
+    "date": "18/05 10:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "nootnoot",
+    "msgClasses": "chat_message bneon14"
   }
 ]
