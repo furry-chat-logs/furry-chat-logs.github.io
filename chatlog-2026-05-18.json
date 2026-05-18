@@ -5528,5 +5528,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "they meannnnn",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899581",
+    "type": "public",
+    "date": "18/05 11:20",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username user ",
+    "message": "yknow what imma go afk",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899582",
+    "type": "public",
+    "date": "18/05 11:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "T^T",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899583",
+    "type": "public",
+    "date": "18/05 11:20",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "well done, victory is ours",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
