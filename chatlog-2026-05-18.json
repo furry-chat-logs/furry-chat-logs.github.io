@@ -4628,5 +4628,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Stank bitch",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899491",
+    "type": "public",
+    "date": "18/05 11:11",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "hey hey",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899492",
+    "type": "public",
+    "date": "18/05 11:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Tf you even doing here who Ru vro",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
