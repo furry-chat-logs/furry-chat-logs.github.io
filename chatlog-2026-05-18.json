@@ -5638,5 +5638,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "same",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899592",
+    "type": "public",
+    "date": "18/05 11:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "but it's for tomorrow",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899593",
+    "type": "public",
+    "date": "18/05 11:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "tommorow?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
