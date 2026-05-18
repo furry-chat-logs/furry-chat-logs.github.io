@@ -9038,5 +9038,15 @@
     "userClasses": "username bneon1 bnfont1",
     "message": "hellooo chat",
     "msgClasses": "chat_message bgrad8 bold bfont7"
+  },
+  {
+    "id": "7899934",
+    "type": "public",
+    "date": "18/05 13:02",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2VoMW14bHI4MnBtYTMzdnRnbmp5dHdzNXRocHpkMG9tcDVkYmptaSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/Jrf2KyF5tYrfZj7jVb/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
