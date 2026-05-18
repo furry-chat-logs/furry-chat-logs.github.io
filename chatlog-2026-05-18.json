@@ -2478,5 +2478,25 @@
     "userClasses": "username bneon18 ",
     "message": "Ion get the appeal.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899274",
+    "type": "public",
+    "date": "18/05 10:08",
+    "username": "Cami",
+    "userId": "8882",
+    "userClasses": "username bgrad40 bnfont7",
+    "message": "let me be emo and cafinated in peace",
+    "msgClasses": "chat_message bneon21  bfont9"
+  },
+  {
+    "id": "7899275",
+    "type": "public",
+    "date": "18/05 10:08",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia FAYGO-",
+    "msgClasses": "chat_message ital"
   }
 ]
