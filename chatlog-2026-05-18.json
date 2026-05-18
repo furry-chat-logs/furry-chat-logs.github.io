@@ -11506,5 +11506,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Indeed",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900185",
+    "type": "public",
+    "date": "18/05 15:20",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "lmao",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900186",
+    "type": "public",
+    "date": "18/05 15:20",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "gng",
+    "msgClasses": "chat_message "
   }
 ]
