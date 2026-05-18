@@ -14824,5 +14824,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user1_26f41b654055.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900517",
+    "type": "public",
+    "date": "18/05 16:59",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Guys I've been left on seen",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
