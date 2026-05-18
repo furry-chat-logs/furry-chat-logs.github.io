@@ -13894,5 +13894,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "gulp...",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7900424",
+    "type": "public",
+    "date": "18/05 16:24",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Frogmin does not care",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
