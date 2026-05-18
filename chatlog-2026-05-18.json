@@ -12066,5 +12066,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[totallove]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7900241",
+    "type": "public",
+    "date": "18/05 15:45",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "is that the hatter aka Rune ?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7900242",
+    "type": "public",
+    "date": "18/05 15:45",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_15e0dc26377b.png]",
+    "msgClasses": "chat_message "
   }
 ]
