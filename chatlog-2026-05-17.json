@@ -24626,5 +24626,35 @@
     "userClasses": "username bgrad7 ",
     "message": "KingCorgz www",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898751",
+    "type": "public",
+    "date": "17/05 23:01",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] :3",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898752",
+    "type": "public",
+    "date": "17/05 23:01",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki Did you, or did you not?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898753",
+    "type": "public",
+    "date": "17/05 23:01",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Sam & Colby <3<3",
+    "msgClasses": "chat_message "
   }
 ]
