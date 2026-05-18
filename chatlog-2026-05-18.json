@@ -148,5 +148,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcHQzbW1xODQ5cDBzb2w5eWcxYjVwMXlycHIzMngwczB3dm4xb2hsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CCpzHL59BSyly/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899034",
+    "type": "public",
+    "date": "18/05 0:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "MINE",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899035",
+    "type": "public",
+    "date": "18/05 0:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "NOMNOM",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
