@@ -2398,5 +2398,15 @@
     "userClasses": "username bgrad40 bnfont7",
     "message": "HELL YEA",
     "msgClasses": "chat_message bneon21  bfont9"
+  },
+  {
+    "id": "7899266",
+    "type": "public",
+    "date": "18/05 10:07",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Hell yah",
+    "msgClasses": "chat_message "
   }
 ]
