@@ -10516,5 +10516,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "i dont have a motha bitch",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900083",
+    "type": "public",
+    "date": "18/05 14:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Maybe I should be careful about who I give VIP...",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
