@@ -17396,5 +17396,35 @@
     "userClasses": "username user ",
     "message": "Do I just go to my profile and click my pfp change",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898020",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "That's good",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898021",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Yeah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898022",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I feel hella creepy with this no pfp",
+    "msgClasses": "chat_message "
   }
 ]
