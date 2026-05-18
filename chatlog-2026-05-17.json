@@ -26254,5 +26254,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "have seen some pretty sights",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898915",
+    "type": "public",
+    "date": "17/05 23:27",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "NeptuneLynxx it's called migration",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898916",
+    "type": "public",
+    "date": "17/05 23:27",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZDl1Mm0xNGxueXQ1aWQzY2k3MjM4NWFueWNzdnRpbXp2cXpmazFxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UmflJIqBXGGtoScVno/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
