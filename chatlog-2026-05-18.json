@@ -4758,5 +4758,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "plss",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899504",
+    "type": "public",
+    "date": "18/05 11:14",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid oh im Pina, nice to meet ya",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
