@@ -2068,5 +2068,25 @@
     "userClasses": "username bcolor28 ",
     "message": "Issa HEY",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7899233",
+    "type": "public",
+    "date": "18/05 9:32",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "That's not as funny as when Asta came out of nowhere and dispute having many weapons, he just socked the dude in the face LMFAO",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899234",
+    "type": "public",
+    "date": "18/05 9:32",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeXk1MDUwc2JzN2hla3o1cHUwbG16cW1wYnd6bm1wdGg5NnRhNnNsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kLODms0LcZH2nIrtCT/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
