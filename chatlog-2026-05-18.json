@@ -6568,5 +6568,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "So happen i came in when you sent that",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7899686",
+    "type": "public",
+    "date": "18/05 11:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": ".",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899687",
+    "type": "public",
+    "date": "18/05 11:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Intriguing",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
