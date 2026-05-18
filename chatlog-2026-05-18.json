@@ -15594,5 +15594,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "psychoboi_mondo mb twinn",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7900594",
+    "type": "public",
+    "date": "18/05 17:35",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bazinger",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
