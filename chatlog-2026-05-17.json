@@ -16206,5 +16206,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Kami I'm not great but getting there",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897899",
+    "type": "public",
+    "date": "17/05 20:06",
+    "username": "Kami",
+    "userId": "11760",
+    "userClasses": "username bgrad10 bnfont6",
+    "message": "Moonishiki who really is",
+    "msgClasses": "chat_message bneon2 heavyital bfont10"
+  },
+  {
+    "id": "7897900",
+    "type": "public",
+    "date": "17/05 20:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_a2deaa7d4ed7.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
