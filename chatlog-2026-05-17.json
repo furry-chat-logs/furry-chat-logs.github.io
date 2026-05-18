@@ -19416,5 +19416,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Alr, ima go now",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7898222",
+    "type": "public",
+    "date": "17/05 22:01",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_731e0bcff2e7.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898223",
+    "type": "public",
+    "date": "17/05 22:01",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Bergindine LETS GO GAMBLINGGG `",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
