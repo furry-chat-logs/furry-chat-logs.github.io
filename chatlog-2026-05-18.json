@@ -2878,5 +2878,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I gotta grow tf up 😭",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899314",
+    "type": "public",
+    "date": "18/05 10:18",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnU1bDhzb21yMzIzZ3J6cnp1aTd3NGtreW5iMDFuYXd6bjNtZWQwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VgFsoREAw2SGXykxvU/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
