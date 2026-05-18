@@ -3808,5 +3808,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Riot im onnit",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899408",
+    "type": "public",
+    "date": "18/05 10:53",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "u ok?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
