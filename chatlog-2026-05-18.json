@@ -12534,5 +12534,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Moonishiki lmao",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900288",
+    "type": "public",
+    "date": "18/05 15:55",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Jaxxie take the L",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7900289",
+    "type": "public",
+    "date": "18/05 15:55",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7900290",
+    "type": "public",
+    "date": "18/05 15:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": ":33",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
