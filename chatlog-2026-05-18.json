@@ -13394,5 +13394,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Spoos on Rune",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900374",
+    "type": "public",
+    "date": "18/05 16:12",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Diddles Rune",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
