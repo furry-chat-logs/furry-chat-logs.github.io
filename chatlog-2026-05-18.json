@@ -4078,5 +4078,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "ugh when will I have no homework I wanna play robloxxxxxx",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899435",
+    "type": "public",
+    "date": "18/05 10:59",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Porphyrophobia | Was it the one that crashes the server?",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7899436",
+    "type": "public",
+    "date": "18/05 10:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Pina NO [totalangry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899437",
+    "type": "public",
+    "date": "18/05 10:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "elp </3",
+    "msgClasses": "chat_message bneon14"
   }
 ]
