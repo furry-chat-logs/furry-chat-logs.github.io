@@ -12256,5 +12256,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "They changed the login page",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900260",
+    "type": "public",
+    "date": "18/05 15:50",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I have returned, anywho.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900261",
+    "type": "public",
+    "date": "18/05 15:50",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki to eat cheese right? :D",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
