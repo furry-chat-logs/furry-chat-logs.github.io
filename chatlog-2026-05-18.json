@@ -4158,5 +4158,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Porphyrophobia | I used that way back in the day when I had serverside executor whitelists.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7899443",
+    "type": "public",
+    "date": "18/05 11:01",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "That Pingu Script is hilarious.",
+    "msgClasses": "chat_message ital"
   }
 ]
