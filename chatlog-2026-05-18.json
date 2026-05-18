@@ -12714,5 +12714,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "HELP- I got muted for sending a link T^T 18/05 15:55 I figured. It's the worst, huh?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900306",
+    "type": "public",
+    "date": "18/05 15:57",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "soda so so soda 18/05 15:56 Drinkin one right now.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900307",
+    "type": "public",
+    "date": "18/05 15:57",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Rune gets ALL of the treasure. ALL OF IT.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7900308",
+    "type": "public",
+    "date": "18/05 15:57",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515] Send things pleaasseee <3",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
