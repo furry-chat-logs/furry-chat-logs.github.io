@@ -11776,5 +11776,15 @@
     "userClasses": "username bgrad7 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_a257fe296634.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900212",
+    "type": "public",
+    "date": "18/05 15:31",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdjI2NmIycTAwNWFheGxjbHpnaHBvZW82MjM5MjFxejgzbm55dzJ6YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7Jmtg4Dp5kziqLdfJl/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
