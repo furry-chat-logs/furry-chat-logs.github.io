@@ -10696,5 +10696,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Moonishiki you are not ugly??",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900101",
+    "type": "public",
+    "date": "18/05 14:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Moonishiki [skull] [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
