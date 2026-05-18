@@ -3178,5 +3178,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "hai guys^^",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899345",
+    "type": "public",
+    "date": "18/05 10:38",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNHJueDgxcDJmdDFndzc4cGNrNDhrajNwazU1OWo5bGV1ZjI1MTA1eCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fUQ4rhUZJYiQsas6WD/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
