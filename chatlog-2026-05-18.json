@@ -9948,5 +9948,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yeah",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900026",
+    "type": "public",
+    "date": "18/05 14:00",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "New Kid nice",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
