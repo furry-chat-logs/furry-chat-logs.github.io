@@ -16234,5 +16234,15 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "Ouh- i dunno then",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7900658",
+    "type": "public",
+    "date": "18/05 18:18",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "It ok ill stay awake.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
