@@ -5188,5 +5188,35 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "SoraTheMikuFan lol",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7899547",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Whatever keeps the chat alive I guess",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899548",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username user ",
+    "message": "do i wanna know what happened-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899549",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Insidiae Jaxxie everynyan can be hereeee",
+    "msgClasses": "chat_message bneon14"
   }
 ]
