@@ -18296,5 +18296,25 @@
     "userClasses": "username user ",
     "message": "Lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898110",
+    "type": "public",
+    "date": "17/05 21:49",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Mojito You know, at some point, everyone's stick stops working",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898111",
+    "type": "public",
+    "date": "17/05 21:49",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[JustAnAss]",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
