@@ -8098,5 +8098,35 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "GNG I CANT CHANGE MY NAME, WHY CANT I CHANGE MA NAME",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899840",
+    "type": "public",
+    "date": "18/05 12:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Jaxxie you need VIP",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899841",
+    "type": "public",
+    "date": "18/05 12:28",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I don't have much of a brain for him to take 😭",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899842",
+    "type": "public",
+    "date": "18/05 12:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Probably one of my 2nd fav character tbh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
