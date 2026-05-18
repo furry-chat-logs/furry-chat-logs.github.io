@@ -9768,5 +9768,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I am in the youth fire brigade",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7900008",
+    "type": "public",
+    "date": "18/05 13:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin nice",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
