@@ -7718,5 +7718,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "oh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899801",
+    "type": "public",
+    "date": "18/05 12:22",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "thats beautiful katie",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899802",
+    "type": "public",
+    "date": "18/05 12:22",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user3475_c0767afa5940.gif]",
+    "msgClasses": "chat_message "
   }
 ]
