@@ -648,5 +648,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899085",
+    "type": "public",
+    "date": "18/05 2:35",
+    "username": "Evil Rat",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Hello",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
