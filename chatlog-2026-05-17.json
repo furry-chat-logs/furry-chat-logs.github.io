@@ -24076,5 +24076,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "Spookz I love tennis -w-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898695",
+    "type": "public",
+    "date": "17/05 22:52",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "Spookz das goob :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898696",
+    "type": "public",
+    "date": "17/05 22:52",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Zvix1106 tennis is fun",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
