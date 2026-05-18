@@ -17846,5 +17846,15 @@
     "userClasses": "username user ",
     "message": "lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898065",
+    "type": "public",
+    "date": "17/05 21:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNGtoMDA1Z28wYTZhaGV0NmxzNnI3MjNwMGd5NXZrNXFwMDZrZ21kdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zxiAkMbNaW2TTFTqDZ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
