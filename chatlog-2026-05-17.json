@@ -17876,5 +17876,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "ah, gifs.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898068",
+    "type": "public",
+    "date": "17/05 21:39",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I need to update that ugly gif thing and give it a better ui.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
