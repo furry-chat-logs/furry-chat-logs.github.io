@@ -24436,5 +24436,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[secret-share: lDeoWV7UhbbJatlL0HANTxqmk&n=47057]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898732",
+    "type": "public",
+    "date": "17/05 23:00",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Moonishiki that's bad oof",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898733",
+    "type": "public",
+    "date": "17/05 23:00",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "Spookz nom",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898734",
+    "type": "public",
+    "date": "17/05 23:00",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "The best kinda sleep is permanent",
+    "msgClasses": "chat_message "
   }
 ]
