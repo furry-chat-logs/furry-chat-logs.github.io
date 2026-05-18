@@ -26234,5 +26234,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "what",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898913",
+    "type": "public",
+    "date": "17/05 23:26",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "i go hiking quite a bit actually",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898914",
+    "type": "public",
+    "date": "17/05 23:26",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "have seen some pretty sights",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
