@@ -15464,5 +15464,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "One eye is all I have gng",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7900581",
+    "type": "public",
+    "date": "18/05 17:22",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "IM GOING TO THROW THIS KEYBOARD ACROSS THE ROOM.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7900582",
+    "type": "public",
+    "date": "18/05 17:22",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "Mojito Lmao-",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
