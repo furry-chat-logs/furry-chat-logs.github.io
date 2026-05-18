@@ -21736,5 +21736,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f41a9561baf1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898456",
+    "type": "public",
+    "date": "17/05 22:21",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "[sob]",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898457",
+    "type": "public",
+    "date": "17/05 22:21",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "prEtzeL What",
+    "msgClasses": "chat_message "
   }
 ]
