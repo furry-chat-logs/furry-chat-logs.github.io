@@ -3378,5 +3378,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "meow",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899365",
+    "type": "public",
+    "date": "18/05 10:45",
+    "username": "MochaDeer",
+    "userId": "36613",
+    "userClasses": "username bcolor10 bnfont11",
+    "message": "meow",
+    "msgClasses": "chat_message "
   }
 ]
