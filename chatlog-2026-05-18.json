@@ -5218,5 +5218,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Insidiae Jaxxie everynyan can be hereeee",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899550",
+    "type": "public",
+    "date": "18/05 11:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Jaxxie No.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899551",
+    "type": "public",
+    "date": "18/05 11:18",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username user ",
+    "message": "yesss hahaaa!!",
+    "msgClasses": "chat_message "
   }
 ]
