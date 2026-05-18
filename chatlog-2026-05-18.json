@@ -1868,5 +1868,15 @@
     "userClasses": "username bgrad7 ",
     "message": "JJK is awesome",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899213",
+    "type": "public",
+    "date": "18/05 9:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcWZrZnNhcTQwNzBuMWFlOHA4YTYwMnB1OGRpem4xOGwydGlqZThoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fiiEG4Ap1tfWFbhhHW/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
