@@ -20046,5 +20046,35 @@
     "userClasses": "username bneon18 ",
     "message": "Hm..",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7898286",
+    "type": "public",
+    "date": "17/05 22:10",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "What lmao",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898287",
+    "type": "public",
+    "date": "17/05 22:10",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Damn.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898288",
+    "type": "public",
+    "date": "17/05 22:10",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "0G Stupendous Man yeah I said that",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
