@@ -7008,5 +7008,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Awe",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7899730",
+    "type": "public",
+    "date": "18/05 12:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Every single* [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
