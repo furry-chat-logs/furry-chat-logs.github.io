@@ -3048,5 +3048,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] hmm",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7899331",
+    "type": "public",
+    "date": "18/05 10:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
