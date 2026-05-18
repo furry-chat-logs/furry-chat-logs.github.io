@@ -6708,5 +6708,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "GRGRGRGRISIAU",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899700",
+    "type": "public",
+    "date": "18/05 11:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Spectre_protogen also hai",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899701",
+    "type": "public",
+    "date": "18/05 11:58",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "SoraTheMikuFan hai",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
