@@ -3388,5 +3388,15 @@
     "userClasses": "username bcolor10 bnfont11",
     "message": "meow",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899366",
+    "type": "public",
+    "date": "18/05 10:46",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Meow",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
