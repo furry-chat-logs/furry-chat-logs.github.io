@@ -23246,5 +23246,15 @@
     "userClasses": "username bgrad7 ",
     "message": "That's aura",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898611",
+    "type": "public",
+    "date": "17/05 22:41",
+    "username": "Evil Runefaust",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "Skinned issa",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
   }
 ]
