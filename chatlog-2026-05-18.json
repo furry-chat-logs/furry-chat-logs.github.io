@@ -1778,5 +1778,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[good]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7899204",
+    "type": "public",
+    "date": "18/05 9:23",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I need widamin D",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7899205",
+    "type": "public",
+    "date": "18/05 9:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_67dbe4c5a8c8.png]",
+    "msgClasses": "chat_message "
   }
 ]
