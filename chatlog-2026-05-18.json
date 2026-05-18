@@ -3398,5 +3398,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Meow",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899367",
+    "type": "public",
+    "date": "18/05 10:46",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Red pill .",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
