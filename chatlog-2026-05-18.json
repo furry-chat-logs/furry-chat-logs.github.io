@@ -16174,5 +16174,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "its so tuff",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7900652",
+    "type": "public",
+    "date": "18/05 18:15",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "* Bug yawns *  I'm Eepy allready :<",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
