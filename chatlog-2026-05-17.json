@@ -19486,5 +19486,25 @@
     "userClasses": "username user ",
     "message": "Cool :3",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898229",
+    "type": "public",
+    "date": "17/05 22:02",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Dares and QnA",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898230",
+    "type": "public",
+    "date": "17/05 22:02",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Like, if i was my fursona, i would literally do that",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
