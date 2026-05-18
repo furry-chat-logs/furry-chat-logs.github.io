@@ -16596,5 +16596,15 @@
     "userClasses": "username user ",
     "message": "Hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897940",
+    "type": "public",
+    "date": "17/05 20:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "It's so brutal that enemies actually believed Barbatos to be a demon",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
