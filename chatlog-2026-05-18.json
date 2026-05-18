@@ -16774,5 +16774,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900712",
+    "type": "public",
+    "date": "18/05 18:50",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Milo 01 hello",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
