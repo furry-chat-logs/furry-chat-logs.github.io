@@ -23266,5 +23266,25 @@
     "userClasses": "username user ",
     "message": "Is black clover",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898613",
+    "type": "public",
+    "date": "17/05 22:41",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Good Moonishiki",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898614",
+    "type": "public",
+    "date": "17/05 22:41",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[pokerface]",
+    "msgClasses": "chat_message ital"
   }
 ]
