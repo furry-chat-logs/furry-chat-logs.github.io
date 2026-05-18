@@ -3138,5 +3138,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Welp gotta go to my grandmas now",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7899341",
+    "type": "public",
+    "date": "18/05 10:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Bye",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
