@@ -398,5 +398,15 @@
     "userClasses": "username user ",
     "message": "You can use it whit luminol and than its glow",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899059",
+    "type": "public",
+    "date": "18/05 0:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZGloeWI4dDI5M3B6eTFvZ2ViYjU4ZHp6NWZ6NHc1Mm12d2NuMWJseCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MZLGxA3xNlAz0jWx6n/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
