@@ -5948,5 +5948,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "barefoot",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899623",
+    "type": "public",
+    "date": "18/05 11:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "on the street",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899624",
+    "type": "public",
+    "date": "18/05 11:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ew",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899625",
+    "type": "public",
+    "date": "18/05 11:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Huh",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
