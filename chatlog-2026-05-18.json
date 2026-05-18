@@ -1668,5 +1668,25 @@
     "userClasses": "username bneon18 ",
     "message": "Porphyrophobia [kiss3]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899193",
+    "type": "public",
+    "date": "18/05 9:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa No",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899194",
+    "type": "public",
+    "date": "18/05 9:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[angry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
