@@ -1938,5 +1938,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Specifically not just Itadori, but when he's taken over by Sekuna",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899220",
+    "type": "public",
+    "date": "18/05 9:29",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Sekuna said to Itadori",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899221",
+    "type": "public",
+    "date": "18/05 9:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcWZrZnNhcTQwNzBuMWFlOHA4YTYwMnB1OGRpem4xOGwydGlqZThoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4HpF6CHNB4jsBTV266/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899222",
+    "type": "public",
+    "date": "18/05 9:29",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Finger me",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
