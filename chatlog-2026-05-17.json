@@ -17746,5 +17746,15 @@
     "userClasses": "username user ",
     "message": "Nice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898055",
+    "type": "public",
+    "date": "17/05 21:28",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_8cfac9ecd496.png]",
+    "msgClasses": "chat_message "
   }
 ]
