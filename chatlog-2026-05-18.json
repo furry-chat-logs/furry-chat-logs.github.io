@@ -14664,5 +14664,15 @@
     "userClasses": "username bcolor9 ",
     "message": "gun",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7900501",
+    "type": "public",
+    "date": "18/05 16:57",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_bb7b72a19009.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
