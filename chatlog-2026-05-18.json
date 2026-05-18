@@ -11526,5 +11526,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "gng",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900187",
+    "type": "public",
+    "date": "18/05 15:20",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Istg if this spray paint is stained my hair I'm gonna slime out mark Zuckerberg",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
