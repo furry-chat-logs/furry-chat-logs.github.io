@@ -21686,5 +21686,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "0G Stupendous Man oh okay byeeee",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898451",
+    "type": "public",
+    "date": "17/05 22:20",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Moonishiki it's k take a break if u need to",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898452",
+    "type": "public",
+    "date": "17/05 22:21",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "0G Stupendous Man byeee",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
