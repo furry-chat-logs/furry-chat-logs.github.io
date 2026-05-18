@@ -13264,5 +13264,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I have real hair.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900361",
+    "type": "public",
+    "date": "18/05 16:09",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "🌚",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
