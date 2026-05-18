@@ -20376,5 +20376,35 @@
     "userClasses": "username bneon18 ",
     "message": "👀👀👀👀👀👀👀👀",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7898320",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Why everyone so hostile 😭",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898321",
+    "type": "public",
+    "date": "17/05 22:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "JustAnAnt did he say that?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898322",
+    "type": "public",
+    "date": "17/05 22:13",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "[sob]",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
