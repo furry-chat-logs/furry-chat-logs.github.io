@@ -5298,5 +5298,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Deimos thats crazy",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899558",
+    "type": "public",
+    "date": "18/05 11:18",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "ppl frying us and they don't even understand lol",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899559",
+    "type": "public",
+    "date": "18/05 11:18",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid you joined",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899560",
+    "type": "public",
+    "date": "18/05 11:18",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username user ",
+    "message": "dam",
+    "msgClasses": "chat_message "
   }
 ]
