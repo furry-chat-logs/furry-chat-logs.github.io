@@ -8878,5 +8878,25 @@
     "userClasses": "username bneon18 ",
     "message": "Greetings.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899918",
+    "type": "public",
+    "date": "18/05 12:45",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "why bruv-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899919",
+    "type": "public",
+    "date": "18/05 12:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_eb42086253be.png]",
+    "msgClasses": "chat_message "
   }
 ]
