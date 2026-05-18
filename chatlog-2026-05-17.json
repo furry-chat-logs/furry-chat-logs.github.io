@@ -17866,5 +17866,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGk0cmJpNnU2c2d5cW0xb2xuOHF0ZXpzd2Nrb2JjeGR2YmR6dGM2OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EUMZp8x9QtpBK/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7898067",
+    "type": "public",
+    "date": "17/05 21:39",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "ah, gifs.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
