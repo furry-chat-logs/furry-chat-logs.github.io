@@ -4518,5 +4518,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid jump? wym?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899480",
+    "type": "public",
+    "date": "18/05 11:10",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_450de083e0b8.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899481",
+    "type": "public",
+    "date": "18/05 11:10",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wym?? Abt the gay New Kid",
+    "msgClasses": "chat_message bneon14"
   }
 ]
