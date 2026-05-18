@@ -2658,5 +2658,15 @@
     "userClasses": "username user ",
     "message": "Bum or",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899292",
+    "type": "public",
+    "date": "18/05 10:12",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Meep merp",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
