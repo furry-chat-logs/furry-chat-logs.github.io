@@ -5488,5 +5488,35 @@
     "userClasses": "username user ",
     "message": "like need to leeeeave orr",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899577",
+    "type": "public",
+    "date": "18/05 11:20",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yes.",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899578",
+    "type": "public",
+    "date": "18/05 11:20",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Jaxxie Yes, go away.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899579",
+    "type": "public",
+    "date": "18/05 11:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "mb go to another room",
+    "msgClasses": "chat_message bneon14"
   }
 ]
