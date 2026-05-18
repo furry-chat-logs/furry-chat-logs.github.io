@@ -23926,5 +23926,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Peak",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898680",
+    "type": "public",
+    "date": "17/05 22:49",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user26710_3e8a1e79ffd7.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898681",
+    "type": "public",
+    "date": "17/05 22:49",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Moonishiki nom",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898682",
+    "type": "public",
+    "date": "17/05 22:49",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Goober",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
