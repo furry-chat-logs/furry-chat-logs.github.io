@@ -5338,5 +5338,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Does everyone act the same on every site 💔",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899562",
+    "type": "public",
+    "date": "18/05 11:19",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username user ",
+    "message": "brb",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899563",
+    "type": "public",
+    "date": "18/05 11:19",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Pina I was here before",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
