@@ -10756,5 +10756,35 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "cant see-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900108",
+    "type": "public",
+    "date": "18/05 14:15",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Fair",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900109",
+    "type": "public",
+    "date": "18/05 14:15",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Can't see your mother either huh?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900110",
+    "type": "public",
+    "date": "18/05 14:15",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "chat should I ever post a recording of me playing bass guitar?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
