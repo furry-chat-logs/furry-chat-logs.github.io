@@ -9028,5 +9028,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd3UybDkycTZmN2hqNXljaHYyem40MHJ0bHVkZnBwa3prMXpodm5yYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o72Ff1iOlcRsldf8I/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899933",
+    "type": "public",
+    "date": "18/05 13:01",
+    "username": "Comet",
+    "userId": "33535",
+    "userClasses": "username bneon1 bnfont1",
+    "message": "hellooo chat",
+    "msgClasses": "chat_message bgrad8 bold bfont7"
   }
 ]
