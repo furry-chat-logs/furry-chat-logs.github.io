@@ -2338,5 +2338,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "🤣",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899260",
+    "type": "public",
+    "date": "18/05 10:06",
+    "username": "Cami",
+    "userId": "8882",
+    "userClasses": "username bgrad40 bnfont7",
+    "message": "YOOOOO",
+    "msgClasses": "chat_message bneon21  bfont9"
   }
 ]
