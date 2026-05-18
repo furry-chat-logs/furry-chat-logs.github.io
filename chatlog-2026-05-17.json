@@ -23696,5 +23696,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Spookz Hm?",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898657",
+    "type": "public",
+    "date": "17/05 22:46",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Xd",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898658",
+    "type": "public",
+    "date": "17/05 22:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I'm  back for a sec.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
