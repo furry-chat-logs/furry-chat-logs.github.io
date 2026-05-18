@@ -15904,5 +15904,15 @@
     "userClasses": "username bcolor9 ",
     "message": "im bored",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7900625",
+    "type": "public",
+    "date": "18/05 18:03",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Porphyrophobia LMAO",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
