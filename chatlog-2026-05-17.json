@@ -26804,5 +26804,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8513_8147bcc40044.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898971",
+    "type": "public",
+    "date": "17/05 23:37",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "Moonishiki she was at the airport",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898972",
+    "type": "public",
+    "date": "17/05 23:37",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Ohhh you have a sea turtle too??",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
