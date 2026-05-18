@@ -7288,5 +7288,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Come again?",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899758",
+    "type": "public",
+    "date": "18/05 12:17",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Ew.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7899759",
+    "type": "public",
+    "date": "18/05 12:17",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "oop i mean Polynesian",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899760",
+    "type": "public",
+    "date": "18/05 12:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I must've have somebody blocked or some shit.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899761",
+    "type": "public",
+    "date": "18/05 12:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I beg to differ",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
