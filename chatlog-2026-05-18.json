@@ -15634,5 +15634,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "LMAO jxx blocked me [hilarious]",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7900598",
+    "type": "public",
+    "date": "18/05 17:41",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "My ss died",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900599",
+    "type": "public",
+    "date": "18/05 17:41",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Before it even started",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
