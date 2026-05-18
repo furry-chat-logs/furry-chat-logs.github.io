@@ -16724,5 +16724,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Wifiesvirus",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7900707",
+    "type": "public",
+    "date": "18/05 18:28",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "wifavirus",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
