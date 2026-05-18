@@ -15744,5 +15744,15 @@
     "userClasses": "username bneon18 ",
     "message": "Brb.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7900609",
+    "type": "public",
+    "date": "18/05 17:55",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Man Spotify is a mess..",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
