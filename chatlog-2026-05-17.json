@@ -26694,5 +26694,55 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "pardon me?",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898960",
+    "type": "public",
+    "date": "17/05 23:36",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Your dog",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898961",
+    "type": "public",
+    "date": "17/05 23:36",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8513_674d27bef41e.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898962",
+    "type": "public",
+    "date": "17/05 23:36",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_d6adb17aee14.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898963",
+    "type": "public",
+    "date": "17/05 23:36",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "my dog is cute",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898964",
+    "type": "public",
+    "date": "17/05 23:36",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "See?",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
