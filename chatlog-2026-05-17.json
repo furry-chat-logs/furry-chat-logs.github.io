@@ -17166,5 +17166,25 @@
     "userClasses": "username user ",
     "message": "Ello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897997",
+    "type": "public",
+    "date": "17/05 21:17",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "[totalangry]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897998",
+    "type": "public",
+    "date": "17/05 21:17",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
