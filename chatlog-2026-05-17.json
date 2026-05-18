@@ -22316,5 +22316,25 @@
     "userClasses": "username user ",
     "message": "[secret-share: 0E6DY2bgVypHlIsxlECFAiK8z&n=47055]",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898515",
+    "type": "public",
+    "date": "17/05 22:27",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Nokkimomim  17/05 23:25 ??",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898516",
+    "type": "public",
+    "date": "17/05 22:27",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "This was one of them",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
