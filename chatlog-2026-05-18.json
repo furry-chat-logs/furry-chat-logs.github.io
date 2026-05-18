@@ -10466,5 +10466,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Ballrighttttt",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900078",
+    "type": "public",
+    "date": "18/05 14:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Jaxxie uh oh.",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900079",
+    "type": "public",
+    "date": "18/05 14:12",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Jaxxie Your mother.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
