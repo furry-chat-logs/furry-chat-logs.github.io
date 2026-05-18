@@ -2448,5 +2448,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Issa fr",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899271",
+    "type": "public",
+    "date": "18/05 10:08",
+    "username": "Cami",
+    "userId": "8882",
+    "userClasses": "username bgrad40 bnfont7",
+    "message": "wow alright guys",
+    "msgClasses": "chat_message bneon21  bfont9"
+  },
+  {
+    "id": "7899272",
+    "type": "public",
+    "date": "18/05 10:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Faygo >>>>",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
