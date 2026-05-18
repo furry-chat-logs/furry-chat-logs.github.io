@@ -16986,5 +16986,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_9727a5b2dca6.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897979",
+    "type": "public",
+    "date": "17/05 20:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_731ecd369429.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897980",
+    "type": "public",
+    "date": "17/05 20:57",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Okay so I made a dumb discovery",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
