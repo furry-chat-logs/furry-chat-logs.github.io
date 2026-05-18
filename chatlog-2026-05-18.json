@@ -1528,5 +1528,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_82f9091ebf16.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899173",
+    "type": "public",
+    "date": "18/05 8:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "What was that",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899174",
+    "type": "public",
+    "date": "18/05 8:47",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "🥱",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
