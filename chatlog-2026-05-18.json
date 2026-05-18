@@ -9738,5 +9738,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_80ccd267a97f.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900005",
+    "type": "public",
+    "date": "18/05 13:51",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_0c6f5ad89bd7.gif]",
+    "msgClasses": "chat_message "
   }
 ]
