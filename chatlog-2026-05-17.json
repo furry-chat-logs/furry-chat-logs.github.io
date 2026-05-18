@@ -23366,5 +23366,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "Spookz nom",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898623",
+    "type": "public",
+    "date": "17/05 22:42",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "Mojito wat? >:3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898624",
+    "type": "public",
+    "date": "17/05 22:42",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Zvix1106 nom",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
