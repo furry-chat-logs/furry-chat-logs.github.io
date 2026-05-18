@@ -25506,5 +25506,15 @@
     "userClasses": "username bcolor1 bnfont10",
     "message": "Hello :p",
     "msgClasses": "chat_message bgrad22  bfont8"
+  },
+  {
+    "id": "7898839",
+    "type": "public",
+    "date": "17/05 23:14",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki ew.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
