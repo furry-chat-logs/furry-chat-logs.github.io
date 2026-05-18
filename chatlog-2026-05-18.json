@@ -7738,5 +7738,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user3475_c0767afa5940.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899803",
+    "type": "public",
+    "date": "18/05 12:23",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I really hope that guy is wearing something",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
