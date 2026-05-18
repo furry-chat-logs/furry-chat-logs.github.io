@@ -17186,5 +17186,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897999",
+    "type": "public",
+    "date": "17/05 21:18",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I just joined",
+    "msgClasses": "chat_message "
   }
 ]
