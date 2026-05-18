@@ -2378,5 +2378,25 @@
     "userClasses": "username bgrad40 bnfont7",
     "message": "AND THEN I LOOK AT MY BACKPACK\"",
     "msgClasses": "chat_message bneon21  bfont9"
+  },
+  {
+    "id": "7899264",
+    "type": "public",
+    "date": "18/05 10:07",
+    "username": "Cami",
+    "userId": "8882",
+    "userClasses": "username bgrad40 bnfont7",
+    "message": "BOOM! A MONSTER",
+    "msgClasses": "chat_message bneon21  bfont9"
+  },
+  {
+    "id": "7899265",
+    "type": "public",
+    "date": "18/05 10:07",
+    "username": "Cami",
+    "userId": "8882",
+    "userClasses": "username bgrad40 bnfont7",
+    "message": "HELL YEA",
+    "msgClasses": "chat_message bneon21  bfont9"
   }
 ]
