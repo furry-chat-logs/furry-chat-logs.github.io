@@ -17446,5 +17446,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Spookz Yes.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898025",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "How do I send pics",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898026",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Moonishiki that is good art",
+    "msgClasses": "chat_message "
   }
 ]
