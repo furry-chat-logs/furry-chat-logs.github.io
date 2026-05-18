@@ -21036,5 +21036,55 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "i'll talk to my wall",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7898386",
+    "type": "public",
+    "date": "17/05 22:17",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "prEtzeL i accept",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898387",
+    "type": "public",
+    "date": "17/05 22:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "All I can say for Rune is that he's VERY arrogant and egotistic, also pretty chaotic and wacky, somewhat philosophical",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7898388",
+    "type": "public",
+    "date": "17/05 22:17",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Moonishiki aw hell nah I would be mad af",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898389",
+    "type": "public",
+    "date": "17/05 22:17",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "i got honours this year",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898390",
+    "type": "public",
+    "date": "17/05 22:17",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "prEtzeL nooo i just got here",
+    "msgClasses": "chat_message "
   }
 ]
