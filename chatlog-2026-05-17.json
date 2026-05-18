@@ -24996,5 +24996,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Moonishiki hey hey",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898788",
+    "type": "public",
+    "date": "17/05 23:07",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user34488_25b6efdea725.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898789",
+    "type": "public",
+    "date": "17/05 23:07",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Smiley ??",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
