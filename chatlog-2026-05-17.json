@@ -23036,5 +23036,25 @@
     "userClasses": "username user ",
     "message": "It's almost 11 pm for me 😭",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898588",
+    "type": "public",
+    "date": "17/05 22:37",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "imaaaagine",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898590",
+    "type": "public",
+    "date": "17/05 22:37",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Maybe I'll sleep",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
