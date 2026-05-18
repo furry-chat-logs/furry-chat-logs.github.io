@@ -12604,5 +12604,35 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "Starships.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7900295",
+    "type": "public",
+    "date": "18/05 15:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[funny]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900296",
+    "type": "public",
+    "date": "18/05 15:56",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_0c262aee2ec1.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900297",
+    "type": "public",
+    "date": "18/05 15:56",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "😂",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
