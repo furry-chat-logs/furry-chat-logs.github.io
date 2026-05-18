@@ -18226,5 +18226,25 @@
     "userClasses": "username user ",
     "message": "Yea",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898103",
+    "type": "public",
+    "date": "17/05 21:47",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "That's very cool :D",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7898104",
+    "type": "public",
+    "date": "17/05 21:47",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I'm a chainsawman fan:3",
+    "msgClasses": "chat_message "
   }
 ]
