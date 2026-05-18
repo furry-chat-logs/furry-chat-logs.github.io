@@ -58,5 +58,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[moai]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899025",
+    "type": "public",
+    "date": "18/05 0:05",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Looks like a pop tart ngl",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
