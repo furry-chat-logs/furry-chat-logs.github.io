@@ -17596,5 +17596,25 @@
     "userClasses": "username user ",
     "message": "lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898040",
+    "type": "public",
+    "date": "17/05 21:23",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Lemme get the image from my tablet",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898041",
+    "type": "public",
+    "date": "17/05 21:23",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "It was a guitar",
+    "msgClasses": "chat_message "
   }
 ]
