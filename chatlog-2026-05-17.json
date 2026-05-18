@@ -24336,5 +24336,35 @@
     "userClasses": "username user ",
     "message": "Kinda tired af",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898722",
+    "type": "public",
+    "date": "17/05 22:59",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Boop~ 17/05 22:57 sigh...",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898723",
+    "type": "public",
+    "date": "17/05 22:59",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "Spookz eep -w-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898724",
+    "type": "public",
+    "date": "17/05 22:59",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Zvix1106 nom",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
