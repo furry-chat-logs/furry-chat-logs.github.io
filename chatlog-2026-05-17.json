@@ -17266,5 +17266,35 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Hunter77  LMAO thank you.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898007",
+    "type": "public",
+    "date": "17/05 21:19",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Sorry",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898008",
+    "type": "public",
+    "date": "17/05 21:19",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "You look like a butt",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898009",
+    "type": "public",
+    "date": "17/05 21:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_1ac200f8a035.png]",
+    "msgClasses": "chat_message "
   }
 ]
