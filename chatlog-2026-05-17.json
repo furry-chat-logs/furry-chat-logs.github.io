@@ -25796,5 +25796,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I decided its your first time, you have never done this. Your not even awake. Your not even breathing. You were born yesterday. You were reincarnated and replaying a memory from the last life. -wake up-",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898869",
+    "type": "public",
+    "date": "17/05 23:22",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "guys",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898870",
+    "type": "public",
+    "date": "17/05 23:22",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2YyeWlrYmFocTh4OTl1MHM4NGt5Y3JhcTNnYmVoMjBwcXY2NmsyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fXnRObM8Q0RkOmR5nf/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
