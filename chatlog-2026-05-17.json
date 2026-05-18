@@ -17466,5 +17466,45 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "Moonishiki that is good art",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898027",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Right corner, edit profile, camera upload.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898028",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Idk",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898029",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "LovelyFluff809 thanks!!",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898030",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "Funtime Foxy",
+    "userId": "8363",
+    "userClasses": "username bgrad3 bnfont16",
+    "message": "Moonishiki Love the art",
+    "msgClasses": "chat_message bneon19 ital bfont14"
   }
 ]
