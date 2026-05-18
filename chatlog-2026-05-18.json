@@ -1018,5 +1018,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Hi",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899122",
+    "type": "public",
+    "date": "18/05 7:21",
+    "username": "Evil Rat",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
