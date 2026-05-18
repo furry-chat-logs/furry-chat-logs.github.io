@@ -13254,5 +13254,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Wtf",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900360",
+    "type": "public",
+    "date": "18/05 16:08",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I have real hair.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
