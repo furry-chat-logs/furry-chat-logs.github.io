@@ -24896,5 +24896,25 @@
     "userClasses": "username bgrad24 bnfont9",
     "message": "Would 17/05 21:04 uhhh qwq",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898778",
+    "type": "public",
+    "date": "17/05 23:06",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_fd9547edee97.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898779",
+    "type": "public",
+    "date": "17/05 23:06",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Boom",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
