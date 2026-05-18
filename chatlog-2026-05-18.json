@@ -4768,5 +4768,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid oh im Pina, nice to meet ya",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899505",
+    "type": "public",
+    "date": "18/05 11:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Pina your bandkid humor stinks through the screen",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899506",
+    "type": "public",
+    "date": "18/05 11:14",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "wha",
+    "msgClasses": "chat_message bneon14"
   }
 ]
