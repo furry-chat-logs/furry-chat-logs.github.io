@@ -17636,5 +17636,15 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "It was",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898044",
+    "type": "public",
+    "date": "17/05 21:23",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[skull]",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
