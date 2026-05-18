@@ -2778,5 +2778,15 @@
     "userClasses": "username user ",
     "message": "That's ass",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899304",
+    "type": "public",
+    "date": "18/05 10:14",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Updating this website soon gang",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
