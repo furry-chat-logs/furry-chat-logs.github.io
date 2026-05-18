@@ -26614,5 +26614,35 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "NeptuneLynxx toy aussie",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7898952",
+    "type": "public",
+    "date": "17/05 23:34",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Ah shit i doxxed myself",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898953",
+    "type": "public",
+    "date": "17/05 23:34",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8513_63438a9d86fa.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898954",
+    "type": "public",
+    "date": "17/05 23:34",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "i got this image",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
