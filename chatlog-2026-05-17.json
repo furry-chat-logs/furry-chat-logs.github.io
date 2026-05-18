@@ -17196,5 +17196,25 @@
     "userClasses": "username user ",
     "message": "I just joined",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898000",
+    "type": "public",
+    "date": "17/05 21:18",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user1_73cc90c958ec.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898001",
+    "type": "public",
+    "date": "17/05 21:18",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "I joined yesterday day",
+    "msgClasses": "chat_message "
   }
 ]
