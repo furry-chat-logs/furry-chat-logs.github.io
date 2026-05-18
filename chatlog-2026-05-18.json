@@ -2258,5 +2258,15 @@
     "userClasses": "username user ",
     "message": "Hey yall I'm new here just wanted to let everyone know",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899252",
+    "type": "public",
+    "date": "18/05 9:59",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Chrislikeda welcome!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
