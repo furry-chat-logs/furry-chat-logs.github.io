@@ -5818,5 +5818,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yep",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899610",
+    "type": "public",
+    "date": "18/05 11:25",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "He's been on my screen",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899611",
+    "type": "public",
+    "date": "18/05 11:25",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_b1252405e21e.png]",
+    "msgClasses": "chat_message "
   }
 ]
