@@ -16226,5 +16226,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_a2deaa7d4ed7.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897901",
+    "type": "public",
+    "date": "17/05 20:06",
+    "username": "Kami",
+    "userId": "11760",
+    "userClasses": "username bgrad10 bnfont6",
+    "message": "[wooper]",
+    "msgClasses": "chat_message bneon2 heavyital bfont10"
   }
 ]
