@@ -928,5 +928,25 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Num Little Bug morning",
     "msgClasses": "chat_message bneon19 heavybold bfont7"
+  },
+  {
+    "id": "7899113",
+    "type": "public",
+    "date": "18/05 5:25",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "I ong was js gonna go to sleep",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7899114",
+    "type": "public",
+    "date": "18/05 5:25",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "but i decided not to",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
