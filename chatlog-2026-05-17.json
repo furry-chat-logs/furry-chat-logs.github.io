@@ -18246,5 +18246,15 @@
     "userClasses": "username user ",
     "message": "I'm a chainsawman fan:3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898105",
+    "type": "public",
+    "date": "17/05 21:47",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Heyy yall i'm back!!",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
