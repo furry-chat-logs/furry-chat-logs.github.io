@@ -14294,5 +14294,35 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Going to senior graduation :3\\",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7900464",
+    "type": "public",
+    "date": "18/05 16:49",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_7163724f619d.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900465",
+    "type": "public",
+    "date": "18/05 16:49",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Tenshi or hikow32 Wait, wha?",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7900466",
+    "type": "public",
+    "date": "18/05 16:49",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Made this",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
