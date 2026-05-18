@@ -24236,5 +24236,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Get booped idiot~ 17/05 22:56 not an idiot~",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898712",
+    "type": "public",
+    "date": "17/05 22:58",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Ok I can see the messages",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
