@@ -7448,5 +7448,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Who are you talking to bro 💔💔",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899774",
+    "type": "public",
+    "date": "18/05 12:19",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Porphyrophobia LMAO",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899775",
+    "type": "public",
+    "date": "18/05 12:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaGp1aGlneW11Z2JvODR3eWN1NWtxZW1wNXlmemZ1ZTlvMzBydDBsMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xDQ0gmS66CJ971f0JF/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899776",
+    "type": "public",
+    "date": "18/05 12:19",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_51f9b0033322.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899777",
+    "type": "public",
+    "date": "18/05 12:19",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "i didnt say Pina was-",
+    "msgClasses": "chat_message "
   }
 ]
