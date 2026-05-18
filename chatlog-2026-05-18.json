@@ -13304,5 +13304,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "*me & Rune *",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900365",
+    "type": "public",
+    "date": "18/05 16:10",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Let go of my hair rn buddy",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7900366",
+    "type": "public",
+    "date": "18/05 16:10",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[angry]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
