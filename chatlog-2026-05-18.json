@@ -878,5 +878,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc3VlcTN1YzkxYTNqM3NzdmZ3aGZpa2F4MXk3ZDM4MjBpdzFpbG91ayZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/XMMUWcz4XtDTNgZj22/giphy.gif]",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7899108",
+    "type": "public",
+    "date": "18/05 5:23",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "No,No 67.",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7899109",
+    "type": "public",
+    "date": "18/05 5:23",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "its 2026.",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
