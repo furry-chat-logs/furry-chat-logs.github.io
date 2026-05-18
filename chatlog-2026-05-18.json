@@ -6058,5 +6058,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "And number 2, shitty lungs",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899634",
+    "type": "public",
+    "date": "18/05 11:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "haha",
+    "msgClasses": "chat_message bneon14"
   }
 ]
