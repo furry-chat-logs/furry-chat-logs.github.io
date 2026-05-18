@@ -14534,5 +14534,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "If only you were in Texas LOL",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7900488",
+    "type": "public",
+    "date": "18/05 16:54",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNDY1dnc0NGpxNWRtdXZpenIzZzJldDB1NXhuNnU1bWFlMmZnYzc1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J1XSaMzkdlqDl89NVf/giphy.gif]",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7900489",
+    "type": "public",
+    "date": "18/05 16:54",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_6b3d138a46b2.mp3 | commousquito.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
