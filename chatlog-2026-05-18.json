@@ -4808,5 +4808,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid what? are you okay?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899509",
+    "type": "public",
+    "date": "18/05 11:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_b60954bb6653.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899510",
+    "type": "public",
+    "date": "18/05 11:15",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "you can't smell a person through a screen?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899511",
+    "type": "public",
+    "date": "18/05 11:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Are you?",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
