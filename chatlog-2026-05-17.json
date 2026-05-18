@@ -18936,5 +18936,35 @@
     "userClasses": "username user ",
     "message": "The secret thingy",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898174",
+    "type": "public",
+    "date": "17/05 21:56",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I can buy emojis ooo",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898175",
+    "type": "public",
+    "date": "17/05 21:56",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[link: https://secret-share.net/play/]",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898176",
+    "type": "public",
+    "date": "17/05 21:56",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Frogmin it might just be me, but /poll doesn't work anymore",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
