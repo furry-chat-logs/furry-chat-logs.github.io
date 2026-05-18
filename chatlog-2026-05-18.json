@@ -68,5 +68,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Looks like a pop tart ngl",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7899026",
+    "type": "public",
+    "date": "18/05 0:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": ":3",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
