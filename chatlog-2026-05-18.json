@@ -3168,5 +3168,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I'm purpling my rain",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899344",
+    "type": "public",
+    "date": "18/05 10:38",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "hai guys^^",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
