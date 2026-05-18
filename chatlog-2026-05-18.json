@@ -12494,5 +12494,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Goes into town 18/05 15:53 Good work.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900284",
+    "type": "public",
+    "date": "18/05 15:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "That waz me 33",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
