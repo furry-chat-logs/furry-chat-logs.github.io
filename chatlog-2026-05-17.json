@@ -19276,5 +19276,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "0G Stupendous Man No, all Nyx does it main. If it's good (and funny) send it to me.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898208",
+    "type": "public",
+    "date": "17/05 21:59",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdzZ5NDJseW9iaWVrajRhcDd4Z3NzOHMzOXpncDh6NHV4cm9kZmxuaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bXvwCQglnTGKs/giphy.gif]",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898209",
+    "type": "public",
+    "date": "17/05 21:59",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "No Rat JustAnAnt Works now.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
