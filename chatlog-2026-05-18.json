@@ -12416,5 +12416,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "im bored",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900276",
+    "type": "public",
+    "date": "18/05 15:53",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[secret-share: lY0M42JNtzgxEU0eukSW1FR5z&n=47085] Go to town.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
