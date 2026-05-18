@@ -7188,5 +7188,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "should i believe or nah-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899748",
+    "type": "public",
+    "date": "18/05 12:14",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_2e3cfab101d6.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899749",
+    "type": "public",
+    "date": "18/05 12:14",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "ts is not that funny",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
