@@ -12834,5 +12834,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Not your fault <3",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900318",
+    "type": "public",
+    "date": "18/05 16:00",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "[secret-share: 85M0Tvzn21L1tlQfGdAzxwi0K&n=39794] || Q&A",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
