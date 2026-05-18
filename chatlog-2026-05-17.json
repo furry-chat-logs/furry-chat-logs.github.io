@@ -15946,5 +15946,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "؜/coins",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7897871",
+    "type": "public",
+    "date": "17/05 19:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeXlydTRxdTN1aWczazQ5dGRzeXBoMWhmdW13N2k1NWVsbXRwM2N6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fno5T9tdI518hH2fKI/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
