@@ -16344,5 +16344,25 @@
     "userClasses": "username bcolor9 ",
     "message": "٭٭ i dont like them they give me headaches and make my mouth swell",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7900669",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I like blueberries",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900670",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "> :3",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
