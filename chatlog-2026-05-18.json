@@ -7618,5 +7618,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "HE LOOKS LIKE THAT ONE MF FROM CORALINE",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899791",
+    "type": "public",
+    "date": "18/05 12:21",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "[wooper]",
+    "msgClasses": "chat_message "
   }
 ]
