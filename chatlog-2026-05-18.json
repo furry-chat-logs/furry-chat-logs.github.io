@@ -8478,5 +8478,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "gng whut-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899878",
+    "type": "public",
+    "date": "18/05 12:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZGVjaDVqODB2bHJwNDQ4YzR4MnoyOGY2d29wZ3BvejBlbzd3bnVqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOuVjiA6qvLGB3NusU/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
