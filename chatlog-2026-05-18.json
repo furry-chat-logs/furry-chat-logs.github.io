@@ -13774,5 +13774,45 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "psychoboi_mondo hm?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900412",
+    "type": "public",
+    "date": "18/05 16:19",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_0c9ad0bdb20e.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900413",
+    "type": "public",
+    "date": "18/05 16:19",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "psychoboi_mondo heyyy",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900414",
+    "type": "public",
+    "date": "18/05 16:19",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Thts my pic.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900415",
+    "type": "public",
+    "date": "18/05 16:19",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I send that usually.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
