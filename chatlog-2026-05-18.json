@@ -15294,5 +15294,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "psychoboi_mondo ..Can I kill him?",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7900564",
+    "type": "public",
+    "date": "18/05 17:17",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Mojito no",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
