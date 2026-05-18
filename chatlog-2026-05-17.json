@@ -16626,5 +16626,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Good reason, too. Barbatos took out around 500 enemies with just one arm and a tail",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897943",
+    "type": "public",
+    "date": "17/05 20:26",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Which is an estimate",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897944",
+    "type": "public",
+    "date": "17/05 20:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaTcwc2RtN29nZW1hY2loY3Z6ZHM1MjJudjloNm9zZG9wcmQwcTZuaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yFYioeSeCa99YF9Ucj/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
