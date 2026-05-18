@@ -20026,5 +20026,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "\"Fuck off and do it yourself lazy ass\" 17/05 22:09\t— JustAnAnt",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898284",
+    "type": "public",
+    "date": "17/05 22:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_fd5f558c5b38.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898285",
+    "type": "public",
+    "date": "17/05 22:10",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm..",
+    "msgClasses": "chat_message ital"
   }
 ]
