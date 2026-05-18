@@ -24146,5 +24146,25 @@
     "userClasses": "username user ",
     "message": "Thi",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898702",
+    "type": "public",
+    "date": "17/05 22:53",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "[secret-share: sIWpB0gsxQuXOHF8atwJdwFZV&n=47058]",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898703",
+    "type": "public",
+    "date": "17/05 22:53",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "This",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
