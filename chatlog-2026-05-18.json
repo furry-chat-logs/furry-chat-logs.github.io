@@ -5658,5 +5658,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "tommorow?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899594",
+    "type": "public",
+    "date": "18/05 11:22",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "my finals are on friday so im fuckin screwed <:_)",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899595",
+    "type": "public",
+    "date": "18/05 11:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I forgot :/",
+    "msgClasses": "chat_message bneon14"
   }
 ]
