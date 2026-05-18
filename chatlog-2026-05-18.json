@@ -16374,5 +16374,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I'm allergic to strawberries.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900672",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ ouhhh",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7900673",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I like uh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7900674",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ that Allergy silly.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
