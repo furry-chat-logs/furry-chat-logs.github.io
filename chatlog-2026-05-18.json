@@ -16654,5 +16654,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "We have some.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900700",
+    "type": "public",
+    "date": "18/05 18:26",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "im gonna cough on all of you",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
