@@ -20436,5 +20436,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "JustAnAnt you started it by being so rude, dammit.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898326",
+    "type": "public",
+    "date": "17/05 22:13",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "guys guys",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
