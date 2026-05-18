@@ -4348,5 +4348,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "its pretty cruel",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899463",
+    "type": "public",
+    "date": "18/05 11:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Insidiae [troll] .. perfect.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899464",
+    "type": "public",
+    "date": "18/05 11:05",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "Hmmm",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
