@@ -1578,5 +1578,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "psychoboi_mondo twinn what's wrong",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7899178",
+    "type": "public",
+    "date": "18/05 8:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Now I don't want to",
+    "msgClasses": "chat_message bneon14"
   }
 ]
