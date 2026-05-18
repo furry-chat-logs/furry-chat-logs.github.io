@@ -26184,5 +26184,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8513_fad0f24a12ee.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898908",
+    "type": "public",
+    "date": "17/05 23:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Ohhh",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898909",
+    "type": "public",
+    "date": "17/05 23:26",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "this is me irl",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
