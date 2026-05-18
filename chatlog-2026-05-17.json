@@ -25096,5 +25096,25 @@
     "userClasses": "username bgrad7 ",
     "message": "🫡🫡🫡",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898798",
+    "type": "public",
+    "date": "17/05 23:09",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGRvc2NxejZwajRqZnAzMm0zYXVsZnN3a283MnhraGRpNHJuNWxraiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/NaphwkRqgCs8pKeRxl/giphy.gif]",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898799",
+    "type": "public",
+    "date": "17/05 23:09",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "This is me chat",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
