@@ -8858,5 +8858,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Anderdingus",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899916",
+    "type": "public",
+    "date": "18/05 12:45",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Jaxxie You.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899917",
+    "type": "public",
+    "date": "18/05 12:45",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Greetings.",
+    "msgClasses": "chat_message ital"
   }
 ]
