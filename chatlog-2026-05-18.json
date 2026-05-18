@@ -318,5 +318,15 @@
     "userClasses": "username user ",
     "message": "Anyway",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899051",
+    "type": "public",
+    "date": "18/05 0:36",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_70c4651ee9f9.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
