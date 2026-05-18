@@ -12504,5 +12504,25 @@
     "userClasses": "username bgrad7 ",
     "message": "That waz me 33",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900285",
+    "type": "public",
+    "date": "18/05 15:55",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Rune gets all of the treasure.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7900286",
+    "type": "public",
+    "date": "18/05 15:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "*:3",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
