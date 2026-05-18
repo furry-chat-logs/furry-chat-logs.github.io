@@ -1558,5 +1558,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "im movin to a diff room...cant let my twin see me like this...",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7899176",
+    "type": "public",
+    "date": "18/05 8:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "New Kid I was abt to eat",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899177",
+    "type": "public",
+    "date": "18/05 8:47",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "psychoboi_mondo twinn what's wrong",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
