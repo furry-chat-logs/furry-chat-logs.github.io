@@ -15304,5 +15304,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Mojito no",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7900565",
+    "type": "public",
+    "date": "18/05 17:18",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "psychoboi_mondo B-but..",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
