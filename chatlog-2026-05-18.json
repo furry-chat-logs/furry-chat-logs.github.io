@@ -948,5 +948,35 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "but i decided not to",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7899115",
+    "type": "public",
+    "date": "18/05 5:25",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "even though its 3AM",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7899116",
+    "type": "public",
+    "date": "18/05 5:25",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "...",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7899117",
+    "type": "public",
+    "date": "18/05 5:25",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "on a school day.",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
