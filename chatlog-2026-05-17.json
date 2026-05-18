@@ -25516,5 +25516,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Moonishiki ew.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898840",
+    "type": "public",
+    "date": "17/05 23:14",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Good night now",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898841",
+    "type": "public",
+    "date": "17/05 23:14",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "..?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898842",
+    "type": "public",
+    "date": "17/05 23:14",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Again",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
