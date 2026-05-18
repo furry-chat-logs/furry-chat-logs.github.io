@@ -13294,5 +13294,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user3475_8fbd60fe80ad.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900364",
+    "type": "public",
+    "date": "18/05 16:09",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "*me & Rune *",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
