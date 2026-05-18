@@ -1518,5 +1518,15 @@
     "userClasses": "username bcolor4 ",
     "message": "idk what to say so hi ig",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899172",
+    "type": "public",
+    "date": "18/05 8:29",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_82f9091ebf16.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
