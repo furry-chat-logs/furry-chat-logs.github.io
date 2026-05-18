@@ -3688,5 +3688,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": ":P",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7899396",
+    "type": "public",
+    "date": "18/05 10:52",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "thats not how that works dummy",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899397",
+    "type": "public",
+    "date": "18/05 10:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Looked around",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899398",
+    "type": "public",
+    "date": "18/05 10:52",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [heu]",
+    "msgClasses": "chat_message ital"
   }
 ]
