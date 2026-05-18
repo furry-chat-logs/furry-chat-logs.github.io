@@ -12216,5 +12216,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki why not sunday?",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7900256",
+    "type": "public",
+    "date": "18/05 15:49",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Because I need a rest day.",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
