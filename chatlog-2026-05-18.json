@@ -2618,5 +2618,25 @@
     "userClasses": "username user ",
     "message": "U need water",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899288",
+    "type": "public",
+    "date": "18/05 10:11",
+    "username": "Cami",
+    "userId": "8882",
+    "userClasses": "username bgrad40 bnfont7",
+    "message": "ok fr this ones kinda ass",
+    "msgClasses": "chat_message bneon21  bfont9"
+  },
+  {
+    "id": "7899289",
+    "type": "public",
+    "date": "18/05 10:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Gtg",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
