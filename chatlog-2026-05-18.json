@@ -6778,5 +6778,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user27278_79cde732b24d.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899707",
+    "type": "public",
+    "date": "18/05 11:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [happy]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899708",
+    "type": "public",
+    "date": "18/05 11:58",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "*eats popcorn*",
+    "msgClasses": "chat_message "
   }
 ]
