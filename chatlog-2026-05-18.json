@@ -3158,5 +3158,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "KingCorgz yep",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7899343",
+    "type": "public",
+    "date": "18/05 10:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm purpling my rain",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
