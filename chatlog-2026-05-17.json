@@ -23966,5 +23966,25 @@
     "userClasses": "username user ",
     "message": "Goober alert",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898684",
+    "type": "public",
+    "date": "17/05 22:50",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "Spookz bwah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898685",
+    "type": "public",
+    "date": "17/05 22:50",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "0G Stupendous Man yeah",
+    "msgClasses": "chat_message "
   }
 ]
