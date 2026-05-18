@@ -16494,5 +16494,35 @@
     "userClasses": "username bcolor9 ",
     "message": "they are full of stones",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7900684",
+    "type": "public",
+    "date": "18/05 18:21",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Mmm, strawberries",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7900685",
+    "type": "public",
+    "date": "18/05 18:21",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "i like bananas",
+    "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7900686",
+    "type": "public",
+    "date": "18/05 18:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Wifies oren",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
