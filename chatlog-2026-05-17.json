@@ -25566,5 +25566,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Spookz gn",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898845",
+    "type": "public",
+    "date": "17/05 23:14",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNmNyODJkc3VrbHRhdngyZ2ZscWd5amZvdmRmYmZzMDhtOW5mOTBoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XJLwGBmP8mCOBfWlvv/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
