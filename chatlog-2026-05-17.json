@@ -17976,5 +17976,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "JustAnAnt agreed",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7898078",
+    "type": "public",
+    "date": "17/05 21:43",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "OH GOD",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898079",
+    "type": "public",
+    "date": "17/05 21:43",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "JustAnAnt What's the difference between giphy and tenor?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898080",
+    "type": "public",
+    "date": "17/05 21:43",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "IT IS",
+    "msgClasses": "chat_message "
   }
 ]
