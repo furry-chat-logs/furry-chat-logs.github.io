@@ -26054,5 +26054,35 @@
     "username": "System",
     "userId": null,
     "message": "Friendless has been removed from chat"
+  },
+  {
+    "id": "7898895",
+    "type": "public",
+    "date": "17/05 23:24",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Did it do something wrong?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898896",
+    "type": "public",
+    "date": "17/05 23:24",
+    "username": "DragoRosie",
+    "userId": "10284",
+    "userClasses": "username bgrad33 ",
+    "message": "L+Ratio pal",
+    "msgClasses": "chat_message bneon1  bfont4"
+  },
+  {
+    "id": "7898897",
+    "type": "public",
+    "date": "17/05 23:24",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
