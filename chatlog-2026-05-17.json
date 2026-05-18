@@ -16146,5 +16146,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Henlo",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897892",
+    "type": "public",
+    "date": "17/05 20:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Threw a brick at Issa",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
