@@ -2268,5 +2268,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Chrislikeda welcome!",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7899253",
+    "type": "public",
+    "date": "18/05 10:00",
+    "username": "Chrislikeda",
+    "userId": "37269",
+    "userClasses": "username user ",
+    "message": "How are you doing today",
+    "msgClasses": "chat_message "
   }
 ]
