@@ -348,5 +348,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_b69acc2ab343.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899054",
+    "type": "public",
+    "date": "18/05 0:40",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[nerdliz]",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
