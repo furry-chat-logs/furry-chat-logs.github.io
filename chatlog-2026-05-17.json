@@ -17426,5 +17426,25 @@
     "userClasses": "username user ",
     "message": "I feel hella creepy with this no pfp",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898023",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "The drawing is cute",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898024",
+    "type": "public",
+    "date": "17/05 21:20",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Spookz Yes.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
