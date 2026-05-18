@@ -13334,5 +13334,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "No.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900368",
+    "type": "public",
+    "date": "18/05 16:10",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "BITES 0G Stupendous Man",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
