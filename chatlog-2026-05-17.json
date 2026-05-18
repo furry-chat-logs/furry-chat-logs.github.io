@@ -18826,5 +18826,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "|     | |  | |    | __",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898163",
+    "type": "public",
+    "date": "17/05 21:55",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "lol",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
