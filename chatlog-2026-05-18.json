@@ -11486,5 +11486,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "dead chat vro",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900183",
+    "type": "public",
+    "date": "18/05 15:20",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHh6amVreWgxZTdhbDRpc3h4cWMwczA5cjdtdnhjeWR5bDh1emN3eiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tXL4FHPSnVJ0A/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7900184",
+    "type": "public",
+    "date": "18/05 15:20",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Indeed",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
