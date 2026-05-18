@@ -26864,5 +26864,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8513_0059df3d4108.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898977",
+    "type": "public",
+    "date": "17/05 23:38",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "DragoRosie",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898978",
+    "type": "public",
+    "date": "17/05 23:38",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "what's cooking",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
