@@ -16764,5 +16764,15 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "Nini .",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7900711",
+    "type": "public",
+    "date": "18/05 18:49",
+    "username": "Milo 01",
+    "userId": "36493",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
