@@ -858,5 +858,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Heyo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899106",
+    "type": "public",
+    "date": "18/05 5:11",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user484_81d3628edc24.gif]",
+    "msgClasses": "chat_message "
   }
 ]
