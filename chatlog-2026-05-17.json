@@ -26144,5 +26144,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783]",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898904",
+    "type": "public",
+    "date": "17/05 23:25",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Ss closed.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898905",
+    "type": "public",
+    "date": "17/05 23:25",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Moonishiki what one",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898906",
+    "type": "public",
+    "date": "17/05 23:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "KingCorgz huh?",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
