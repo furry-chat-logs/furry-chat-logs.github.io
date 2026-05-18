@@ -8248,5 +8248,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "wait, seriously?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899855",
+    "type": "public",
+    "date": "18/05 12:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_fef73fabd8bd.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899856",
+    "type": "public",
+    "date": "18/05 12:31",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "OH TYTYYYY-",
+    "msgClasses": "chat_message "
   }
 ]
