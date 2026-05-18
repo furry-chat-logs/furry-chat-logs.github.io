@@ -16116,5 +16116,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_05d3d28da898.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7897888",
+    "type": "public",
+    "date": "17/05 20:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_126ca2f9ceb9.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
