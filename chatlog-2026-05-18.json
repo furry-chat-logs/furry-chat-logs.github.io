@@ -4608,5 +4608,25 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "Oop",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7899489",
+    "type": "public",
+    "date": "18/05 11:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Pina take a shower",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899490",
+    "type": "public",
+    "date": "18/05 11:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Stank bitch",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
