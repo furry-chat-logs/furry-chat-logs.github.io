@@ -4798,5 +4798,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Sigh.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7899508",
+    "type": "public",
+    "date": "18/05 11:15",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid what? are you okay?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
