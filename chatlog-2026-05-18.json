@@ -7058,5 +7058,15 @@
     "userClasses": "username bcolor9 ",
     "message": "0 Konata Izumi 0 BAM :p",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7899735",
+    "type": "public",
+    "date": "18/05 12:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hi",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
