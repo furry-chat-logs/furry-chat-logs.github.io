@@ -11036,5 +11036,15 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": ":< ..",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7900136",
+    "type": "public",
+    "date": "18/05 14:34",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "h",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
