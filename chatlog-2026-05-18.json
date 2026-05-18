@@ -11066,5 +11066,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "lalalalalala",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7900139",
+    "type": "public",
+    "date": "18/05 14:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Meow",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
