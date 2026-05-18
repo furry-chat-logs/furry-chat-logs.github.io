@@ -12196,5 +12196,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I workout every day of the week besides Sunday",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900254",
+    "type": "public",
+    "date": "18/05 15:49",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Rune [heu]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7900255",
+    "type": "public",
+    "date": "18/05 15:49",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki why not sunday?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
