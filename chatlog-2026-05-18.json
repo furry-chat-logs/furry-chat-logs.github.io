@@ -10186,5 +10186,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I was born 2008",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900050",
+    "type": "public",
+    "date": "18/05 14:08",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "On your profile dingus",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900051",
+    "type": "public",
+    "date": "18/05 14:08",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "2007",
+    "msgClasses": "chat_message bgrad39"
   }
 ]
