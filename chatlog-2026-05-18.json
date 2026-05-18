@@ -1888,5 +1888,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I watched the culling game in theaters",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899215",
+    "type": "public",
+    "date": "18/05 9:28",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWp3NmQ0bGNuNHR6c21xbWd3N2RxaHdvaTU4b3E3eGNnMXh3aHcydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EDcldkboHAjUvKl2zb/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899216",
+    "type": "public",
+    "date": "18/05 9:28",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "So peak",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
