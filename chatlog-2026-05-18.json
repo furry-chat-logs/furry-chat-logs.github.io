@@ -13404,5 +13404,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Diddles Rune",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900375",
+    "type": "public",
+    "date": "18/05 16:12",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "AYOOO :3",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900376",
+    "type": "public",
+    "date": "18/05 16:12",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Ha. He left. I won, Chat.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
