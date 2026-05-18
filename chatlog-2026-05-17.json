@@ -17526,5 +17526,25 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "How do you make art",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898033",
+    "type": "public",
+    "date": "17/05 21:22",
+    "username": "LovelyFluff809",
+    "userId": "37249",
+    "userClasses": "username bcolor16 bnfont9",
+    "message": "Do you need vip?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898034",
+    "type": "public",
+    "date": "17/05 21:22",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_2d206f163077.png]",
+    "msgClasses": "chat_message "
   }
 ]
