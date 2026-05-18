@@ -27144,5 +27144,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8513_f7efbd2d5826.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899005",
+    "type": "public",
+    "date": "17/05 23:42",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "im a fucking deer",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7899006",
+    "type": "public",
+    "date": "17/05 23:42",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "roadkill",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
