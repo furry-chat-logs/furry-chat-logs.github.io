@@ -16024,5 +16024,35 @@
     "userClasses": "username bneon29 bnfont5",
     "message": "Yippee!",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7900637",
+    "type": "public",
+    "date": "18/05 18:11",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Moonishiki Moonishiki Moonishiki Moonishiki",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7900638",
+    "type": "public",
+    "date": "18/05 18:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hello chat",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900639",
+    "type": "public",
+    "date": "18/05 18:11",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "٭٭ hiii",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
