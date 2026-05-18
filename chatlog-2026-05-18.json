@@ -5708,5 +5708,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "UGH I HATE HOMESCHOOL",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899599",
+    "type": "public",
+    "date": "18/05 11:23",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "4 weeks until study leave",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
