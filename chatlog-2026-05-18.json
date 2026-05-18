@@ -3988,5 +3988,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "SoraTheMikuFan no no no no",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899426",
+    "type": "public",
+    "date": "18/05 10:57",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Porphyrophobia calm down sir",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899427",
+    "type": "public",
+    "date": "18/05 10:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Pina phew",
+    "msgClasses": "chat_message bneon14"
   }
 ]
