@@ -21086,5 +21086,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "prEtzeL nooo i just got here",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898391",
+    "type": "public",
+    "date": "17/05 22:17",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "You don't know how that feels until it happens to you",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898392",
+    "type": "public",
+    "date": "17/05 22:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I love the arrogant king though [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
