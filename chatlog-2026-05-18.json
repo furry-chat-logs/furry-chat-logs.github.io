@@ -14264,5 +14264,25 @@
     "userClasses": "username bgrad7 bnfont16",
     "message": "guys",
     "msgClasses": "chat_message bneon21 bold bfont5"
+  },
+  {
+    "id": "7900461",
+    "type": "public",
+    "date": "18/05 16:48",
+    "username": "Tenshi or hikow32",
+    "userId": "12099",
+    "userClasses": "username bgrad7 bnfont16",
+    "message": "today is my last day so i wanted to say",
+    "msgClasses": "chat_message bneon21 bold bfont5"
+  },
+  {
+    "id": "7900462",
+    "type": "public",
+    "date": "18/05 16:49",
+    "username": "Tenshi or hikow32",
+    "userId": "12099",
+    "userClasses": "username bgrad7 bnfont16",
+    "message": "thank you",
+    "msgClasses": "chat_message bneon21 bold bfont5"
   }
 ]
