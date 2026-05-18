@@ -24286,5 +24286,25 @@
     "userClasses": "username user ",
     "message": "Sounds funny lmao",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898717",
+    "type": "public",
+    "date": "17/05 22:58",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki lmao",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898718",
+    "type": "public",
+    "date": "17/05 22:58",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hehehe those were the days",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
