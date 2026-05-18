@@ -5858,5 +5858,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "gng whats the point of this?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899614",
+    "type": "public",
+    "date": "18/05 11:25",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Jaxxie Hell.",
+    "msgClasses": "chat_message ital"
   }
 ]
