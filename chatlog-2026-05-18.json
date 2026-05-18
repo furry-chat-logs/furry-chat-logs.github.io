@@ -14284,5 +14284,15 @@
     "userClasses": "username bgrad7 bnfont16",
     "message": "thank you",
     "msgClasses": "chat_message bneon21 bold bfont5"
+  },
+  {
+    "id": "7900463",
+    "type": "public",
+    "date": "18/05 16:49",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Going to senior graduation :3\\",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
