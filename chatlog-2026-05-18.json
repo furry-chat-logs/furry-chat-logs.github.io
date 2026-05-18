@@ -10026,5 +10026,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37270_aaad17a03fc4.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900034",
+    "type": "public",
+    "date": "18/05 14:06",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Jaxxie you're too young",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900035",
+    "type": "public",
+    "date": "18/05 14:06",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "im a SkInNy WiEnErR-",
+    "msgClasses": "chat_message "
   }
 ]
