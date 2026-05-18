@@ -13104,5 +13104,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[secret-share: lY0M42JNtzgxEU0eukSW1FR5z&n=47085]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900345",
+    "type": "public",
+    "date": "18/05 16:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "😂😂",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900346",
+    "type": "public",
+    "date": "18/05 16:06",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYnVoOThseWx5dTk0ZnZscnU2bHk2ZGJndTg3YzJ1eDd0Ym53dXJrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
