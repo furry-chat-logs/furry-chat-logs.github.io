@@ -21756,5 +21756,35 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "prEtzeL What",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898458",
+    "type": "public",
+    "date": "17/05 22:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Rolfiel my goat ❤️‍🩹",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7898459",
+    "type": "public",
+    "date": "17/05 22:21",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Porphyrophobia what a cutie",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7898460",
+    "type": "public",
+    "date": "17/05 22:21",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I saw that too [sob]",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
