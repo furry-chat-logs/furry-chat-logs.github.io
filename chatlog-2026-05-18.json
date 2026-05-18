@@ -368,5 +368,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Sharkbiteyou idk what that is",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899056",
+    "type": "public",
+    "date": "18/05 0:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sharkbiteyou does this effect the third impact",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
