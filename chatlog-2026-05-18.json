@@ -13354,5 +13354,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Skiddly doo dad bonk on yo ass, Rune",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900370",
+    "type": "public",
+    "date": "18/05 16:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "*prances around recording* FIGHT FIGHT :3",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
