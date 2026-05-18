@@ -1498,5 +1498,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Breadcrumbs me?",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7899170",
+    "type": "public",
+    "date": "18/05 8:24",
+    "username": "Artful",
+    "userId": "37268",
+    "userClasses": "username bcolor4 ",
+    "message": "helo everyone :D",
+    "msgClasses": "chat_message "
   }
 ]
