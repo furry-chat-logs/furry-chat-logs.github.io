@@ -16004,5 +16004,25 @@
     "userClasses": "username user ",
     "message": "Hello guys",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900635",
+    "type": "public",
+    "date": "18/05 18:11",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Axolotal hey.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900636",
+    "type": "public",
+    "date": "18/05 18:11",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon29 bnfont5",
+    "message": "Yippee!",
+    "msgClasses": "chat_message bfont7"
   }
 ]
