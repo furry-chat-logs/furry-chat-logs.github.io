@@ -19326,5 +19326,25 @@
     "userClasses": "username user ",
     "message": "How do I use the coins",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898213",
+    "type": "public",
+    "date": "17/05 22:00",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "JustAnAnt I meant all nyx does is moan.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898214",
+    "type": "public",
+    "date": "17/05 22:00",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Spookz [/coins]",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
