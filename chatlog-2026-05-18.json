@@ -11416,5 +11416,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "New Kid did you lightly sand down the case and do a white coat first??",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900176",
+    "type": "public",
+    "date": "18/05 15:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Smiley no.",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
