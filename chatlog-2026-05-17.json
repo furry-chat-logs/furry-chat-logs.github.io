@@ -19136,5 +19136,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "JustAnAnt I did it on purpose bruh",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7898194",
+    "type": "public",
+    "date": "17/05 21:58",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "No Rat Yep, it's because I added a parameter for it to work in wall, and never actually updated the command.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898195",
+    "type": "public",
+    "date": "17/05 21:58",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "No Rat where did your [swigglerattle] go",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
