@@ -17886,5 +17886,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I need to update that ugly gif thing and give it a better ui.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898069",
+    "type": "public",
+    "date": "17/05 21:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2lzemJvaWwwd29hcHp3Y2JzanpzeTBsMGR4azJvM3UzZnRndmJyZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IjWk0VFIOptpcqdriC/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
