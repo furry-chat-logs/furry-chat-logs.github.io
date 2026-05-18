@@ -13584,5 +13584,45 @@
     "userClasses": "username bgrad7 ",
     "message": ":3",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900393",
+    "type": "public",
+    "date": "18/05 16:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Bruh",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900394",
+    "type": "public",
+    "date": "18/05 16:16",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_509210d17f72.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900395",
+    "type": "public",
+    "date": "18/05 16:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I won already.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900396",
+    "type": "public",
+    "date": "18/05 16:16",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Walked away all happy and gayishly [totallove]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
