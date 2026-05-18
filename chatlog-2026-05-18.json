@@ -4908,5 +4908,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "South Park PFP vs Beastars PFP. Two people that should really keep their mouths shut.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7899519",
+    "type": "public",
+    "date": "18/05 11:15",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Deimos We're in a warzone smh.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899520",
+    "type": "public",
+    "date": "18/05 11:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Insidiae LMFAO.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
