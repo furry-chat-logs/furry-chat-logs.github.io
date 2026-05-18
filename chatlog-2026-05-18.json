@@ -12396,5 +12396,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_ff262fa52696.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900274",
+    "type": "public",
+    "date": "18/05 15:53",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "gng",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900275",
+    "type": "public",
+    "date": "18/05 15:53",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "im bored",
+    "msgClasses": "chat_message "
   }
 ]
