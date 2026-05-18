@@ -3748,5 +3748,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "ykw just shut the fuck up",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899402",
+    "type": "public",
+    "date": "18/05 10:53",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Spectre_protogen hai",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899403",
+    "type": "public",
+    "date": "18/05 10:53",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Riot whateves",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899404",
+    "type": "public",
+    "date": "18/05 10:53",
+    "username": "Riot",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "why u in such a bad mood?",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
