@@ -20296,5 +20296,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "JustAnAnt LMAO",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7898312",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "JustAnAnt Does a sorry make you feel better?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898313",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Moonishiki I told him that in dms. He was trying to \"expose\" me with something I said to him that was rude",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
