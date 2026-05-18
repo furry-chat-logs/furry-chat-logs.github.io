@@ -548,5 +548,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "that show was fire on the vhs",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899074",
+    "type": "public",
+    "date": "18/05 0:57",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Memory lane.",
+    "msgClasses": "chat_message ital"
   }
 ]
