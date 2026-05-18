@@ -6448,5 +6448,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "tadc fan",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899674",
+    "type": "public",
+    "date": "18/05 11:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbnQ4OGN5OHRmeTl4d3Yxdnp1ZDdpN2ozYmE2M3hqbTY5dmVybTk5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uLy4Bo680hZxm/giphy.gif]",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
