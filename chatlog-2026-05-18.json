@@ -16144,5 +16144,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[sob]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900649",
+    "type": "public",
+    "date": "18/05 18:15",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Literally have half of my pfps as this btw",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7900650",
+    "type": "public",
+    "date": "18/05 18:15",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "🦖....",
+    "msgClasses": "chat_message bfont7"
   }
 ]
