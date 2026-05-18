@@ -15354,5 +15354,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Coldzenith what are we ordering today twin?",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7900570",
+    "type": "public",
+    "date": "18/05 17:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_9c5c21448cb7.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900571",
+    "type": "public",
+    "date": "18/05 17:19",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_da61c634d6e1.webp]",
+    "msgClasses": "chat_message "
   }
 ]
