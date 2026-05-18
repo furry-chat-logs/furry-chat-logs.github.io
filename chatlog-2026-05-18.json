@@ -9778,5 +9778,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Medokin nice",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7900009",
+    "type": "public",
+    "date": "18/05 13:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWdwMWZpZnM5emhnbXN0OGdvdnQxbGdycXRldXd5dXRqM2J3MHNkYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AvWuBisfmZn25kUOOh/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
