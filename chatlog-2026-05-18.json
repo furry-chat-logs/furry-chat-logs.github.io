@@ -7698,5 +7698,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25955_ea400f83ffc6.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899799",
+    "type": "public",
+    "date": "18/05 12:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
