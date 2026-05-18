@@ -10866,5 +10866,15 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "ToT",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7900119",
+    "type": "public",
+    "date": "18/05 14:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[runefaust]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
