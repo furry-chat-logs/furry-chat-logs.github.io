@@ -16586,5 +16586,15 @@
     "userClasses": "username bgrad7 ",
     "message": "It's a beast.",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897939",
+    "type": "public",
+    "date": "17/05 20:25",
+    "username": "Bryce",
+    "userId": "37261",
+    "userClasses": "username user ",
+    "message": "Hey",
+    "msgClasses": "chat_message "
   }
 ]
