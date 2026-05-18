@@ -8628,5 +8628,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "pokemon fans-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899893",
+    "type": "public",
+    "date": "18/05 12:41",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Uhm",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
