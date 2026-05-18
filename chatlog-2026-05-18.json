@@ -10526,5 +10526,45 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Maybe I should be careful about who I give VIP...",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900084",
+    "type": "public",
+    "date": "18/05 14:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Motha? 🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7900085",
+    "type": "public",
+    "date": "18/05 14:12",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Brother thinks he's in 21 jump street",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900086",
+    "type": "public",
+    "date": "18/05 14:12",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Jaxxie I know. I have her. [clown]",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7900087",
+    "type": "public",
+    "date": "18/05 14:12",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "no they said Moonishiki is ugly",
+    "msgClasses": "chat_message "
   }
 ]
