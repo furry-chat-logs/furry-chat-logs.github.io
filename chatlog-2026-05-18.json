@@ -13504,5 +13504,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I was gone for 5 minutes, what the fiddle fuck happened..?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900385",
+    "type": "public",
+    "date": "18/05 16:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "WHA",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7900386",
+    "type": "public",
+    "date": "18/05 16:15",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_80e708e38abc.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900387",
+    "type": "public",
+    "date": "18/05 16:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Makes 0G Stupendous Man bite the curb",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
