@@ -18326,5 +18326,35 @@
     "userClasses": "username bgrad7 ",
     "message": "It's part of life",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898113",
+    "type": "public",
+    "date": "17/05 21:49",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Moonishiki STOP. RSEGFRI",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7898114",
+    "type": "public",
+    "date": "17/05 21:49",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Moonishiki happens to 1 in 5 males",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7898115",
+    "type": "public",
+    "date": "17/05 21:49",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "It's natural",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
