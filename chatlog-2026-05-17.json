@@ -19006,5 +19006,35 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "JustAnAnt Ah shit, I'll fix it.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898181",
+    "type": "public",
+    "date": "17/05 21:57",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "No McLovin badge emoji",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898182",
+    "type": "public",
+    "date": "17/05 21:57",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "[secret-share: 300nVUFhHaTaFkL04ouIzFB93&n=47052]",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898183",
+    "type": "public",
+    "date": "17/05 21:57",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Moonishiki What is?",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
