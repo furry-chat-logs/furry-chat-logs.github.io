@@ -22446,5 +22446,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Moonishiki evagalon",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898528",
+    "type": "public",
+    "date": "17/05 22:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_75a9d49bc695.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898529",
+    "type": "public",
+    "date": "17/05 22:29",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Moonishiki oof that sad",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
