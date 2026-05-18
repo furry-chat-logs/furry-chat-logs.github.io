@@ -5718,5 +5718,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "4 weeks until study leave",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7899600",
+    "type": "public",
+    "date": "18/05 11:23",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "TAKE ME TO ANOTHER SCHOOLL",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899601",
+    "type": "public",
+    "date": "18/05 11:23",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*days.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7899602",
+    "type": "public",
+    "date": "18/05 11:23",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "man I'm dumb",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
