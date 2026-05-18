@@ -10906,5 +10906,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "summon the deer",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7900123",
+    "type": "public",
+    "date": "18/05 14:27",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Did I kill chat...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
