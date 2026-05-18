@@ -3578,5 +3578,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "my bad",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899385",
+    "type": "public",
+    "date": "18/05 10:51",
+    "username": "Riot",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "Pina alright fine",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
