@@ -3108,5 +3108,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am finally done with school for the day",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7899337",
+    "type": "public",
+    "date": "18/05 10:36",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "We didn't have wifi today...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
