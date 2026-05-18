@@ -2528,5 +2528,25 @@
     "userClasses": "username user ",
     "message": "I stoped drinking them after my brother has a seizure from the monsters",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899279",
+    "type": "public",
+    "date": "18/05 10:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899280",
+    "type": "public",
+    "date": "18/05 10:10",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Damn",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
