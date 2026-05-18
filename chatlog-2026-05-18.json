@@ -10786,5 +10786,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "chat should I ever post a recording of me playing bass guitar?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7900111",
+    "type": "public",
+    "date": "18/05 14:15",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[sheep]",
+    "msgClasses": "chat_message "
   }
 ]
