@@ -1838,5 +1838,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Gojo glazers gotta get execute",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899210",
+    "type": "public",
+    "date": "18/05 9:26",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd25iYzJydnVmN2FyZTM4OW93YnNvYXN1eWNyenZ2NDA1ZjF1a2F5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/953e2hEMYCeVQlrGFI/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
