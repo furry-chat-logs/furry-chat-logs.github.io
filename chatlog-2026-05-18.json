@@ -8358,5 +8358,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "but not the name i want-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899866",
+    "type": "public",
+    "date": "18/05 12:33",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yeah, Asta could beat Gojo",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899867",
+    "type": "public",
+    "date": "18/05 12:33",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "just says USERNAME INVALID or sum- T^T",
+    "msgClasses": "chat_message "
   }
 ]
