@@ -18926,5 +18926,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Spookz Emojis are purchasable in /coins",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898173",
+    "type": "public",
+    "date": "17/05 21:56",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "The secret thingy",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
