@@ -17716,5 +17716,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[good]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7898052",
+    "type": "public",
+    "date": "17/05 21:26",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "There we go",
+    "msgClasses": "chat_message "
   }
 ]
