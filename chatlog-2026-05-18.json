@@ -12464,5 +12464,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Oof.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900281",
+    "type": "public",
+    "date": "18/05 15:54",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "[secret-share: 85M0Tvzn21L1tlQfGdAzxwi0K&n=39794] || Merp meep",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
