@@ -19346,5 +19346,45 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Spookz [/coins]",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7898215",
+    "type": "public",
+    "date": "17/05 22:00",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "Spookz /coins (?)",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898216",
+    "type": "public",
+    "date": "17/05 22:00",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Spookz You can buy svip, you can buy emojis in /coins , you can gamble.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898217",
+    "type": "public",
+    "date": "17/05 22:00",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Thx",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898218",
+    "type": "public",
+    "date": "17/05 22:00",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Spookz read this [link: https://pastebin.com/WHWHfTiS]",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
