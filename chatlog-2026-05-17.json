@@ -17966,5 +17966,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "That*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898077",
+    "type": "public",
+    "date": "17/05 21:43",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "JustAnAnt agreed",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
