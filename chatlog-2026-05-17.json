@@ -18586,5 +18586,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Moonishiki okay French in English",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7898139",
+    "type": "public",
+    "date": "17/05 21:52",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Any artists here i want a pfp made",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898140",
+    "type": "public",
+    "date": "17/05 21:52",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "Sharkish yesser",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
