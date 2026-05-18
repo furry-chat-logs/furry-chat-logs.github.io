@@ -11736,5 +11736,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "my finger hurts-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900208",
+    "type": "public",
+    "date": "18/05 15:27",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_0dacebbf8239.gif]",
+    "msgClasses": "chat_message "
   }
 ]
