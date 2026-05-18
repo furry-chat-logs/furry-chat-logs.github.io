@@ -22656,5 +22656,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Motorbike gundam",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898549",
+    "type": "public",
+    "date": "17/05 22:32",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I remember building a gundam at work",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
