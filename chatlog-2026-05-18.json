@@ -11866,5 +11866,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900221",
+    "type": "public",
+    "date": "18/05 15:35",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "👁️.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
