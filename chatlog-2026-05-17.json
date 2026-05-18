@@ -19656,5 +19656,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Its manny!",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898246",
+    "type": "public",
+    "date": "17/05 22:04",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I thought I typed mommy 😭",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898247",
+    "type": "public",
+    "date": "17/05 22:04",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Microscopic ass iPhone keyboard",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898248",
+    "type": "public",
+    "date": "17/05 22:04",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "[sob]",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
