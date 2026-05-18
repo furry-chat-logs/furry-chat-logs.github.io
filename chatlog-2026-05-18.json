@@ -16094,5 +16094,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "open poll",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7900644",
+    "type": "public",
+    "date": "18/05 18:12",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Currently a three-way tie...",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
