@@ -5898,5 +5898,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "mb",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899618",
+    "type": "public",
+    "date": "18/05 11:26",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "New Kid that aint no extensio-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899619",
+    "type": "public",
+    "date": "18/05 11:26",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_449d61ca6551.png]",
+    "msgClasses": "chat_message "
   }
 ]
