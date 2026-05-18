@@ -16566,5 +16566,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Moonishiki keeps talking about it fr",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7897937",
+    "type": "public",
+    "date": "17/05 20:24",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yeah",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
