@@ -12844,5 +12844,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "[secret-share: 85M0Tvzn21L1tlQfGdAzxwi0K&n=39794] || Q&A",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7900319",
+    "type": "public",
+    "date": "18/05 16:00",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Rune gets all of the golden jewlery, too.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7900320",
+    "type": "public",
+    "date": "18/05 16:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515] Dares and QnA",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
