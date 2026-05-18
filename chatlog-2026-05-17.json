@@ -20406,5 +20406,35 @@
     "userClasses": "username user ",
     "message": "[sob]",
     "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898323",
+    "type": "public",
+    "date": "17/05 22:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Or are you assuming that",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898324",
+    "type": "public",
+    "date": "17/05 22:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Check yourself.",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898325",
+    "type": "public",
+    "date": "17/05 22:13",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "JustAnAnt you started it by being so rude, dammit.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
