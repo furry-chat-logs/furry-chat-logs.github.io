@@ -23346,5 +23346,25 @@
     "userClasses": "username bgrad7 ",
     "message": "You won't find much better character development anywhere",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898621",
+    "type": "public",
+    "date": "17/05 22:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Besides BC",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898622",
+    "type": "public",
+    "date": "17/05 22:42",
+    "username": "Zvix1106",
+    "userId": "26710",
+    "userClasses": "username bgrad24 bnfont9",
+    "message": "Spookz nom",
+    "msgClasses": "chat_message "
   }
 ]
