@@ -9308,5 +9308,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Oh..",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899961",
+    "type": "public",
+    "date": "18/05 13:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Yeah time to log off how did I misspelled that",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899962",
+    "type": "public",
+    "date": "18/05 13:30",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb3ppcGZxbXYzY2h3eHUzZXZsZWQxM2U1aGlsOXl3d3RyczF2Z3lpdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ffD7lwEGQDKPw2TIdp/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
