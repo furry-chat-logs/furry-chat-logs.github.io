@@ -20276,5 +20276,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I'm gonna start drawing him like this when I'm lazy",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7898310",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "The bob",
+    "msgClasses": "chat_message bgrad24  bfont7"
+  },
+  {
+    "id": "7898311",
+    "type": "public",
+    "date": "17/05 22:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "JustAnAnt LMAO",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
