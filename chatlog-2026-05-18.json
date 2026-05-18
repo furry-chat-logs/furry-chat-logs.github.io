@@ -11436,5 +11436,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "It was already white",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900178",
+    "type": "public",
+    "date": "18/05 15:16",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Well you’ve got to firstly remove/sand down any imperfections and lay down a clean white coat and then sand that slightly to get rid of any bumps",
+    "msgClasses": "chat_message "
   }
 ]
