@@ -19856,5 +19856,25 @@
     "userClasses": "username bgrad7 ",
     "message": "That's not me bruh",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7898266",
+    "type": "public",
+    "date": "17/05 22:07",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Does anyone here make emojis for here?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7898267",
+    "type": "public",
+    "date": "17/05 22:07",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "Silly bunny",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
