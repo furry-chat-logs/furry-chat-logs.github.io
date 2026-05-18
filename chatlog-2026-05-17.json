@@ -22196,5 +22196,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] hehe",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898502",
+    "type": "public",
+    "date": "17/05 22:25",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( Nom nom nom nom  17/05 20:24 ) >.> What are you nomming.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898503",
+    "type": "public",
+    "date": "17/05 22:25",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "JustAnAnt Literally how i feel whenever someone brings up past drama",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
