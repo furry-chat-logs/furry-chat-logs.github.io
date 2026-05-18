@@ -3188,5 +3188,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNHJueDgxcDJmdDFndzc4cGNrNDhrajNwazU1OWo5bGV1ZjI1MTA1eCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fUQ4rhUZJYiQsas6WD/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899346",
+    "type": "public",
+    "date": "18/05 10:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Did I just catch a matrix reference on the gifs",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899347",
+    "type": "public",
+    "date": "18/05 10:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMnJmNndrOHIxbHphczVhZDEwcjVzbWFudG4zMGRwM2MxeHhjdHMyNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/5iWX6XFTndU0YP0Yut/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
