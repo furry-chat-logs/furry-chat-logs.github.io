@@ -2668,5 +2668,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Meep merp",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7899293",
+    "type": "public",
+    "date": "18/05 10:12",
+    "username": "Cami",
+    "userId": "8882",
+    "userClasses": "username bgrad40 bnfont7",
+    "message": "Chrislikeda what?",
+    "msgClasses": "chat_message bneon21  bfont9"
   }
 ]
