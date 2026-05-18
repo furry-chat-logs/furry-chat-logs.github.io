@@ -1068,5 +1068,25 @@
     "userClasses": "username bgrad10 bnfont6",
     "message": "Yello peeps",
     "msgClasses": "chat_message bneon2 heavyital bfont10"
+  },
+  {
+    "id": "7899127",
+    "type": "public",
+    "date": "18/05 7:48",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon15 bnfont15",
+    "message": "EVERY time im offline for longer then 3 days my name gets dragged through the mud",
+    "msgClasses": "chat_message bneon13 ital bfont12"
+  },
+  {
+    "id": "7899128",
+    "type": "public",
+    "date": "18/05 7:48",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Kami hewwo",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
