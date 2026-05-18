@@ -5058,5 +5058,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "yea stawppp😭😭😭",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899534",
+    "type": "public",
+    "date": "18/05 11:16",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Yeah, fuck this place.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7899535",
+    "type": "public",
+    "date": "18/05 11:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Pina you need to get checked twin fym",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
