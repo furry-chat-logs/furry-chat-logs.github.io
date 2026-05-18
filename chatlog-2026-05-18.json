@@ -12774,5 +12774,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Issa [devil]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7900312",
+    "type": "public",
+    "date": "18/05 15:58",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbDJrc2x2bjZzMndkMTE4bmhzcHZ0NW42aGpldnY4OGY4ZG1sb3lpOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tu5YzWenRCrQZEnGp5/giphy.gif]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
