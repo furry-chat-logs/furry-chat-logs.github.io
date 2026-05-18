@@ -5238,5 +5238,15 @@
     "userClasses": "username user ",
     "message": "yesss hahaaa!!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899552",
+    "type": "public",
+    "date": "18/05 11:18",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Albert and Einstein",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
