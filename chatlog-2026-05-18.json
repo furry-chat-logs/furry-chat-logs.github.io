@@ -738,5 +738,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Meow",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899094",
+    "type": "public",
+    "date": "18/05 3:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hunter77 wait u got svip",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899095",
+    "type": "public",
+    "date": "18/05 3:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Congratulations",
+    "msgClasses": "chat_message bneon14"
   }
 ]
