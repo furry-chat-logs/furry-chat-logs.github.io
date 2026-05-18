@@ -11296,5 +11296,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Spraypaint sucks",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900164",
+    "type": "public",
+    "date": "18/05 15:09",
+    "username": "Astro_protogen",
+    "userId": "37272",
+    "userClasses": "username user ",
+    "message": "How are you all",
+    "msgClasses": "chat_message "
   }
 ]
