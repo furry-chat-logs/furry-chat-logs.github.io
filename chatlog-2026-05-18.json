@@ -11286,5 +11286,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Well that turned out worse than I thought",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900163",
+    "type": "public",
+    "date": "18/05 15:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Spraypaint sucks",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
