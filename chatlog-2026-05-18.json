@@ -14434,5 +14434,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I'm so proud of this song",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900478",
+    "type": "public",
+    "date": "18/05 16:51",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Out for work",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900479",
+    "type": "public",
+    "date": "18/05 16:51",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Jesus 5 dms",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
