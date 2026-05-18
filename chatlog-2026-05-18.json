@@ -13814,5 +13814,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I send that usually.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900416",
+    "type": "public",
+    "date": "18/05 16:20",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Hmph. [toro]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900417",
+    "type": "public",
+    "date": "18/05 16:20",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "0G Stupendous Man well now its OURS",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
