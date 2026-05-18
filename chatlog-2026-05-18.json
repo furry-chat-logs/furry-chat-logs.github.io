@@ -7358,5 +7358,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25955_8d3c6bde17a6.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899765",
+    "type": "public",
+    "date": "18/05 12:18",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "ts is unfunny",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899766",
+    "type": "public",
+    "date": "18/05 12:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Differ? Sigh-sigh... is this going to be one of my other catch phrases now besides \"Golly\", \"Bisuits\" & \"My my\" [verysad]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
