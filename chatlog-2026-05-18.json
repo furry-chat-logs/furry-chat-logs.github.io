@@ -13734,5 +13734,45 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "wrong ping",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7900408",
+    "type": "public",
+    "date": "18/05 16:18",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Rune",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900409",
+    "type": "public",
+    "date": "18/05 16:18",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "0G Stupendous Man ty",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7900410",
+    "type": "public",
+    "date": "18/05 16:18",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Erm acshually",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7900411",
+    "type": "public",
+    "date": "18/05 16:18",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "psychoboi_mondo hm?",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
