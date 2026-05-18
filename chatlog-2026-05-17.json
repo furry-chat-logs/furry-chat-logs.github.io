@@ -18906,5 +18906,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "i drew it as a nova scotia duck tolling retriever",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7898171",
+    "type": "public",
+    "date": "17/05 21:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[runefaust] [runefaust] [runefaust]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7898172",
+    "type": "public",
+    "date": "17/05 21:56",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Spookz Emojis are purchasable in /coins",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
