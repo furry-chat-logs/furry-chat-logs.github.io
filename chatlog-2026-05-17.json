@@ -23016,5 +23016,25 @@
     "userClasses": "username user ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37263_667e7b842268.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898586",
+    "type": "public",
+    "date": "17/05 22:37",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] died",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7898587",
+    "type": "public",
+    "date": "17/05 22:37",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "It's almost 11 pm for me 😭",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
