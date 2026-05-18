@@ -10686,5 +10686,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "Frogmin lwk called moonishiki ugly bruv",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900100",
+    "type": "public",
+    "date": "18/05 14:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Moonishiki you are not ugly??",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
