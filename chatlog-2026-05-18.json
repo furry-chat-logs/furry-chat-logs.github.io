@@ -15524,5 +15524,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Guys...",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900587",
+    "type": "public",
+    "date": "18/05 17:22",
+    "username": "psychoboi_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Porphyrophobia i knew it [lorax]",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7900588",
+    "type": "public",
+    "date": "18/05 17:22",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_aeea65db0663.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900589",
+    "type": "public",
+    "date": "18/05 17:22",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "YUHH",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
