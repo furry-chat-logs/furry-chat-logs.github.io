@@ -5328,5 +5328,15 @@
     "userClasses": "username user ",
     "message": "dam",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899561",
+    "type": "public",
+    "date": "18/05 11:18",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Does everyone act the same on every site 💔",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
