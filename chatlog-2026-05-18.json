@@ -11336,5 +11336,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I wanted to try making some Lo-Fi music",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900168",
+    "type": "public",
+    "date": "18/05 15:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user6405_2eff5933275b.mp3 | Lo_Fi_Sample.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900169",
+    "type": "public",
+    "date": "18/05 15:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "prEtzeL I tried to customise a phone",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
