@@ -6798,5 +6798,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "*eats popcorn*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899709",
+    "type": "public",
+    "date": "18/05 11:59",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_100af2cb0516.gif]",
+    "msgClasses": "chat_message "
   }
 ]
