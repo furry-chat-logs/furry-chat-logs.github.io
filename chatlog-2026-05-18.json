@@ -16464,5 +16464,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "*what",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7900681",
+    "type": "public",
+    "date": "18/05 18:21",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "i dont like your peaches",
+    "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7900682",
+    "type": "public",
+    "date": "18/05 18:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Pineapples [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7900683",
+    "type": "public",
+    "date": "18/05 18:21",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "they are full of stones",
+    "msgClasses": "chat_message bcolor2  bfont10"
   }
 ]
