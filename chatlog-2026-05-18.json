@@ -5128,5 +5128,45 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Strange that you take pride in being mentally handicapped.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7899541",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username user ",
+    "message": "uh, do i count if im therian and love furries T^T",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899542",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid nah im chilling, you needa get checked, cus theres no way you fall for ragebait that easy",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899543",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Jaxxie joined at an interesting time",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7899544",
+    "type": "public",
+    "date": "18/05 11:17",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "thats not normal",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
