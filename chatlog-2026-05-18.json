@@ -708,5 +708,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Real",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899091",
+    "type": "public",
+    "date": "18/05 3:17",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Chat is dead",
+    "msgClasses": "chat_message "
   }
 ]
