@@ -12236,5 +12236,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Obviously",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900258",
+    "type": "public",
+    "date": "18/05 15:50",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "These noise cancellating earbuds is so peak, haven't heard a peep for the entire day ❤️‍🩹❤️‍🩹",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7900259",
+    "type": "public",
+    "date": "18/05 15:50",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "They changed the login page",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
