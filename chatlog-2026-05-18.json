@@ -12426,5 +12426,23 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[secret-share: lY0M42JNtzgxEU0eukSW1FR5z&n=47085] Go to town.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900277",
+    "type": "system",
+    "date": "18/05 15:53",
+    "username": "System",
+    "userId": null,
+    "message": "Jaxxie has been muted"
+  },
+  {
+    "id": "7900278",
+    "type": "public",
+    "date": "18/05 15:53",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "This post has been marked as spam",
+    "msgClasses": "chat_message "
   }
 ]
