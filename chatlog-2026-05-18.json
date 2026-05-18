@@ -8308,5 +8308,15 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "?",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7899861",
+    "type": "public",
+    "date": "18/05 12:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Jaxxie np",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
