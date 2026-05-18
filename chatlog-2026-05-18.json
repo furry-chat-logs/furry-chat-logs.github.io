@@ -11426,5 +11426,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Smiley no.",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900177",
+    "type": "public",
+    "date": "18/05 15:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It was already white",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
