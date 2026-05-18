@@ -15654,5 +15654,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Before it even started",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900600",
+    "type": "public",
+    "date": "18/05 17:43",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "oof",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
