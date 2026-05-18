@@ -15826,5 +15826,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "NeptuneLynxx lol nice",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7897859",
+    "type": "public",
+    "date": "17/05 19:16",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbzN0cnpzb3U4bHVpZzUxY3VkNjRxMmNidGk0Z2R5c3ZoNGs5d2g0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K72cKlnwNPUHvXxoNt/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
