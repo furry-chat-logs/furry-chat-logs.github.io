@@ -9128,5 +9128,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Issa I said I wiped you from existance the other day but then the second after, my wifi went out",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7899943",
+    "type": "public",
+    "date": "18/05 13:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa [verysad]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899944",
+    "type": "public",
+    "date": "18/05 13:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "NOOO",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
