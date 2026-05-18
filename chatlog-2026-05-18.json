@@ -8318,5 +8318,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Jaxxie np",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7899862",
+    "type": "public",
+    "date": "18/05 12:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZG9pNHQ3cnNsNDNkZ2dydzBqcnB0YzE2cjkyZW9ha29rOTNyYzNuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ltXRHWVSNDKNP63uNF/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
