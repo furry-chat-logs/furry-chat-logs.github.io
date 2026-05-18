@@ -16056,5 +16056,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Wake up :3",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7897882",
+    "type": "public",
+    "date": "17/05 20:00",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I'm asleep.",
+    "msgClasses": "chat_message ital"
   }
 ]
