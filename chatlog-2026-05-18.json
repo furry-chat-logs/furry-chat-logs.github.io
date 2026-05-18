@@ -14464,5 +14464,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "JustAnAnt a spear is good, because it has range.",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7900481",
+    "type": "public",
+    "date": "18/05 16:52",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Mojito yesss",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
