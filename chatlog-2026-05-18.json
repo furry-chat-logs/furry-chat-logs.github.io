@@ -14834,5 +14834,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Guys I've been left on seen",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7900518",
+    "type": "public",
+    "date": "18/05 17:00",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Porphyro",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7900519",
+    "type": "public",
+    "date": "18/05 17:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Tap chins",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
