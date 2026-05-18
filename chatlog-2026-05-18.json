@@ -10936,5 +10936,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "[cry]",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7900126",
+    "type": "public",
+    "date": "18/05 14:28",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "LMAO",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
