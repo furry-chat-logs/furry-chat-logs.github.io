@@ -618,5 +618,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Tsk tsk... [nerd]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899082",
+    "type": "public",
+    "date": "18/05 1:33",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
