@@ -5618,5 +5618,15 @@
     "userClasses": "username user ",
     "message": "same",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899590",
+    "type": "public",
+    "date": "18/05 11:22",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "SoraTheMikuFan i hate homeworking",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
