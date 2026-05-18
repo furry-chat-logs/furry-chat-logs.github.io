@@ -17246,5 +17246,25 @@
     "userClasses": "username bcolor16 bnfont9",
     "message": "It looks like a butt",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898005",
+    "type": "public",
+    "date": "17/05 21:19",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "lol",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7898006",
+    "type": "public",
+    "date": "17/05 21:19",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Hunter77  LMAO thank you.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
