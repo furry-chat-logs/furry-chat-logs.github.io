@@ -5888,5 +5888,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "real",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899617",
+    "type": "public",
+    "date": "18/05 11:26",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "mb",
+    "msgClasses": "chat_message bneon14"
   }
 ]
