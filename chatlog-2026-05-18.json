@@ -5838,5 +5838,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25955_b1252405e21e.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899612",
+    "type": "public",
+    "date": "18/05 11:25",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Is it like a chrome extension or some shi",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
