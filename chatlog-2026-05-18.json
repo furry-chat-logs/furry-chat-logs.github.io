@@ -16424,5 +16424,45 @@
     "userClasses": "username bcolor9 ",
     "message": "ohhh",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7900677",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Porphyrophobia hat color is a carrot",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7900678",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Strawberries, oranges, and bananas",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7900679",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "I like pineapples",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7900680",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "*what",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
