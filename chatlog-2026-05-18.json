@@ -7568,5 +7568,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899786",
+    "type": "public",
+    "date": "18/05 12:20",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Pina lmaoooo",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7899787",
+    "type": "public",
+    "date": "18/05 12:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "What kind of body built is that",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
