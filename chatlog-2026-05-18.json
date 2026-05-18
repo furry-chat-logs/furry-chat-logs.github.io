@@ -16324,5 +16324,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "the profile pmo",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7900667",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "I Like Dragon fruit",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7900668",
+    "type": "public",
+    "date": "18/05 18:20",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "٭٭ i dont like them they give me headaches and make my mouth swell",
+    "msgClasses": "chat_message bcolor2  bfont10"
   }
 ]
