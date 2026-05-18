@@ -9758,5 +9758,15 @@
     "userClasses": "username bgrad7 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_35500a4b8125.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900007",
+    "type": "public",
+    "date": "18/05 13:53",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I am in the youth fire brigade",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
