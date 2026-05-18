@@ -17226,5 +17226,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "This is my fat deformed owl drawing.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898003",
+    "type": "public",
+    "date": "17/05 21:18",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Hello also fire drawing",
+    "msgClasses": "chat_message "
   }
 ]
