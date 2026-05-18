@@ -4308,5 +4308,45 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Jesus loves you and so do I",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899459",
+    "type": "public",
+    "date": "18/05 11:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7899460",
+    "type": "public",
+    "date": "18/05 11:05",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Porphyrophobia | Serverside executors still aren't bannable, I think. The dev just use infected models which allow these things to happen.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7899461",
+    "type": "public",
+    "date": "18/05 11:05",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "be careful out in this world twin",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7899462",
+    "type": "public",
+    "date": "18/05 11:05",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "its pretty cruel",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
