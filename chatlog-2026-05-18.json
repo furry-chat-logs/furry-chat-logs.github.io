@@ -718,5 +718,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Chat is dead",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7899092",
+    "type": "public",
+    "date": "18/05 3:18",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "yup",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
