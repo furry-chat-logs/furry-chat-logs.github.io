@@ -23656,5 +23656,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "There will be a bit of lag in a second, I think.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7898653",
+    "type": "public",
+    "date": "17/05 22:45",
+    "username": "Spookz",
+    "userId": "37263",
+    "userClasses": "username user ",
+    "message": "I genuinely wonder if it's because of the people she dates or she just does it",
+    "msgClasses": "chat_message bgrad24  bfont7"
   }
 ]
