@@ -16274,5 +16274,35 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "Y tho",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7900662",
+    "type": "public",
+    "date": "18/05 18:19",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": ":3 18/05 18:17 guys.... get em",
+    "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7900663",
+    "type": "public",
+    "date": "18/05 18:19",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Apple ok",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7900664",
+    "type": "public",
+    "date": "18/05 18:19",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "how can you hateapples...😞",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
