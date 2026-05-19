@@ -25628,5 +25628,15 @@
     "userClasses": "username bgrad22 bnfont9",
     "message": "Sonic The Hedgehog thank you",
     "msgClasses": "chat_message bneon3 ital bfont4"
+  },
+  {
+    "id": "7904024",
+    "type": "public",
+    "date": "19/05 18:11",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaW5ka3V6YnVzZXR5YmExZDJqanVpeXpuNmJxd2JkdG1rYWV3cmkwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ozCmIy5qjkDY30A/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
