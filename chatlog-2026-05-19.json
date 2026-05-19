@@ -3878,5 +3878,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Coldzenith you in beckrooms?",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901802",
+    "type": "public",
+    "date": "19/05 9:31",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "Medokin I'm thinking about it now, maybe 😭",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
