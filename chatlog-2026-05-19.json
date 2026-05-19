@@ -13878,5 +13878,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "vampires are weak to vervain",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902803",
+    "type": "public",
+    "date": "19/05 13:28",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Spectre_protogen did i ask?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902804",
+    "type": "public",
+    "date": "19/05 13:28",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "yes",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902805",
+    "type": "public",
+    "date": "19/05 13:28",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "yes i did",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
