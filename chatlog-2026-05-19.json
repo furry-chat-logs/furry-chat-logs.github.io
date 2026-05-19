@@ -11478,5 +11478,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": ":/",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7902563",
+    "type": "public",
+    "date": "19/05 12:54",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "SoraTheMikuFan real",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902564",
+    "type": "public",
+    "date": "19/05 12:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hi",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
