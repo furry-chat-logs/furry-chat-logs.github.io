@@ -2448,5 +2448,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh it's actually not that baaahh-! *rushes to the nearest bathroom*",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7901651",
+    "type": "public",
+    "date": "19/05 5:51",
+    "username": "Evil Rat",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Not Evil Rat",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
