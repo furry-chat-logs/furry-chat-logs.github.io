@@ -21714,5 +21714,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] >:3",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901210",
+    "type": "public",
+    "date": "18/05 22:44",
+    "username": "Kami",
+    "userId": "11760",
+    "userClasses": "username bgrad10 bnfont6",
+    "message": "Hiya",
+    "msgClasses": "chat_message bneon2 heavyital bfont10"
   }
 ]
