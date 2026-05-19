@@ -1888,5 +1888,15 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "Hello",
     "msgClasses": "chat_message bgrad29 ital bfont1"
+  },
+  {
+    "id": "7901595",
+    "type": "public",
+    "date": "19/05 1:40",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Hello 00 Amēthyst",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
