@@ -6818,5 +6818,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "vexx nobody, im js playing bro",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902096",
+    "type": "public",
+    "date": "19/05 11:32",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmczljMXUxeW4za2pmNTYyOHJ2dGJmcHJ0Z2k2cnl6cWg1YmdpbzljaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K8bd1MNfIXTFGARWcT/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
