@@ -19328,5 +19328,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_14ea4986d23e.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903350",
+    "type": "public",
+    "date": "19/05 15:44",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnE1NjJreWJ4OWlmbGVsMnl1bDlrNnVxYm5pNnVkbTNjZ2p3em5ocSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jKm9SA6C6KrIY/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
