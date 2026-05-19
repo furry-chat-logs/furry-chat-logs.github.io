@@ -508,5 +508,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "wait",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901456",
+    "type": "public",
+    "date": "19/05 0:26",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Who wants to get spoiled",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
