@@ -18704,5 +18704,15 @@
     "userClasses": "username user ",
     "message": "٭٭٭ happy independence day",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900905",
+    "type": "public",
+    "date": "18/05 21:05",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "LMAO",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
