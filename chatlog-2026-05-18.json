@@ -16964,5 +16964,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "\"a young Jedi by the name of Darth Vader.. a pupil of mine... He was seduced by the dark side of the force.. he betrayed and murdered your father\"",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7900731",
+    "type": "public",
+    "date": "18/05 19:46",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "🇨 🇴 🇺 🇬 🇭",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
