@@ -6048,5 +6048,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25955_1c933080c048.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902019",
+    "type": "public",
+    "date": "19/05 11:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "It's cropped, sooo..",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7902020",
+    "type": "public",
+    "date": "19/05 11:18",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Pina  oh gosh O_O",
+    "msgClasses": "chat_message "
   }
 ]
