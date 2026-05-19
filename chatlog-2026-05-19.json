@@ -7118,5 +7118,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Sonic The Hedgehog idk why thats funny",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902126",
+    "type": "public",
+    "date": "19/05 11:37",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "vexx Nih howdy my other american",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902127",
+    "type": "public",
+    "date": "19/05 11:37",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_7ea75df30a0c.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902128",
+    "type": "public",
+    "date": "19/05 11:37",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "COD meme for yall",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
