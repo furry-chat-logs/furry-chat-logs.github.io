@@ -18774,5 +18774,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Heh heh",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900912",
+    "type": "public",
+    "date": "18/05 21:15",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Fih",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
