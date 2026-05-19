@@ -7308,5 +7308,65 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "this is real",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902145",
+    "type": "public",
+    "date": "19/05 11:39",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "0G Stupendous Man so realll",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902146",
+    "type": "public",
+    "date": "19/05 11:39",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "0G Stupendous Man SO FUCKING REALLL",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902147",
+    "type": "public",
+    "date": "19/05 11:39",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_b99ba8509e29.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902148",
+    "type": "public",
+    "date": "19/05 11:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7902149",
+    "type": "public",
+    "date": "19/05 11:39",
+    "username": "vexx",
+    "userId": "37284",
+    "userClasses": "username user ",
+    "message": "Pina oh shi-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902150",
+    "type": "public",
+    "date": "19/05 11:39",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Sonic The Hedgehog yup",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
