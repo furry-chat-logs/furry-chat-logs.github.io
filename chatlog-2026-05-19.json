@@ -11628,5 +11628,65 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "Am a lion",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902578",
+    "type": "public",
+    "date": "19/05 13:00",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "New Kid h",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902579",
+    "type": "public",
+    "date": "19/05 13:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Bro",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902580",
+    "type": "public",
+    "date": "19/05 13:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I need a new bus",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902581",
+    "type": "public",
+    "date": "19/05 13:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "٭٭ i",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902582",
+    "type": "public",
+    "date": "19/05 13:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Some dude on my bus threw a vib in the bus",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902583",
+    "type": "public",
+    "date": "19/05 13:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "DEADASS",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
