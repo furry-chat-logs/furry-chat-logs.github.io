@@ -4928,5 +4928,35 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "polybuzz?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901907",
+    "type": "public",
+    "date": "19/05 10:15",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "is that the ai chat-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901908",
+    "type": "public",
+    "date": "19/05 10:15",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "okay tyyyyy!!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901909",
+    "type": "public",
+    "date": "19/05 10:16",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Jaxxie yeah. always happy to help",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
