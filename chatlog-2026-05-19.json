@@ -22468,5 +22468,45 @@
     "userClasses": "username bgrad7 ",
     "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903670",
+    "type": "public",
+    "date": "19/05 17:15",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "im not weird i just came back bruh....",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7903671",
+    "type": "public",
+    "date": "19/05 17:16",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNGZna2Q3aXRncnhydmh2NjMxdmtpNzZlZ3cxd2NsNmN3bmh4ZWk0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MVoX99cLXXU0gq7QuG/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903672",
+    "type": "public",
+    "date": "19/05 17:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnE1NjJreWJ4OWlmbGVsMnl1bDlrNnVxYm5pNnVkbTNjZ2p3em5ocSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wVsFAFVbj7LXNi1emc/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903674",
+    "type": "public",
+    "date": "19/05 17:16",
+    "username": "TomuraShigarakiLOV",
+    "userId": "37289",
+    "userClasses": "username bcolor1 ",
+    "message": "I'm probably getting a fursuit head base for my 17th birthday coming up",
+    "msgClasses": "chat_message "
   }
 ]
