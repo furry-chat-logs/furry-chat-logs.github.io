@@ -23568,5 +23568,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Why is he still trying to be relevant 🫩",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903783",
+    "type": "public",
+    "date": "19/05 17:37",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Hm?",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7903784",
+    "type": "public",
+    "date": "19/05 17:37",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_05fba7c9181a.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903785",
+    "type": "public",
+    "date": "19/05 17:38",
+    "username": "silence",
+    "userId": "27040",
+    "userClasses": "username bgrad22 bnfont9",
+    "message": "certified larper boy",
+    "msgClasses": "chat_message bneon3 ital bfont4"
   }
 ]
