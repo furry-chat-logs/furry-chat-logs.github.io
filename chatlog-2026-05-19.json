@@ -16248,5 +16248,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "PuRoUwU oh im staying",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7903040",
+    "type": "public",
+    "date": "19/05 14:09",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Oh u said by to someone else then okay",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903041",
+    "type": "public",
+    "date": "19/05 14:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hi",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7903042",
+    "type": "public",
+    "date": "19/05 14:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It ok Pina rlly I just love this place so much",
+    "msgClasses": "chat_message bneon14"
   }
 ]
