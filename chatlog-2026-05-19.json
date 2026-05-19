@@ -1728,5 +1728,55 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "im finding everything today",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901579",
+    "type": "public",
+    "date": "19/05 1:11",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i found my digital camera too",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901580",
+    "type": "public",
+    "date": "19/05 1:11",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "it also prints",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901581",
+    "type": "public",
+    "date": "19/05 1:11",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWowZThjOGN0OHExeHA3eWZqZXY0bnl6bjM1OHl0ZXhlc2d3NzM4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/agI2K5ukEJfv704Ct0/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901582",
+    "type": "public",
+    "date": "19/05 1:11",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Wtfissachip",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901583",
+    "type": "public",
+    "date": "19/05 1:11",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "٭٭٭ zamn",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
