@@ -22318,5 +22318,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "TomuraShigarakiLOV Welcome.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903654",
+    "type": "public",
+    "date": "19/05 17:09",
+    "username": "TomuraShigarakiLOV",
+    "userId": "37289",
+    "userClasses": "username bcolor1 ",
+    "message": ":)",
+    "msgClasses": "chat_message "
   }
 ]
