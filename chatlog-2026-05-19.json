@@ -3668,5 +3668,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Coldzenith go back to sleep now >:(",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901781",
+    "type": "public",
+    "date": "19/05 9:07",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Coldzenith GM!!",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
