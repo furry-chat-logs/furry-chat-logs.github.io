@@ -16698,5 +16698,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "im getting them too",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7903085",
+    "type": "public",
+    "date": "19/05 14:20",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "plz stop",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7903086",
+    "type": "public",
+    "date": "19/05 14:20",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "19/05 14:19 dms fr",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
