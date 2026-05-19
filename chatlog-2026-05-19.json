@@ -568,5 +568,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmejJyNXFtbjBzamE4M3drbTExaHVwc3Rmam9jY3didmltZDBieGNyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1dUNCWkGNAwdrRBkOk/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901462",
+    "type": "public",
+    "date": "19/05 0:27",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_f93f8b8dbb5e.png]",
+    "msgClasses": "chat_message "
   }
 ]
