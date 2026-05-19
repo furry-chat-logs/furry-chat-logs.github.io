@@ -26808,5 +26808,45 @@
     "userClasses": "username user ",
     "message": "Hip hip hooray",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904243",
+    "type": "public",
+    "date": "19/05 18:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmanA3dDY0MHI3cmdzNzIxdG5wNXB1ZTNuNjcya3NicHB0Njlvcmc4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gof0owlN6tuGjfySXd/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904244",
+    "type": "public",
+    "date": "19/05 18:38",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "The CT-5 V Blackwing",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904245",
+    "type": "public",
+    "date": "19/05 18:38",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "If I could go back in time and be 13 again, I'd still choose to be assaulted instead of act like this.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7904249",
+    "type": "public",
+    "date": "19/05 18:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Insidiae This",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
