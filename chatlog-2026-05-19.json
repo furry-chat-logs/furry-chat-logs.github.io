@@ -18808,5 +18808,35 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user11705_fef22afe5e08.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903298",
+    "type": "public",
+    "date": "19/05 15:32",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Who knows who this is",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903299",
+    "type": "public",
+    "date": "19/05 15:32",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Jumped in happiness",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903300",
+    "type": "public",
+    "date": "19/05 15:32",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_3226c7b4c681.gif]",
+    "msgClasses": "chat_message "
   }
 ]
