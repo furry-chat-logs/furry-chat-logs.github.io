@@ -6958,5 +6958,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "vexx always happy to help!",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902110",
+    "type": "public",
+    "date": "19/05 11:35",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_ae0244cf50b3.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
