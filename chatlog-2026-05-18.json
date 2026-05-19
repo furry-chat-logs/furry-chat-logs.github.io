@@ -18474,5 +18474,45 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "dont chew on kleenex",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7900882",
+    "type": "public",
+    "date": "18/05 20:59",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "just a fyi",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7900883",
+    "type": "public",
+    "date": "18/05 21:00",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "tastes like lotion </3",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7900884",
+    "type": "public",
+    "date": "18/05 21:00",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "..why did you chew on Kleenex?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900885",
+    "type": "public",
+    "date": "18/05 21:00",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "idk..",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
