@@ -2718,5 +2718,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Ive heard THAT voice before!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901678",
+    "type": "public",
+    "date": "19/05 7:20",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "That's cool",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
