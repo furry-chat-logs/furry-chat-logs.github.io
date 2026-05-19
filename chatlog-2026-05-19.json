@@ -4878,5 +4878,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "yess twin",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901902",
+    "type": "public",
+    "date": "19/05 10:14",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_bdbf59dea286.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
