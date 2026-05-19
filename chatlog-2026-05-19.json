@@ -4668,5 +4668,15 @@
     "userClasses": "username bneon19 bnfont1",
     "message": "ya",
     "msgClasses": "chat_message bneon19 heavyital bfont1"
+  },
+  {
+    "id": "7901881",
+    "type": "public",
+    "date": "19/05 10:05",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "heey",
+    "msgClasses": "chat_message "
   }
 ]
