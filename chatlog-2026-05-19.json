@@ -4258,5 +4258,35 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "Nu Protos or Dragon or Snakey?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7901840",
+    "type": "public",
+    "date": "19/05 9:48",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "nah because i drew those all in one day",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7901841",
+    "type": "public",
+    "date": "19/05 9:48",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "Lmao i logged into my alt accidentally",
+    "msgClasses": "chat_message bneon19  bfont3"
+  },
+  {
+    "id": "7901842",
+    "type": "public",
+    "date": "19/05 9:48",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Dragon Sticker would be cool.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
