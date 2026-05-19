@@ -13108,5 +13108,45 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "I'm speaking from personal experience btw",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7902726",
+    "type": "public",
+    "date": "19/05 13:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_61faca57c4f2.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902727",
+    "type": "public",
+    "date": "19/05 13:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Peak comfort",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902728",
+    "type": "public",
+    "date": "19/05 13:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "New Kid is that an ac",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902729",
+    "type": "public",
+    "date": "19/05 13:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Actually lemme move some pillows around",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
