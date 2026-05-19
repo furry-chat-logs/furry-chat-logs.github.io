@@ -1988,5 +1988,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "xd",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7901605",
+    "type": "public",
+    "date": "19/05 3:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Chat is so dead",
+    "msgClasses": "chat_message bneon14"
   }
 ]
