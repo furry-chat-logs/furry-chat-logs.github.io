@@ -19038,5 +19038,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hamzurger",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903321",
+    "type": "public",
+    "date": "19/05 15:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "O yea",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7903322",
+    "type": "public",
+    "date": "19/05 15:34",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Its important to respect the rules of the community",
+    "msgClasses": "chat_message "
   }
 ]
