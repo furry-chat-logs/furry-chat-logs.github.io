@@ -4958,5 +4958,45 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Jaxxie yeah. always happy to help",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7901910",
+    "type": "public",
+    "date": "19/05 10:16",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "How do i delete my history",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901911",
+    "type": "public",
+    "date": "19/05 10:16",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "do u have chromebook",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901912",
+    "type": "public",
+    "date": "19/05 10:16",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Medokin search history?",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7901913",
+    "type": "public",
+    "date": "19/05 10:17",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Spectre_protogen yah",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
