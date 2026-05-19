@@ -12858,5 +12858,45 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user28201_3c1234150c40.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902701",
+    "type": "public",
+    "date": "19/05 13:13",
+    "username": "King_da_Furry",
+    "userId": "28201",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Im cooked",
+    "msgClasses": "chat_message bneon19 heavybold bfont7"
+  },
+  {
+    "id": "7902702",
+    "type": "public",
+    "date": "19/05 13:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_11d23fc7c538.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902703",
+    "type": "public",
+    "date": "19/05 13:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "LMFAO",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902704",
+    "type": "public",
+    "date": "19/05 13:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "😍😍",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
