@@ -7208,5 +7208,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Spectre_protogen lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7902135",
+    "type": "public",
+    "date": "19/05 11:37",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNHc0ZmdjMW5mMGJqc2pybmN3bWRzMHlteGsydXF4aDc2ZjJpbDk3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11upujZDZXwSMU/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902136",
+    "type": "public",
+    "date": "19/05 11:37",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Pina same.",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
