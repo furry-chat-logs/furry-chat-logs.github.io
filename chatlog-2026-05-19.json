@@ -22538,5 +22538,65 @@
     "userClasses": "username bgrad7 ",
     "message": "This is so fire",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903678",
+    "type": "public",
+    "date": "19/05 17:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "ZephyrTheFlooferBoi 👁️",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903679",
+    "type": "public",
+    "date": "19/05 17:18",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "open poll",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903680",
+    "type": "public",
+    "date": "19/05 17:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHdqZzc4cWkxNno4Z2IxMmtia200NDhqampoZGpsaDIweTg0emNxYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOuVjiA6qvLGB3NusU/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903681",
+    "type": "public",
+    "date": "19/05 17:18",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWRxeDBhdTFrNmZrd2Iwa3hvcWg3ZmJobnlhcW5mYnMxajR3aDZvcCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tXL4FHPSnVJ0A/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903682",
+    "type": "public",
+    "date": "19/05 17:18",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Chat. Can i get 1k?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903683",
+    "type": "public",
+    "date": "19/05 17:18",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Gotya",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
