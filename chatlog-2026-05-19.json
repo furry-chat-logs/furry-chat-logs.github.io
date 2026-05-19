@@ -24438,5 +24438,75 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Nugget damn.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903895",
+    "type": "public",
+    "date": "19/05 17:54",
+    "username": "AJ_THEBAT",
+    "userId": "37290",
+    "userClasses": "username user ",
+    "message": "I stubbed my toe",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903896",
+    "type": "public",
+    "date": "19/05 17:55",
+    "username": "AJ_THEBAT",
+    "userId": "37290",
+    "userClasses": "username user ",
+    "message": "Curse you, you darn wall",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903897",
+    "type": "public",
+    "date": "19/05 17:55",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "YES",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7903898",
+    "type": "public",
+    "date": "19/05 17:55",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "IT IS I!!",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7903899",
+    "type": "public",
+    "date": "19/05 17:55",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "The EVIL NUGGET",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7903900",
+    "type": "public",
+    "date": "19/05 17:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "gasp",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903901",
+    "type": "public",
+    "date": "19/05 17:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "NOOO",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
