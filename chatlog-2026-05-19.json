@@ -2688,5 +2688,15 @@
     "userClasses": "username bgrad7 ",
     "message": "The scream LMFAO",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901675",
+    "type": "public",
+    "date": "19/05 7:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "bruh that was crazy.",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
