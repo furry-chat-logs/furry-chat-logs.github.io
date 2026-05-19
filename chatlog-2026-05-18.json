@@ -18414,5 +18414,35 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "it gud",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900876",
+    "type": "public",
+    "date": "18/05 20:57",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Paint better",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900877",
+    "type": "public",
+    "date": "18/05 20:57",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Comes in more colors",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900878",
+    "type": "public",
+    "date": "18/05 20:57",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "but theres more salt water than paint",
+    "msgClasses": "chat_message "
   }
 ]
