@@ -2928,5 +2928,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki leon is that you?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901707",
+    "type": "public",
+    "date": "19/05 8:42",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "say a one liner :D",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
