@@ -16904,5 +16904,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Peak!!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7900725",
+    "type": "public",
+    "date": "18/05 19:25",
+    "username": "Evil Rat",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "[swigglerattle]",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
