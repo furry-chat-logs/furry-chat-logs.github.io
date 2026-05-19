@@ -5188,5 +5188,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I'm sick",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901933",
+    "type": "public",
+    "date": "19/05 10:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "The rain here will lead you to tons of tornadoes, hurricanes, every natural disaster in the book [verysad]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
