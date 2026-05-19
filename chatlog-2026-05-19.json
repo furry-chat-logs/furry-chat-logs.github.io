@@ -3748,5 +3748,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Of what animal",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901789",
+    "type": "public",
+    "date": "19/05 9:09",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki anything",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
