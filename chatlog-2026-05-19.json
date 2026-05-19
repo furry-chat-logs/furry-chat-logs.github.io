@@ -2638,5 +2638,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "He bit me [angry]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901670",
+    "type": "public",
+    "date": "19/05 7:08",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Chat the Splitgate devs are making the Titanfall 3 we never got",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
