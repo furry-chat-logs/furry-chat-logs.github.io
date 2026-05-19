@@ -23594,5 +23594,15 @@
     "userClasses": "username user ",
     "message": "They'll melt off but sure",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901400",
+    "type": "public",
+    "date": "18/05 23:48",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Alrighty then",
+    "msgClasses": "chat_message "
   }
 ]
