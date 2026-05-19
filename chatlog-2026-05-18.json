@@ -23574,5 +23574,15 @@
     "userClasses": "username user ",
     "message": "Possibly blinding",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901398",
+    "type": "public",
+    "date": "18/05 23:47",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Should i bring sunglasses?",
+    "msgClasses": "chat_message "
   }
 ]
