@@ -9538,5 +9538,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I didn't even say anythingg",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902368",
+    "type": "public",
+    "date": "19/05 12:03",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "yalls shuddup im in CLASS",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902369",
+    "type": "public",
+    "date": "19/05 12:03",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_d61cfa3b8411.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
