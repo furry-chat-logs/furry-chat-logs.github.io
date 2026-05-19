@@ -22114,5 +22114,35 @@
     "userClasses": "username user ",
     "message": "Can we not talk about a cool rock you found or something",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901251",
+    "type": "public",
+    "date": "18/05 23:12",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Oo wait me and my cousin found a dinoaur egg at this old house i just moved into",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901252",
+    "type": "public",
+    "date": "18/05 23:12",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "See that's interesting",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901253",
+    "type": "public",
+    "date": "18/05 23:12",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Its a fossil now but still cool",
+    "msgClasses": "chat_message "
   }
 ]
