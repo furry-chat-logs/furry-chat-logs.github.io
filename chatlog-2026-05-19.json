@@ -16928,5 +16928,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( Smiley can I see you smile 19/05 12:25 ) :]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903108",
+    "type": "public",
+    "date": "19/05 14:30",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "🧑‍🦯",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
