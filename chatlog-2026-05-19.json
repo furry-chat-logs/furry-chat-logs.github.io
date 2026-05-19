@@ -1448,5 +1448,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "dont say kid Amogus backwards",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901551",
+    "type": "public",
+    "date": "19/05 0:53",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "hotel",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
