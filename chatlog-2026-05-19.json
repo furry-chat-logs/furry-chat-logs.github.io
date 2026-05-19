@@ -228,5 +228,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcmlpcTNxN3NyOGZoNWRhcmF1aWZtY2toNWVyN3ZucWw2MnFvMG56diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKJSRY2OgYx2m6R4oA/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7901428",
+    "type": "public",
+    "date": "19/05 0:20",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "IS THAT THE GUARDIAN?",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
