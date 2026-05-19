@@ -25888,5 +25888,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Lwk shopping",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7904070",
+    "type": "public",
+    "date": "19/05 18:19",
+    "username": "DustyKai",
+    "userId": "37293",
+    "userClasses": "username user ",
+    "message": "huh",
+    "msgClasses": "chat_message "
   }
 ]
