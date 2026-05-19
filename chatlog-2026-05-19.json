@@ -8238,5 +8238,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "a clanker looking at clankers",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902238",
+    "type": "public",
+    "date": "19/05 11:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGt2Z2dtYTh0Nmc5b2dlMDJqcGxhYm4zbzdkenAydWpvOHB2ejVuaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2kJMzPFUD3Vx6/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
