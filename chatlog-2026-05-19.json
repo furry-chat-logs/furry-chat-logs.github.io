@@ -5258,5 +5258,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "No",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901940",
+    "type": "public",
+    "date": "19/05 10:39",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I m eating water melonen",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
