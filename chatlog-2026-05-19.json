@@ -3518,5 +3518,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Maybe 6",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901766",
+    "type": "public",
+    "date": "19/05 9:04",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "I keep having werid ass dreams .",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7901767",
+    "type": "public",
+    "date": "19/05 9:04",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki no joke right?...👁",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901768",
+    "type": "public",
+    "date": "19/05 9:04",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Num Little Bug same",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
