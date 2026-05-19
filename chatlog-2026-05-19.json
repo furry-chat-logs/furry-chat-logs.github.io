@@ -1968,5 +1968,15 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "Lol",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7901603",
+    "type": "public",
+    "date": "19/05 2:45",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Them if we finally made an alliance",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
