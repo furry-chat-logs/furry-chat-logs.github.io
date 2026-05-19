@@ -4138,5 +4138,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "i just miss my partner",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7901828",
+    "type": "public",
+    "date": "19/05 9:46",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "i go to the zoo this Friday for a school senior trip :o",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7901829",
+    "type": "public",
+    "date": "19/05 9:46",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "That cool",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
