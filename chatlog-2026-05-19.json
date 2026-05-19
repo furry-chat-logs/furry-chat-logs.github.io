@@ -18768,5 +18768,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Is that the great, fabulous, elegant, flaunting, classy, majestic, beloved, luxurious, adventurous man who goes by the name of Issa?",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903294",
+    "type": "public",
+    "date": "19/05 15:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903295",
+    "type": "public",
+    "date": "19/05 15:32",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [heu]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903296",
+    "type": "public",
+    "date": "19/05 15:32",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903297",
+    "type": "public",
+    "date": "19/05 15:32",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user11705_fef22afe5e08.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
