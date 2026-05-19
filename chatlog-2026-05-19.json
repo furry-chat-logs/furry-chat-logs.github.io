@@ -5538,5 +5538,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "oop-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901968",
+    "type": "public",
+    "date": "19/05 10:58",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Coldzenith lmao",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
