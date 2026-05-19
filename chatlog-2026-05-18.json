@@ -22294,5 +22294,55 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Wtfissachip f-femboyy",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7901269",
+    "type": "public",
+    "date": "18/05 23:18",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "SoraTheMikuFan I did not stutter",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901270",
+    "type": "public",
+    "date": "18/05 23:18",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Can anyone code?",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7901271",
+    "type": "public",
+    "date": "18/05 23:18",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I did",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7901272",
+    "type": "public",
+    "date": "18/05 23:18",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Intresting",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901273",
+    "type": "public",
+    "date": "18/05 23:18",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bergindine I'm horrible at it",
+    "msgClasses": "chat_message bneon14"
   }
 ]
