@@ -6438,5 +6438,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25955_72bb5e0b4ab7.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902058",
+    "type": "public",
+    "date": "19/05 11:24",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Pina w meme",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7902059",
+    "type": "public",
+    "date": "19/05 11:24",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_3f1fc29cb677.gif]",
+    "msgClasses": "chat_message "
   }
 ]
