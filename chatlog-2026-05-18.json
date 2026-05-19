@@ -22174,5 +22174,15 @@
     "userClasses": "username user ",
     "message": "Anything is edible if you try hard enough",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901257",
+    "type": "public",
+    "date": "18/05 23:14",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "That is very true",
+    "msgClasses": "chat_message "
   }
 ]
