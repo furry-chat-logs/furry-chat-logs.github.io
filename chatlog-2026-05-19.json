@@ -5158,5 +5158,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Smiley why?",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901930",
+    "type": "public",
+    "date": "19/05 10:36",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I love the rain and it doesn't rain a lot here",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901931",
+    "type": "public",
+    "date": "19/05 10:36",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_625074263251.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901932",
+    "type": "public",
+    "date": "19/05 10:36",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm sick",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
