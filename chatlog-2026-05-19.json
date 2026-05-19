@@ -8208,5 +8208,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Spectre_protogen [wot]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902235",
+    "type": "public",
+    "date": "19/05 11:48",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*me realising I sent that in main chat instead of friends wall*",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902236",
+    "type": "public",
+    "date": "19/05 11:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "well well well",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902237",
+    "type": "public",
+    "date": "19/05 11:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "a clanker looking at clankers",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
