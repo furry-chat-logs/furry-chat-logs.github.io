@@ -27368,5 +27368,25 @@
     "userClasses": "username user ",
     "message": "Priviet",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904332",
+    "type": "public",
+    "date": "19/05 18:58",
+    "username": "OogaBooga",
+    "userId": "37294",
+    "userClasses": "username user ",
+    "message": "hello",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904333",
+    "type": "public",
+    "date": "19/05 18:58",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user3117_944daf472123.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
