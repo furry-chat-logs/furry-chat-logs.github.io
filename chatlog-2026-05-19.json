@@ -9528,5 +9528,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Smiley I will beat u istg shush",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902367",
+    "type": "public",
+    "date": "19/05 12:02",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I didn't even say anythingg",
+    "msgClasses": "chat_message "
   }
 ]
