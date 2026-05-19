@@ -4358,5 +4358,45 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8513_0458c0178928.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901850",
+    "type": "public",
+    "date": "19/05 9:50",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "NeptuneLynxx I love bio class",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901851",
+    "type": "public",
+    "date": "19/05 9:50",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "same",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7901852",
+    "type": "public",
+    "date": "19/05 9:50",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "im not a fan of molecular biology but it's still okay",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7901853",
+    "type": "public",
+    "date": "19/05 9:51",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Ooo I Like biology to.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
