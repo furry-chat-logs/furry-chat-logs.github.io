@@ -11328,5 +11328,35 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "Guh",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902548",
+    "type": "public",
+    "date": "19/05 12:50",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "If the title looks strange, i dunno",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902549",
+    "type": "public",
+    "date": "19/05 12:50",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "sorry I forgot twink means slim",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902550",
+    "type": "public",
+    "date": "19/05 12:50",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user7582_58d376d7838d.mp3 | Sonic_OVA__Look_a_like_(Full_Version)_543572797.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
