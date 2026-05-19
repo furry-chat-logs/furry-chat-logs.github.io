@@ -14968,5 +14968,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Distance",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902912",
+    "type": "public",
+    "date": "19/05 13:47",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "Why is my ss this bad 😭",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
