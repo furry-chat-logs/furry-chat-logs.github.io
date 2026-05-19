@@ -19028,5 +19028,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Careful the mods dont get mad",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903320",
+    "type": "public",
+    "date": "19/05 15:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hamzurger",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
