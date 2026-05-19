@@ -7738,5 +7738,55 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Pina awesome.",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902188",
+    "type": "public",
+    "date": "19/05 11:43",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_66a6d962eaa6.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902189",
+    "type": "public",
+    "date": "19/05 11:43",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "UNSPXKENWXRLDZ get ur dog gng",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902190",
+    "type": "public",
+    "date": "19/05 11:43",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Spectre_protogen oh",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902191",
+    "type": "public",
+    "date": "19/05 11:43",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_6498ff1198f9.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902192",
+    "type": "public",
+    "date": "19/05 11:43",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Aren't Protogens robots",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
