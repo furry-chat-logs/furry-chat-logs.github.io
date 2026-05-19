@@ -10998,5 +10998,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Skrillex was good up until 2020 or so",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7902515",
+    "type": "public",
+    "date": "19/05 12:41",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "We have opinions we are allowed to voice",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902516",
+    "type": "public",
+    "date": "19/05 12:41",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "my opinions are wrong, according to reddit",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
