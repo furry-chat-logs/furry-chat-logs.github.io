@@ -7968,5 +7968,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Pina ...we already outnumber you organics 1 million to 1. You could never win",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902211",
+    "type": "public",
+    "date": "19/05 11:45",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Jaxxie [troll]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902212",
+    "type": "public",
+    "date": "19/05 11:45",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sonic The Hedgehog *blinks* possibly? not sure",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
