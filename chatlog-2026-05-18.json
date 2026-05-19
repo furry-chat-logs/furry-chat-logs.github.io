@@ -17974,5 +17974,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user35401_87c120abf697.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900832",
+    "type": "public",
+    "date": "18/05 20:27",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_e6e9e5f1fcfc.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900833",
+    "type": "public",
+    "date": "18/05 20:27",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "Neo The Protogen freak ! ! :33",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
