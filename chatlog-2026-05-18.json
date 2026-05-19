@@ -21374,5 +21374,25 @@
     "userClasses": "username user ",
     "message": "[paw]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901176",
+    "type": "public",
+    "date": "18/05 22:27",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_a85978cf0fb6.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901177",
+    "type": "public",
+    "date": "18/05 22:28",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "The co-owner of this website, Nyx, is a drag queen.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
