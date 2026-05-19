@@ -16358,5 +16358,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "おやすみ!",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7903051",
+    "type": "public",
+    "date": "19/05 14:10",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "zenith",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
