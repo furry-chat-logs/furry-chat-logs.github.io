@@ -8258,5 +8258,65 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Sonic The Hedgehog *stabs you with a sharpened stick of 32 gigs of ram*",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902240",
+    "type": "public",
+    "date": "19/05 11:49",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_83a6765df9c0.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902241",
+    "type": "public",
+    "date": "19/05 11:49",
+    "username": "V3LVET",
+    "userId": "34186",
+    "userClasses": "username bneon21 bnfont6",
+    "message": "what is happening ?",
+    "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7902242",
+    "type": "public",
+    "date": "19/05 11:49",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "don't you just hate it when someone just installs 32 gig of ram into your chest?",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902243",
+    "type": "public",
+    "date": "19/05 11:49",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_e7199cbbae6f.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902244",
+    "type": "public",
+    "date": "19/05 11:49",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Ayo?",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902245",
+    "type": "public",
+    "date": "19/05 11:49",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "V3LVET welcome, to the internet!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
