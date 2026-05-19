@@ -558,5 +558,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Sonic The Hedgehog Sheldon, if you scream again, you're going to the Backrooms ass gif",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901461",
+    "type": "public",
+    "date": "19/05 0:27",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmejJyNXFtbjBzamE4M3drbTExaHVwc3Rmam9jY3didmltZDBieGNyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1dUNCWkGNAwdrRBkOk/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
