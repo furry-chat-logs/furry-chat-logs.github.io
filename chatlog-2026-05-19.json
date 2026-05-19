@@ -9658,5 +9658,45 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Jaxxie go to your profile",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902380",
+    "type": "public",
+    "date": "19/05 12:06",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "and then the account tab",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902381",
+    "type": "public",
+    "date": "19/05 12:06",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "i muted  itt ty",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902382",
+    "type": "public",
+    "date": "19/05 12:06",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "then sound settings",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902383",
+    "type": "public",
+    "date": "19/05 12:07",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Jaxxie yeah np",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
