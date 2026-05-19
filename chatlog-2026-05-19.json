@@ -6388,5 +6388,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmenVubjNraWU3OHJwOG5pOWlnN3V0NGYweWhwZmNwYWZlM3F1czl0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y0xJbFfFMd7wmO9jiU/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902053",
+    "type": "public",
+    "date": "19/05 11:23",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_5224bba90118.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902054",
+    "type": "public",
+    "date": "19/05 11:23",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "wrong one",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
