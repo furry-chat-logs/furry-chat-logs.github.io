@@ -10698,5 +10698,25 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "Can I taik to someone?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7902484",
+    "type": "public",
+    "date": "19/05 12:37",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Okie",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902485",
+    "type": "public",
+    "date": "19/05 12:37",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Femtanyl is criminally overrated",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
