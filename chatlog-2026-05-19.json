@@ -7558,5 +7558,55 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "i invited bro, legoshi welcome",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902170",
+    "type": "public",
+    "date": "19/05 11:41",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "wut",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902171",
+    "type": "public",
+    "date": "19/05 11:41",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Whip the clankers",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902172",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZzFkd3c1NWk0dDk3b2p5OGQwOXBxcHB2bXV3emdmYWUwOXhqc2U3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BeeQTsRFu4PZyyoYqc/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902173",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid wow",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902174",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "New Kid ???",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
