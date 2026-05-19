@@ -3158,5 +3158,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki sounds like my type of game",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901730",
+    "type": "public",
+    "date": "19/05 8:48",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "It's funny until youre alone and you hear running behind you",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
