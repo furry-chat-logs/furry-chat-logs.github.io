@@ -12608,5 +12608,25 @@
     "userClasses": "username bgrad7 ",
     "message": "What's wrong with being gay tho?",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902676",
+    "type": "public",
+    "date": "19/05 13:10",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Goes against his faith I think",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7902677",
+    "type": "public",
+    "date": "19/05 13:10",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "On a site like this, how could you expect the",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
