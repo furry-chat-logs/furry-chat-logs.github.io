@@ -968,5 +968,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Oh then fuck that bitch",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901503",
+    "type": "public",
+    "date": "19/05 0:35",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Do NOT fuck that bitch",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
