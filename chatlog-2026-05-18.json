@@ -22934,5 +22934,25 @@
     "userClasses": "username user ",
     "message": "It's lonely at the bottom dawg",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901333",
+    "type": "public",
+    "date": "18/05 23:30",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Smiley waitt",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901334",
+    "type": "public",
+    "date": "18/05 23:31",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I gotta punch up",
+    "msgClasses": "chat_message "
   }
 ]
