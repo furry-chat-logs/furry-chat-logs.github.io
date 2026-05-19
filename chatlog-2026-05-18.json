@@ -18734,5 +18734,45 @@
     "userClasses": "username bcolor21 bnfont14",
     "message": "Frogmin hiii",
     "msgClasses": "chat_message bgrad38 heavybold bfont14"
+  },
+  {
+    "id": "7900908",
+    "type": "public",
+    "date": "18/05 21:15",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdXNzN3piaDZ3d2FkaWJheDM5a3E2cG1scms2NHZvMnBpbmJ4enVidiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc172JJbbmUfVxhS/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900909",
+    "type": "public",
+    "date": "18/05 21:15",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNnh0eW5kM21xY2thYmlqY2o0YnBwczVmaHJ0cm0ybGd5enV4Y2NlMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7sI6GmJUj1DRYAGwuH/giphy.gif]",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900910",
+    "type": "public",
+    "date": "18/05 21:15",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Independence day?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7900911",
+    "type": "public",
+    "date": "18/05 21:15",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Heh heh",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
