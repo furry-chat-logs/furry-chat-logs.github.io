@@ -19088,5 +19088,25 @@
     "userClasses": "username bgrad7 ",
     "message": "*gtg",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903326",
+    "type": "public",
+    "date": "19/05 15:35",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Just wild statements lol",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903327",
+    "type": "public",
+    "date": "19/05 15:35",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "🤓☝️ Sharkish",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
