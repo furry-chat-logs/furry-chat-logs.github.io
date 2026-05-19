@@ -22464,5 +22464,15 @@
     "userClasses": "username user ",
     "message": "SoraTheMikuFan the ocean says different",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901286",
+    "type": "public",
+    "date": "18/05 23:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh yelp the shark is gonna get me",
+    "msgClasses": "chat_message bneon14"
   }
 ]
