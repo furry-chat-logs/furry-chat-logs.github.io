@@ -7498,5 +7498,65 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Pina lmaooo",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7902164",
+    "type": "public",
+    "date": "19/05 11:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_2ad236c96e39.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902165",
+    "type": "public",
+    "date": "19/05 11:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Not chatgpt stereotyping 😭✌️",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902166",
+    "type": "public",
+    "date": "19/05 11:41",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_304aa0e9e673.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902167",
+    "type": "public",
+    "date": "19/05 11:41",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_f3bc6be9e8fe.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902168",
+    "type": "public",
+    "date": "19/05 11:41",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "New Kid TwT",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7902169",
+    "type": "public",
+    "date": "19/05 11:41",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "i invited bro, legoshi welcome",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
