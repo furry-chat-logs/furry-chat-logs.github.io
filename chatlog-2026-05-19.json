@@ -19428,5 +19428,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user3475_4ceed6794b35.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903360",
+    "type": "public",
+    "date": "19/05 15:48",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Something good 19/05 15:47 Saw that coming.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903361",
+    "type": "public",
+    "date": "19/05 15:48",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[secret-share: dyvT9yO0zciPVli9GaLPjsYyZ&n=47150]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
