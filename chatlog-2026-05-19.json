@@ -6308,5 +6308,45 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25955_5dc56ab17688.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902045",
+    "type": "public",
+    "date": "19/05 11:21",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Spectre_protogen why?",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902046",
+    "type": "public",
+    "date": "19/05 11:22",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Sonic The Hedgehog what wha?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902047",
+    "type": "public",
+    "date": "19/05 11:22",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "wym sse the fandoms?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902048",
+    "type": "public",
+    "date": "19/05 11:22",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Pina  O_O",
+    "msgClasses": "chat_message "
   }
 ]
