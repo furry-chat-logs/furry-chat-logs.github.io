@@ -5248,5 +5248,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMXRjZTVhN3ltcjJlajRibXlidHduYnlqMzU4bms1cGZpcnkwOTkyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Me6BcdN5mwwfcqf5a/giphy.gif]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901939",
+    "type": "public",
+    "date": "19/05 10:38",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "No",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
