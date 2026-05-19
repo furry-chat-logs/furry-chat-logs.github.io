@@ -9908,5 +9908,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Meep because yes",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902405",
+    "type": "public",
+    "date": "19/05 12:23",
+    "username": "Wuskie",
+    "userId": "21257",
+    "userClasses": "username bgrad22 bnfont2",
+    "message": "to whoever said that question no i am not",
+    "msgClasses": "chat_message bgrad22 ital bfont2"
   }
 ]
