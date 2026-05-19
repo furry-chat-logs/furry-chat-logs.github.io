@@ -22308,5 +22308,15 @@
     "userClasses": "username bcolor1 ",
     "message": "I'm new here",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903653",
+    "type": "public",
+    "date": "19/05 17:09",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "TomuraShigarakiLOV Welcome.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
