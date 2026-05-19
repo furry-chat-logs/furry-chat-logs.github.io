@@ -17064,5 +17064,35 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "fuck :[",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7900741",
+    "type": "public",
+    "date": "18/05 19:56",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "٭٭٭ ?",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7900742",
+    "type": "public",
+    "date": "18/05 19:56",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i hate this sm",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7900743",
+    "type": "public",
+    "date": "18/05 19:56",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "?",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
