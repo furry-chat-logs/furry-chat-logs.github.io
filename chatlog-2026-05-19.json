@@ -418,5 +418,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "He looks constipated af",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7901447",
+    "type": "public",
+    "date": "19/05 0:25",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "😏",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
