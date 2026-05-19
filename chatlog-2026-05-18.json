@@ -23614,5 +23614,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901402",
+    "type": "public",
+    "date": "18/05 23:57",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Hello fellow shark",
+    "msgClasses": "chat_message "
   }
 ]
