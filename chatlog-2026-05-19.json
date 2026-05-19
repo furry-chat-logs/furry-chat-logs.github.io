@@ -5818,5 +5818,25 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "Wow",
     "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7901996",
+    "type": "public",
+    "date": "19/05 11:14",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "Damnnn",
+    "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7901997",
+    "type": "public",
+    "date": "19/05 11:14",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "That's wild",
+    "msgClasses": "chat_message bneon32 bold bfont1"
   }
 ]
