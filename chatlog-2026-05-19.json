@@ -8758,5 +8758,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_32772d1d84b1.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902290",
+    "type": "public",
+    "date": "19/05 11:52",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It's a Canadian octopus",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902291",
+    "type": "public",
+    "date": "19/05 11:52",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Unholyozzy i dont know what ur talking abt",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
