@@ -2818,5 +2818,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Read receipts are goated",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7901689",
+    "type": "public",
+    "date": "19/05 8:12",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "You know what else is goated",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
