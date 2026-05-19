@@ -19388,5 +19388,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[secret-share: dyvT9yO0zciPVli9GaLPjsYyZ&n=47150] Tell me somethin good.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903356",
+    "type": "public",
+    "date": "19/05 15:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_948164103db8.png]",
+    "msgClasses": "chat_message "
   }
 ]
