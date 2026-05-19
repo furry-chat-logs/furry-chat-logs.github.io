@@ -1868,5 +1868,15 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "Heavily emotional rn",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7901593",
+    "type": "public",
+    "date": "19/05 1:36",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "ZephyrTheFlooferBoi you ok?",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
