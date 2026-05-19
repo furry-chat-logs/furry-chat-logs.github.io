@@ -6108,5 +6108,15 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Sonic The Hedgehog  no",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902025",
+    "type": "public",
+    "date": "19/05 11:18",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "UNSPXKENWXRLDZ hi there!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
