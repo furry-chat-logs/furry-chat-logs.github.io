@@ -9718,5 +9718,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "shared mine",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902386",
+    "type": "public",
+    "date": "19/05 12:12",
+    "username": "Wuskie",
+    "userId": "21257",
+    "userClasses": "username bgrad22 bnfont2",
+    "message": "ok",
+    "msgClasses": "chat_message bgrad22 ital bfont2"
   }
 ]
