@@ -458,5 +458,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "We have all the best members online rn",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901451",
+    "type": "public",
+    "date": "19/05 0:26",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Moonishiki I like Chicago by mj",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
