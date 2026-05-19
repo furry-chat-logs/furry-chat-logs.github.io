@@ -4028,5 +4028,35 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "psychobunny_mondo loll 🥲",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7901817",
+    "type": "public",
+    "date": "19/05 9:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Moonishiki nah I'm just confused",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901818",
+    "type": "public",
+    "date": "19/05 9:44",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "just realised that the Furrychat unban notification email had a russian sender ID.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7901819",
+    "type": "public",
+    "date": "19/05 9:44",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_0e11eb487762.png]",
+    "msgClasses": "chat_message "
   }
 ]
