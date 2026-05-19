@@ -5688,5 +5688,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "V3LVET hi!",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7901983",
+    "type": "public",
+    "date": "19/05 11:12",
+    "username": "V3LVET",
+    "userId": "34186",
+    "userClasses": "username bneon21 bnfont6",
+    "message": "Spectre_protogen Hey, how are you?",
+    "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7901984",
+    "type": "public",
+    "date": "19/05 11:12",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Cole pfp",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
