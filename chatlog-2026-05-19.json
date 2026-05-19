@@ -25928,5 +25928,65 @@
     "userClasses": "username user ",
     "message": "Buy me a toy KingCorgz",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904076",
+    "type": "public",
+    "date": "19/05 18:20",
+    "username": "AJ_THEBAT",
+    "userId": "37290",
+    "userClasses": "username user ",
+    "message": "👀👀",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904077",
+    "type": "public",
+    "date": "19/05 18:20",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "AJ_THEBAT NO",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904079",
+    "type": "public",
+    "date": "19/05 18:20",
+    "username": "DustyKai",
+    "userId": "37293",
+    "userClasses": "username user ",
+    "message": "what?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904080",
+    "type": "public",
+    "date": "19/05 18:20",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": ">:(",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904081",
+    "type": "public",
+    "date": "19/05 18:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHBpcDM0dzg2eXZ3bWtuZTd4MjJxZWg0ZGk4NHpvN2Zwc3l0NHN3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOuVjiA6qvLGB3NusU/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904082",
+    "type": "public",
+    "date": "19/05 18:20",
+    "username": "AJ_THEBAT",
+    "userId": "37290",
+    "userClasses": "username user ",
+    "message": "Moonishiki yes",
+    "msgClasses": "chat_message "
   }
 ]
