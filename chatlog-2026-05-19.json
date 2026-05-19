@@ -8008,5 +8008,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Spectre_protogen beheaded",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902215",
+    "type": "public",
+    "date": "19/05 11:46",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sonic The Hedgehog naur.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902216",
+    "type": "public",
+    "date": "19/05 11:46",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Spectre_protogen you just don't listen? gas chambers, electrical shock",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
