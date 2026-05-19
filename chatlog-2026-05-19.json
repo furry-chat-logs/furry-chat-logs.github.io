@@ -1928,5 +1928,15 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "Hi Tacotinezz335",
     "msgClasses": "chat_message bgrad29 ital bfont1"
+  },
+  {
+    "id": "7901599",
+    "type": "public",
+    "date": "19/05 2:22",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Doing a DND campaign rn",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
