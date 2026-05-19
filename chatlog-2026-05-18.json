@@ -17034,5 +17034,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Spurs gotta win this",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900738",
+    "type": "public",
+    "date": "18/05 19:53",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Knicks gotta win too",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
