@@ -11548,5 +11548,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "hello my furrrriends!",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902570",
+    "type": "public",
+    "date": "19/05 12:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Pina hi",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902571",
+    "type": "public",
+    "date": "19/05 12:58",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "Pina hello",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
