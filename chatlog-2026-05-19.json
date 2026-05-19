@@ -19178,5 +19178,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_294419261c61.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903335",
+    "type": "public",
+    "date": "19/05 15:38",
+    "username": "Evil Rat",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
