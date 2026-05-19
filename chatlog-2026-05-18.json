@@ -22224,5 +22224,65 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Why is there also implode and explode",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7901262",
+    "type": "public",
+    "date": "18/05 23:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "SoraTheMikuFan I'mplode is like the opposite of an explosion",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901263",
+    "type": "public",
+    "date": "18/05 23:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Think of like crushing a can",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901264",
+    "type": "public",
+    "date": "18/05 23:17",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "SoraTheMikuFan implode is everything getting pulled together",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901265",
+    "type": "public",
+    "date": "18/05 23:17",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Explode is everything pushed away",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901266",
+    "type": "public",
+    "date": "18/05 23:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "That would be an implosion",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901267",
+    "type": "public",
+    "date": "18/05 23:17",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Wtfissachip yes",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
