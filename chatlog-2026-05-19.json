@@ -1388,5 +1388,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "or lgbtq+",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901545",
+    "type": "public",
+    "date": "19/05 0:52",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_b0d2717c115c.png]",
+    "msgClasses": "chat_message "
   }
 ]
