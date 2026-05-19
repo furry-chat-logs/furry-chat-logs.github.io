@@ -2758,5 +2758,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Is that your fridge",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901682",
+    "type": "public",
+    "date": "19/05 7:51",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "No",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7901683",
+    "type": "public",
+    "date": "19/05 7:51",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "My fridge is green",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
