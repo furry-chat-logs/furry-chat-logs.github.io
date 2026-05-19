@@ -3608,5 +3608,35 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "zeus?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901775",
+    "type": "public",
+    "date": "19/05 9:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "He is literally watching me at the bus stop",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901776",
+    "type": "public",
+    "date": "19/05 9:05",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "can he throw lightening?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901777",
+    "type": "public",
+    "date": "19/05 9:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_c391ffae1ced.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
