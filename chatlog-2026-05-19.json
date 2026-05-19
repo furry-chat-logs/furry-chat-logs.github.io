@@ -4578,5 +4578,15 @@
     "userClasses": "username bcolor8 bnfont7",
     "message": "FoxiiFoxii hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901872",
+    "type": "public",
+    "date": "19/05 9:55",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "* Explodes *",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
