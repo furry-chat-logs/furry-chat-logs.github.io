@@ -9588,5 +9588,75 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "how-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902373",
+    "type": "public",
+    "date": "19/05 12:05",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": ":3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902374",
+    "type": "public",
+    "date": "19/05 12:05",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Right click the tab and hit 'mute site' if you're on laptop or just turn off all of the sounds if you're on phone",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902375",
+    "type": "public",
+    "date": "19/05 12:05",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "chromebook- but its fine ig-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902376",
+    "type": "public",
+    "date": "19/05 12:06",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Works for chromebooks too",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902377",
+    "type": "public",
+    "date": "19/05 12:06",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "How we doinnnnnn?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902378",
+    "type": "public",
+    "date": "19/05 12:06",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "ohh it work-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902379",
+    "type": "public",
+    "date": "19/05 12:06",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Jaxxie go to your profile",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
