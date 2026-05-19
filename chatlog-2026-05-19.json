@@ -5928,5 +5928,15 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Who?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902007",
+    "type": "public",
+    "date": "19/05 11:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "It's cooler in vr",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
