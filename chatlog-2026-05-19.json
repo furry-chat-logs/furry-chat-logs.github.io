@@ -3048,5 +3048,15 @@
     "userClasses": "username bgrad7 ",
     "message": "How much have you played?",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901719",
+    "type": "public",
+    "date": "19/05 8:46",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I have a few days worth of playtime",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
