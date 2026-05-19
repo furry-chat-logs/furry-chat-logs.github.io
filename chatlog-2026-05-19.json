@@ -13288,5 +13288,15 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "Wild",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902744",
+    "type": "public",
+    "date": "19/05 13:18",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Pina it's the choice of changing gender",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
