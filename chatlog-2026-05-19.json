@@ -23778,5 +23778,45 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNHZ0a3kzcnh5MHNicXpydXV5ZHJzaDlhNm14cWFpOXE5ZW9oNDhnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xApl4Qeg4FuUW0g7a6/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903804",
+    "type": "public",
+    "date": "19/05 17:44",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903805",
+    "type": "public",
+    "date": "19/05 17:44",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903806",
+    "type": "public",
+    "date": "19/05 17:44",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hehehe",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903807",
+    "type": "public",
+    "date": "19/05 17:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZGdtcmtzM2lmZXZyb2JrdjMzMjhmbTMyMDRzNWp1bnloNWtreXFsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EUKWawNC65oc0/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
