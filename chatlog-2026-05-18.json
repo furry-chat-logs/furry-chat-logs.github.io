@@ -16874,5 +16874,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "It was so weird",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900722",
+    "type": "public",
+    "date": "18/05 19:10",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "KingCorgz xd vr was weird for me when i first tried it too dw",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7900723",
+    "type": "public",
+    "date": "18/05 19:10",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "My bff made me try Pavlov vr",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
