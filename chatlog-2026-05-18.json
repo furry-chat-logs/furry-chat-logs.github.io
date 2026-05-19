@@ -18564,5 +18564,55 @@
     "userClasses": "username user ",
     "message": "You ever drink germ x",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900891",
+    "type": "public",
+    "date": "18/05 21:01",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "It cleans the soul",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900892",
+    "type": "public",
+    "date": "18/05 21:02",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Mortal combat is fun",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900893",
+    "type": "public",
+    "date": "18/05 21:02",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "one time my dad told me the foam hand sanitizer tasted like cotton candy and i didn't believe him. he got some and licked it and acted like it tasted good so i ate some",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7900894",
+    "type": "public",
+    "date": "18/05 21:02",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "kombat",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900895",
+    "type": "public",
+    "date": "18/05 21:02",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "was NOT cotton candy flavored",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
