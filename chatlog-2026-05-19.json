@@ -4068,5 +4068,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "how is everyone this morning",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7901821",
+    "type": "public",
+    "date": "19/05 9:45",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "NeptuneLynxx good, you?",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7901822",
+    "type": "public",
+    "date": "19/05 9:45",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "NeptuneLynxx doing well hbu",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
