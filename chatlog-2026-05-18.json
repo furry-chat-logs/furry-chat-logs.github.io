@@ -21394,5 +21394,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "The co-owner of this website, Nyx, is a drag queen.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7901178",
+    "type": "public",
+    "date": "18/05 22:28",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Smiley awa",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
