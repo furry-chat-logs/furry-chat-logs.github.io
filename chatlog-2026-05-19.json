@@ -5048,5 +5048,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Yay it works",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901919",
+    "type": "public",
+    "date": "19/05 10:22",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": ":D",
+    "msgClasses": "chat_message "
   }
 ]
