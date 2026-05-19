@@ -1058,5 +1058,15 @@
     "userClasses": "username user ",
     "message": "٭٭٭ and let it all out",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901512",
+    "type": "public",
+    "date": "19/05 0:38",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_05f5d8576a23.png]",
+    "msgClasses": "chat_message "
   }
 ]
