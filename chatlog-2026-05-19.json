@@ -5668,5 +5668,25 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "Hey everyone :]",
     "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7901981",
+    "type": "public",
+    "date": "19/05 11:12",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Pina  wha?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901982",
+    "type": "public",
+    "date": "19/05 11:12",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "V3LVET hi!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
