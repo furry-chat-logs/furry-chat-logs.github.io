@@ -19518,5 +19518,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Moonishiki lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903369",
+    "type": "public",
+    "date": "19/05 15:52",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hehehe",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903370",
+    "type": "public",
+    "date": "19/05 15:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_956c2e2aff7c.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903371",
+    "type": "public",
+    "date": "19/05 15:52",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "What're you dinguses up to",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
