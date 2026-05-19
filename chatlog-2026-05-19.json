@@ -6178,5 +6178,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I got a paper cut",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902032",
+    "type": "public",
+    "date": "19/05 11:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "UNSPXKENWXRLDZ I'm good too, thanks!",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902033",
+    "type": "public",
+    "date": "19/05 11:19",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_f86b7a5c5e6b.png]",
+    "msgClasses": "chat_message "
   }
 ]
