@@ -26108,5 +26108,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "DustyKai Shhhhhhh...l its totay! >w<",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904111",
+    "type": "public",
+    "date": "19/05 18:23",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_73d463cd54a5.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904112",
+    "type": "public",
+    "date": "19/05 18:23",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "DustyKai Are you happy, now?",
+    "msgClasses": "chat_message ital"
   }
 ]
