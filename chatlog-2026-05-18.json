@@ -17004,5 +17004,25 @@
     "userClasses": "username bgrad38 bnfont8",
     "message": "hm",
     "msgClasses": "chat_message bneon1 heavyital bfont8"
+  },
+  {
+    "id": "7900735",
+    "type": "public",
+    "date": "18/05 19:49",
+    "username": "Obsession٭",
+    "userId": "34420",
+    "userClasses": "username bneon24 bnfont8",
+    "message": "better",
+    "msgClasses": "chat_message bneon24 heavyital bfont8"
+  },
+  {
+    "id": "7900736",
+    "type": "public",
+    "date": "18/05 19:49",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_2f714fc0a20e.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
