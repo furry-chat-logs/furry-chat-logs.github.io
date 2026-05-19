@@ -3318,5 +3318,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "how have u not beaten it?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901746",
+    "type": "public",
+    "date": "19/05 8:52",
+    "username": "Wuskie",
+    "userId": "21257",
+    "userClasses": "username bgrad22 bnfont2",
+    "message": "i just saw the cool new site look its awesome",
+    "msgClasses": "chat_message bgrad22 ital bfont2"
   }
 ]
