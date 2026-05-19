@@ -6828,5 +6828,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmczljMXUxeW4za2pmNTYyOHJ2dGJmcHJ0Z2k2cnl6cWg1YmdpbzljaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K8bd1MNfIXTFGARWcT/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902097",
+    "type": "public",
+    "date": "19/05 11:32",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "i do it to everyon",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902098",
+    "type": "public",
+    "date": "19/05 11:32",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Sonic The Hedgehog holy chud",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
