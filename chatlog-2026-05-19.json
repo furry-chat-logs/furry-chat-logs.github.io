@@ -14558,5 +14558,25 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Spectre_protogen real",
     "msgClasses": "chat_message bneon19 heavybold bfont7"
+  },
+  {
+    "id": "7902871",
+    "type": "public",
+    "date": "19/05 13:37",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hey no, don't take it like you are one, because you aren't",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902872",
+    "type": "public",
+    "date": "19/05 13:37",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Spectre_protogen bruh it's boring if you block them let ther be wore",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
