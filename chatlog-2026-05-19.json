@@ -6128,5 +6128,25 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Spectre_protogen  omg haiiiiiiiiiii ^w^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902027",
+    "type": "public",
+    "date": "19/05 11:19",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_0071f2895988.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902028",
+    "type": "public",
+    "date": "19/05 11:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "UNSPXKENWXRLDZ hru?",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
