@@ -10048,5 +10048,25 @@
     "userClasses": "username bgrad7 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_006ebaf909ee.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902419",
+    "type": "public",
+    "date": "19/05 12:26",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "Nani-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902420",
+    "type": "public",
+    "date": "19/05 12:26",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Baka",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
