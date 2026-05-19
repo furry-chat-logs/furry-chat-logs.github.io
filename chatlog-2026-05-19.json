@@ -5608,5 +5608,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Hi good morning sir  19/05 9:08 Ah, well hello there my fellow furry friend perhaps we could talk over some very important british stuff over some tea?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7901975",
+    "type": "public",
+    "date": "19/05 11:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "a",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
