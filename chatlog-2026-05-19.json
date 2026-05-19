@@ -11868,5 +11868,85 @@
     "userClasses": "username bneon32 bnfont16",
     "message": "I know what it is",
     "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7902602",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "Lmao",
+    "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7902603",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid no...",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902604",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Deimos no..",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902605",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "...🥀",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7902606",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[secret-share: hZYlfu7me5Kmmdp9SKvvBcQDc&n=47108]",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902607",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "💔",
+    "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7902608",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_79e4e32b033d.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902609",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "I wanna go home already",
+    "msgClasses": "chat_message bfont7"
   }
 ]
