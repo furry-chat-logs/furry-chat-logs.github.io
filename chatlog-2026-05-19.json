@@ -21858,5 +21858,25 @@
     "userClasses": "username bgrad7 ",
     "message": "How it's always been since she left.",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903605",
+    "type": "public",
+    "date": "19/05 16:55",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Dinner is done. [totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903606",
+    "type": "public",
+    "date": "19/05 16:55",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_6f0fb24c40d0.png]",
+    "msgClasses": "chat_message "
   }
 ]
