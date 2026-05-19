@@ -22034,5 +22034,15 @@
     "userClasses": "username user ",
     "message": "I wnt someone to love me too",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901242",
+    "type": "public",
+    "date": "18/05 23:00",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Night y’all, I’m losing my mind so I’m going to bed now",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
