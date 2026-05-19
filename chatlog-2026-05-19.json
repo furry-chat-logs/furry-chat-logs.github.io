@@ -1668,5 +1668,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "afk",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901573",
+    "type": "public",
+    "date": "19/05 1:09",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM3A3aDljNm5sYjljbHV5bGp1eWJ3dWozZDZrcTY0czM2dTlnc2E3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kCpg2FYkENfnuvXSsS/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
