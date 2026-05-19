@@ -978,5 +978,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Do NOT fuck that bitch",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901504",
+    "type": "public",
+    "date": "19/05 0:35",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "LMAO",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
