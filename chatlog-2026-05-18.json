@@ -16974,5 +16974,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "🇨 🇴 🇺 🇬 🇭",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900732",
+    "type": "public",
+    "date": "18/05 19:46",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oh wow",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7900733",
+    "type": "public",
+    "date": "18/05 19:47",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It worked",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
