@@ -22358,5 +22358,85 @@
     "userClasses": "username bneon18 ",
     "message": "[smileface] [hee]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903658",
+    "type": "public",
+    "date": "19/05 17:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sniped Celeste Azul in the hips.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903659",
+    "type": "public",
+    "date": "19/05 17:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903661",
+    "type": "public",
+    "date": "19/05 17:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Haven't listened to this one in awhile",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903662",
+    "type": "public",
+    "date": "19/05 17:13",
+    "username": "Celeste Azul",
+    "userId": "16465",
+    "userClasses": "username bneon14 bnfont2",
+    "message": "died",
+    "msgClasses": "chat_message bneon14 bold bfont2"
+  },
+  {
+    "id": "7903663",
+    "type": "public",
+    "date": "19/05 17:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bullseye",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903664",
+    "type": "public",
+    "date": "19/05 17:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Huh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903665",
+    "type": "public",
+    "date": "19/05 17:13",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Hi hi chatt.. uwu",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7903666",
+    "type": "public",
+    "date": "19/05 17:13",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWpxeml1ZHhpemhpeGNkYzFnYm02YWF4YmJ3bGM0eTZmaDVyYmI4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/18D7b8w95tZEk/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
