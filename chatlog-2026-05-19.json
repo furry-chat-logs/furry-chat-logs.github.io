@@ -4738,5 +4738,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNnF6bWZ5b2cwZzZmeWtlaWk2ZmtidWlzenhvM3piMGcwOGVvYTdqMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dujwFYM1LCFfLIKeKd/giphy.gif]",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7901888",
+    "type": "public",
+    "date": "19/05 10:10",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb3VteWp6ZmN5eXhkcmYwa3VybGpubWJ4aGZld3VrNHdlOXkxeTdxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BIZkwFtu2xDlS/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
