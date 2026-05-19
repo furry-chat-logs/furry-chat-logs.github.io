@@ -1038,5 +1038,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "i dunno",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901510",
+    "type": "public",
+    "date": "19/05 0:37",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] :3",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901511",
+    "type": "public",
+    "date": "19/05 0:37",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "٭٭٭ and let it all out",
+    "msgClasses": "chat_message "
   }
 ]
