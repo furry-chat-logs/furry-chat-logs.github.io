@@ -1268,5 +1268,25 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "and dysphoric once more",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901533",
+    "type": "public",
+    "date": "19/05 0:47",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_3766aa6c3ac9.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901534",
+    "type": "public",
+    "date": "19/05 0:47",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "How do we feel about her chat",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
