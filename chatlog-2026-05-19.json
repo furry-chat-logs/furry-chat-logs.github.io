@@ -18148,5 +18148,35 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "Porphyrophobia LOL",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7903232",
+    "type": "public",
+    "date": "19/05 15:16",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Damn other rooms boring asf",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903233",
+    "type": "public",
+    "date": "19/05 15:17",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Earth girl left me~",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903234",
+    "type": "public",
+    "date": "19/05 15:17",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I'm blocking",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
