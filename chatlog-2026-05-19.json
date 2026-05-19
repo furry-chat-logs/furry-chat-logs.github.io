@@ -6678,5 +6678,15 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Pina  ME!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902082",
+    "type": "public",
+    "date": "19/05 11:29",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaTUxcTlqdG01ZW1oc2F6NjJtdnZlamVueHZ2aWgwOTk4ZHUycHlxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2g6sCTsSoVuSfSxK4W/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
