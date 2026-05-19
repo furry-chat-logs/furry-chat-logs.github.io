@@ -4768,5 +4768,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hi",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901891",
+    "type": "public",
+    "date": "19/05 10:10",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "i got kicked from webtoon too-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901892",
+    "type": "public",
+    "date": "19/05 10:11",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "heeeeey!",
+    "msgClasses": "chat_message "
   }
 ]
