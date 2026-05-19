@@ -11688,5 +11688,25 @@
     "userClasses": "username bgrad7 ",
     "message": "DEADASS",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902584",
+    "type": "public",
+    "date": "19/05 13:01",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "A wha",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902585",
+    "type": "public",
+    "date": "19/05 13:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "What's a vib",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
