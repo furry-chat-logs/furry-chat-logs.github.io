@@ -11178,5 +11178,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Q&A pt.2",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902533",
+    "type": "public",
+    "date": "19/05 12:45",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "twinky twink 19/05 10:44 || I will send a nuke to your location =]",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902534",
+    "type": "public",
+    "date": "19/05 12:45",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "<3 19/05 10:44 || <3",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
