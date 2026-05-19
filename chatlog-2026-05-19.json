@@ -20358,5 +20358,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'm almost instant",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7903454",
+    "type": "public",
+    "date": "19/05 16:26",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I sometimes can respond in a flash, too.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903455",
+    "type": "public",
+    "date": "19/05 16:26",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] :3",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
