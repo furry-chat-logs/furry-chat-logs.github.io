@@ -18618,5 +18618,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903279",
+    "type": "public",
+    "date": "19/05 15:29",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Well I mask myself so ofc ima say \"nothing\"",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903280",
+    "type": "public",
+    "date": "19/05 15:29",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Ok.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903281",
+    "type": "public",
+    "date": "19/05 15:30",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Driving back home now",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
