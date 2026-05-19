@@ -22774,5 +22774,65 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Bergindine ?",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901317",
+    "type": "public",
+    "date": "18/05 23:28",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Wtf where'd that message go",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901318",
+    "type": "public",
+    "date": "18/05 23:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_af9c25b14fe3.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901319",
+    "type": "public",
+    "date": "18/05 23:28",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Am I hallucinating",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901320",
+    "type": "public",
+    "date": "18/05 23:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "😭😭",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7901321",
+    "type": "public",
+    "date": "18/05 23:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Eh???",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7901322",
+    "type": "public",
+    "date": "18/05 23:28",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "JustAnAnt idk but I am and it's getting annoying",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
