@@ -20534,5 +20534,25 @@
     "userClasses": "username user ",
     "message": "Idk what im votimg for",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901091",
+    "type": "public",
+    "date": "18/05 21:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I made a poll. Where'd it go?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7901092",
+    "type": "public",
+    "date": "18/05 21:56",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "open poll",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
