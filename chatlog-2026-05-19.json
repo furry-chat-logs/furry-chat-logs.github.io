@@ -6148,5 +6148,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "UNSPXKENWXRLDZ hru?",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902029",
+    "type": "public",
+    "date": "19/05 11:19",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNWZ3MTIxcXY1MHcwMHZwaXRzeDZpNWhyNHB2eWRqbmY1MXVyZWVidyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iuu3hRoxlr2ETPucZW/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902030",
+    "type": "public",
+    "date": "19/05 11:19",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Spectre_protogen  am goooood, wbuuuuu?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902031",
+    "type": "public",
+    "date": "19/05 11:19",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I got a paper cut",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
