@@ -8578,5 +8578,85 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "Smiley if u call someone a twink, that means ur a twink ur self",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902272",
+    "type": "public",
+    "date": "19/05 11:51",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcTl4Mzd3MG13bmxqdmtqMXM4bWlvYm5odW5zZDY3amphd3l0ZGxjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VF5ZXlzQ8VcMpgJr1G/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902273",
+    "type": "public",
+    "date": "19/05 11:51",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Pina",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902274",
+    "type": "public",
+    "date": "19/05 11:51",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Pina  What'd i do?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902275",
+    "type": "public",
+    "date": "19/05 11:51",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Deimos hii",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7902276",
+    "type": "public",
+    "date": "19/05 11:51",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Deimos HOW",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902277",
+    "type": "public",
+    "date": "19/05 11:51",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_4d750b34c5b2.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902278",
+    "type": "public",
+    "date": "19/05 11:51",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "mhmm sure Pina ... i saw what you  did to legoshi in the dark back room",
+    "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7902279",
+    "type": "public",
+    "date": "19/05 11:51",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "This made me hungry for oreos",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
