@@ -20574,5 +20574,25 @@
     "userClasses": "username bgrad7 ",
     "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901095",
+    "type": "public",
+    "date": "18/05 21:59",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Hey y'all",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7901096",
+    "type": "public",
+    "date": "18/05 21:59",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Can anyone of y'all's code well?",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
