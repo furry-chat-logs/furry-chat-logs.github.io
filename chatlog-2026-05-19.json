@@ -5458,5 +5458,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Coldzenith you gang gang or wut lil bro?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7901960",
+    "type": "public",
+    "date": "19/05 10:55",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "Pina loll",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
