@@ -17098,5 +17098,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Smiley you can't be talking, your fursonas look like they've been twinkified 10x",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7903125",
+    "type": "public",
+    "date": "19/05 14:57",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Slight bio update, Tch Tch.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7903126",
+    "type": "public",
+    "date": "19/05 14:57",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_26806b30a97e.png]",
+    "msgClasses": "chat_message "
   }
 ]
