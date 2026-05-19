@@ -23244,5 +23244,55 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Moonishiki the context",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901364",
+    "type": "public",
+    "date": "18/05 23:37",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "JustAnAnt everything that's wonderful is what I feel when we're togetherrrr",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7901365",
+    "type": "public",
+    "date": "18/05 23:37",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] mmm",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901367",
+    "type": "public",
+    "date": "18/05 23:37",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "KingCorgz",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901368",
+    "type": "public",
+    "date": "18/05 23:37",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Moonishiki I love these videos",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901369",
+    "type": "public",
+    "date": "18/05 23:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_6a98d590adc5.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
