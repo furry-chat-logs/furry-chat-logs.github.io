@@ -2538,5 +2538,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan you lactose intolerant",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901660",
+    "type": "public",
+    "date": "19/05 7:03",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Medokin NOOOOOOOOOOOOO",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
