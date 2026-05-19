@@ -18314,5 +18314,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "bored af",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900866",
+    "type": "public",
+    "date": "18/05 20:47",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "gng",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900867",
+    "type": "public",
+    "date": "18/05 20:48",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "wdym by other rooms-",
+    "msgClasses": "chat_message "
   }
 ]
