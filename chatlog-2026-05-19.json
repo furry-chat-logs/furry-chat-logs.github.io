@@ -20398,5 +20398,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a0a200f2e286.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903459",
+    "type": "public",
+    "date": "19/05 16:30",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_3fd59b1e8bee.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903460",
+    "type": "public",
+    "date": "19/05 16:30",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I'm just here lol",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903461",
+    "type": "public",
+    "date": "19/05 16:30",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Me too",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7903462",
+    "type": "public",
+    "date": "19/05 16:30",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "But at least I'm not fake about it.",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
