@@ -22574,5 +22574,15 @@
     "userClasses": "username user ",
     "message": "Who stuttered",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901297",
+    "type": "public",
+    "date": "18/05 23:23",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_4e41c6c1eacd.png]",
+    "msgClasses": "chat_message "
   }
 ]
