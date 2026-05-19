@@ -25898,5 +25898,35 @@
     "userClasses": "username user ",
     "message": "huh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904071",
+    "type": "public",
+    "date": "19/05 18:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_2b098de6fb92.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904072",
+    "type": "public",
+    "date": "19/05 18:19",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Buy me a monster:3",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904073",
+    "type": "public",
+    "date": "19/05 18:19",
+    "username": "AJ_THEBAT",
+    "userId": "37290",
+    "userClasses": "username user ",
+    "message": "Buy me a toy KingCorgz",
+    "msgClasses": "chat_message "
   }
 ]
