@@ -18114,5 +18114,25 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "im lonely and on vrc rn blehh :p",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7900846",
+    "type": "public",
+    "date": "18/05 20:34",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "im",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900847",
+    "type": "public",
+    "date": "18/05 20:34",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "bored-",
+    "msgClasses": "chat_message "
   }
 ]
