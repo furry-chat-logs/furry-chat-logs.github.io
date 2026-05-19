@@ -18408,5 +18408,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_24160c5922c3.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903258",
+    "type": "public",
+    "date": "19/05 15:25",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Do you have a cat 19/05 15:24 Yes. I have two. The second one is new, actually.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903259",
+    "type": "public",
+    "date": "19/05 15:26",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "If some rando here asked you out what would you say (Im NOT asking you out im just curious) 19/05 15:25 I would ask to get to know them first.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903260",
+    "type": "public",
+    "date": "19/05 15:26",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "MK I'm feeling a little better",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
