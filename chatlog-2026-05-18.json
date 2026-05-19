@@ -21124,5 +21124,55 @@
     "userClasses": "username bgrad7 ",
     "message": "KingCorgz :3",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901151",
+    "type": "public",
+    "date": "18/05 22:11",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Abcdefghijklmnopqrstuvwxyz",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901152",
+    "type": "public",
+    "date": "18/05 22:11",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "B-B-Breakdown!  18/05 22:09 *break dances*",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901153",
+    "type": "public",
+    "date": "18/05 22:11",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Psst. I don't have a secret.  18/05 22:09 hmm yes yes",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901154",
+    "type": "public",
+    "date": "18/05 22:11",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "KingCorgz lmaoooo",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7901155",
+    "type": "public",
+    "date": "18/05 22:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "KingCorgz *dances with you*",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
