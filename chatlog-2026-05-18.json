@@ -18394,5 +18394,25 @@
     "userClasses": "username user ",
     "message": "I be drinking paint",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900874",
+    "type": "public",
+    "date": "18/05 20:56",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "i be  drinking salt water",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900875",
+    "type": "public",
+    "date": "18/05 20:56",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "it gud",
+    "msgClasses": "chat_message "
   }
 ]
