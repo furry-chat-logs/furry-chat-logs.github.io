@@ -22058,5 +22058,45 @@
     "userClasses": "username bgrad7 ",
     "message": "The end to being used until unneeded!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903625",
+    "type": "public",
+    "date": "19/05 16:57",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "^^",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903626",
+    "type": "public",
+    "date": "19/05 16:57",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Faygo..?",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903627",
+    "type": "public",
+    "date": "19/05 16:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdGg3ZThmeWcwb3R3OWxsam9wNWpkcDlxeDNrNDM5Ynh6ZWQ0dDl0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ksw4J7EK9PMCqLZvGy/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903628",
+    "type": "public",
+    "date": "19/05 16:58",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWI0aDlwMjhiMGxrYTlvbTJ4eTQzb2JxcGM1NGxmMnNycXZya2h0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LR5GeZFCwDRcpG20PR/giphy.gif]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
