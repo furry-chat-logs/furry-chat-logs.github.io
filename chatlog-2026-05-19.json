@@ -1458,5 +1458,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "hotel",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901552",
+    "type": "public",
+    "date": "19/05 0:54",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_7be09867e49e.png]",
+    "msgClasses": "chat_message "
   }
 ]
