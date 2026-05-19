@@ -4438,5 +4438,45 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "and I'm in biology 30-1",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7901858",
+    "type": "public",
+    "date": "19/05 9:51",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "Num Little Bug thats super cool",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901859",
+    "type": "public",
+    "date": "19/05 9:51",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "One has four Lungs.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7901860",
+    "type": "public",
+    "date": "19/05 9:51",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "NeptuneLynxx is it bad that I'm more of a chem guy",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7901861",
+    "type": "public",
+    "date": "19/05 9:51",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "Coldzenith I do that too",
+    "msgClasses": "chat_message "
   }
 ]
