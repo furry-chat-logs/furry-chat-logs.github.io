@@ -2868,5 +2868,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Such a beautifully animated anime",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901701",
+    "type": "public",
+    "date": "19/05 8:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi I'm back",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
