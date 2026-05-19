@@ -12038,5 +12038,45 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "Nouh, I'm sitting next to my brother",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902619",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "😭",
+    "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7902620",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "He's eeping",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902621",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOWZlMDAwdHVyYW93MXBlMWpsOXppZjZrNnd1MjNjZmo2d2kxODRwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hSBUyRA39k9iUyS7qe/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902622",
+    "type": "public",
+    "date": "19/05 13:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_6326815bd14a.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
