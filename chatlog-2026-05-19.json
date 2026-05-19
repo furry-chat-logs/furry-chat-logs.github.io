@@ -20068,5 +20068,45 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "my brain unplugged while reading that",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7903425",
+    "type": "public",
+    "date": "19/05 16:04",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Looks more like bright noa",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903426",
+    "type": "public",
+    "date": "19/05 16:04",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_67f2b7fa63a8.webp]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903427",
+    "type": "public",
+    "date": "19/05 16:04",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMnQ1M3Z6bDkxMDJ4dDhnOXh3OTk5YnF2OWFmbGZuMnk3MnBhb3NzZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3og0Iu1c6pxelBKC4M/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903428",
+    "type": "public",
+    "date": "19/05 16:04",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Moonishiki GYAAA",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
