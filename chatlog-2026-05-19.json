@@ -19608,5 +19608,65 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_6e05b8c429a7.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903379",
+    "type": "public",
+    "date": "19/05 15:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Porphyrophobia wow I've never had fanart made of me b4!",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903380",
+    "type": "public",
+    "date": "19/05 15:55",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki cute.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903381",
+    "type": "public",
+    "date": "19/05 15:55",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdmNjdjMyZWY4dHh2YXI4NjVmYmk4azhuYXhmdTMwbGpmOWNyczJtdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cs9xff11uykiWEqqRb/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903382",
+    "type": "public",
+    "date": "19/05 15:55",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] eee",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7903383",
+    "type": "public",
+    "date": "19/05 15:55",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I love green eyes.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903384",
+    "type": "public",
+    "date": "19/05 15:55",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Awh",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
