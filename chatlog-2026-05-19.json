@@ -3398,5 +3398,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[link: https://furrychat.net/new-user-guide/]",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901754",
+    "type": "public",
+    "date": "19/05 8:58",
+    "username": "Wuskie",
+    "userId": "21257",
+    "userClasses": "username bgrad22 bnfont2",
+    "message": "oh even cooler",
+    "msgClasses": "chat_message bgrad22 ital bfont2"
   }
 ]
