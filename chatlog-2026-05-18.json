@@ -22144,5 +22144,35 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Its a fossil now but still cool",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901254",
+    "type": "public",
+    "date": "18/05 23:13",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Is it edible",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901255",
+    "type": "public",
+    "date": "18/05 23:13",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Havent tried it yet so maybe 🤷",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901256",
+    "type": "public",
+    "date": "18/05 23:13",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Anything is edible if you try hard enough",
+    "msgClasses": "chat_message "
   }
 ]
