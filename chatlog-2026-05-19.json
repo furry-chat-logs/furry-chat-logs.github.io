@@ -2508,5 +2508,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_bf1e1757f26b.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901657",
+    "type": "public",
+    "date": "19/05 7:00",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Precel",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
