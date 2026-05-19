@@ -6698,5 +6698,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "^",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902084",
+    "type": "public",
+    "date": "19/05 11:30",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_83265a727a15.png]",
+    "msgClasses": "chat_message "
   }
 ]
