@@ -23094,5 +23094,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I need a haircut",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901349",
+    "type": "public",
+    "date": "18/05 23:34",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "KingCorgz 24 hour time or the reference?",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
