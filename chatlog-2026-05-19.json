@@ -1538,5 +1538,15 @@
     "userClasses": "username user ",
     "message": "You're welcome",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901560",
+    "type": "public",
+    "date": "19/05 0:58",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXJ0dmZ4aGc3bDE3djJ3cHp1aHlibnFsODV5MG1xc3BqaXQybnhqdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bw24PF3Vxc5TefDLGr/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
