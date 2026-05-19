@@ -20258,5 +20258,15 @@
     "userClasses": "username bneon18 ",
     "message": "I am festive.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903444",
+    "type": "public",
+    "date": "19/05 16:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I love dead rat cake",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
