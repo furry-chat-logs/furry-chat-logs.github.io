@@ -10828,5 +10828,35 @@
     "userClasses": "username bneon3 bnfont5",
     "message": ":<",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902497",
+    "type": "public",
+    "date": "19/05 12:39",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Here's something that actually goes hard",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902498",
+    "type": "public",
+    "date": "19/05 12:39",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Femtanyl is rubbish nowadays",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7902500",
+    "type": "public",
+    "date": "19/05 12:39",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( are you in meeps closet .-. 19/05 10:38 ) Shhhh, you're going to spoil my hiding spot",
+    "msgClasses": "chat_message "
   }
 ]
