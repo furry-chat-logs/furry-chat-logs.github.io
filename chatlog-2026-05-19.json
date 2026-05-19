@@ -9188,5 +9188,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Unholyozzy okay okay...youre right I did want too:(",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902333",
+    "type": "public",
+    "date": "19/05 11:56",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Unholyozzy very unfortunatly",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902334",
+    "type": "public",
+    "date": "19/05 11:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_8f547fc52d5d.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
