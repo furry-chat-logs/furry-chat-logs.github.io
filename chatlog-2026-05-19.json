@@ -1338,5 +1338,25 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "JustAnAnt my sister is trans and goes by that name idk-- made me wonder ig",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901540",
+    "type": "public",
+    "date": "19/05 0:51",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Oohh okay",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901541",
+    "type": "public",
+    "date": "19/05 0:51",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Cool :3",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
