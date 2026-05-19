@@ -13148,5 +13148,55 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Actually lemme move some pillows around",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902730",
+    "type": "public",
+    "date": "19/05 13:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Medokin is this your first day on earth?",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902731",
+    "type": "public",
+    "date": "19/05 13:16",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I don't have ac",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902732",
+    "type": "public",
+    "date": "19/05 13:16",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "New Kid not everywhere has an AC. in England we just use fans.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902733",
+    "type": "public",
+    "date": "19/05 13:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oh",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902734",
+    "type": "public",
+    "date": "19/05 13:17",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Why is it so close to your bead",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
