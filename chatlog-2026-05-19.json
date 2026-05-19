@@ -10448,5 +10448,15 @@
     "userClasses": "username bgrad7 ",
     "message": "It's hard to pick one",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902459",
+    "type": "public",
+    "date": "19/05 12:32",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Smiley not anymoree",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
