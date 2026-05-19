@@ -2578,5 +2578,15 @@
     "userClasses": "username bgrad7 ",
     "message": "profile link",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901664",
+    "type": "public",
+    "date": "19/05 7:04",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nom nom [hoo] sorry but it was so good",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
