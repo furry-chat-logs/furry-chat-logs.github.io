@@ -22508,5 +22508,35 @@
     "userClasses": "username bcolor1 ",
     "message": "I'm probably getting a fursuit head base for my 17th birthday coming up",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903675",
+    "type": "public",
+    "date": "19/05 17:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "TomuraShigarakiLOV awesome. Im jealous.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903676",
+    "type": "public",
+    "date": "19/05 17:17",
+    "username": "TomuraShigarakiLOV",
+    "userId": "37289",
+    "userClasses": "username bcolor1 ",
+    "message": "Yeah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903677",
+    "type": "public",
+    "date": "19/05 17:17",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "This is so fire",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
