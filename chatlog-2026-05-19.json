@@ -12508,5 +12508,35 @@
     "userClasses": "username bgrad7 ",
     "message": "And how do you know it's a guy",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902666",
+    "type": "public",
+    "date": "19/05 13:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yo y'all think my coolpad can run GTA 6",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902667",
+    "type": "public",
+    "date": "19/05 13:09",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid im sure it will",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902668",
+    "type": "public",
+    "date": "19/05 13:09",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "New Kid yea",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
