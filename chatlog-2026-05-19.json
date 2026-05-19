@@ -7608,5 +7608,85 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "New Kid ???",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902175",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_04da5d871154.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902176",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My tether used GPT to thesh us",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902177",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_6e745393d00e.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902178",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "wrong one",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902179",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "🥀",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902180",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_350ee705af2a.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902181",
+    "type": "public",
+    "date": "19/05 11:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Spectre_protogen NOT PROTOGENS JUST LIKE CHATGPT AND STUFF",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902182",
+    "type": "public",
+    "date": "19/05 11:43",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I love protogens they are good clankers",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
