@@ -16954,5 +16954,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Prettyyyy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900730",
+    "type": "public",
+    "date": "18/05 19:43",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "\"a young Jedi by the name of Darth Vader.. a pupil of mine... He was seduced by the dark side of the force.. he betrayed and murdered your father\"",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
