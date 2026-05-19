@@ -1198,5 +1198,35 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "wtf did i come back to ;~;",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901526",
+    "type": "public",
+    "date": "19/05 0:44",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "JustAnAnt just dropped a fun fact for the funnies",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901527",
+    "type": "public",
+    "date": "19/05 0:44",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[troll]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901528",
+    "type": "public",
+    "date": "19/05 0:44",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "..",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
