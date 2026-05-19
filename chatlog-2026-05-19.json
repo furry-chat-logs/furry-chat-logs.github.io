@@ -13578,5 +13578,35 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "[secret-share: MNF3H2MMLwqZapkXDdCrBgm2a&n=47129] 🧐",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7902773",
+    "type": "public",
+    "date": "19/05 13:21",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "My bad I have the attention span of a nematode",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902774",
+    "type": "public",
+    "date": "19/05 13:21",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Damn sounded like it",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902775",
+    "type": "public",
+    "date": "19/05 13:21",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Don't make a big deal of it, either",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
