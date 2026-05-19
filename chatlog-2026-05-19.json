@@ -17038,5 +17038,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "What </3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903119",
+    "type": "public",
+    "date": "19/05 14:53",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'm back",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7903120",
+    "type": "public",
+    "date": "19/05 14:53",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I needa go return my cap and gown to my college advisor so I'ma be driving for a bit",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7903121",
+    "type": "public",
+    "date": "19/05 14:53",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "KingCorgz wb twinkie",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
