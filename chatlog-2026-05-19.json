@@ -6708,5 +6708,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25955_83265a727a15.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902085",
+    "type": "public",
+    "date": "19/05 11:30",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "was the meme funny?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
