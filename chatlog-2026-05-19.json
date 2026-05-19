@@ -18368,5 +18368,45 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Is sharkish cool 19/05 15:23 Mostly.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903254",
+    "type": "public",
+    "date": "19/05 15:23",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "0G Stupendous Man mostly? 🥺",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903255",
+    "type": "public",
+    "date": "19/05 15:24",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sharkish better than not.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903256",
+    "type": "public",
+    "date": "19/05 15:24",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[secret-share: dyvT9yO0zciPVli9GaLPjsYyZ&n=47150] Q&A",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903257",
+    "type": "public",
+    "date": "19/05 15:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_24160c5922c3.png]",
+    "msgClasses": "chat_message "
   }
 ]
