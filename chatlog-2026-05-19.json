@@ -7178,5 +7178,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Organs",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902132",
+    "type": "public",
+    "date": "19/05 11:37",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_7f0c2484a9c1.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902133",
+    "type": "public",
+    "date": "19/05 11:37",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "i love being called a good boy",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902134",
+    "type": "public",
+    "date": "19/05 11:37",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Spectre_protogen lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
