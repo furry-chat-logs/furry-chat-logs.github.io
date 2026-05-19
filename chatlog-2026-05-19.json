@@ -2968,5 +2968,25 @@
     "userClasses": "username bgrad7 ",
     "message": "\"where's has chat gone..? Bingo?\"",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901711",
+    "type": "public",
+    "date": "19/05 8:44",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "when is Moonishiki 's execution date?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901712",
+    "type": "public",
+    "date": "19/05 8:44",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I love RE4",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
