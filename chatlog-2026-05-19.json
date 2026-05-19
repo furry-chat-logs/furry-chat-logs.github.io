@@ -9398,5 +9398,15 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "Excellent.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7902354",
+    "type": "public",
+    "date": "19/05 11:58",
+    "username": "KURTIS",
+    "userId": "28569",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "I'm still working on a few others",
+    "msgClasses": "chat_message bgrad38 heavyital bfont3"
   }
 ]
