@@ -22054,5 +22054,25 @@
     "userClasses": "username bgrad7 ",
     "message": "٭٭٭",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901245",
+    "type": "public",
+    "date": "18/05 23:08",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "im sorry",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901246",
+    "type": "public",
+    "date": "18/05 23:08",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "ill be going now",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
