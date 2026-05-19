@@ -27238,5 +27238,25 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9738_cd2c60dbd427.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904316",
+    "type": "public",
+    "date": "19/05 18:49",
+    "username": "Nobody",
+    "userId": "27175",
+    "userClasses": "username bcolor18 bnfont11",
+    "message": "i want wendys",
+    "msgClasses": "chat_message bcolor18  bfont13"
+  },
+  {
+    "id": "7904317",
+    "type": "public",
+    "date": "19/05 18:49",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_8914b419442f.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
