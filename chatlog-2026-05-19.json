@@ -27008,5 +27008,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Gulps",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904273",
+    "type": "public",
+    "date": "19/05 18:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "AJ_THEBAT Would you like to know weather boy",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904275",
+    "type": "public",
+    "date": "19/05 18:41",
+    "username": "AJ_THEBAT",
+    "userId": "37290",
+    "userClasses": "username user ",
+    "message": "Porphyrophobia I would",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904276",
+    "type": "public",
+    "date": "19/05 18:41",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "open poll",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
