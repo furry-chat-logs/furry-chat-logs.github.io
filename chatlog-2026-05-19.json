@@ -11948,5 +11948,95 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "I wanna go home already",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902610",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Touka",
+    "userId": "37152",
+    "userClasses": "username bneon32 bnfont16",
+    "message": "Same",
+    "msgClasses": "chat_message bneon32 bold bfont1"
+  },
+  {
+    "id": "7902611",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "How I genuinely felt",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902612",
+    "type": "public",
+    "date": "19/05 13:03",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "This bus is taking too long",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902613",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "(definitely not a deltarune reference)",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902614",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "٭٭ i dare you to show one of the kids on ur bus your phone rn",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902615",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "show em ur on a fucking furry chat",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902616",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "no balsl",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902617",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hold on I'll record the reaction",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902618",
+    "type": "public",
+    "date": "19/05 13:04",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Nouh, I'm sitting next to my brother",
+    "msgClasses": "chat_message bfont7"
   }
 ]
