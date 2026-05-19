@@ -20318,5 +20318,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "TwT",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7903450",
+    "type": "public",
+    "date": "19/05 16:20",
+    "username": "Celeste Azul",
+    "userId": "16465",
+    "userClasses": "username bneon14 bnfont2",
+    "message": "im the ghoster so it dont affect me",
+    "msgClasses": "chat_message bneon14 bold bfont2"
+  },
+  {
+    "id": "7903451",
+    "type": "public",
+    "date": "19/05 16:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm the ultimate ghoster",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
