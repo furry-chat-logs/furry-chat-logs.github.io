@@ -2478,5 +2478,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Evil Rat hes not evil?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901654",
+    "type": "public",
+    "date": "19/05 6:40",
+    "username": "Evil Rat",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "psychobunny_mondo probably noy",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
