@@ -7908,5 +7908,25 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Spectre_protogen Pronk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902205",
+    "type": "public",
+    "date": "19/05 11:45",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Spectre_protogen YOU DARE SPEAK TO YOUR ****** LIKE THAT CLANKER?!?!?*WAAAAAAPSSHHHHH* GET BACK TO WOOOORK GET BAK TO WOOOORK",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902206",
+    "type": "public",
+    "date": "19/05 11:45",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "UNSPXKENWXRLDZ OMG! THAT'S A WAY BETTER NAME THAN PROTOTANK!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
