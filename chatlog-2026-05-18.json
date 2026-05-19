@@ -17254,5 +17254,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Real",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7900760",
+    "type": "public",
+    "date": "18/05 20:05",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": ":<",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
