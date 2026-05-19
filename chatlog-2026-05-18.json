@@ -18064,5 +18064,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "did yalls die",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900841",
+    "type": "public",
+    "date": "18/05 20:32",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Yeah sorry",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
