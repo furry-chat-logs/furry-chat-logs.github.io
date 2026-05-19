@@ -4508,5 +4508,35 @@
     "userClasses": "username bcolor8 bnfont7",
     "message": "Im going to collage for either bio chem or med",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901865",
+    "type": "public",
+    "date": "19/05 9:53",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "ZIBZI show off >:[",
+    "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7901866",
+    "type": "public",
+    "date": "19/05 9:53",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "Hai",
+    "msgClasses": "chat_message bneon19  bfont3"
+  },
+  {
+    "id": "7901867",
+    "type": "public",
+    "date": "19/05 9:53",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "ZIBZI nice",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
