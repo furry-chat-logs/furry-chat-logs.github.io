@@ -22344,5 +22344,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Bergindine I'm horrible at it",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7901274",
+    "type": "public",
+    "date": "18/05 23:19",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "SoraTheMikuFan damn bro guess you have to die now",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901275",
+    "type": "public",
+    "date": "18/05 23:19",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Where are the mtf trans people, I know y'all mfs can code",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7901276",
+    "type": "public",
+    "date": "18/05 23:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Computer science project due today",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7901277",
+    "type": "public",
+    "date": "18/05 23:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wtfissachip yea",
+    "msgClasses": "chat_message bneon14"
   }
 ]
