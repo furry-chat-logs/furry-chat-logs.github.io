@@ -22728,5 +22728,65 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Earth girl left meh~",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903699",
+    "type": "public",
+    "date": "19/05 17:23",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "She'll be back",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903700",
+    "type": "public",
+    "date": "19/05 17:23",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_ab5e4138bf3e.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903701",
+    "type": "public",
+    "date": "19/05 17:23",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[cry]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903702",
+    "type": "public",
+    "date": "19/05 17:23",
+    "username": "silence",
+    "userId": "27040",
+    "userClasses": "username bgrad22 bnfont9",
+    "message": "[sad2] [sad]",
+    "msgClasses": "chat_message bneon3 ital bfont4"
+  },
+  {
+    "id": "7903703",
+    "type": "public",
+    "date": "19/05 17:23",
+    "username": "silence",
+    "userId": "27040",
+    "userClasses": "username bgrad22 bnfont9",
+    "message": "why are there 2 sad variants",
+    "msgClasses": "chat_message bneon3 ital bfont4"
+  },
+  {
+    "id": "7903704",
+    "type": "public",
+    "date": "19/05 17:23",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Man I haven't listened to Taylor Swift in a while",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
