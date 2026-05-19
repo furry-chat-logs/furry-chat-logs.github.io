@@ -858,5 +858,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Your mother",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901491",
+    "type": "public",
+    "date": "19/05 0:33",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Wow",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7901492",
+    "type": "public",
+    "date": "19/05 0:33",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "My moms dead",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
