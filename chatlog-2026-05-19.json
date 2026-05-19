@@ -2158,5 +2158,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "It's a voice message 😭",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7901622",
+    "type": "public",
+    "date": "19/05 3:34",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_57b06948f7bd.png]",
+    "msgClasses": "chat_message "
   }
 ]
