@@ -13608,5 +13608,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Don't make a big deal of it, either",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902776",
+    "type": "public",
+    "date": "19/05 13:21",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: ZYkFXNnbcUOy1z7hK9pSKPxvy&n=47126] ask me things",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902777",
+    "type": "public",
+    "date": "19/05 13:21",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Moonishiki sry..",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7902778",
+    "type": "public",
+    "date": "19/05 13:21",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I don't sugar coat things. It might sound like I'm coming at you personally but I'm not",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
