@@ -21004,5 +21004,45 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "uh no",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7901139",
+    "type": "public",
+    "date": "18/05 22:07",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Oh no",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901140",
+    "type": "public",
+    "date": "18/05 22:07",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHphNHMxeGgxMXFqZDh4aHUwZzR2YTJoN3N1N2pwdTJ5YWdpdmtydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8qjcHjGkkYI3mAmQ1x/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901141",
+    "type": "public",
+    "date": "18/05 22:07",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Stay pawesome",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901142",
+    "type": "public",
+    "date": "18/05 22:07",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Well, goodnight prEtzeL",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
