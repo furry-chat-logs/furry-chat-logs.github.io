@@ -20554,5 +20554,15 @@
     "userClasses": "username bgrad7 ",
     "message": "open poll",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901093",
+    "type": "public",
+    "date": "18/05 21:57",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Seems like option 2 is winning greatly",
+    "msgClasses": "chat_message "
   }
 ]
