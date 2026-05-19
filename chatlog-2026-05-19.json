@@ -19848,5 +19848,15 @@
     "userClasses": "username bgrad7 ",
     "message": "WHAT",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903403",
+    "type": "public",
+    "date": "19/05 15:59",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user8914_cea0cbfeb38d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
