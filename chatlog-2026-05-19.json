@@ -1828,5 +1828,15 @@
     "userClasses": "username bneon2 bnfont13",
     "message": "huh",
     "msgClasses": "chat_message bgrad17 ital bfont2"
+  },
+  {
+    "id": "7901589",
+    "type": "public",
+    "date": "19/05 1:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "👁️",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
