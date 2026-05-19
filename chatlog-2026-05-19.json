@@ -6408,5 +6408,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "wrong one",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902055",
+    "type": "public",
+    "date": "19/05 11:24",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_0c7d4fe9b816.gif]",
+    "msgClasses": "chat_message "
   }
 ]
