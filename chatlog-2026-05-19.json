@@ -6508,5 +6508,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "UNSPXKENWXRLDZ so reall",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902065",
+    "type": "public",
+    "date": "19/05 11:26",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_53ae5e1f68ff.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902066",
+    "type": "public",
+    "date": "19/05 11:26",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "ts is NOT funny",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
