@@ -6918,5 +6918,25 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Sonic The Hedgehog  frrrrrr XD",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902106",
+    "type": "public",
+    "date": "19/05 11:34",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "vexx oh, if you want to ping people, just click their username and it'll put the tag in the message. typing @ before the username doesn't work",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902107",
+    "type": "public",
+    "date": "19/05 11:34",
+    "username": "vexx",
+    "userId": "37284",
+    "userClasses": "username user ",
+    "message": "Does any1 remeber/seen around @Scrubkiller617?",
+    "msgClasses": "chat_message "
   }
 ]
