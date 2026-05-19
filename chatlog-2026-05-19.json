@@ -15498,5 +15498,55 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "19/05 13:56 Sora? It was u 😭",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7902965",
+    "type": "public",
+    "date": "19/05 13:57",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Coldzenith ITS SORA?!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902966",
+    "type": "public",
+    "date": "19/05 13:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[secret-share: ie5aEavWCsothcQIPnedSNQkt&n=47138] [troll]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7902967",
+    "type": "public",
+    "date": "19/05 13:57",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "nah thats crazy",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902968",
+    "type": "public",
+    "date": "19/05 13:58",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "SoraTheMikuFan aye",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902969",
+    "type": "public",
+    "date": "19/05 13:58",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "was that u sending those messages to Zenith?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
