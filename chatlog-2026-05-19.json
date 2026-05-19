@@ -1308,5 +1308,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "which virus",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901537",
+    "type": "public",
+    "date": "19/05 0:48",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad2 bnfont8",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad4 bold bfont12"
   }
 ]
