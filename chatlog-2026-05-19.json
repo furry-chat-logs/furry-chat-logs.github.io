@@ -8388,5 +8388,75 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user34186_eea90138c7e1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902253",
+    "type": "public",
+    "date": "19/05 11:50",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdmplY2Ywd2Y2ZmxoOTBta3dzMnZ5MWg3MTQyd25iYWVtYm02eDdsbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JAM9iHUxGVa78rPlSl/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902254",
+    "type": "public",
+    "date": "19/05 11:50",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Jaxxie",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902255",
+    "type": "public",
+    "date": "19/05 11:50",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "wut",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902256",
+    "type": "public",
+    "date": "19/05 11:50",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Aww the twink is here",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902257",
+    "type": "public",
+    "date": "19/05 11:50",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "wut u incompetent immature child",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902258",
+    "type": "public",
+    "date": "19/05 11:50",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZzFzaWpwcndmYXlubThoYzB0Ym44NGQ3MXhvam4wY2Y5NmNrcW5kcCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/jp6vmJYcmC7UA/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902259",
+    "type": "public",
+    "date": "19/05 11:50",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_cd793c3cb984.png]",
+    "msgClasses": "chat_message "
   }
 ]
