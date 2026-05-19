@@ -3418,5 +3418,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki should help me find a pfp fr :3",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901756",
+    "type": "public",
+    "date": "19/05 8:59",
+    "username": "Wuskie",
+    "userId": "21257",
+    "userClasses": "username bgrad22 bnfont2",
+    "message": "wow well done",
+    "msgClasses": "chat_message bgrad22 ital bfont2"
   }
 ]
