@@ -6208,5 +6208,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "It feels like I'm really thutshing air",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902035",
+    "type": "public",
+    "date": "19/05 11:20",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_38e342b86294.png]",
+    "msgClasses": "chat_message "
   }
 ]
