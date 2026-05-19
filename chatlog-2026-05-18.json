@@ -23424,5 +23424,45 @@
     "userClasses": "username user ",
     "message": "Idk my friend said it",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901383",
+    "type": "public",
+    "date": "18/05 23:45",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "[wooper]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901384",
+    "type": "public",
+    "date": "18/05 23:45",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "These are great ideas",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901385",
+    "type": "public",
+    "date": "18/05 23:45",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "All my ideas are great",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901386",
+    "type": "public",
+    "date": "18/05 23:45",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Nuke Canada",
+    "msgClasses": "chat_message "
   }
 ]
