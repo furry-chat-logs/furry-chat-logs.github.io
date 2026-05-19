@@ -11498,5 +11498,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Hi",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902565",
+    "type": "public",
+    "date": "19/05 12:55",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "SoraTheMikuFan 01001000 01101001 00100000 01010011 01101111 01110010 01100001 00100001",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902566",
+    "type": "public",
+    "date": "19/05 12:55",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Spectre_protogen hello",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
