@@ -3808,5 +3808,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "that one minecraft spider mod",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901795",
+    "type": "public",
+    "date": "19/05 9:22",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "On the bus :3",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
