@@ -22834,5 +22834,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "JustAnAnt idk but I am and it's getting annoying",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7901323",
+    "type": "public",
+    "date": "18/05 23:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh noooo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
