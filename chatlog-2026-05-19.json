@@ -7988,5 +7988,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Sonic The Hedgehog *blinks* possibly? not sure",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902213",
+    "type": "public",
+    "date": "19/05 11:45",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Spectre_protogen im saving that holy shit its tuff",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902214",
+    "type": "public",
+    "date": "19/05 11:45",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Spectre_protogen beheaded",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
