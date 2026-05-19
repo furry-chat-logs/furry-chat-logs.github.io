@@ -4658,5 +4658,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Step by step.",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901880",
+    "type": "public",
+    "date": "19/05 10:04",
+    "username": "AshenVx",
+    "userId": "35017",
+    "userClasses": "username bneon19 bnfont1",
+    "message": "ya",
+    "msgClasses": "chat_message bneon19 heavyital bfont1"
   }
 ]
