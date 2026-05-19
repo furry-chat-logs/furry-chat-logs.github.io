@@ -5138,5 +5138,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "its...snowing-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901928",
+    "type": "public",
+    "date": "19/05 10:35",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Medokin lucky",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901929",
+    "type": "public",
+    "date": "19/05 10:35",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Smiley why?",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
