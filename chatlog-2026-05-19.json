@@ -5738,5 +5738,35 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "Tiredd",
     "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7901988",
+    "type": "public",
+    "date": "19/05 11:13",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "V3LVET  oof srry",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901989",
+    "type": "public",
+    "date": "19/05 11:13",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "yea same",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7901990",
+    "type": "public",
+    "date": "19/05 11:13",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "tired OF YOUR SHIT",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
