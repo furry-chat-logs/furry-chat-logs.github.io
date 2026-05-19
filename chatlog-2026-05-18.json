@@ -23344,5 +23344,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Bergindine gn",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901375",
+    "type": "public",
+    "date": "18/05 23:39",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Goodnight",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7901376",
+    "type": "public",
+    "date": "18/05 23:39",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Love y'all and night",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
