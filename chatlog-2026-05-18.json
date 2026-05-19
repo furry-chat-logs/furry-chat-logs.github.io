@@ -22094,5 +22094,25 @@
     "userClasses": "username user ",
     "message": "Chat is always so damn depressing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901249",
+    "type": "public",
+    "date": "18/05 23:11",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "🤷",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901250",
+    "type": "public",
+    "date": "18/05 23:11",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Can we not talk about a cool rock you found or something",
+    "msgClasses": "chat_message "
   }
 ]
