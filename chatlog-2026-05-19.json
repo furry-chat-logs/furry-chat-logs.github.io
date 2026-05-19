@@ -3568,5 +3568,35 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "thank god",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901771",
+    "type": "public",
+    "date": "19/05 9:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Bro",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901772",
+    "type": "public",
+    "date": "19/05 9:05",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "i hope that fuckass meme dies out",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901773",
+    "type": "public",
+    "date": "19/05 9:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "My cat Zeus loves me too much",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
