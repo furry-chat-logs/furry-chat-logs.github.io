@@ -22884,5 +22884,25 @@
     "userClasses": "username user ",
     "message": "Smiley goodnight",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901328",
+    "type": "public",
+    "date": "18/05 23:29",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Smiley night!!",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7901329",
+    "type": "public",
+    "date": "18/05 23:29",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Gonna explode like one as well",
+    "msgClasses": "chat_message "
   }
 ]
