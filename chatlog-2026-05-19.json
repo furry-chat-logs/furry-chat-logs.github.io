@@ -3658,5 +3658,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "Morning yall",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7901780",
+    "type": "public",
+    "date": "19/05 9:06",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Coldzenith go back to sleep now >:(",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
