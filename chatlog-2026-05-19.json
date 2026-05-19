@@ -3168,5 +3168,35 @@
     "userClasses": "username bgrad7 ",
     "message": "It's funny until youre alone and you hear running behind you",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901731",
+    "type": "public",
+    "date": "19/05 8:48",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "That happens in Sunny Meadows",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901732",
+    "type": "public",
+    "date": "19/05 8:48",
+    "username": "C0SMA",
+    "userId": "34186",
+    "userClasses": "username bneon15 bnfont6",
+    "message": "[anxious]",
+    "msgClasses": "chat_message bneon14 ital bfont10"
+  },
+  {
+    "id": "7901733",
+    "type": "public",
+    "date": "19/05 8:48",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Plus it fucks with your mind",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
