@@ -258,5 +258,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Huh",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901431",
+    "type": "public",
+    "date": "19/05 0:20",
+    "username": "JayleneXD",
+    "userId": "37278",
+    "userClasses": "username user ",
+    "message": "Haii",
+    "msgClasses": "chat_message "
   }
 ]
