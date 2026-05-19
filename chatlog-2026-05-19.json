@@ -9288,5 +9288,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "hi",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7902343",
+    "type": "public",
+    "date": "19/05 11:57",
+    "username": "KURTIS",
+    "userId": "28569",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user28569_9ae0de8c4b16.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
