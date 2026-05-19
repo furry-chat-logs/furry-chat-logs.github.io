@@ -21554,5 +21554,15 @@
     "userClasses": "username user ",
     "message": "Willy can i get a slushy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901194",
+    "type": "public",
+    "date": "18/05 22:35",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "I sent smiley a question and they haven't answered smh",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
