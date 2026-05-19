@@ -16118,5 +16118,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "i believe yu",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7903027",
+    "type": "public",
+    "date": "19/05 14:07",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[secret-share: hZYlfu7me5Kmmdp9SKvvBcQDc&n=47108]",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7903028",
+    "type": "public",
+    "date": "19/05 14:07",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "What",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7903029",
+    "type": "public",
+    "date": "19/05 14:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Jee I cried",
+    "msgClasses": "chat_message bneon14"
   }
 ]
