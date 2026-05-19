@@ -3068,5 +3068,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I'm level 30 I think",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901721",
+    "type": "public",
+    "date": "19/05 8:46",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki never played :3",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901722",
+    "type": "public",
+    "date": "19/05 8:46",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Oh shit",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
