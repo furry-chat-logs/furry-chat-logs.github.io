@@ -10378,5 +10378,45 @@
     "userClasses": "username bgrad7 ",
     "message": "Yeah same",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902452",
+    "type": "public",
+    "date": "19/05 12:31",
+    "username": "V3LVET",
+    "userId": "34186",
+    "userClasses": "username bneon21 bnfont6",
+    "message": "Fav song?",
+    "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7902453",
+    "type": "public",
+    "date": "19/05 12:31",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Saved me from a dark part of my life through his music",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902454",
+    "type": "public",
+    "date": "19/05 12:31",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "My favorite song...",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902455",
+    "type": "public",
+    "date": "19/05 12:32",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Leave Me Alone, No Name, Real, and Outcast",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
