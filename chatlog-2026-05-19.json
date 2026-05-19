@@ -498,5 +498,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9738_663061655905.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901455",
+    "type": "public",
+    "date": "19/05 0:26",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "wait",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
