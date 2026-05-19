@@ -23144,5 +23144,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I'd send a pic but I'm currently shirtless",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901354",
+    "type": "public",
+    "date": "18/05 23:34",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Gay",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7901355",
+    "type": "public",
+    "date": "18/05 23:34",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Allow me to slip into something a little more comfortable",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
