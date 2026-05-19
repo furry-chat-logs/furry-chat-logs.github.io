@@ -1628,5 +1628,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Well it's an IPod but it still works",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7901569",
+    "type": "public",
+    "date": "19/05 1:08",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i used to have an ipod",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7901570",
+    "type": "public",
+    "date": "19/05 1:08",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "wait",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
