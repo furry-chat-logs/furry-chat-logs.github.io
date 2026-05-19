@@ -14008,5 +14008,15 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "Pina hellooooo, how are ya",
     "msgClasses": "chat_message bneon30 bold bfont7"
+  },
+  {
+    "id": "7902816",
+    "type": "public",
+    "date": "19/05 13:31",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Comet im good hru??",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
