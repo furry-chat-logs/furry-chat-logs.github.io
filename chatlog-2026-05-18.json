@@ -22904,5 +22904,35 @@
     "userClasses": "username user ",
     "message": "Gonna explode like one as well",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901330",
+    "type": "public",
+    "date": "18/05 23:30",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Yeah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901331",
+    "type": "public",
+    "date": "18/05 23:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Why u supporting thisss",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7901332",
+    "type": "public",
+    "date": "18/05 23:30",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "It's lonely at the bottom dawg",
+    "msgClasses": "chat_message "
   }
 ]
