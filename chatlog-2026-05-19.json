@@ -11518,5 +11518,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Spectre_protogen hello",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902567",
+    "type": "public",
+    "date": "19/05 12:56",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "🥱",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7902568",
+    "type": "public",
+    "date": "19/05 12:56",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Medokin hi!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
