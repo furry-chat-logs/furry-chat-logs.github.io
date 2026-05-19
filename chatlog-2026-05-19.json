@@ -2588,5 +2588,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nom nom [hoo] sorry but it was so good",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901665",
+    "type": "public",
+    "date": "19/05 7:04",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "You- you MONSTER",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
