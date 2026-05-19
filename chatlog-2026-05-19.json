@@ -3088,5 +3088,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Oh shit",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901723",
+    "type": "public",
+    "date": "19/05 8:47",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "i need pfps of diff animals",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901724",
+    "type": "public",
+    "date": "19/05 8:47",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Time to run you through Sunny Meadows!!",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901725",
+    "type": "public",
+    "date": "19/05 8:47",
+    "username": "psychobunny_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "since Moonishiki is a bunny now",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
