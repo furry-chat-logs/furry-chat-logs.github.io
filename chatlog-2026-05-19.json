@@ -3358,5 +3358,15 @@
     "userClasses": "username bneon15 bnfont6",
     "message": "Wuskie What new site?",
     "msgClasses": "chat_message bneon14 ital bfont10"
+  },
+  {
+    "id": "7901750",
+    "type": "public",
+    "date": "19/05 8:56",
+    "username": "Wuskie",
+    "userId": "21257",
+    "userClasses": "username bgrad22 bnfont2",
+    "message": "where you login",
+    "msgClasses": "chat_message bgrad22 ital bfont2"
   }
 ]
