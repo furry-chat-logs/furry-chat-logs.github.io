@@ -23938,5 +23938,65 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Oh.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903822",
+    "type": "public",
+    "date": "19/05 17:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Never thought I would scroll down on tiktok to see somebody's house getting doxxed",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903825",
+    "type": "public",
+    "date": "19/05 17:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "My FYP is so devious [sob]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903826",
+    "type": "public",
+    "date": "19/05 17:48",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Okay nvm I'm throwing ts away",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903827",
+    "type": "public",
+    "date": "19/05 17:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "SilverXD 😭😭",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903828",
+    "type": "public",
+    "date": "19/05 17:48",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "The clock just tiks and toks until something absurd pops up.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903829",
+    "type": "public",
+    "date": "19/05 17:48",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Porphyrophobia ain't no way you converted Tiktok into Insta 😭💔",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
