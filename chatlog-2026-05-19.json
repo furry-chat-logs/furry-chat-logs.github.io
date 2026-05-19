@@ -13658,5 +13658,85 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "k",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7902781",
+    "type": "public",
+    "date": "19/05 13:22",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Pickle",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902782",
+    "type": "public",
+    "date": "19/05 13:22",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[secret-share: hZYlfu7me5Kmmdp9SKvvBcQDc&n=47108]",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902783",
+    "type": "public",
+    "date": "19/05 13:23",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Hey! its me Stefan! 19/05 11:12 whos this stefan guy?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902784",
+    "type": "public",
+    "date": "19/05 13:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oh god not Stefan.",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902785",
+    "type": "public",
+    "date": "19/05 13:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "You've been marked by the curse.",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902786",
+    "type": "public",
+    "date": "19/05 13:23",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid you know stefan?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902787",
+    "type": "public",
+    "date": "19/05 13:23",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid wym bro?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902788",
+    "type": "public",
+    "date": "19/05 13:24",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_5080e4be388f.png]",
+    "msgClasses": "chat_message "
   }
 ]
