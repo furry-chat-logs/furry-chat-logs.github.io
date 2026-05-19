@@ -11308,5 +11308,25 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "ts is so strange",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7902546",
+    "type": "public",
+    "date": "19/05 12:49",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaGR6eW5nbGhiZnIxNDNkcWwzcDh3Zmd5bWNpYmJmeW96azJoYmhweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XjQHj2QgBovmQC1UAn/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902547",
+    "type": "public",
+    "date": "19/05 12:49",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Guh",
+    "msgClasses": "chat_message bfont7"
   }
 ]
