@@ -4588,5 +4588,15 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "* Explodes *",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7901873",
+    "type": "public",
+    "date": "19/05 9:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Num Little Bug caboom?",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
