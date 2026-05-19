@@ -5058,5 +5058,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": ":D",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901920",
+    "type": "public",
+    "date": "19/05 10:23",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_03016f6a3a0e.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
