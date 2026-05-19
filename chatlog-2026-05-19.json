@@ -19498,5 +19498,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_6a5f0ac0a1b5.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903367",
+    "type": "public",
+    "date": "19/05 15:51",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "0G Stupendous Man that was me",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903368",
+    "type": "public",
+    "date": "19/05 15:51",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
