@@ -7268,5 +7268,45 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Pina who dosent",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902141",
+    "type": "public",
+    "date": "19/05 11:38",
+    "username": "vexx",
+    "userId": "37284",
+    "userClasses": "username user ",
+    "message": "Pina fucknuts shit why am i that one homie-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902142",
+    "type": "public",
+    "date": "19/05 11:38",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user3475_0a401ab7ded4.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902143",
+    "type": "public",
+    "date": "19/05 11:38",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_da0962dcfa86.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902144",
+    "type": "public",
+    "date": "19/05 11:38",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "this is real",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
