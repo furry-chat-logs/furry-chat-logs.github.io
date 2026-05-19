@@ -2748,5 +2748,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "🥶",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7901681",
+    "type": "public",
+    "date": "19/05 7:50",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Is that your fridge",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
