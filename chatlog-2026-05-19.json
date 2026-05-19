@@ -988,5 +988,15 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "LMAO",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7901505",
+    "type": "public",
+    "date": "19/05 0:35",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "hey guys",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
