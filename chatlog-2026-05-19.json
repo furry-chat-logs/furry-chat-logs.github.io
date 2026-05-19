@@ -24258,5 +24258,85 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903871",
+    "type": "public",
+    "date": "19/05 17:52",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "JEFF NOO",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903872",
+    "type": "public",
+    "date": "19/05 17:52",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "What?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903874",
+    "type": "public",
+    "date": "19/05 17:53",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Aw man.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903876",
+    "type": "public",
+    "date": "19/05 17:53",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_bcd261a75d07.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903877",
+    "type": "public",
+    "date": "19/05 17:53",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "🥺🥺",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903879",
+    "type": "public",
+    "date": "19/05 17:53",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Jeff no... :<",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903880",
+    "type": "public",
+    "date": "19/05 17:53",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Jeff didn't deserve this..",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903881",
+    "type": "public",
+    "date": "19/05 17:53",
+    "username": "AJ_THEBAT",
+    "userId": "37290",
+    "userClasses": "username user ",
+    "message": "Cough",
+    "msgClasses": "chat_message "
   }
 ]
