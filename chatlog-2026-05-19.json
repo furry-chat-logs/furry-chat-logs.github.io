@@ -3898,5 +3898,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Medokin why'd I read that in a asian father voice",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7901804",
+    "type": "public",
+    "date": "19/05 9:34",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdTh1eXdjYmFoODIyZjAza3JkaWhzbmN3MWExdWQwNTVkYW1ncG1nYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ro08ZmQ1MeqZypzgDN/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
