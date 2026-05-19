@@ -5308,5 +5308,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "BURUHFURURUTU",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7901945",
+    "type": "public",
+    "date": "19/05 10:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ts pmo [verysad]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7901946",
+    "type": "public",
+    "date": "19/05 10:44",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "hai pookie",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
