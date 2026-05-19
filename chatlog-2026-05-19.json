@@ -18438,5 +18438,35 @@
     "userClasses": "username bgrad7 ",
     "message": "MK I'm feeling a little better",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903261",
+    "type": "public",
+    "date": "19/05 15:26",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki Good.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903262",
+    "type": "public",
+    "date": "19/05 15:26",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Thanks for respecting my decision",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903263",
+    "type": "public",
+    "date": "19/05 15:27",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki ofc.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
