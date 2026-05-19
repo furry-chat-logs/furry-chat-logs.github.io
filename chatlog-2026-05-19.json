@@ -5038,5 +5038,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Oki",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901918",
+    "type": "public",
+    "date": "19/05 10:21",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Yay it works",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
