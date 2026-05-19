@@ -22238,5 +22238,35 @@
     "userClasses": "username bgrad7 ",
     "message": "😭😭",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903645",
+    "type": "public",
+    "date": "19/05 17:04",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "It's a Faygo flavor.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903646",
+    "type": "public",
+    "date": "19/05 17:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Oh thank god",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903647",
+    "type": "public",
+    "date": "19/05 17:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Mrrp bio update",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
