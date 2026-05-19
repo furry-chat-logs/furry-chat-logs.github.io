@@ -13348,5 +13348,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "One of my friends got called the R slur for being an Atheist.",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7902750",
+    "type": "public",
+    "date": "19/05 13:19",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Don't listen to the stinkers, ir it was probably a joke",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902751",
+    "type": "public",
+    "date": "19/05 13:19",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "It*",
+    "msgClasses": "chat_message bfont7"
   }
 ]
