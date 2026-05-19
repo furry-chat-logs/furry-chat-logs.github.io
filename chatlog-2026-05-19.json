@@ -4488,5 +4488,25 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "I liked chemistry, too.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7901863",
+    "type": "public",
+    "date": "19/05 9:52",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "But I'll become the bearer of bad news I Hate, any type of math.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7901864",
+    "type": "public",
+    "date": "19/05 9:52",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "Im going to collage for either bio chem or med",
+    "msgClasses": "chat_message "
   }
 ]
