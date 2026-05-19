@@ -4628,5 +4628,15 @@
     "userClasses": "username bneon21 bnfont15",
     "message": "Damn buggy site",
     "msgClasses": "chat_message bneon19  bfont3"
+  },
+  {
+    "id": "7901877",
+    "type": "public",
+    "date": "19/05 9:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_6ea9622fe55c.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
