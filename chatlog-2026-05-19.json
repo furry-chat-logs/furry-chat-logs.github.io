@@ -13318,5 +13318,35 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "You won't kill chat",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7902747",
+    "type": "public",
+    "date": "19/05 13:18",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Deimos ooohhhhhh",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902748",
+    "type": "public",
+    "date": "19/05 13:18",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "٭٭ last time I did that I killed chat and got tolded that it was really my fault",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7902749",
+    "type": "public",
+    "date": "19/05 13:19",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "One of my friends got called the R slur for being an Atheist.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
