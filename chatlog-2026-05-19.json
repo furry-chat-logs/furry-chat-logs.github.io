@@ -2628,5 +2628,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_dcfbb60bf0ee.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901669",
+    "type": "public",
+    "date": "19/05 7:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "He bit me [angry]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
