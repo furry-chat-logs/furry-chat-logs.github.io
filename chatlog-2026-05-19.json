@@ -10458,5 +10458,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Smiley not anymoree",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902460",
+    "type": "public",
+    "date": "19/05 12:32",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "The one I listened to most that helped me the most was probably Remember This",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902461",
+    "type": "public",
+    "date": "19/05 12:33",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": ":3",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
