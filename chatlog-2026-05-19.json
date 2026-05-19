@@ -9818,5 +9818,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": ">:3. someone else knows our advantage of numbers!",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902396",
+    "type": "public",
+    "date": "19/05 12:18",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "how do u do the secret share thing-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902397",
+    "type": "public",
+    "date": "19/05 12:18",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Jaxxie search up secret share",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
