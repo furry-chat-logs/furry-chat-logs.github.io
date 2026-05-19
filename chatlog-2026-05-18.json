@@ -22194,5 +22194,35 @@
     "userClasses": "username user ",
     "message": "I'm gonna implode",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901259",
+    "type": "public",
+    "date": "18/05 23:16",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "And why would you do that",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901260",
+    "type": "public",
+    "date": "18/05 23:16",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "How else am I going impress the 5'3 femboy baddie",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901261",
+    "type": "public",
+    "date": "18/05 23:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Why is there also implode and explode",
+    "msgClasses": "chat_message bneon14"
   }
 ]
