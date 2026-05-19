@@ -20904,5 +20904,35 @@
     "userClasses": "username user ",
     "message": "Ill get a credit card when i get my id",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901129",
+    "type": "public",
+    "date": "18/05 22:06",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Send stuff or I’ll uh uh airdrop 2k centipedes on your house",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901130",
+    "type": "public",
+    "date": "18/05 22:07",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "Moonishiki uhm well i'm headed to bed now but uh being self centered isn't good",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7901131",
+    "type": "public",
+    "date": "18/05 22:07",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "But at least I have the decency to chase what I want, degenerate.",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
