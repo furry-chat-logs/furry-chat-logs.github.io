@@ -6648,5 +6648,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Medokin fr",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902079",
+    "type": "public",
+    "date": "19/05 11:28",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Me",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
