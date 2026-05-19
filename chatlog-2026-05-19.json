@@ -6588,5 +6588,25 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Pina  ong thas me frrrr",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902073",
+    "type": "public",
+    "date": "19/05 11:28",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Pina REALLLLLL",
+    "msgClasses": "chat_message bneon19  bfont5"
+  },
+  {
+    "id": "7902074",
+    "type": "public",
+    "date": "19/05 11:28",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "okay. I now see that my GIFs have a three second delay. I need to learn to work with that",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
