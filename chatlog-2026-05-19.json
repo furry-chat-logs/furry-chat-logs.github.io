@@ -19788,5 +19788,45 @@
     "userClasses": "username bgrad7 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_9afdf143140c.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903397",
+    "type": "public",
+    "date": "19/05 15:59",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_4dc25f4b4017.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903398",
+    "type": "public",
+    "date": "19/05 15:59",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_082f4078505b.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903399",
+    "type": "public",
+    "date": "19/05 15:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "JustAnAnt hmo on that thing",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903400",
+    "type": "public",
+    "date": "19/05 15:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
