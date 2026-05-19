@@ -4598,5 +4598,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Num Little Bug caboom?",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7901874",
+    "type": "public",
+    "date": "19/05 9:56",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "Huh weird i cant share my guitar",
+    "msgClasses": "chat_message bneon19  bfont3"
   }
 ]
