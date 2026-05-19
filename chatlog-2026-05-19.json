@@ -3118,5 +3118,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "since Moonishiki is a bunny now",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7901726",
+    "type": "public",
+    "date": "19/05 8:47",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Twk",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
