@@ -11248,5 +11248,65 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Moonishiki :D",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902540",
+    "type": "public",
+    "date": "19/05 12:48",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Breakcore in general is dead",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7902541",
+    "type": "public",
+    "date": "19/05 12:48",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "TwInKy TwInKy TwInK 19/05 10:47 || I'm not a twink </3",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902542",
+    "type": "public",
+    "date": "19/05 12:49",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( I'm a twink 19/05 10:48 ) Good for you bud",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902543",
+    "type": "public",
+    "date": "19/05 12:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wats a twink",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902544",
+    "type": "public",
+    "date": "19/05 12:49",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "Hmmm",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7902545",
+    "type": "public",
+    "date": "19/05 12:49",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "ts is so strange",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
