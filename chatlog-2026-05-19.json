@@ -12078,5 +12078,75 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_6326815bd14a.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902623",
+    "type": "public",
+    "date": "19/05 13:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "\"coolpad\"",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902624",
+    "type": "public",
+    "date": "19/05 13:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "😭",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902625",
+    "type": "public",
+    "date": "19/05 13:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user6405_9f60c0926482.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902626",
+    "type": "public",
+    "date": "19/05 13:05",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Didn't even know because the logo wasn't there",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902627",
+    "type": "public",
+    "date": "19/05 13:05",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "damn, shit woulda been funny",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902628",
+    "type": "public",
+    "date": "19/05 13:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Coolpad is just a dumb ass name",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902629",
+    "type": "public",
+    "date": "19/05 13:05",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "can barely hear shit too",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
