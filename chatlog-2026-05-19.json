@@ -6808,5 +6808,15 @@
     "userClasses": "username user ",
     "message": "Shit @pina, who pissed in your cereal",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902095",
+    "type": "public",
+    "date": "19/05 11:32",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "vexx nobody, im js playing bro",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
