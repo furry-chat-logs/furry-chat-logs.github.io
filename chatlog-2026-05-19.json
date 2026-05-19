@@ -20488,5 +20488,35 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_d18c328c9058.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903468",
+    "type": "public",
+    "date": "19/05 16:33",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_345b6fcc10dd.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903469",
+    "type": "public",
+    "date": "19/05 16:33",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "*sigh*",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903470",
+    "type": "public",
+    "date": "19/05 16:33",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_77072d6c40c0.png]",
+    "msgClasses": "chat_message "
   }
 ]
