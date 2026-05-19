@@ -20288,5 +20288,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Please.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903447",
+    "type": "public",
+    "date": "19/05 16:17",
+    "username": "Celeste Azul",
+    "userId": "16465",
+    "userClasses": "username bneon14 bnfont2",
+    "message": "they added the read delivered thing for dms thats cool",
+    "msgClasses": "chat_message bneon14 bold bfont2"
   }
 ]
