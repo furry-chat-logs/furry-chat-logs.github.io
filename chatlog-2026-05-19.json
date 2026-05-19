@@ -16338,5 +16338,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Uh",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7903049",
+    "type": "public",
+    "date": "19/05 14:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*hugs*",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7903050",
+    "type": "public",
+    "date": "19/05 14:10",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "おやすみ!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
