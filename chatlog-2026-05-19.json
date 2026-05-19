@@ -13738,5 +13738,45 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_5080e4be388f.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902789",
+    "type": "public",
+    "date": "19/05 13:24",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "OH god",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902790",
+    "type": "public",
+    "date": "19/05 13:24",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Stefan 😭😭😭😭😭",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7902791",
+    "type": "public",
+    "date": "19/05 13:24",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I think that mobile services app summoned them 😭",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7902792",
+    "type": "public",
+    "date": "19/05 13:24",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "whos Stefan bro?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
