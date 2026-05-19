@@ -6348,5 +6348,25 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Pina  O_O",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902049",
+    "type": "public",
+    "date": "19/05 11:22",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Pina Dori noo",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902050",
+    "type": "public",
+    "date": "19/05 11:22",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Pina  Nah, time to leave earth gng",
+    "msgClasses": "chat_message "
   }
 ]
