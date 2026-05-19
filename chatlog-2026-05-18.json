@@ -18354,5 +18354,45 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "heeeey!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900870",
+    "type": "public",
+    "date": "18/05 20:53",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "bored yet again-",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900871",
+    "type": "public",
+    "date": "18/05 20:53",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hmm...",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7900872",
+    "type": "public",
+    "date": "18/05 20:53",
+    "username": "Jaxxie",
+    "userId": "37270",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "heeeey'",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7900873",
+    "type": "public",
+    "date": "18/05 20:53",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I be drinking paint",
+    "msgClasses": "chat_message "
   }
 ]
