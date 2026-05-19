@@ -20108,5 +20108,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Moonishiki GYAAA",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903429",
+    "type": "public",
+    "date": "19/05 16:05",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "HAJSBDJBAJSJASDVQWVDVQ-",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7903430",
+    "type": "public",
+    "date": "19/05 16:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_3eb021d84863.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903431",
+    "type": "public",
+    "date": "19/05 16:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm probably gonna remake this",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903432",
+    "type": "public",
+    "date": "19/05 16:05",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Rune mentioned.",
+    "msgClasses": "chat_message ital"
   }
 ]
