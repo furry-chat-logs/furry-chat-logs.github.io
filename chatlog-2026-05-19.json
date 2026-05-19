@@ -1818,5 +1818,15 @@
     "userClasses": "username bgrad2 bnfont8",
     "message": "Ugh...Ima just not sleep and stay on vrc all night ig",
     "msgClasses": "chat_message bgrad4 bold bfont12"
+  },
+  {
+    "id": "7901588",
+    "type": "public",
+    "date": "19/05 1:13",
+    "username": "LuckyRunAway",
+    "userId": "32142",
+    "userClasses": "username bneon2 bnfont13",
+    "message": "huh",
+    "msgClasses": "chat_message bgrad17 ital bfont2"
   }
 ]
