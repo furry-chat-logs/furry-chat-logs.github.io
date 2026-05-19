@@ -22098,5 +22098,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWI0aDlwMjhiMGxrYTlvbTJ4eTQzb2JxcGM1NGxmMnNycXZya2h0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LR5GeZFCwDRcpG20PR/giphy.gif]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7903630",
+    "type": "public",
+    "date": "19/05 17:00",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_f02e68ee868a.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903631",
+    "type": "public",
+    "date": "19/05 17:00",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdGk5d2N2cm55cGprdnJ2M3I1c3JpZWdxeW9vbWJrbXBwZzJpZ3pvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RlfJLFT32fIvdG2xYv/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
