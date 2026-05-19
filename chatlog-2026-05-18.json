@@ -23624,5 +23624,25 @@
     "userClasses": "username user ",
     "message": "Hello fellow shark",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901403",
+    "type": "public",
+    "date": "18/05 23:57",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "The sharks",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901404",
+    "type": "public",
+    "date": "18/05 23:57",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Wtfissachip hello",
+    "msgClasses": "chat_message "
   }
 ]
