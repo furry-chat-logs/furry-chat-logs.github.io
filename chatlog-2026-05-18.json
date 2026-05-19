@@ -17884,5 +17884,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Why",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7900823",
+    "type": "public",
+    "date": "18/05 20:24",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "girl reasons",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7900824",
+    "type": "public",
+    "date": "18/05 20:24",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "eughhhh",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
