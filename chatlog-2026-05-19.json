@@ -22978,5 +22978,45 @@
     "userClasses": "username bgrad22 bnfont9",
     "message": "AJ_THEBAT sup twin",
     "msgClasses": "chat_message bneon3 ital bfont4"
+  },
+  {
+    "id": "7903724",
+    "type": "public",
+    "date": "19/05 17:26",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "prEtzeL it's ok, earth girl.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903725",
+    "type": "public",
+    "date": "19/05 17:26",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "open poll",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903726",
+    "type": "public",
+    "date": "19/05 17:26",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Mods, disintegrate the fabric of his very existence",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903727",
+    "type": "public",
+    "date": "19/05 17:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Jarvis, give this man the bob barker treatment",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
