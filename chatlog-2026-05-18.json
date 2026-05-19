@@ -17924,5 +17924,25 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "omg yayaayayayayyaadsfioj",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7900827",
+    "type": "public",
+    "date": "18/05 20:26",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Ayo?",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7900828",
+    "type": "public",
+    "date": "18/05 20:26",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "sry",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
