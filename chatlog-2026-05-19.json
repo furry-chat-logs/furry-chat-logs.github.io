@@ -24508,5 +24508,85 @@
     "userClasses": "username bgrad7 ",
     "message": "NOOO",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903902",
+    "type": "public",
+    "date": "19/05 17:55",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "Weh?",
+    "msgClasses": "chat_message bneon19  bfont3"
+  },
+  {
+    "id": "7903903",
+    "type": "public",
+    "date": "19/05 17:56",
+    "username": "silence",
+    "userId": "27040",
+    "userClasses": "username bgrad22 bnfont9",
+    "message": "ok so like hi",
+    "msgClasses": "chat_message bneon3 ital bfont4"
+  },
+  {
+    "id": "7903904",
+    "type": "public",
+    "date": "19/05 17:56",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "That's me btw :3",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903905",
+    "type": "public",
+    "date": "19/05 17:56",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I was doing a bit :3",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903906",
+    "type": "public",
+    "date": "19/05 17:56",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_c7107a9a3d01.webp]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903907",
+    "type": "public",
+    "date": "19/05 17:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki we know.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903908",
+    "type": "public",
+    "date": "19/05 17:56",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hehehe",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903909",
+    "type": "public",
+    "date": "19/05 17:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZW4waXFyanFpamZscDVsYWtzbnpjZWx3bnIyZHA1N3UxZmsxeTEwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c6YhpGxZH9hjq/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
