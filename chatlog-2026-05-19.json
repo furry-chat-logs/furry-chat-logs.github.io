@@ -6538,5 +6538,45 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMHo4NWRpc2NzanpwYmk0Z2Rka2QzcHVwN2o3cThmazM0aXNsNnRmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7902068",
+    "type": "public",
+    "date": "19/05 11:27",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_80e52188ae59.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902069",
+    "type": "public",
+    "date": "19/05 11:27",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "this is me",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7902070",
+    "type": "public",
+    "date": "19/05 11:27",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_fc5ad4ad00de.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7902071",
+    "type": "public",
+    "date": "19/05 11:27",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "oh. Chat GPT thinks it's a good idea to openly admit to doing what it's meant to do. I'll be right back",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
