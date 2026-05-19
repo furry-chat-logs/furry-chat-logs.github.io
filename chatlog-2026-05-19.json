@@ -5078,5 +5078,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "[good]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901922",
+    "type": "public",
+    "date": "19/05 10:33",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Good morning!",
+    "msgClasses": "chat_message "
   }
 ]
