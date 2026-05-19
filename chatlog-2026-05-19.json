@@ -3888,5 +3888,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "Medokin I'm thinking about it now, maybe 😭",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7901803",
+    "type": "public",
+    "date": "19/05 9:31",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Medokin why'd I read that in a asian father voice",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
