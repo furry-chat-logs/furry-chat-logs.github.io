@@ -6658,5 +6658,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Me",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7902080",
+    "type": "public",
+    "date": "19/05 11:29",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "me. I'll take a meme",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7902081",
+    "type": "public",
+    "date": "19/05 11:29",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "Pina  ME!",
+    "msgClasses": "chat_message "
   }
 ]
