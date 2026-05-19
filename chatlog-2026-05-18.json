@@ -20244,5 +20244,65 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] ee",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901062",
+    "type": "public",
+    "date": "18/05 21:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_6fdf292af89d.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901063",
+    "type": "public",
+    "date": "18/05 21:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Shit",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7901064",
+    "type": "public",
+    "date": "18/05 21:49",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": ".",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7901065",
+    "type": "public",
+    "date": "18/05 21:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I accidentally pasted that",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7901066",
+    "type": "public",
+    "date": "18/05 21:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "😭",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7901067",
+    "type": "public",
+    "date": "18/05 21:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: ARrm65njPTk2Vf2O0obLD08bz&n=47098]",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
