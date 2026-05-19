@@ -20268,5 +20268,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I love dead rat cake",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7903445",
+    "type": "public",
+    "date": "19/05 16:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[secret-share: dyvT9yO0zciPVli9GaLPjsYyZ&n=47150] distraction. I need it.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903446",
+    "type": "public",
+    "date": "19/05 16:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Please.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
