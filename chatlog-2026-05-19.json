@@ -20688,5 +20688,55 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "NO",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903488",
+    "type": "public",
+    "date": "19/05 16:37",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "☺️",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7903489",
+    "type": "public",
+    "date": "19/05 16:38",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Exactly",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7903490",
+    "type": "public",
+    "date": "19/05 16:38",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_4fda29b42db1.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7903491",
+    "type": "public",
+    "date": "19/05 16:38",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki what.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7903492",
+    "type": "public",
+    "date": "19/05 16:38",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Not you",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
