@@ -21404,5 +21404,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Smiley awa",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7901179",
+    "type": "public",
+    "date": "18/05 22:29",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Frogmin valid",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
