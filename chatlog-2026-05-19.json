@@ -16458,5 +16458,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "KingCorgz bro i hate waking up at that time",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7903061",
+    "type": "public",
+    "date": "19/05 14:12",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I didn't mean to waste my whole day",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
