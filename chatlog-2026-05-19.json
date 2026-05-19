@@ -3428,5 +3428,15 @@
     "userClasses": "username bgrad22 bnfont2",
     "message": "wow well done",
     "msgClasses": "chat_message bgrad22 ital bfont2"
+  },
+  {
+    "id": "7901757",
+    "type": "public",
+    "date": "19/05 9:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: ARrm65njPTk2Vf2O0obLD08bz&n=47098]",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
