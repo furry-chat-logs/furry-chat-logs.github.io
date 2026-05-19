@@ -21594,5 +21594,15 @@
     "userClasses": "username user ",
     "message": "Porphyrophobia ur name is the fear of the color purple",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7901198",
+    "type": "public",
+    "date": "18/05 22:38",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Qna thing",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
