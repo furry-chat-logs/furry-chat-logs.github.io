@@ -26178,5 +26178,25 @@
     "userClasses": "username bneon18 ",
     "message": "[skull]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7904126",
+    "type": "public",
+    "date": "19/05 18:27",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Hello",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7904130",
+    "type": "public",
+    "date": "19/05 18:27",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hello froglord",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
