@@ -9848,5 +9848,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "im gonna go die now TwT",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7902399",
+    "type": "public",
+    "date": "19/05 12:21",
+    "username": "Wuskie",
+    "userId": "21257",
+    "userClasses": "username bgrad22 bnfont2",
+    "message": "yea dont....",
+    "msgClasses": "chat_message bgrad22 ital bfont2"
+  },
+  {
+    "id": "7902400",
+    "type": "public",
+    "date": "19/05 12:21",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Meep nuh uh, you're staying until you get your answer.",
+    "msgClasses": "chat_message "
   }
 ]
