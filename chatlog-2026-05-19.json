@@ -4288,5 +4288,45 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "Dragon Sticker would be cool.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7901843",
+    "type": "public",
+    "date": "19/05 9:49",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "Anyways hi",
+    "msgClasses": "chat_message bneon19  bfont3"
+  },
+  {
+    "id": "7901844",
+    "type": "public",
+    "date": "19/05 9:49",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "okay :(",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7901845",
+    "type": "public",
+    "date": "19/05 9:49",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "NeptuneLynxx your stickers are cool, won't lie.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7901846",
+    "type": "public",
+    "date": "19/05 9:49",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "hey chat",
+    "msgClasses": "chat_message "
   }
 ]
