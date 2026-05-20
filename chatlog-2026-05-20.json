@@ -16144,5 +16144,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "Hello :]",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7906682",
+    "type": "public",
+    "date": "20/05 16:20",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "mb my food js got here",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
