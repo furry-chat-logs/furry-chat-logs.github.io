@@ -11664,5 +11664,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "vexx oh yeah welcome",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906231",
+    "type": "public",
+    "date": "20/05 12:44",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "vexx welcome in",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7906232",
+    "type": "public",
+    "date": "20/05 12:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Flip flop I shel give you the purple frog",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906233",
+    "type": "public",
+    "date": "20/05 12:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_224b6ba730a4.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
