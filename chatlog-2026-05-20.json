@@ -14374,5 +14374,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "•.•",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7906504",
+    "type": "public",
+    "date": "20/05 14:43",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "70 days of daily missions",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
