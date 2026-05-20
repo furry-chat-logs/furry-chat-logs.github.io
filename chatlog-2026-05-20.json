@@ -11754,5 +11754,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Yumping",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906240",
+    "type": "public",
+    "date": "20/05 12:48",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_ec0b8fd94580.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
