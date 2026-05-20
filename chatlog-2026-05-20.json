@@ -12154,5 +12154,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Hm?",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906282",
+    "type": "public",
+    "date": "20/05 13:15",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yeah",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906283",
+    "type": "public",
+    "date": "20/05 13:15",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Moonishiki just that I believe you over a new person",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
