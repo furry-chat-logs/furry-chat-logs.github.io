@@ -2326,5 +2326,15 @@
     "userClasses": "username bcolor28 ",
     "message": "[heu]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7905255",
+    "type": "public",
+    "date": "20/05 5:24",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "TheFurryRequiem hi",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
