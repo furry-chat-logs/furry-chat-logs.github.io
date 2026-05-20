@@ -6016,5 +6016,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "When I'm without my meds I get light headed and nearly fall over",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7905628",
+    "type": "public",
+    "date": "20/05 8:20",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "EXA",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905629",
+    "type": "public",
+    "date": "20/05 8:20",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Happens to me too",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
