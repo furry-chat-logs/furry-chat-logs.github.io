@@ -8596,5 +8596,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "could be better, you?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905921",
+    "type": "public",
+    "date": "20/05 10:51",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "same, i woke up 10 minutes before my classes",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7905922",
+    "type": "public",
+    "date": "20/05 10:51",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Pina I posted a commision on the friends wall, what do you think abt it?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
