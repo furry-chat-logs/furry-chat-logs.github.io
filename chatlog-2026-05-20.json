@@ -8326,5 +8326,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "٭٭ your songs?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905892",
+    "type": "public",
+    "date": "20/05 10:12",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Nouh, yume 2kki is a game :p",
+    "msgClasses": "chat_message bfont7"
   }
 ]
