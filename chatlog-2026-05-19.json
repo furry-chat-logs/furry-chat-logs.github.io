@@ -32708,5 +32708,15 @@
     "userClasses": "username bneon14 bnfont2",
     "message": "i no longer want to say goodnight",
     "msgClasses": "chat_message bneon14 bold bfont2"
+  },
+  {
+    "id": "7904939",
+    "type": "public",
+    "date": "19/05 23:31",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hi Zen",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
