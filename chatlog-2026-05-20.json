@@ -8236,5 +8236,45 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "Sol_Aizawa Im sorry to hear that, I'm good",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905883",
+    "type": "public",
+    "date": "20/05 10:09",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user7582_ea7910790e9f.mp3 | Yume_2kki___Moseni_Lotus.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905884",
+    "type": "public",
+    "date": "20/05 10:09",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "XxIQShuruixX nach really",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905885",
+    "type": "public",
+    "date": "20/05 10:09",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "More yume 2kki",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7905886",
+    "type": "public",
+    "date": "20/05 10:09",
+    "username": "XxIQShuruixX",
+    "userId": "37146",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "besides my allergies whooping me",
+    "msgClasses": "chat_message "
   }
 ]
