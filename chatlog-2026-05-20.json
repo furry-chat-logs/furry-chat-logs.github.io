@@ -15464,5 +15464,25 @@
     "userClasses": "username bneon18 ",
     "message": "I rushed my drawing too much.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7906613",
+    "type": "public",
+    "date": "20/05 16:04",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa one footstep and its over",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7906614",
+    "type": "public",
+    "date": "20/05 16:04",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbzZvdTNzZnJvZmpwM3JpdGpsdTJiNW5jMzBzZGIxNTQwang5MHYwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jTI6QnrwczjESfjQ8U/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
