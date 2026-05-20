@@ -30888,5 +30888,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'm back",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7904756",
+    "type": "public",
+    "date": "19/05 22:31",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Hi!!",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
