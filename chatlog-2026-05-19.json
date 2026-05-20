@@ -32428,5 +32428,15 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user34488_2bb34d9271b1.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904911",
+    "type": "public",
+    "date": "19/05 23:16",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbHI1dDBlMG9jMTZmYmt0eGFzaGs1MWJmemlwYzRsNmt0YWhidjk5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PsvD1p3IthN96/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
