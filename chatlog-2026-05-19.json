@@ -31018,5 +31018,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "ZephyrTheFlooferBoi hi Zephaniah's greed",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904769",
+    "type": "public",
+    "date": "19/05 22:41",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Bergindine what",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
