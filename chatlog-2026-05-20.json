@@ -9366,5 +9366,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Smiley hiii",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7905998",
+    "type": "public",
+    "date": "20/05 11:17",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "im js playing",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
