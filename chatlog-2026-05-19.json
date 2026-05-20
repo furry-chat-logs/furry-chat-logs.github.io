@@ -32228,5 +32228,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "I said goodnight chat",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904891",
+    "type": "public",
+    "date": "19/05 23:14",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Bergindine jeez.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7904892",
+    "type": "public",
+    "date": "19/05 23:14",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Gn",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
