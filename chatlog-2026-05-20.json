@@ -6578,5 +6578,23 @@
     "username": "System",
     "userId": null,
     "message": "EnderFox has been removed from chat"
+  },
+  {
+    "id": "7905717",
+    "type": "system",
+    "date": "20/05 9:38",
+    "username": "System",
+    "userId": null,
+    "message": "Ashen has been removed from chat"
+  },
+  {
+    "id": "7905718",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "DAMN",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
