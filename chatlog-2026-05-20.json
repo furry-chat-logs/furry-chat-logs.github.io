@@ -12014,5 +12014,25 @@
     "userClasses": "username user ",
     "message": "ju",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906268",
+    "type": "public",
+    "date": "20/05 13:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "That pfp",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906269",
+    "type": "public",
+    "date": "20/05 13:13",
+    "username": "Jagdtiger",
+    "userId": "37302",
+    "userClasses": "username user ",
+    "message": "wazzup",
+    "msgClasses": "chat_message "
   }
 ]
