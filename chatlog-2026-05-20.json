@@ -208,5 +208,15 @@
     "userClasses": "username bgrad7 ",
     "message": "You're a very good and loyal friend",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905042",
+    "type": "public",
+    "date": "20/05 0:05",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "Ain't that a first.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
