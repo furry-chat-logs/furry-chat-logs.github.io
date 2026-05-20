@@ -9754,5 +9754,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid hello!",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7906037",
+    "type": "public",
+    "date": "20/05 11:32",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SilverXD I need to find a pritier one",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
