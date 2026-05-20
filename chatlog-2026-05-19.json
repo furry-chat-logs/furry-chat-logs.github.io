@@ -32488,5 +32488,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "[lynxfox]",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904917",
+    "type": "public",
+    "date": "19/05 23:17",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox]",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904918",
+    "type": "public",
+    "date": "19/05 23:17",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Fox",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
