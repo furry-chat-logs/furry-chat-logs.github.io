@@ -32038,5 +32038,15 @@
     "userClasses": "username user ",
     "message": "Bergindine no fleas caused the black plague",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904872",
+    "type": "public",
+    "date": "19/05 23:10",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "prEtzeL well",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
