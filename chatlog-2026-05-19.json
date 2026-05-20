@@ -33448,5 +33448,15 @@
     "userClasses": "username bgrad7 ",
     "message": "That makes sense",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905014",
+    "type": "public",
+    "date": "19/05 23:58",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "I didn't ask, actually. I had asked if Moon had you blocked and you just... blurted it out.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
