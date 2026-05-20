@@ -3756,5 +3756,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I have lots of exams and tests",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905400",
+    "type": "public",
+    "date": "20/05 6:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "but I have a headache anywway",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
