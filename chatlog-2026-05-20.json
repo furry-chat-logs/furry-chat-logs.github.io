@@ -7326,5 +7326,15 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "rah",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905792",
+    "type": "public",
+    "date": "20/05 9:47",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Not Ashen's",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
