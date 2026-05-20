@@ -408,5 +408,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Moonishiki look at this thumbnail",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7905063",
+    "type": "public",
+    "date": "20/05 0:22",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Hey",
+    "msgClasses": "chat_message "
   }
 ]
