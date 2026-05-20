@@ -9376,5 +9376,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "im js playing",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7905999",
+    "type": "public",
+    "date": "20/05 11:17",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Smiley morning smiley",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
