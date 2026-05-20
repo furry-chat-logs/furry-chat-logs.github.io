@@ -2198,5 +2198,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yea chat is dead all the timeee",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905242",
+    "type": "public",
+    "date": "20/05 3:06",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "True",
+    "msgClasses": "chat_message "
   }
 ]
