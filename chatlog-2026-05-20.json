@@ -11164,5 +11164,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": ":0",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7906178",
+    "type": "public",
+    "date": "20/05 12:24",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "My fav fictional character is Mikazuki Augus",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
