@@ -27698,5 +27698,35 @@
     "userClasses": "username user ",
     "message": "Porphyrophobia yep",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904416",
+    "type": "public",
+    "date": "19/05 19:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I remember I drew my friend a honestruck character when I was like 13",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904417",
+    "type": "public",
+    "date": "19/05 19:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Homestuck*",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904418",
+    "type": "public",
+    "date": "19/05 19:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Lemme try to find it",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
