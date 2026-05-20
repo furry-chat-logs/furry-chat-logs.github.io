@@ -7786,5 +7786,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "omg its my goat ٭٭",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905838",
+    "type": "public",
+    "date": "20/05 10:02",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Batch [wooper]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
