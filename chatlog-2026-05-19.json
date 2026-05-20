@@ -31788,5 +31788,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "I was crazy once",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904847",
+    "type": "public",
+    "date": "19/05 23:08",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "They locked me in a room",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
