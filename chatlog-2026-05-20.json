@@ -15824,5 +15824,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "im amazing",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7906650",
+    "type": "public",
+    "date": "20/05 16:12",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I'm not",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906651",
+    "type": "public",
+    "date": "20/05 16:12",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "how are YOU?",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
