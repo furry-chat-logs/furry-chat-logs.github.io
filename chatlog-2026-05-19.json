@@ -32878,5 +32878,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[skull] ..",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904957",
+    "type": "public",
+    "date": "19/05 23:36",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Brb",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904958",
+    "type": "public",
+    "date": "19/05 23:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Rightbal",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
