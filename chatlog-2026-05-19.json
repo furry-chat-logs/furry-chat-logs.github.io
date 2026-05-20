@@ -31968,5 +31968,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Rodents...",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7904865",
+    "type": "public",
+    "date": "19/05 23:09",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "the rats are what caused the hantavirus btw",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
