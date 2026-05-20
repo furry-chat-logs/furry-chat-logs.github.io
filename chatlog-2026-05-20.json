@@ -11994,5 +11994,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sniff sniff bye",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906266",
+    "type": "public",
+    "date": "20/05 13:12",
+    "username": "Jagdtiger",
+    "userId": "37302",
+    "userClasses": "username user ",
+    "message": "hi =)",
+    "msgClasses": "chat_message "
   }
 ]
