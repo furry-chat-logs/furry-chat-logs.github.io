@@ -15684,5 +15684,25 @@
     "userClasses": "username bneon18 ",
     "message": "Brb.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7906635",
+    "type": "public",
+    "date": "20/05 16:10",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_2ca74dba1047.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906637",
+    "type": "public",
+    "date": "20/05 16:10",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "i remember that cartoon- Issa",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
