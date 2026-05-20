@@ -32088,5 +32088,15 @@
     "userClasses": "username user ",
     "message": "You can't blame the rats for the flea's bullshit",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904877",
+    "type": "public",
+    "date": "19/05 23:11",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "I like blaming the rats",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
