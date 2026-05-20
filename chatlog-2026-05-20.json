@@ -14744,5 +14744,15 @@
     "userClasses": "username bneon18 ",
     "message": "Hi.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7906541",
+    "type": "public",
+    "date": "20/05 15:33",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "Licks grass",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
