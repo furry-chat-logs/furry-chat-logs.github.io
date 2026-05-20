@@ -168,5 +168,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Is okay",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905038",
+    "type": "public",
+    "date": "20/05 0:03",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Burgerham",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
