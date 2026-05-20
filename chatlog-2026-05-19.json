@@ -33298,5 +33298,15 @@
     "userClasses": "username bgrad7 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_b54642ba2f6e.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904999",
+    "type": "public",
+    "date": "19/05 23:56",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "Boing",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
