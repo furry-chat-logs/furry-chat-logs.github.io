@@ -31558,5 +31558,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "A rubber rom with rats",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904824",
+    "type": "public",
+    "date": "19/05 23:06",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "And rats make me crazy",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904825",
+    "type": "public",
+    "date": "19/05 23:06",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Buh dum crash.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
