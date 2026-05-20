@@ -3846,5 +3846,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "we have tests, that count 0 times 1, 2 or 3, the test that count as 3 are given in a test week",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905409",
+    "type": "public",
+    "date": "20/05 6:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
