@@ -4866,5 +4866,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37148_9ef7a99c32a0.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905511",
+    "type": "public",
+    "date": "20/05 7:38",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki sup",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
