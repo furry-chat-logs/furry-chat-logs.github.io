@@ -5656,5 +5656,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "But at least they got the courage to show it",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905591",
+    "type": "public",
+    "date": "20/05 7:57",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki its ok to be short :3",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905592",
+    "type": "public",
+    "date": "20/05 7:57",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "New Kid truee",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7905593",
+    "type": "public",
+    "date": "20/05 7:57",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I'm 6 FT",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
