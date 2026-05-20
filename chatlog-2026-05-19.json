@@ -28078,5 +28078,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I just hope Charlie's family is safe, they should really consider moving to the neck of the woods",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904472",
+    "type": "public",
+    "date": "19/05 20:10",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "THATS FOUL",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7904473",
+    "type": "public",
+    "date": "19/05 20:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "😭",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
