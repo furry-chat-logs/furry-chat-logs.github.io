@@ -6756,5 +6756,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Like shut yo little annoying ass up \"Oki\"",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905735",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "NeptuneLynxx Remind me when I'm home to report him.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7905736",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "New Kid Oki",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905737",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ong that's why everyone hated him",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
