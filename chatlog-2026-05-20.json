@@ -23260,5 +23260,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOWlnazMzd3gzcDVibjRwejR3MmVoamoxb2NwNWlxY2QxbG8wZ3JweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vOJE2GSxvy3AJwtJKd/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7907405",
+    "type": "public",
+    "date": "20/05 18:21",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "alr imma leave again",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7907406",
+    "type": "public",
+    "date": "20/05 18:21",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "byee",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
