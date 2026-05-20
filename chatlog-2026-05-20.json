@@ -828,5 +828,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Im up playing games bc im a shithead not going to bed when my parents tell me to :3",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905105",
+    "type": "public",
+    "date": "20/05 1:42",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "So sleepy",
+    "msgClasses": "chat_message "
   }
 ]
