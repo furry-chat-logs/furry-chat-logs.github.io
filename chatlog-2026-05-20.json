@@ -4526,5 +4526,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "im working at qt hopefully",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905477",
+    "type": "public",
+    "date": "20/05 7:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I trying to find a job at one of the local market places",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
