@@ -12004,5 +12004,15 @@
     "userClasses": "username user ",
     "message": "hi =)",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906267",
+    "type": "public",
+    "date": "20/05 13:13",
+    "username": "Nak Nes",
+    "userId": "34867",
+    "userClasses": "username user ",
+    "message": "ju",
+    "msgClasses": "chat_message "
   }
 ]
