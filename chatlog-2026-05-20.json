@@ -5346,5 +5346,15 @@
     "userClasses": "username bcolor9 ",
     "message": "Sol_Aizawa I used to have latin at my old school but i never did it",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7905560",
+    "type": "public",
+    "date": "20/05 7:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Coldzenith I put a pizza ban on mondo, he was being mean",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
