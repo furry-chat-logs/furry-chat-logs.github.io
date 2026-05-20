@@ -30268,5 +30268,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Smiley dayum",
     "msgClasses": "chat_message bgrad4 ital bfont9"
+  },
+  {
+    "id": "7904692",
+    "type": "public",
+    "date": "19/05 22:00",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Xenia hm?",
+    "msgClasses": "chat_message "
   }
 ]
