@@ -5616,5 +5616,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yeah",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905587",
+    "type": "public",
+    "date": "20/05 7:56",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "i knew it",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905588",
+    "type": "public",
+    "date": "20/05 7:56",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "No",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
