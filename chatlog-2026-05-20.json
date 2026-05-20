@@ -6786,5 +6786,45 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Ong that's why everyone hated him",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905738",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Moonishiki die.",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905739",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Mbmb",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905740",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Jkjk",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905741",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "LOL",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
