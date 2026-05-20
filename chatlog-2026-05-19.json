@@ -32398,5 +32398,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lol",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7904908",
+    "type": "public",
+    "date": "19/05 23:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sh*wers",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904909",
+    "type": "public",
+    "date": "19/05 23:16",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "JustAnAnt I shower nightly at ~19:00",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904910",
+    "type": "public",
+    "date": "19/05 23:16",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user34488_2bb34d9271b1.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
