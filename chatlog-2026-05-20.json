@@ -2736,5 +2736,85 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Nooooo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905298",
+    "type": "public",
+    "date": "20/05 6:04",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*Floofs up and hisses*",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905299",
+    "type": "public",
+    "date": "20/05 6:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Mroww!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905300",
+    "type": "public",
+    "date": "20/05 6:05",
+    "username": "hopeless_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "gtg take a test rq",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905301",
+    "type": "public",
+    "date": "20/05 6:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yay! No more hissy time",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905302",
+    "type": "public",
+    "date": "20/05 6:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "phew",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905303",
+    "type": "public",
+    "date": "20/05 6:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_911b6e571244.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905304",
+    "type": "public",
+    "date": "20/05 6:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "It's charging",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905305",
+    "type": "public",
+    "date": "20/05 6:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "k",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
