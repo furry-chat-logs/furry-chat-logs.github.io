@@ -8146,5 +8146,15 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "Hello :D",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905874",
+    "type": "public",
+    "date": "20/05 10:08",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Sol_Aizawa that's just the title ;w;",
+    "msgClasses": "chat_message bfont7"
   }
 ]
