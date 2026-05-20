@@ -38,5 +38,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "I love leaking dms",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905025",
+    "type": "public",
+    "date": "20/05 0:00",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
