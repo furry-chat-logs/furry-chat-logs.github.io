@@ -4876,5 +4876,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki sup",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905512",
+    "type": "public",
+    "date": "20/05 7:38",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "hii",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
