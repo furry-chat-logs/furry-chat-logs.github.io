@@ -2336,5 +2336,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "TheFurryRequiem hi",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905256",
+    "type": "public",
+    "date": "20/05 5:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Just finished a commision for AshenVX",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
