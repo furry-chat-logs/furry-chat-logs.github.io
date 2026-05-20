@@ -3296,5 +3296,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "w friend",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905354",
+    "type": "public",
+    "date": "20/05 6:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yay",
+    "msgClasses": "chat_message bneon14"
   }
 ]
