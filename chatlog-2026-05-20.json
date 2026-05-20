@@ -6946,5 +6946,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I only got ts one",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905754",
+    "type": "public",
+    "date": "20/05 9:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I have one other",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905755",
+    "type": "public",
+    "date": "20/05 9:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ion get what you need alts for",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
