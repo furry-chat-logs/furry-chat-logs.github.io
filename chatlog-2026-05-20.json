@@ -618,5 +618,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Lmao",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905084",
+    "type": "public",
+    "date": "20/05 1:27",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "ZephyrTheFlooferBoi hello",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905085",
+    "type": "public",
+    "date": "20/05 1:28",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Haiii Medokin",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
