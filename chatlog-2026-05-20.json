@@ -12494,5 +12494,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Niko_The_Bee you alr?",
     "msgClasses": "chat_message bneon19 heavybold bfont7"
+  },
+  {
+    "id": "7906316",
+    "type": "public",
+    "date": "20/05 13:25",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "King_da_Furry  sure",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
