@@ -5166,5 +5166,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "Morning yall",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7905541",
+    "type": "public",
+    "date": "20/05 7:50",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "im scared of Coldzenith",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
