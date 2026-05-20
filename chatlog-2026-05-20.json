@@ -6826,5 +6826,25 @@
     "userClasses": "username bgrad7 ",
     "message": "LOL",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905742",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "oh damn. if Frogmin needs to report him, he did something real bad...",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7905743",
+    "type": "public",
+    "date": "20/05 9:39",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "Frogmin yessir 🫡",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
