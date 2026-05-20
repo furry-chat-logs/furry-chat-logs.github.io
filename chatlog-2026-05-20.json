@@ -11704,5 +11704,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Medokin thats a pink frog...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906235",
+    "type": "public",
+    "date": "20/05 12:45",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "That's pick",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
