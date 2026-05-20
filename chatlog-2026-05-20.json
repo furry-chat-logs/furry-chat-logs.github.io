@@ -2168,5 +2168,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Medokin too bad",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905239",
+    "type": "public",
+    "date": "20/05 3:04",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_4611f27e0071.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905240",
+    "type": "public",
+    "date": "20/05 3:04",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "I miss 2023 low key lol",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
