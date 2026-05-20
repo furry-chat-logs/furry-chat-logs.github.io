@@ -12244,5 +12244,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Moonishiki noice",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906291",
+    "type": "public",
+    "date": "20/05 13:18",
+    "username": "Jagdtiger",
+    "userId": "37302",
+    "userClasses": "username user ",
+    "message": "alright everybody, I'm heading out,, take care",
+    "msgClasses": "chat_message "
   }
 ]
