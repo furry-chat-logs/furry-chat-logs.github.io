@@ -33008,5 +33008,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Oh my gosh.",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904970",
+    "type": "public",
+    "date": "19/05 23:48",
+    "username": "Celeste Azul",
+    "userId": "16465",
+    "userClasses": "username bneon14 bnfont2",
+    "message": "idk nothing",
+    "msgClasses": "chat_message bneon14 bold bfont2"
+  },
+  {
+    "id": "7904971",
+    "type": "public",
+    "date": "19/05 23:48",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "GOOODDD FORBIDDD i say im SORRYY",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
