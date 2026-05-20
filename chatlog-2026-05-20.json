@@ -8056,5 +8056,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "sinnercat_mondo YES",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905865",
+    "type": "public",
+    "date": "20/05 10:07",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "sinnercat_mondo [good]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905866",
+    "type": "public",
+    "date": "20/05 10:07",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "It's in the mp3's name",
+    "msgClasses": "chat_message bfont7"
   }
 ]
