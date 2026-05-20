@@ -10364,5 +10364,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Spectre_protogen [Yeets the spooder at you] MUAHAHAHAHAA",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7906098",
+    "type": "public",
+    "date": "20/05 11:53",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bruh one student form my class ask the teacher if we should do the traditional greatingr if we are",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906099",
+    "type": "public",
+    "date": "20/05 11:54",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFma3FobXpmOG54MTZmZjV0Njc1a3hxa2Zkd3l3ZXZ4bjdldjZka2hhdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQGhqLUgkcZCRGiNJJ/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
