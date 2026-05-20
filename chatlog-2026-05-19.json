@@ -33498,5 +33498,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Like they said please stop trying to start stuff",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905019",
+    "type": "public",
+    "date": "19/05 23:59",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "I'm not even at this point.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
