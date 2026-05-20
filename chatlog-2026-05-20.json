@@ -13314,5 +13314,35 @@
     "userClasses": "username bgrad7 ",
     "message": "OHH",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906398",
+    "type": "public",
+    "date": "20/05 14:12",
+    "username": "V3LVETTE",
+    "userId": "34186",
+    "userClasses": "username bneon21 bnfont6",
+    "message": "its the next part .-.",
+    "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7906399",
+    "type": "public",
+    "date": "20/05 14:12",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Is that script?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906400",
+    "type": "public",
+    "date": "20/05 14:12",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*runs away* you'll never catch me! *runs straight into a tree*",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
