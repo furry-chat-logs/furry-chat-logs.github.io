@@ -30468,5 +30468,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[secret-share: jaMRWppi3bdfSXrcHIDONMuME&n=47166] I want to incite a riot",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904712",
+    "type": "public",
+    "date": "19/05 22:10",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_463540c7b3ab.png]",
+    "msgClasses": "chat_message "
   }
 ]
