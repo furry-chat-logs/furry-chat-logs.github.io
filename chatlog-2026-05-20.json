@@ -12534,5 +12534,35 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "mk",
     "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7906320",
+    "type": "public",
+    "date": "20/05 13:27",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "King_da_Furry KingCorgz not us reacting at the exact same time",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906321",
+    "type": "public",
+    "date": "20/05 13:27",
+    "username": "King_da_Furry",
+    "userId": "28201",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Sol_Aizawa yeah",
+    "msgClasses": "chat_message bneon19 heavybold bfont7"
+  },
+  {
+    "id": "7906322",
+    "type": "public",
+    "date": "20/05 13:27",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Sol_Aizawa lolll",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
