@@ -5566,5 +5566,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Took it yesterday",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905582",
+    "type": "public",
+    "date": "20/05 7:55",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "oh! sry Moonishiki",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
