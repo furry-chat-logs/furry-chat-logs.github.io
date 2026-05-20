@@ -2546,5 +2546,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "wich you should not do",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905277",
+    "type": "public",
+    "date": "20/05 5:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "The scruse are to small I can't get them of",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
