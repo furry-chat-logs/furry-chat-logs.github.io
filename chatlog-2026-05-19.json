@@ -29918,5 +29918,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "JustAnAnt hm?",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904657",
+    "type": "public",
+    "date": "19/05 21:49",
+    "username": "Oreos",
+    "userId": "34632",
+    "userClasses": "username bneon1 bnfont12",
+    "message": "Sonic The Hedgehog hai :p",
+    "msgClasses": "chat_message bneon24 bold bfont3"
+  },
+  {
+    "id": "7904658",
+    "type": "public",
+    "date": "19/05 21:49",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "\"Also my ss turned into a brain rot zone real fast\" Who could've done that??????  19/05 21:47 ant",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
