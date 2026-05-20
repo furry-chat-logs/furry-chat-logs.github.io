@@ -30108,5 +30108,35 @@
     "userClasses": "username bneon1 bnfont12",
     "message": "Idk I totally went on vacation with her",
     "msgClasses": "chat_message bneon24 bold bfont3"
+  },
+  {
+    "id": "7904676",
+    "type": "public",
+    "date": "19/05 21:51",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Joke failed",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7904677",
+    "type": "public",
+    "date": "19/05 21:51",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Oreos yup",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7904678",
+    "type": "public",
+    "date": "19/05 21:51",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "aw",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
