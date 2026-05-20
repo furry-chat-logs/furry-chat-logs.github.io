@@ -30038,5 +30038,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "JustAnAnt fat rune",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7904669",
+    "type": "public",
+    "date": "19/05 21:51",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Oreos where's your mum",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7904670",
+    "type": "public",
+    "date": "19/05 21:51",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Q&A",
+    "msgClasses": "chat_message "
   }
 ]
