@@ -31398,5 +31398,15 @@
     "userClasses": "username bcolor30 bnfont15",
     "message": "Both",
     "msgClasses": "chat_message bcolor30 ital bfont11"
+  },
+  {
+    "id": "7904808",
+    "type": "public",
+    "date": "19/05 23:04",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
