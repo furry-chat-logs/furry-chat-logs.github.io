@@ -17324,5 +17324,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWZheG45cWxpbW5iZjUxbmRnMXo2cnI5b3JkYTRkNXF2ZmNmMW1sbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O68ytd7I4RSCNyg3SD/giphy.gif]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7906800",
+    "type": "public",
+    "date": "20/05 16:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_189c98a77417.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
