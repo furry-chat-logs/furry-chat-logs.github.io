@@ -31058,5 +31058,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "It's a tf2 reference",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904773",
+    "type": "public",
+    "date": "19/05 22:42",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "well my bad i dont play tf2",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
