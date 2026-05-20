@@ -10074,5 +10074,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "A_kind_furry hehehe robots in disguise",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7906069",
+    "type": "public",
+    "date": "20/05 11:49",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_2582b5484753.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906070",
+    "type": "public",
+    "date": "20/05 11:49",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "A_kind_furry Protogens would win",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
