@@ -5006,5 +5006,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am tired",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905525",
+    "type": "public",
+    "date": "20/05 7:45",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Because like k3..",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
