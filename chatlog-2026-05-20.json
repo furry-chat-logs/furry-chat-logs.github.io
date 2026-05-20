@@ -3646,5 +3646,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "What does chud mean",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905389",
+    "type": "public",
+    "date": "20/05 6:52",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am back",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905390",
+    "type": "public",
+    "date": "20/05 6:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Isn't it the same as chad",
+    "msgClasses": "chat_message bneon14"
   }
 ]
