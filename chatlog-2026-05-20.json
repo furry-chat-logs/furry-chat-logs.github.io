@@ -5776,5 +5776,15 @@
     "userClasses": "username bgrad7 ",
     "message": "*bud",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905603",
+    "type": "public",
+    "date": "20/05 7:59",
+    "username": "Trextheking09",
+    "userId": "35518",
+    "userClasses": "username user ",
+    "message": "Hello chat",
+    "msgClasses": "chat_message "
   }
 ]
