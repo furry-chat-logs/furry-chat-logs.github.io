@@ -13994,5 +13994,15 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "go to the trash can TnT",
     "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7906466",
+    "type": "public",
+    "date": "20/05 14:28",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_4a54ae54773c.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
