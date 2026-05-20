@@ -7866,5 +7866,35 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "٭٭ ooof",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905846",
+    "type": "public",
+    "date": "20/05 10:03",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sol_Aizawa i dont think that sloth twin",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905847",
+    "type": "public",
+    "date": "20/05 10:03",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "My mom said \"attendance matters\" when literally half of the people here are gone",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7905848",
+    "type": "public",
+    "date": "20/05 10:03",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I always come backk",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
