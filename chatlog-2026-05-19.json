@@ -29808,5 +29808,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Inin",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904646",
+    "type": "public",
+    "date": "19/05 21:42",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Jumping in the shower",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
