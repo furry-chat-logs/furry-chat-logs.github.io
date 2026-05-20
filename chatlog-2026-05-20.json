@@ -7046,5 +7046,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Tf you need 5 for?",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905764",
+    "type": "public",
+    "date": "20/05 9:43",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget does not know",
+    "msgClasses": "chat_message bneon4"
   }
 ]
