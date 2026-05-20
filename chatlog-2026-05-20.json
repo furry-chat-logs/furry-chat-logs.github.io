@@ -12574,5 +12574,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hm",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7906324",
+    "type": "public",
+    "date": "20/05 13:31",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Bleh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906325",
+    "type": "public",
+    "date": "20/05 13:33",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( *gives you an apple* 20/05 11:33 ) YAYY :D",
+    "msgClasses": "chat_message "
   }
 ]
