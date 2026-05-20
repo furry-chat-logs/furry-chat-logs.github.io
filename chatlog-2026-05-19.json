@@ -31678,5 +31678,15 @@
     "userClasses": "username user ",
     "message": "Hanz shoot this man",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904836",
+    "type": "public",
+    "date": "19/05 23:07",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[lynxfox]",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
