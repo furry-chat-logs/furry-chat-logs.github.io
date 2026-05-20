@@ -6916,5 +6916,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Dude had an entire Iron Man closet of alts",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905751",
+    "type": "public",
+    "date": "20/05 9:41",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8513_ab247f0cdaa3.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905752",
+    "type": "public",
+    "date": "20/05 9:41",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "sounds about right",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7905753",
+    "type": "public",
+    "date": "20/05 9:41",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I only got ts one",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
