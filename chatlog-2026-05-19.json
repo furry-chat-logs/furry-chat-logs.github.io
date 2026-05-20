@@ -32328,5 +32328,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "It's purple actually",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904901",
+    "type": "public",
+    "date": "19/05 23:15",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "I lied",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
