@@ -12784,5 +12784,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "abcdefghijklmnopqrstivwxuz",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7906345",
+    "type": "public",
+    "date": "20/05 13:54",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "KingCorgz aww man",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
