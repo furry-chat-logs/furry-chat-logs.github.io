@@ -16104,5 +16104,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "Walked in",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7906678",
+    "type": "public",
+    "date": "20/05 16:19",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "ZEN!",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
