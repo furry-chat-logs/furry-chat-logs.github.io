@@ -5886,5 +5886,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "If I can't keep my room clean I'll keep my ignore list clean.",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7905615",
+    "type": "public",
+    "date": "20/05 8:07",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "i dont see why not just clean the room",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
