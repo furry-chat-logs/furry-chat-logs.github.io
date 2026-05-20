@@ -5966,5 +5966,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Some things I just CANT do when I'm not medicated",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905623",
+    "type": "public",
+    "date": "20/05 8:18",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Fr",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7905624",
+    "type": "public",
+    "date": "20/05 8:18",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I mean I can, but I don't function properly to finish it",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
