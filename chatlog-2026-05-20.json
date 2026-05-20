@@ -5536,5 +5536,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki leon?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905579",
+    "type": "public",
+    "date": "20/05 7:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Moonishiki isn't that a old pic?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
