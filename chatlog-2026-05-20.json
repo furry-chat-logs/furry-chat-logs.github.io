@@ -4056,5 +4056,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "SoraTheMikuFan mhm",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905430",
+    "type": "public",
+    "date": "20/05 6:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "What did u do? °■°",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905431",
+    "type": "public",
+    "date": "20/05 6:58",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "also our test are graded in a 1-10 system not -/100",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
