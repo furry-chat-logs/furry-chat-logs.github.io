@@ -10554,5 +10554,15 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "I feel Like I'm Just A lonely weirdo that has no one.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7906117",
+    "type": "public",
+    "date": "20/05 12:03",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You shure these people are no one",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
