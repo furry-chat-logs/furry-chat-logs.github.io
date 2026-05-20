@@ -5826,5 +5826,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki i love hasbula [totallove]",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905608",
+    "type": "public",
+    "date": "20/05 8:01",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Good morning, I haven't slept",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
