@@ -10214,5 +10214,15 @@
     "userClasses": "username user ",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906083",
+    "type": "public",
+    "date": "20/05 11:51",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Medokin give. me.",
+    "msgClasses": "chat_message "
   }
 ]
