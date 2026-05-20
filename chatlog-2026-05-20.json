@@ -5836,5 +5836,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Good morning, I haven't slept",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7905609",
+    "type": "public",
+    "date": "20/05 8:01",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "...",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
