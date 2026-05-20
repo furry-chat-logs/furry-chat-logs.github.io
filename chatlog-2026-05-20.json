@@ -8486,5 +8486,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Whoops wrong ss",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905910",
+    "type": "public",
+    "date": "20/05 10:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Shit",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
