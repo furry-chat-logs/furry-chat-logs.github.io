@@ -5146,5 +5146,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "WHO EVEN SPEAKS GREEK ANYMORE BRO 😭",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905539",
+    "type": "public",
+    "date": "20/05 7:49",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "New Kid im sayin",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
