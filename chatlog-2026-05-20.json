@@ -11934,5 +11934,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "anyone wanne hear the sad story I just heard?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906259",
+    "type": "public",
+    "date": "20/05 13:07",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa of course",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
