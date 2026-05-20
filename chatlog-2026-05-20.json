@@ -13424,5 +13424,15 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "Don't call our house again. You stay away from him, or you'll be one sorry individual. You got me?",
     "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7906409",
+    "type": "public",
+    "date": "20/05 14:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yeah she's definitely part of the Homeowners Association",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
