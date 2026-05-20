@@ -5896,5 +5896,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "i dont see why not just clean the room",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905616",
+    "type": "public",
+    "date": "20/05 8:08",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Because I'm not medicated enough for that.",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
