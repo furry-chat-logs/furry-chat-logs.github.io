@@ -27428,5 +27428,25 @@
     "userClasses": "username user ",
     "message": "yay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904341",
+    "type": "public",
+    "date": "19/05 19:00",
+    "username": "Nobody",
+    "userId": "27175",
+    "userClasses": "username bcolor18 bnfont11",
+    "message": "dude i want an egg roll",
+    "msgClasses": "chat_message bcolor18  bfont13"
+  },
+  {
+    "id": "7904342",
+    "type": "public",
+    "date": "19/05 19:00",
+    "username": "OogaBooga",
+    "userId": "37294",
+    "userClasses": "username user ",
+    "message": "then get an egg and roll it",
+    "msgClasses": "chat_message "
   }
 ]
