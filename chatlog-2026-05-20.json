@@ -11494,5 +11494,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Bus should be here soon",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906214",
+    "type": "public",
+    "date": "20/05 12:39",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "20/05 12:38 I cannot relate, I have never once ever tried to do that",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
