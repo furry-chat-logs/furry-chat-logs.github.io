@@ -9426,5 +9426,25 @@
     "userClasses": "username bgrad13 bnfont15",
     "message": "[lynxx1]",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7906004",
+    "type": "public",
+    "date": "20/05 11:18",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "SilverXD Spectre_protogen Pina lol how are y'all",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906005",
+    "type": "public",
+    "date": "20/05 11:18",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNXZpam1yazFmNzJpOGJhcnlrMHdkaGtsbm1kajN6ZWx5aHhqampsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LfYEquCvc7ZlohCYTa/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
