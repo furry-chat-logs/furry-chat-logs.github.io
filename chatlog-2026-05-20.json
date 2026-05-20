@@ -4336,5 +4336,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "pizza!!!",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905458",
+    "type": "public",
+    "date": "20/05 7:07",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "wait...",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
