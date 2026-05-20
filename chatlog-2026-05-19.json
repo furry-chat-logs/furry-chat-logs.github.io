@@ -32788,5 +32788,25 @@
     "userClasses": "username bneon14 bnfont2",
     "message": "NO",
     "msgClasses": "chat_message bneon14 bold bfont2"
+  },
+  {
+    "id": "7904947",
+    "type": "public",
+    "date": "19/05 23:31",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "LOL",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904948",
+    "type": "public",
+    "date": "19/05 23:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZjhkNDY5ZTdqMG4zZ3VmMHcxbndtcnpsOG9wemI2NTNmMnVpcTk3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1doCHphvQUgvijb2jX/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
