@@ -2966,5 +2966,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Charging takes so long",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905321",
+    "type": "public",
+    "date": "20/05 6:16",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "human beings in a mob",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
