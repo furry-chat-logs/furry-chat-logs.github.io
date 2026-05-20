@@ -16344,5 +16344,25 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "Good.........,,,",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7906702",
+    "type": "public",
+    "date": "20/05 16:22",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "0 Super Sonico 0 Me [devil]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7906703",
+    "type": "public",
+    "date": "20/05 16:22",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
