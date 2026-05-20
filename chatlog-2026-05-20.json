@@ -138,5 +138,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "I'm going to do it either way/",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905035",
+    "type": "public",
+    "date": "20/05 0:03",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": ".",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
