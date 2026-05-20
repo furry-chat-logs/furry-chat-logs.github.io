@@ -11214,5 +11214,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "Sol_Aizawa bye",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7906183",
+    "type": "public",
+    "date": "20/05 12:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "The character that describes \"I don't give a fuck\" energy",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
