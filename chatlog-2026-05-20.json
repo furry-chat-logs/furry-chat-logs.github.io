@@ -2516,5 +2516,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "This is a big batery",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905274",
+    "type": "public",
+    "date": "20/05 5:47",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My intiert child hod is on that",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
