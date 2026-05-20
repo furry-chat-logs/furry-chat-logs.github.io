@@ -33198,5 +33198,15 @@
     "userClasses": "username bgrad7 ",
     "message": "That's behind us",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904989",
+    "type": "public",
+    "date": "19/05 23:53",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "Interesting.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
