@@ -12054,5 +12054,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Jagdtiger hey",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906272",
+    "type": "public",
+    "date": "20/05 13:14",
+    "username": "Nak Nes",
+    "userId": "34867",
+    "userClasses": "username user ",
+    "message": "see I don't have much time",
+    "msgClasses": "chat_message "
   }
 ]
