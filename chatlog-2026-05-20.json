@@ -12324,5 +12324,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Moonishiki oh yeah your commision now has priority...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906299",
+    "type": "public",
+    "date": "20/05 13:20",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Meep I'm magic",
+    "msgClasses": "chat_message "
   }
 ]
