@@ -9076,5 +9076,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Deimos Only one banned that I can remember was ashenVx",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905969",
+    "type": "public",
+    "date": "20/05 11:10",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Sol_Aizawa whats 6 + 1?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7905970",
+    "type": "public",
+    "date": "20/05 11:10",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "wait fuck",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
