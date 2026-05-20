@@ -28098,5 +28098,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "😭",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904474",
+    "type": "public",
+    "date": "19/05 20:11",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "im sorry about last night",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7904475",
+    "type": "public",
+    "date": "19/05 20:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "That is what you get for sticking your neck out for republicans",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904476",
+    "type": "public",
+    "date": "19/05 20:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "٭٭٭ what happened last night?",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
