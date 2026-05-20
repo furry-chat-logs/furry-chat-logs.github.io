@@ -23280,5 +23280,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "byee",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7907407",
+    "type": "public",
+    "date": "20/05 18:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeDY5MGRpdWNzdHo1eTBndzJ1N2h0dXE5MGdmbWN4OGNvanZzMTJ5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/utNjqh18SfMebDYA78/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7907408",
+    "type": "public",
+    "date": "20/05 18:24",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaTJyM2QxNXdwaXo2YTJjemw1aXM5eXE0eXp5d2ZnYmtrMmhyd2l2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/144Q1gg0FkTEVG/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
