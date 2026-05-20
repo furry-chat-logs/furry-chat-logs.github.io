@@ -2296,5 +2296,35 @@
     "username": "System",
     "userId": null,
     "message": "prEtzeL has been kicked"
+  },
+  {
+    "id": "7905252",
+    "type": "public",
+    "date": "20/05 5:17",
+    "username": "TheFurryRequiem",
+    "userId": "9474",
+    "userClasses": "username bgrad8 bnfont16",
+    "message": "Good day 🙏",
+    "msgClasses": "chat_message bneon4 ital bfont10"
+  },
+  {
+    "id": "7905253",
+    "type": "public",
+    "date": "20/05 5:18",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "gloob mornin",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7905254",
+    "type": "public",
+    "date": "20/05 5:18",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[heu]",
+    "msgClasses": "chat_message bold"
   }
 ]
