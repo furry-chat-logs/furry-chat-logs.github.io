@@ -7226,5 +7226,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "if you guess then pm me",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7905782",
+    "type": "public",
+    "date": "20/05 9:45",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget likes that tactic",
+    "msgClasses": "chat_message bneon4"
   }
 ]
