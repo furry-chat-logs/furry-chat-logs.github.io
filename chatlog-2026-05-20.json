@@ -8466,5 +8466,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "hehe neva",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905908",
+    "type": "public",
+    "date": "20/05 10:41",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_a3757dbe0aa8.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905909",
+    "type": "public",
+    "date": "20/05 10:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Whoops wrong ss",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
