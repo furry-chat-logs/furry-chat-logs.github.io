@@ -898,5 +898,35 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "How's it going",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7905112",
+    "type": "public",
+    "date": "20/05 1:52",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Good",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7905113",
+    "type": "public",
+    "date": "20/05 1:52",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "That's good",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7905114",
+    "type": "public",
+    "date": "20/05 1:52",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Mhm",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
