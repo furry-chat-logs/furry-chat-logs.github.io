@@ -418,5 +418,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905064",
+    "type": "public",
+    "date": "20/05 0:22",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "You seem familiar",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
