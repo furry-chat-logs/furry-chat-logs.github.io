@@ -11064,5 +11064,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "no no no no",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7906168",
+    "type": "public",
+    "date": "20/05 12:21",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "what the hell am i seeing",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
