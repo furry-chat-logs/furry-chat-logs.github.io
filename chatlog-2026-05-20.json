@@ -11954,5 +11954,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Sol_Aizawa sure",
     "msgClasses": "chat_message bneon19 heavybold bfont7"
+  },
+  {
+    "id": "7906262",
+    "type": "public",
+    "date": "20/05 13:07",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ai sad",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
