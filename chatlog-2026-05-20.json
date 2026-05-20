@@ -1328,5 +1328,55 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "what happened",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905155",
+    "type": "public",
+    "date": "20/05 2:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh phew I thought u ignored me...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905156",
+    "type": "public",
+    "date": "20/05 2:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Because of what happened yesterday night",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905157",
+    "type": "public",
+    "date": "20/05 2:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "What that happened was somebody opened ss",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905158",
+    "type": "public",
+    "date": "20/05 2:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "no I have a break now, so I had to leave the classroom",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905159",
+    "type": "public",
+    "date": "20/05 2:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Don't remember their name... oh Zenith right",
+    "msgClasses": "chat_message bneon14"
   }
 ]
