@@ -10114,5 +10114,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Spider",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906073",
+    "type": "public",
+    "date": "20/05 11:50",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Medokin AWWWWW",
+    "msgClasses": "chat_message "
   }
 ]
