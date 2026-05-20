@@ -568,5 +568,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "If my PC decides to open Steam, that is.",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905079",
+    "type": "public",
+    "date": "20/05 0:51",
+    "username": "0TheGuardian0",
+    "userId": "26198",
+    "userClasses": "username bneon10 bnfont1",
+    "message": "Itz zen",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
   }
 ]
