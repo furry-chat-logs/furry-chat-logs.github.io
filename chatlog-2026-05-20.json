@@ -12594,5 +12594,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( *gives you an apple* 20/05 11:33 ) YAYY :D",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906326",
+    "type": "public",
+    "date": "20/05 13:37",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "[secret-share: F0A0oT0qYhftVa6QBNvG4VOG0&n=47178] send sum ^^",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
