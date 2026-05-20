@@ -12644,5 +12644,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Sol_Aizawa I have apple crackers",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906331",
+    "type": "public",
+    "date": "20/05 13:43",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Smiley not what I meant...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
