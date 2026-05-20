@@ -31828,5 +31828,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "A rat room with rats",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904851",
+    "type": "public",
+    "date": "19/05 23:08",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "And rats rat me crazy",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904852",
+    "type": "public",
+    "date": "19/05 23:08",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Rats",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
