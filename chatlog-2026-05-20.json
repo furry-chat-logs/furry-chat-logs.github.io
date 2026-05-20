@@ -2396,5 +2396,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36863_3207ec6c0bce.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905262",
+    "type": "public",
+    "date": "20/05 5:40",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Yo that's good. Is he on  a scatebord",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905263",
+    "type": "public",
+    "date": "20/05 5:40",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin no, or idk",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
