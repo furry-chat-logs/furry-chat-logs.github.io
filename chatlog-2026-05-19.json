@@ -30508,5 +30508,45 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Can't keep me quieeet",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7904716",
+    "type": "public",
+    "date": "19/05 22:12",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "JustAnAnt I just keep screaming",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904717",
+    "type": "public",
+    "date": "19/05 22:12",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Woo woo woo",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904718",
+    "type": "public",
+    "date": "19/05 22:12",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Duct tape fixes that problem",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904719",
+    "type": "public",
+    "date": "19/05 22:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I take to the skies huhuh",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
