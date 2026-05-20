@@ -23000,5 +23000,45 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I have donated so much to the IDF.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907379",
+    "type": "public",
+    "date": "20/05 17:42",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Electric_sinner_wolf sighbow",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7907380",
+    "type": "public",
+    "date": "20/05 17:42",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7907381",
+    "type": "public",
+    "date": "20/05 17:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7907382",
+    "type": "public",
+    "date": "20/05 17:42",
+    "username": "Electric_sinner_wolf",
+    "userId": "26458",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Wifies ok",
+    "msgClasses": "chat_message bgrad32 heavyital bfont2"
   }
 ]
