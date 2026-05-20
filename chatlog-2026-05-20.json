@@ -12254,5 +12254,15 @@
     "userClasses": "username user ",
     "message": "alright everybody, I'm heading out,, take care",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906292",
+    "type": "public",
+    "date": "20/05 13:19",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ".. hope you fall on the way out",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
