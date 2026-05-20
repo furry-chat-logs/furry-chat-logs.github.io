@@ -11584,5 +11584,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "See",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7906223",
+    "type": "public",
+    "date": "20/05 12:42",
+    "username": "vexx",
+    "userId": "37284",
+    "userClasses": "username user ",
+    "message": "Go sleep if yall tired lol",
+    "msgClasses": "chat_message "
   }
 ]
