@@ -5646,5 +5646,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "no, I am shorter...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905590",
+    "type": "public",
+    "date": "20/05 7:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "But at least they got the courage to show it",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
