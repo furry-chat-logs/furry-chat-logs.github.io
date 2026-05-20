@@ -2716,5 +2716,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "*hiss*",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905296",
+    "type": "public",
+    "date": "20/05 6:04",
+    "username": "hopeless_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sol_Aizawa yes... [devil]",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905297",
+    "type": "public",
+    "date": "20/05 6:04",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Nooooo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
