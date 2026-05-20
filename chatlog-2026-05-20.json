@@ -4966,5 +4966,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "We saw Moonishiki last night...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905521",
+    "type": "public",
+    "date": "20/05 7:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Moonishiki idk",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
