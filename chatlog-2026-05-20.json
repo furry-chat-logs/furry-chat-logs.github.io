@@ -5906,5 +5906,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Because I'm not medicated enough for that.",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7905617",
+    "type": "public",
+    "date": "20/05 8:09",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "i guess",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
