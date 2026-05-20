@@ -2526,5 +2526,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "My intiert child hod is on that",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905275",
+    "type": "public",
+    "date": "20/05 5:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "a battery change wont do anything to what is on the phone, the only thing that changes whats on the phone is tacking out its mother board or memory card",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905276",
+    "type": "public",
+    "date": "20/05 5:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "wich you should not do",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
