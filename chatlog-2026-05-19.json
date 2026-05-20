@@ -29908,5 +29908,15 @@
     "userClasses": "username bneon1 bnfont12",
     "message": "Sonic The Hedgehog YAY",
     "msgClasses": "chat_message bneon24 bold bfont3"
+  },
+  {
+    "id": "7904656",
+    "type": "public",
+    "date": "19/05 21:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "JustAnAnt hm?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
