@@ -8746,5 +8746,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Spectre_protogen ashenVX got banned?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905936",
+    "type": "public",
+    "date": "20/05 10:58",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sol_Aizawa yeah, along with about 4 alt accounts",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
