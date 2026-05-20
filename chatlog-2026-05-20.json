@@ -1838,5 +1838,75 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "You talking about ss?",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905206",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SoraTheMikuFan it will be fine",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905207",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I would never be the same without this place",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905208",
+    "type": "public",
+    "date": "20/05 2:50",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea I know",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905209",
+    "type": "public",
+    "date": "20/05 2:50",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SoraTheMikuFan agreed",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905210",
+    "type": "public",
+    "date": "20/05 2:50",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I begged Pina to believe me",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905211",
+    "type": "public",
+    "date": "20/05 2:50",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And so he said he was just trolling",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905212",
+    "type": "public",
+    "date": "20/05 2:50",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh the relief I felt was crazy",
+    "msgClasses": "chat_message bneon14"
   }
 ]
