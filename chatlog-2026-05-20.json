@@ -3856,5 +3856,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905410",
+    "type": "public",
+    "date": "20/05 6:54",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_4263ceb4ee71.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
