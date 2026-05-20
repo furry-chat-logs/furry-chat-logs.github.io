@@ -31588,5 +31588,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Crazy I was crazy once",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904827",
+    "type": "public",
+    "date": "19/05 23:06",
+    "username": "ZYR1",
+    "userId": "6207",
+    "userClasses": "username bcolor30 bnfont15",
+    "message": "Do rats make you crazy?",
+    "msgClasses": "chat_message bcolor30 ital bfont11"
   }
 ]
