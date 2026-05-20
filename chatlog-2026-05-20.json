@@ -3876,5 +3876,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Found it",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905412",
+    "type": "public",
+    "date": "20/05 6:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "That's a system I have never heard of before Sol_Aizawa",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905413",
+    "type": "public",
+    "date": "20/05 6:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "In the sixt year is when we get exams so we can leave this hellhole, but I am in the second year",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
