@@ -23210,5 +23210,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXV2NzJ3c2xnb3F3a2licXI0dXU1YnR6N2ZqZ3RrY3hlajcxOXJyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N8mKAhJOUa3gPzHW68/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7907400",
+    "type": "public",
+    "date": "20/05 18:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_5079ce102936.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907401",
+    "type": "public",
+    "date": "20/05 18:12",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_27aec4255b90.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
