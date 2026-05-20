@@ -5116,5 +5116,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am failing greek class so greek extra lesson is mandatory T-T",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905536",
+    "type": "public",
+    "date": "20/05 7:48",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Bruh",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
