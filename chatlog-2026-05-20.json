@@ -7906,5 +7906,25 @@
     "userClasses": "username bcolor9 ",
     "message": "٭٭ *hug*",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7905850",
+    "type": "public",
+    "date": "20/05 10:03",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "So I'm forced to stay in school until the week ends",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7905851",
+    "type": "public",
+    "date": "20/05 10:03",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "٭٭ even the teachers been gone [sob]",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
