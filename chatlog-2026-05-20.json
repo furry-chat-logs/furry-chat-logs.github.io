@@ -6666,5 +6666,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Good riddance",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905726",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "He was kinda annoying",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905727",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "😭",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7905728",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Frogmin wait a minute",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
