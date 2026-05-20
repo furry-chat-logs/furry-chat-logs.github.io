@@ -7546,5 +7546,35 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ DID THEY BLOW UP MY LOCAL WENDYS?!",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905814",
+    "type": "public",
+    "date": "20/05 9:59",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "sinnercat_mondo YES!",
+    "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7905815",
+    "type": "public",
+    "date": "20/05 9:59",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "wait...",
+    "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7905816",
+    "type": "public",
+    "date": "20/05 9:59",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "no",
+    "msgClasses": "chat_message bcolor2  bfont10"
   }
 ]
