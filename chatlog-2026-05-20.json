@@ -9186,5 +9186,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Sol_Aizawa mb im done",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7905980",
+    "type": "public",
+    "date": "20/05 11:12",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_1e4632c09316.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905981",
+    "type": "public",
+    "date": "20/05 11:12",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Pina",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7905982",
+    "type": "public",
+    "date": "20/05 11:12",
+    "username": "A_kind_furry",
+    "userId": "33043",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "\"Whats 42+25?\" Is what me and the homies usually say",
+    "msgClasses": "chat_message bneon3 boldital bfont12"
   }
 ]
