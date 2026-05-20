@@ -678,5 +678,55 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Bleehh idk",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905090",
+    "type": "public",
+    "date": "20/05 1:32",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Huh I like chocolate pudding",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905091",
+    "type": "public",
+    "date": "20/05 1:32",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "I was supposed to get off over an hour ago",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905092",
+    "type": "public",
+    "date": "20/05 1:32",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "but hell nah",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905093",
+    "type": "public",
+    "date": "20/05 1:32",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "fuck that",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905094",
+    "type": "public",
+    "date": "20/05 1:32",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "idgaf abt this \"10 pm\" rule my parents have",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
