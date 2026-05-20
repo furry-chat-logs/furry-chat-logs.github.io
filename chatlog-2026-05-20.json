@@ -11534,5 +11534,15 @@
     "userClasses": "username bgrad7 ",
     "message": "YAWN",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906218",
+    "type": "public",
+    "date": "20/05 12:42",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "Nah I am lol",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
