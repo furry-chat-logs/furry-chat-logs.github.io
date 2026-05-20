@@ -1908,5 +1908,85 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh the relief I felt was crazy",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905213",
+    "type": "public",
+    "date": "20/05 2:50",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "thats good",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905214",
+    "type": "public",
+    "date": "20/05 2:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I was so panicked I forgot how Pina can be sometimes",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905215",
+    "type": "public",
+    "date": "20/05 2:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "He probably agreed with zenith to prank me like this",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905216",
+    "type": "public",
+    "date": "20/05 2:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "But still",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905217",
+    "type": "public",
+    "date": "20/05 2:51",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "most people here are like that so dw",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905218",
+    "type": "public",
+    "date": "20/05 2:51",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "they probably did not",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905219",
+    "type": "public",
+    "date": "20/05 2:51",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm sick for the day so I don't need to go to school [medsmile]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905220",
+    "type": "public",
+    "date": "20/05 2:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I cried before I knew it was a prank...",
+    "msgClasses": "chat_message bneon14"
   }
 ]
