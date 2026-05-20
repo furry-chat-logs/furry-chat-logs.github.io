@@ -5216,5 +5216,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "sinnercat_mondo :0 🥲",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7905546",
+    "type": "public",
+    "date": "20/05 7:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I'm scared of alot of people",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
