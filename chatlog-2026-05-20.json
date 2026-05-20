@@ -5686,5 +5686,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I'm 6 FT",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905594",
+    "type": "public",
+    "date": "20/05 7:57",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": ":<",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905595",
+    "type": "public",
+    "date": "20/05 7:57",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I'm 5'11..",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
