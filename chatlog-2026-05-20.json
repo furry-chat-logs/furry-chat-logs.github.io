@@ -8156,5 +8156,35 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "Sol_Aizawa that's just the title ;w;",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7905875",
+    "type": "public",
+    "date": "20/05 10:08",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "XxIQShuruixX hai",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905876",
+    "type": "public",
+    "date": "20/05 10:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "XxIQShuruixX heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905877",
+    "type": "public",
+    "date": "20/05 10:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "٭٭ k",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
