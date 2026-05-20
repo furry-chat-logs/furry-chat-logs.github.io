@@ -288,5 +288,75 @@
     "userClasses": "username bgrad7 ",
     "message": "Shinigami Or a Ying teammate",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905050",
+    "type": "public",
+    "date": "20/05 0:07",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "I had one of those Ying's yesterday...",
+    "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905051",
+    "type": "public",
+    "date": "20/05 0:07",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "Blinded 3 consecutive times",
+    "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905052",
+    "type": "public",
+    "date": "20/05 0:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "If I'd had a dollar for everytime I'd procrastinate I'd be rich",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7905053",
+    "type": "public",
+    "date": "20/05 0:07",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_376caa940c1d.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905054",
+    "type": "public",
+    "date": "20/05 0:07",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Porphyrophobia LMAO I'm doing that right now",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905055",
+    "type": "public",
+    "date": "20/05 0:07",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Obese fuck",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7905056",
+    "type": "public",
+    "date": "20/05 0:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Maybe that's the AUDHD [verysad]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
