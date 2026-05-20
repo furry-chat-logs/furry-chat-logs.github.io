@@ -10834,5 +10834,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_f9a0d63eca48.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906145",
+    "type": "public",
+    "date": "20/05 12:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rain bowl",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
