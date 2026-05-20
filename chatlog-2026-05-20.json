@@ -10734,5 +10734,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Num Little Bug tough my mom tries to be the therapist",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906135",
+    "type": "public",
+    "date": "20/05 12:11",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Than why care wat thay say",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
