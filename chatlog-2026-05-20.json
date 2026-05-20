@@ -16124,5 +16124,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Hii!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906680",
+    "type": "public",
+    "date": "20/05 16:20",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOWw5ODhqODRxM2hpc281ZjBtcGxhNm85M3Z2eXN5Mmh0azltdXJrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Im0On5p6zfva6j2Nlj/giphy.gif]",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
