@@ -1088,5 +1088,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "lmao",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905131",
+    "type": "public",
+    "date": "20/05 2:15",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Loll",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
