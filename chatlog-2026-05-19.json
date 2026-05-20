@@ -30428,5 +30428,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Because it's dry af",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904708",
+    "type": "public",
+    "date": "19/05 22:08",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Nope, they PMed me so they're spared",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904709",
+    "type": "public",
+    "date": "19/05 22:08",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Penor 19/05 23:08 Wow thank you",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
