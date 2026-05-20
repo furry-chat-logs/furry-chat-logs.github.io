@@ -3976,5 +3976,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "uwo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905422",
+    "type": "public",
+    "date": "20/05 6:56",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "sinnercat_mondo cause its famous",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
