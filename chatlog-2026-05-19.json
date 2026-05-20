@@ -28198,5 +28198,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] taking dares",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7904484",
+    "type": "public",
+    "date": "19/05 20:14",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904485",
+    "type": "public",
+    "date": "19/05 20:14",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i feel like its vise versa",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
