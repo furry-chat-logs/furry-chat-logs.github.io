@@ -3146,5 +3146,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Mikumikumikumiku",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905339",
+    "type": "public",
+    "date": "20/05 6:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I GOT A HISTORY TEST NOOOOOOOOOOOOOOOOOOOOOOOO",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905340",
+    "type": "public",
+    "date": "20/05 6:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I TOTALLY FORGOT!!!!!!!!!",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905341",
+    "type": "public",
+    "date": "20/05 6:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Noooooo",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905342",
+    "type": "public",
+    "date": "20/05 6:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bwahahah/ᐠ ╥ ˕ ╥マ",
+    "msgClasses": "chat_message bneon14"
   }
 ]
