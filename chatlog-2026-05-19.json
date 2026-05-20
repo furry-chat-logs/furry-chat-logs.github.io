@@ -32728,5 +32728,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Porphyrophobia why </3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904941",
+    "type": "public",
+    "date": "19/05 23:31",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "ZenZit",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904942",
+    "type": "public",
+    "date": "19/05 23:31",
+    "username": "Celeste Azul",
+    "userId": "16465",
+    "userClasses": "username bneon14 bnfont2",
+    "message": "Hello Moon",
+    "msgClasses": "chat_message bneon14 bold bfont2"
   }
 ]
