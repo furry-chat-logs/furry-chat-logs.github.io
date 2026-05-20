@@ -3716,5 +3716,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "test, dont have exams yet",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905396",
+    "type": "public",
+    "date": "20/05 6:53",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh I see not so good",
+    "msgClasses": "chat_message bneon14"
   }
 ]
