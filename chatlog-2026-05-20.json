@@ -16004,5 +16004,35 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "Wiggles toes in joy",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7906668",
+    "type": "public",
+    "date": "20/05 16:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Watches",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7906669",
+    "type": "public",
+    "date": "20/05 16:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7906670",
+    "type": "public",
+    "date": "20/05 16:15",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😭😭😭",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
