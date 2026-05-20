@@ -1738,5 +1738,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I don't usually swear but I kinda was panicking",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905196",
+    "type": "public",
+    "date": "20/05 2:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*I was kinda panicking",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905197",
+    "type": "public",
+    "date": "20/05 2:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And so",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905198",
+    "type": "public",
+    "date": "20/05 2:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I said many times something like",
+    "msgClasses": "chat_message bneon14"
   }
 ]
