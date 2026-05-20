@@ -9456,5 +9456,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Pina",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7906007",
+    "type": "public",
+    "date": "20/05 11:18",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[lynxx1]",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
