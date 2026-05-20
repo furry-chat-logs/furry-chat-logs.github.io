@@ -5356,5 +5356,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Coldzenith I put a pizza ban on mondo, he was being mean",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905561",
+    "type": "public",
+    "date": "20/05 7:53",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "me and Coldzenith are so twinning that if we met irl id swipe his hat right off his head :3",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905562",
+    "type": "public",
+    "date": "20/05 7:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ lucky",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
