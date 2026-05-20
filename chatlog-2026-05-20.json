@@ -12674,5 +12674,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "....do you want an apple? I’ve got like 7 of them",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906334",
+    "type": "public",
+    "date": "20/05 13:44",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Smiley dw, apple is also good u-u",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
