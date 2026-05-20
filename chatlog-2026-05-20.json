@@ -6616,5 +6616,35 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "ITS THE PURGE",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905721",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Wow",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7905722",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Omg why he have so many alts HELP 💔😭",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905723",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ". why is everyone gettin remove or muted",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
