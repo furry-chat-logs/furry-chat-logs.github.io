@@ -5456,5 +5456,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ Also numb little bug misses your companie",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905571",
+    "type": "public",
+    "date": "20/05 7:53",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "HOW",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905572",
+    "type": "public",
+    "date": "20/05 7:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Coldzenith heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
