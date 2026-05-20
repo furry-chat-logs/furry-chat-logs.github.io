@@ -32588,5 +32588,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Weld",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904927",
+    "type": "public",
+    "date": "19/05 23:21",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I shall return, chat.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
