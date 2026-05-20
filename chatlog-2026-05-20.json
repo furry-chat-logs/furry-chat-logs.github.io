@@ -438,5 +438,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Sonic The Hedgehog i saw the video already",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905066",
+    "type": "public",
+    "date": "20/05 0:28",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "Time to see if I'm still good at pirating games.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
