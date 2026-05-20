@@ -4706,5 +4706,15 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "Sol_Aizawa Hru?",
     "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7905495",
+    "type": "public",
+    "date": "20/05 7:30",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "V3LVET sup",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
