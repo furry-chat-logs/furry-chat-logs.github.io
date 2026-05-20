@@ -2956,5 +2956,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "No it says that I need to wait for 50 minutes [whocare]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905320",
+    "type": "public",
+    "date": "20/05 6:13",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Charging takes so long",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
