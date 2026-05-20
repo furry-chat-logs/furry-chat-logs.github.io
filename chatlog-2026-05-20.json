@@ -5476,5 +5476,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Coldzenith heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905573",
+    "type": "public",
+    "date": "20/05 7:54",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "IM SKINNY",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
