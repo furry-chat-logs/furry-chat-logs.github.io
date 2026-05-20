@@ -12564,5 +12564,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Sol_Aizawa lolll",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7906323",
+    "type": "public",
+    "date": "20/05 13:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hm",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
