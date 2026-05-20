@@ -33278,5 +33278,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Where'd that come from 😭",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904997",
+    "type": "public",
+    "date": "19/05 23:55",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "I just wanted to know what happened, so I thought I'd lay down a baseline to go from in case we forgot.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
