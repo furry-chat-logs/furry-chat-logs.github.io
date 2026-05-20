@@ -31488,5 +31488,15 @@
     "userClasses": "username user ",
     "message": "Bergindine damn you almost had a friend",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904817",
+    "type": "public",
+    "date": "19/05 23:05",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Wtfissachip crazy",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
