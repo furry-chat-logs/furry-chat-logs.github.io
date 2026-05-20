@@ -7026,5 +7026,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "But like",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905762",
+    "type": "public",
+    "date": "20/05 9:42",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget likes violence",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7905763",
+    "type": "public",
+    "date": "20/05 9:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Tf you need 5 for?",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
