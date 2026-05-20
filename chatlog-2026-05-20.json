@@ -16424,5 +16424,25 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "ITS ZEN?!",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7906710",
+    "type": "public",
+    "date": "20/05 16:23",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "ZEN",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7906711",
+    "type": "public",
+    "date": "20/05 16:23",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "It's Zen.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
