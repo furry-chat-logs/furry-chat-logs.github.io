@@ -9894,5 +9894,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "=3",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7906051",
+    "type": "public",
+    "date": "20/05 11:40",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Breeb",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906052",
+    "type": "public",
+    "date": "20/05 11:40",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Spectre_protogen LOL",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906053",
+    "type": "public",
+    "date": "20/05 11:40",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": ":D",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
