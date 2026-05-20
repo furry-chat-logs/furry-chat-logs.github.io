@@ -3546,5 +3546,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I don't see anything missing",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905379",
+    "type": "public",
+    "date": "20/05 6:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "There is a hole...",
+    "msgClasses": "chat_message bneon14"
   }
 ]
