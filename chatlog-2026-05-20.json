@@ -9606,5 +9606,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Meep hello you overgrown fungus </3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906022",
+    "type": "public",
+    "date": "20/05 11:20",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_a63780287ecf.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
