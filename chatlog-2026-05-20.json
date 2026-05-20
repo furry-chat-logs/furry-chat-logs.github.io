@@ -608,5 +608,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "What",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905083",
+    "type": "public",
+    "date": "20/05 1:22",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
