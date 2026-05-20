@@ -8096,5 +8096,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "٭٭ whyyyyyyyyyy",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905869",
+    "type": "public",
+    "date": "20/05 10:08",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "sinnercat_mondo i guess, I'm not good at finding clothes",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7905870",
+    "type": "public",
+    "date": "20/05 10:08",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "slimes ٭٭ lovingly",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
