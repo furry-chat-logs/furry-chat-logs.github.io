@@ -9834,5 +9834,15 @@
     "userClasses": "username bcolor9 ",
     "message": "meep",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7906045",
+    "type": "public",
+    "date": "20/05 11:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "-999999 Songbun",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
