@@ -1768,5 +1768,75 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I said many times something like",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905199",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I swear to f*ckin god I would never do this",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905200",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "But no *",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905201",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "yea, I would do the same thing",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905202",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi I'm back",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905203",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I just... wasn't ready to lose my community",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905204",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin hi, sora is explaining what happened yesterday just read back",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905205",
+    "type": "public",
+    "date": "20/05 2:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You talking about ss?",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
