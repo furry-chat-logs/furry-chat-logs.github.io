@@ -12754,5 +12754,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "is Niko okay?  20/05 13:45 trying to help with that",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7906342",
+    "type": "public",
+    "date": "20/05 13:50",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "what about me what i do .-.",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
