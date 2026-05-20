@@ -9106,5 +9106,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "i didnt think that out",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7905972",
+    "type": "public",
+    "date": "20/05 11:10",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "whats 6+7?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
