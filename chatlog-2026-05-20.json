@@ -558,5 +558,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "Im going to see if adding it through non steam game will make tmodloader see it as Terraria",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905078",
+    "type": "public",
+    "date": "20/05 0:33",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "If my PC decides to open Steam, that is.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
