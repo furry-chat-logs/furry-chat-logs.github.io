@@ -4216,5 +4216,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am lurking while workig",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905446",
+    "type": "public",
+    "date": "20/05 7:04",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sol_Aizawa you said your larping?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
