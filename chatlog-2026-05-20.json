@@ -3986,5 +3986,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "sinnercat_mondo cause its famous",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905423",
+    "type": "public",
+    "date": "20/05 6:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "sinnercat_mondo it's kinda catchy ngl",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905424",
+    "type": "public",
+    "date": "20/05 6:56",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sol_Aizawa fair",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
