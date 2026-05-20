@@ -7796,5 +7796,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Batch [wooper]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905839",
+    "type": "public",
+    "date": "20/05 10:02",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "Hiii!!",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7905840",
+    "type": "public",
+    "date": "20/05 10:02",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "burrying urself",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905841",
+    "type": "public",
+    "date": "20/05 10:02",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "٭٭ HIIIIIII! :D",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
