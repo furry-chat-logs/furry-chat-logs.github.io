@@ -14754,5 +14754,15 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "Licks grass",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7906542",
+    "type": "public",
+    "date": "20/05 15:34",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
