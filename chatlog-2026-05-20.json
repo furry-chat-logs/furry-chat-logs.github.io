@@ -23140,5 +23140,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I've seen a fair amount of his content",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7907393",
+    "type": "public",
+    "date": "20/05 17:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdnU2Z2lqZGluNTB5Z2swb2FvbWtyeDQ2dHo2YzdqeWJ3aGUzdWtodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9eYYZ1469KmdFXQ4VE/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
