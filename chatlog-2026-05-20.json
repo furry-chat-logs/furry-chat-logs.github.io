@@ -7836,5 +7836,25 @@
     "userClasses": "username bcolor9 ",
     "message": "MORE >:D",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7905843",
+    "type": "public",
+    "date": "20/05 10:02",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "I'm currently suffering because i was forced to go to school",
+    "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7905844",
+    "type": "public",
+    "date": "20/05 10:02",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "reinacting william afton",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
