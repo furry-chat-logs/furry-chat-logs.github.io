@@ -10164,5 +10164,35 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Spectre_protogen and it wouldn't even be close",
     "msgClasses": "chat_message bneon3 boldital bfont12"
+  },
+  {
+    "id": "7906078",
+    "type": "public",
+    "date": "20/05 11:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Get rekt",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7906079",
+    "type": "public",
+    "date": "20/05 11:51",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_0d78900dea3a.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906080",
+    "type": "public",
+    "date": "20/05 11:51",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nach but this is",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
