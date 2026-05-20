@@ -4136,5 +4136,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Mammamammamamameowwww",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905438",
+    "type": "public",
+    "date": "20/05 6:59",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wrong side",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
