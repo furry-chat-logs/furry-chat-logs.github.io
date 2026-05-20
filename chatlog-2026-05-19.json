@@ -28538,5 +28538,45 @@
     "userClasses": "username bneon20 bnfont9",
     "message": "i miss my wife </3",
     "msgClasses": "chat_message bneon22 heavybold bfont5"
+  },
+  {
+    "id": "7904518",
+    "type": "public",
+    "date": "19/05 20:33",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7904519",
+    "type": "public",
+    "date": "19/05 20:33",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "Wren you killed chat",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7904520",
+    "type": "public",
+    "date": "19/05 20:33",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "No it was me,i took everyone outback",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7904521",
+    "type": "public",
+    "date": "19/05 20:33",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "🫩 ?",
+    "msgClasses": "chat_message ital"
   }
 ]
