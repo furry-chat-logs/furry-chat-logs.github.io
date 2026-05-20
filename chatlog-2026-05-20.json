@@ -6456,5 +6456,13 @@
     "userClasses": "username bgrad7 ",
     "message": ":3",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905704",
+    "type": "system",
+    "date": "20/05 9:36",
+    "username": "System",
+    "userId": null,
+    "message": "AshenVx has been muted"
   }
 ]
