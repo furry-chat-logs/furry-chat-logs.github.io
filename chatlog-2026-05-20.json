@@ -12364,5 +12364,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "What is even happening",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7906303",
+    "type": "public",
+    "date": "20/05 13:21",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "King_da_Furry Jagdtiger .,.",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
