@@ -10144,5 +10144,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Bruh.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906076",
+    "type": "public",
+    "date": "20/05 11:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Smiley lmao",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7906077",
+    "type": "public",
+    "date": "20/05 11:50",
+    "username": "A_kind_furry",
+    "userId": "33043",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Spectre_protogen and it wouldn't even be close",
+    "msgClasses": "chat_message bneon3 boldital bfont12"
   }
 ]
