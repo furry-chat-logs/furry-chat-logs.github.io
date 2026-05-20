@@ -9616,5 +9616,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_a63780287ecf.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906023",
+    "type": "public",
+    "date": "20/05 11:20",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I found an armortrim",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
