@@ -31428,5 +31428,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I'd rather get diddled by by mario.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7904811",
+    "type": "public",
+    "date": "19/05 23:05",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "I don't like gay people",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904812",
+    "type": "public",
+    "date": "19/05 23:05",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Hi.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
