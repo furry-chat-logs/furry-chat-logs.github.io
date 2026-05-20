@@ -838,5 +838,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "So sleepy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905106",
+    "type": "public",
+    "date": "20/05 1:45",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] e",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
