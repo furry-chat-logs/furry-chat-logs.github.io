@@ -7506,5 +7506,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Woper",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905810",
+    "type": "public",
+    "date": "20/05 9:58",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_73e11e2e16aa.png]",
+    "msgClasses": "chat_message "
   }
 ]
