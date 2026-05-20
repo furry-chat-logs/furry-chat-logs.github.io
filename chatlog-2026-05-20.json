@@ -10034,5 +10034,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "He's shoting out breeb",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906065",
+    "type": "public",
+    "date": "20/05 11:47",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Meow",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
