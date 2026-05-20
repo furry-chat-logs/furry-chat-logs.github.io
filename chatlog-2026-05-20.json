@@ -8886,5 +8886,25 @@
     "userClasses": "username bneon16 bnfont1",
     "message": "Sol_Aizawa oh hello",
     "msgClasses": "chat_message bneon13 ital bfont12"
+  },
+  {
+    "id": "7905950",
+    "type": "public",
+    "date": "20/05 11:00",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "A_kind_furry I dunno T-T I miss ma frien",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905951",
+    "type": "public",
+    "date": "20/05 11:00",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "A_kind_furry no idea.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
