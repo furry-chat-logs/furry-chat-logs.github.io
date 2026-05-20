@@ -9944,5 +9944,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Spectre_protogen sooo when's the wedding?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906056",
+    "type": "public",
+    "date": "20/05 11:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Now",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
