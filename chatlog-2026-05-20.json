@@ -2028,5 +2028,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "be glad it didn't",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905225",
+    "type": "public",
+    "date": "20/05 2:53",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Just being out here rn,even tho i wasnt apart of this,I'm not an asshole who'll prank ppl at the wrong time or some shit,i used to be last year,but that it was worse than now.",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905226",
+    "type": "public",
+    "date": "20/05 2:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I had someone in my ss who apperently sereiously tried getting into my pants",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905227",
+    "type": "public",
+    "date": "20/05 2:53",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And I cried every night before because I had thoughts about the many ways I could get so hated here... and I know it was not that bad but I was so scared I will lose my friends here",
+    "msgClasses": "chat_message bneon14"
   }
 ]
