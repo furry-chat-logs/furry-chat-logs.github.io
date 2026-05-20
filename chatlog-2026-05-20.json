@@ -9626,5 +9626,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I found an armortrim",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906024",
+    "type": "public",
+    "date": "20/05 11:21",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Medokin throw it at a window",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
