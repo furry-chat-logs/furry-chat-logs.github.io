@@ -2158,5 +2158,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "No not again chat [prayer]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905238",
+    "type": "public",
+    "date": "20/05 3:03",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Medokin too bad",
+    "msgClasses": "chat_message "
   }
 ]
