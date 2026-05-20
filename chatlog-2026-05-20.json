@@ -9974,5 +9974,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "wrong image.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7906059",
+    "type": "public",
+    "date": "20/05 11:43",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_d8c64f0a4c44.png]",
+    "msgClasses": "chat_message "
   }
 ]
