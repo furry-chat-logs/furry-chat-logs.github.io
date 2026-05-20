@@ -6514,5 +6514,13 @@
     "userClasses": "username bgrad7 ",
     "message": "Sorry dark humor",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905710",
+    "type": "system",
+    "date": "20/05 9:37",
+    "username": "System",
+    "userId": null,
+    "message": "AshenVx has been removed from chat"
   }
 ]
