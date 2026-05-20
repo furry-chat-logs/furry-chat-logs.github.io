@@ -27618,5 +27618,45 @@
     "userClasses": "username user ",
     "message": "That's me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904405",
+    "type": "public",
+    "date": "19/05 19:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904406",
+    "type": "public",
+    "date": "19/05 19:26",
+    "username": "Axolotal",
+    "userId": "34463",
+    "userClasses": "username user ",
+    "message": "My parents are so controlling that I can't even do what I want anymore not even call my bf",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904407",
+    "type": "public",
+    "date": "19/05 19:26",
+    "username": "Axolotal",
+    "userId": "34463",
+    "userClasses": "username user ",
+    "message": "Porphyrophobia what?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904408",
+    "type": "public",
+    "date": "19/05 19:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bro IS really homestuck ✌🏽🥹",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
