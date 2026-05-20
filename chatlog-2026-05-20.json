@@ -5916,5 +5916,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "i guess",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905618",
+    "type": "public",
+    "date": "20/05 8:10",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Fym ig 💀",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
