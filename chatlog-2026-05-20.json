@@ -9734,5 +9734,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I kinda feel like it's a tradition that new accounts get kicked as sort of an initialisation rite of passage type thing",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7906035",
+    "type": "public",
+    "date": "20/05 11:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hola",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
