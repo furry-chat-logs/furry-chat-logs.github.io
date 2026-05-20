@@ -798,5 +798,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "lol",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7905102",
+    "type": "public",
+    "date": "20/05 1:34",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ima watch that one India creater by",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905103",
+    "type": "public",
+    "date": "20/05 1:34",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Glitch",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
