@@ -2466,5 +2466,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Do you have any idea how to fix it",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905269",
+    "type": "public",
+    "date": "20/05 5:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "uhm... no, except maye a battery change",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905270",
+    "type": "public",
+    "date": "20/05 5:43",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "otherwise just pop the cover back up",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
