@@ -8196,5 +8196,25 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "Medokin Sol_Aizawa hru?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905879",
+    "type": "public",
+    "date": "20/05 10:09",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Good",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905880",
+    "type": "public",
+    "date": "20/05 10:09",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "XxIQShuruixX could be better u?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
