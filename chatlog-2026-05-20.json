@@ -2566,5 +2566,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "just don't",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905279",
+    "type": "public",
+    "date": "20/05 5:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "you will destroy your phone, the only one who should be unscrewing it would be a store worker at a phone store",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905280",
+    "type": "public",
+    "date": "20/05 5:54",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Okay",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
