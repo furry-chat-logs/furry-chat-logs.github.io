@@ -29388,5 +29388,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Moonishiki I prefer blueberries ones",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7904603",
+    "type": "public",
+    "date": "19/05 20:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_dbb8b91d772d.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904604",
+    "type": "public",
+    "date": "19/05 20:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "GRGRGR I'm so sleepy this week [cry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904605",
+    "type": "public",
+    "date": "19/05 20:58",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Q&A as well",
+    "msgClasses": "chat_message "
   }
 ]
