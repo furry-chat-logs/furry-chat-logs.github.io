@@ -32348,5 +32348,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "JustAnAnt LATE.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7904903",
+    "type": "public",
+    "date": "19/05 23:15",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "JustAnAnt goodnight anteater",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
