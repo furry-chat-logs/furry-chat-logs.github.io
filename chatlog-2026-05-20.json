@@ -2446,5 +2446,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Coole",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905267",
+    "type": "public",
+    "date": "20/05 5:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_fc21c34d01b3.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905268",
+    "type": "public",
+    "date": "20/05 5:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Do you have any idea how to fix it",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
