@@ -32448,5 +32448,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "prEtzeL yums.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7904913",
+    "type": "public",
+    "date": "19/05 23:16",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Porphyrophobia job job job job",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904914",
+    "type": "public",
+    "date": "19/05 23:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sonic The Hedgehog lmfaooo",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
