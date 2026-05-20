@@ -12764,5 +12764,15 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "what about me what i do .-.",
     "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7906343",
+    "type": "public",
+    "date": "20/05 13:51",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gotta go to work brb",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
