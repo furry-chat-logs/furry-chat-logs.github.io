@@ -5606,5 +5606,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "is Moonishiki short?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905586",
+    "type": "public",
+    "date": "20/05 7:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yeah",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
