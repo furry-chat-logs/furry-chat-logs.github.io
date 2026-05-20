@@ -2228,5 +2228,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36931_4a68b01c70ec.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905245",
+    "type": "public",
+    "date": "20/05 3:51",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Hunter77 [hilarious]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905246",
+    "type": "public",
+    "date": "20/05 3:51",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Im da real Bangaranga",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
