@@ -17414,5 +17414,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Yep",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7906809",
+    "type": "public",
+    "date": "20/05 16:31",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "Shinigami LMAOOOO",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7906810",
+    "type": "public",
+    "date": "20/05 16:31",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Bro on Android 8 💀",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7906811",
+    "type": "public",
+    "date": "20/05 16:31",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "CRYINGGGG",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
