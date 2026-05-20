@@ -32218,5 +32218,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Goodnight",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904890",
+    "type": "public",
+    "date": "19/05 23:14",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "I said goodnight chat",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
