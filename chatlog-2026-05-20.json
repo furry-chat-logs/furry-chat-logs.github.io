@@ -98,5 +98,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Shinigami is Zen",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905031",
+    "type": "public",
+    "date": "20/05 0:01",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "Protective is a thing I do for my friends.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
