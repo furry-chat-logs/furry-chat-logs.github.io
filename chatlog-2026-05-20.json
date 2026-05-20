@@ -10694,5 +10694,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Num Little Bug is your family nice",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906131",
+    "type": "public",
+    "date": "20/05 12:10",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "they can't really say anything. You're trying to make your mental health better. And if they for some reason disagree, tell them to get a life.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7906132",
+    "type": "public",
+    "date": "20/05 12:10",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Num Little Bug same",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
