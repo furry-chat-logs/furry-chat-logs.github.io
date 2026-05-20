@@ -23340,5 +23340,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "aueheueheubushvebueshwbauaan",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7907414",
+    "type": "public",
+    "date": "20/05 18:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaTl2eHlqZmlwenZkc2NoMHpjZ3dwbHQwazByenY0ZWE2NGs1dnd5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d7pyVYiAVRsNFVn8aF/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
