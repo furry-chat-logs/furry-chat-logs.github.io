@@ -9724,5 +9724,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "IMAGINE GETTING KICKED LMAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7906034",
+    "type": "public",
+    "date": "20/05 11:25",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I kinda feel like it's a tradition that new accounts get kicked as sort of an initialisation rite of passage type thing",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
