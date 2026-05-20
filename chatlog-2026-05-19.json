@@ -33288,5 +33288,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "I just wanted to know what happened, so I thought I'd lay down a baseline to go from in case we forgot.",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7904998",
+    "type": "public",
+    "date": "19/05 23:56",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_b54642ba2f6e.gif]",
+    "msgClasses": "chat_message "
   }
 ]
