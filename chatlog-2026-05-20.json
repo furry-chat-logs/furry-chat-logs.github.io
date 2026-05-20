@@ -7086,5 +7086,35 @@
     "userClasses": "username bneon4 ",
     "message": "Nugget has one arm",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7905768",
+    "type": "public",
+    "date": "20/05 9:43",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I have a few alts purely for the purpose of having accounts I can use to get away from uncomfortable situations. Or for RP.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7905769",
+    "type": "public",
+    "date": "20/05 9:43",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": ":3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905770",
+    "type": "public",
+    "date": "20/05 9:43",
+    "username": "Nugget",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nugget had to chew it off to escape",
+    "msgClasses": "chat_message bneon4"
   }
 ]
