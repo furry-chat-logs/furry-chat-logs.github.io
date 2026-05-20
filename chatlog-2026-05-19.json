@@ -30448,5 +30448,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Penor 19/05 23:08 Wow thank you",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904710",
+    "type": "public",
+    "date": "19/05 22:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Awwwee....",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904711",
+    "type": "public",
+    "date": "19/05 22:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: jaMRWppi3bdfSXrcHIDONMuME&n=47166] I want to incite a riot",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
