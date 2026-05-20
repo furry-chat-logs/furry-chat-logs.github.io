@@ -5176,5 +5176,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "im scared of Coldzenith",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905542",
+    "type": "public",
+    "date": "20/05 7:50",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "oh uhhh",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905543",
+    "type": "public",
+    "date": "20/05 7:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "•ω•",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
