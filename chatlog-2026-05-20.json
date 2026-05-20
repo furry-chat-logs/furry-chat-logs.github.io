@@ -4716,5 +4716,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "V3LVET sup",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905496",
+    "type": "public",
+    "date": "20/05 7:31",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "horrible I have a headache failed my history test",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
