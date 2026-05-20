@@ -8876,5 +8876,15 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "What could he have possibly said?",
     "msgClasses": "chat_message bneon3 boldital bfont12"
+  },
+  {
+    "id": "7905949",
+    "type": "public",
+    "date": "20/05 11:00",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "Sol_Aizawa oh hello",
+    "msgClasses": "chat_message bneon13 ital bfont12"
   }
 ]
