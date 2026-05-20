@@ -11154,5 +11154,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "that pisses me off",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7906177",
+    "type": "public",
+    "date": "20/05 12:24",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": ":0",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
