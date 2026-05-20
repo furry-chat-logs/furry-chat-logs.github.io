@@ -10564,5 +10564,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "You shure these people are no one",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906118",
+    "type": "public",
+    "date": "20/05 12:03",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Num Little Bug I like u ;>;",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906119",
+    "type": "public",
+    "date": "20/05 12:03",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "I make My friends uncomfortable i Know ill lose You all soon.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
