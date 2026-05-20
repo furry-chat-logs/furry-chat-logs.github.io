@@ -2486,5 +2486,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "otherwise just pop the cover back up",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905271",
+    "type": "public",
+    "date": "20/05 5:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Okay",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
