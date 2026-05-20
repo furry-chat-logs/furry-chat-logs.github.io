@@ -9026,5 +9026,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "\"I normally only use these horns to pick up women\" - Pina",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7905964",
+    "type": "public",
+    "date": "20/05 11:07",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Apparently someone major got banned",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
