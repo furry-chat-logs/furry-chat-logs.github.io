@@ -15364,5 +15364,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Yawn",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906603",
+    "type": "public",
+    "date": "20/05 16:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm all eyes",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7906604",
+    "type": "public",
+    "date": "20/05 16:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ears*",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
