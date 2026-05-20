@@ -11004,5 +11004,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Niko_The_Bee You told me your lowest point I told you mine, you know I aint stable",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906162",
+    "type": "public",
+    "date": "20/05 12:19",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ".,.",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
