@@ -29418,5 +29418,45 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Q&A as well",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904606",
+    "type": "public",
+    "date": "19/05 20:59",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "KingCorgz not...",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904607",
+    "type": "public",
+    "date": "19/05 20:59",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_95e763c21741.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904608",
+    "type": "public",
+    "date": "19/05 21:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Vanilla..?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7904609",
+    "type": "public",
+    "date": "19/05 21:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": ";)",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
