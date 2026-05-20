@@ -9844,5 +9844,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "-999999 Songbun",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7906046",
+    "type": "public",
+    "date": "20/05 11:39",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Meep you're a dilapidated building covered in moss <3",
+    "msgClasses": "chat_message "
   }
 ]
