@@ -3396,5 +3396,45 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "snoopdoggsfattestfan why a name like that?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905364",
+    "type": "public",
+    "date": "20/05 6:35",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bruh my dad put the Sim card in my little sister's clock",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905365",
+    "type": "public",
+    "date": "20/05 6:36",
+    "username": "trashcat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Medokin excuse me?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905366",
+    "type": "public",
+    "date": "20/05 6:36",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_57e812e159fc.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905367",
+    "type": "public",
+    "date": "20/05 6:36",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "In this",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
