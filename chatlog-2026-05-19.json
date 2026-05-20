@@ -32528,5 +32528,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "🦊",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904921",
+    "type": "public",
+    "date": "19/05 23:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "That job welled doesn't effect me",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
