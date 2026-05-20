@@ -11024,5 +11024,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Niko_The_Bee wat",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906164",
+    "type": "public",
+    "date": "20/05 12:20",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ".,,,.,..,,.,.",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
