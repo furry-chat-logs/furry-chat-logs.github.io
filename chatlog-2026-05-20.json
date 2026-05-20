@@ -8306,5 +8306,25 @@
     "userClasses": "username bneon3 bnfont5",
     "message": "Every since i played it, I've been slacking",
     "msgClasses": "chat_message bfont7"
+  },
+  {
+    "id": "7905890",
+    "type": "public",
+    "date": "20/05 10:11",
+    "username": "XxIQShuruixX",
+    "userId": "37146",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "Medokin hm?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905891",
+    "type": "public",
+    "date": "20/05 10:11",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "٭٭ your songs?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
