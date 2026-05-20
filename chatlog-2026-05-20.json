@@ -13644,5 +13644,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am back",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906431",
+    "type": "public",
+    "date": "20/05 14:18",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "from a lovely shower",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
