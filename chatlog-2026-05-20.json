@@ -1208,5 +1208,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Every-everybody left when I came...!(╥﹏╥)",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905143",
+    "type": "public",
+    "date": "20/05 2:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I rlly hope nobody is ignoring me...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905144",
+    "type": "public",
+    "date": "20/05 2:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905145",
+    "type": "public",
+    "date": "20/05 2:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "O-oh hi frien!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
