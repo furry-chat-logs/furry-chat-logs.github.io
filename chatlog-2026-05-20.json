@@ -13574,5 +13574,25 @@
     "userClasses": "username bgrad7 ",
     "message": "💅🏻💅🏻💅🏻💄",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906424",
+    "type": "public",
+    "date": "20/05 14:17",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb3huMHRlcGtkeml0YzJ4eWRhMDVjaWRxbGVoMHJ1cWluZGIza3RqMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TZnb9yP17Mc9i/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7906425",
+    "type": "public",
+    "date": "20/05 14:17",
+    "username": "V3LVETTE",
+    "userId": "34186",
+    "userClasses": "username bneon21 bnfont6",
+    "message": "Totally totally",
+    "msgClasses": "chat_message bneon20 ital bfont10"
   }
 ]
