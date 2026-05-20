@@ -14464,5 +14464,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( open poll ) Last time",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906513",
+    "type": "public",
+    "date": "20/05 14:51",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hello",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
