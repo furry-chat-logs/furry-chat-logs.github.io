@@ -1988,5 +1988,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I cried before I knew it was a prank...",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905221",
+    "type": "public",
+    "date": "20/05 2:52",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "someone prob sent zenith a ss message under your name",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905222",
+    "type": "public",
+    "date": "20/05 2:52",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SoraTheMikuFan can happen",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905223",
+    "type": "public",
+    "date": "20/05 2:52",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "but don't worry it did not go that deep",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905224",
+    "type": "public",
+    "date": "20/05 2:52",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "be glad it didn't",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
