@@ -7186,5 +7186,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "That's crazy",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7905778",
+    "type": "public",
+    "date": "20/05 9:44",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "😋",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7905779",
+    "type": "public",
+    "date": "20/05 9:44",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "one sec. I used to have like...8 under this email. but they never got unbanned. pretty sure one of 'em was profile link",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
