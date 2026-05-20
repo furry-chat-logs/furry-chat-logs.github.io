@@ -8776,5 +8776,15 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "My bf got banned somehow",
     "msgClasses": "chat_message bneon3 boldital bfont12"
+  },
+  {
+    "id": "7905939",
+    "type": "public",
+    "date": "20/05 10:58",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "A_kind_furry LMAO",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
