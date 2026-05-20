@@ -7706,5 +7706,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Spectre_protogen agree",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905830",
+    "type": "public",
+    "date": "20/05 10:01",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "alcoholism",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7905831",
+    "type": "public",
+    "date": "20/05 10:01",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "not gaming",
+    "msgClasses": "chat_message bcolor2  bfont10"
   }
 ]
