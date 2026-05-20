@@ -8576,5 +8576,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Pina heya",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905919",
+    "type": "public",
+    "date": "20/05 10:51",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Sol_Aizawa hru?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
