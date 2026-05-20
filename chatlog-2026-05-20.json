@@ -15644,5 +15644,25 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "YES",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7906631",
+    "type": "public",
+    "date": "20/05 16:09",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "YOU ARE HERE",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7906632",
+    "type": "public",
+    "date": "20/05 16:09",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Raised a finger",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
