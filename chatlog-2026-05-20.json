@@ -13634,5 +13634,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Breaking bad is a peak show",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906430",
+    "type": "public",
+    "date": "20/05 14:18",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am back",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
