@@ -2356,5 +2356,45 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Anyone want to see it?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905258",
+    "type": "public",
+    "date": "20/05 5:38",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa hi",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905259",
+    "type": "public",
+    "date": "20/05 5:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905260",
+    "type": "public",
+    "date": "20/05 5:39",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa yes [hoo]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905261",
+    "type": "public",
+    "date": "20/05 5:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_3207ec6c0bce.png]",
+    "msgClasses": "chat_message "
   }
 ]
