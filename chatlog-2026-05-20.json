@@ -6562,5 +6562,21 @@
     "userClasses": "username bgrad7 ",
     "message": "DAMN",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905715",
+    "type": "system",
+    "date": "20/05 9:37",
+    "username": "System",
+    "userId": null,
+    "message": "Rynex12 has been removed from chat"
+  },
+  {
+    "id": "7905716",
+    "type": "system",
+    "date": "20/05 9:38",
+    "username": "System",
+    "userId": null,
+    "message": "EnderFox has been removed from chat"
   }
 ]
