@@ -10094,5 +10094,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "A_kind_furry Protogens would win",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7906071",
+    "type": "public",
+    "date": "20/05 11:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_0f7bec9eef74.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906072",
+    "type": "public",
+    "date": "20/05 11:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Spider",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
