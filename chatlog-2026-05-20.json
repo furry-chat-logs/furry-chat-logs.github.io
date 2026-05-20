@@ -4236,5 +4236,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "LURKING not LARPING",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905448",
+    "type": "public",
+    "date": "20/05 7:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "it is with a U not a A or an O",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905449",
+    "type": "public",
+    "date": "20/05 7:05",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "omg Sol_Aizawa is a larper :D",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
