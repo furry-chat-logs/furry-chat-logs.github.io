@@ -4726,5 +4726,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "horrible I have a headache failed my history test",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905497",
+    "type": "public",
+    "date": "20/05 7:31",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_3e0b1983c33e.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905498",
+    "type": "public",
+    "date": "20/05 7:31",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "and NEED a job...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
