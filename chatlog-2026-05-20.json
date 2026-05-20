@@ -5386,5 +5386,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Evillllllll",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905564",
+    "type": "public",
+    "date": "20/05 7:53",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": ":333",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905565",
+    "type": "public",
+    "date": "20/05 7:53",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ nerd",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
