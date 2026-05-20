@@ -22182,5 +22182,25 @@
     "userClasses": "username bgrad7 ",
     "message": "He's good",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907295",
+    "type": "public",
+    "date": "20/05 17:23",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I love listening to Micheal Jordan",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907296",
+    "type": "public",
+    "date": "20/05 17:23",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_ff89f4a20c9e.png]",
+    "msgClasses": "chat_message "
   }
 ]
