@@ -31958,5 +31958,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "[lynxfox]",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904864",
+    "type": "public",
+    "date": "19/05 23:09",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Rodents...",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
