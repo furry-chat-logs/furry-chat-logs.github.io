@@ -2936,5 +2936,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Now we wait",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905318",
+    "type": "public",
+    "date": "20/05 6:10",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oki",
+    "msgClasses": "chat_message bneon14"
   }
 ]
