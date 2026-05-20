@@ -3276,5 +3276,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "SoraTheMikuFan because its nice in there",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905352",
+    "type": "public",
+    "date": "20/05 6:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh well if u say so *puts u back*",
+    "msgClasses": "chat_message bneon14"
   }
 ]
