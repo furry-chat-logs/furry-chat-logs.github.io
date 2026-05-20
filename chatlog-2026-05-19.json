@@ -27388,5 +27388,45 @@
     "userClasses": "username bneon21 bnfont15",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user3117_944daf472123.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904337",
+    "type": "public",
+    "date": "19/05 18:59",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "Oh wow i didnt realize there was noise suppression </3",
+    "msgClasses": "chat_message bneon19  bfont3"
+  },
+  {
+    "id": "7904338",
+    "type": "public",
+    "date": "19/05 18:59",
+    "username": "OogaBooga",
+    "userId": "37294",
+    "userClasses": "username user ",
+    "message": "anyone wanna chat? I'm lonely",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904339",
+    "type": "public",
+    "date": "19/05 18:59",
+    "username": "Nobody",
+    "userId": "27175",
+    "userClasses": "username bcolor18 bnfont11",
+    "message": "sure twi",
+    "msgClasses": "chat_message bcolor18  bfont13"
+  },
+  {
+    "id": "7904340",
+    "type": "public",
+    "date": "19/05 18:59",
+    "username": "OogaBooga",
+    "userId": "37294",
+    "userClasses": "username user ",
+    "message": "yay",
+    "msgClasses": "chat_message "
   }
 ]
