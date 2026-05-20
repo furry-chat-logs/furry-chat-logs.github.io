@@ -10344,5 +10344,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Meep YES! Scare the shit out of the proot",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906096",
+    "type": "public",
+    "date": "20/05 11:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_f42750f69609.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
