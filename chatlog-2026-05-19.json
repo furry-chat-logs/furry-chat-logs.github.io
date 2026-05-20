@@ -30488,5 +30488,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Penor 19/05 22:10 you're gay hahaha gay",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904714",
+    "type": "public",
+    "date": "19/05 22:10",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "ryder, or riiooot",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7904715",
+    "type": "public",
+    "date": "19/05 22:11",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Can't keep me quieeet",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
