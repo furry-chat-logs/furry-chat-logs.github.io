@@ -3906,5 +3906,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Medokin yay",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905415",
+    "type": "public",
+    "date": "20/05 6:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa long way to go...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905416",
+    "type": "public",
+    "date": "20/05 6:55",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SoraTheMikuFan just search up the dutch school system",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
