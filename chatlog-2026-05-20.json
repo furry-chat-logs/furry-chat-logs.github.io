@@ -9666,5 +9666,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "But my armor",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906028",
+    "type": "public",
+    "date": "20/05 11:23",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Medokin plz throw that rock atta glass window",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
