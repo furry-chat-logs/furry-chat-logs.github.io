@@ -6426,5 +6426,35 @@
     "userClasses": "username bcolor4 bnfont8",
     "message": "Moonishiki  aw",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905701",
+    "type": "public",
+    "date": "20/05 9:35",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8513_17d27ee32579.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905702",
+    "type": "public",
+    "date": "20/05 9:35",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "me pov",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7905703",
+    "type": "public",
+    "date": "20/05 9:35",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": ":3",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
