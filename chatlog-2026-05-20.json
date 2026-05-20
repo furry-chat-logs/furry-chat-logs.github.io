@@ -2248,5 +2248,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Im da real Bangaranga",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7905247",
+    "type": "public",
+    "date": "20/05 3:52",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Shout out Eurovision lol",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7905248",
+    "type": "public",
+    "date": "20/05 3:52",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Hunter77 👍",
+    "msgClasses": "chat_message "
   }
 ]
