@@ -27728,5 +27728,55 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Lemme try to find it",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904420",
+    "type": "public",
+    "date": "19/05 19:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ts so bad",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904421",
+    "type": "public",
+    "date": "19/05 19:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_80763d0ae876.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904422",
+    "type": "public",
+    "date": "19/05 19:31",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcmh6MGJhM2g4MG5vd2R3bzk3bHdkYmlldmJ5bzk3N215cTk4MnB4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Bzk1fiaoVi1QPuWvYQ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7904423",
+    "type": "public",
+    "date": "19/05 19:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "A",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904424",
+    "type": "public",
+    "date": "19/05 19:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Wrong image I accidentally pasted",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
