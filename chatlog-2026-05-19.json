@@ -31618,5 +31618,45 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "ZYR1 no but they make me crazy",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904830",
+    "type": "public",
+    "date": "19/05 23:07",
+    "username": "ZYR1",
+    "userId": "6207",
+    "userClasses": "username bcolor30 bnfont15",
+    "message": "Ahhh, k",
+    "msgClasses": "chat_message bcolor30 ital bfont11"
+  },
+  {
+    "id": "7904831",
+    "type": "public",
+    "date": "19/05 23:07",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Wtfissachip that's crazy",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904832",
+    "type": "public",
+    "date": "19/05 23:07",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Crazy",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904833",
+    "type": "public",
+    "date": "19/05 23:07",
+    "username": "ZYR1",
+    "userId": "6207",
+    "userClasses": "username bcolor30 bnfont15",
+    "message": "Makes sense",
+    "msgClasses": "chat_message bcolor30 ital bfont11"
   }
 ]
