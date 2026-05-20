@@ -2816,5 +2816,55 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "k",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905306",
+    "type": "public",
+    "date": "20/05 6:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_34b0d5e5288d.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905307",
+    "type": "public",
+    "date": "20/05 6:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's Miku color!!!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905308",
+    "type": "public",
+    "date": "20/05 6:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Omg",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905309",
+    "type": "public",
+    "date": "20/05 6:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_fb35b0f5f5b5.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905310",
+    "type": "public",
+    "date": "20/05 6:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Yes",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
