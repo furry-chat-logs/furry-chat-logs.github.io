@@ -4256,5 +4256,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "omg Sol_Aizawa is a larper :D",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905450",
+    "type": "public",
+    "date": "20/05 7:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "lurker...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
