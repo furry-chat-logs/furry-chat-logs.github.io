@@ -12774,5 +12774,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Gotta go to work brb",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7906344",
+    "type": "public",
+    "date": "20/05 13:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "abcdefghijklmnopqrstivwxuz",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
