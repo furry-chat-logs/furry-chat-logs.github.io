@@ -2218,5 +2218,15 @@
     "userClasses": "username user ",
     "message": "rah",
     "msgClasses": "chat_message bcolor15  bfont1"
+  },
+  {
+    "id": "7905244",
+    "type": "public",
+    "date": "20/05 3:51",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_4a68b01c70ec.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
