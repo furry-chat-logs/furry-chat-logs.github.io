@@ -32108,5 +32108,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "It's funnie",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904879",
+    "type": "public",
+    "date": "19/05 23:11",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Ratsist",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904880",
+    "type": "public",
+    "date": "19/05 23:11",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "The fleas drove around on the rats",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
