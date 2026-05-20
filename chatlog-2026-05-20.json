@@ -3736,5 +3736,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Unfaiirrr",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905398",
+    "type": "public",
+    "date": "20/05 6:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I don't kno I'll have my results in a bit",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
