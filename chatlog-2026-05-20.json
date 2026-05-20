@@ -9676,5 +9676,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Medokin plz throw that rock atta glass window",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7906029",
+    "type": "public",
+    "date": "20/05 11:23",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_b2b1dd4ec811.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906030",
+    "type": "public",
+    "date": "20/05 11:23",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Medokin",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
