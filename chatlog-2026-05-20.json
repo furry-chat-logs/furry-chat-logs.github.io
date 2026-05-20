@@ -2138,5 +2138,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And that's new fear unlocked🙂",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905236",
+    "type": "public",
+    "date": "20/05 2:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdGVxbXdwdDEzeGVvaGMxaDBuamU5YXNjYXhtODJyaHE2ajlrdG9wdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8HQLp64SaZNkvhZNgG/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
