@@ -31598,5 +31598,25 @@
     "userClasses": "username bcolor30 bnfont15",
     "message": "Do rats make you crazy?",
     "msgClasses": "chat_message bcolor30 ital bfont11"
+  },
+  {
+    "id": "7904828",
+    "type": "public",
+    "date": "19/05 23:06",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Bergindine I'm putting a rat in a bucket on top of you and putting a torch to the bucket so it eats it's way out",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904829",
+    "type": "public",
+    "date": "19/05 23:06",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "ZYR1 no but they make me crazy",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
