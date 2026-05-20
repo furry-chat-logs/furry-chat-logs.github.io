@@ -13454,5 +13454,25 @@
     "userClasses": "username bneon21 bnfont6",
     "message": "XP",
     "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7906412",
+    "type": "public",
+    "date": "20/05 14:14",
+    "username": "V3LVETTE",
+    "userId": "34186",
+    "userClasses": "username bneon21 bnfont6",
+    "message": "stop",
+    "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7906413",
+    "type": "public",
+    "date": "20/05 14:14",
+    "username": "V3LVETTE",
+    "userId": "34186",
+    "userClasses": "username bneon21 bnfont6",
+    "message": "don't talk to me",
+    "msgClasses": "chat_message bneon20 ital bfont10"
   }
 ]
