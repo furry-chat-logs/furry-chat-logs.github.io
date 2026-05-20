@@ -12064,5 +12064,25 @@
     "userClasses": "username user ",
     "message": "see I don't have much time",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906273",
+    "type": "public",
+    "date": "20/05 13:14",
+    "username": "Nak Nes",
+    "userId": "34867",
+    "userClasses": "username user ",
+    "message": "where the hell is Ju?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906274",
+    "type": "public",
+    "date": "20/05 13:14",
+    "username": "Jagdtiger",
+    "userId": "37302",
+    "userClasses": "username user ",
+    "message": "im about to head to work",
+    "msgClasses": "chat_message "
   }
 ]
