@@ -9406,5 +9406,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ stupid boykisser",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7906002",
+    "type": "public",
+    "date": "20/05 11:18",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[yeehaw]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7906003",
+    "type": "public",
+    "date": "20/05 11:18",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "[lynxx1]",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
