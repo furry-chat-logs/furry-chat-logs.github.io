@@ -15094,5 +15094,15 @@
     "userClasses": "username user ",
     "message": "[wooper]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906576",
+    "type": "public",
+    "date": "20/05 15:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Cube....",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
