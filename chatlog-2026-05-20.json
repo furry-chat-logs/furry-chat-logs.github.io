@@ -6106,5 +6106,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Does not sound pleasent",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905637",
+    "type": "public",
+    "date": "20/05 8:26",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Yeah I don't know why it happens",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
