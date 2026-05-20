@@ -27508,5 +27508,25 @@
     "userClasses": "username user ",
     "message": "hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904355",
+    "type": "public",
+    "date": "19/05 19:12",
+    "username": "OogaBooga",
+    "userId": "37294",
+    "userClasses": "username user ",
+    "message": "who wants to chat?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7904356",
+    "type": "public",
+    "date": "19/05 19:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "👁️",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
