@@ -9466,5 +9466,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[lynxx1]",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7906008",
+    "type": "public",
+    "date": "20/05 11:18",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Smiley ugh not great but eh",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7906009",
+    "type": "public",
+    "date": "20/05 11:18",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Smiley I'm good, thanks",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
