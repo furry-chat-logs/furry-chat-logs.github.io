@@ -32208,5 +32208,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Alr 00:14 and I have 20% battery",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7904889",
+    "type": "public",
+    "date": "19/05 23:13",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Goodnight",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
