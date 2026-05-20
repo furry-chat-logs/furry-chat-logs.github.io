@@ -30028,5 +30028,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "JustAnAnt hat",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7904668",
+    "type": "public",
+    "date": "19/05 21:51",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "JustAnAnt fat rune",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
