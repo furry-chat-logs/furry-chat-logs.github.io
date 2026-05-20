@@ -11694,5 +11694,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_224b6ba730a4.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906234",
+    "type": "public",
+    "date": "20/05 12:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin thats a pink frog...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
