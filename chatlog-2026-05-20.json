@@ -16134,5 +16134,15 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOWw5ODhqODRxM2hpc281ZjBtcGxhNm85M3Z2eXN5Mmh0azltdXJrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Im0On5p6zfva6j2Nlj/giphy.gif]",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7906681",
+    "type": "public",
+    "date": "20/05 16:20",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "Hello :]",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
