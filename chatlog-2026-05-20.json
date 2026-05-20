@@ -4846,5 +4846,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "before he had to stop cussing",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905509",
+    "type": "public",
+    "date": "20/05 7:35",
+    "username": "V3LVET",
+    "userId": "34186",
+    "userClasses": "username bneon21 bnfont6",
+    "message": "Oh?",
+    "msgClasses": "chat_message bneon20 ital bfont10"
+  },
+  {
+    "id": "7905510",
+    "type": "public",
+    "date": "20/05 7:35",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37148_9ef7a99c32a0.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
