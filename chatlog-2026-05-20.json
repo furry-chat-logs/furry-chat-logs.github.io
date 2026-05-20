@@ -18244,5 +18244,85 @@
     "userClasses": "username bneon16 bnfont1",
     "message": "Wifies i hope u drop ur chinese food",
     "msgClasses": "chat_message bneon13 ital bfont12"
+  },
+  {
+    "id": "7906892",
+    "type": "public",
+    "date": "20/05 16:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I've been drinking lots of water tho",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906893",
+    "type": "public",
+    "date": "20/05 16:42",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "is that mood an evermore reference i see😍",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7906894",
+    "type": "public",
+    "date": "20/05 16:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I've just been too stressed to eat",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906895",
+    "type": "public",
+    "date": "20/05 16:42",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMjdhZjg4aGdqYmp0bWFsNzA3NmphaWRoaGRrNTFuMG45NjA5azRzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DY2ujmJHaO9Vu/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7906896",
+    "type": "public",
+    "date": "20/05 16:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Mine?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7906897",
+    "type": "public",
+    "date": "20/05 16:42",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "Moonishiki oh, make some more food",
+    "msgClasses": "chat_message bneon13 ital bfont12"
+  },
+  {
+    "id": "7906898",
+    "type": "public",
+    "date": "20/05 16:42",
+    "username": "Wifies",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Moonishiki ye",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7906899",
+    "type": "public",
+    "date": "20/05 16:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "No",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
