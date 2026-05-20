@@ -12194,5 +12194,15 @@
     "userClasses": "username user ",
     "message": "time",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906286",
+    "type": "public",
+    "date": "20/05 13:16",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Sol_Aizawa lol nah, we just like to call each other random names",
+    "msgClasses": "chat_message "
   }
 ]
