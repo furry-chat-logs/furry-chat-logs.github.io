@@ -88,5 +88,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "Do you want me to apologize?",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905030",
+    "type": "public",
+    "date": "20/05 0:01",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Shinigami is Zen",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
