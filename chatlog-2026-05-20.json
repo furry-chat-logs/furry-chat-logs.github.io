@@ -6596,5 +6596,25 @@
     "userClasses": "username bgrad7 ",
     "message": "DAMN",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905719",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "OH NO...it's the furrychat rapture again",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7905720",
+    "type": "public",
+    "date": "20/05 9:38",
+    "username": "UNSPXKENWXRLDZ",
+    "userId": "36375",
+    "userClasses": "username bcolor4 bnfont8",
+    "message": "ITS THE PURGE",
+    "msgClasses": "chat_message "
   }
 ]
