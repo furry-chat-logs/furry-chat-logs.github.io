@@ -28258,5 +28258,35 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "i didnt because i wanted to talk to my gf and shit",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7904490",
+    "type": "public",
+    "date": "19/05 20:15",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "newsflash i exchanged exactly 8 words with her today",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7904491",
+    "type": "public",
+    "date": "19/05 20:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ow..",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7904492",
+    "type": "public",
+    "date": "19/05 20:16",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( Rawr bite those bitches.  19/05 18:15 ) Yess, rawr >:]",
+    "msgClasses": "chat_message "
   }
 ]
