@@ -11864,5 +11864,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rip frog",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906252",
+    "type": "public",
+    "date": "20/05 13:03",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_2c70981a3423.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
