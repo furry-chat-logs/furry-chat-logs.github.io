@@ -2288,5 +2288,13 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Breab",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905251",
+    "type": "system",
+    "date": "20/05 5:01",
+    "username": "System",
+    "userId": null,
+    "message": "prEtzeL has been kicked"
   }
 ]
