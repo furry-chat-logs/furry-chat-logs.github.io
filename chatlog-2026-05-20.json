@@ -2866,5 +2866,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Yes",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905311",
+    "type": "public",
+    "date": "20/05 6:07",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOXdxaWFha2EwaHRxdjRicnM4aXhxeWs2c2N2cDVmMjh1MnI4ZGFqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9czVVBouULPzZb24mL/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905312",
+    "type": "public",
+    "date": "20/05 6:07",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I can't open it",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
