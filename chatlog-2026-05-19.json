@@ -33338,5 +33338,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Boing",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7905003",
+    "type": "public",
+    "date": "19/05 23:56",
+    "username": "Shinigami",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "prEtzeL It's what I do.",
+    "msgClasses": "chat_message bneon29 bold bfont1"
   }
 ]
