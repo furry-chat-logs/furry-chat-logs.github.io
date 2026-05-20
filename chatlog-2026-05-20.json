@@ -6226,5 +6226,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I did it. Don't ask how I took this picture",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905680",
+    "type": "public",
+    "date": "20/05 9:19",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I was happy in the haze of a drunken hour But heaven knows I'm miserable now I was looking for a job and then I found a job And heaven knows I'm miserable now",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
