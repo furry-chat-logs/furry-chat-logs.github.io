@@ -7486,5 +7486,15 @@
     "userClasses": "username user ",
     "message": "Can someone tell me why is this little guy here [wooper]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7905808",
+    "type": "public",
+    "date": "20/05 9:57",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sharkbiteyou no idea",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
