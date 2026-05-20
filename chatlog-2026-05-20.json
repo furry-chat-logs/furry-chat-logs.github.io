@@ -10924,5 +10924,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Niko_The_Bee I only said you know I aint all that mentally strong",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7906154",
+    "type": "public",
+    "date": "20/05 12:18",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Ill Just tell Everyone, I'm sorry.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7906155",
+    "type": "public",
+    "date": "20/05 12:18",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "Sol_Aizawa .,.",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
