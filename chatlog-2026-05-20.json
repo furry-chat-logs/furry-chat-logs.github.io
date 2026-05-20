@@ -3466,5 +3466,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "That's why it's not working",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7905371",
+    "type": "public",
+    "date": "20/05 6:39",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I got a question is the phone memory stored in the Sim card",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
