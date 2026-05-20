@@ -3896,5 +3896,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "In the sixt year is when we get exams so we can leave this hellhole, but I am in the second year",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905414",
+    "type": "public",
+    "date": "20/05 6:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Medokin yay",
+    "msgClasses": "chat_message bneon14"
   }
 ]
