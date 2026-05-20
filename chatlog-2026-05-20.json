@@ -3186,5 +3186,65 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Bwahahah/ᐠ ╥ ˕ ╥マ",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905343",
+    "type": "public",
+    "date": "20/05 6:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "It is no TWT",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905344",
+    "type": "public",
+    "date": "20/05 6:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*now",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905345",
+    "type": "public",
+    "date": "20/05 6:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh nyooooo",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7905346",
+    "type": "public",
+    "date": "20/05 6:23",
+    "username": "trashcat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sol_Aizawa ggs",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7905347",
+    "type": "public",
+    "date": "20/05 6:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "i gtg....",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7905348",
+    "type": "public",
+    "date": "20/05 6:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Gl sol(╥﹏╥)",
+    "msgClasses": "chat_message bneon14"
   }
 ]
