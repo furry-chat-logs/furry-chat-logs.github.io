@@ -15354,5 +15354,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_6d95cdeb4863.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906602",
+    "type": "public",
+    "date": "20/05 16:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yawn",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
