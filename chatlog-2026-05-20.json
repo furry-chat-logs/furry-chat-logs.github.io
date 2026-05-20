@@ -398,5 +398,15 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "I need to study why I've taken a 180.",
     "msgClasses": "chat_message bneon29 bold bfont1"
+  },
+  {
+    "id": "7905062",
+    "type": "public",
+    "date": "20/05 0:14",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Moonishiki look at this thumbnail",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
