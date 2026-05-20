@@ -10454,5 +10454,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Num Little Bug *boop*",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7906107",
+    "type": "public",
+    "date": "20/05 11:57",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_28a2a1e10c0b.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7906108",
+    "type": "public",
+    "date": "20/05 11:57",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Dogy and caty",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7906109",
+    "type": "public",
+    "date": "20/05 11:57",
+    "username": "Num Little Bug",
+    "userId": "32985",
+    "userClasses": "username bgrad13 bnfont15",
+    "message": "Spectre_protogen I Don't think That Would fix anything...",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
