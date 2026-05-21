@@ -14598,5 +14598,35 @@
     "userClasses": "username bgrad40 ",
     "message": "hai",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7909935",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": ":OOOOOOOO",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909936",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ":3",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7909937",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "GOOD FOR YOU",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
