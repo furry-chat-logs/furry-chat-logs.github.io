@@ -12428,5 +12428,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Taps chin",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7909717",
+    "type": "public",
+    "date": "21/05 13:00",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "*taps fandom button*",
+    "msgClasses": "chat_message "
   }
 ]
