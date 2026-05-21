@@ -1688,5 +1688,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Religion is that the problem",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7908640",
+    "type": "public",
+    "date": "21/05 6:58",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Medokin yeah",
+    "msgClasses": "chat_message "
   }
 ]
