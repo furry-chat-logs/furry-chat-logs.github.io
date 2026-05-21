@@ -15526,5 +15526,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_de57cf84deaf.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910030",
+    "type": "public",
+    "date": "21/05 14:41",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "anybody got a spare deep fryer?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
