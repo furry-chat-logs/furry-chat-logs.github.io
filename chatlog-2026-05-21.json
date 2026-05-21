@@ -12878,5 +12878,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I wanna tough",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909762",
+    "type": "public",
+    "date": "21/05 13:06",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "I got the game but cant get past the daycare generators TwT",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909763",
+    "type": "public",
+    "date": "21/05 13:06",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "sorry. I have strong opinions on the fnaf movie",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
