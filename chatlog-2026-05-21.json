@@ -14768,5 +14768,15 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "Hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909952",
+    "type": "public",
+    "date": "21/05 13:48",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Hello",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
