@@ -28690,5 +28690,65 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "i love me some good music </3",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7907953",
+    "type": "public",
+    "date": "20/05 21:27",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMDZreXBnbjNyc2FwYzRtbmV1dXczcXhsbHA1eGM0ZzAzOGp2Z2xwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zxznzI9g7wmZO/giphy.gif]",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907954",
+    "type": "public",
+    "date": "20/05 21:27",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Your music taste is shit",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7907955",
+    "type": "public",
+    "date": "20/05 21:27",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Me btw",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907956",
+    "type": "public",
+    "date": "20/05 21:27",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Awww foxes are so cute",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7907957",
+    "type": "public",
+    "date": "20/05 21:27",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "It's fine to me",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907958",
+    "type": "public",
+    "date": "20/05 21:27",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Mayhem real",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
