@@ -5088,5 +5088,25 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "do i needa repeat it for u ladies?",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908980",
+    "type": "public",
+    "date": "21/05 8:28",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "mhm mhm",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908981",
+    "type": "public",
+    "date": "21/05 8:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "also I might have made some walls a bit to big in a try to protect my self...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
