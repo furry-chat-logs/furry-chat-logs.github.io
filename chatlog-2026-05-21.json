@@ -468,5 +468,15 @@
     "userClasses": "username user ",
     "message": "Wtfissachip yeah ive done that before",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908516",
+    "type": "public",
+    "date": "21/05 1:55",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I'm back",
+    "msgClasses": "chat_message "
   }
 ]
