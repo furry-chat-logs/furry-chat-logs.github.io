@@ -8618,5 +8618,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbTZ0bTBocndzNzU0ejV1bWRpMXd6ZHNhaTZocG01bzdmdW9pbWVydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GAXMzzd2XElnG/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909336",
+    "type": "public",
+    "date": "21/05 10:36",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_5af227ae53dd.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
