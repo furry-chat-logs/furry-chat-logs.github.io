@@ -14178,5 +14178,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "nah, I am already not on that good terms with the frogman -_-'",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909893",
+    "type": "public",
+    "date": "21/05 13:37",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909894",
+    "type": "public",
+    "date": "21/05 13:37",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user3475_7e2abbec9126.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909895",
+    "type": "public",
+    "date": "21/05 13:37",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "does anyone like musicals ? TnT",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
