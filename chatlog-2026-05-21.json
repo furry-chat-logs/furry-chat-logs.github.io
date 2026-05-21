@@ -3698,5 +3698,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "i am nt cool?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7908841",
+    "type": "public",
+    "date": "21/05 8:11",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki damn.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908842",
+    "type": "public",
+    "date": "21/05 8:11",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "What about me?",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
