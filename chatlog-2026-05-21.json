@@ -1738,5 +1738,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Medokin they don't like that I'm a Christian",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908645",
+    "type": "public",
+    "date": "21/05 6:59",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wats christian",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
