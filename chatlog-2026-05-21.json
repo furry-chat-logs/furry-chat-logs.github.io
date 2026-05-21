@@ -7698,5 +7698,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I have the digital badge somewhere",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909244",
+    "type": "public",
+    "date": "21/05 9:17",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki coool! :D",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909245",
+    "type": "public",
+    "date": "21/05 9:17",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm bored",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
