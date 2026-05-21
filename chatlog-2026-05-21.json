@@ -498,5 +498,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "The prophecy came true once again.",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7908519",
+    "type": "public",
+    "date": "21/05 2:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "PuRoUwU your pfp is very cute. Is that ur cat?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
