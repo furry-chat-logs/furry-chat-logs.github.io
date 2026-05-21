@@ -14368,5 +14368,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Wouldn't you like a taste of the power",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909912",
+    "type": "public",
+    "date": "21/05 13:39",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "'Cause I'm stuck with your stories",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
