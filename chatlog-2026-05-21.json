@@ -6808,5 +6808,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "JustAnAnt brochacho im on a site called furrychat im not here to put my english skills to use",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909155",
+    "type": "public",
+    "date": "21/05 8:55",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "JustAnAnt can you stop harrasing me mate",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
