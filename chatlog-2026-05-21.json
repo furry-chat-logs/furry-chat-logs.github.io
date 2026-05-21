@@ -12608,5 +12608,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "New Kid ok. Good to know.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909735",
+    "type": "public",
+    "date": "21/05 13:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Anyways",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909736",
+    "type": "public",
+    "date": "21/05 13:03",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "*me on ma way to watch tadc movie the 4th well aware I'ma be troumatized for weeks*",
+    "msgClasses": "chat_message "
   }
 ]
