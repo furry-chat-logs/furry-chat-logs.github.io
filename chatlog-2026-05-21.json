@@ -12308,5 +12308,25 @@
     "userClasses": "username bcolor18 bnfont14",
     "message": "Been playing for I think since 2021 but garcello is my child",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909705",
+    "type": "public",
+    "date": "21/05 12:57",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "MysteryMoonQuotev Btw how is it going over there, I hope better than at the STGS, it is horrible here and I had to redo second year...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909706",
+    "type": "public",
+    "date": "21/05 12:57",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "Spectre_protogen Ooo could u send plz?",
+    "msgClasses": "chat_message "
   }
 ]
