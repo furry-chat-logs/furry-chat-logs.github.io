@@ -9828,5 +9828,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "I see.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7909457",
+    "type": "public",
+    "date": "21/05 11:28",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Smiley sup you burnt piece of pizza",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
