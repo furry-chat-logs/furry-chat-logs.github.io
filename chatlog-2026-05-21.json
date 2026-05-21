@@ -2238,5 +2238,15 @@
     "userClasses": "username bcolor32 ",
     "message": "It's a spanish thing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908695",
+    "type": "public",
+    "date": "21/05 7:14",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Google search it",
+    "msgClasses": "chat_message "
   }
 ]
