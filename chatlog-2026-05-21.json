@@ -3658,5 +3658,25 @@
     "userClasses": "username bgrad7 ",
     "message": "yawn",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908837",
+    "type": "public",
+    "date": "21/05 8:11",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Nobody cool is on :<",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908838",
+    "type": "public",
+    "date": "21/05 8:11",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Moonishiki mornin",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
