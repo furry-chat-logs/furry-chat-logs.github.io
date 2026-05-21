@@ -10558,5 +10558,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "oh, yeah...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909530",
+    "type": "public",
+    "date": "21/05 11:53",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "they sound like a car, but its actually just some corny teenagers",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
