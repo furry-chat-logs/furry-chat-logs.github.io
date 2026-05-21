@@ -29610,5 +29610,25 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "it's like a few dollars thk it ain't a big deal",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908047",
+    "type": "public",
+    "date": "20/05 21:41",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i want money",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908048",
+    "type": "public",
+    "date": "20/05 21:41",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i would do anything for money",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
