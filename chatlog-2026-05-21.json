@@ -8928,5 +8928,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "theyll show you whos alpha!",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909367",
+    "type": "public",
+    "date": "21/05 10:46",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Pina ur using furry slang...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
