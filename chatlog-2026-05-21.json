@@ -9708,5 +9708,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "aaaaaaaaaaaaaaaaaaaaa",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909445",
+    "type": "public",
+    "date": "21/05 11:16",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
