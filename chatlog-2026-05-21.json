@@ -6578,5 +6578,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "sutup with the technically",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909132",
+    "type": "public",
+    "date": "21/05 8:50",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "sinnercat_mondo no",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
