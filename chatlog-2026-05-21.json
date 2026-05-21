@@ -9678,5 +9678,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I shall return.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909442",
+    "type": "public",
+    "date": "21/05 10:57",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "0G Stupendous Man alr cya vro",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
