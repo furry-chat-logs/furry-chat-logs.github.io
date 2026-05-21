@@ -14278,5 +14278,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "You can relax my friend",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909903",
+    "type": "public",
+    "date": "21/05 13:38",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "I can tell you're getting nervous So do yourself a service And try to relax, my friend",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909904",
+    "type": "public",
+    "date": "21/05 13:38",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I can tell your getting nervous",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
