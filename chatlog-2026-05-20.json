@@ -23960,5 +23960,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Rune army",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907477",
+    "type": "public",
+    "date": "20/05 19:01",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_48e9b3538965.png]",
+    "msgClasses": "chat_message "
   }
 ]
