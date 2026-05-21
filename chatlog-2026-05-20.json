@@ -26760,5 +26760,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "What am I exactly looking at",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7907759",
+    "type": "public",
+    "date": "20/05 20:59",
+    "username": "CatNap_Fictionkin",
+    "userId": "35425",
+    "userClasses": "username bgrad30 bnfont15",
+    "message": "A dancing abstraction, of course!",
+    "msgClasses": "chat_message bgrad7 heavybold bfont8"
   }
 ]
