@@ -13068,5 +13068,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "theyre an old friend of mine",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909781",
+    "type": "public",
+    "date": "21/05 13:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Sol_Aizawa uhh what new person",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
