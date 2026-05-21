@@ -12088,5 +12088,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "It does to me. Idk what i did.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909683",
+    "type": "public",
+    "date": "21/05 12:52",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Meep merp! ^w^",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
