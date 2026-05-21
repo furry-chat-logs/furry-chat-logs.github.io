@@ -10888,5 +10888,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Smiley jokes on u i hate my family so i poisoned myself before u cooked me :D",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909563",
+    "type": "public",
+    "date": "21/05 12:11",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "sinnercat_mondo im buying a Dodge charger Hellcat...",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909564",
+    "type": "public",
+    "date": "21/05 12:11",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "sinnercat_mondo real",
+    "msgClasses": "chat_message "
   }
 ]
