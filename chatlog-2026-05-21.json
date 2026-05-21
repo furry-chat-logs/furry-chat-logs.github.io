@@ -5748,5 +5748,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[tongue2]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909048",
+    "type": "public",
+    "date": "21/05 8:35",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki i saw lightening and thought thor was there lol",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909049",
+    "type": "public",
+    "date": "21/05 8:36",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "0G Stupendous Man ...👁",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
