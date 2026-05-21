@@ -30490,5 +30490,35 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "mbmb",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908135",
+    "type": "public",
+    "date": "20/05 21:53",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Tf",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908136",
+    "type": "public",
+    "date": "20/05 21:53",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Sydlexic",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908137",
+    "type": "public",
+    "date": "20/05 21:53",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "no that time it was called my stupidity",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
