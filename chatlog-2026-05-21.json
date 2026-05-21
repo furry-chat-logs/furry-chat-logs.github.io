@@ -9048,5 +9048,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lmfao",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909379",
+    "type": "public",
+    "date": "21/05 10:48",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "why do people find such jokes funny its gross to make jokes like that.",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909380",
+    "type": "public",
+    "date": "21/05 10:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Spectre_protogen ig",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
