@@ -26880,5 +26880,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I'm back,",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907771",
+    "type": "public",
+    "date": "20/05 21:03",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "New Kid I like the new pfp",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907772",
+    "type": "public",
+    "date": "20/05 21:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "0G Stupendous Man thanks",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
