@@ -15836,5 +15836,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Dead chat",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910063",
+    "type": "public",
+    "date": "21/05 15:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Aw balls",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
