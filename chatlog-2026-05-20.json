@@ -31930,5 +31930,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Wtfissachip you are",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7908279",
+    "type": "public",
+    "date": "20/05 22:39",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "KingCorgz my gibberish will be heard",
+    "msgClasses": "chat_message "
   }
 ]
