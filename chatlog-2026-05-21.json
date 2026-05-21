@@ -12498,5 +12498,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user3475_12683571bd12.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909724",
+    "type": "public",
+    "date": "21/05 13:01",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "New Kid hey.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909725",
+    "type": "public",
+    "date": "21/05 13:01",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "0G Stupendous Man No but Thats the point lol",
+    "msgClasses": "chat_message "
   }
 ]
