@@ -15256,5 +15256,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "We apperently have a teacher who once sat with his hand shoved into his pants during class...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7910002",
+    "type": "public",
+    "date": "21/05 14:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Sol_Aizawa oh.",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
