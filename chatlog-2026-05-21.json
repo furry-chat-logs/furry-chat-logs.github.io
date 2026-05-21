@@ -3308,5 +3308,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Sol_Aizawa he said I'm weird and I agreed.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908802",
+    "type": "public",
+    "date": "21/05 7:50",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "oh",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
