@@ -9518,5 +9518,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "because i came on this site to get away from jokes ab furry hate",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909426",
+    "type": "public",
+    "date": "21/05 10:53",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25955_1cd858cd6bea.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909427",
+    "type": "public",
+    "date": "21/05 10:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "and anti furs in general",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
