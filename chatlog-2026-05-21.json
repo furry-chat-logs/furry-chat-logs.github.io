@@ -9478,5 +9478,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "New Kid he was joking.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909422",
+    "type": "public",
+    "date": "21/05 10:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "okay",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909423",
+    "type": "public",
+    "date": "21/05 10:53",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "It wasn't even that authentic.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
