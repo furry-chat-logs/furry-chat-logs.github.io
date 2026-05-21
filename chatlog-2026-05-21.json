@@ -9408,5 +9408,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid bro, its a common joke throughout the furry fandom",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909415",
+    "type": "public",
+    "date": "21/05 10:52",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "its not a joke for everyone",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909416",
+    "type": "public",
+    "date": "21/05 10:52",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "well its not fucking funny",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909417",
+    "type": "public",
+    "date": "21/05 10:52",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "at all",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
