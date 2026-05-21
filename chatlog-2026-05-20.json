@@ -31780,5 +31780,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "$3000 can buy 1000 steaks at my local restaurant.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908264",
+    "type": "public",
+    "date": "20/05 22:30",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Frogmin Its definitely overpriced, but its good as hell.",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
