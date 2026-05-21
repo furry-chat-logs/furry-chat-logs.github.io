@@ -31160,5 +31160,15 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "Wren Get a room",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908202",
+    "type": "public",
+    "date": "20/05 22:02",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Lmao",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
