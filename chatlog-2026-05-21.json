@@ -18036,5 +18036,25 @@
     "userClasses": "username bgrad7 ",
     "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7910284",
+    "type": "public",
+    "date": "21/05 17:17",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXMxN25tNG4xeTl0NjBkNGF2NGF2OGlqZHBxNjhla3QyZTFxNm9qdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pboSBvzZyMAYCMpwVI/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910285",
+    "type": "public",
+    "date": "21/05 17:17",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeGtnbGt3NDQ0ZjY5dXdtMzZ5OWlmbGRkbDk4OHAzaWhoZ2RjbWp1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3MtlDYfMTVl9fFVzA3/giphy.gif]",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
