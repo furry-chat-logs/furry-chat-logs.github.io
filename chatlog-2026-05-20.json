@@ -27310,5 +27310,15 @@
     "userClasses": "username bneon11 bnfont6",
     "message": "Cease this behavior.",
     "msgClasses": "chat_message bneon11 heavyital bfont12"
+  },
+  {
+    "id": "7907814",
+    "type": "public",
+    "date": "20/05 21:14",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[verysad]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
