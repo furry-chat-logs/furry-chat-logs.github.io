@@ -15926,5 +15926,15 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "chair",
     "msgClasses": "chat_message bneon30 bold bfont7"
+  },
+  {
+    "id": "7910072",
+    "type": "public",
+    "date": "21/05 15:26",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Chair",
+    "msgClasses": "chat_message "
   }
 ]
