@@ -13938,5 +13938,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa is there a maximum",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909868",
+    "type": "public",
+    "date": "21/05 13:32",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "No need for 35 friends.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909869",
+    "type": "public",
+    "date": "21/05 13:32",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Sol_Aizawa its fine, im sorry too",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909870",
+    "type": "public",
+    "date": "21/05 13:32",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I let my opinion get the better of me and caused another argument...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
