@@ -11638,5 +11638,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Google",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909638",
+    "type": "public",
+    "date": "21/05 12:38",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "How to sit down",
+    "msgClasses": "chat_message "
   }
 ]
