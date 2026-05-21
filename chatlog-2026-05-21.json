@@ -6238,5 +6238,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8914_aac01a943a0f.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909097",
+    "type": "public",
+    "date": "21/05 8:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "prEtzeL you hangry",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
