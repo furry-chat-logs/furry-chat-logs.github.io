@@ -8758,5 +8758,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Sol_Aizawa wow.",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909350",
+    "type": "public",
+    "date": "21/05 10:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Sol_Aizawa qh",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909351",
+    "type": "public",
+    "date": "21/05 10:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "ah*",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
