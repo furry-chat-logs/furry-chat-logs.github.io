@@ -2598,5 +2598,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "YOUVE HEARD IT!?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908731",
+    "type": "public",
+    "date": "21/05 7:26",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "sinnercat_mondo i didn't sleep the whole day mate",
+    "msgClasses": "chat_message "
   }
 ]
