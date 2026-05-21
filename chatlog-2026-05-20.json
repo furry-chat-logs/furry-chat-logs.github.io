@@ -27080,5 +27080,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7907791",
+    "type": "public",
+    "date": "20/05 21:08",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Aku eating a Subway.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7907792",
+    "type": "public",
+    "date": "20/05 21:08",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcm1pcWlwdHpibDl3eDA1dTc2b2VzZnI3NzJuczdua2VyYTBhZzV1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4T7eWG7jRSHXa/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
