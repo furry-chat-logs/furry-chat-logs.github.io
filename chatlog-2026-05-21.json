@@ -9138,5 +9138,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "LMAAAAAAAAAAOOOOOOOOO",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909388",
+    "type": "public",
+    "date": "21/05 10:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "who prob gets groomed at church by his priest",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909389",
+    "type": "public",
+    "date": "21/05 10:49",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "this kid bro lmao",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
