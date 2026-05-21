@@ -6458,5 +6458,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "imma go home see yall later",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909120",
+    "type": "public",
+    "date": "21/05 8:48",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "prEtzeL im not redy",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
