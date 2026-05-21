@@ -5548,5 +5548,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki curse?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909027",
+    "type": "public",
+    "date": "21/05 8:32",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sol_Aizawa TwT",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909028",
+    "type": "public",
+    "date": "21/05 8:32",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "can never wear shirts?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
