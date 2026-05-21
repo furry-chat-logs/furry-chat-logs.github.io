@@ -3008,5 +3008,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "That sounds so wrong to say",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7908772",
+    "type": "public",
+    "date": "21/05 7:35",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "*dies*",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
