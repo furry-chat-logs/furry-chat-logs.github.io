@@ -12728,5 +12728,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "New Kid heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909747",
+    "type": "public",
+    "date": "21/05 13:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Jk",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909748",
+    "type": "public",
+    "date": "21/05 13:04",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "Sol_Aizawa first or second?",
+    "msgClasses": "chat_message "
   }
 ]
