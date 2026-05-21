@@ -10628,5 +10628,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hi I'm back",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909537",
+    "type": "public",
+    "date": "21/05 12:03",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Mood update",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
