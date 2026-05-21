@@ -4768,5 +4768,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lmfaooo",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908948",
+    "type": "public",
+    "date": "21/05 8:25",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "This is spectacular",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908949",
+    "type": "public",
+    "date": "21/05 8:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_6fdbeb7a1b0e.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
