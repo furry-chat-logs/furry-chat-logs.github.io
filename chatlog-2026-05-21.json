@@ -14308,5 +14308,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Omg I love that one",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909906",
+    "type": "public",
+    "date": "21/05 13:38",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "or uhm",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909907",
+    "type": "public",
+    "date": "21/05 13:38",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "I'm fine Polites",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
