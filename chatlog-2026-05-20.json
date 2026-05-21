@@ -31260,5 +31260,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Wren",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908212",
+    "type": "public",
+    "date": "20/05 22:04",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "wren fries are real",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908213",
+    "type": "public",
+    "date": "20/05 22:04",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_6711545aefa4.gif]",
+    "msgClasses": "chat_message "
   }
 ]
