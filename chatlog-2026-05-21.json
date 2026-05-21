@@ -18386,5 +18386,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjJ2czJ5anZieGN6N3U1d2ZiYXkzMTI0ODk4NThzdTAwdWtpb2I3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Jnj7ptyE7J9II/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910320",
+    "type": "public",
+    "date": "21/05 17:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcHU0MHU0ZHB1N2owMms2ZmNzZ3g1bG9jdXowdmU5Y3N3dHdhb3BsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRgsiNC2GCn21l4gtV/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910321",
+    "type": "public",
+    "date": "21/05 17:41",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjJ2czJ5anZieGN6N3U1d2ZiYXkzMTI0ODk4NThzdTAwdWtpb2I3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nFON9vL1yYlbd32iJr/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
