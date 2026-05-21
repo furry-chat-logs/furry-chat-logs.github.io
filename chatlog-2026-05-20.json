@@ -28780,5 +28780,35 @@
     "userClasses": "username bneon23 bnfont14",
     "message": "Whatever sounds interesting pretty much",
     "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7907962",
+    "type": "public",
+    "date": "20/05 21:28",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "My favorite music artist is MGK tho",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7907963",
+    "type": "public",
+    "date": "20/05 21:28",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "IS MCR NOT INTERESTING",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7907964",
+    "type": "public",
+    "date": "20/05 21:28",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Nice.",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
