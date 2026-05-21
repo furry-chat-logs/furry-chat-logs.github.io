@@ -9568,5 +9568,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Youll get kicked.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909431",
+    "type": "public",
+    "date": "21/05 10:54",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "my user in that server is literally mr.furry: lmao",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909432",
+    "type": "public",
+    "date": "21/05 10:54",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "0G Stupendous Man oh fr?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
