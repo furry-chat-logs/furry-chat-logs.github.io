@@ -2498,5 +2498,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "officially the first day of summer break",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7908721",
+    "type": "public",
+    "date": "21/05 7:21",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "sinnercat_mondo did you do anything fun",
+    "msgClasses": "chat_message "
   }
 ]
