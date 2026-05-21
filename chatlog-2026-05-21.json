@@ -11358,5 +11358,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user11705_a55892d1ccb0.webp]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909610",
+    "type": "public",
+    "date": "21/05 12:32",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Diabolical you say",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909611",
+    "type": "public",
+    "date": "21/05 12:32",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_2bc95dc6ca4b.gif]",
+    "msgClasses": "chat_message "
   }
 ]
