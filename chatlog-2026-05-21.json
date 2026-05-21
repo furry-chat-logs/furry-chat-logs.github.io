@@ -1678,5 +1678,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Some people do like the truth Medokin",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908639",
+    "type": "public",
+    "date": "21/05 6:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Religion is that the problem",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
