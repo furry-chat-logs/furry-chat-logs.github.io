@@ -7298,5 +7298,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNm1pYm44c2RlM3oxZnJqcWE2ZHV5bWh2Y2NmbGl0a2d6ajR2bjc5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/STfLOU6iRBRunMciZv/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909204",
+    "type": "public",
+    "date": "21/05 9:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "sinnercat_mondo some people arent smart enough to do that",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
