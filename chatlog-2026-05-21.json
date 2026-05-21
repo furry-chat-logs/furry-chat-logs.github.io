@@ -3338,5 +3338,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "heh who isn't",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7908805",
+    "type": "public",
+    "date": "21/05 7:50",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "0G Stupendous Man who isn't wierd",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
