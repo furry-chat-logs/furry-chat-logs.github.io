@@ -12858,5 +12858,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "TwT",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909760",
+    "type": "public",
+    "date": "21/05 13:06",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sol_Aizawa I can't believe they made Vanessa be WILLIAM'S DAUGHTER! I mean...everyone knows William's three children are CRYING CHILD, MICHAEL AND ELIZABETH!",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7909761",
+    "type": "public",
+    "date": "21/05 13:06",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I wanna tough",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
