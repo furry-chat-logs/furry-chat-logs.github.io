@@ -30940,5 +30940,25 @@
     "userClasses": "username bneon23 bnfont14",
     "message": "It feels so much later I'm so tired",
     "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908180",
+    "type": "public",
+    "date": "20/05 21:59",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sleeeeeep",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908181",
+    "type": "public",
+    "date": "20/05 21:59",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "I gotta wait 1-2 more hours for my friend idk if I'ma make it",
+    "msgClasses": "chat_message bneon23 bold bfont14"
   }
 ]
