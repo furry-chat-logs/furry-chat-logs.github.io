@@ -3808,5 +3808,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I LOVE MAKO SHARKS",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908852",
+    "type": "public",
+    "date": "21/05 8:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Moonishiki whats up with the mood aren't you still under the age?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
