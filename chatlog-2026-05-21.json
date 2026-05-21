@@ -7428,5 +7428,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_c91b373ebc29.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909217",
+    "type": "public",
+    "date": "21/05 9:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "uninstall the package installer",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
