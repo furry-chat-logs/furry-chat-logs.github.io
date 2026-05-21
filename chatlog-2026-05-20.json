@@ -33470,5 +33470,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Just got off a 10 hour shift",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908434",
+    "type": "public",
+    "date": "20/05 23:38",
+    "username": "ZephyrTheFlooferBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Yep my bf pissed me tf off",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
