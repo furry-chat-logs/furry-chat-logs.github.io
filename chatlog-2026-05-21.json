@@ -1608,5 +1608,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Why don't they like you",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7908632",
+    "type": "public",
+    "date": "21/05 6:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Derikgodzilla18 wat did you do",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7908633",
+    "type": "public",
+    "date": "21/05 6:56",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Medokin i don't know",
+    "msgClasses": "chat_message "
   }
 ]
