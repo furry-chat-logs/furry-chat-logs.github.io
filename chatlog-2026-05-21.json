@@ -15896,5 +15896,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": ".•.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910069",
+    "type": "public",
+    "date": "21/05 15:26",
+    "username": "Comet",
+    "userId": "33535",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc283ajBya2tzZGdkd2pzZmMxcXB6aWw2NjFwZjlyb3B3OXVnNmQ5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ifdoJnhyAr3VAm3hip/giphy.gif]",
+    "msgClasses": "chat_message bneon30 bold bfont7"
   }
 ]
