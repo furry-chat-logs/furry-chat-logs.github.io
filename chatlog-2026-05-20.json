@@ -28330,5 +28330,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "٭٭٭ I have a memory degradation disorder",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907916",
+    "type": "public",
+    "date": "20/05 21:22",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "A what now",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7907917",
+    "type": "public",
+    "date": "20/05 21:22",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "prEtzeL h u g",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
