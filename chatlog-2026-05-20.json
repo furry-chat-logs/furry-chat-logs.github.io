@@ -30080,5 +30080,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Mayhem real",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908094",
+    "type": "public",
+    "date": "20/05 21:47",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "hatchet☺️",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908095",
+    "type": "public",
+    "date": "20/05 21:47",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "UR SPELLING LMAO ٭٭٭",
+    "msgClasses": "chat_message bneon23 bold bfont14"
   }
 ]
