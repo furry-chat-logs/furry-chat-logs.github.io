@@ -25430,5 +25430,65 @@
     "userClasses": "username user ",
     "message": "I used to be an orphan",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907626",
+    "type": "public",
+    "date": "20/05 19:56",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "my mom is probably going to die soon",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7907627",
+    "type": "public",
+    "date": "20/05 19:57",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "PuRoUwU i love orphans they are kind",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907628",
+    "type": "public",
+    "date": "20/05 19:57",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i'd probably go crazy if that happened..",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7907629",
+    "type": "public",
+    "date": "20/05 19:57",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I've been working for THREE WEEKS on a project that was SUPPOSED to be for my friend and it slowly turned into a fucking dumpster fire and I've been working every fucking day for three weeks watching something I really fucking cared about turn into yet another tedious task",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907630",
+    "type": "public",
+    "date": "20/05 19:57",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Derikgodzilla18 yay",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907631",
+    "type": "public",
+    "date": "20/05 19:57",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Three weeks of struggling",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
