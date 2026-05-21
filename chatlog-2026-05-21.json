@@ -6828,5 +6828,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "sinnercat_mondo that's wat I'm here for",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909157",
+    "type": "public",
+    "date": "21/05 8:56",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Medokin i guess brodie",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
