@@ -14866,5 +14866,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "they got muted in our dms",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909962",
+    "type": "public",
+    "date": "21/05 13:55",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "damn..",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
