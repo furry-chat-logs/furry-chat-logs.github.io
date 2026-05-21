@@ -15066,5 +15066,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "New Kid idk",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909983",
+    "type": "public",
+    "date": "21/05 14:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Pina my Chatgpt straight up swears sometimes",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909984",
+    "type": "public",
+    "date": "21/05 14:30",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Well today I had a \"fun day\" celebrating the hard work I did at NEWTech and all of my friends went to some theme park thing that I couldn't pay for, because ofc that has to be my situation like always, so I'm just sitting alone 👍",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
