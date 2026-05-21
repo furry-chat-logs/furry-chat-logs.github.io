@@ -8828,5 +8828,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "dumb furry!",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909357",
+    "type": "public",
+    "date": "21/05 10:44",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "uhhhhh",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909358",
+    "type": "public",
+    "date": "21/05 10:44",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "its hunting season!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
