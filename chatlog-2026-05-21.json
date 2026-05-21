@@ -17546,5 +17546,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Bro said 👹👹👹🐶🐶🐶🐭🐭🐭",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7910235",
+    "type": "public",
+    "date": "21/05 17:05",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "\"Oh boy\"— Porphyrophobia",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7910236",
+    "type": "public",
+    "date": "21/05 17:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb3hrbHU5YXA2d24zY2xzMXpwdXJmdjZieTRmdGFyem5zdmpmYzIyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/14oABfwMhnvZfi/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
