@@ -8858,5 +8858,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Pina very believable...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909360",
+    "type": "public",
+    "date": "21/05 10:45",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Sol_Aizawa quiet down you furball!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909361",
+    "type": "public",
+    "date": "21/05 10:45",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "im gunna call animal control!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
