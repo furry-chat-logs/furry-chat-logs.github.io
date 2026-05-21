@@ -15806,5 +15806,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "sinnercat_mondo [skull] ??",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910060",
+    "type": "public",
+    "date": "21/05 15:01",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "?",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
