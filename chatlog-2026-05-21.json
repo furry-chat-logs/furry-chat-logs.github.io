@@ -11488,5 +11488,15 @@
     "userClasses": "username bgrad7 ",
     "message": "*bonk*",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909623",
+    "type": "public",
+    "date": "21/05 12:34",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Moonishiki 🥀",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
