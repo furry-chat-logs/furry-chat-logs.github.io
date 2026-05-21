@@ -3458,5 +3458,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Am.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908817",
+    "type": "public",
+    "date": "21/05 7:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "damn, my alarm always goes of 6 am on a normal school/work day",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
