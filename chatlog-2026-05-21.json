@@ -2208,5 +2208,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "*reference missed*",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908692",
+    "type": "public",
+    "date": "21/05 7:12",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ2R5cWFwcXdndHYwdmdwZjlnNnViNm9wbTUwYTl3bDRoYm1kcGYxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jXD7kFLwudbBC/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
