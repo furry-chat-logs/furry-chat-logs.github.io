@@ -3998,5 +3998,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "sinnercat_mondo if anyones the nerd its me",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7908871",
+    "type": "public",
+    "date": "21/05 8:19",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Sol_Aizawa no you could have",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908872",
+    "type": "public",
+    "date": "21/05 8:19",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Don't sweat it hun.",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
