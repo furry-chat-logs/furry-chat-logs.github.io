@@ -15006,5 +15006,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Meow",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909976",
+    "type": "public",
+    "date": "21/05 14:21",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Uh oh I tripped the electric again.",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
