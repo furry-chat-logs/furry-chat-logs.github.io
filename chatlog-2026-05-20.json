@@ -32480,5 +32480,25 @@
     "userClasses": "username user ",
     "message": "KingCorgz I see you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908335",
+    "type": "public",
+    "date": "20/05 22:58",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Wtfissachip I'm eating",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7908336",
+    "type": "public",
+    "date": "20/05 22:58",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Lemme be",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
