@@ -29220,5 +29220,45 @@
     "userClasses": "username bgrad7 ",
     "message": "They have three modes, a mode where it's normal, then noise cancelling with isolation for the audio, and also Passthrough so every sound around me irl is amplified",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908008",
+    "type": "public",
+    "date": "20/05 21:35",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_391aac3cd7e5.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908009",
+    "type": "public",
+    "date": "20/05 21:35",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Here is my playlist",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7908010",
+    "type": "public",
+    "date": "20/05 21:35",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "EagleEdge Ehhh, really depends. You could always make an account than delete it or abandon it if you dont like it.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7908011",
+    "type": "public",
+    "date": "20/05 21:35",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Nice!",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
