@@ -5958,5 +5958,45 @@
     "userClasses": "username bgrad7 ",
     "message": "You wouldn't want to be one",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909069",
+    "type": "public",
+    "date": "21/05 8:39",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Trust me",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909070",
+    "type": "public",
+    "date": "21/05 8:39",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "moon hath blocked me again",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7909071",
+    "type": "public",
+    "date": "21/05 8:39",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "You wouldn't",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909072",
+    "type": "public",
+    "date": "21/05 8:39",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Dream kacher",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
