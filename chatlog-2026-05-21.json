@@ -5318,5 +5318,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "You're walls",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909003",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki *terra 3 one punch man walks in*",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909004",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "good morning",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
