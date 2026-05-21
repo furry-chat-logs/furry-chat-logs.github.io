@@ -33650,5 +33650,45 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Besides i just got like $600",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908452",
+    "type": "public",
+    "date": "20/05 23:47",
+    "username": "eviefox",
+    "userId": "37306",
+    "userClasses": "username user ",
+    "message": "Sharkish ill buy u a 20 piece mcnugget happy meal",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908453",
+    "type": "public",
+    "date": "20/05 23:47",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Imma go thrifting",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908454",
+    "type": "public",
+    "date": "20/05 23:47",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "eviefox with my own money?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908455",
+    "type": "public",
+    "date": "20/05 23:47",
+    "username": "eviefox",
+    "userId": "37306",
+    "userClasses": "username user ",
+    "message": "nah, i got like 15 i can use for bribes",
+    "msgClasses": "chat_message "
   }
 ]
