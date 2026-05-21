@@ -8568,5 +8568,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Yea.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909331",
+    "type": "public",
+    "date": "21/05 10:34",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "finally don't have to go to school for anything other than exams. officially on study leave.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
