@@ -31770,5 +31770,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Rat؜ isn't wagyu just a rip off?",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908263",
+    "type": "public",
+    "date": "20/05 22:30",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "$3000 can buy 1000 steaks at my local restaurant.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
