@@ -27740,5 +27740,45 @@
     "userClasses": "username bneon18 ",
     "message": ".",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7907857",
+    "type": "public",
+    "date": "20/05 21:17",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "prEtzeL no.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907858",
+    "type": "public",
+    "date": "20/05 21:18",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHY2NGQyd3ZmNnh4MDFpNzE4ZjF0c3YwZW9mM3ducWJxYjR3YWEwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnIilwuFFFpf2Cc/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7907859",
+    "type": "public",
+    "date": "20/05 21:18",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "EXAVTLYYYY",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7907860",
+    "type": "public",
+    "date": "20/05 21:18",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "ITS NOT THAT DEEPPP",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
