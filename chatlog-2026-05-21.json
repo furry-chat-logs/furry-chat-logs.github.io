@@ -2968,5 +2968,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Does anybody believe in Tuvalu",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908768",
+    "type": "public",
+    "date": "21/05 7:34",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Does anybody believe in how damn fine I am?",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
