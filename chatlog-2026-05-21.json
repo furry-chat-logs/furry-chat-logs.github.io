@@ -5068,5 +5068,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Yall catch that?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908978",
+    "type": "public",
+    "date": "21/05 8:28",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Earth girl says I'm hers.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908979",
+    "type": "public",
+    "date": "21/05 8:28",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "do i needa repeat it for u ladies?",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
