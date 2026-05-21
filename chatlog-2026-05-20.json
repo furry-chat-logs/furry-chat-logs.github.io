@@ -32460,5 +32460,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Chat's death is near",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7908333",
+    "type": "public",
+    "date": "20/05 22:53",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I could say a slur to spark anger",
+    "msgClasses": "chat_message "
   }
 ]
