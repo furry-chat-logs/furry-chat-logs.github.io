@@ -3048,5 +3048,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "prEtzeL thank you. I know it.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908776",
+    "type": "public",
+    "date": "21/05 7:41",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "good🩷",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
