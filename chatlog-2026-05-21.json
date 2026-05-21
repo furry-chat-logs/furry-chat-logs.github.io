@@ -78,5 +78,15 @@
     "userClasses": "username bcolor13 bnfont1",
     "message": "hi everyone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908477",
+    "type": "public",
+    "date": "21/05 0:59",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Shira the bunny Hello.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
