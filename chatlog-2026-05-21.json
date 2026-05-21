@@ -13798,5 +13798,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "i said I was just kidding",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909854",
+    "type": "public",
+    "date": "21/05 13:30",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "There's always some kind of drama",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909855",
+    "type": "public",
+    "date": "21/05 13:30",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "like bro holy shit",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
