@@ -7078,5 +7078,35 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "I just thought it was funny",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7909182",
+    "type": "public",
+    "date": "21/05 9:00",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Because nobody is dumb enough to actually run that command",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7909183",
+    "type": "public",
+    "date": "21/05 9:00",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "JustAnAnt doesnt pick on ppl",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909184",
+    "type": "public",
+    "date": "21/05 9:00",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Talking bout some \"Fuck off and do it yourself lazy ass\"",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
