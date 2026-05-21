@@ -33760,5 +33760,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "She owes me money",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7908463",
+    "type": "public",
+    "date": "20/05 23:50",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "A lot of money",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
