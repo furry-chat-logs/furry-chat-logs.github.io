@@ -2758,5 +2758,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "prEtzeL breath",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7908747",
+    "type": "public",
+    "date": "21/05 7:28",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "prEtzeL cough *aways*",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908748",
+    "type": "public",
+    "date": "21/05 7:28",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "i didnt even see that message lol",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
