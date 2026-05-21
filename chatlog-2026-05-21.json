@@ -13918,5 +13918,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Pina sorry",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909866",
+    "type": "public",
+    "date": "21/05 13:32",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sol_Aizawa yea... i keep mine looooow.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909867",
+    "type": "public",
+    "date": "21/05 13:32",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa is there a maximum",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
