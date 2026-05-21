@@ -15216,5 +15216,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Oh I haven't unlocked that one yet",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909998",
+    "type": "public",
+    "date": "21/05 14:33",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid you gotta search for it",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
