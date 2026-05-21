@@ -30690,5 +30690,45 @@
     "userClasses": "username bneon23 bnfont14",
     "message": "Loll",
     "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908155",
+    "type": "public",
+    "date": "20/05 21:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "</3",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908156",
+    "type": "public",
+    "date": "20/05 21:56",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Real me too, except I never actually dated her",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908157",
+    "type": "public",
+    "date": "20/05 21:56",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Why did everyone date everyone in perchance bro",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908158",
+    "type": "public",
+    "date": "20/05 21:56",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "he's my ex",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
