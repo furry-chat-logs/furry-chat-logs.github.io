@@ -7108,5 +7108,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Talking bout some \"Fuck off and do it yourself lazy ass\"",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909185",
+    "type": "public",
+    "date": "21/05 9:00",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909186",
+    "type": "public",
+    "date": "21/05 9:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "yeah it would be real funny if i was dumb enough to fall for it",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
