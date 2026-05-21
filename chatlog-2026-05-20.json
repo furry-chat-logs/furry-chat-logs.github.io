@@ -24400,5 +24400,35 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "The site frequently suffers from DDoS attacks",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907521",
+    "type": "public",
+    "date": "20/05 19:26",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "And he's always saying crap like \"I'm trying to fix it\" as if he's even able to do jack shit about it",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907522",
+    "type": "public",
+    "date": "20/05 19:26",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I hate him and everybody that goes on there",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907523",
+    "type": "public",
+    "date": "20/05 19:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Good golly",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
