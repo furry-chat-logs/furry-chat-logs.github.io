@@ -14148,5 +14148,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Pm frogmin to convince him we need a :stupendous: emoji",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909890",
+    "type": "public",
+    "date": "21/05 13:36",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "im not trynna get banned",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909891",
+    "type": "public",
+    "date": "21/05 13:36",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sol_Aizawa idk",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
