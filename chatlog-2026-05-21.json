@@ -6968,5 +6968,55 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "No.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909171",
+    "type": "public",
+    "date": "21/05 8:58",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "you were telling me to run a command that breaks android lol",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909172",
+    "type": "public",
+    "date": "21/05 8:58",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Not the gif",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909173",
+    "type": "public",
+    "date": "21/05 8:58",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "0G Stupendous Man w",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909174",
+    "type": "public",
+    "date": "21/05 8:58",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Hell no.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909175",
+    "type": "public",
+    "date": "21/05 8:58",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
