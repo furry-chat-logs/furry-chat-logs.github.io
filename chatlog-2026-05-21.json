@@ -2278,5 +2278,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Coquito without alcohol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908699",
+    "type": "public",
+    "date": "21/05 7:16",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "La playa awaits.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908700",
+    "type": "public",
+    "date": "21/05 7:16",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "There are two versions with alcohol and without alcohol",
+    "msgClasses": "chat_message "
   }
 ]
