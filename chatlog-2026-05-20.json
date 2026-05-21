@@ -28810,5 +28810,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Nice.",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907965",
+    "type": "public",
+    "date": "20/05 21:28",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I only liked WTTBP",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907966",
+    "type": "public",
+    "date": "20/05 21:29",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Lol, mcr is fine",
+    "msgClasses": "chat_message bneon23 bold bfont14"
   }
 ]
