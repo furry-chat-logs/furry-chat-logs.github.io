@@ -15646,5 +15646,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I kinda wanna give my friend coins for vip but I am broke '-_-",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7910044",
+    "type": "public",
+    "date": "21/05 14:47",
+    "username": "King_da_Furry",
+    "userId": "28201",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Bro i just got killed by someone with a weapon that hasnxt even been in the game for a year or so",
+    "msgClasses": "chat_message bneon19 heavybold bfont7"
   }
 ]
