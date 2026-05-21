@@ -31840,5 +31840,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Yeah Moonishiki",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908270",
+    "type": "public",
+    "date": "20/05 22:32",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Moonishiki what? [sob]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908271",
+    "type": "public",
+    "date": "20/05 22:32",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Moonishiki You mean \"Corn\"",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
