@@ -15096,5 +15096,15 @@
     "userClasses": "username bgrad7 ",
     "message": "So that's great.",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909986",
+    "type": "public",
+    "date": "21/05 14:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It's like hearing your teacher say \"testicles\"",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
