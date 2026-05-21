@@ -1808,5 +1808,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Rules prEtzeL",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908652",
+    "type": "public",
+    "date": "21/05 7:01",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Tats just a religion",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7908653",
+    "type": "public",
+    "date": "21/05 7:01",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Medokin the root word for Christians is Crist.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
