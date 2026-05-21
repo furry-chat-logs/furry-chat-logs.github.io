@@ -98,5 +98,15 @@
     "userClasses": "username bcolor13 bnfont1",
     "message": "How are you doing today",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908479",
+    "type": "public",
+    "date": "21/05 1:01",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I'm well, very tired.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
