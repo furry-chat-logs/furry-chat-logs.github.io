@@ -10068,5 +10068,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Pina premium subscription is only availlable with svip and the upfront cost of 2.8 million coins",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7909481",
+    "type": "public",
+    "date": "21/05 11:34",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Spectre_protogen *snaps fingers* shoot i mustve left my spare 2.8 million coins on the table, shoot!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909482",
+    "type": "public",
+    "date": "21/05 11:34",
+    "username": "alisethfox",
+    "userId": "37312",
+    "userClasses": "username bcolor2 bnfont2",
+    "message": "haiiiii everyone!",
+    "msgClasses": "chat_message "
   }
 ]
