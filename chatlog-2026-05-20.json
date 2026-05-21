@@ -29180,5 +29180,25 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "wait but i do own some of the same brand",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908004",
+    "type": "public",
+    "date": "20/05 21:34",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "My headphones are goated",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908005",
+    "type": "public",
+    "date": "20/05 21:34",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Buggo don't have it but should I get it?",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
