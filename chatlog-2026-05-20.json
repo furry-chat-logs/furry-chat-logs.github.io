@@ -24630,5 +24630,255 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "What he did to my friends was unacceptabke",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907546",
+    "type": "public",
+    "date": "20/05 19:36",
+    "username": "Data",
+    "userId": "2",
+    "userClasses": "username bneon9 bnfont7",
+    "message": "This room has been cleared by Frogmin",
+    "msgClasses": "chat_message chat_system"
+  },
+  {
+    "id": "7907547",
+    "type": "public",
+    "date": "20/05 19:36",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "D: What is that thing",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907548",
+    "type": "public",
+    "date": "20/05 19:36",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "JustAnAnt Not allowed.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907549",
+    "type": "public",
+    "date": "20/05 19:36",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I purposefully didn't mention the site name",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907550",
+    "type": "public",
+    "date": "20/05 19:37",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Or leave it in any screenshots",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907551",
+    "type": "public",
+    "date": "20/05 19:37",
+    "username": "Xenia",
+    "userId": "29442",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "verry cool frog has appeared",
+    "msgClasses": "chat_message bgrad4 ital bfont9"
+  },
+  {
+    "id": "7907552",
+    "type": "public",
+    "date": "20/05 19:38",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "JustAnAnt Still disallowed.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907553",
+    "type": "public",
+    "date": "20/05 19:38",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Alright then",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907554",
+    "type": "public",
+    "date": "20/05 19:38",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "LMAO",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907555",
+    "type": "public",
+    "date": "20/05 19:38",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Sorr",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907556",
+    "type": "public",
+    "date": "20/05 19:38",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "-y",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907557",
+    "type": "public",
+    "date": "20/05 19:39",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Frogmin? Apologizing?",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907558",
+    "type": "public",
+    "date": "20/05 19:39",
+    "username": "Xenia",
+    "userId": "29442",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "apologies accepted :p",
+    "msgClasses": "chat_message bgrad4 ital bfont9"
+  },
+  {
+    "id": "7907559",
+    "type": "public",
+    "date": "20/05 19:39",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor9 ",
+    "message": "JustAnAnt :O",
+    "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7907560",
+    "type": "public",
+    "date": "20/05 19:40",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "How odd",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907561",
+    "type": "public",
+    "date": "20/05 19:40",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'm in break rn",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7907562",
+    "type": "public",
+    "date": "20/05 19:40",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[lorax]",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907563",
+    "type": "public",
+    "date": "20/05 19:40",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yay!",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907564",
+    "type": "public",
+    "date": "20/05 19:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_9af10b6bd04f.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907565",
+    "type": "public",
+    "date": "20/05 19:40",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[JustAnAss]",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907566",
+    "type": "public",
+    "date": "20/05 19:41",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I love my coin emoji feature.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907567",
+    "type": "public",
+    "date": "20/05 19:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[runefaust]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7907568",
+    "type": "public",
+    "date": "20/05 19:41",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "You should make it so svip members can upload images to be reviewed for a chance at being an emoji",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907569",
+    "type": "public",
+    "date": "20/05 19:42",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "JustAnAnt Thing is, I still need to manually review everything. I need to then make things transparent. I need to set the resolution so it won't cause lag when 20 billion are loaded.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7907570",
+    "type": "public",
+    "date": "20/05 19:43",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[JustAnAss]",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
