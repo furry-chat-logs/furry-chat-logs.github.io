@@ -15226,5 +15226,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid you gotta search for it",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909999",
+    "type": "public",
+    "date": "21/05 14:34",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "the best grinding spot for it is the english teacher",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7910000",
+    "type": "public",
+    "date": "21/05 14:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I've heard my teacher say the v word, p word, t word, and the a word",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
