@@ -28350,5 +28350,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "prEtzeL h u g",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907918",
+    "type": "public",
+    "date": "20/05 21:22",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "You know dementia?",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907919",
+    "type": "public",
+    "date": "20/05 21:23",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i have insane gay disorder it makes me insanely gay- i was fucking born with it was tragic </3",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
