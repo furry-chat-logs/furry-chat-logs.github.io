@@ -31810,5 +31810,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "It's almost like $17 for 8oz of wagyu at my local supermarket.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908267",
+    "type": "public",
+    "date": "20/05 22:31",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I don't know any restaurants that sell it.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
