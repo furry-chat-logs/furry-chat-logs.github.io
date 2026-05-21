@@ -14438,5 +14438,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "If I fight those monsters, is it you I'll findddddddddddddddddddd",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909919",
+    "type": "public",
+    "date": "21/05 13:40",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I haven't seen hamilton yet tough...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909920",
+    "type": "public",
+    "date": "21/05 13:40",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "[heu]",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
