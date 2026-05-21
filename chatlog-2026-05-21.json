@@ -13148,5 +13148,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_85b0710c331d.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909789",
+    "type": "public",
+    "date": "21/05 13:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Found a rare coin",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
