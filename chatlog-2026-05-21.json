@@ -4458,5 +4458,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Yep.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908917",
+    "type": "public",
+    "date": "21/05 8:23",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki buddha solos almost all of gundam",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
