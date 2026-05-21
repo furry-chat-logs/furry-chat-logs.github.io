@@ -14378,5 +14378,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "'Cause I'm stuck with your stories",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909913",
+    "type": "public",
+    "date": "21/05 13:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "deep in the night the fight lasts for hours",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909914",
+    "type": "public",
+    "date": "21/05 13:39",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "But no clue who you are",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
