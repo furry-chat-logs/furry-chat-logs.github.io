@@ -10618,5 +10618,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "yea theres only corny teenagers in america",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909536",
+    "type": "public",
+    "date": "21/05 12:02",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi I'm back",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
