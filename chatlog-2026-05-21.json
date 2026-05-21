@@ -11618,5 +11618,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I have a Google button where I can search anything",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909636",
+    "type": "public",
+    "date": "21/05 12:38",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Moonishiki I have a search bar. :3",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7909637",
+    "type": "public",
+    "date": "21/05 12:38",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Google",
+    "msgClasses": "chat_message "
   }
 ]
