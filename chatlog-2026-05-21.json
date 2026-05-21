@@ -8678,5 +8678,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lmao",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909342",
+    "type": "public",
+    "date": "21/05 10:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Pina what I got back, no sry I only chat on snap and whatsapp",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909343",
+    "type": "public",
+    "date": "21/05 10:39",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbmJobDByYXVsdjY0dmFmNjA1MWtqbThkdHdjNXB3YWw5am15djR0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kCrGOt5ojlVbG/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
