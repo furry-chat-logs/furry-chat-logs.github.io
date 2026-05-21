@@ -12198,5 +12198,15 @@
     "userClasses": "username bcolor18 bnfont14",
     "message": "Hiii",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909694",
+    "type": "public",
+    "date": "21/05 12:55",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "seconded only by Confronting Yourself [newest version].",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
