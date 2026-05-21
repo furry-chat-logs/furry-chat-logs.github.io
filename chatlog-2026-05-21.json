@@ -18586,5 +18586,35 @@
     "userClasses": "username bgrad37 bnfont6",
     "message": "Issa Miss Velvette New Kid hey",
     "msgClasses": "chat_message bgrad4 boldital bfont2"
+  },
+  {
+    "id": "7910340",
+    "type": "public",
+    "date": "21/05 18:14",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_8415d028f98a.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910341",
+    "type": "public",
+    "date": "21/05 18:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ah",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910342",
+    "type": "public",
+    "date": "21/05 18:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Fair resemblance",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
