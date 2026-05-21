@@ -11528,5 +11528,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Riot Games made GD?",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909627",
+    "type": "public",
+    "date": "21/05 12:36",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Nah",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
