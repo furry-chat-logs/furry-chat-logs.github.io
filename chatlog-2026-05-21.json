@@ -11578,5 +11578,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Bro I have such a useful keyboard",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909632",
+    "type": "public",
+    "date": "21/05 12:37",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "He was the Top 1 player between 2015-16",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7909633",
+    "type": "public",
+    "date": "21/05 12:37",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_4d8578c12444.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
