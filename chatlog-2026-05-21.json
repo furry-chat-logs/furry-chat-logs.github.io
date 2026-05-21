@@ -14078,5 +14078,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "???",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909883",
+    "type": "public",
+    "date": "21/05 13:34",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "idk why but lets stop with the \"...\" its pmo",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
