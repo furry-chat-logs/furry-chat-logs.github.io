@@ -30800,5 +30800,45 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "counts",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908166",
+    "type": "public",
+    "date": "20/05 21:56",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon14 bnfont8",
+    "message": "explodes",
+    "msgClasses": "chat_message bneon13 bold bfont9"
+  },
+  {
+    "id": "7908167",
+    "type": "public",
+    "date": "20/05 21:56",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "prEtzeL it was a week",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908168",
+    "type": "public",
+    "date": "20/05 21:57",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "yeah 3 days",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908169",
+    "type": "public",
+    "date": "20/05 21:57",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "2",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
