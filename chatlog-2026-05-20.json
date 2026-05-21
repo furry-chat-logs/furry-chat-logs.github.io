@@ -28560,5 +28560,65 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "noo you have to get it",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7907940",
+    "type": "public",
+    "date": "20/05 21:25",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "wahhh im not spending my goddamn coins",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7907941",
+    "type": "public",
+    "date": "20/05 21:25",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb3Fsd3RkeHQ2a29iMHpjZWRwMjMyOW53ZmpkbTZ5c3VvZDZ5YnYxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fo1cy8mqGDvbjpJBB7/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907942",
+    "type": "public",
+    "date": "20/05 21:25",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "prEtzeL",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907943",
+    "type": "public",
+    "date": "20/05 21:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907944",
+    "type": "public",
+    "date": "20/05 21:25",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_ab7f297e3546.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907945",
+    "type": "public",
+    "date": "20/05 21:25",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_5dadca5605d5.png]",
+    "msgClasses": "chat_message "
   }
 ]
