@@ -11088,5 +11088,15 @@
     "userClasses": "username bgrad7 ",
     "message": "I drew another Gundam!!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909583",
+    "type": "public",
+    "date": "21/05 12:23",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "open poll",
+    "msgClasses": "chat_message "
   }
 ]
