@@ -9648,5 +9648,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "its not",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909439",
+    "type": "public",
+    "date": "21/05 10:57",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Aight.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909440",
+    "type": "public",
+    "date": "21/05 10:57",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Imma shower.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909441",
+    "type": "public",
+    "date": "21/05 10:57",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I shall return.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
