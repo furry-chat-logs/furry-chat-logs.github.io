@@ -578,5 +578,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "?",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7908527",
+    "type": "public",
+    "date": "21/05 2:49",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Technically, a Capybara is kind of of a big guinea pig",
+    "msgClasses": "chat_message "
   }
 ]
