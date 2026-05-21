@@ -10008,5 +10008,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Spectre_protogen do I have to pay for the premium subscription?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909475",
+    "type": "public",
+    "date": "21/05 11:32",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Meep yippeee!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
