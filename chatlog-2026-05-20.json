@@ -31920,5 +31920,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "I drew a motorcycle",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7908278",
+    "type": "public",
+    "date": "20/05 22:38",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Wtfissachip you are",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
