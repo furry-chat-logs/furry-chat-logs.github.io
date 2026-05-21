@@ -30890,5 +30890,25 @@
     "userClasses": "username bgrad7 ",
     "message": "That's enough day for today",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908175",
+    "type": "public",
+    "date": "20/05 21:58",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "BRO ITS ONLY 11 PM FOR ME?!",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908176",
+    "type": "public",
+    "date": "20/05 21:58",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Only??",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
