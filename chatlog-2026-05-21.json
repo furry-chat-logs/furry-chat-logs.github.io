@@ -13738,5 +13738,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Pina sorathemikufan? Ring any bells?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909848",
+    "type": "public",
+    "date": "21/05 13:30",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I only have like... 8 friends on here, Sol_Aizawa",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909849",
+    "type": "public",
+    "date": "21/05 13:30",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I keep them low.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
