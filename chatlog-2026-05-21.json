@@ -138,5 +138,25 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "deciding if i should redo my nails or not",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908483",
+    "type": "public",
+    "date": "21/05 1:02",
+    "username": "FallenAngel",
+    "userId": "37307",
+    "userClasses": "username bcolor29 bnfont15",
+    "message": "[good]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908484",
+    "type": "public",
+    "date": "21/05 1:02",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "KingCorgz Eh, I need to do research about what sort of suit I want to buy.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
