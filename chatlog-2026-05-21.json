@@ -3838,5 +3838,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdDNqY2VhZ2FrNHQwYTVrN2cxMDk3ZGppdTk2djVjaTV3M2l1am51aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEhn4uT41VmkkihHy/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908855",
+    "type": "public",
+    "date": "21/05 8:17",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "What?",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
