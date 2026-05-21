@@ -10208,5 +10208,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "same",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909495",
+    "type": "public",
+    "date": "21/05 11:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I somethimes go to a bikepark with it",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909496",
+    "type": "public",
+    "date": "21/05 11:45",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "even though i want one",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
