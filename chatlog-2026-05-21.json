@@ -8208,5 +8208,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "south park",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909295",
+    "type": "public",
+    "date": "21/05 10:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "aaaaaaaaaaaaaaaaaaa",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
