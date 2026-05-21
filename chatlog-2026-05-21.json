@@ -15466,5 +15466,15 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "Porphyrophobia [skull]",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7910023",
+    "type": "public",
+    "date": "21/05 14:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*want",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
