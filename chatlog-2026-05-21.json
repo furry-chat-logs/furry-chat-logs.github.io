@@ -15446,5 +15446,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "0 Super Sonico 0 cool",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910021",
+    "type": "public",
+    "date": "21/05 14:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I ant teal ends...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7910022",
+    "type": "public",
+    "date": "21/05 14:37",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "Porphyrophobia [skull]",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
