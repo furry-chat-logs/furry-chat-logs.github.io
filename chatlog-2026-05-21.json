@@ -2938,5 +2938,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmenFzOHNta2dzMzJ6ZjFmaGg3d2lkNDB1dmVrOXRhd3dveWllNjJtbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rTIXh5JftLoic/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908765",
+    "type": "public",
+    "date": "21/05 7:32",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "One dude wanted to tell me we're his from and it got sencerd",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
