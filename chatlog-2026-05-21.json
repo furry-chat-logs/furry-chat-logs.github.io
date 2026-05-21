@@ -7958,5 +7958,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I either use dark or Lite",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909270",
+    "type": "public",
+    "date": "21/05 9:54",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "We can't have no lite, now.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909271",
+    "type": "public",
+    "date": "21/05 9:55",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Nah nah.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
