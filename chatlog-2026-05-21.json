@@ -12628,5 +12628,15 @@
     "userClasses": "username bcolor18 bnfont14",
     "message": "*me on ma way to watch tadc movie the 4th well aware I'ma be troumatized for weeks*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909737",
+    "type": "public",
+    "date": "21/05 13:04",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "damn",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
