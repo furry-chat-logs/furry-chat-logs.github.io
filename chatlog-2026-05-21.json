@@ -14628,5 +14628,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "GOOD FOR YOU",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909938",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "and it turns out",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7909939",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "it was her",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
