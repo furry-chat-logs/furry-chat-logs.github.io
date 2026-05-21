@@ -24170,5 +24170,45 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Rune4",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907498",
+    "type": "public",
+    "date": "20/05 19:13",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Runer",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907499",
+    "type": "public",
+    "date": "20/05 19:14",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Runerito",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907500",
+    "type": "public",
+    "date": "20/05 19:14",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "The runinator",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7907501",
+    "type": "public",
+    "date": "20/05 19:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "•x•",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
