@@ -898,5 +898,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7908559",
+    "type": "public",
+    "date": "21/05 2:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hewwo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
