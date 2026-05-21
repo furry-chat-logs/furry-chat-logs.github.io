@@ -238,5 +238,25 @@
     "userClasses": "username user ",
     "message": "Bought it off of Craig's list",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908493",
+    "type": "public",
+    "date": "21/05 1:13",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "LMAO",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7908494",
+    "type": "public",
+    "date": "21/05 1:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Wtfissachip wtf...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
