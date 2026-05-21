@@ -12278,5 +12278,15 @@
     "userClasses": "username bcolor18 bnfont14",
     "message": "Sol_Aizawa ty",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909702",
+    "type": "public",
+    "date": "21/05 12:57",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Now what, chat?",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
