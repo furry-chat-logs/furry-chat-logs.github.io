@@ -15046,5 +15046,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Why is chatgpt cussing so funny",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909981",
+    "type": "public",
+    "date": "21/05 14:29",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "New Kid huh?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
