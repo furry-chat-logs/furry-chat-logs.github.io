@@ -11508,5 +11508,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Bloodbath is the most downloaded level, created and verified by Riot.",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7909625",
+    "type": "public",
+    "date": "21/05 12:36",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Wait",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
