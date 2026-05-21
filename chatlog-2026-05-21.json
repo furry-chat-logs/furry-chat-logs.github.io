@@ -10998,5 +10998,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I'm 5'10\"",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909574",
+    "type": "public",
+    "date": "21/05 12:19",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi sinnercat_mondo",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
