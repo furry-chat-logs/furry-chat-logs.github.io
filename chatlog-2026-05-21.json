@@ -13988,5 +13988,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Sol_Aizawa lets just hug it out broski *hug*",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909873",
+    "type": "public",
+    "date": "21/05 13:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "...",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
