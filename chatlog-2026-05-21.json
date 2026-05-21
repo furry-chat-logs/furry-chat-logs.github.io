@@ -12648,5 +12648,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Hello my peoples",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909739",
+    "type": "public",
+    "date": "21/05 13:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I forgot to say hello",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
