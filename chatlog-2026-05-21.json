@@ -10048,5 +10048,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "sinnercat_mondo well that sucks",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909479",
+    "type": "public",
+    "date": "21/05 11:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "bap bap bap",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
