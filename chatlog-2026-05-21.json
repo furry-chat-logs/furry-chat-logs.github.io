@@ -10358,5 +10358,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "What-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909510",
+    "type": "public",
+    "date": "21/05 11:47",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "my friends buying a conversion kit so he can make his bike electric, and do jumps with it, and control it",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909511",
+    "type": "public",
+    "date": "21/05 11:47",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "0-0",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
