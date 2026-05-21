@@ -10858,5 +10858,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "°Throws sinnercat_mondo in the deep frier and feeds him to his family° 0.0",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909560",
+    "type": "public",
+    "date": "21/05 12:10",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Im sleepy",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909561",
+    "type": "public",
+    "date": "21/05 12:10",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Do not the me",
+    "msgClasses": "chat_message "
   }
 ]
