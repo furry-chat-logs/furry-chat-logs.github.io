@@ -14098,5 +14098,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "why ma profile say i am friends with WDP",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909885",
+    "type": "public",
+    "date": "21/05 13:34",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Pina Hugs back",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909886",
+    "type": "public",
+    "date": "21/05 13:34",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "lul",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
