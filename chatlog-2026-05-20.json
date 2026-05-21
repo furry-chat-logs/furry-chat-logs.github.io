@@ -32440,5 +32440,15 @@
     "userClasses": "username user ",
     "message": "Yes the person reading this I'm talking to you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908331",
+    "type": "public",
+    "date": "20/05 22:49",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "interesting",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
