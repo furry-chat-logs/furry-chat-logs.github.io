@@ -5308,5 +5308,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbTZ0bTBocndzNzU0ejV1bWRpMXd6ZHNhaTZocG01bzdmdW9pbWVydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPLpvJcsWvrkk/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909002",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You're walls",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
