@@ -11118,5 +11118,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Moonishiki ;0;",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909586",
+    "type": "public",
+    "date": "21/05 12:23",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "That looks EPIC!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909587",
+    "type": "public",
+    "date": "21/05 12:23",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Moonishiki coole",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909588",
+    "type": "public",
+    "date": "21/05 12:23",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yuhh",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
