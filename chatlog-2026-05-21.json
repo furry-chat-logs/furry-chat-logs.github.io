@@ -1598,5 +1598,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Medokin cool",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908631",
+    "type": "public",
+    "date": "21/05 6:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Why don't they like you",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
