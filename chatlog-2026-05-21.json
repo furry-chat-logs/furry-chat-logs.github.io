@@ -2128,5 +2128,15 @@
     "userClasses": "username bcolor32 ",
     "message": "I myself.I believe in ice popsicle iced coffee",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908684",
+    "type": "public",
+    "date": "21/05 7:11",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmN3IyNnJsaDJhY3dobmdjc3drNWo4OHNld3BnYzk1MG9nb3pnbGhwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MXGCAHw4ssUYXEqIyi/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
