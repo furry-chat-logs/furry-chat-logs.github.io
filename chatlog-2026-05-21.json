@@ -14568,5 +14568,35 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Why ?",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909932",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "paimon FRIEN!!!",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909933",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "im finally out of a toxic relationship",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7909934",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "hai",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
