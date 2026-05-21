@@ -1078,5 +1078,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Just now noticed",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7908577",
+    "type": "public",
+    "date": "21/05 4:01",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOGlibHpsZ2V1aWkxN2h3N2M0azZ6dnBnYjN0M21hMHJhd3hhYmhmOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OKlV7g9KL3nLWOyR07/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
