@@ -938,5 +938,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Like my soul 💀",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7908563",
+    "type": "public",
+    "date": "21/05 3:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "U turning emo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
