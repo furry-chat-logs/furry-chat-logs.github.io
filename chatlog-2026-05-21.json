@@ -17346,5 +17346,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_630b83404133.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910215",
+    "type": "public",
+    "date": "21/05 16:58",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYTlxbjhwYW5hcm56amwxcTEzem1iNXE2ZGI4cnlnNWZtd2d6MjU5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t6LlKGMFLmC0gS7lV9/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7910216",
+    "type": "public",
+    "date": "21/05 16:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcmFwN3hhYzRla285MXR1dWVkeG1nMG10Nm0yN3dkOXl2ZWsxZzFqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AXmgkbAArNg6A/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910217",
+    "type": "public",
+    "date": "21/05 16:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Kill manny PLEASE",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910218",
+    "type": "public",
+    "date": "21/05 16:58",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_5d33e3059d96.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910219",
+    "type": "public",
+    "date": "21/05 16:58",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "0G Stupendous Man",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
