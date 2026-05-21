@@ -11718,5 +11718,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Am I a chud",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909646",
+    "type": "public",
+    "date": "21/05 12:40",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Idk",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909647",
+    "type": "public",
+    "date": "21/05 12:40",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I keep getting shit on my Bing home news like \"10 chair workouts for men over 70\" 😭😭🥀🥀",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
