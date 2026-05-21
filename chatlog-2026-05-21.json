@@ -748,5 +748,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I cannot tell the difference between sid and a capybara.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908544",
+    "type": "public",
+    "date": "21/05 2:53",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Therefore, a capybara is a fat rat.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
