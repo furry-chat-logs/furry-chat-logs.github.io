@@ -14806,5 +14806,15 @@
     "username": "System",
     "userId": null,
     "message": "paimon has been muted"
+  },
+  {
+    "id": "7909956",
+    "type": "public",
+    "date": "21/05 13:54",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": ".",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
