@@ -15476,5 +15476,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "*want",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7910024",
+    "type": "public",
+    "date": "21/05 14:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm either dying my dreads full on light-blond or purple",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910025",
+    "type": "public",
+    "date": "21/05 14:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_ea54717106d9.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
