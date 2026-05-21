@@ -28750,5 +28750,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Mayhem real",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907959",
+    "type": "public",
+    "date": "20/05 21:28",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "What music to you listen to Mayhem ?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907960",
+    "type": "public",
+    "date": "20/05 21:28",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907961",
+    "type": "public",
+    "date": "20/05 21:28",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Whatever sounds interesting pretty much",
+    "msgClasses": "chat_message bneon23 bold bfont14"
   }
 ]
