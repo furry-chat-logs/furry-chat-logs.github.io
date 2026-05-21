@@ -2398,5 +2398,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Wasup my main man sinnercat_mondo",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908711",
+    "type": "public",
+    "date": "21/05 7:19",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "sinnercat_mondo sup mate",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908712",
+    "type": "public",
+    "date": "21/05 7:19",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "0G Stupendous Man suppppppp",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
