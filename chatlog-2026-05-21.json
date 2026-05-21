@@ -1898,5 +1898,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "*dies*",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908661",
+    "type": "public",
+    "date": "21/05 7:02",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "😑",
+    "msgClasses": "chat_message "
   }
 ]
