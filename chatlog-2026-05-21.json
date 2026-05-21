@@ -15536,5 +15536,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "anybody got a spare deep fryer?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7910031",
+    "type": "public",
+    "date": "21/05 14:41",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "sinnercat_mondo nah sry man",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
