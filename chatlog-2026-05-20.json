@@ -33360,5 +33360,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Frogmin might be the next president",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908423",
+    "type": "public",
+    "date": "20/05 23:28",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Goodnight",
+    "msgClasses": "chat_message "
   }
 ]
