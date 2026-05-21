@@ -9098,5 +9098,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Pina gg reported",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909384",
+    "type": "public",
+    "date": "21/05 10:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Brain isn't braining",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
