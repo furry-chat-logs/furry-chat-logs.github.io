@@ -10118,5 +10118,25 @@
     "userClasses": "username user ",
     "message": "guh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909486",
+    "type": "public",
+    "date": "21/05 11:38",
+    "username": "alisethfox",
+    "userId": "37312",
+    "userClasses": "username bcolor2 bnfont2",
+    "message": "Pina heeey!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909487",
+    "type": "public",
+    "date": "21/05 11:38",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "vexx gayuh",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
