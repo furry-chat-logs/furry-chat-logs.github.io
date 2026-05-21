@@ -13218,5 +13218,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Breadcrumbs lucky",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909796",
+    "type": "public",
+    "date": "21/05 13:17",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sol_Aizawa naur. found that one online from pure luck",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7909797",
+    "type": "public",
+    "date": "21/05 13:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I have at least still a month to go",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
