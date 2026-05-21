@@ -12998,5 +12998,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Eh. I'm leaving. Nothing is sparkin anything stupendous.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909774",
+    "type": "public",
+    "date": "21/05 13:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "0G Stupendous Man dunno",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
