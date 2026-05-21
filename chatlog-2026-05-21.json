@@ -2138,5 +2138,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmN3IyNnJsaDJhY3dobmdjc3drNWo4OHNld3BnYzk1MG9nb3pnbGhwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MXGCAHw4ssUYXEqIyi/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908685",
+    "type": "public",
+    "date": "21/05 7:11",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I believe in choklet puting",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
