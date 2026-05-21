@@ -31630,5 +31630,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "KingCorgz $3,000 is a waste of monoey.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908249",
+    "type": "public",
+    "date": "20/05 22:25",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Frogmin what would you do with 3k",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
