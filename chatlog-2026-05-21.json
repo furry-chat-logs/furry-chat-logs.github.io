@@ -13558,5 +13558,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Pina pina it wasn't just a troll, nor was it one troll",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909830",
+    "type": "public",
+    "date": "21/05 13:28",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sol_Aizawa i thought we weren't talking for awhile so i unfriended you.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909831",
+    "type": "public",
+    "date": "21/05 13:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Pina thr trolling is getting tiring",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
