@@ -12688,5 +12688,45 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "New Kid hey hey.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909743",
+    "type": "public",
+    "date": "21/05 13:04",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "0G Stupendous Man heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909744",
+    "type": "public",
+    "date": "21/05 13:04",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "I cannot handle angst for the life of me its like the Jax breakdown but internally",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909745",
+    "type": "public",
+    "date": "21/05 13:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I have dimensiona",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909746",
+    "type": "public",
+    "date": "21/05 13:04",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "New Kid heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
