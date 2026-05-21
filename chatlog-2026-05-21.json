@@ -9588,5 +9588,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "0G Stupendous Man oh fr?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909433",
+    "type": "public",
+    "date": "21/05 10:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Pina still",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909434",
+    "type": "public",
+    "date": "21/05 10:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "its an immature joke",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
