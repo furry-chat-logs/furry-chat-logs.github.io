@@ -8218,5 +8218,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "aaaaaaaaaaaaaaaaaaa",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909296",
+    "type": "public",
+    "date": "21/05 10:17",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi I'm back",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
