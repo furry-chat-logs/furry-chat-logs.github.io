@@ -7998,5 +7998,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "looks better",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909274",
+    "type": "public",
+    "date": "21/05 9:55",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I keep mine on system. The darkest.  Dark isn't dark enough.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909275",
+    "type": "public",
+    "date": "21/05 9:55",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "is better for my eyes",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
