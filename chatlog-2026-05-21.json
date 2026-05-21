@@ -9448,5 +9448,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "and nobody should joke like that",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909419",
+    "type": "public",
+    "date": "21/05 10:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "unless they ARE an anti fur",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909420",
+    "type": "public",
+    "date": "21/05 10:53",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wanna do ss",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
