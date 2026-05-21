@@ -11898,5 +11898,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Someone ask moon why im blocked.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909664",
+    "type": "public",
+    "date": "21/05 12:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Dunno what i did.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
