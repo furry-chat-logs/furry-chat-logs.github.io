@@ -29200,5 +29200,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Buggo don't have it but should I get it?",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7908006",
+    "type": "public",
+    "date": "20/05 21:34",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i have beats",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908007",
+    "type": "public",
+    "date": "20/05 21:34",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "They have three modes, a mode where it's normal, then noise cancelling with isolation for the audio, and also Passthrough so every sound around me irl is amplified",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
