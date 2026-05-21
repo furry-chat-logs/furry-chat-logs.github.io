@@ -2818,5 +2818,15 @@
     "userClasses": "username bcolor32 ",
     "message": "0G Stupendous Man uses fortnite medkit",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908753",
+    "type": "public",
+    "date": "21/05 7:29",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "ill brb gotta do something",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
