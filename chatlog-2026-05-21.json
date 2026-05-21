@@ -8148,5 +8148,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "\"Five fracks\" — SilverXD",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909289",
+    "type": "public",
+    "date": "21/05 10:07",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Lol",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
