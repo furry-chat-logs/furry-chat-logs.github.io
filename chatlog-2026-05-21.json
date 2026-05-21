@@ -6848,5 +6848,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Wats a brodie",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909159",
+    "type": "public",
+    "date": "21/05 8:57",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "New Kid stop harassing you????",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7909160",
+    "type": "public",
+    "date": "21/05 8:57",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWFzMWxkeng3NWRxcGRwNndra3I3bWR6d2U4OGZzanQzMmV2a3pwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5XvhZSJHr8wOk/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
