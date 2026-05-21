@@ -31750,5 +31750,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "There are steaks and beers near me. 10oz steak + fries + beer + onion rings + mushrooms for just under $15",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908261",
+    "type": "public",
+    "date": "20/05 22:29",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Frogmin With 3k, I'd get some wagyu steak.",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
