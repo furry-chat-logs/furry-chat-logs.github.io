@@ -31610,5 +31610,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Why are you spending 3,000 on a saddle?",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908247",
+    "type": "public",
+    "date": "20/05 22:25",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Bc they do horseback",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
