@@ -14328,5 +14328,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "I'm fine Polites",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909908",
+    "type": "public",
+    "date": "21/05 13:38",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sol_Aizawa in the heights?",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909909",
+    "type": "public",
+    "date": "21/05 13:38",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Wouldn't you like a taste of the magic",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
