@@ -14548,5 +14548,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "I LOVE Hamilton [heu]",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909930",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "im so happy",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7909931",
+    "type": "public",
+    "date": "21/05 13:42",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Why ?",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
