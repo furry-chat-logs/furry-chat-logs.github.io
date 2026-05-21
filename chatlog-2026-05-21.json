@@ -5718,5 +5718,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki id do that willingly",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909045",
+    "type": "public",
+    "date": "21/05 8:35",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "sinnercat_mondo right now?",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
