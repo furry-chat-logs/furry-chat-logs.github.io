@@ -16056,5 +16056,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Moonishiki battery life is shot",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910085",
+    "type": "public",
+    "date": "21/05 15:53",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Pluh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
