@@ -16506,5 +16506,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f0caa9869d61.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910130",
+    "type": "public",
+    "date": "21/05 16:18",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Porphyrophobia hey 19th century kid",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7910131",
+    "type": "public",
+    "date": "21/05 16:19",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "...why is everyone telling me to do a flip??",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7910132",
+    "type": "public",
+    "date": "21/05 16:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Absolutely not.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910133",
+    "type": "public",
+    "date": "21/05 16:19",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "oh i forgot Porphyrophobia knows knd ball",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7910134",
+    "type": "public",
+    "date": "21/05 16:19",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Baptism",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
