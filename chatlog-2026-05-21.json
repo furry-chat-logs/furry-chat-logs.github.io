@@ -7728,5 +7728,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "FAHHHHHH",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909247",
+    "type": "public",
+    "date": "21/05 9:17",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "i remember back in the day of furrychat rp dragging people to pms was used so much",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909248",
+    "type": "public",
+    "date": "21/05 9:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "i ripped too many apps out",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
