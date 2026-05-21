@@ -1218,5 +1218,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "i am glad he is offline",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7908592",
+    "type": "public",
+    "date": "21/05 6:12",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lol",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
