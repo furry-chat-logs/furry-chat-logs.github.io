@@ -28390,5 +28390,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "It's like that but I'm aware of losing memories and skills and abilities to do things",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907922",
+    "type": "public",
+    "date": "20/05 21:23",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_a618fcf90828.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907923",
+    "type": "public",
+    "date": "20/05 21:23",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Pink blood",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7907924",
+    "type": "public",
+    "date": "20/05 21:23",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "٭٭٭ I think wren was too",
+    "msgClasses": "chat_message bneon23 bold bfont14"
   }
 ]
