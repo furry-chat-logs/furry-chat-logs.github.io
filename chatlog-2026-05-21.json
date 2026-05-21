@@ -8998,5 +8998,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Lmaooo",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909374",
+    "type": "public",
+    "date": "21/05 10:47",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Pina you're funny",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909375",
+    "type": "public",
+    "date": "21/05 10:47",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Pina not funny",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
