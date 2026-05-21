@@ -27370,5 +27370,65 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37226_cb4766cad10b.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907820",
+    "type": "public",
+    "date": "20/05 21:15",
+    "username": "Evil Runefaust",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "Ne",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
+  },
+  {
+    "id": "7907821",
+    "type": "public",
+    "date": "20/05 21:15",
+    "username": "Evil Runefaust",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "Me",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
+  },
+  {
+    "id": "7907822",
+    "type": "public",
+    "date": "20/05 21:15",
+    "username": "Evil Runefaust",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "Wait",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
+  },
+  {
+    "id": "7907823",
+    "type": "public",
+    "date": "20/05 21:15",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Ne",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907824",
+    "type": "public",
+    "date": "20/05 21:15",
+    "username": "Evil Runefaust",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "I forgot I was on this account",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
+  },
+  {
+    "id": "7907825",
+    "type": "public",
+    "date": "20/05 21:15",
+    "username": "Evil Runefaust",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "DIE",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
   }
 ]
