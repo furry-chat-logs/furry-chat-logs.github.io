@@ -10318,5 +10318,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "fr",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909506",
+    "type": "public",
+    "date": "21/05 11:47",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "making a predator oc",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909507",
+    "type": "public",
+    "date": "21/05 11:47",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "\\",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
