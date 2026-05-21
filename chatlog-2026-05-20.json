@@ -28280,5 +28280,35 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "Bergindine  a horse?-",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7907911",
+    "type": "public",
+    "date": "20/05 21:21",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Ohhhhh",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907912",
+    "type": "public",
+    "date": "20/05 21:21",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "I forgot those exist",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907913",
+    "type": "public",
+    "date": "20/05 21:21",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "literally me",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
