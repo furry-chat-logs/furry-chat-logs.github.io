@@ -27720,5 +27720,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Bergindine wrong ping.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907855",
+    "type": "public",
+    "date": "20/05 21:17",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "prEtzeL yeah I don't give a shit about my body so why not",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907856",
+    "type": "public",
+    "date": "20/05 21:17",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": ".",
+    "msgClasses": "chat_message ital"
   }
 ]
