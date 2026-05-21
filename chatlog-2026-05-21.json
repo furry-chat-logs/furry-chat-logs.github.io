@@ -16176,5 +16176,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Starts biting the air [angry]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910097",
+    "type": "public",
+    "date": "21/05 16:02",
+    "username": "Rey",
+    "userId": "25445",
+    "userClasses": "username user ",
+    "message": "Hi guys",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910098",
+    "type": "public",
+    "date": "21/05 16:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910099",
+    "type": "public",
+    "date": "21/05 16:03",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_6242f0a2f74f.gif]",
+    "msgClasses": "chat_message "
   }
 ]
