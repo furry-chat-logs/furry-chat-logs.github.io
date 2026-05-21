@@ -28990,5 +28990,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Bergindine rookie numbees",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907985",
+    "type": "public",
+    "date": "20/05 21:31",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Autumn J.",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7907986",
+    "type": "public",
+    "date": "20/05 21:31",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "😼",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7907987",
+    "type": "public",
+    "date": "20/05 21:31",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "That's literally just my downloaded songs and not even half of them",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
