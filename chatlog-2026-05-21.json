@@ -2248,5 +2248,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Google search it",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908696",
+    "type": "public",
+    "date": "21/05 7:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sounds tasty",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
