@@ -15516,5 +15516,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Oop my mic was on my headphones",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910028",
+    "type": "public",
+    "date": "21/05 14:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_de57cf84deaf.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
