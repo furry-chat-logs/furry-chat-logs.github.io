@@ -6338,5 +6338,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "prEtzeL doesn't sound realistic",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909108",
+    "type": "public",
+    "date": "21/05 8:45",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Medokin bruh bruh.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
