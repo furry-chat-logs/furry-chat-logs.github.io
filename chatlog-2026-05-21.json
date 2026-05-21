@@ -11768,5 +11768,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Do you act like 70",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909651",
+    "type": "public",
+    "date": "21/05 12:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Naur",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
