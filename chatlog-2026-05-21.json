@@ -9808,5 +9808,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": ">.>",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909455",
+    "type": "public",
+    "date": "21/05 11:22",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Don't call me that </3",
+    "msgClasses": "chat_message "
   }
 ]
