@@ -13488,5 +13488,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "im not that dumb lol",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909823",
+    "type": "public",
+    "date": "21/05 13:27",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Pina *icy glare with a deadpan expression*",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
