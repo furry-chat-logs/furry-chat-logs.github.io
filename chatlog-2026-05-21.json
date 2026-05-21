@@ -14936,5 +14936,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Sylver meh the messages I got were pretty... Colorful...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909969",
+    "type": "public",
+    "date": "21/05 13:58",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Sol_Aizawa I'm sorry to hear that",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909970",
+    "type": "public",
+    "date": "21/05 13:58",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "too much detail...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
