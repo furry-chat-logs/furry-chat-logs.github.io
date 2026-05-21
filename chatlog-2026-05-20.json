@@ -26700,5 +26700,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "CatNap_Fictionkin sure",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907753",
+    "type": "public",
+    "date": "20/05 20:58",
+    "username": "CatNap_Fictionkin",
+    "userId": "35425",
+    "userClasses": "username bgrad30 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35425_a78177dcb0e9.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907754",
+    "type": "public",
+    "date": "20/05 20:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdjA0cnlmdGF4bDN4N2VsbjZzdmxqY2w0cTZiY2dkaW4zaGkzOWlnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GYlAnXsFWk4U0/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
