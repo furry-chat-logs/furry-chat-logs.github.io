@@ -8978,5 +8978,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Spectre_protogen ... what do you think",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909372",
+    "type": "public",
+    "date": "21/05 10:47",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "i hate furries!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909373",
+    "type": "public",
+    "date": "21/05 10:47",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lmaooo",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
