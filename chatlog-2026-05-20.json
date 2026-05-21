@@ -32840,5 +32840,15 @@
     "userClasses": "username bcolor32 ",
     "message": "*sigh*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908371",
+    "type": "public",
+    "date": "20/05 23:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "They're one of those idiots who think everyone wants his fixing",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
