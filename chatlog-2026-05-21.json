@@ -8438,5 +8438,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "The recording is doing that weird thing where it wont play.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909318",
+    "type": "public",
+    "date": "21/05 10:24",
+    "username": "A_kind_furry",
+    "userId": "33043",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "0G Stupendous Man same, just broken",
+    "msgClasses": "chat_message bneon3 boldital bfont12"
+  },
+  {
+    "id": "7909319",
+    "type": "public",
+    "date": "21/05 10:24",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "ah god fucking damn it",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
