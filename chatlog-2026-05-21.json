@@ -14488,5 +14488,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I listened to how do you write like your running out of time on repeat",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909924",
+    "type": "public",
+    "date": "21/05 13:40",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sol_Aizawa Hamilton is very good.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909925",
+    "type": "public",
+    "date": "21/05 13:40",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Very.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
