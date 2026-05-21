@@ -13078,5 +13078,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Sol_Aizawa uhh what new person",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909782",
+    "type": "public",
+    "date": "21/05 13:13",
+    "username": "alisethfox",
+    "userId": "37312",
+    "userClasses": "username bcolor2 bnfont2",
+    "message": "heyyyy",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909783",
+    "type": "public",
+    "date": "21/05 13:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Mystery moon",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
