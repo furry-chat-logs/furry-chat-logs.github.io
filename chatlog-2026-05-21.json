@@ -6398,5 +6398,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Don't make me feel like them",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909114",
+    "type": "public",
+    "date": "21/05 8:46",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "i'm not saying you're like them",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7909115",
+    "type": "public",
+    "date": "21/05 8:46",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "i'm js telling you that's our reality",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
