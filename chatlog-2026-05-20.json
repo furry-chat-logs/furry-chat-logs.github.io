@@ -31870,5 +31870,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Moonishiki no TwT",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7908273",
+    "type": "public",
+    "date": "20/05 22:32",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user6405_0c613d242f53.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
