@@ -658,5 +658,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "SoraTheMikuFan Yeah, when they discovered the capybara, it was marked as a fish.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908535",
+    "type": "public",
+    "date": "21/05 2:51",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "So in the Pope's directory of animals or whatever the fuck, a Capybara is marked as a fish.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
