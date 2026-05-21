@@ -9718,5 +9718,15 @@
     "userClasses": "username user ",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909446",
+    "type": "public",
+    "date": "21/05 11:18",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Good morning!",
+    "msgClasses": "chat_message "
   }
 ]
