@@ -13338,5 +13338,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "...",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909808",
+    "type": "public",
+    "date": "21/05 13:25",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Sol_Aizawa wym bro?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909809",
+    "type": "public",
+    "date": "21/05 13:25",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "alisethfox hai ^^",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
