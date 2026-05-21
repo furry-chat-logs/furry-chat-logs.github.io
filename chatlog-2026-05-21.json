@@ -14398,5 +14398,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "But no clue who you are",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909915",
+    "type": "public",
+    "date": "21/05 13:39",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "And no idea if you're dead or just too far",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
