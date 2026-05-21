@@ -31940,5 +31940,25 @@
     "userClasses": "username user ",
     "message": "KingCorgz my gibberish will be heard",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908280",
+    "type": "public",
+    "date": "20/05 22:39",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I think",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908281",
+    "type": "public",
+    "date": "20/05 22:39",
+    "username": "Fleetway Sonic",
+    "userId": "28305",
+    "userClasses": "username bneon19 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user28305_b1b5bdb0b0f5.png]",
+    "msgClasses": "chat_message "
   }
 ]
