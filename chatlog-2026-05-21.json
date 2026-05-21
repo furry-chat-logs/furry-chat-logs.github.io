@@ -1238,5 +1238,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Phew.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908594",
+    "type": "public",
+    "date": "21/05 6:12",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "i had said i am not gonna be online when that mf derik is",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
