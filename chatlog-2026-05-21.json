@@ -13758,5 +13758,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I keep them low.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909850",
+    "type": "public",
+    "date": "21/05 13:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "0G Stupendous Man damn",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909851",
+    "type": "public",
+    "date": "21/05 13:30",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "this guy",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
