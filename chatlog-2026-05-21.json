@@ -14788,5 +14788,15 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "I wish I could send images-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909954",
+    "type": "public",
+    "date": "21/05 13:52",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "u need vip",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
