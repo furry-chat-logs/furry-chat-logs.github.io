@@ -15206,5 +15206,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid or hearing your teacher say the hard R during a book",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909997",
+    "type": "public",
+    "date": "21/05 14:33",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oh I haven't unlocked that one yet",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
