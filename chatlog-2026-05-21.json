@@ -598,5 +598,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yea",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7908529",
+    "type": "public",
+    "date": "21/05 2:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "The biggest rodent in the whole wide world",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7908530",
+    "type": "public",
+    "date": "21/05 2:51",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Derikgodzilla18 According to christianity, a Capybara is a fish.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
