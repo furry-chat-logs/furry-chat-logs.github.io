@@ -10408,5 +10408,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "but he won't believe me",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909515",
+    "type": "public",
+    "date": "21/05 11:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "and his bike is already a bit unstable",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
