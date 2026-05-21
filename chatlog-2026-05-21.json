@@ -728,5 +728,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user1_064051af10ef.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908542",
+    "type": "public",
+    "date": "21/05 2:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It was a few years ago",
+    "msgClasses": "chat_message bneon14"
   }
 ]
