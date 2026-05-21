@@ -6448,5 +6448,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Idk",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909119",
+    "type": "public",
+    "date": "21/05 8:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "imma go home see yall later",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
