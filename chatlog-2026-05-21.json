@@ -3828,5 +3828,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I HAVE A PLASTIC SHARK THAT I NAMED BABY MAKO",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908854",
+    "type": "public",
+    "date": "21/05 8:15",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdDNqY2VhZ2FrNHQwYTVrN2cxMDk3ZGppdTk2djVjaTV3M2l1am51aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEhn4uT41VmkkihHy/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
