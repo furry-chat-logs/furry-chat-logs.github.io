@@ -13698,5 +13698,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Sol_Aizawa when?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909844",
+    "type": "public",
+    "date": "21/05 13:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Pina for some it is",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909845",
+    "type": "public",
+    "date": "21/05 13:29",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "when did I do it twice?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
