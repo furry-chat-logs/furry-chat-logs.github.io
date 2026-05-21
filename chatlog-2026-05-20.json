@@ -32980,5 +32980,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Sigh",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7908385",
+    "type": "public",
+    "date": "20/05 23:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Good",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908386",
+    "type": "public",
+    "date": "20/05 23:17",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I don't shove the word to people I say it kindly",
+    "msgClasses": "chat_message "
   }
 ]
