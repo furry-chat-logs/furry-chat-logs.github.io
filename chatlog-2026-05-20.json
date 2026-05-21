@@ -27320,5 +27320,35 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[verysad]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7907815",
+    "type": "public",
+    "date": "20/05 21:14",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Chat.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7907816",
+    "type": "public",
+    "date": "20/05 21:14",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907817",
+    "type": "public",
+    "date": "20/05 21:14",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWJxenV4emFjc3ZqYnRubWZrbHA4dG42N21sYzRteDdrOGQydTNhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/18D7b8w95tZEk/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
