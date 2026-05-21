@@ -2328,5 +2328,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "My grandma finds comfort amd entertainment in watching someone set up their tent.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908704",
+    "type": "public",
+    "date": "21/05 7:18",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I really believe in mofongo",
+    "msgClasses": "chat_message "
   }
 ]
