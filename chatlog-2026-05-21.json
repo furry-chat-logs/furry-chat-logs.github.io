@@ -12438,5 +12438,15 @@
     "userClasses": "username bcolor18 bnfont14",
     "message": "*taps fandom button*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909718",
+    "type": "public",
+    "date": "21/05 13:00",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "*spins the great wheel of fandoms*",
+    "msgClasses": "chat_message "
   }
 ]
