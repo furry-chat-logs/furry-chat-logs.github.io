@@ -11208,5 +11208,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Wrong one",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909595",
+    "type": "public",
+    "date": "21/05 12:25",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[good]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909596",
+    "type": "public",
+    "date": "21/05 12:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_1aac5ce58e5f.gif]",
+    "msgClasses": "chat_message "
   }
 ]
