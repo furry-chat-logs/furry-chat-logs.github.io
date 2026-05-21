@@ -32720,5 +32720,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Let's just all say sorry to each other",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908359",
+    "type": "public",
+    "date": "20/05 23:06",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Haha no.",
+    "msgClasses": "chat_message "
   }
 ]
