@@ -29760,5 +29760,35 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "boba too",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908062",
+    "type": "public",
+    "date": "20/05 21:42",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "what's box lunch?",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908063",
+    "type": "public",
+    "date": "20/05 21:42",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "i don't think i have that here",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908064",
+    "type": "public",
+    "date": "20/05 21:42",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I remember I was 6 years old and I accidentally walked into the back of Spencers because my little ADHD brain saw bright colors",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
