@@ -25540,5 +25540,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Moonishiki interesting",
     "msgClasses": "chat_message bgrad4 ital bfont9"
+  },
+  {
+    "id": "7907637",
+    "type": "public",
+    "date": "20/05 20:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "So his constant pushing has made me all the more bitchy lately, and I was getting annoyed by every little thing and he decides it's the perfect moment to inject himself into it, mocking me with some \"of course you're so angry, you only care about yourself\" which of COURSE that reasonably throws me",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907638",
+    "type": "public",
+    "date": "20/05 20:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Over the edge and I tell him that shut up",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
