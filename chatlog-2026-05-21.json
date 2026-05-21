@@ -2068,5 +2068,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Does anybody believe in root beer soda?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908678",
+    "type": "public",
+    "date": "21/05 7:07",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "it's root beer it's not smt u believe in it's fuckin there?",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
