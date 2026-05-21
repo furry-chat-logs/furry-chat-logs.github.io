@@ -33430,5 +33430,15 @@
     "userClasses": "username user ",
     "message": "This just in JustAnAnt gunned down inside own house",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908430",
+    "type": "public",
+    "date": "20/05 23:37",
+    "username": "eviefox",
+    "userId": "37306",
+    "userClasses": "username user ",
+    "message": "whyd bro do that",
+    "msgClasses": "chat_message "
   }
 ]
