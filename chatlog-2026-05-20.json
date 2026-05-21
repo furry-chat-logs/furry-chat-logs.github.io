@@ -27260,5 +27260,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Only Eleanore can.",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907809",
+    "type": "public",
+    "date": "20/05 21:13",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36452_a5bb8d5cff57.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907810",
+    "type": "public",
+    "date": "20/05 21:13",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "I'm in the thick of it everybody knows",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
