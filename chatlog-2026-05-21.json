@@ -15356,5 +15356,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Hmmm... The question of was I stupid or even more stupid",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910012",
+    "type": "public",
+    "date": "21/05 14:36",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I may not even dye my hair...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
