@@ -1118,5 +1118,15 @@
     "userClasses": "username bcolor22 ",
     "message": "Samee",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908582",
+    "type": "public",
+    "date": "21/05 5:39",
+    "username": "pim",
+    "userId": "37309",
+    "userClasses": "username user ",
+    "message": "hey, anyone wanna chat?",
+    "msgClasses": "chat_message "
   }
 ]
