@@ -11098,5 +11098,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "open poll",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909584",
+    "type": "public",
+    "date": "21/05 12:23",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_ff24252c29c7.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
