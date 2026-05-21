@@ -9498,5 +9498,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "It wasn't even that authentic.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909424",
+    "type": "public",
+    "date": "21/05 10:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "its still nerve grating",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
