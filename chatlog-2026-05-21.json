@@ -168,5 +168,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Frogmin regular tuxedo fr",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7908486",
+    "type": "public",
+    "date": "21/05 1:03",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Nobody on earth has ever worn a tuxedo other than a poorly casted waiter in an amateur film.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
