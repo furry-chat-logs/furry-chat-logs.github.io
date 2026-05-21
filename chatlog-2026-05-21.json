@@ -4358,5 +4358,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I learn you, earth girl.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908907",
+    "type": "public",
+    "date": "21/05 8:22",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "learn?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7908908",
+    "type": "public",
+    "date": "21/05 8:23",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "sinnercat_mondo yes.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908909",
+    "type": "public",
+    "date": "21/05 8:23",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Learn.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
