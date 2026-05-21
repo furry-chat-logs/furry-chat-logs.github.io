@@ -27240,5 +27240,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_80932cbff575.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7907807",
+    "type": "public",
+    "date": "20/05 21:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "SS) don't call me Luna.",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907808",
+    "type": "public",
+    "date": "20/05 21:13",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Only Eleanore can.",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
