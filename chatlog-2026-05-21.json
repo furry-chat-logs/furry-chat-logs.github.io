@@ -8488,5 +8488,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Brother [skull]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909323",
+    "type": "public",
+    "date": "21/05 10:26",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "windows 11 was made by a bunch of shit for brains",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
