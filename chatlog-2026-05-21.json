@@ -11648,5 +11648,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "How to sit down",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909639",
+    "type": "public",
+    "date": "21/05 12:38",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Please i need a tutorial",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909640",
+    "type": "public",
+    "date": "21/05 12:38",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_16810d583940.png]",
+    "msgClasses": "chat_message "
   }
 ]
