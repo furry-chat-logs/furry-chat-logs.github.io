@@ -12258,5 +12258,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "MysteryMoonQuotev oh yeah, you can tag someone by clicking on teir name",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909700",
+    "type": "public",
+    "date": "21/05 12:56",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "I remember how phenominal it feels to beat ballistic for the first time",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909701",
+    "type": "public",
+    "date": "21/05 12:56",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "Sol_Aizawa ty",
+    "msgClasses": "chat_message "
   }
 ]
