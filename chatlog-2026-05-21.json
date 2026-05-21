@@ -13498,5 +13498,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Pina *icy glare with a deadpan expression*",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909824",
+    "type": "public",
+    "date": "21/05 13:27",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "0G Stupendous Man you send me a friend request, but I tought we were already friends?",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909825",
+    "type": "public",
+    "date": "21/05 13:27",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbXFjc3M4NG42dHU1ZDF3ZGYyd29oMWVpdXk1bHM5eDR4MHlndnc1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XBoYoCVQNBpJe/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
