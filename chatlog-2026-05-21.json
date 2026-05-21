@@ -13548,5 +13548,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Sol_Aizawa i keep my friends list cleaned out.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909829",
+    "type": "public",
+    "date": "21/05 13:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Pina pina it wasn't just a troll, nor was it one troll",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
