@@ -5998,5 +5998,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Dream kacher",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909073",
+    "type": "public",
+    "date": "21/05 8:40",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "AH MY BABY HAS ARRIVED",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7909074",
+    "type": "public",
+    "date": "21/05 8:40",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "SHE CAME TO MY CLASS",
+    "msgClasses": "chat_message bneon27  bfont3"
   }
 ]
