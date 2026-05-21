@@ -15826,5 +15826,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Ashaaksllstsysg",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910062",
+    "type": "public",
+    "date": "21/05 15:08",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Dead chat",
+    "msgClasses": "chat_message "
   }
 ]
