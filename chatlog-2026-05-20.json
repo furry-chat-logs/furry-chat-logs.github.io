@@ -33700,5 +33700,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "I only have 600",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908457",
+    "type": "public",
+    "date": "20/05 23:49",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Sharkish Did you enjoy your ten hour shift?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7908458",
+    "type": "public",
+    "date": "20/05 23:49",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_fcd67b7fbcd0.gif]",
+    "msgClasses": "chat_message "
   }
 ]
