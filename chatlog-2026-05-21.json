@@ -9918,5 +9918,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Spectre_protogen pretty goood hbuu?",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7909466",
+    "type": "public",
+    "date": "21/05 11:30",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Meep Meep its not nice!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909467",
+    "type": "public",
+    "date": "21/05 11:30",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Spectre_protogen that isnt nice!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
