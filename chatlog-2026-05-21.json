@@ -9218,5 +9218,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "New Kid now ur just taking it too far, you a weird mfer, how are you so stupid to actually believe i don't like furries?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909396",
+    "type": "public",
+    "date": "21/05 10:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Pina you said you were not joking??",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909397",
+    "type": "public",
+    "date": "21/05 10:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "and now you are?",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
