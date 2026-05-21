@@ -8268,5 +8268,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjNodmtwd3E4OTRjNHZrZm02czc2OXIxdzBrdWc4MWw3Mmk2OHJmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cGkzODbP3dF4EHCcEk/giphy.gif]",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909301",
+    "type": "public",
+    "date": "21/05 10:18",
+    "username": "A_kind_furry",
+    "userId": "33043",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33043_fd2916474d67.gif]",
+    "msgClasses": "chat_message "
   }
 ]
