@@ -2338,5 +2338,25 @@
     "userClasses": "username bcolor32 ",
     "message": "I really believe in mofongo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908705",
+    "type": "public",
+    "date": "21/05 7:18",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "0G Stupendous Man huh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908706",
+    "type": "public",
+    "date": "21/05 7:18",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "is that 0G Stupendous Man aka my goat? :D",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
