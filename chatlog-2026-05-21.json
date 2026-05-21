@@ -1928,5 +1928,15 @@
     "userClasses": "username bcolor32 ",
     "message": "What did i do",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908664",
+    "type": "public",
+    "date": "21/05 7:03",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Derikgodzilla18 You jesused.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
