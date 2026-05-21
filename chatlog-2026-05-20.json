@@ -33190,5 +33190,15 @@
     "userClasses": "username user ",
     "message": "Frogmin sub",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908406",
+    "type": "public",
+    "date": "20/05 23:22",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Im",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
