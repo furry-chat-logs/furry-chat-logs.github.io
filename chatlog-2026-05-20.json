@@ -31000,5 +31000,25 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "my dog probably steped on my mouse",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908186",
+    "type": "public",
+    "date": "20/05 22:00",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "For contrast, I have to take plenty of medications to even sleep until 6:30am",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908187",
+    "type": "public",
+    "date": "20/05 22:00",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "PLEASE IGNOREE THAT",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
