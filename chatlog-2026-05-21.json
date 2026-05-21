@@ -16556,5 +16556,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Baptism",
     "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7910135",
+    "type": "public",
+    "date": "21/05 16:21",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_aefb95e3f12d.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
