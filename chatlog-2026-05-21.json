@@ -7248,5 +7248,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "damn i better catch up",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909199",
+    "type": "public",
+    "date": "21/05 9:04",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Giggity",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909200",
+    "type": "public",
+    "date": "21/05 9:04",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "how about",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
