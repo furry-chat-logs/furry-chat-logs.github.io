@@ -968,5 +968,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Chat is kinda dead 💀 today",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908566",
+    "type": "public",
+    "date": "21/05 3:53",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Dead chat is chat dead",
+    "msgClasses": "chat_message bneon14"
   }
 ]
