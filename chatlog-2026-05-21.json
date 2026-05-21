@@ -4038,5 +4038,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "sinnercat_mondo no I am",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7908875",
+    "type": "public",
+    "date": "21/05 8:20",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sol_Aizawa no me",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7908876",
+    "type": "public",
+    "date": "21/05 8:20",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "*couldn't",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908877",
+    "type": "public",
+    "date": "21/05 8:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "sinnercat_mondo I am literally learning how to code",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
