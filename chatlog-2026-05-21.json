@@ -12828,5 +12828,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "MysteryMoonQuotev kinda expected you wanted that, but I don't know if they'll be in the show",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909757",
+    "type": "public",
+    "date": "21/05 13:06",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "True, still hopin tho :D",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909758",
+    "type": "public",
+    "date": "21/05 13:06",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I haven't played the game yet...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909759",
+    "type": "public",
+    "date": "21/05 13:06",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "TwT",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
