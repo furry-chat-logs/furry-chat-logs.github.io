@@ -2508,5 +2508,15 @@
     "userClasses": "username bcolor32 ",
     "message": "sinnercat_mondo did you do anything fun",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908722",
+    "type": "public",
+    "date": "21/05 7:21",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "sinnercat_mondo [good]",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
