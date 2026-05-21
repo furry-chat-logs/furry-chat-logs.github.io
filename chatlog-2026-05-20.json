@@ -28970,5 +28970,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "It's 18 hours",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7907983",
+    "type": "public",
+    "date": "20/05 21:30",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Pluh",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
