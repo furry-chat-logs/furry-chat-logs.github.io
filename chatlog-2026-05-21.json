@@ -5108,5 +5108,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "also I might have made some walls a bit to big in a try to protect my self...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7908982",
+    "type": "public",
+    "date": "21/05 8:29",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Moonishiki holy aura",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7908983",
+    "type": "public",
+    "date": "21/05 8:29",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Does earth girl need to repeat?",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
