@@ -33280,5 +33280,45 @@
     "userClasses": "username user ",
     "message": "Frogmin r u from russia",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908415",
+    "type": "public",
+    "date": "20/05 23:25",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "What is MGS even about? This:",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908416",
+    "type": "public",
+    "date": "20/05 23:25",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Frogmin cause ur always russian somewhere",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908417",
+    "type": "public",
+    "date": "20/05 23:25",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Frogmin i wasn't talking about the president I was talking about the country",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908418",
+    "type": "public",
+    "date": "20/05 23:25",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I don't care about presidents",
+    "msgClasses": "chat_message "
   }
 ]
