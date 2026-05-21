@@ -5148,5 +5148,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "0G Stupendous Man no",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7908986",
+    "type": "public",
+    "date": "21/05 8:29",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "0G Stupendous Man not really",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7908987",
+    "type": "public",
+    "date": "21/05 8:29",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "sinnercat_mondo yep. Welcome to Gundam",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908988",
+    "type": "public",
+    "date": "21/05 8:29",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "*dies*",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
