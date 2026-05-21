@@ -33400,5 +33400,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Very interesting",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7908427",
+    "type": "public",
+    "date": "20/05 23:34",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I hope something interesting happens",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
