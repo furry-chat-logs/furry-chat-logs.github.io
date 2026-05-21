@@ -3958,5 +3958,15 @@
     "userClasses": "username bgrad7 ",
     "message": "My mood is a Taylor Swift song",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908867",
+    "type": "public",
+    "date": "21/05 8:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "no than its fine",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
