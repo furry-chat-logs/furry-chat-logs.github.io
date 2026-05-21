@@ -6498,5 +6498,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9738_6b3f620c7636.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909124",
+    "type": "public",
+    "date": "21/05 8:48",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "The wrold",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
