@@ -14348,5 +14348,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Wouldn't you like a taste of the magic",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909910",
+    "type": "public",
+    "date": "21/05 13:38",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Its so good.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909911",
+    "type": "public",
+    "date": "21/05 13:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Wouldn't you like a taste of the power",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
