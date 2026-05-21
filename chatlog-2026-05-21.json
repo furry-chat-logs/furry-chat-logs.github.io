@@ -12478,5 +12478,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Is this healthy, chat?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909722",
+    "type": "public",
+    "date": "21/05 13:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "*exists*",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909723",
+    "type": "public",
+    "date": "21/05 13:01",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user3475_12683571bd12.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
