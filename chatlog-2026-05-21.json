@@ -16126,5 +16126,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODNlZjJndGZsMmhsMW1sZXphNzcxcDRuejFiaThpZ2d5cm1mMnI3NyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fUQ4rhUZJYiQsas6WD/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910092",
+    "type": "public",
+    "date": "21/05 16:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_d9b40dbfe59e.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910093",
+    "type": "public",
+    "date": "21/05 16:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[tongue3]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
