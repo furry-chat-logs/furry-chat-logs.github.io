@@ -5268,5 +5268,45 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "i'm so proud",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908998",
+    "type": "public",
+    "date": "21/05 8:29",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "great job",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908999",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin what u talkin abt?",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909000",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "A+",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7909001",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbTZ0bTBocndzNzU0ejV1bWRpMXd6ZHNhaTZocG01bzdmdW9pbWVydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPLpvJcsWvrkk/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
