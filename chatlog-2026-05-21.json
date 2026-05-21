@@ -10578,5 +10578,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "theyre aren't much here",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909532",
+    "type": "public",
+    "date": "21/05 11:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "theyre past this time in my countrie",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909533",
+    "type": "public",
+    "date": "21/05 11:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "apperantly...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
