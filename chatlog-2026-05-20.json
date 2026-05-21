@@ -28870,5 +28870,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Reminds me of Citizen Soldier",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7907971",
+    "type": "public",
+    "date": "20/05 21:29",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "You feel overwhelmingly steriotypical ٭٭٭",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7907972",
+    "type": "public",
+    "date": "20/05 21:29",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "i also like limp bizkit",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
