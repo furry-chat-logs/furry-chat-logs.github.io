@@ -13158,5 +13158,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Found a rare coin",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909790",
+    "type": "public",
+    "date": "21/05 13:16",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_b7d961351376.png]",
+    "msgClasses": "chat_message "
   }
 ]
