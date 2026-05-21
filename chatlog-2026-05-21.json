@@ -7408,5 +7408,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "i guess bro",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909215",
+    "type": "public",
+    "date": "21/05 9:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "oh yea great idea",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909216",
+    "type": "public",
+    "date": "21/05 9:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_c91b373ebc29.png]",
+    "msgClasses": "chat_message "
   }
 ]
