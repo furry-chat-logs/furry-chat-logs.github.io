@@ -10818,5 +10818,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Smiley ...",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909556",
+    "type": "public",
+    "date": "21/05 12:09",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "sinnercat_mondo Yesssss I am him and I finished a bracelet a bit ago",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909557",
+    "type": "public",
+    "date": "21/05 12:09",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "skins Smiley",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
