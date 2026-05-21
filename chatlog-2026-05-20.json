@@ -30000,5 +30000,35 @@
     "userClasses": "username bneon23 bnfont14",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdm10bzd0MGdmdHBsdmhveXpmZnF1cjl0eGpkaWNsNWd5azFiamdiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FnumMt5J351GkQLHjY/giphy.gif]",
     "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908086",
+    "type": "public",
+    "date": "20/05 21:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Now muuuurderrrr",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908087",
+    "type": "public",
+    "date": "20/05 21:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Alright, pull ur hatchets out",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908088",
+    "type": "public",
+    "date": "20/05 21:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Chop chop chop chop",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
