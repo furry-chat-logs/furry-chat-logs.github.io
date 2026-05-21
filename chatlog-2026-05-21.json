@@ -12288,5 +12288,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Now what, chat?",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909703",
+    "type": "public",
+    "date": "21/05 12:57",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "MysteryMoonQuotev I found a mobile version of fnf. it's free too. And has all the songs. [or almost all of them, some of the newer modded songs are still being added.]",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7909704",
+    "type": "public",
+    "date": "21/05 12:57",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "Been playing for I think since 2021 but garcello is my child",
+    "msgClasses": "chat_message "
   }
 ]
