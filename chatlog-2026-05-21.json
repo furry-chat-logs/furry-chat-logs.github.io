@@ -14798,5 +14798,13 @@
     "userClasses": "username bgrad40 ",
     "message": "u need vip",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7909955",
+    "type": "system",
+    "date": "21/05 13:53",
+    "username": "System",
+    "userId": null,
+    "message": "paimon has been muted"
   }
 ]
