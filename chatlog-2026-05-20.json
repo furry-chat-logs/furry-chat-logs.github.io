@@ -29260,5 +29260,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Nice!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908012",
+    "type": "public",
+    "date": "20/05 21:35",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "I had to censor the uhm, stuff since it's not appropriate lmfao",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7908013",
+    "type": "public",
+    "date": "20/05 21:35",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Mines just my own selection so it's a bigger flex lol",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
