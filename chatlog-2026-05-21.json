@@ -13108,5 +13108,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "alisethfox heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909785",
+    "type": "public",
+    "date": "21/05 13:14",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "why am I always the one to kill chat...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909786",
+    "type": "public",
+    "date": "21/05 13:14",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "aguiewgwngiop",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
