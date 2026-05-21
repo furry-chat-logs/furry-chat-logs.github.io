@@ -18066,5 +18066,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_fe290b256e53.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910287",
+    "type": "public",
+    "date": "21/05 17:19",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmczRqZ2xxc3ZmOTFic2E5amUycXg3c3FxeTd5ZW5pNmpqYzRvcmw2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7fqHu2l88wcPv0bugw/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910288",
+    "type": "public",
+    "date": "21/05 17:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[sob]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910289",
+    "type": "public",
+    "date": "21/05 17:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdWJyazJtdDQ1YXRrOWpzMjVwcWFndHcxOHRidGlmMzdqdW55Nm56ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CEengqYwRrVkNuI434/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910290",
+    "type": "public",
+    "date": "21/05 17:19",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_59413fe52208.gif]",
+    "msgClasses": "chat_message "
   }
 ]
