@@ -7438,5 +7438,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "uninstall the package installer",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909218",
+    "type": "public",
+    "date": "21/05 9:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "no thanks",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
