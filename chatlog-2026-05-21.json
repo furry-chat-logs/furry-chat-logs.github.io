@@ -17756,5 +17756,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemd4eXY1ZXNpdTMydHkxcmkyY3BraGhjbzRwZmxpNWtheDZvdGJtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYJlqI4lyABB7C8/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7910256",
+    "type": "public",
+    "date": "21/05 17:09",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Blud thinks he's Lyle Lipton with this stock image pfp 😭💔",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7910257",
+    "type": "public",
+    "date": "21/05 17:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[skull] ..",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
