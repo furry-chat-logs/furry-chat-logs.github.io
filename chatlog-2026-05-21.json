@@ -10768,5 +10768,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Pina is buying one for me :D",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7909551",
+    "type": "public",
+    "date": "21/05 12:08",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "woah waitaminute",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
