@@ -5338,5 +5338,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "good morning",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909006",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "prEtzeL like I said not jealous, me and my gf are together for over a year now",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7909007",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "New Kid hi",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909008",
+    "type": "public",
+    "date": "21/05 8:30",
+    "username": "Moonishiki",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Holy aura",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
