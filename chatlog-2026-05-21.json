@@ -7068,5 +7068,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "I wasn't picking on you",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7909181",
+    "type": "public",
+    "date": "21/05 9:00",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I just thought it was funny",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
