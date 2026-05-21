@@ -31110,5 +31110,35 @@
     "userClasses": "username bneon28 bnfont3",
     "message": "don't sleep fr",
     "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7908197",
+    "type": "public",
+    "date": "20/05 22:01",
+    "username": "٭٭٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "not only that but i dont have an appetite",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7908198",
+    "type": "public",
+    "date": "20/05 22:02",
+    "username": "Mayhem",
+    "userId": "36452",
+    "userClasses": "username bneon23 bnfont14",
+    "message": "Goodnight",
+    "msgClasses": "chat_message bneon23 bold bfont14"
+  },
+  {
+    "id": "7908199",
+    "type": "public",
+    "date": "20/05 22:02",
+    "username": "Wren",
+    "userId": "36497",
+    "userClasses": "username bneon20 bnfont9",
+    "message": "Mayhem goodnight my love",
+    "msgClasses": "chat_message bneon22 heavybold bfont5"
   }
 ]
