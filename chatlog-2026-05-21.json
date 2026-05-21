@@ -3768,5 +3768,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "prEtzeL [happy]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908848",
+    "type": "public",
+    "date": "21/05 8:12",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Yk what's really awesome? Mako sharks",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908849",
+    "type": "public",
+    "date": "21/05 8:13",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Brethren left—",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
