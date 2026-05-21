@@ -11348,5 +11348,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Diabolical",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909609",
+    "type": "public",
+    "date": "21/05 12:31",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user11705_a55892d1ccb0.webp]",
+    "msgClasses": "chat_message "
   }
 ]
