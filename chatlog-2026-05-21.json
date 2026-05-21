@@ -2008,5 +2008,25 @@
     "userClasses": "username bcolor32 ",
     "message": "prEtzeL your age is 99",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908672",
+    "type": "public",
+    "date": "21/05 7:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hapy birthday",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7908673",
+    "type": "public",
+    "date": "21/05 7:05",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Sigh",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
