@@ -1908,5 +1908,25 @@
     "userClasses": "username bcolor32 ",
     "message": "😑",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7908662",
+    "type": "public",
+    "date": "21/05 7:03",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I believe in roobert",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7908663",
+    "type": "public",
+    "date": "21/05 7:03",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "What did i do",
+    "msgClasses": "chat_message "
   }
 ]
