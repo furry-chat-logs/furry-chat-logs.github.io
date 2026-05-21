@@ -11198,5 +11198,15 @@
     "userClasses": "username bgrad7 ",
     "message": "That's the MSN-09FF Nu Gundam",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7909594",
+    "type": "public",
+    "date": "21/05 12:25",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wrong one",
+    "msgClasses": "chat_message bgrad2 bold bfont7"
   }
 ]
