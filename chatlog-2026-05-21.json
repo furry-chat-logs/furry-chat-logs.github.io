@@ -12118,5 +12118,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Meep mep",
     "msgClasses": "chat_message bgrad2 bold bfont7"
+  },
+  {
+    "id": "7909686",
+    "type": "public",
+    "date": "21/05 12:54",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Meep <3",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7909687",
+    "type": "public",
+    "date": "21/05 12:54",
+    "username": "MysteryMoonQuotev",
+    "userId": "37313",
+    "userClasses": "username bcolor18 bnfont14",
+    "message": "I love how newer fnf songs is just the sickest lyrics and then BEEP BOP",
+    "msgClasses": "chat_message "
   }
 ]
