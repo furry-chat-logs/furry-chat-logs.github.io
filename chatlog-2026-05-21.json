@@ -15386,5 +15386,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Moonishiki dyed my fair green",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7910015",
+    "type": "public",
+    "date": "21/05 14:36",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Moonishiki that's actually not that bad tbh",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910016",
+    "type": "public",
+    "date": "21/05 14:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I remember chopping off half of my hair, having to rock with a Mohawk for almost a year after lying on the barber saying that they did it [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
