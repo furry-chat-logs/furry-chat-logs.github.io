@@ -33210,5 +33210,15 @@
     "userClasses": "username bgrad7 ",
     "message": "I'm kidding",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7908408",
+    "type": "public",
+    "date": "20/05 23:23",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Moonishiki Story of the year.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
