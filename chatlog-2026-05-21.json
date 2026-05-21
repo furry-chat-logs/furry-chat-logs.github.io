@@ -6668,5 +6668,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "no access to the web.",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7909141",
+    "type": "public",
+    "date": "21/05 8:51",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": ">:(",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
