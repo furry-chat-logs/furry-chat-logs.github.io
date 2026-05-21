@@ -2428,5 +2428,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "That's what im talkin boutttt",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7908714",
+    "type": "public",
+    "date": "21/05 7:19",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Derikgodzilla18 sup mate",
+    "msgClasses": "chat_message bneon1 ital bfont12"
   }
 ]
