@@ -11868,5 +11868,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Yep.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7909661",
+    "type": "public",
+    "date": "21/05 12:45",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "huh...when I search up 'Protogen' on the gif thingie, there's only one protogen",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
