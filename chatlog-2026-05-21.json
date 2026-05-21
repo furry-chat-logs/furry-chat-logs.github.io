@@ -10228,5 +10228,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "even though i want one",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909497",
+    "type": "public",
+    "date": "21/05 11:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "no electric, thats for lasy mfs",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
