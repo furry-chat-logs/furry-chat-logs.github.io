@@ -1158,5 +1158,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "derik is offline",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7908586",
+    "type": "public",
+    "date": "21/05 6:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am tired",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
