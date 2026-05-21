@@ -13858,5 +13858,35 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "Sol_Aizawa wtvr you say",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7909860",
+    "type": "public",
+    "date": "21/05 13:31",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "🥀",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7909861",
+    "type": "public",
+    "date": "21/05 13:31",
+    "username": "alisethfox",
+    "userId": "37312",
+    "userClasses": "username bcolor2 bnfont2",
+    "message": "what even happened",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7909862",
+    "type": "public",
+    "date": "21/05 13:31",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "0G Stupendous Man I have like 35 friends...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
