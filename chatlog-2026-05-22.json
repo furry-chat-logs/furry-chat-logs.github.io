@@ -1068,5 +1068,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36931_849b5a3bc749.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911096",
+    "type": "public",
+    "date": "22/05 4:38",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_995ab6d5aa15.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911097",
+    "type": "public",
+    "date": "22/05 4:38",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
