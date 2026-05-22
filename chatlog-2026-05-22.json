@@ -6048,5 +6048,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Some Gundam shows had watchers saying they needed weeks to recover from the heavy emotional weight",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911594",
+    "type": "public",
+    "date": "22/05 12:41",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Grrrrr.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911595",
+    "type": "public",
+    "date": "22/05 12:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "This is why I'm a huge J-Pop glazer, K-Pop is meh... but the community is practically equivalent to femcels/incels. [sob]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911596",
+    "type": "public",
+    "date": "22/05 12:42",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "It's  \"prom\" day.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
