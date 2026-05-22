@@ -6868,5 +6868,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "TIKO peak pfp",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911676",
+    "type": "public",
+    "date": "22/05 13:23",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Love it.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911677",
+    "type": "public",
+    "date": "22/05 13:23",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWd3enQyeHo5dnY4bGZwN2IwZXJlOXprZmhnbWRqczVzN2d5c3QydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Je9ztY0kMma1MXlD1Y/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
