@@ -4128,5 +4128,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I know...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911402",
+    "type": "public",
+    "date": "22/05 11:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "but you also insult each other...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
