@@ -15052,5 +15052,15 @@
     "userClasses": "username bneon28 bnfont1",
     "message": "Hello bronado",
     "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912498",
+    "type": "public",
+    "date": "22/05 16:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY3F0azh6Zzdybm5kajF5dzc3MzBwOXBkYjd5NmE1M3ZrcHM5djNseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0TOla5a9qG5OpeUxN/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
