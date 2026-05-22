@@ -6258,5 +6258,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "*sniffle*",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911615",
+    "type": "public",
+    "date": "22/05 12:45",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "So he had to become a Gundam Meister. A part of Celestial Being who was working to eradicate war. He piloted the GN-003 Gundam Dynames and he had a little robotic partner.",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
