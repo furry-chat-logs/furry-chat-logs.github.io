@@ -10108,5 +10108,15 @@
     "userClasses": "username bneon18 ",
     "message": ".",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912002",
+    "type": "public",
+    "date": "22/05 15:06",
+    "username": "hunkydihlord",
+    "userId": "37323",
+    "userClasses": "username user ",
+    "message": "hi guys",
+    "msgClasses": "chat_message "
   }
 ]
