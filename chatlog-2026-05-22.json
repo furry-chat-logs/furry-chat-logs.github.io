@@ -9048,5 +9048,65 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "No I wasn'ttttt",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911896",
+    "type": "public",
+    "date": "22/05 14:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It was real",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911897",
+    "type": "public",
+    "date": "22/05 14:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "If only I could record",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911898",
+    "type": "public",
+    "date": "22/05 14:39",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFma256cWg1bmlxaWFqZmVibDVqOGR5aWpzMTJqb3BvMTVpZnM2bjVuYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D2hncA3u88gmeCFeoh/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7911899",
+    "type": "public",
+    "date": "22/05 14:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "But ppl r talking",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911900",
+    "type": "public",
+    "date": "22/05 14:40",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [tongue3]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911901",
+    "type": "public",
+    "date": "22/05 14:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And you'll hate",
+    "msgClasses": "chat_message bneon14"
   }
 ]
