@@ -10168,5 +10168,65 @@
     "userClasses": "username user ",
     "message": "do you want to hookup",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912008",
+    "type": "public",
+    "date": "22/05 15:07",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "What is wrong with this place.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912009",
+    "type": "public",
+    "date": "22/05 15:08",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "Fuck no",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7912010",
+    "type": "public",
+    "date": "22/05 15:08",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[idontcare]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912011",
+    "type": "public",
+    "date": "22/05 15:08",
+    "username": "hunkydihlord",
+    "userId": "37323",
+    "userClasses": "username user ",
+    "message": "why mummy",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912012",
+    "type": "public",
+    "date": "22/05 15:08",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "Shut the fuck up, incel",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7912013",
+    "type": "public",
+    "date": "22/05 15:08",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "hunkydihlord .",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
