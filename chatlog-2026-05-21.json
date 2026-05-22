@@ -23906,5 +23906,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I wrote the rules in a very specific way so that people don't have stupid army profile pictures that piss me off.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7910882",
+    "type": "public",
+    "date": "21/05 22:37",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "DO U WANT TO SEE IT",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7910883",
+    "type": "public",
+    "date": "21/05 22:37",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "i got u something",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
