@@ -9848,5 +9848,55 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Can't resist these",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911976",
+    "type": "public",
+    "date": "22/05 14:56",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hi gays",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7911977",
+    "type": "public",
+    "date": "22/05 14:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "asterr No",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911978",
+    "type": "public",
+    "date": "22/05 14:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Get out",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911979",
+    "type": "public",
+    "date": "22/05 14:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Porphyrophobia don't be mean!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911980",
+    "type": "public",
+    "date": "22/05 14:57",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "oh",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
