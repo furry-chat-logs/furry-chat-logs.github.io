@@ -20726,5 +20726,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "hi",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910557",
+    "type": "public",
+    "date": "21/05 21:10",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGxvYmR6NGowMjhsaDhnMzVjdm41aHUxcjcwNXo3cWZxN21kMGQ1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lvOmnLJj1rNyxUc1rM/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910558",
+    "type": "public",
+    "date": "21/05 21:10",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "If you don't know that song you're criminally uncultured",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
