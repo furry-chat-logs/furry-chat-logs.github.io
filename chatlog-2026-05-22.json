@@ -15562,5 +15562,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Zeen a little more",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7912549",
+    "type": "public",
+    "date": "22/05 16:35",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOXhwZTlwY3V3cXRyamN3bXpqN2RmZG11MnoyMTE2amQ4NDhqY3ozOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6O5pzQ8pAPTCoeagK/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
