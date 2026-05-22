@@ -13488,5 +13488,15 @@
     "userClasses": "username bneon18 ",
     "message": "Smiley There has been worse.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912341",
+    "type": "public",
+    "date": "22/05 15:35",
+    "username": "Nutbucket",
+    "userId": "37325",
+    "userClasses": "username user ",
+    "message": "******",
+    "msgClasses": "chat_message "
   }
 ]
