@@ -918,5 +918,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "no it was result = age >= 18 and has_license and has_insurance",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911081",
+    "type": "public",
+    "date": "22/05 3:01",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "I didn't see the 18 part",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
