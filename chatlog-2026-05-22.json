@@ -1448,5 +1448,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Not this year since I'm a Junior",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911134",
+    "type": "public",
+    "date": "22/05 7:35",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Ooh, i don't take any classes that need testing",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
