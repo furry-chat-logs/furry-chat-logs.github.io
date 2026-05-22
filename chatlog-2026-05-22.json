@@ -3038,5 +3038,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "Lmao",
     "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911293",
+    "type": "public",
+    "date": "22/05 9:19",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "my name is your mum and welcome to Jackass.",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911294",
+    "type": "public",
+    "date": "22/05 9:19",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ":>",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
