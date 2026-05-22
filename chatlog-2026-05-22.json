@@ -7138,5 +7138,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMTg2cWxoZGQzaXBqdGx2a3JzN28wbDl1dHd3NDVydGZpa2JkcXpvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mrzhhnh4srPBLqzap1/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911703",
+    "type": "public",
+    "date": "22/05 13:28",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmanI5b2Y5aHZwY2xkdnpldmMya3k2eDZucGl1d2Z4dHV1MWZ1cml5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y2BBy5IxOjJFA7F4a8/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911704",
+    "type": "public",
+    "date": "22/05 13:28",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Deimos lmao",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911705",
+    "type": "public",
+    "date": "22/05 13:28",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "I honestly thought DerikGodzilla wouldve blocked me by know (Look at my background image))",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7911706",
+    "type": "public",
+    "date": "22/05 13:28",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Forrest gump style.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
