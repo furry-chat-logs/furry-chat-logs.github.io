@@ -2288,5 +2288,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "Angry kitty",
     "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911218",
+    "type": "public",
+    "date": "22/05 8:22",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Kibby",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7911219",
+    "type": "public",
+    "date": "22/05 8:22",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "yes",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
   }
 ]
