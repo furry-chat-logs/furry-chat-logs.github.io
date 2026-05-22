@@ -15742,5 +15742,15 @@
     "userClasses": "username bcolor1 bnfont15",
     "message": "Buggo [good] [prayer]",
     "msgClasses": "chat_message bgrad39  bfont1"
+  },
+  {
+    "id": "7912567",
+    "type": "public",
+    "date": "22/05 16:43",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "[moai]",
+    "msgClasses": "chat_message bgrad39  bfont1"
   }
 ]
