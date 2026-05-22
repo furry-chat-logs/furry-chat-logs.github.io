@@ -2798,5 +2798,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "My life long question is answered",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911269",
+    "type": "public",
+    "date": "22/05 9:12",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Electric_sinner_wolf heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
