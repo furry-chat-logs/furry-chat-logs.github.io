@@ -6238,5 +6238,25 @@
     "userClasses": "username bgrad7 ",
     "message": "He had nowhere to go and a unquenched vengeance",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911613",
+    "type": "public",
+    "date": "22/05 12:44",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Won't be here today besides now.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911614",
+    "type": "public",
+    "date": "22/05 12:45",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "*sniffle*",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
