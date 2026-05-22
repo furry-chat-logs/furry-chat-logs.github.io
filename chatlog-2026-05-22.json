@@ -7418,5 +7418,45 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Medokin ye",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7911733",
+    "type": "public",
+    "date": "22/05 13:36",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Deimos coole",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7911734",
+    "type": "public",
+    "date": "22/05 13:36",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXlyMnZueHlhNDg4eGViaG9odmVkYjBuaHMzYjY5ZGcyMHo3ZXZldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fP26H9YX2E4HGknhxN/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7911735",
+    "type": "public",
+    "date": "22/05 13:36",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "New Kid",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7911736",
+    "type": "public",
+    "date": "22/05 13:36",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I shall return.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
