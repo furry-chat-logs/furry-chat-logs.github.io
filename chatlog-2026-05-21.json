@@ -21156,5 +21156,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I gotta remake that",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910601",
+    "type": "public",
+    "date": "21/05 21:39",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I remember ts.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910602",
+    "type": "public",
+    "date": "21/05 21:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a4103af6159d.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910603",
+    "type": "public",
+    "date": "21/05 21:39",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Dear god",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7910604",
+    "type": "public",
+    "date": "21/05 21:39",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I just cut my finger fucking deep on accident",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7910605",
+    "type": "public",
+    "date": "21/05 21:39",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Brbr",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
