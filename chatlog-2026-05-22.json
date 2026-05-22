@@ -10078,5 +10078,35 @@
     "userClasses": "username bneon18 ",
     "message": "Porphyrophobia Gulp-",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911999",
+    "type": "public",
+    "date": "22/05 15:04",
+    "username": "Evil Runefaust",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "It was me.",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
+  },
+  {
+    "id": "7912000",
+    "type": "public",
+    "date": "22/05 15:04",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia gets free ice cream. [totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912001",
+    "type": "public",
+    "date": "22/05 15:04",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": ".",
+    "msgClasses": "chat_message ital"
   }
 ]
