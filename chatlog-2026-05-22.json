@@ -5318,5 +5318,45 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "It's gonna be mAy",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911521",
+    "type": "public",
+    "date": "22/05 12:27",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "New Kid bruh you were on Android 8 a few days ago",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7911522",
+    "type": "public",
+    "date": "22/05 12:27",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_ed5cfa2cf44e.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911523",
+    "type": "public",
+    "date": "22/05 12:27",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "The RX-93FF Nu Gundam",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911524",
+    "type": "public",
+    "date": "22/05 12:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "SilverXD I was showing one of my old phones lol",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
