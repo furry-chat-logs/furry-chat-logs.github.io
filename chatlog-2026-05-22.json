@@ -2968,5 +2968,45 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Niko_The_Bee unless the spider can talk to me, it's getting burned.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7911286",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "•_•",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911287",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ">:{  asshat stop killin them ill cry",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911288",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "Welcome to Jackass",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911289",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGE4Mmh1cXhveWZkN2pyczJnMWs2NjNrOGljOXp5NjY4OGk5MWVyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5nsiFjdgylfK3csZ5T/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
