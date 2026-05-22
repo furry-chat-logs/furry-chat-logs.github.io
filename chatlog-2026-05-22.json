@@ -13408,5 +13408,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Just block em",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7912333",
+    "type": "public",
+    "date": "22/05 15:34",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "And send a screenshot",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
