@@ -1288,5 +1288,15 @@
     "userClasses": "username bgrad7 ",
     "message": "I literally go to school for two hours and go home at 10:15am",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911118",
+    "type": "public",
+    "date": "22/05 7:28",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "ooh lucky",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
