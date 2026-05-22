@@ -348,5 +348,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "paimon at least I got to leave some chaos",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7911024",
+    "type": "public",
+    "date": "22/05 0:46",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "fr",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911025",
+    "type": "public",
+    "date": "22/05 0:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_596d9e8b3e51.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911026",
+    "type": "public",
+    "date": "22/05 0:47",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Well....Ig i might as well prepare to use this old ahh chromebook for the next like.....hopefully 5 months of my life.... [sob]",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
