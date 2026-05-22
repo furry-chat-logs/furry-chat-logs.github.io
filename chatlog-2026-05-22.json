@@ -14932,5 +14932,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Humans are probably living thing icl",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7912486",
+    "type": "public",
+    "date": "22/05 16:13",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcDF0NHFtbTR2czhvajRoaDUyMzdiaWJ1dHU5cWdidDZueXE0Y21kYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nwjhBMrpW7zWLlRybC/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912487",
+    "type": "public",
+    "date": "22/05 16:13",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ok mb hot take...",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
