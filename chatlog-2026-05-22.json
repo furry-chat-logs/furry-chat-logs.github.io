@@ -1788,5 +1788,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Fatespeaker did you make that one?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911168",
+    "type": "public",
+    "date": "22/05 7:53",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "I know grief is misspelled it's not my art anyway it's just funny",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911169",
+    "type": "public",
+    "date": "22/05 7:53",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "Sol_Aizawa nope",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
   }
 ]
