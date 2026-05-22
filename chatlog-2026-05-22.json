@@ -4448,5 +4448,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWd3enQyeHo5dnY4bGZwN2IwZXJlOXprZmhnbWRqczVzN2d5c3QydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3MtlDYfMTVl9fFVzA3/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911434",
+    "type": "public",
+    "date": "22/05 11:34",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "[pokerface]",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7911435",
+    "type": "public",
+    "date": "22/05 11:34",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "UGH",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
