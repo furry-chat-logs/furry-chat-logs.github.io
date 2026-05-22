@@ -16762,5 +16762,65 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Porphyrophobia sorry runitoe",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7912669",
+    "type": "public",
+    "date": "22/05 17:12",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7912670",
+    "type": "public",
+    "date": "22/05 17:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "-",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912671",
+    "type": "public",
+    "date": "22/05 17:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ3czNWx5NXdtNnUwYXQxdWR6a3ZqcmNnbW1iNDVhdW1lNHlqbzZkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gx8vjqf2OyadHHZ6cL/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912672",
+    "type": "public",
+    "date": "22/05 17:13",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7912673",
+    "type": "public",
+    "date": "22/05 17:13",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_5f3b71a59f76.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912674",
+    "type": "public",
+    "date": "22/05 17:13",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "Aura",
+    "msgClasses": "chat_message bneon4"
   }
 ]
