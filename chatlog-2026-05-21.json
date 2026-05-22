@@ -20436,5 +20436,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "AGH",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7910528",
+    "type": "public",
+    "date": "21/05 20:29",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Agh",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
