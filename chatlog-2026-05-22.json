@@ -6568,5 +6568,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Issa STOP",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911646",
+    "type": "public",
+    "date": "22/05 13:01",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'M GALLOPING",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911647",
+    "type": "public",
+    "date": "22/05 13:01",
+    "username": "Jamesdude",
+    "userId": "10092",
+    "userClasses": "username user ",
+    "message": "I used to go by thatdudeJames but no one recognizes me anymore 🫩",
+    "msgClasses": "chat_message "
   }
 ]
