@@ -1358,5 +1358,15 @@
     "userClasses": "username bgrad7 ",
     "message": "Yeah",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911125",
+    "type": "public",
+    "date": "22/05 7:32",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "I'm so tired >~<",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
