@@ -12838,5 +12838,15 @@
     "userClasses": "username user ",
     "message": "stop getting mad",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912276",
+    "type": "public",
+    "date": "22/05 15:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Who's getting mad you obnoxious specimen?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
