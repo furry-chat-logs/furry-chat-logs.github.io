@@ -2398,5 +2398,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "... I eat the muffin wrappers",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7911229",
+    "type": "public",
+    "date": "22/05 8:54",
+    "username": "Electric_sinner_wolf",
+    "userId": "26458",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Rats",
+    "msgClasses": "chat_message bgrad32 heavyital bfont2"
   }
 ]
