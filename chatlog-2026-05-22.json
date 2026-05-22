@@ -2338,5 +2338,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Miss Velvette Doc McStuffin looking ass",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7911223",
+    "type": "public",
+    "date": "22/05 8:39",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_a6ca25c1a6f4.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911224",
+    "type": "public",
+    "date": "22/05 8:39",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Fit :P",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
