@@ -3498,5 +3498,55 @@
     "userClasses": "username bgrad40 ",
     "message": "Miss Velvette FINALLY U SAY HI BACK",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911339",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "hru! :D",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911340",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Pfft",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911341",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I'm good!",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911342",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "nice!",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911343",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I have a really short school day!",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
