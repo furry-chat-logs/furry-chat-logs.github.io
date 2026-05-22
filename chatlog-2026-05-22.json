@@ -3838,5 +3838,15 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "Rubs eyes",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7911373",
+    "type": "public",
+    "date": "22/05 10:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNTV3Nzl2M2N2bGR6bDEzcXdkdGFpcTNsMTBkOTFuMnllYXdieWdrcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mAJFys1WjkBLVDEZFS/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
