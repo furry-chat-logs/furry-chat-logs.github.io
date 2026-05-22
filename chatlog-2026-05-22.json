@@ -19352,5 +19352,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "you already have it?",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7912929",
+    "type": "public",
+    "date": "22/05 17:51",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "oh",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7912930",
+    "type": "public",
+    "date": "22/05 17:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No you dense discombobulated jigglefart",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
