@@ -12538,5 +12538,15 @@
     "userClasses": "username user ",
     "message": "ky",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912246",
+    "type": "public",
+    "date": "22/05 15:27",
+    "username": "hunkydihlord",
+    "userId": "37323",
+    "userClasses": "username user ",
+    "message": "***",
+    "msgClasses": "chat_message "
   }
 ]
