@@ -18732,5 +18732,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Gave,,]]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912867",
+    "type": "public",
+    "date": "22/05 17:41",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "SilverXD yo mama",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912868",
+    "type": "public",
+    "date": "22/05 17:41",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Issa bumble bee :3",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7912869",
+    "type": "public",
+    "date": "22/05 17:41",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Zeen yo papa",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7912870",
+    "type": "public",
+    "date": "22/05 17:41",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "One sec i need my glasses",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7912871",
+    "type": "public",
+    "date": "22/05 17:41",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "yeah my papa",
+    "msgClasses": "chat_message bneon28 bold bfont1"
   }
 ]
