@@ -24416,5 +24416,15 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMTk4eWh1YzNsZ2x5eHR0bHJ6eWJicjluMHN0c3NmOXBzN2J6OWFrYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3aF24scWoIADu/giphy.gif]",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7910933",
+    "type": "public",
+    "date": "21/05 22:57",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Er-",
+    "msgClasses": "chat_message ital"
   }
 ]
