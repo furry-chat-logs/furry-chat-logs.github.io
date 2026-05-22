@@ -7908,5 +7908,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Gave*",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911782",
+    "type": "public",
+    "date": "22/05 13:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "IGUGUGIHGHGUU DIES",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911783",
+    "type": "public",
+    "date": "22/05 13:52",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia Revived.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911784",
+    "type": "public",
+    "date": "22/05 13:52",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "~,~",
+    "msgClasses": "chat_message ital"
   }
 ]
