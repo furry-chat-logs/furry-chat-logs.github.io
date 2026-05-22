@@ -2898,5 +2898,45 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "HEHEHEHHE",
     "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911279",
+    "type": "public",
+    "date": "22/05 9:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "NIKO!!!",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911280",
+    "type": "public",
+    "date": "22/05 9:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "KNOCK IT OFF",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911281",
+    "type": "public",
+    "date": "22/05 9:17",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "STOP KILLIN MY SPIDERS ASSHAT Spectre_protogen",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911282",
+    "type": "public",
+    "date": "22/05 9:17",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ">:{",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
   }
 ]
