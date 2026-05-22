@@ -15122,5 +15122,15 @@
     "userClasses": "username bneon18 ",
     "message": "[hoo]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912505",
+    "type": "public",
+    "date": "22/05 16:19",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2FjYmdqb3owN3I4ZmNydjR2Z2s5ajBzbGxqZjU0eGZ0Mm1qdjc5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ksw4J7EK9PMCqLZvGy/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
