@@ -1248,5 +1248,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Good morning guys",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911114",
+    "type": "public",
+    "date": "22/05 7:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It's like still kinda dark out lol",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
