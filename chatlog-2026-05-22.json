@@ -8798,5 +8798,65 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "It is pretty quiet outside, like you still hear traffic, but there aren't much people outside",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911871",
+    "type": "public",
+    "date": "22/05 14:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "sinnercat_mondo mb I will watch. And yea Porphyrophobia is a bit sussy rn",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911872",
+    "type": "public",
+    "date": "22/05 14:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHkyb3ViaWY5OG52a3M1cG52OXdrcWFlbXliemZybmV0ems1eXl6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaZfaMveb2WljrLOuJ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911873",
+    "type": "public",
+    "date": "22/05 14:36",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_dbb2d49edf12.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911874",
+    "type": "public",
+    "date": "22/05 14:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa sound so funnnn🥲",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911875",
+    "type": "public",
+    "date": "22/05 14:36",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "Porphyrophobia ..",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7911876",
+    "type": "public",
+    "date": "22/05 14:36",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "[sob]",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
