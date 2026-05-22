@@ -13588,5 +13588,15 @@
     "userClasses": "username user ",
     "message": "you think i dont like that?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912351",
+    "type": "public",
+    "date": "22/05 15:35",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Can the sun explode already??",
+    "msgClasses": "chat_message "
   }
 ]
