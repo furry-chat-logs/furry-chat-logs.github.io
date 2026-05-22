@@ -2088,5 +2088,15 @@
     "userClasses": "username bgrad7 ",
     "message": "I forgot if Fatespeaker has those abilities because I don't remember if Fatespeaker was born when they had to be in the mountains and didn't get the three moons light",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911198",
+    "type": "public",
+    "date": "22/05 8:15",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "ah",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
   }
 ]
