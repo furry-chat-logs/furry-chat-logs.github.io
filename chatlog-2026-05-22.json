@@ -2728,5 +2728,15 @@
     "userClasses": "username user ",
     "message": "Well kinda new",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911262",
+    "type": "public",
+    "date": "22/05 9:09",
+    "username": "Mr White wolf",
+    "userId": "37102",
+    "userClasses": "username user ",
+    "message": "It's fun",
+    "msgClasses": "chat_message "
   }
 ]
