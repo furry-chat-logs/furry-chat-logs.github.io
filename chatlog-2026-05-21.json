@@ -20766,5 +20766,45 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "you can probably feel the frustration in this ss",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910561",
+    "type": "public",
+    "date": "21/05 21:17",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "New Kid you rooting?",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7910562",
+    "type": "public",
+    "date": "21/05 21:17",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Tried that with my gabb phone and never got it to work",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7910563",
+    "type": "public",
+    "date": "21/05 21:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "EagleEdge trying to completely degoogle android",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910564",
+    "type": "public",
+    "date": "21/05 21:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_5079cf82240a.png]",
+    "msgClasses": "chat_message "
   }
 ]
