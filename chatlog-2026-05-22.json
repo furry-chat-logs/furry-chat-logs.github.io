@@ -9418,5 +9418,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Danger passed",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911933",
+    "type": "public",
+    "date": "22/05 14:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "New Kid exists but cooked🙃✌️",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911934",
+    "type": "public",
+    "date": "22/05 14:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Danger?",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
