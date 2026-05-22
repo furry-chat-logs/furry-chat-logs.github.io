@@ -1558,5 +1558,35 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_6fd3122a1b0d.mp3 | it_was_always_you_Helen.mp3]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911145",
+    "type": "public",
+    "date": "22/05 7:37",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "It was 1000 points and I scored 989",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911146",
+    "type": "public",
+    "date": "22/05 7:37",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Really proud of this",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7911147",
+    "type": "public",
+    "date": "22/05 7:37",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Or something around there",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
