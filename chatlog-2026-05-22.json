@@ -1128,5 +1128,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "goodbye",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911102",
+    "type": "public",
+    "date": "22/05 4:50",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Sol_Aizawa 💀",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
