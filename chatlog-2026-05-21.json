@@ -21816,5 +21816,65 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Porphyrophobia uhoh",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7910669",
+    "type": "public",
+    "date": "21/05 22:00",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia GULPED.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910670",
+    "type": "public",
+    "date": "21/05 22:01",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_6f50012cf141.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910671",
+    "type": "public",
+    "date": "21/05 22:01",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "CHASED ISSA",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910672",
+    "type": "public",
+    "date": "21/05 22:01",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user710_fe83edf83db7.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910673",
+    "type": "public",
+    "date": "21/05 22:01",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "i guess my pfp is from genshin now guys",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7910674",
+    "type": "public",
+    "date": "21/05 22:01",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "RAN AWAY",
+    "msgClasses": "chat_message ital"
   }
 ]
