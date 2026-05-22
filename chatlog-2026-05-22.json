@@ -1538,5 +1538,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Adobe Premiere Pro",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911143",
+    "type": "public",
+    "date": "22/05 7:36",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Oh",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7911144",
+    "type": "public",
+    "date": "22/05 7:37",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_6fd3122a1b0d.mp3 | it_was_always_you_Helen.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
