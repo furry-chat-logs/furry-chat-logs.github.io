@@ -20316,5 +20316,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Indeed",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910516",
+    "type": "public",
+    "date": "21/05 20:06",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Finally home",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7910517",
+    "type": "public",
+    "date": "21/05 20:06",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "KingCorgz nice",
+    "msgClasses": "chat_message "
   }
 ]
