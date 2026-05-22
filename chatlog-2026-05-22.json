@@ -618,5 +618,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "I wonder what I should buy on temu today",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7911051",
+    "type": "public",
+    "date": "22/05 2:27",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "a rock",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
