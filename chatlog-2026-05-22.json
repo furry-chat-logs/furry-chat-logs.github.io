@@ -3478,5 +3478,25 @@
     "userClasses": "username bgrad7 ",
     "message": "paimon hai!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911337",
+    "type": "public",
+    "date": "22/05 9:35",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Emergency food!",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911338",
+    "type": "public",
+    "date": "22/05 9:35",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Miss Velvette FINALLY U SAY HI BACK",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
