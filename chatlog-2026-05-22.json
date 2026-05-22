@@ -2098,5 +2098,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "ah",
     "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911199",
+    "type": "public",
+    "date": "22/05 8:15",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user13262_b8c2d8c031b5.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911200",
+    "type": "public",
+    "date": "22/05 8:15",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "I know Moonwatcher does",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
