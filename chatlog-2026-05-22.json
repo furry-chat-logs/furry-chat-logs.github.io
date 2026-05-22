@@ -2278,5 +2278,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user13262_38f33a29b6b8.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911217",
+    "type": "public",
+    "date": "22/05 8:21",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "Angry kitty",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
   }
 ]
