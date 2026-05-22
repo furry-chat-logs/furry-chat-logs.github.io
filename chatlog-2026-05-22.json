@@ -16122,5 +16122,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_d0447307a9d5.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912605",
+    "type": "public",
+    "date": "22/05 16:58",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Death Corridor",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
