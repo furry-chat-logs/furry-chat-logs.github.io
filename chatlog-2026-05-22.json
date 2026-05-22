@@ -3118,5 +3118,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM3lkc3hnYnJ4MzR2dTIxZHd3cmR4YTRjZjdwano0eDVqcTZob3RleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pEhpnpkPlyP3q/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911301",
+    "type": "public",
+    "date": "22/05 9:20",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "im confused how do yall make voice messages thats a thing?..",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911302",
+    "type": "public",
+    "date": "22/05 9:20",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMGx2dXF3Z3Zrc2Z2eXdtanphZHNrbm43M2k2aWxwMmp2ODN1dnEyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EUKWawNC65oc0/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911303",
+    "type": "public",
+    "date": "22/05 9:20",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I'm an anti-spider officer. Only spiders that prove they are able to communicate and co-exist are allowed to remain unburned. Otherwise all spiders must be exterminated",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
