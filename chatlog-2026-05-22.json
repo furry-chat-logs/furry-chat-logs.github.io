@@ -14622,5 +14622,25 @@
     "userClasses": "username bneon1 bnfont1",
     "message": "0 Super Sonico 0 😶",
     "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7912455",
+    "type": "public",
+    "date": "22/05 16:02",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "And other thing",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7912456",
+    "type": "public",
+    "date": "22/05 16:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "And it depends on how I'm feeling",
+    "msgClasses": "chat_message bneon4"
   }
 ]
