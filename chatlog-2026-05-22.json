@@ -14292,5 +14292,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_b18d6b5a8ed3.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912422",
+    "type": "public",
+    "date": "22/05 15:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Medokin [moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
