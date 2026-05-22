@@ -948,5 +948,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I gtg have bioligy class",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911084",
+    "type": "public",
+    "date": "22/05 4:14",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "k",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
