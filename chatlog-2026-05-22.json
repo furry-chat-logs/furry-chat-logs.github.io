@@ -1178,5 +1178,45 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Thers a wat",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7911107",
+    "type": "public",
+    "date": "22/05 6:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am currently on lunch break",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911108",
+    "type": "public",
+    "date": "22/05 6:17",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My friend is over so I'm not going to talk",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7911109",
+    "type": "public",
+    "date": "22/05 6:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "-_-",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911110",
+    "type": "public",
+    "date": "22/05 6:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin k",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
