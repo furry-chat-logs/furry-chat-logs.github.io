@@ -2648,5 +2648,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I forgot to crop the ss",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911254",
+    "type": "public",
+    "date": "22/05 9:08",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "I needa read that shi",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7911255",
+    "type": "public",
+    "date": "22/05 9:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "What is going on with chrome bru",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911256",
+    "type": "public",
+    "date": "22/05 9:08",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I have nothing else noteworthy",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
