@@ -2938,5 +2938,35 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": ">:{",
     "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911283",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Niko_The_Bee STOP THROWING SPIDERS AT ME!!",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911284",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user13262_9e4341951ea0.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911285",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Niko_The_Bee unless the spider can talk to me, it's getting burned.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
