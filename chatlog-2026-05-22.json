@@ -15222,5 +15222,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Next time I go out should I take a picture of George? (The massive skeleton Halloween in my neighbors front yard that they dress for every holiday)",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7912515",
+    "type": "public",
+    "date": "22/05 16:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Well there was nothing in my inv to make me look like kit at all so I guess I'm just a random white boy now",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
