@@ -4738,5 +4738,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hi",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911463",
+    "type": "public",
+    "date": "22/05 11:45",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "all of the shingles already shook off",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7911464",
+    "type": "public",
+    "date": "22/05 11:45",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMGx2dXF3Z3Zrc2Z2eXdtanphZHNrbm43M2k2aWxwMmp2ODN1dnEyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Oc8lIQHZsXqDu/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
