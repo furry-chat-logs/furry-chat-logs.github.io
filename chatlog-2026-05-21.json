@@ -20746,5 +20746,25 @@
     "userClasses": "username bgrad7 ",
     "message": "If you don't know that song you're criminally uncultured",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7910559",
+    "type": "public",
+    "date": "21/05 21:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_d9e80eb744c5.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910560",
+    "type": "public",
+    "date": "21/05 21:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "you can probably feel the frustration in this ss",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
