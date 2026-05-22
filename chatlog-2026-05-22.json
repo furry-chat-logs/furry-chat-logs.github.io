@@ -4588,5 +4588,25 @@
     "userClasses": "username bneon18 ",
     "message": "[happy]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911448",
+    "type": "public",
+    "date": "22/05 11:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Your greed sickens me",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911449",
+    "type": "public",
+    "date": "22/05 11:40",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbm1kN29xbnIwM3o2bXhoMm0wM2czenliYXF5bGRmOTlncmw1aGFvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/avc09zuOkpWQ5QG4XL/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
