@@ -6328,5 +6328,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Fucking depressing shit",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911622",
+    "type": "public",
+    "date": "22/05 12:50",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[hotdog]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911623",
+    "type": "public",
+    "date": "22/05 12:50",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Yo.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
