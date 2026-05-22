@@ -8278,5 +8278,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Deimos :[]",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7911819",
+    "type": "public",
+    "date": "22/05 14:23",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "sinnercat_mondo X)",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
