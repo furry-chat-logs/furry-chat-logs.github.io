@@ -6498,5 +6498,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "good",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911639",
+    "type": "public",
+    "date": "22/05 12:58",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ":)",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
