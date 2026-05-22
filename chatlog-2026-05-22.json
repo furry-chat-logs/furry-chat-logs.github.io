@@ -14312,5 +14312,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "???",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7912424",
+    "type": "public",
+    "date": "22/05 15:47",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcWM1eGc2aGM2NnFnbDJ3YmwzOG0wbW84ZWwwa2dxNjl0dnNneTg4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcD5A28w8keKzmM/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
