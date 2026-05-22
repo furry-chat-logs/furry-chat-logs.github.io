@@ -19562,5 +19562,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "brb",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7912950",
+    "type": "public",
+    "date": "22/05 17:57",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Its midnight and i have monster energy and flavoured vodka",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7912951",
+    "type": "public",
+    "date": "22/05 17:57",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Perfect for gambling with",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7912952",
+    "type": "public",
+    "date": "22/05 17:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "asterr Don't come bag",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
