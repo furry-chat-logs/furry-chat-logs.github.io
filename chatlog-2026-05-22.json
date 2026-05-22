@@ -3548,5 +3548,45 @@
     "userClasses": "username bgrad7 ",
     "message": "I have a really short school day!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911344",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Nice!",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911345",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "i have no school :D",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911346",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Class starts at 8:15 and I go home at 10:15",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911347",
+    "type": "public",
+    "date": "22/05 9:36",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "noice",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
