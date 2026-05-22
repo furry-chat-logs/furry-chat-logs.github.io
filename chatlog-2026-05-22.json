@@ -16272,5 +16272,55 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "mb im back",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7912620",
+    "type": "public",
+    "date": "22/05 17:04",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "My site thinks it's 12:04am",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7912621",
+    "type": "public",
+    "date": "22/05 17:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I think I scrolled way too far",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912622",
+    "type": "public",
+    "date": "22/05 17:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_ee9e2398c611.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912623",
+    "type": "public",
+    "date": "22/05 17:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'M SHIGGLING",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912624",
+    "type": "public",
+    "date": "22/05 17:05",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "is ts the loud house",
+    "msgClasses": "chat_message bneon28 bold bfont1"
   }
 ]
