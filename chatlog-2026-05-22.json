@@ -3228,5 +3228,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Jabbing back at Eminem for calling him a Recovery Clone",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911312",
+    "type": "public",
+    "date": "22/05 9:26",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": ".-. i also love NF",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911313",
+    "type": "public",
+    "date": "22/05 9:26",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yuhhh",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
