@@ -24826,5 +24826,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Gaze apon my American currency",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910974",
+    "type": "public",
+    "date": "21/05 23:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Heterosapiens are probably just clankers",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
