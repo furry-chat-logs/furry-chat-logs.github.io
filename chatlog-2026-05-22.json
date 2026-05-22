@@ -12878,5 +12878,15 @@
     "userClasses": "username user ",
     "message": "i wasnt talking to you bitch sit down",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912280",
+    "type": "public",
+    "date": "22/05 15:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sit down?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
