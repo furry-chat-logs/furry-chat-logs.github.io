@@ -2578,5 +2578,15 @@
     "userClasses": "username user ",
     "message": "Hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911247",
+    "type": "public",
+    "date": "22/05 9:06",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Mr White wolf heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
