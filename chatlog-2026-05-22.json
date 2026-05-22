@@ -3008,5 +3008,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGE4Mmh1cXhveWZkN2pyczJnMWs2NjNrOGljOXp5NjY4OGk5MWVyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5nsiFjdgylfK3csZ5T/giphy.gif]",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7911290",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMGx2dXF3Z3Zrc2Z2eXdtanphZHNrbm43M2k2aWxwMmp2ODN1dnEyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nu8X6E2TWAZOL3Xd3o/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911291",
+    "type": "public",
+    "date": "22/05 9:18",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "my name is Spectre_protogen and welcome to Jackass",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911292",
+    "type": "public",
+    "date": "22/05 9:19",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "Lmao",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
   }
 ]
