@@ -3358,5 +3358,35 @@
     "userClasses": "username bgrad7 ",
     "message": "\"Imagine someone looking up at you and saying your music's the reason they're alive\"",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911325",
+    "type": "public",
+    "date": "22/05 9:32",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Miss Velvette hai",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911326",
+    "type": "public",
+    "date": "22/05 9:32",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWd3enQyeHo5dnY4bGZwN2IwZXJlOXprZmhnbWRqczVzN2d5c3QydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/arSI1fIaCaSsA0IIyX/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911327",
+    "type": "public",
+    "date": "22/05 9:33",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Issa hai",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
