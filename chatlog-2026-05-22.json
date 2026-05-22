@@ -6408,5 +6408,35 @@
     "userClasses": "username bgrad40 ",
     "message": ":0",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911630",
+    "type": "public",
+    "date": "22/05 12:56",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "BLUE MAN?",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911631",
+    "type": "public",
+    "date": "22/05 12:56",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "BLUE MAN REVEALED",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911632",
+    "type": "public",
+    "date": "22/05 12:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I can look like my pfp tho.",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
