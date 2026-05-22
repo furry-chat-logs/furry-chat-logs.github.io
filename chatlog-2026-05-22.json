@@ -2808,5 +2808,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Electric_sinner_wolf heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911270",
+    "type": "public",
+    "date": "22/05 9:13",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": ">_>",
+    "msgClasses": "chat_message ital"
   }
 ]
