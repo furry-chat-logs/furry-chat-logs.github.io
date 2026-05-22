@@ -2828,5 +2828,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[totallove] JUMPED IN ISSA'S ARMS",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911272",
+    "type": "public",
+    "date": "22/05 9:15",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove]",
+    "msgClasses": "chat_message ital"
   }
 ]
