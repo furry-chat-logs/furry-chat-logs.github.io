@@ -5198,5 +5198,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Bro would roast someone for eating an apple",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911509",
+    "type": "public",
+    "date": "22/05 12:26",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Yum, apples",
+    "msgClasses": "chat_message "
   }
 ]
