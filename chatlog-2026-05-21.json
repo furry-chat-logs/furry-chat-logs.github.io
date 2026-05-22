@@ -20416,5 +20416,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "KingCorgz hush it up :3",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7910526",
+    "type": "public",
+    "date": "21/05 20:28",
+    "username": "Matthias",
+    "userId": "32309",
+    "userClasses": "username user ",
+    "message": "Hello world",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910527",
+    "type": "public",
+    "date": "21/05 20:28",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "AGH",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
