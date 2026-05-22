@@ -398,5 +398,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "candi_x3 I see your profile photo is killing hello Kitty 😠💀",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7911029",
+    "type": "public",
+    "date": "22/05 1:34",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Me and my bff are gonna go try ghost hunting rn in our basement fr",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
