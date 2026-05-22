@@ -16962,5 +16962,55 @@
     "userClasses": "username bneon28 bnfont1",
     "message": "ill text you on disc",
     "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912689",
+    "type": "public",
+    "date": "22/05 17:15",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "oh my GOD",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912690",
+    "type": "public",
+    "date": "22/05 17:15",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMWR6cTYxeHAyZDB1bjJseDJ1Ym85cXoycWkxOWszNndwbXU3emoxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7IWkhJvC3xquTt3ZQZ/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7912691",
+    "type": "public",
+    "date": "22/05 17:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f42b23e3e88c.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912692",
+    "type": "public",
+    "date": "22/05 17:15",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "tell him you have plans",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912693",
+    "type": "public",
+    "date": "22/05 17:16",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "He won't care",
+    "msgClasses": "chat_message bneon4"
   }
 ]
