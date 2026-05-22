@@ -3748,5 +3748,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcmthbmRud256bnNyZ3ZkdW45Ym9qbjBjd3d5azlzbjNtdjU1N2RuMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Aw9pegy7Z5fBWT0b4c/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911364",
+    "type": "public",
+    "date": "22/05 10:03",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmN3o4bW1jbmRjMTU5OHk2aDloYmxlMnV1NmdzZDR2djkycnFqeXg3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EgV4JXqsxYCYM/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
