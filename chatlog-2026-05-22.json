@@ -2588,5 +2588,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Mr White wolf heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911248",
+    "type": "public",
+    "date": "22/05 9:06",
+    "username": "Mr White wolf",
+    "userId": "37102",
+    "userClasses": "username user ",
+    "message": "How r u",
+    "msgClasses": "chat_message "
   }
 ]
