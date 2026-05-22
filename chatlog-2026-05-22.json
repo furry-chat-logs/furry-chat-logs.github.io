@@ -12738,5 +12738,35 @@
     "userClasses": "username bneon18 ",
     "message": "Rat؜ I'm literally just chilling eating custards.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912266",
+    "type": "public",
+    "date": "22/05 15:29",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Avidence",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7912267",
+    "type": "public",
+    "date": "22/05 15:29",
+    "username": "TIKO",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "Like seriously",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7912268",
+    "type": "public",
+    "date": "22/05 15:29",
+    "username": "hunkydihlord",
+    "userId": "37323",
+    "userClasses": "username user ",
+    "message": "shutup pussy no one ask you",
+    "msgClasses": "chat_message "
   }
 ]
