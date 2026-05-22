@@ -1528,5 +1528,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "For?",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7911142",
+    "type": "public",
+    "date": "22/05 7:36",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Adobe Premiere Pro",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
