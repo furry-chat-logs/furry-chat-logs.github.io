@@ -898,5 +898,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Sol_Aizawa I think so",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7911079",
+    "type": "public",
+    "date": "22/05 3:00",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Sol_Aizawa something like result = has_license and has_insurance",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
