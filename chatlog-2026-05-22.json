@@ -2698,5 +2698,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Them beeps scary",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911259",
+    "type": "public",
+    "date": "22/05 9:09",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Pfp update",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7911260",
+    "type": "public",
+    "date": "22/05 9:09",
+    "username": "Mr White wolf",
+    "userId": "37102",
+    "userClasses": "username user ",
+    "message": "I'm new btw as a Furry [smile]",
+    "msgClasses": "chat_message "
   }
 ]
