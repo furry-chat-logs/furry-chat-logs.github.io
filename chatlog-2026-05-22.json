@@ -1758,5 +1758,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36863_a94c1f9533dd.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911165",
+    "type": "public",
+    "date": "22/05 7:40",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "why does it have to be this difficult",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
