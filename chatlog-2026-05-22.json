@@ -9408,5 +9408,15 @@
     "userClasses": "username user ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY3Fybmt0cWhyN3pjNWlpeGl1aTdjbXgwcHJscGE4cTVhZ3QycndtayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CqKBFGoYDT8hK7X1X1/giphy.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911932",
+    "type": "public",
+    "date": "22/05 14:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Danger passed",
+    "msgClasses": "chat_message bneon14"
   }
 ]
