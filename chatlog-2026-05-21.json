@@ -20616,5 +20616,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM3FqOXViZzc3YjlqMWFoN2xpM3BjZDBsN3B2ZDJ2ZGE5NW1wMDI5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6rF3FUAmJEQpvUJyXP/giphy.gif]",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7910546",
+    "type": "public",
+    "date": "21/05 20:57",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "ok so main has been over ran with runer and issa",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7910547",
+    "type": "public",
+    "date": "21/05 20:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdXdveDVsMnFrenNyYWMyOHJ2cHNwanY2ZTM3czljMXZtbzRzYjJmYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Bzk1fiaoVi1QPuWvYQ/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
