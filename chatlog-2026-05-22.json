@@ -14802,5 +14802,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Miss Kit bruh",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7912473",
+    "type": "public",
+    "date": "22/05 16:08",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "Don't bruh me",
+    "msgClasses": "chat_message bneon4"
   }
 ]
