@@ -21946,5 +21946,55 @@
     "userClasses": "username bneon18 ",
     "message": "Porphyrophobia [cry] ..",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910682",
+    "type": "public",
+    "date": "21/05 22:03",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Paimon is from Genshin",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7910683",
+    "type": "public",
+    "date": "21/05 22:03",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Fuckass emergency food",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7910684",
+    "type": "public",
+    "date": "21/05 22:03",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Miss Velvette .",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7910685",
+    "type": "public",
+    "date": "21/05 22:03",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Paimon sandwich",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7910686",
+    "type": "public",
+    "date": "21/05 22:03",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Your words not mine",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
