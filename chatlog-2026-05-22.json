@@ -17302,5 +17302,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_121acac915b4.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912723",
+    "type": "public",
+    "date": "22/05 17:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912724",
+    "type": "public",
+    "date": "22/05 17:21",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Hi..Chat....",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
