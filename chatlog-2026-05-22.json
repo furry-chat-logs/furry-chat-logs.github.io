@@ -1228,5 +1228,25 @@
     "userClasses": "username user ",
     "message": "guh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911112",
+    "type": "public",
+    "date": "22/05 7:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_a8ecb82348ae.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911113",
+    "type": "public",
+    "date": "22/05 7:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Good morning guys",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
