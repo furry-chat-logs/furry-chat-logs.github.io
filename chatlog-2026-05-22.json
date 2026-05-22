@@ -1938,5 +1938,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "help",
     "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911183",
+    "type": "public",
+    "date": "22/05 8:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_e2d7cfa3cc32.png]",
+    "msgClasses": "chat_message "
   }
 ]
