@@ -20386,5 +20386,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "i remember when i put shaders on my school mc account :>",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7910523",
+    "type": "public",
+    "date": "21/05 20:26",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_3245a7f69042.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910524",
+    "type": "public",
+    "date": "21/05 20:26",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Eee ur",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
