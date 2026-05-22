@@ -5578,5 +5578,65 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9738_4325be4bf7c1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911547",
+    "type": "public",
+    "date": "22/05 12:31",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "🤔🤔🤔",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7911548",
+    "type": "public",
+    "date": "22/05 12:31",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Sounds tuff lowkey",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7911549",
+    "type": "public",
+    "date": "22/05 12:31",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_408771f213b9.webp]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911550",
+    "type": "public",
+    "date": "22/05 12:31",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Miss Velvette ooo that's a cool design",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7911551",
+    "type": "public",
+    "date": "22/05 12:31",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Miss Velvette thats me btw",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7911552",
+    "type": "public",
+    "date": "22/05 12:31",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "The legs are what makes me think it",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
