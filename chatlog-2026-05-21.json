@@ -24406,5 +24406,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMmJxdmM0cDF3bWdmb25ncmVkc3FqNG14aWhsYjZ5ZG9tdTF1eTY0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SBAToc4g0h89W/giphy.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910932",
+    "type": "public",
+    "date": "21/05 22:55",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMTk4eWh1YzNsZ2x5eHR0bHJ6eWJicjluMHN0c3NmOXBzN2J6OWFrYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3aF24scWoIADu/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
   }
 ]
