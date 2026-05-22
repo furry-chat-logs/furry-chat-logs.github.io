@@ -9478,5 +9478,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Not like I could get injured or ACTUALLY hurt",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911939",
+    "type": "public",
+    "date": "22/05 14:50",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Mhm",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7911940",
+    "type": "public",
+    "date": "22/05 14:50",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hi Numm Bug",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911941",
+    "type": "public",
+    "date": "22/05 14:50",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "SoraTheMikuFan Hii",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7911942",
+    "type": "public",
+    "date": "22/05 14:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_c7002f339ee8.png]",
+    "msgClasses": "chat_message "
   }
 ]
