@@ -15492,5 +15492,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Camsp",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7912542",
+    "type": "public",
+    "date": "22/05 16:28",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bye",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
