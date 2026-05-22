@@ -7968,5 +7968,15 @@
     "userClasses": "username bneon28 bnfont1",
     "message": "Yes you do actually they're really fun",
     "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7911788",
+    "type": "public",
+    "date": "22/05 13:54",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODF6NDZpeHBwYjQ5cHN5andwamtpcWw5OGwwNHN0MmZudHB1emV5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L5lNoqYTiDdxBNtXaG/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
