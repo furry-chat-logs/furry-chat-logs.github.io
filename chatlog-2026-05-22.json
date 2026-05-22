@@ -19552,5 +19552,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "hi :33 22/05 23:55 hello :>",
     "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7912949",
+    "type": "public",
+    "date": "22/05 17:56",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "brb",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
