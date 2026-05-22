@@ -16172,5 +16172,15 @@
     "userClasses": "username bcolor1 bnfont15",
     "message": "Deimos lol",
     "msgClasses": "chat_message bgrad39  bfont1"
+  },
+  {
+    "id": "7912610",
+    "type": "public",
+    "date": "22/05 17:00",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[moai]",
+    "msgClasses": "chat_message ital"
   }
 ]
