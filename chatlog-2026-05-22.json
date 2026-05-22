@@ -13338,5 +13338,25 @@
     "userClasses": "username user ",
     "message": "my papa wanted a 3some",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912326",
+    "type": "public",
+    "date": "22/05 15:34",
+    "username": "hunkydihlord",
+    "userId": "37323",
+    "userClasses": "username user ",
+    "message": "yeah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912327",
+    "type": "public",
+    "date": "22/05 15:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Yapping like a sims character",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
