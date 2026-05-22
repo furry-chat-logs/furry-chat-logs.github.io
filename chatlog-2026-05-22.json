@@ -7988,5 +7988,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "GARY. [angry]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911790",
+    "type": "public",
+    "date": "22/05 13:55",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODF6NDZpeHBwYjQ5cHN5andwamtpcWw5OGwwNHN0MmZudHB1emV5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jIV1sF2ONg46I/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
