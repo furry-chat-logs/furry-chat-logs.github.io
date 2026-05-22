@@ -19502,5 +19502,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I hope you get chased by a sloth bear",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912944",
+    "type": "public",
+    "date": "22/05 17:54",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😭",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7912945",
+    "type": "public",
+    "date": "22/05 17:54",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "lowkey half asleep rn",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
