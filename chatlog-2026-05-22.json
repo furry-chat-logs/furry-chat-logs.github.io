@@ -12478,5 +12478,15 @@
     "userClasses": "username user ",
     "message": "its tuff",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912240",
+    "type": "public",
+    "date": "22/05 15:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Srry I just had to-",
+    "msgClasses": "chat_message bneon14"
   }
 ]
