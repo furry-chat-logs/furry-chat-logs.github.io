@@ -9698,5 +9698,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "*het = get",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911961",
+    "type": "public",
+    "date": "22/05 14:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Like fu mom, thats on me than",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911962",
+    "type": "public",
+    "date": "22/05 14:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Not on you",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
