@@ -15062,5 +15062,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY3F0azh6Zzdybm5kajF5dzc3MzBwOXBkYjd5NmE1M3ZrcHM5djNseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0TOla5a9qG5OpeUxN/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912499",
+    "type": "public",
+    "date": "22/05 16:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Welp time to change my appearance",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
