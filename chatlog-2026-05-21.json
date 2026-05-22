@@ -20166,5 +20166,15 @@
     "userClasses": "username user ",
     "message": "Hi issa",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910501",
+    "type": "public",
+    "date": "21/05 19:49",
+    "username": "Mr White wolf",
+    "userId": "37102",
+    "userClasses": "username user ",
+    "message": "Anyone here",
+    "msgClasses": "chat_message "
   }
 ]
