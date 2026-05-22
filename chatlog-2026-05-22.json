@@ -158,5 +158,35 @@
     "userClasses": "username user ",
     "message": "fuh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911005",
+    "type": "public",
+    "date": "22/05 0:33",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "exactly",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911006",
+    "type": "public",
+    "date": "22/05 0:34",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "lmao...that's a funny joke",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7911007",
+    "type": "public",
+    "date": "22/05 0:34",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ";-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
