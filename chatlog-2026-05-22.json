@@ -1218,5 +1218,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Medokin k",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911111",
+    "type": "public",
+    "date": "22/05 6:28",
+    "username": "vexx",
+    "userId": "37284",
+    "userClasses": "username user ",
+    "message": "guh",
+    "msgClasses": "chat_message "
   }
 ]
