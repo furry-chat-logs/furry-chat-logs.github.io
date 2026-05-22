@@ -308,5 +308,45 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "candi_x3 no one",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7911020",
+    "type": "public",
+    "date": "22/05 0:44",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "We're all kids here mate",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7911021",
+    "type": "public",
+    "date": "22/05 0:45",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "KingCorgz yeah..",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911022",
+    "type": "public",
+    "date": "22/05 0:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Huh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911023",
+    "type": "public",
+    "date": "22/05 0:45",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "paimon at least I got to leave some chaos",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
