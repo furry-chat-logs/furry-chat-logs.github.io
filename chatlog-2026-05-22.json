@@ -16132,5 +16132,45 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Death Corridor",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7912606",
+    "type": "public",
+    "date": "22/05 16:59",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbmI5cTJhcGdiaDdmejMwODdtejYwNmc4azJwczExeGRxZmZjZmkydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkbikSLpUUWQcxxi6f/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912607",
+    "type": "public",
+    "date": "22/05 16:59",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_1c6585645c85.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912608",
+    "type": "public",
+    "date": "22/05 16:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_61495164f007.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912609",
+    "type": "public",
+    "date": "22/05 16:59",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "Deimos lol",
+    "msgClasses": "chat_message bgrad39  bfont1"
   }
 ]
