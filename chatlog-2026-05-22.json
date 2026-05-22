@@ -7078,5 +7078,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "She's gorgeous.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911697",
+    "type": "public",
+    "date": "22/05 13:26",
+    "username": "prEtzeL",
+    "userId": "34488",
+    "userClasses": "username bneon28 bnfont3",
+    "message": "omg i am not hush that",
+    "msgClasses": "chat_message bneon27  bfont3"
+  },
+  {
+    "id": "7911698",
+    "type": "public",
+    "date": "22/05 13:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcndra3hwYTJ3ZGM2b3BpOWdjZHVhMTZ4enBpdXhvdGJtMzB3ZzdpOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/14vxcRZWhmBWJq/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911699",
+    "type": "public",
+    "date": "22/05 13:27",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWd3enQyeHo5dnY4bGZwN2IwZXJlOXprZmhnbWRqczVzN2d5c3QydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vd4OR06izYGzoF24yu/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
