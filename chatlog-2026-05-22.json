@@ -17322,5 +17322,85 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Hi..Chat....",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7912725",
+    "type": "public",
+    "date": "22/05 17:21",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "Miss Kit wyd when you gotta save Invincible VS",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912726",
+    "type": "public",
+    "date": "22/05 17:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "That edit is me and Issa trust [heu]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912727",
+    "type": "public",
+    "date": "22/05 17:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912728",
+    "type": "public",
+    "date": "22/05 17:22",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Forgot my fucking phone was on auto rotate",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7912729",
+    "type": "public",
+    "date": "22/05 17:22",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912730",
+    "type": "public",
+    "date": "22/05 17:22",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Mf doing barrel rolls",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7912731",
+    "type": "public",
+    "date": "22/05 17:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "My name is Shallmar",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912732",
+    "type": "public",
+    "date": "22/05 17:22",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "shamar",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
