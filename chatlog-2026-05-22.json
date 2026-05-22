@@ -15922,5 +15922,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_1deb31ceefdc.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912585",
+    "type": "public",
+    "date": "22/05 16:51",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcWg1NnN2Znh2bDhjMDBvOGg4bDdxbTVnaDNzeTdkdHRxbThiMmFudyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCO5WNzFmlc0vjK8cA/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912586",
+    "type": "public",
+    "date": "22/05 16:51",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "Porfirofobia what.is.this",
+    "msgClasses": "chat_message bgrad39  bfont1"
   }
 ]
