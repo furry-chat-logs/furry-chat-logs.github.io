@@ -15682,5 +15682,25 @@
     "userClasses": "username bneon28 bnfont1",
     "message": "caves",
     "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912561",
+    "type": "public",
+    "date": "22/05 16:41",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "Porfirofobia lmao what a hell",
+    "msgClasses": "chat_message bgrad39  bfont1"
+  },
+  {
+    "id": "7912562",
+    "type": "public",
+    "date": "22/05 16:41",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHU5c2I2eHgwNGI0cWozdDFhM294OW5vb3ZzcGRsYnExYTd3M3lxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vf1tYYgu9dgvKleRPb/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
