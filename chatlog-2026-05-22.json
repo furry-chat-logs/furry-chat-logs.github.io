@@ -4158,5 +4158,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "pls...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911405",
+    "type": "public",
+    "date": "22/05 11:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Aw poo",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911406",
+    "type": "public",
+    "date": "22/05 11:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "💩",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
