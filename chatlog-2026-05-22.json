@@ -19892,5 +19892,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Joe Swanson can get it trust",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912983",
+    "type": "public",
+    "date": "22/05 18:10",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Yowai mo",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
