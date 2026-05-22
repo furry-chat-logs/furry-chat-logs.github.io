@@ -9668,5 +9668,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yea it sounded more like fun than dangerous",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911958",
+    "type": "public",
+    "date": "22/05 14:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Like I know there are a lot of incidents happening near,and where the happen so happens to be next to my route",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911959",
+    "type": "public",
+    "date": "22/05 14:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "But Oh no too dangerous i am too afraid youll het hit",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911960",
+    "type": "public",
+    "date": "22/05 14:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*het = get",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
