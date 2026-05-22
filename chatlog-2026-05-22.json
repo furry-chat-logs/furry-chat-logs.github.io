@@ -12418,5 +12418,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "hunkydihlord Can you say that again please I'm lowkey a visual learner",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7912234",
+    "type": "public",
+    "date": "22/05 15:26",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "did it act odd?",
+    "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7912235",
+    "type": "public",
+    "date": "22/05 15:26",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "MysteryMoonQuotev n-no wait",
+    "msgClasses": "chat_message bneon14"
   }
 ]
