@@ -7598,5 +7598,25 @@
     "userClasses": "username bneon18 ",
     "message": "It is ALWAYS peak. [heu]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911751",
+    "type": "public",
+    "date": "22/05 13:45",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "I love his art, its silly",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7911752",
+    "type": "public",
+    "date": "22/05 13:45",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "Hai",
+    "msgClasses": "chat_message bneon4"
   }
 ]
