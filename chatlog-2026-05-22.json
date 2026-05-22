@@ -2118,5 +2118,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I know Moonwatcher does",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911201",
+    "type": "public",
+    "date": "22/05 8:16",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_5ac403b640a9.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911202",
+    "type": "public",
+    "date": "22/05 8:16",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "you gotta hit em with the *cat purring noises*",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
   }
 ]
