@@ -8418,5 +8418,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Comet your cool now",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7911833",
+    "type": "public",
+    "date": "22/05 14:27",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Comet yk ball",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7911834",
+    "type": "public",
+    "date": "22/05 14:28",
+    "username": "Comet",
+    "userId": "33535",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "yaaaaaaa",
+    "msgClasses": "chat_message bneon30 bold bfont7"
   }
 ]
