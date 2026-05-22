@@ -18782,5 +18782,25 @@
     "userClasses": "username bneon28 bnfont1",
     "message": "yeah my papa",
     "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912872",
+    "type": "public",
+    "date": "22/05 17:42",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Yo papa so bald swat uses his head as a flashbang",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7912873",
+    "type": "public",
+    "date": "22/05 17:42",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😭😭😭",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
