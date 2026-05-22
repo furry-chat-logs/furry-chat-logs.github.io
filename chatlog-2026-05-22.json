@@ -15502,5 +15502,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bye",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7912543",
+    "type": "public",
+    "date": "22/05 16:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "SilverXD ?",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
