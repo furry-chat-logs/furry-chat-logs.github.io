@@ -4368,5 +4368,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_64ac2f7948a8.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911426",
+    "type": "public",
+    "date": "22/05 11:27",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWY3azJzenM1NHc3cXBxa2gxcDM5dm5jd2FxZ2FueGVraXF3eWowOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjrcSkTf3VDqrg5nDz/giphy.gif]",
+    "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7911427",
+    "type": "public",
+    "date": "22/05 11:27",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "woooo!",
+    "msgClasses": "chat_message bgrad39"
   }
 ]
