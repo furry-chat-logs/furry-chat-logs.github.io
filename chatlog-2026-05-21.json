@@ -24716,5 +24716,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaTNhcHRucWFvYTBmcGN2dmk3djdkMjJxZjAxbGdpNWh6dDdsM2VrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/emrEMa9i4QAgf980ys/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7910963",
+    "type": "public",
+    "date": "21/05 23:45",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Hey",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910964",
+    "type": "public",
+    "date": "21/05 23:45",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "I got monies",
+    "msgClasses": "chat_message "
   }
 ]
