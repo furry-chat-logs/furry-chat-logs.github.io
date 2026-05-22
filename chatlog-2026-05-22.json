@@ -6518,5 +6518,15 @@
     "userClasses": "username bneon18 ",
     "message": "Back.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911641",
+    "type": "public",
+    "date": "22/05 12:59",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "haii!",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
