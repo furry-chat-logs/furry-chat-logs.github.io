@@ -6378,5 +6378,35 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Chat.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911627",
+    "type": "public",
+    "date": "22/05 12:55",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "This is really me.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911628",
+    "type": "public",
+    "date": "22/05 12:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZzg0azMya2dxZHR2cTZzZzMwMzdsNjFhMjd5cTdrcHBxMHFyaGVjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Yt1UXUF7e7hAk61h1B/giphy.gif]",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911629",
+    "type": "public",
+    "date": "22/05 12:56",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ":0",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
