@@ -23926,5 +23926,25 @@
     "userClasses": "username bgrad40 ",
     "message": "i got u something",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7910884",
+    "type": "public",
+    "date": "21/05 22:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_03b27d0cdeab.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910885",
+    "type": "public",
+    "date": "21/05 22:38",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "paimon no [troll]",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
