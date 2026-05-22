@@ -9368,5 +9368,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "New Kid gets shot",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7911928",
+    "type": "public",
+    "date": "22/05 14:46",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Medokin laughs at you",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
