@@ -2358,5 +2358,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Fit :P",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7911225",
+    "type": "public",
+    "date": "22/05 8:40",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "(Ignore the hat)",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
