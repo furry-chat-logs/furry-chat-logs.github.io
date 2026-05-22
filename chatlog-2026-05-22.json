@@ -6438,5 +6438,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "I can look like my pfp tho.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911633",
+    "type": "public",
+    "date": "22/05 12:56",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I'm not from here.",
+    "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911634",
+    "type": "public",
+    "date": "22/05 12:56",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ":0",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
