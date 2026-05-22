@@ -1258,5 +1258,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "It's like still kinda dark out lol",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911115",
+    "type": "public",
+    "date": "22/05 7:27",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Good morning",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
