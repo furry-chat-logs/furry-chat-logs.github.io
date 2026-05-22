@@ -20176,5 +20176,25 @@
     "userClasses": "username user ",
     "message": "Anyone here",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910502",
+    "type": "public",
+    "date": "21/05 19:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910503",
+    "type": "public",
+    "date": "21/05 19:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "We're all dead gng",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
