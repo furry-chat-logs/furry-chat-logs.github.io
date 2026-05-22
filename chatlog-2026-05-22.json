@@ -248,5 +248,25 @@
     "userClasses": "username bgrad40 ",
     "message": "..",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911014",
+    "type": "public",
+    "date": "22/05 0:38",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "all that time",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911015",
+    "type": "public",
+    "date": "22/05 0:38",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "wasted..",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
