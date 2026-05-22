@@ -8858,5 +8858,55 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "[sob]",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7911877",
+    "type": "public",
+    "date": "22/05 14:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWd3enQyeHo5dnY4bGZwN2IwZXJlOXprZmhnbWRqczVzN2d5c3QydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3MtlDYfMTVl9fFVzA3/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911878",
+    "type": "public",
+    "date": "22/05 14:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa how still lightttt",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911879",
+    "type": "public",
+    "date": "22/05 14:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Jumping over random high points in the road",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911880",
+    "type": "public",
+    "date": "22/05 14:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's super dark here",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911881",
+    "type": "public",
+    "date": "22/05 14:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SoraTheMikuFan it is 21:37 here",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
