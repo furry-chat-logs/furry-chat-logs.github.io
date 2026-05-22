@@ -4608,5 +4608,35 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbm1kN29xbnIwM3o2bXhoMm0wM2czenliYXF5bGRmOTlncmw1aGFvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/avc09zuOkpWQ5QG4XL/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911450",
+    "type": "public",
+    "date": "22/05 11:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Why are you so big? You just LOVE consuming everything you see don't you? How about you consume a SALAD. [totalangry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911451",
+    "type": "public",
+    "date": "22/05 11:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaHVnZGMyZDM3d3ppOXpiYnZ4cmF5cjcxYjh5aDZjaHNlMmY4NmRpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m8fyrgnXwXV5EHw6Lm/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911452",
+    "type": "public",
+    "date": "22/05 11:40",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I ate those food.",
+    "msgClasses": "chat_message ital"
   }
 ]
