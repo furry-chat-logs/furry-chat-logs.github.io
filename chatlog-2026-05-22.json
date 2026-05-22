@@ -13388,5 +13388,15 @@
     "userClasses": "username user ",
     "message": "shutup",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912331",
+    "type": "public",
+    "date": "22/05 15:34",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_ed21b2cf9556.png]",
+    "msgClasses": "chat_message "
   }
 ]
