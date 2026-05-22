@@ -1618,5 +1618,15 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "That's really good, i'm happy for you",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7911151",
+    "type": "public",
+    "date": "22/05 7:38",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Thanks!",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
