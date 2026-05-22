@@ -8918,5 +8918,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Sol_Aizawa ugh I'm so envious rn",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911883",
+    "type": "public",
+    "date": "22/05 14:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ur having lots of fun",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911884",
+    "type": "public",
+    "date": "22/05 14:37",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa same",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
