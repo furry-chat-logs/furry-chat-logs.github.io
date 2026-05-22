@@ -7208,5 +7208,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "That's a bit much, gng",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911710",
+    "type": "public",
+    "date": "22/05 13:29",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "0G Stupendous Man Its from my favorite GD extreme demon dw",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7911711",
+    "type": "public",
+    "date": "22/05 13:30",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Zeen yes",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
