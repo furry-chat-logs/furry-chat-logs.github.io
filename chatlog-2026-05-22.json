@@ -548,5 +548,25 @@
     "userClasses": "username bneon28 bnfont1",
     "message": "your mother",
     "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7911044",
+    "type": "public",
+    "date": "22/05 2:24",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "tf did my mom do",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911045",
+    "type": "public",
+    "date": "22/05 2:24",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "well",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
