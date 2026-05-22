@@ -3058,5 +3058,45 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": ":>",
     "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911295",
+    "type": "public",
+    "date": "22/05 9:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Fatespeaker exactly",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7911296",
+    "type": "public",
+    "date": "22/05 9:19",
+    "username": "Niko_The_Bee",
+    "userId": "35354",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeThuNjduM2llZ3E1bW53cHBqN2xteHZhaTUyenpza2Nvb2t6cHVmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4QFBnpZvWOtJ4rlcxA/giphy.gif]",
+    "msgClasses": "chat_message bgrad3 heavyital bfont10"
+  },
+  {
+    "id": "7911297",
+    "type": "public",
+    "date": "22/05 9:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_89f48d17e3e1.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911298",
+    "type": "public",
+    "date": "22/05 9:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Niko_The_Bee *burns spider*",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
