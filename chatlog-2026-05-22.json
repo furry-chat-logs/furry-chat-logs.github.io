@@ -5918,5 +5918,55 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "STOP",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7911581",
+    "type": "public",
+    "date": "22/05 12:38",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "<\\3",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7911582",
+    "type": "public",
+    "date": "22/05 12:38",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "It's not pretty.",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911583",
+    "type": "public",
+    "date": "22/05 12:39",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_7adea094f065.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911584",
+    "type": "public",
+    "date": "22/05 12:39",
+    "username": "0 Super Sonico 0",
+    "userId": "19106",
+    "userClasses": "username bneon23 bnfont1",
+    "message": "and then its worser for the k-pop girls, where they flinch at nothing btw",
+    "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7911585",
+    "type": "public",
+    "date": "22/05 12:39",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "0 Super Sonico 0 Porphyrophobia",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
