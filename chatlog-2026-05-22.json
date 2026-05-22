@@ -5058,5 +5058,45 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Diddle the boo.",
     "msgClasses": "chat_message bgrad12  bfont11"
+  },
+  {
+    "id": "7911495",
+    "type": "public",
+    "date": "22/05 12:24",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Should be sending...",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911496",
+    "type": "public",
+    "date": "22/05 12:24",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_feb6f711b664.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911497",
+    "type": "public",
+    "date": "22/05 12:24",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "0G Stupendous Man",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7911498",
+    "type": "public",
+    "date": "22/05 12:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_49e524f0418d.png]",
+    "msgClasses": "chat_message "
   }
 ]
