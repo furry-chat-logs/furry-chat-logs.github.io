@@ -9378,5 +9378,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Medokin laughs at you",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911929",
+    "type": "public",
+    "date": "22/05 14:46",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Noooo [skull]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7911930",
+    "type": "public",
+    "date": "22/05 14:46",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Im back",
+    "msgClasses": "chat_message "
   }
 ]
