@@ -23726,5 +23726,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "You da goat ❤️‍🩹",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910864",
+    "type": "public",
+    "date": "21/05 22:34",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[sheep]",
+    "msgClasses": "chat_message "
   }
 ]
