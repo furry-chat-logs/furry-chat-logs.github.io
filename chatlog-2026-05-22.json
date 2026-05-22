@@ -1628,5 +1628,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Thanks!",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911152",
+    "type": "public",
+    "date": "22/05 7:38",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Anything you're proud of this year?",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911153",
+    "type": "public",
+    "date": "22/05 7:38",
+    "username": "Sylver",
+    "userId": "34186",
+    "userClasses": "username bneon30 bnfont15",
+    "message": "Your welcome </3",
+    "msgClasses": "chat_message bgrad21 ital bfont8"
   }
 ]
