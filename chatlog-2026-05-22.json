@@ -2058,5 +2058,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Oh wait that's Clearsight",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911195",
+    "type": "public",
+    "date": "22/05 8:14",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "lol",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911196",
+    "type": "public",
+    "date": "22/05 8:14",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_42c71d339562.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
