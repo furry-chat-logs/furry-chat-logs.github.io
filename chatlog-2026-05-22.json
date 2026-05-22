@@ -16822,5 +16822,75 @@
     "userClasses": "username bgrad5 ",
     "message": "Aura",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7912675",
+    "type": "public",
+    "date": "22/05 17:13",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "NOT aura",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912676",
+    "type": "public",
+    "date": "22/05 17:14",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Kit",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7912677",
+    "type": "public",
+    "date": "22/05 17:14",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "what would be aura is you getting on tn and playing with me against my brother",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912678",
+    "type": "public",
+    "date": "22/05 17:14",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad5 ",
+    "message": "I have time rn i think",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7912679",
+    "type": "public",
+    "date": "22/05 17:14",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_367adbd97e4e.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912680",
+    "type": "public",
+    "date": "22/05 17:14",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_1b82eaeedf87.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912681",
+    "type": "public",
+    "date": "22/05 17:14",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "Miss Kit until when",
+    "msgClasses": "chat_message bneon28 bold bfont1"
   }
 ]
