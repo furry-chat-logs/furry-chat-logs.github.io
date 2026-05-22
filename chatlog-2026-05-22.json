@@ -1978,5 +1978,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user13262_63df74b62205.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911187",
+    "type": "public",
+    "date": "22/05 8:08",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Such a talented duo",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
