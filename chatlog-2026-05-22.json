@@ -1768,5 +1768,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "why does it have to be this difficult",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911166",
+    "type": "public",
+    "date": "22/05 7:53",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_e709987efe3e.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
