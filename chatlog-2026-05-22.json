@@ -14872,5 +14872,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_5b198a5de51c.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912480",
+    "type": "public",
+    "date": "22/05 16:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "My gender is 15",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
