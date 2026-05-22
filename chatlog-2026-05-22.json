@@ -1708,5 +1708,25 @@
     "userClasses": "username bneon30 bnfont15",
     "message": "Lmao",
     "msgClasses": "chat_message bgrad21 ital bfont8"
+  },
+  {
+    "id": "7911160",
+    "type": "public",
+    "date": "22/05 7:39",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Oh woe",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911161",
+    "type": "public",
+    "date": "22/05 7:39",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Good job!",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
