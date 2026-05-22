@@ -2558,5 +2558,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I was also the kid who always lost their eraser if it were mine or borrowed...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911245",
+    "type": "public",
+    "date": "22/05 9:05",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Miss Velvette I chewed on laptop chargers put keys in wall sockets and dropped coins on outlet prongs. There is a reason I'm called sparky as a nickname. Hell I was scared of the microwave running after zero seconds as a 7 year old 💀",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7911246",
+    "type": "public",
+    "date": "22/05 9:05",
+    "username": "Mr White wolf",
+    "userId": "37102",
+    "userClasses": "username user ",
+    "message": "Hi",
+    "msgClasses": "chat_message "
   }
 ]
