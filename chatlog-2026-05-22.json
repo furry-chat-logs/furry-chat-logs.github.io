@@ -8368,5 +8368,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I don't know the characters",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911828",
+    "type": "public",
+    "date": "22/05 14:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Comet chair :p",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911829",
+    "type": "public",
+    "date": "22/05 14:27",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "SoraTheMikuFan youve never watched a alien vs predator movie?",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7911830",
+    "type": "public",
+    "date": "22/05 14:27",
+    "username": "Comet",
+    "userId": "33535",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "SoraTheMikuFan chair :b",
+    "msgClasses": "chat_message bneon30 bold bfont7"
   }
 ]
