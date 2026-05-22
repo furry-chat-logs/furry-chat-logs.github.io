@@ -15612,5 +15612,25 @@
     "userClasses": "username bneon28 bnfont1",
     "message": "so we ARE actively decaying",
     "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912554",
+    "type": "public",
+    "date": "22/05 16:40",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "can we go back to homestuck gifs",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7912555",
+    "type": "public",
+    "date": "22/05 16:40",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Can we stop",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
