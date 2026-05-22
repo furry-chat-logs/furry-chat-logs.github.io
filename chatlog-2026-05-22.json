@@ -2218,5 +2218,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "All My sonas bugs :3",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7911211",
+    "type": "public",
+    "date": "22/05 8:20",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Aaaaaa",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
