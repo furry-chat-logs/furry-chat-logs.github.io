@@ -20286,5 +20286,15 @@
     "userClasses": "username user ",
     "message": "Issa that is chat",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7910513",
+    "type": "public",
+    "date": "21/05 20:04",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Hey",
+    "msgClasses": "chat_message "
   }
 ]
