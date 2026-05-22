@@ -2228,5 +2228,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Aaaaaa",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911212",
+    "type": "public",
+    "date": "22/05 8:21",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_d5f33d61da80.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911213",
+    "type": "public",
+    "date": "22/05 8:21",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "I love democracy...",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
