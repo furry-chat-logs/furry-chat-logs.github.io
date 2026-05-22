@@ -9948,5 +9948,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Tadc reference",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911986",
+    "type": "public",
+    "date": "22/05 14:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911987",
+    "type": "public",
+    "date": "22/05 14:59",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "SoraTheMikuFan let's throw a fffffreaking party",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
