@@ -13976,5 +13976,23 @@
     "userClasses": "username user ",
     "message": "we wont die",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912390",
+    "type": "public",
+    "date": "22/05 15:38",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "hunkydihlord dont talk to me you fugly ass pedo",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7912391",
+    "type": "system",
+    "date": "22/05 15:38",
+    "username": "System",
+    "userId": null,
+    "message": "hunkydihlord has been removed from chat"
   }
 ]
