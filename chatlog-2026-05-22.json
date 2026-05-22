@@ -13548,5 +13548,25 @@
     "userClasses": "username user ",
     "message": "what Porphyrophobia",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912347",
+    "type": "public",
+    "date": "22/05 15:35",
+    "username": "hunkydihlord",
+    "userId": "37323",
+    "userClasses": "username user ",
+    "message": "shutup paki",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912348",
+    "type": "public",
+    "date": "22/05 15:35",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I use a bat and beat on them like a piñata",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
