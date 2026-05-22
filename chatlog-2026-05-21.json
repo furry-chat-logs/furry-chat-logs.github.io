@@ -24166,5 +24166,55 @@
     "userClasses": "username bgrad15 ",
     "message": "New Kid Yay!!! I love when you do that!!",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7910908",
+    "type": "public",
+    "date": "21/05 22:48",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo yayayaya",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910909",
+    "type": "public",
+    "date": "21/05 22:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "🫩 Why do I keep describing things as \"Dog shit\"",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910910",
+    "type": "public",
+    "date": "21/05 22:48",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmczNxeDJ0MzVmc251Ym1kdGRwMnFuYWlqd2k1azIzNHFmdmFxYXAzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gyoWnNObfcT6sELyAA/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7910911",
+    "type": "public",
+    "date": "21/05 22:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Well, I have to if I want to rant about something that genuinely gives that vibe. [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7910912",
+    "type": "public",
+    "date": "21/05 22:48",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Porphyrophobia cause he is dog shit",
+    "msgClasses": "chat_message "
   }
 ]
