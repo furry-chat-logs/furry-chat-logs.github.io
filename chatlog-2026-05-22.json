@@ -128,5 +128,35 @@
     "userClasses": "username user ",
     "message": "i will buy you an new compiuter",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911002",
+    "type": "public",
+    "date": "22/05 0:33",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "oof",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911003",
+    "type": "public",
+    "date": "22/05 0:33",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "no u wont",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911004",
+    "type": "public",
+    "date": "22/05 0:33",
+    "username": "candi_x3",
+    "userId": "37320",
+    "userClasses": "username user ",
+    "message": "fuh",
+    "msgClasses": "chat_message "
   }
 ]
