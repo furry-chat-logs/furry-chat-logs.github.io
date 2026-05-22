@@ -8478,5 +8478,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I killed chat(╥﹏╥)",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911839",
+    "type": "public",
+    "date": "22/05 14:32",
+    "username": "Taffy",
+    "userId": "34186",
+    "userClasses": "username bneon4 bnfont15",
+    "message": "L",
+    "msgClasses": "chat_message bneon3 ital bfont8"
+  },
+  {
+    "id": "7911840",
+    "type": "public",
+    "date": "22/05 14:32",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan that has a erectons",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
