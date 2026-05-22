@@ -2738,5 +2738,35 @@
     "userClasses": "username user ",
     "message": "It's fun",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911263",
+    "type": "public",
+    "date": "22/05 9:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Deimos I see that character everywhere",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911264",
+    "type": "public",
+    "date": "22/05 9:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yet I don't know who it is",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911265",
+    "type": "public",
+    "date": "22/05 9:10",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "New Kid Niko from OneShot",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
