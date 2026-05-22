@@ -1868,5 +1868,25 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "noooo",
     "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911176",
+    "type": "public",
+    "date": "22/05 7:55",
+    "username": "Fatespeaker",
+    "userId": "13262",
+    "userClasses": "username bcolor19 bnfont7",
+    "message": "I'm out of school for the summer hehe",
+    "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911177",
+    "type": "public",
+    "date": "22/05 7:55",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Sol_Aizawa aw..",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
