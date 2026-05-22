@@ -2498,5 +2498,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Shit was delixy",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911239",
+    "type": "public",
+    "date": "22/05 9:03",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "*delicious",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911240",
+    "type": "public",
+    "date": "22/05 9:03",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "I mean I ate coins and didn't get sick",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
