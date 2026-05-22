@@ -16052,5 +16052,25 @@
     "userClasses": "username bneon23 bnfont1",
     "message": "[totallove]",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7912598",
+    "type": "public",
+    "date": "22/05 16:54",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I need to watch this.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912599",
+    "type": "public",
+    "date": "22/05 16:54",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbzAzenVzZGs1enJyMnB1NmhmbDd1dmMyNHd0MmJhNzY0MXEzczhhZSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Ch8MNbthdNdEf0eNKv/giphy.gif]",
+    "msgClasses": "chat_message bgrad39  bfont1"
   }
 ]
