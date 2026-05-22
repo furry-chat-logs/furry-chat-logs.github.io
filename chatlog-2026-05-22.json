@@ -4698,5 +4698,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "You're such a bad guinea pig Issa, that's it I've had it with you, that does it, I'm done, that's the last straw eyesir",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7911459",
+    "type": "public",
+    "date": "22/05 11:44",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "do you feel yourself withering away",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7911460",
+    "type": "public",
+    "date": "22/05 11:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeGNia2poMms0OGluMnNzdHA3NDVyenI0dHRxamZhZWV4Z3MyaWN1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MXUXgMiF3Cn5iWRYpZ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
