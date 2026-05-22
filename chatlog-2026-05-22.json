@@ -2478,5 +2478,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "that was you?!",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7911237",
+    "type": "public",
+    "date": "22/05 9:03",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Yep",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
