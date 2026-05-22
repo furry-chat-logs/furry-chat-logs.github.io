@@ -14832,5 +14832,15 @@
     "userClasses": "username bgrad5 ",
     "message": "💔😭",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7912476",
+    "type": "public",
+    "date": "22/05 16:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "What I miss",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
