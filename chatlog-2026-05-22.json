@@ -2608,5 +2608,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I once left a plastic plate on the hob. it set on fire. And another time, I nearly introduced screwdriver to electrical socket. I was young when both things happened",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7911250",
+    "type": "public",
+    "date": "22/05 9:07",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_aea29c9edbb9.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911251",
+    "type": "public",
+    "date": "22/05 9:07",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I destroyed my dads laptop by unscrewing the whole thing than biting down on the screen...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
