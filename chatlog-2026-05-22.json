@@ -2598,5 +2598,15 @@
     "userClasses": "username user ",
     "message": "How r u",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911249",
+    "type": "public",
+    "date": "22/05 9:06",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I once left a plastic plate on the hob. it set on fire. And another time, I nearly introduced screwdriver to electrical socket. I was young when both things happened",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
