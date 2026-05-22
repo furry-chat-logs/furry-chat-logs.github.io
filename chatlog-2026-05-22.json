@@ -288,5 +288,25 @@
     "userClasses": "username user ",
     "message": "who can relate",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911018",
+    "type": "public",
+    "date": "22/05 0:44",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "paimon exactly",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7911019",
+    "type": "public",
+    "date": "22/05 0:44",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "candi_x3 no one",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
