@@ -2678,5 +2678,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I have nothing else noteworthy",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7911257",
+    "type": "public",
+    "date": "22/05 9:08",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "SilverXD valid as hell",
+    "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911258",
+    "type": "public",
+    "date": "22/05 9:08",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "Them beeps scary",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
