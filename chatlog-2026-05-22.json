@@ -2038,5 +2038,15 @@
     "userClasses": "username bcolor19 bnfont7",
     "message": "is that a fucking weiner",
     "msgClasses": "chat_message bneon20 heavyital bfont3"
+  },
+  {
+    "id": "7911193",
+    "type": "public",
+    "date": "22/05 8:13",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "You tell me, future teller",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
