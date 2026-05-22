@@ -68,5 +68,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Chat im a dumbass.....I threw my own VR controller at my PC..............KILLED THE FUCKING SCREEN.......",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7910996",
+    "type": "public",
+    "date": "22/05 0:23",
+    "username": "A_kind_furry",
+    "userId": "33043",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "ZephTheFloofBoi I need to see it 😭😭😭",
+    "msgClasses": "chat_message bneon3 boldital bfont12"
+  },
+  {
+    "id": "7910997",
+    "type": "public",
+    "date": "22/05 0:23",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "ZephTheFloofBoi ;-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
