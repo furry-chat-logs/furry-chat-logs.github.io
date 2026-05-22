@@ -16552,5 +16552,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a26d8b6863e2.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912648",
+    "type": "public",
+    "date": "22/05 17:10",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Zeen It's an illusion.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7912649",
+    "type": "public",
+    "date": "22/05 17:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_30442a4c1dce.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912650",
+    "type": "public",
+    "date": "22/05 17:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_4889f56ebacc.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
