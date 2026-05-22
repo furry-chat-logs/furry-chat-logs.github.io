@@ -12608,5 +12608,25 @@
     "userClasses": "username user ",
     "message": "just slit your wrists pussy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7912253",
+    "type": "public",
+    "date": "22/05 15:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Uh yk we don't see anything but 3*s right hunkydihlord ?",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7912254",
+    "type": "public",
+    "date": "22/05 15:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMjllczR1a3FvODFrcW4yaDg5b211a2J1Y2xkbzVpa2tneWt5eXd4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n4FCJYLldGPC95d4ku/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
