@@ -3448,5 +3448,35 @@
     "userClasses": "username bgrad7 ",
     "message": "\"you want to know what it's like if you met me in person, listen to these verses, this music's not just for people who sleep in the pews at they churches\"",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911334",
+    "type": "public",
+    "date": "22/05 9:35",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "..",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911335",
+    "type": "public",
+    "date": "22/05 9:35",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWd3enQyeHo5dnY4bGZwN2IwZXJlOXprZmhnbWRqczVzN2d5c3QydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3MtlDYfMTVl9fFVzA3/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7911336",
+    "type": "public",
+    "date": "22/05 9:35",
+    "username": "Miss Velvette",
+    "userId": "6405",
+    "userClasses": "username bgrad7 ",
+    "message": "paimon hai!",
+    "msgClasses": "chat_message bneon19 heavybold"
   }
 ]
