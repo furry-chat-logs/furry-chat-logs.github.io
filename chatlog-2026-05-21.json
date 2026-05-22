@@ -21076,5 +21076,35 @@
     "userClasses": "username bgrad15 ",
     "message": "Can i tell you whats happenening in a pm?",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7910593",
+    "type": "public",
+    "date": "21/05 21:33",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Buggo of course",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910594",
+    "type": "public",
+    "date": "21/05 21:33",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "^^",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7910595",
+    "type": "public",
+    "date": "21/05 21:33",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_aa508d592b1a.png]",
+    "msgClasses": "chat_message "
   }
 ]
