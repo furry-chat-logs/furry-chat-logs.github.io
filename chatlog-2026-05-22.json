@@ -9148,5 +9148,55 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Okay",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7911906",
+    "type": "public",
+    "date": "22/05 14:40",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_38ddda861f0f.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7911907",
+    "type": "public",
+    "date": "22/05 14:40",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "SoraTheMikuFan",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7911908",
+    "type": "public",
+    "date": "22/05 14:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's-a-me! Luigi",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911909",
+    "type": "public",
+    "date": "22/05 14:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "sinnercat_mondo hm?",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7911910",
+    "type": "public",
+    "date": "22/05 14:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Me is luigi?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
