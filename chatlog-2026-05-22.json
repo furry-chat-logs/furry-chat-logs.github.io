@@ -6458,5 +6458,35 @@
     "userClasses": "username bgrad40 ",
     "message": ":0",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911635",
+    "type": "public",
+    "date": "22/05 12:57",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "paimon heya you feeling any better?",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911636",
+    "type": "public",
+    "date": "22/05 12:57",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "yep",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7911637",
+    "type": "public",
+    "date": "22/05 12:57",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "kinda",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
