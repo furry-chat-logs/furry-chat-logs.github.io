@@ -2768,5 +2768,35 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "New Kid Niko from OneShot",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7911266",
+    "type": "public",
+    "date": "22/05 9:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Oh",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7911267",
+    "type": "public",
+    "date": "22/05 9:11",
+    "username": "Electric_sinner_wolf",
+    "userId": "26458",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Mr White wolf welcome",
+    "msgClasses": "chat_message bgrad32 heavyital bfont2"
+  },
+  {
+    "id": "7911268",
+    "type": "public",
+    "date": "22/05 9:11",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "My life long question is answered",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
