@@ -2458,5 +2458,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Who took bites out of foam footballs",
     "msgClasses": "chat_message bneon19 heavybold"
+  },
+  {
+    "id": "7911235",
+    "type": "public",
+    "date": "22/05 9:02",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Why...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7911236",
+    "type": "public",
+    "date": "22/05 9:02",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "that was you?!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
