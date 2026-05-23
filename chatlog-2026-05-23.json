@@ -10708,5 +10708,15 @@
     "userClasses": "username bneon18 ",
     "message": "\"Hm.\" Is MY catchphrase. 😔",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7915067",
+    "type": "public",
+    "date": "23/05 13:03",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Issa Hm.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
