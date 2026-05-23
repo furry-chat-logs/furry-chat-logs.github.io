@@ -5698,5 +5698,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I keep going back",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914562",
+    "type": "public",
+    "date": "23/05 8:47",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ooo it's quiet again",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
