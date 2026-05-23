@@ -4138,5 +4138,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "I did a pause for a while",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7914406",
+    "type": "public",
+    "date": "23/05 4:18",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_7b599502a542.png]",
+    "msgClasses": "chat_message "
   }
 ]
