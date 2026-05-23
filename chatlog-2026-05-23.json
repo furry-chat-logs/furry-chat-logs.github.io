@@ -13878,5 +13878,15 @@
     "userClasses": "username bneon4 ",
     "message": "Yaknow the whole point of blocking",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915386",
+    "type": "public",
+    "date": "23/05 14:31",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Meep *boop*",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
