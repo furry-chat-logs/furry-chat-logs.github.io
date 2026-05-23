@@ -18298,5 +18298,45 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Miss Kit did you break your legs?",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7915828",
+    "type": "public",
+    "date": "23/05 16:55",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_e2ec228a7b1d.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915829",
+    "type": "public",
+    "date": "23/05 16:55",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "what is ts😁",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7915830",
+    "type": "public",
+    "date": "23/05 16:55",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Fnaf lol",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7915831",
+    "type": "public",
+    "date": "23/05 16:55",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "*💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
