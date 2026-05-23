@@ -7708,5 +7708,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "New Kid yes",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914764",
+    "type": "public",
+    "date": "23/05 11:10",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Miss Kit I ate the fruit kiwi not the bird dw",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
