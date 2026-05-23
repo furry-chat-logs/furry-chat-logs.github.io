@@ -368,5 +368,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2U2bXVyMXhyaWw2dWJhd3luenZ5OWZ4eWplbGU5bXVxZm5lMGNuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aERxctlxOOCcy4PlIr/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7914026",
+    "type": "public",
+    "date": "23/05 0:37",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_ac51f25481a5.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914027",
+    "type": "public",
+    "date": "23/05 0:38",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Magical bread",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
