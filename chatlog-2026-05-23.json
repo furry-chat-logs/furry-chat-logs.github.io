@@ -18068,5 +18068,55 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Miss Kit oop",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7915805",
+    "type": "public",
+    "date": "23/05 16:51",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "What is asterr yapping about",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915806",
+    "type": "public",
+    "date": "23/05 16:51",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yatagarasu he's js being rude.",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915807",
+    "type": "public",
+    "date": "23/05 16:51",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Ts funny asf let me join",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915808",
+    "type": "public",
+    "date": "23/05 16:51",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdThiM2NhZGdjdmM2MDR3emJoamhyaTE0NDFtc2dmNjAzZXZxdHhmaCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/oYtVHSxngR3lC/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915809",
+    "type": "public",
+    "date": "23/05 16:51",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "asterr alr elliot.",
+    "msgClasses": "chat_message "
   }
 ]
