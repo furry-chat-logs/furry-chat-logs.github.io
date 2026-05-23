@@ -1988,5 +1988,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "but it the link to polar summit 's  channel",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914191",
+    "type": "public",
+    "date": "23/05 2:24",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oki",
+    "msgClasses": "chat_message bneon14"
   }
 ]
