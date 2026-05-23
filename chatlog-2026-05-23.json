@@ -5408,5 +5408,15 @@
     "userClasses": "username bcolor18 bnfont7",
     "message": "blep",
     "msgClasses": "chat_message bcolor17 heavyital"
+  },
+  {
+    "id": "7914533",
+    "type": "public",
+    "date": "23/05 7:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Random Person hi",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
