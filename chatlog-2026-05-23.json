@@ -4338,5 +4338,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Todayyyy",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914426",
+    "type": "public",
+    "date": "23/05 4:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Is no school day?",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914427",
+    "type": "public",
+    "date": "23/05 4:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I think",
+    "msgClasses": "chat_message bneon14"
   }
 ]
