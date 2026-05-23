@@ -3788,5 +3788,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Hunter77 heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914371",
+    "type": "public",
+    "date": "23/05 3:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "nested if-else statements WITH booleans are horrible to do",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
