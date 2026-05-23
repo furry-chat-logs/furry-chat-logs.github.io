@@ -7248,5 +7248,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Ooh!",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914718",
+    "type": "public",
+    "date": "23/05 10:55",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "this is gonna be good...",
+    "msgClasses": "chat_message "
   }
 ]
