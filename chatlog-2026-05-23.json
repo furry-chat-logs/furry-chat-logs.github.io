@@ -8408,5 +8408,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "[hilarious]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914834",
+    "type": "public",
+    "date": "23/05 11:19",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Deimos LMFAO",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
