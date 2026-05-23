@@ -568,5 +568,15 @@
     "userClasses": "username user ",
     "message": "Oh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914046",
+    "type": "public",
+    "date": "23/05 1:10",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "I forgot who was my friend list",
+    "msgClasses": "chat_message "
   }
 ]
