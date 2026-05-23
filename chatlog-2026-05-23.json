@@ -4808,5 +4808,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "I mean school isn't completely useless",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7914473",
+    "type": "public",
+    "date": "23/05 5:05",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Name one thing that makes school not useless",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
