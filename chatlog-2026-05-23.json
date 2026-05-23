@@ -4118,5 +4118,25 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Hello y'all",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7914404",
+    "type": "public",
+    "date": "23/05 4:18",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nebulais_0 hello",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914405",
+    "type": "public",
+    "date": "23/05 4:18",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "I did a pause for a while",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
