@@ -128,5 +128,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_ea652e8d5d91.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914002",
+    "type": "public",
+    "date": "23/05 0:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f52dbc8ea6d3.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914003",
+    "type": "public",
+    "date": "23/05 0:13",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_5ef42fc07c7b.gif]",
+    "msgClasses": "chat_message "
   }
 ]
