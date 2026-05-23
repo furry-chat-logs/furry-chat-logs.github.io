@@ -3968,5 +3968,15 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "[paw]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914389",
+    "type": "public",
+    "date": "23/05 4:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[paw]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
