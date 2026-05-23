@@ -9048,5 +9048,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "ryry like 50 50",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914898",
+    "type": "public",
+    "date": "23/05 11:29",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Why is chat empty.",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
