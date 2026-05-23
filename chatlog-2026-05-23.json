@@ -9828,5 +9828,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am tired af",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914979",
+    "type": "public",
+    "date": "23/05 12:17",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "I'm going offline",
+    "msgClasses": "chat_message "
   }
 ]
