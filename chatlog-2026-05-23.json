@@ -12918,5 +12918,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( she's 9 but i think shes my soulmate 23/05 11:45 ) Tf..????",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915289",
+    "type": "public",
+    "date": "23/05 13:47",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Prison is just a place",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7915290",
+    "type": "public",
+    "date": "23/05 13:47",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Praying to god that they misspelled that",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
