@@ -4978,5 +4978,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Iyas_fox I like watching shgurr_",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914490",
+    "type": "public",
+    "date": "23/05 6:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
