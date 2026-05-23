@@ -158,5 +158,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user24440_32ff2acb7eaa.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914005",
+    "type": "public",
+    "date": "23/05 0:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "What the fuck",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
