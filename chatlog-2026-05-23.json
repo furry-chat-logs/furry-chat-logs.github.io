@@ -19298,5 +19298,35 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaHg5bDl6bW4zcWk4ZTQxandpeG4waWY5ZmRzN291dHo1aWh5ZTlmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7TwPbkbwhIGx4PEAQt/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7915929",
+    "type": "public",
+    "date": "23/05 17:19",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915930",
+    "type": "public",
+    "date": "23/05 17:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Miss Kit i'm not at my house",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7915931",
+    "type": "public",
+    "date": "23/05 17:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "And its 11 pm",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
