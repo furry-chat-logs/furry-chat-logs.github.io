@@ -9408,5 +9408,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rafteatsrocks [good] [good]",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914934",
+    "type": "public",
+    "date": "23/05 11:39",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "smiley real",
+    "msgClasses": "chat_message "
   }
 ]
