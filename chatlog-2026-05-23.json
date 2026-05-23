@@ -8858,5 +8858,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rafteatsrocks ima go to sleep",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914879",
+    "type": "public",
+    "date": "23/05 11:25",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFma3RvMXRwaGo4M2s4MGRxdnYyZHQ4cmpnN3hwNHhidGVnZXRrNXN1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SlyRiFk4VstpOsZVmq/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
