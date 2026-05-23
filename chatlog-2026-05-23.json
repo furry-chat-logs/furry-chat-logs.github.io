@@ -19818,5 +19818,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "It's so profound.",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915981",
+    "type": "public",
+    "date": "23/05 17:37",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Because I thought it would solve em, I built it because I thought it was safer in there, but it's not and I'm not the only thing that's living in here",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915982",
+    "type": "public",
+    "date": "23/05 17:37",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "0G Stupendous Man mines essentially weird timey wimey shi",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
