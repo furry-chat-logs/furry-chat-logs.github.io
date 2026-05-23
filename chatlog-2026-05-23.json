@@ -15458,5 +15458,15 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[totallove]",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915544",
+    "type": "public",
+    "date": "23/05 15:45",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_b2a07321b4c4.gif]",
+    "msgClasses": "chat_message "
   }
 ]
