@@ -21218,5 +21218,35 @@
     "userClasses": "username bgrad38 bnfont6",
     "message": "(when I desperate for money)",
     "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916123",
+    "type": "public",
+    "date": "23/05 18:26",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "What the fuck",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916124",
+    "type": "public",
+    "date": "23/05 18:26",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Breadcrumbs im brokeeeee",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7916125",
+    "type": "public",
+    "date": "23/05 18:26",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "I fucked up what I just said",
+    "msgClasses": "chat_message bneon23  bfont8"
   }
 ]
