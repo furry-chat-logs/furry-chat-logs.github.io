@@ -10498,5 +10498,35 @@
     "userClasses": "username bcolor12 bnfont2",
     "message": "is it not tuff",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915046",
+    "type": "public",
+    "date": "23/05 13:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It might get you in trouble",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7915047",
+    "type": "public",
+    "date": "23/05 13:00",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "syx Netanyahu approved prp",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915048",
+    "type": "public",
+    "date": "23/05 13:00",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "That's an advertisement",
+    "msgClasses": "chat_message bneon4"
   }
 ]
