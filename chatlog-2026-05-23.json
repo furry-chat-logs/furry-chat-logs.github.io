@@ -9258,5 +9258,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I don't like you",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914919",
+    "type": "public",
+    "date": "23/05 11:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ur blocked",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914920",
+    "type": "public",
+    "date": "23/05 11:34",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "New Kid you shure are",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
