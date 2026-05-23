@@ -1408,5 +1408,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "But I have a playlist of around 40 songs",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914130",
+    "type": "public",
+    "date": "23/05 2:10",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Of miku vocaloids and such",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914131",
+    "type": "public",
+    "date": "23/05 2:10",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "oh wait nvm its m@gical cure/love shot or idk the name",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
