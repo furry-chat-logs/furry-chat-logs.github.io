@@ -10128,5 +10128,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Noo chat ded again",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7915009",
+    "type": "public",
+    "date": "23/05 12:46",
+    "username": "KURTIS",
+    "userId": "28569",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGg1ZW9weHcyN3FhZnBlZ3hwN29idW45aXl2OTF1M2IweDI5Zm9yeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif]",
+    "msgClasses": "chat_message bgrad38 heavyital bfont3"
   }
 ]
