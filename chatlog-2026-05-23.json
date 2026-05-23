@@ -7498,5 +7498,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I have been snackin throughout the day...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914743",
+    "type": "public",
+    "date": "23/05 11:05",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "breakfast was half a quesadilla T-T",
+    "msgClasses": "chat_message "
   }
 ]
