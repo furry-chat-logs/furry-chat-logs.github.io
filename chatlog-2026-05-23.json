@@ -9808,5 +9808,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "My phone is always ruining the moment",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914977",
+    "type": "public",
+    "date": "23/05 12:16",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Waiting for my food from the snackbar",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
