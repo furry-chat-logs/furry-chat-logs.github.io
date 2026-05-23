@@ -5238,5 +5238,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rat؜ yaeh",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914516",
+    "type": "public",
+    "date": "23/05 7:06",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "nah, but I aint awake during the peak hours...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
