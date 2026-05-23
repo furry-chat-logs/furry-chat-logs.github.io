@@ -12338,5 +12338,15 @@
     "userClasses": "username bcolor1 bnfont15",
     "message": "Does anyone here like Metallica?",
     "msgClasses": "chat_message bgrad39  bfont1"
+  },
+  {
+    "id": "7915231",
+    "type": "public",
+    "date": "23/05 13:36",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_504d0b9ad97d.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
