@@ -9148,5 +9148,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Does my chat not go that far back",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914908",
+    "type": "public",
+    "date": "23/05 11:31",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9219_bb7bcbc75100.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
