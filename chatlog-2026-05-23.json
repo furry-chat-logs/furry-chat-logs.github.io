@@ -18528,5 +18528,35 @@
     "userClasses": "username bneon4 ",
     "message": "Bro",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915852",
+    "type": "public",
+    "date": "23/05 17:02",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "It's funny how a weird rhythm game can have such a good soundtrack.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915853",
+    "type": "public",
+    "date": "23/05 17:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Did someone say purple",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7915854",
+    "type": "public",
+    "date": "23/05 17:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "It skiped me to night THREE",
+    "msgClasses": "chat_message bneon4"
   }
 ]
