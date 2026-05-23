@@ -17808,5 +17808,45 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "anyway",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915779",
+    "type": "public",
+    "date": "23/05 16:46",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "City pedestrian",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915780",
+    "type": "public",
+    "date": "23/05 16:46",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Might do a piano cover of disappear by dream theater",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7915781",
+    "type": "public",
+    "date": "23/05 16:46",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Oh HELL NO",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915782",
+    "type": "public",
+    "date": "23/05 16:46",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "WHAT IS THIS GAME",
+    "msgClasses": "chat_message bneon4"
   }
 ]
