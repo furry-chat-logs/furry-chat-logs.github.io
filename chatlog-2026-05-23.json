@@ -10728,5 +10728,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "My friend deleted her account...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7915069",
+    "type": "public",
+    "date": "23/05 13:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hm.",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
