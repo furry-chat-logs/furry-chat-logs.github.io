@@ -14458,5 +14458,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Lmao?? [sob]",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915444",
+    "type": "public",
+    "date": "23/05 15:07",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Spectre_protogen I know I could, but should I actually do it?",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7915445",
+    "type": "public",
+    "date": "23/05 15:07",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaHg5bDl6bW4zcWk4ZTQxandpeG4waWY5ZmRzN291dHo1aWh5ZTlmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eGxkm7b2hzDfkNvjo7/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
