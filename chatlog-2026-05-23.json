@@ -15898,5 +15898,25 @@
     "userClasses": "username bneon4 ",
     "message": "Like, I don't think that about YOU for liking the art",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915588",
+    "type": "public",
+    "date": "23/05 15:53",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Porphyria (OC) would feel sad about this",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915589",
+    "type": "public",
+    "date": "23/05 15:53",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[verysad]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
