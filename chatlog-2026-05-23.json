@@ -4248,5 +4248,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Even though my phone broke and I bought a new one",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7914417",
+    "type": "public",
+    "date": "23/05 4:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "oh, wait mine does it aswell...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
