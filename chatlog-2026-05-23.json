@@ -7098,5 +7098,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Unholyozzy *I teleport to the ground and collapse*",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914703",
+    "type": "public",
+    "date": "23/05 10:53",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "At 100 percent, that range could cover the distance from Earth to Saturn",
+    "msgClasses": "chat_message bneon4"
   }
 ]
