@@ -12508,5 +12508,15 @@
     "userClasses": "username bcolor12 bnfont14",
     "message": "alright thanks",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915248",
+    "type": "public",
+    "date": "23/05 13:40",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "TIKO Smiley I thought I was the only one here who listened to Metallica.",
+    "msgClasses": "chat_message bgrad39  bfont1"
   }
 ]
