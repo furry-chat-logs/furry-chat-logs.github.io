@@ -17038,5 +17038,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "open poll",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915702",
+    "type": "public",
+    "date": "23/05 16:29",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_83db22577e9f.png]",
+    "msgClasses": "chat_message "
   }
 ]
