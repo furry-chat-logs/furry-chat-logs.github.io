@@ -6458,5 +6458,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Unholyozzy *throws a rock at you*",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914638",
+    "type": "public",
+    "date": "23/05 10:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hehehe",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
