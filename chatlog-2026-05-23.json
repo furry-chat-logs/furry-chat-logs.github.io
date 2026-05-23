@@ -7088,5 +7088,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "k...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914702",
+    "type": "public",
+    "date": "23/05 10:52",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Unholyozzy *I teleport to the ground and collapse*",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
