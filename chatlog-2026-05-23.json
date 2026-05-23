@@ -7758,5 +7758,25 @@
     "userClasses": "username bneon4 ",
     "message": ":3",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7914769",
+    "type": "public",
+    "date": "23/05 11:10",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia :)",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7914770",
+    "type": "public",
+    "date": "23/05 11:10",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_258337b52100.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
