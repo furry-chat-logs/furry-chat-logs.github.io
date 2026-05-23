@@ -5478,5 +5478,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "New Kid piaros",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914540",
+    "type": "public",
+    "date": "23/05 8:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ah",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
