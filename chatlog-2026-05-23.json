@@ -5018,5 +5018,65 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am trying to figure out a good effect for bass for the song beat it",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914494",
+    "type": "public",
+    "date": "23/05 6:22",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Just beat it",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914495",
+    "type": "public",
+    "date": "23/05 6:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "nah I have it now",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914496",
+    "type": "public",
+    "date": "23/05 6:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "imma continue learning code",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914497",
+    "type": "public",
+    "date": "23/05 6:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "and french...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914498",
+    "type": "public",
+    "date": "23/05 6:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "as I hae a test tuesday",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914499",
+    "type": "public",
+    "date": "23/05 6:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*hae = have",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
