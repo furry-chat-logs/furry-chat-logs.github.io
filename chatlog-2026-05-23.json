@@ -3978,5 +3978,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[paw]",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914390",
+    "type": "public",
+    "date": "23/05 4:09",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am questioning logic...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
