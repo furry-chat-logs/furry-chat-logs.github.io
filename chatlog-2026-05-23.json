@@ -9208,5 +9208,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Yeah it does",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914914",
+    "type": "public",
+    "date": "23/05 11:33",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "You can check the other chats it shows only a few to none at times",
+    "msgClasses": "chat_message "
   }
 ]
