@@ -18508,5 +18508,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Spectre_protogen see ya.",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915850",
+    "type": "public",
+    "date": "23/05 17:02",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_26cd29a9d8d0.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915851",
+    "type": "public",
+    "date": "23/05 17:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Bro",
+    "msgClasses": "chat_message bneon4"
   }
 ]
