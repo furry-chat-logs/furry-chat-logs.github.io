@@ -3858,5 +3858,55 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hunter77 im just bored",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914378",
+    "type": "public",
+    "date": "23/05 4:01",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "[wooper]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914379",
+    "type": "public",
+    "date": "23/05 4:01",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Same lol",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7914380",
+    "type": "public",
+    "date": "23/05 4:01",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[wooper]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914381",
+    "type": "public",
+    "date": "23/05 4:01",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Hello :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914382",
+    "type": "public",
+    "date": "23/05 4:01",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "[wooper]",
+    "msgClasses": "chat_message "
   }
 ]
