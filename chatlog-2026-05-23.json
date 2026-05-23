@@ -3758,5 +3758,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nom nom",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914368",
+    "type": "public",
+    "date": "23/05 3:46",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Hello",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
