@@ -7058,5 +7058,25 @@
     "userClasses": "username bgrad7 bnfont8",
     "message": "New Kid - im gonna feed you your own heart...",
     "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7914699",
+    "type": "public",
+    "date": "23/05 10:51",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "Rafteatsrocks oh just a playful battle",
+    "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7914700",
+    "type": "public",
+    "date": "23/05 10:52",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "At 20 percent of it's power it wiped out all machines on Earth",
+    "msgClasses": "chat_message bneon4"
   }
 ]
