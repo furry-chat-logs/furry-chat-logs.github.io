@@ -16758,5 +16758,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[secret-share: Oi2j5b08HQ83svYe7SSviYnHo&n=47295]",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915674",
+    "type": "public",
+    "date": "23/05 16:18",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_d98c06b44044.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915675",
+    "type": "public",
+    "date": "23/05 16:19",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM252ZGx3c2Q3ZTN0aW1yZmxwb2U5Y3F4a2pocWdtd3B3cnZyOWNpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqqZfbwmzMPpcNfGw5/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
