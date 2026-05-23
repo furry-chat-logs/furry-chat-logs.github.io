@@ -17218,5 +17218,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "You said it—",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915720",
+    "type": "public",
+    "date": "23/05 16:36",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Taking me out of context to look like I was flirting with someone is weird",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7915721",
+    "type": "public",
+    "date": "23/05 16:36",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWo0Mm5qejJzZWkzMm9oOGt1dXN4Yzd6Ynd2YXU2bXoxOTRmOHRrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9ryDmaTgXFc90a6fah/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
