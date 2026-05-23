@@ -1678,5 +1678,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "nicee",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914157",
+    "type": "public",
+    "date": "23/05 2:14",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It is rlly cute but I haven't seen it before",
+    "msgClasses": "chat_message bneon14"
   }
 ]
