@@ -9078,5 +9078,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "I hope they are a furry",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914901",
+    "type": "public",
+    "date": "23/05 11:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "It's never this dead",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
