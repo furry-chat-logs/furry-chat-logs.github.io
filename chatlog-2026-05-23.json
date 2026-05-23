@@ -5958,5 +5958,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "while the usual temperature is 64.4 F is",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914588",
+    "type": "public",
+    "date": "23/05 10:26",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "its suppost to hit 90 today",
+    "msgClasses": "chat_message bgrad39"
+  },
+  {
+    "id": "7914589",
+    "type": "public",
+    "date": "23/05 10:26",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Someone send me coins",
+    "msgClasses": "chat_message "
   }
 ]
