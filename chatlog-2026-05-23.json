@@ -6738,5 +6738,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "[gay] bro where'd my popcorn go..",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914667",
+    "type": "public",
+    "date": "23/05 10:45",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Bro said \"servos\"",
+    "msgClasses": "chat_message bneon4"
   }
 ]
