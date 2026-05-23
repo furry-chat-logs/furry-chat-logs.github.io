@@ -11848,5 +11848,15 @@
     "userClasses": "username bcolor28 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user484_6793020583dd.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915182",
+    "type": "public",
+    "date": "23/05 13:23",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "I'm sticking to FH5",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
