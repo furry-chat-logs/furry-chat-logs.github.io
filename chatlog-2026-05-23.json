@@ -5198,5 +5198,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "ne",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914512",
+    "type": "public",
+    "date": "23/05 7:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "whys chat so silent",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
