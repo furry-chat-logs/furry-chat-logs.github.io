@@ -4918,5 +4918,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan yeah",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914484",
+    "type": "public",
+    "date": "23/05 6:02",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Hm",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914485",
+    "type": "public",
+    "date": "23/05 6:02",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "[wooper] [gun]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914486",
+    "type": "public",
+    "date": "23/05 6:02",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Iyas_fox wat",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
