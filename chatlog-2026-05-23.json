@@ -4018,5 +4018,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "need to explain anymore?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914394",
+    "type": "public",
+    "date": "23/05 4:13",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Sol_Aizawa coding gets easier",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
