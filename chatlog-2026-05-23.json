@@ -10528,5 +10528,15 @@
     "userClasses": "username bneon4 ",
     "message": "That's an advertisement",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915049",
+    "type": "public",
+    "date": "23/05 13:00",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "*PFP",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
