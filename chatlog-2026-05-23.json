@@ -21098,5 +21098,35 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Spectre_protogen bye !",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7916111",
+    "type": "public",
+    "date": "23/05 18:24",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33275_9992b65cc312.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7916112",
+    "type": "public",
+    "date": "23/05 18:25",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "So am I cooking yet",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916113",
+    "type": "public",
+    "date": "23/05 18:25",
+    "username": "Ashie٭",
+    "userId": "26425",
+    "userClasses": "username bneon1 bnfont11",
+    "message": "test :3",
+    "msgClasses": "chat_message bcolor1 heavybold bfont4"
   }
 ]
