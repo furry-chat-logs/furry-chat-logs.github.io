@@ -18788,5 +18788,25 @@
     "userClasses": "username bneon4 ",
     "message": "God",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915878",
+    "type": "public",
+    "date": "23/05 17:10",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Ah fuck it's ruined",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915879",
+    "type": "public",
+    "date": "23/05 17:10",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I died",
+    "msgClasses": "chat_message bneon4"
   }
 ]
