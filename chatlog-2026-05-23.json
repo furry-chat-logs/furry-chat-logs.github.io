@@ -5228,5 +5228,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "the peak hours aren't here yet",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7914515",
+    "type": "public",
+    "date": "23/05 7:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rat؜ yaeh",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
