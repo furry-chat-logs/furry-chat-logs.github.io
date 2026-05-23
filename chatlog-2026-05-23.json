@@ -4198,5 +4198,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Nebulais_0 hai",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914412",
+    "type": "public",
+    "date": "23/05 4:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Nebulais_0 oh hello!",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
