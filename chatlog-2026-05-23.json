@@ -9648,5 +9648,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Yah",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914961",
+    "type": "public",
+    "date": "23/05 11:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Bored",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914962",
+    "type": "public",
+    "date": "23/05 11:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Numm Bug RIP YOU ARE ALLRADY THERE",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
