@@ -18708,5 +18708,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Deimos I know what you are.",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7915870",
+    "type": "public",
+    "date": "23/05 17:06",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "I can't lie, the music's kinda fire",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
