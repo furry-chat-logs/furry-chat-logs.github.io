@@ -5838,5 +5838,25 @@
     "userClasses": "username bneon18 ",
     "message": "Hm.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7914576",
+    "type": "public",
+    "date": "23/05 9:41",
+    "username": "Marsmelow-boi",
+    "userId": "8404",
+    "userClasses": "username bgrad37 bnfont6",
+    "message": "Hewo",
+    "msgClasses": "chat_message bgrad4 boldital bfont2"
+  },
+  {
+    "id": "7914577",
+    "type": "public",
+    "date": "23/05 9:41",
+    "username": "Marsmelow-boi",
+    "userId": "8404",
+    "userClasses": "username bgrad37 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8404_f29cd0a75bad.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
