@@ -14818,5 +14818,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Hmm",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915480",
+    "type": "public",
+    "date": "23/05 15:16",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Leaving people like my family and I having money struggles",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915481",
+    "type": "public",
+    "date": "23/05 15:17",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Bio updated. [nerd]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
