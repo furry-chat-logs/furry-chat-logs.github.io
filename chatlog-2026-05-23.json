@@ -688,5 +688,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh hai bluee !!!",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914058",
+    "type": "public",
+    "date": "23/05 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Someone revived chat woohoo!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914059",
+    "type": "public",
+    "date": "23/05 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGo3eGc2aTgwczJjendld3BheTF0aWU5MnZ4M3FjcDI4aHBqM2d6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hs1ZdBBpaHO9y/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914060",
+    "type": "public",
+    "date": "23/05 1:41",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "SoraTheMikuFan  hehehe!",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914061",
+    "type": "public",
+    "date": "23/05 1:41",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "x3",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
