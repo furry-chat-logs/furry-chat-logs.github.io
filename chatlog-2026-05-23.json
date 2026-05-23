@@ -2088,5 +2088,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "SoraTheMikuFan hmo on Brazilian Miku",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914201",
+    "type": "public",
+    "date": "23/05 2:29",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Hi",
+    "msgClasses": "chat_message "
   }
 ]
