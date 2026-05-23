@@ -10618,5 +10618,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "I think it's funny",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7915058",
+    "type": "public",
+    "date": "23/05 13:01",
+    "username": "syx",
+    "userId": "37338",
+    "userClasses": "username bcolor12 bnfont2",
+    "message": "ah ight",
+    "msgClasses": "chat_message "
   }
 ]
