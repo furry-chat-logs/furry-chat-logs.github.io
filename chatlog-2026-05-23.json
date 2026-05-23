@@ -16038,5 +16038,25 @@
     "userClasses": "username bcolor3 bnfont15",
     "message": "But",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915602",
+    "type": "public",
+    "date": "23/05 15:55",
+    "username": "AllisonsAwesomeAlt",
+    "userId": "25339",
+    "userClasses": "username bcolor3 bnfont15",
+    "message": "What I sent",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915603",
+    "type": "public",
+    "date": "23/05 15:55",
+    "username": "AllisonsAwesomeAlt",
+    "userId": "25339",
+    "userClasses": "username bcolor3 bnfont15",
+    "message": "Does not fall into that category",
+    "msgClasses": "chat_message "
   }
 ]
