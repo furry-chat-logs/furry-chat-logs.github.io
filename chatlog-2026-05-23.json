@@ -858,5 +858,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hi",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914075",
+    "type": "public",
+    "date": "23/05 1:50",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I got a month to read this",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914076",
+    "type": "public",
+    "date": "23/05 1:50",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "haiiii Medokin",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
