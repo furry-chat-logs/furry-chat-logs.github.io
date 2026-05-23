@@ -9448,5 +9448,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "New Kid no filter",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914938",
+    "type": "public",
+    "date": "23/05 11:42",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "New Kid filter",
+    "msgClasses": "chat_message "
   }
 ]
