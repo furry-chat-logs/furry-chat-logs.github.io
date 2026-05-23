@@ -5258,5 +5258,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "in approximately 4 hours is the peak hours",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7914518",
+    "type": "public",
+    "date": "23/05 7:07",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa I fogth it was 17:00",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
