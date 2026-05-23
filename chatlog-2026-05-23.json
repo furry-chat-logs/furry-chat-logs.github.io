@@ -7358,5 +7358,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user24440_8c50bdb4de4a.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914729",
+    "type": "public",
+    "date": "23/05 11:00",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Miss Kit",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
