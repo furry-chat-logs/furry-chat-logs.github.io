@@ -7228,5 +7228,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "🙃",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914716",
+    "type": "public",
+    "date": "23/05 10:55",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "*gives you Viltrumite powers*",
+    "msgClasses": "chat_message bneon4"
   }
 ]
