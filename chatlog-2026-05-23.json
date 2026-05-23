@@ -1308,5 +1308,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Me is also blue :3",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914120",
+    "type": "public",
+    "date": "23/05 2:06",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "SoraTheMikuFan  yes blue buddies! :D",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914121",
+    "type": "public",
+    "date": "23/05 2:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Blue hair blue tie hiding in ur wifiiii",
+    "msgClasses": "chat_message bneon14"
   }
 ]
