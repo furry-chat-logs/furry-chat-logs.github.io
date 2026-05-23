@@ -15488,5 +15488,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdDRmajkxeTFzNWlxa3RpNTcwcGV1YzEzbm40YjVoeW02OHpsNjgzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mifRTLqoByekRKmzGN/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7915547",
+    "type": "public",
+    "date": "23/05 15:45",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_e9ab4c2e7b17.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915548",
+    "type": "public",
+    "date": "23/05 15:45",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_58a31bef2269.gif]",
+    "msgClasses": "chat_message "
   }
 ]
