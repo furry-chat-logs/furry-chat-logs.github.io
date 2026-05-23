@@ -7598,5 +7598,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa I am sneaking on m&ms all day",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914753",
+    "type": "public",
+    "date": "23/05 11:08",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHRncTJoeTlucTF0YnljeXN2d3BqZnZoY2R6aDQ4OTQzbXZzOWE4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UlqLDtI8Qc0j6/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
