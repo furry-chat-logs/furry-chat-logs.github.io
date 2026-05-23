@@ -9318,5 +9318,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Noo",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914925",
+    "type": "public",
+    "date": "23/05 11:36",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Meep Ty ig",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914926",
+    "type": "public",
+    "date": "23/05 11:36",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rafteatsrocks fr",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
