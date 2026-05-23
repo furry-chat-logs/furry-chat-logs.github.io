@@ -8108,5 +8108,25 @@
     "userClasses": "username bneon4 ",
     "message": "Imagine that in Nemo",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7914804",
+    "type": "public",
+    "date": "23/05 11:15",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZmRvZjZpZGdvZWduZWlwc3BpMjV0bW5mZ2NiZGRodGozcG93cjZucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hgsMQ8eTjM04q0km11/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7914805",
+    "type": "public",
+    "date": "23/05 11:15",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "DO NOT GOOGLE WHAT DINOSAUR HAS 500 TEETH",
+    "msgClasses": "chat_message bgrad39"
   }
 ]
