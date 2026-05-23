@@ -7448,5 +7448,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "*walks up to a wall and repeatedly keeps trying to walk into it*",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914738",
+    "type": "public",
+    "date": "23/05 11:03",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "am I the only one who's hungry?",
+    "msgClasses": "chat_message "
   }
 ]
