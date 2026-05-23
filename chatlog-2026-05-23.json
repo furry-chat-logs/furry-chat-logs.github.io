@@ -10828,5 +10828,15 @@
     "userClasses": "username bneon4 ",
     "message": "Is that ai?",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915079",
+    "type": "public",
+    "date": "23/05 13:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "syx that's my catchphrase vro",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
