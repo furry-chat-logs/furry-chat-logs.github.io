@@ -18748,5 +18748,45 @@
     "userClasses": "username user ",
     "message": "C'mon say it with your chest",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915874",
+    "type": "public",
+    "date": "23/05 17:09",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Oh",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915875",
+    "type": "public",
+    "date": "23/05 17:09",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "My",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915876",
+    "type": "public",
+    "date": "23/05 17:09",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Don't look at my coin count",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915877",
+    "type": "public",
+    "date": "23/05 17:09",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "God",
+    "msgClasses": "chat_message bneon4"
   }
 ]
