@@ -5978,5 +5978,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Someone send me coins",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914590",
+    "type": "public",
+    "date": "23/05 10:27",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Hi guys",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
