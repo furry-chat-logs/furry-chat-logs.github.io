@@ -7298,5 +7298,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "idk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914723",
+    "type": "public",
+    "date": "23/05 10:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Unholyozzy *charges at you at 30 MPH, kicking you and hitting you with my sword multiple times in a row* round 2!",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
