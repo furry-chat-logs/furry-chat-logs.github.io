@@ -7998,5 +7998,25 @@
     "userClasses": "username bneon18 ",
     "message": "[skull]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7914793",
+    "type": "public",
+    "date": "23/05 11:14",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Is Homestuck even good",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7914794",
+    "type": "public",
+    "date": "23/05 11:14",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Unholyozzy a win is a win",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
