@@ -7618,5 +7618,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Medokin that aint bad, I mean I ate brakfeast, ate a kiwi, ate an apple, ate some chocolate, and am currently snacking on some crackers",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914755",
+    "type": "public",
+    "date": "23/05 11:09",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa that's a hole meal",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
