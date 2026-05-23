@@ -20238,5 +20238,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Ok",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7916024",
+    "type": "public",
+    "date": "23/05 17:49",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Schitzrophobia",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7916025",
+    "type": "public",
+    "date": "23/05 17:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Miss Kit LMFAO.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7916026",
+    "type": "public",
+    "date": "23/05 17:49",
+    "username": "Ashie٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "tfw chat noir Porphyrophobia",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
   }
 ]
