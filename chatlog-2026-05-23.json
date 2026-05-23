@@ -19928,5 +19928,25 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "i love spinel sun",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7915992",
+    "type": "public",
+    "date": "23/05 17:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ashie٭ he looks like plegue from ladybug.",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915993",
+    "type": "public",
+    "date": "23/05 17:46",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2lsc2ViMXNkNHhjMmVrNG9nYXdyZGx3c3FhOHNoNjM1OHphM29sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/34JrEmfKDtWLK/giphy.gif]",
+    "msgClasses": "chat_message bgrad32  bfont11"
   }
 ]
