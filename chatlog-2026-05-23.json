@@ -978,5 +978,55 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914087",
+    "type": "public",
+    "date": "23/05 1:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_e16e2f24f51b.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914088",
+    "type": "public",
+    "date": "23/05 1:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I thought it was foxy and cute :c",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914089",
+    "type": "public",
+    "date": "23/05 1:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Cuz ur pfp is a fox",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914090",
+    "type": "public",
+    "date": "23/05 1:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And ur a vulpine",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914091",
+    "type": "public",
+    "date": "23/05 1:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I need to write down avrifing I know down",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
