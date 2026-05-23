@@ -3828,5 +3828,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Hunter77 good, but arguing with logic",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914375",
+    "type": "public",
+    "date": "23/05 4:00",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Sol_Aizawa the singer? Jk",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
