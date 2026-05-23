@@ -2098,5 +2098,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914202",
+    "type": "public",
+    "date": "23/05 2:29",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Bit windy today",
+    "msgClasses": "chat_message "
   }
 ]
