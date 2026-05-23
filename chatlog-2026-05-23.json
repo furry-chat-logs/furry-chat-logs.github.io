@@ -8768,5 +8768,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "medokin I'm not falling for this shit",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914870",
+    "type": "public",
+    "date": "23/05 11:24",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Medokin what",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
