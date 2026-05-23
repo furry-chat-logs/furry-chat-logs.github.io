@@ -15268,5 +15268,25 @@
     "userClasses": "username bneon4 ",
     "message": "Yawnn",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915525",
+    "type": "public",
+    "date": "23/05 15:38",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "How are y'all?",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915526",
+    "type": "public",
+    "date": "23/05 15:41",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Balright",
+    "msgClasses": "chat_message bneon4"
   }
 ]
