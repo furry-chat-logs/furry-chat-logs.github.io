@@ -17568,5 +17568,35 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "So wtf",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915755",
+    "type": "public",
+    "date": "23/05 16:39",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515] Send wtv",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915756",
+    "type": "public",
+    "date": "23/05 16:40",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "0G Stupendous Man this site is slowly killing itself so yeah.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915757",
+    "type": "public",
+    "date": "23/05 16:40",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "SS) Heyy",
+    "msgClasses": "chat_message bneon4"
   }
 ]
