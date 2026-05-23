@@ -1838,5 +1838,85 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "frrr",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914176",
+    "type": "public",
+    "date": "23/05 2:22",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "I'm like...rlly tired....and i think i might be going into depression again..........so im currently deciding whether to stay up or to go to bed ;w;",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7914177",
+    "type": "public",
+    "date": "23/05 2:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ZephTheFloofBoi go to bed...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914178",
+    "type": "public",
+    "date": "23/05 2:22",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "ZephTheFloofBoi sleep",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914179",
+    "type": "public",
+    "date": "23/05 2:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Go to sleep, being sleep deprived makes u feel depressed",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914180",
+    "type": "public",
+    "date": "23/05 2:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "go sleep man its weekend",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914181",
+    "type": "public",
+    "date": "23/05 2:22",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "ZephTheFloofBoi  sleep silly billy",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914182",
+    "type": "public",
+    "date": "23/05 2:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SoraTheMikuFan agreed",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914183",
+    "type": "public",
+    "date": "23/05 2:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And then ur gonna be more depressed",
+    "msgClasses": "chat_message bneon14"
   }
 ]
