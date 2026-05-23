@@ -2548,5 +2548,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "My streaming service is not so good at pokemon",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914247",
+    "type": "public",
+    "date": "23/05 2:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I tapped on my phone and made a cute beat",
+    "msgClasses": "chat_message bneon14"
   }
 ]
