@@ -15738,5 +15738,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19750_50f8539414ec.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915572",
+    "type": "public",
+    "date": "23/05 15:50",
+    "username": "AllisonsAwesomeAlt",
+    "userId": "25339",
+    "userClasses": "username bcolor3 bnfont15",
+    "message": "AH",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915573",
+    "type": "public",
+    "date": "23/05 15:51",
+    "username": "AllisonsAwesomeAlt",
+    "userId": "25339",
+    "userClasses": "username bcolor3 bnfont15",
+    "message": "Scary",
+    "msgClasses": "chat_message "
   }
 ]
