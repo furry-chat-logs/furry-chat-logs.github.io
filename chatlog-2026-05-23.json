@@ -9848,5 +9848,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Stupid teacher and their homework",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914981",
+    "type": "public",
+    "date": "23/05 12:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Rafteatsrocks bye",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914982",
+    "type": "public",
+    "date": "23/05 12:17",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rafteatsrocks okay",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
