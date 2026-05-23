@@ -2338,5 +2338,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "This the sound I make if I howl",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914226",
+    "type": "public",
+    "date": "23/05 2:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Cuz I'm fox but also cat",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914227",
+    "type": "public",
+    "date": "23/05 2:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I usually meow a lot ngl",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914228",
+    "type": "public",
+    "date": "23/05 2:38",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "aw cool!",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
