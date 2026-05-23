@@ -10098,5 +10098,25 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Marsmelow-boi what?",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7915006",
+    "type": "public",
+    "date": "23/05 12:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_6869b69ba6c2.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915007",
+    "type": "public",
+    "date": "23/05 12:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Pew",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
