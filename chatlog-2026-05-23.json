@@ -18808,5 +18808,35 @@
     "userClasses": "username bneon4 ",
     "message": "I died",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915880",
+    "type": "public",
+    "date": "23/05 17:10",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_a88c25a4c458.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915881",
+    "type": "public",
+    "date": "23/05 17:10",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Can't have shit on earth",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915882",
+    "type": "public",
+    "date": "23/05 17:11",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "6 more hours left of work",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
