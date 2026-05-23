@@ -5708,5 +5708,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Ooo it's quiet again",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914563",
+    "type": "public",
+    "date": "23/05 8:48",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_c4c2eb5f6eea.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
