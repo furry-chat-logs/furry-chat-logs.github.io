@@ -11008,5 +11008,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I dont think I have a catch phrase...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7915097",
+    "type": "public",
+    "date": "23/05 13:08",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Test",
+    "msgClasses": "chat_message bgrad13  bfont11"
   }
 ]
