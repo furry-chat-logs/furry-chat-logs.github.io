@@ -9468,5 +9468,45 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Smiley aight",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914940",
+    "type": "public",
+    "date": "23/05 11:43",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNG54eHNhbDg5MDF0Mm9idGxhMmJ6bm82bWs3cW1wMGoxMzI0dGQzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FTsXnBHwqjAzdZrBOb/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914941",
+    "type": "public",
+    "date": "23/05 11:43",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "This the filter",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914942",
+    "type": "public",
+    "date": "23/05 11:43",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "lol",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914943",
+    "type": "public",
+    "date": "23/05 11:43",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[hilarious]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
