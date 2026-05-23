@@ -398,5 +398,15 @@
     "userClasses": "username user ",
     "message": "Medokin bwead i want bwead",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914029",
+    "type": "public",
+    "date": "23/05 0:47",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZGY4OHl3dzVweHVydTY0bzM5eDE3NTd3YXhsYjVidXM4NDBrZXNqcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6gDQOnz1sntCL4c0/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
