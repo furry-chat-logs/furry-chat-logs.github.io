@@ -12528,5 +12528,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "What do you call a blind dinosaur? Doyouthinkhesawus rex  23/05 19:39 SON 😭",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915250",
+    "type": "public",
+    "date": "23/05 13:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: AmshWh3bu5QNfZ194RT0cWM2n&n=47288] idk I feel outrageous",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7915251",
+    "type": "public",
+    "date": "23/05 13:40",
+    "username": "TIKO",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "Eminens Afton i listen to a lot of thrash and nu metal",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
   }
 ]
