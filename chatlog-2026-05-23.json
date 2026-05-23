@@ -18368,5 +18368,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "purple 23/05 16:56 Rain?",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915835",
+    "type": "public",
+    "date": "23/05 16:58",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[secret-share: H7YR8N0T7DqU6Dg0pkVUi54CW&n=47296] Such as questions, comments, quieres, or complaints",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915836",
+    "type": "public",
+    "date": "23/05 16:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmem11aWY3bDI3anR2a2V5dmMydjdoZjFuMmhyNnFndzd3eTBiMHlqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EUsZeZZa3WFz2/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
