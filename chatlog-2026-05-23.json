@@ -3908,5 +3908,15 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "[wooper]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914383",
+    "type": "public",
+    "date": "23/05 4:01",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Iyas_fox hai",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
