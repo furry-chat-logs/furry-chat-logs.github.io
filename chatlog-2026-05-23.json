@@ -3718,5 +3718,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "i'll dm it to him",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914364",
+    "type": "public",
+    "date": "23/05 3:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sounds good",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
