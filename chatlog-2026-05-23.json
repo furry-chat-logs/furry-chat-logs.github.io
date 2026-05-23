@@ -8458,5 +8458,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "what is LMFAO again...?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914839",
+    "type": "public",
+    "date": "23/05 11:20",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Pov me",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
