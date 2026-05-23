@@ -5728,5 +5728,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I did this yesterday it was fun",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914565",
+    "type": "public",
+    "date": "23/05 8:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaG1yMmxvb2I2aGt6bTFobWltZ20zemJwbXlzbzR0djJ2NmhpcDNqZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zJ8JAzvQLtNJTkkSq3/giphy.gif]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
