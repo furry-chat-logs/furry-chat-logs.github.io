@@ -21128,5 +21128,15 @@
     "userClasses": "username bneon1 bnfont11",
     "message": "test :3",
     "msgClasses": "chat_message bcolor1 heavybold bfont4"
+  },
+  {
+    "id": "7916114",
+    "type": "public",
+    "date": "23/05 18:25",
+    "username": "millofboy",
+    "userId": "35337",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "hi all",
+    "msgClasses": "chat_message bcolor1 heavyital"
   }
 ]
