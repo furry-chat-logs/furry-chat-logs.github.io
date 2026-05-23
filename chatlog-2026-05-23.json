@@ -6068,5 +6068,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Greedy much?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914599",
+    "type": "public",
+    "date": "23/05 10:29",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I drew a sylveon vased on the Dark Sylveon pokémon card",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
