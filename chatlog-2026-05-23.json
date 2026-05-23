@@ -13378,5 +13378,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Merp",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7915336",
+    "type": "public",
+    "date": "23/05 14:15",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Spectre_protogen MysteryMoonQuotev left the site",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
