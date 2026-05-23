@@ -13168,5 +13168,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Issa [totallove]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7915314",
+    "type": "public",
+    "date": "23/05 13:55",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Rune [heu]",
+    "msgClasses": "chat_message ital"
   }
 ]
