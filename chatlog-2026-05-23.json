@@ -7168,5 +7168,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "*respawns* damn... That was a hard battle.",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914710",
+    "type": "public",
+    "date": "23/05 10:54",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "unholyozzie sure! *throws it a little farther then intended*",
+    "msgClasses": "chat_message "
   }
 ]
