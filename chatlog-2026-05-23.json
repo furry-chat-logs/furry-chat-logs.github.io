@@ -10048,5 +10048,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "por que?",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7915001",
+    "type": "public",
+    "date": "23/05 12:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_166e6ee7d2ed.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
