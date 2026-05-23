@@ -11628,5 +11628,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "You can't joke like we do",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7915160",
+    "type": "public",
+    "date": "23/05 13:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "On discord",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
