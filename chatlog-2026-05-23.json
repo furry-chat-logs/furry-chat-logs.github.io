@@ -9578,5 +9578,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37148_020f8e61f8a3.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914951",
+    "type": "public",
+    "date": "23/05 11:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My phone is so broken",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
