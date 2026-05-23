@@ -9838,5 +9838,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "I'm going offline",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914980",
+    "type": "public",
+    "date": "23/05 12:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Stupid teacher and their homework",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
