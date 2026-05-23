@@ -12758,5 +12758,15 @@
     "userClasses": "username bcolor1 bnfont15",
     "message": "TIKO true",
     "msgClasses": "chat_message bgrad39  bfont1"
+  },
+  {
+    "id": "7915273",
+    "type": "public",
+    "date": "23/05 13:44",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[secret-share: SXocMD8xl15GfZ4AavIzlc3us&n=47281]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
