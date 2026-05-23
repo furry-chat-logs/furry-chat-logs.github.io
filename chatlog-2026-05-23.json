@@ -10058,5 +10058,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_166e6ee7d2ed.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915002",
+    "type": "public",
+    "date": "23/05 12:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I got purple pants",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
