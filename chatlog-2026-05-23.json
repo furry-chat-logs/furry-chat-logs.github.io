@@ -4518,5 +4518,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Error",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914444",
+    "type": "public",
+    "date": "23/05 4:24",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Oof",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
