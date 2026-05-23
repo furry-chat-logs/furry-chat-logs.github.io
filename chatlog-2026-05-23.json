@@ -10008,5 +10008,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "syx so are you a furry?",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914997",
+    "type": "public",
+    "date": "23/05 12:41",
+    "username": "syx",
+    "userId": "37338",
+    "userClasses": "username user ",
+    "message": "nah im not",
+    "msgClasses": "chat_message "
   }
 ]
