@@ -22908,5 +22908,95 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[angry]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7916292",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "what are we yapping about",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7916293",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "Mr White wolf",
+    "userId": "37102",
+    "userClasses": "username user ",
+    "message": "U chill",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7916294",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_1e97df892318.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7916295",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Porphyrophobia",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7916296",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[totallove] jumped in Issa's arms",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7916297",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "asterr hey scroll",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916298",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "Unless you can't read",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916299",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7916300",
+    "type": "public",
+    "date": "23/05 18:52",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Breadcrumbs hey i hope you drop your ice cream",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
