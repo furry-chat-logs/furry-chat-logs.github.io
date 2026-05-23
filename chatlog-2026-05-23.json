@@ -17858,5 +17858,35 @@
     "userClasses": "username bneon4 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_a75514893134.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915784",
+    "type": "public",
+    "date": "23/05 16:47",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Issa looks like the old man from monster house",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915785",
+    "type": "public",
+    "date": "23/05 16:47",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915786",
+    "type": "public",
+    "date": "23/05 16:47",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "WHAT",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
