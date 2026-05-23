@@ -18338,5 +18338,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "*💔",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7915832",
+    "type": "public",
+    "date": "23/05 16:55",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[secret-share: H7YR8N0T7DqU6Dg0pkVUi54CW&n=47296] send me whatever",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
