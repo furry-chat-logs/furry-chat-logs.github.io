@@ -10638,5 +10638,25 @@
     "userClasses": "username bcolor12 bnfont2",
     "message": "im js playing russian roulettge w random images in my photos",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915060",
+    "type": "public",
+    "date": "23/05 13:02",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_2601d73050ac.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915061",
+    "type": "public",
+    "date": "23/05 13:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Bro 💔🥀",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
