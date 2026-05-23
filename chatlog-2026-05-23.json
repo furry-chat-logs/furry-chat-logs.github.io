@@ -5868,5 +5868,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Heyo",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914579",
+    "type": "public",
+    "date": "23/05 10:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "New Kid heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
