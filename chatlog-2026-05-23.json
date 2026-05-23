@@ -7818,5 +7818,15 @@
     "userClasses": "username bneon4 ",
     "message": "AHAHAHA",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7914775",
+    "type": "public",
+    "date": "23/05 11:11",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_8cc95cbcdce1.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
