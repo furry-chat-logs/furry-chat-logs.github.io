@@ -8948,5 +8948,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "this IS FurryChat",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914888",
+    "type": "public",
+    "date": "23/05 11:27",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Medokin okay so you see it too??",
+    "msgClasses": "chat_message "
   }
 ]
