@@ -3688,5 +3688,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Medokin you gonna try what I said?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914361",
+    "type": "public",
+    "date": "23/05 3:27",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "oh, and Sackleinen can also fulfit",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
