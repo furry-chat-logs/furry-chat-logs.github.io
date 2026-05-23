@@ -5628,5 +5628,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Gm everyone",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7914555",
+    "type": "public",
+    "date": "23/05 8:44",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Finally people",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
