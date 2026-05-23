@@ -9918,5 +9918,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Fahhhh",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914988",
+    "type": "public",
+    "date": "23/05 12:29",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Superbot time",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
