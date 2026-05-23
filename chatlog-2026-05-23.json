@@ -10678,5 +10678,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "syx",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7915064",
+    "type": "public",
+    "date": "23/05 13:02",
+    "username": "syx",
+    "userId": "37338",
+    "userClasses": "username bcolor12 bnfont14",
+    "message": "hm",
+    "msgClasses": "chat_message "
   }
 ]
