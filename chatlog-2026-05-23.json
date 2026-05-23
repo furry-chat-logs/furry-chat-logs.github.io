@@ -4718,5 +4718,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "No, I do not believe in any fictional characters.",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7914464",
+    "type": "public",
+    "date": "23/05 4:50",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[pizza] 🍔",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
