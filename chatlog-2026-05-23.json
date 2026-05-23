@@ -12518,5 +12518,15 @@
     "userClasses": "username bcolor1 bnfont15",
     "message": "TIKO Smiley I thought I was the only one here who listened to Metallica.",
     "msgClasses": "chat_message bgrad39  bfont1"
+  },
+  {
+    "id": "7915249",
+    "type": "public",
+    "date": "23/05 13:40",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "What do you call a blind dinosaur? Doyouthinkhesawus rex  23/05 19:39 SON 😭",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
