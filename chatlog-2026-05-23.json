@@ -9558,5 +9558,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "New Kid welcome to the digital era",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914949",
+    "type": "public",
+    "date": "23/05 11:48",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bruh my naibers are listing to music",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
