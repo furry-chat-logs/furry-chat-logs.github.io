@@ -11568,5 +11568,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Welp brb",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7915154",
+    "type": "public",
+    "date": "23/05 13:15",
+    "username": "syx",
+    "userId": "37338",
+    "userClasses": "username bcolor12 bnfont14",
+    "message": "well my pfp did say",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915155",
+    "type": "public",
+    "date": "23/05 13:15",
+    "username": "syx",
+    "userId": "37338",
+    "userClasses": "username bcolor12 bnfont14",
+    "message": "im NOT a pedo",
+    "msgClasses": "chat_message "
   }
 ]
