@@ -4788,5 +4788,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "I say there's a good chance you learn more outside of school than you do inside",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7914471",
+    "type": "public",
+    "date": "23/05 4:58",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Fr",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
