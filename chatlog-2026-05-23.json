@@ -508,5 +508,35 @@
     "userClasses": "username user ",
     "message": "Hmmmm",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914040",
+    "type": "public",
+    "date": "23/05 1:09",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "If i was a bot i wont be here",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914041",
+    "type": "public",
+    "date": "23/05 1:09",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Meaow I am!",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7914042",
+    "type": "public",
+    "date": "23/05 1:09",
+    "username": "Meaow",
+    "userId": "37330",
+    "userClasses": "username user ",
+    "message": "Im not sure",
+    "msgClasses": "chat_message "
   }
 ]
