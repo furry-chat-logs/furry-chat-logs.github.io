@@ -628,5 +628,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "KingCorgz [good]",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914052",
+    "type": "public",
+    "date": "23/05 1:31",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Bro doesn't have built in emojis",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
