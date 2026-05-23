@@ -20808,5 +20808,35 @@
     "userClasses": "username bneon4 ",
     "message": "Drink beer",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7916082",
+    "type": "public",
+    "date": "23/05 18:03",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Porphyrophobia what did you eat fatty",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7916083",
+    "type": "public",
+    "date": "23/05 18:03",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'd rather not touch that stuff",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7916084",
+    "type": "public",
+    "date": "23/05 18:03",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[toro]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
