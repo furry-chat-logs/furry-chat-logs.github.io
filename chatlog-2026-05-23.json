@@ -3228,5 +3228,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan okay",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914315",
+    "type": "public",
+    "date": "23/05 2:55",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "grades are finalized the 29th........due the same week......bruh.........I gotta keep my grades up....or at least my ELA grade.......without dropping to an F.....",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7914316",
+    "type": "public",
+    "date": "23/05 2:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oof *but slow motion*",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914317",
+    "type": "public",
+    "date": "23/05 2:56",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "ZephTheFloofBoi you get graitat with lethers",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
