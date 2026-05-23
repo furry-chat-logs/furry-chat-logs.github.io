@@ -5178,5 +5178,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nie lubię szkoły",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914510",
+    "type": "public",
+    "date": "23/05 6:40",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lubię rośliny",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
