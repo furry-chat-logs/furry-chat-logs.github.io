@@ -4288,5 +4288,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Broke*",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7914421",
+    "type": "public",
+    "date": "23/05 4:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc3BzaGN3aWpqdWs0bmV2cmJtZHJoM3Z4MDd5NzNtaXpvc3I1NTYxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nhT8ZkGd2dP31d466F/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
