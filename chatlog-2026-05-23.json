@@ -16208,5 +16208,25 @@
     "userClasses": "username bcolor3 bnfont15",
     "message": "Okay then",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915619",
+    "type": "public",
+    "date": "23/05 15:57",
+    "username": "AllisonsAwesomeAlt",
+    "userId": "25339",
+    "userClasses": "username bcolor3 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25339_eb34c11063dd.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915620",
+    "type": "public",
+    "date": "23/05 15:58",
+    "username": "AllisonsAwesomeAlt",
+    "userId": "25339",
+    "userClasses": "username bcolor3 bnfont15",
+    "message": "open poll",
+    "msgClasses": "chat_message "
   }
 ]
