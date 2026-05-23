@@ -10778,5 +10778,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "MysteryMonnQuotev",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7915074",
+    "type": "public",
+    "date": "23/05 13:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "0G Stupendous Man wat",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
