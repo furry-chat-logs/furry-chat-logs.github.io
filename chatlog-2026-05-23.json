@@ -5448,5 +5448,15 @@
     "userClasses": "username bcolor18 bnfont7",
     "message": "quite often yeah",
     "msgClasses": "chat_message bcolor17 heavyital"
+  },
+  {
+    "id": "7914537",
+    "type": "public",
+    "date": "23/05 7:44",
+    "username": "Random Person",
+    "userId": "7700",
+    "userClasses": "username bcolor18 bnfont7",
+    "message": "im rarely here either",
+    "msgClasses": "chat_message bcolor17 heavyital"
   }
 ]
