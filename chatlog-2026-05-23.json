@@ -7658,5 +7658,15 @@
     "userClasses": "username bneon4 ",
     "message": "I love kiwis",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7914759",
+    "type": "public",
+    "date": "23/05 11:09",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ye me too",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
