@@ -7848,5 +7848,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "Deimos 😭😂",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914778",
+    "type": "public",
+    "date": "23/05 11:11",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOHNjdTNvZmd0amgzZ2g5MmJvemk5eTQ4OWh3bjVvcTBzb2pyY3IybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pdPNobzDlCxoI/giphy.gif]",
+    "msgClasses": "chat_message bgrad39"
   }
 ]
