@@ -2028,5 +2028,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Should I be miku or teto",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914195",
+    "type": "public",
+    "date": "23/05 2:27",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Yatagarasu idk",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
