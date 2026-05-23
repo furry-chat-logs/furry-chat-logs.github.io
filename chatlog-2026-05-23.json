@@ -9418,5 +9418,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "smiley real",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914935",
+    "type": "public",
+    "date": "23/05 11:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_5138be73bef9.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
