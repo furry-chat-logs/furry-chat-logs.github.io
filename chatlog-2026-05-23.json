@@ -14668,5 +14668,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Hi",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915465",
+    "type": "public",
+    "date": "23/05 15:12",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "It's not accepted",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915466",
+    "type": "public",
+    "date": "23/05 15:12",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Miss Kit ew. tr*mp",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
