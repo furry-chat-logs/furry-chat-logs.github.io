@@ -5538,5 +5538,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Hmmm nobody is here",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914546",
+    "type": "public",
+    "date": "23/05 8:41",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "That means I can say things with 0 consequences!",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
