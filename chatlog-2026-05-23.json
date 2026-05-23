@@ -658,5 +658,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hewwooo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914055",
+    "type": "public",
+    "date": "23/05 1:40",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "hiii SoraTheMikuFan",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914056",
+    "type": "public",
+    "date": "23/05 1:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Beo chat is SO dead latelyyy/ᐠ ╥ ˕ ╥マ",
+    "msgClasses": "chat_message bneon14"
   }
 ]
