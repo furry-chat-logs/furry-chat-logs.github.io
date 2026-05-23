@@ -9058,5 +9058,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Why is chat empty.",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914899",
+    "type": "public",
+    "date": "23/05 11:30",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Either she just draws like that of she is one",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914900",
+    "type": "public",
+    "date": "23/05 11:30",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "I hope they are a furry",
+    "msgClasses": "chat_message "
   }
 ]
