@@ -4448,5 +4448,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Nebulais_0 damn",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914437",
+    "type": "public",
+    "date": "23/05 4:23",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Mhm",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
