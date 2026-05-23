@@ -4598,5 +4598,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I'm back",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914452",
+    "type": "public",
+    "date": "23/05 4:32",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Anyone else get just these random times you wanna do something...but your js too tired but you do it anyway?",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
