@@ -3348,5 +3348,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "plant them, once they sprout put them in a bag with holes on the side, like a hanging sack, you put the sprouts in the holes btw",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914327",
+    "type": "public",
+    "date": "23/05 3:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_c8e345679f2f.webp]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914328",
+    "type": "public",
+    "date": "23/05 3:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "yk like these, but smaller",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
