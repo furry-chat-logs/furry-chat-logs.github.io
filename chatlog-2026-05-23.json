@@ -4308,5 +4308,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmajlpM2Exc3o4NnFpeGRyc29hendmaDVpbTZ4a2lhbmE5ZTFjMG80OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NEelVYGngdrqg/giphy.gif]",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914423",
+    "type": "public",
+    "date": "23/05 4:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Nomnom",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914424",
+    "type": "public",
+    "date": "23/05 4:21",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "I'ma at school lol",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
