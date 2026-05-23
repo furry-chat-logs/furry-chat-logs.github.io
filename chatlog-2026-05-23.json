@@ -1618,5 +1618,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yea improvise",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914151",
+    "type": "public",
+    "date": "23/05 2:13",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "Sol_Aizawa that's a good idea",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
