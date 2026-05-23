@@ -19038,5 +19038,55 @@
     "userClasses": "username bneon4 ",
     "message": "\"I play the claw machine, so I get gamer validation?\"",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915903",
+    "type": "public",
+    "date": "23/05 17:16",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Who the fuck wants validation for gaming",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915904",
+    "type": "public",
+    "date": "23/05 17:16",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "07 sounds like some shit you hear driving at midnight on some anonymous radio",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915905",
+    "type": "public",
+    "date": "23/05 17:17",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "And there's FAR worse games than Beat Banger",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915906",
+    "type": "public",
+    "date": "23/05 17:17",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Deimos one time I went through radio stations and found some old guy rant",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915907",
+    "type": "public",
+    "date": "23/05 17:17",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "(I only listen to the OST dw)",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
