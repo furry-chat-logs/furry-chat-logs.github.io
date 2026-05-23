@@ -10248,5 +10248,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Sorta",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7915021",
+    "type": "public",
+    "date": "23/05 12:56",
+    "username": "syx",
+    "userId": "37338",
+    "userClasses": "username user ",
+    "message": "i put 18 jsut in case",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915022",
+    "type": "public",
+    "date": "23/05 12:56",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Not you",
+    "msgClasses": "chat_message bneon4"
   }
 ]
