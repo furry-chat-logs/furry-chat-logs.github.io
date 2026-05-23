@@ -12988,5 +12988,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "💀",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7915296",
+    "type": "public",
+    "date": "23/05 13:48",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Q&A",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
