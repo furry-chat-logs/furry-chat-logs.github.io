@@ -8818,5 +8818,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Smiley hi",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914875",
+    "type": "public",
+    "date": "23/05 11:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmN2o1dDF6aHN2aWg0M3doZzBvaXRqZWc3Y2l2cml2cGVxeHZoc3cyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oS3J3fAf8J0jIFC0JQ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
