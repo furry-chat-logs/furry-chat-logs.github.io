@@ -6628,5 +6628,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Unholyozzy uh oh...",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914655",
+    "type": "public",
+    "date": "23/05 10:43",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "No you aren't",
+    "msgClasses": "chat_message bneon4"
   }
 ]
