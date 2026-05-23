@@ -8438,5 +8438,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ2huYmg1dDk3MXIwbWpxYTB2NjJrbjdtcWFrY2dwM2l1MmN0c21mdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztK8iNdBBOTKw/giphy.gif]",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914837",
+    "type": "public",
+    "date": "23/05 11:20",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Knowledge blows your mind, religion has you blowing up a mosque",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914838",
+    "type": "public",
+    "date": "23/05 11:20",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "what is LMFAO again...?",
+    "msgClasses": "chat_message "
   }
 ]
