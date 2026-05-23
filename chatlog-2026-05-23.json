@@ -17768,5 +17768,45 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[secret-share: Oi2j5b08HQ83svYe7SSviYnHo&n=47295]",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915775",
+    "type": "public",
+    "date": "23/05 16:45",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Metropolitan person.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7915776",
+    "type": "public",
+    "date": "23/05 16:45",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "The d",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915777",
+    "type": "public",
+    "date": "23/05 16:45",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "MISCLICK",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915778",
+    "type": "public",
+    "date": "23/05 16:45",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "anyway",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
