@@ -8638,5 +8638,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "New Kid no",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914857",
+    "type": "public",
+    "date": "23/05 11:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Medokin 67",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914858",
+    "type": "public",
+    "date": "23/05 11:22",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "NEW KID STOP",
+    "msgClasses": "chat_message "
   }
 ]
