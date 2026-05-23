@@ -5348,5 +5348,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rat؜ you got shool?",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914527",
+    "type": "public",
+    "date": "23/05 7:11",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Medokin Thankfully no",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
