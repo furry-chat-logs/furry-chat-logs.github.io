@@ -13618,5 +13618,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Spectre_protogen do you want me to text them to get on?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915360",
+    "type": "public",
+    "date": "23/05 14:23",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Nah I'd win",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
