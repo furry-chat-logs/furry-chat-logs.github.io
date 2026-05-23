@@ -7378,5 +7378,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914731",
+    "type": "public",
+    "date": "23/05 11:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "*respawns* bruh... I keep dying",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
