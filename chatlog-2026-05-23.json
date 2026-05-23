@@ -19578,5 +19578,45 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Im gonna try to sleep now. See yall in 5 minutes when I fail",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7915957",
+    "type": "public",
+    "date": "23/05 17:27",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915958",
+    "type": "public",
+    "date": "23/05 17:27",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Spectre_protogen lol",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915959",
+    "type": "public",
+    "date": "23/05 17:27",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ok",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915960",
+    "type": "public",
+    "date": "23/05 17:27",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Not the best but eh I like it",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
