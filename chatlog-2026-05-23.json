@@ -14838,5 +14838,15 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Bio updated. [nerd]",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915482",
+    "type": "public",
+    "date": "23/05 15:17",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "OMG",
+    "msgClasses": "chat_message bneon4"
   }
 ]
