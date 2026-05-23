@@ -10398,5 +10398,15 @@
     "userClasses": "username bcolor12 bnfont4",
     "message": "hoiw do i chagne my font",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915036",
+    "type": "public",
+    "date": "23/05 12:58",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Uhh",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
