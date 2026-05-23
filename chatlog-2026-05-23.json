@@ -8848,5 +8848,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914878",
+    "type": "public",
+    "date": "23/05 11:25",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rafteatsrocks ima go to sleep",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
