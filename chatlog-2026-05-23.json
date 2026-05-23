@@ -6058,5 +6058,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "AAAAAAAAAAAAA",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914598",
+    "type": "public",
+    "date": "23/05 10:29",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Greedy much?",
+    "msgClasses": "chat_message "
   }
 ]
