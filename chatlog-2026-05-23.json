@@ -18238,5 +18238,35 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "There.",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915822",
+    "type": "public",
+    "date": "23/05 16:54",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Guys",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915823",
+    "type": "public",
+    "date": "23/05 16:54",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Hold me",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915824",
+    "type": "public",
+    "date": "23/05 16:54",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "open poll",
+    "msgClasses": "chat_message bgrad32  bfont11"
   }
 ]
