@@ -18118,5 +18118,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "asterr alr elliot.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915810",
+    "type": "public",
+    "date": "23/05 16:51",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdzFsOXFhdXMwYjV6eGRubzZzbXBoc3BhdGE5enFteGJraWdpNWZpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZgtRYTwqIXXNRzQrUR/giphy.gif]",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915811",
+    "type": "public",
+    "date": "23/05 16:51",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "wheres zen i wanna bother him😞",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
