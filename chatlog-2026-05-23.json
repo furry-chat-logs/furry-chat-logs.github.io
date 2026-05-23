@@ -1088,5 +1088,85 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nach a whole bock",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914098",
+    "type": "public",
+    "date": "23/05 1:59",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_184d537b9f2c.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914099",
+    "type": "public",
+    "date": "23/05 1:59",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm not going to read this much",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914100",
+    "type": "public",
+    "date": "23/05 1:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I just like to read",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914101",
+    "type": "public",
+    "date": "23/05 1:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Not for schooollll",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914102",
+    "type": "public",
+    "date": "23/05 1:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ew school",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914103",
+    "type": "public",
+    "date": "23/05 1:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "School not so nice",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914104",
+    "type": "public",
+    "date": "23/05 1:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": ">:3",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914105",
+    "type": "public",
+    "date": "23/05 1:59",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan yach",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
