@@ -11818,5 +11818,15 @@
     "userClasses": "username bcolor12 bnfont14",
     "message": "ish",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915179",
+    "type": "public",
+    "date": "23/05 13:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "syx what is it",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
