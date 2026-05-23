@@ -16318,5 +16318,125 @@
     "userClasses": "username bcolor3 bnfont15",
     "message": "Runefaust ?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915630",
+    "type": "public",
+    "date": "23/05 16:01",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "I think I have an ancient version of Porphyria from a different universe that is buff",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915631",
+    "type": "public",
+    "date": "23/05 16:01",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "But I only shown it once or twice",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915632",
+    "type": "public",
+    "date": "23/05 16:01",
+    "username": "AllisonsAwesomeAlt",
+    "userId": "25339",
+    "userClasses": "username bcolor3 bnfont15",
+    "message": "Let's see it",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915633",
+    "type": "public",
+    "date": "23/05 16:01",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[smileface]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7915634",
+    "type": "public",
+    "date": "23/05 16:01",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Lemme see if I can find it",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915635",
+    "type": "public",
+    "date": "23/05 16:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Chat",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915636",
+    "type": "public",
+    "date": "23/05 16:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I made delicious mastérpiece",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915637",
+    "type": "public",
+    "date": "23/05 16:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_0a008cfbc161.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915638",
+    "type": "public",
+    "date": "23/05 16:02",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yum",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915639",
+    "type": "public",
+    "date": "23/05 16:03",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_463a613d0dc1.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915640",
+    "type": "public",
+    "date": "23/05 16:03",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "I gotta redraw this",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915641",
+    "type": "public",
+    "date": "23/05 16:03",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Runefaust HABHSBAHSDBAHBDBASHDASBD-",
+    "msgClasses": "chat_message ital"
   }
 ]
