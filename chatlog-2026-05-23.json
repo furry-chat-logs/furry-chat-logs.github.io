@@ -16638,5 +16638,65 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[secret-share: Oi2j5b08HQ83svYe7SSviYnHo&n=47295] Have at it.",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915662",
+    "type": "public",
+    "date": "23/05 16:13",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915663",
+    "type": "public",
+    "date": "23/05 16:13",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "mwah! 23/05 16:12 Teehee~",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915664",
+    "type": "public",
+    "date": "23/05 16:13",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_40d5d936eb92.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915665",
+    "type": "public",
+    "date": "23/05 16:13",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Lu dont even",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915666",
+    "type": "public",
+    "date": "23/05 16:14",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_1906377449ee.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915667",
+    "type": "public",
+    "date": "23/05 16:14",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "LU STOP",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
