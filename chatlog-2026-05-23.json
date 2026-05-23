@@ -21178,5 +21178,45 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Breadcrumbs comm time when?",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7916119",
+    "type": "public",
+    "date": "23/05 18:25",
+    "username": "millofboy",
+    "userId": "35337",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "hru all ?",
+    "msgClasses": "chat_message bcolor1 heavyital"
+  },
+  {
+    "id": "7916120",
+    "type": "public",
+    "date": "23/05 18:25",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "sinnercat_mondo I don't want a job u turned into a job",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916121",
+    "type": "public",
+    "date": "23/05 18:26",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hi",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7916122",
+    "type": "public",
+    "date": "23/05 18:26",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "(when I desperate for money)",
+    "msgClasses": "chat_message bneon23  bfont8"
   }
 ]
