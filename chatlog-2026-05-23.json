@@ -9718,5 +9718,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Michael.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7914968",
+    "type": "public",
+    "date": "23/05 11:57",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "HEE HEE",
+    "msgClasses": "chat_message "
   }
 ]
