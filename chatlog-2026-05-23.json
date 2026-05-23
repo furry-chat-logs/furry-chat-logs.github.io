@@ -7958,5 +7958,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "Miss Kit LOL",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914789",
+    "type": "public",
+    "date": "23/05 11:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f9b066640d6f.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
