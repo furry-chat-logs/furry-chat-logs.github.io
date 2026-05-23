@@ -5098,5 +5098,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Random hair I found",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914502",
+    "type": "public",
+    "date": "23/05 6:36",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Q",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
