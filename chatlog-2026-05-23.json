@@ -12868,5 +12868,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I'm back",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7915284",
+    "type": "public",
+    "date": "23/05 13:46",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Sol_Aizawa hi back",
+    "msgClasses": "chat_message "
   }
 ]
