@@ -9118,5 +9118,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Its not that dead",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914905",
+    "type": "public",
+    "date": "23/05 11:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "There was shi going on a s ec ago",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
