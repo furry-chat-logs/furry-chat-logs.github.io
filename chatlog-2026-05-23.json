@@ -12748,5 +12748,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] )",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915272",
+    "type": "public",
+    "date": "23/05 13:43",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "TIKO true",
+    "msgClasses": "chat_message bgrad39  bfont1"
   }
 ]
