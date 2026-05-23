@@ -5208,5 +5208,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "whys chat so silent",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914513",
+    "type": "public",
+    "date": "23/05 7:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa idk",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
