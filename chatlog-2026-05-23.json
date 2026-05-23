@@ -19538,5 +19538,45 @@
     "userClasses": "username user ",
     "message": "That's why the best person to talk to is yourself",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915953",
+    "type": "public",
+    "date": "23/05 17:26",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I'm wrong don't take that advice",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915954",
+    "type": "public",
+    "date": "23/05 17:26",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "But that's enough for me to curl into my own ball and shut everyone else out",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915955",
+    "type": "public",
+    "date": "23/05 17:26",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_49ace6e14908.mp3 | disappear_in_c#.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915956",
+    "type": "public",
+    "date": "23/05 17:26",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Im gonna try to sleep now. See yall in 5 minutes when I fail",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
