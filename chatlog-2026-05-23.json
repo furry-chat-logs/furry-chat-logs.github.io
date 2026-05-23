@@ -20958,5 +20958,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "wall post time",
     "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7916097",
+    "type": "public",
+    "date": "23/05 18:14",
+    "username": "Nyx",
+    "userId": "495",
+    "userClasses": "username bneon23 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdTVjZ2hpandybXdpMmhvaWV1MXBjd2ZsejIxdzNnbzUwMHBtaTN1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ooUjTFEYnaVPu1W1ia/giphy.gif]",
+    "msgClasses": "chat_message bneon23 bold bfont11"
   }
 ]
