@@ -10158,5 +10158,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Cause I'm real confused",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7915012",
+    "type": "public",
+    "date": "23/05 12:47",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Marsmelow-boi nach",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
