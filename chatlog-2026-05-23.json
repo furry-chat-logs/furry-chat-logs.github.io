@@ -2658,5 +2658,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "heh",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914258",
+    "type": "public",
+    "date": "23/05 2:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oki",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914259",
+    "type": "public",
+    "date": "23/05 2:47",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ritfim",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914260",
+    "type": "public",
+    "date": "23/05 2:47",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ritmus",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
