@@ -15288,5 +15288,35 @@
     "userClasses": "username bneon4 ",
     "message": "Balright",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915527",
+    "type": "public",
+    "date": "23/05 15:41",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user19750_ad288bd24955.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915528",
+    "type": "public",
+    "date": "23/05 15:41",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Good Miss Kit . (I was on a game. Sorry)",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7915529",
+    "type": "public",
+    "date": "23/05 15:41",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_392894efa536.gif]",
+    "msgClasses": "chat_message "
   }
 ]
