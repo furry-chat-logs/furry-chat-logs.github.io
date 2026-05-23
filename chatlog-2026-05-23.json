@@ -17128,5 +17128,45 @@
     "userClasses": "username bneon4 ",
     "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915711",
+    "type": "public",
+    "date": "23/05 16:34",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNDhmemdyMjV2M245eXZhNnhwZjZtMHdtdXh2b3lnNmdzMG40ZHQ1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/90H1S1tCYPq08Di5dK/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7915712",
+    "type": "public",
+    "date": "23/05 16:34",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_e30ac2bbd111.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915713",
+    "type": "public",
+    "date": "23/05 16:34",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Whoop",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915714",
+    "type": "public",
+    "date": "23/05 16:35",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "And I know it, too.",
+    "msgClasses": "chat_message bgrad32  bfont11"
   }
 ]
