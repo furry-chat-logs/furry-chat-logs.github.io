@@ -12228,5 +12228,15 @@
     "userClasses": "username bcolor28 ",
     "message": "issa",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7915220",
+    "type": "public",
+    "date": "23/05 13:35",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "liminal HELLO!",
+    "msgClasses": "chat_message ital"
   }
 ]
