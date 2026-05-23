@@ -21068,5 +21068,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Heyyy....",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7916108",
+    "type": "public",
+    "date": "23/05 18:23",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Anyway. Phone literally on 6%. Bye guys",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7916109",
+    "type": "public",
+    "date": "23/05 18:23",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Spectre_protogen its true though",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7916110",
+    "type": "public",
+    "date": "23/05 18:23",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Spectre_protogen bye !",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
