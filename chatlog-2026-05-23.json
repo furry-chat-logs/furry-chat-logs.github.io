@@ -8608,5 +8608,15 @@
     "userClasses": "username bneon18 ",
     "message": "The acronym or the duo? 🤔",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7914854",
+    "type": "public",
+    "date": "23/05 11:21",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "67",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
