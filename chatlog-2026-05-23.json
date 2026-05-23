@@ -5928,5 +5928,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "could be better",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914585",
+    "type": "public",
+    "date": "23/05 10:24",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "its like 87 degrees fahrenheid in my countrie",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
