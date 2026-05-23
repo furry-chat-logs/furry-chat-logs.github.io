@@ -6278,5 +6278,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Yeah we know who's getting targeted first if one of THOSE people join FC",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914620",
+    "type": "public",
+    "date": "23/05 10:37",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "New Kid hii",
+    "msgClasses": "chat_message bneon4"
   }
 ]
