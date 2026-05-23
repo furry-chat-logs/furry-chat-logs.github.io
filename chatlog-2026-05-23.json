@@ -4168,5 +4168,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "damn python is indeed case sensitive",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914409",
+    "type": "public",
+    "date": "23/05 4:18",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Cool!",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
