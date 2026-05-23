@@ -8838,5 +8838,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "wait it's not even past noon",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914877",
+    "type": "public",
+    "date": "23/05 11:25",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "...",
+    "msgClasses": "chat_message "
   }
 ]
