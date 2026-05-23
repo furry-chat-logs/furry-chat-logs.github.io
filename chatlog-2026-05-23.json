@@ -4758,5 +4758,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "They teach you the same shit every single year",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7914468",
+    "type": "public",
+    "date": "23/05 4:51",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Yeah.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
