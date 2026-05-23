@@ -7238,5 +7238,15 @@
     "userClasses": "username bneon4 ",
     "message": "*gives you Viltrumite powers*",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7914717",
+    "type": "public",
+    "date": "23/05 10:55",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ooh!",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
