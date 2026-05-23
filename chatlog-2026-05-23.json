@@ -12808,5 +12808,15 @@
     "userClasses": "username bcolor1 bnfont15",
     "message": "TIKO Do you have an electric guitar too?",
     "msgClasses": "chat_message bgrad39  bfont1"
+  },
+  {
+    "id": "7915278",
+    "type": "public",
+    "date": "23/05 13:45",
+    "username": "KURTIS",
+    "userId": "28569",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "[secret-share: a7ysOXO0RoWMVHAvct7eAUC5J&n=47291] try this one sorry",
+    "msgClasses": "chat_message bgrad38 heavyital bfont3"
   }
 ]
