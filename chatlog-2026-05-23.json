@@ -2138,5 +2138,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Tetooo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914206",
+    "type": "public",
+    "date": "23/05 2:30",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Anyways time to get my 2nd alt",
+    "msgClasses": "chat_message "
   }
 ]
