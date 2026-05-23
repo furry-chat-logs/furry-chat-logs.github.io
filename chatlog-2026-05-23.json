@@ -5938,5 +5938,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "its like 87 degrees fahrenheid in my countrie",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914586",
+    "type": "public",
+    "date": "23/05 10:24",
+    "username": "Unholyozzy",
+    "userId": "33677",
+    "userClasses": "username bgrad7 bnfont8",
+    "message": "its getting there in mine",
+    "msgClasses": "chat_message bgrad39"
   }
 ]
