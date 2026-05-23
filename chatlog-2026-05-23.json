@@ -10798,5 +10798,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Someone was bothering them",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7915076",
+    "type": "public",
+    "date": "23/05 13:04",
+    "username": "syx",
+    "userId": "37338",
+    "userClasses": "username bcolor12 bnfont14",
+    "message": "ah",
+    "msgClasses": "chat_message "
   }
 ]
