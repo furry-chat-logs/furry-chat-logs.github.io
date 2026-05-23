@@ -1278,5 +1278,35 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "new pfp :3",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914117",
+    "type": "public",
+    "date": "23/05 2:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "The only pne I know",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914118",
+    "type": "public",
+    "date": "23/05 2:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "bluee ooh it's now very blue!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914119",
+    "type": "public",
+    "date": "23/05 2:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Me is also blue :3",
+    "msgClasses": "chat_message bneon14"
   }
 ]
