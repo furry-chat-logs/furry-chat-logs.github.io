@@ -6138,5 +6138,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Site",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914606",
+    "type": "public",
+    "date": "23/05 10:33",
+    "username": "Marsmelow-boi",
+    "userId": "8404",
+    "userClasses": "username bgrad37 bnfont6",
+    "message": "Spectre_protogen hewo",
+    "msgClasses": "chat_message bgrad4 boldital bfont2"
   }
 ]
