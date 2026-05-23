@@ -7518,5 +7518,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I locked the door to the snacks... like actually locked it",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914745",
+    "type": "public",
+    "date": "23/05 11:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa who doesn't",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
