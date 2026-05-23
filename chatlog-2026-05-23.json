@@ -5638,5 +5638,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Finally people",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914556",
+    "type": "public",
+    "date": "23/05 8:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Wait aw man I can't say outrageous shit anymore",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914557",
+    "type": "public",
+    "date": "23/05 8:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I guess I should hop over to the friend wall",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
