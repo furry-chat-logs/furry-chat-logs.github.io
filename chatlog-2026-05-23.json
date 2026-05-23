@@ -16558,5 +16558,35 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2Z3OWkwd3JjdGg3OHgzamdmc2N6aGY2dnlybndrdXl0eWwzMDJmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ivw3Gzk8EK495WrQmk/giphy.gif]",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915654",
+    "type": "public",
+    "date": "23/05 16:09",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I bit the bullet and voted on the poll so I can check the results myself",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7915655",
+    "type": "public",
+    "date": "23/05 16:09",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Liz is still in the lead",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7915656",
+    "type": "public",
+    "date": "23/05 16:09",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "M'lady, tis the clobbering hour",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
