@@ -17598,5 +17598,45 @@
     "userClasses": "username bneon4 ",
     "message": "SS) Heyy",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915758",
+    "type": "public",
+    "date": "23/05 16:40",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "SS) stop trying to talk to me",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915759",
+    "type": "public",
+    "date": "23/05 16:41",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "What part of being blocked is it so hard for both of you to understand",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915760",
+    "type": "public",
+    "date": "23/05 16:41",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "You literally thanked me.",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915761",
+    "type": "public",
+    "date": "23/05 16:41",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGRkeTJybzRlZndjemUwcXozYXMwNHZpOGdrdDRzYmJxbHAzbXh4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jL3BzwzMDOVHtKWhjI/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
