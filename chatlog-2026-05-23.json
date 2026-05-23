@@ -9138,5 +9138,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Well imma go byebye",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914907",
+    "type": "public",
+    "date": "23/05 11:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Does my chat not go that far back",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
