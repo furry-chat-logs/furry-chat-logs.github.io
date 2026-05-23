@@ -5508,5 +5508,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[good]",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914543",
+    "type": "public",
+    "date": "23/05 8:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Then again most of you probably wouldn't be here if my goofy ahh was in charge 😭",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
