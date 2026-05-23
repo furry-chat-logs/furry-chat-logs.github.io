@@ -5828,5 +5828,15 @@
     "userClasses": "username user ",
     "message": "I hope everyone is having a lovely day!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914575",
+    "type": "public",
+    "date": "23/05 9:27",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm.",
+    "msgClasses": "chat_message ital"
   }
 ]
