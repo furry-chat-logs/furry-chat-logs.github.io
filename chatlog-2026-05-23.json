@@ -9168,5 +9168,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "My friend stole the new school poster",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914910",
+    "type": "public",
+    "date": "23/05 11:31",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "Ima spin in my chair like alastor real quick",
+    "msgClasses": "chat_message "
   }
 ]
