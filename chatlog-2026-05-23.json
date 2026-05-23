@@ -838,5 +838,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "≽(◉˕ ◉ ≼マ",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914073",
+    "type": "public",
+    "date": "23/05 1:44",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "I'm good just chilling",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
