@@ -4358,5 +4358,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I think",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914428",
+    "type": "public",
+    "date": "23/05 4:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I don't have school today",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914429",
+    "type": "public",
+    "date": "23/05 4:22",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "In Italy there's school on Saturday",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
