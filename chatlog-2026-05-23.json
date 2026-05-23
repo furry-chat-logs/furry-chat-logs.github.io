@@ -9218,5 +9218,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "You can check the other chats it shows only a few to none at times",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914915",
+    "type": "public",
+    "date": "23/05 11:34",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Idk",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
