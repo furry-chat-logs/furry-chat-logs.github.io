@@ -4008,5 +4008,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36863_c1aa66a1d771.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914393",
+    "type": "public",
+    "date": "23/05 4:12",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "need to explain anymore?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
