@@ -10298,5 +10298,15 @@
     "userClasses": "username bneon4 ",
     "message": "What did marshmallow say",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915026",
+    "type": "public",
+    "date": "23/05 12:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "syx ah",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
