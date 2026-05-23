@@ -7828,5 +7828,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user24440_8cc95cbcdce1.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914776",
+    "type": "public",
+    "date": "23/05 11:11",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_4915f3dae297.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914777",
+    "type": "public",
+    "date": "23/05 11:11",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "Deimos 😭😂",
+    "msgClasses": "chat_message "
   }
 ]
