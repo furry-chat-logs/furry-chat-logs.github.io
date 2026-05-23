@@ -12348,5 +12348,25 @@
     "userClasses": "username bneon4 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_504d0b9ad97d.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915232",
+    "type": "public",
+    "date": "23/05 13:37",
+    "username": "TIKO",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "Eminens Afton me",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7915233",
+    "type": "public",
+    "date": "23/05 13:37",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Eminens Afton yes",
+    "msgClasses": "chat_message "
   }
 ]
