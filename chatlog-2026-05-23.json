@@ -1598,5 +1598,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "bluee just say it was a dare...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914149",
+    "type": "public",
+    "date": "23/05 2:13",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa haiiiii",
+    "msgClasses": "chat_message bneon14"
   }
 ]
