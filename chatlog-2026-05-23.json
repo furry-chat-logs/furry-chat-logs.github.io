@@ -3938,5 +3938,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Iyas_fox wat food do you like",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914386",
+    "type": "public",
+    "date": "23/05 4:02",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Hmmm not sure ther aloth",
+    "msgClasses": "chat_message "
   }
 ]
