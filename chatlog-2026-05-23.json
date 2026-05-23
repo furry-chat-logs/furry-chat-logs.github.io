@@ -12468,5 +12468,25 @@
     "userClasses": "username bcolor12 bnfont14",
     "message": "wait guys how do u turn on dark mode",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915244",
+    "type": "public",
+    "date": "23/05 13:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "why do u think black people exist 23/05 13:39 because the world would be too easy if they didn't",
+    "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7915246",
+    "type": "public",
+    "date": "23/05 13:39",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "syx Profile -> account -> theme settings",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
