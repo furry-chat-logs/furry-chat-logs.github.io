@@ -1058,5 +1058,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Yah that's why I chose this book",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914095",
+    "type": "public",
+    "date": "23/05 1:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I am not gonna read this in a month",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914096",
+    "type": "public",
+    "date": "23/05 1:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Tho I needed to do something like this in 2nd-3rd grade I think...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914097",
+    "type": "public",
+    "date": "23/05 1:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nach a whole bock",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
