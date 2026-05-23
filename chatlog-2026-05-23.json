@@ -9178,5 +9178,25 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "Ima spin in my chair like alastor real quick",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914911",
+    "type": "public",
+    "date": "23/05 11:32",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "New Kid doesn't chat delete it after time",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914912",
+    "type": "public",
+    "date": "23/05 11:32",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "\"Not the friend we was discussing about if they furry or not\"",
+    "msgClasses": "chat_message "
   }
 ]
