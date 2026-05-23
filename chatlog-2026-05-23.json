@@ -9868,5 +9868,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rafteatsrocks okay",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914983",
+    "type": "public",
+    "date": "23/05 12:17",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bye",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914984",
+    "type": "public",
+    "date": "23/05 12:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Ima invite one of my friends",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
