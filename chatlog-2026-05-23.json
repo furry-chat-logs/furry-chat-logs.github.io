@@ -19768,5 +19768,25 @@
     "userClasses": "username bneon4 ",
     "message": "Cause I don't want you to have the opportunity to hurt me, and I'll be the only person I can blame when you desert me",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915976",
+    "type": "public",
+    "date": "23/05 17:35",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: Oi2j5b08HQ83svYe7SSviYnHo&n=47295]",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915977",
+    "type": "public",
+    "date": "23/05 17:36",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "open poll",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
