@@ -3698,5 +3698,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "oh, and Sackleinen can also fulfit",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914362",
+    "type": "public",
+    "date": "23/05 3:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "oh he is offline...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
