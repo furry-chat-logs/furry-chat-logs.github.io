@@ -3918,5 +3918,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Iyas_fox hai",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914384",
+    "type": "public",
+    "date": "23/05 4:01",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Hihi medokin :3",
+    "msgClasses": "chat_message "
   }
 ]
