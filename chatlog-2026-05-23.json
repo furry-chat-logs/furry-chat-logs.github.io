@@ -4998,5 +4998,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa hi",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914492",
+    "type": "public",
+    "date": "23/05 6:19",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Medokin ok",
+    "msgClasses": "chat_message "
   }
 ]
