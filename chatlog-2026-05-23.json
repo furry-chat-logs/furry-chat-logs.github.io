@@ -4528,5 +4528,25 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Oof",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7914445",
+    "type": "public",
+    "date": "23/05 4:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "404 not found",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914446",
+    "type": "public",
+    "date": "23/05 4:25",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "nice eastpack pencil case",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
