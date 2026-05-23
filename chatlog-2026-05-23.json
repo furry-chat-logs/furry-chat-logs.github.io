@@ -17718,5 +17718,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Issa brother.",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915770",
+    "type": "public",
+    "date": "23/05 16:44",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I know the meaning.",
+    "msgClasses": "chat_message ital"
   }
 ]
