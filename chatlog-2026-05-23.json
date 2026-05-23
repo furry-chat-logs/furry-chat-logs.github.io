@@ -12998,5 +12998,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Q&A",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915297",
+    "type": "public",
+    "date": "23/05 13:48",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemt5bnRkY3dvbG5ubWNrd2dlZ3doYXd4dDg3bjJ0cG5nNnlhM2dndyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/doUu2ByZDbPYQ/giphy.gif]",
+    "msgClasses": "chat_message bgrad39  bfont1"
+  },
+  {
+    "id": "7915298",
+    "type": "public",
+    "date": "23/05 13:48",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYTZzNGZveXJ4eGd2bnlwY2lpNjYxczBzcDh0bWtsbmpqMmNqZ2s1aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jT4PueUdugqsg/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
