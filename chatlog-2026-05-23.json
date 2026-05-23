@@ -1798,5 +1798,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I have some more from polar summit",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914172",
+    "type": "public",
+    "date": "23/05 2:18",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa my walking home after school",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
