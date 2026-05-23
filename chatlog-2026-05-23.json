@@ -18208,5 +18208,35 @@
     "userClasses": "username bneon4 ",
     "message": "PS4 GAME BTW",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7915819",
+    "type": "public",
+    "date": "23/05 16:53",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "I'm going back on my main",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915820",
+    "type": "public",
+    "date": "23/05 16:53",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Yatagarasu kk",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915821",
+    "type": "public",
+    "date": "23/05 16:53",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "There.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
