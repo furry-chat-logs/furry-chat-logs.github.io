@@ -5278,5 +5278,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Medokin than people start waking up...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7914520",
+    "type": "public",
+    "date": "23/05 7:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "like most people are online when it is midnight for us",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
