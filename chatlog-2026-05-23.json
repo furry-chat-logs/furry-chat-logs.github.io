@@ -20658,5 +20658,75 @@
     "userClasses": "username bneon10 bnfont11",
     "message": "Miss Kit fine?",
     "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7916067",
+    "type": "public",
+    "date": "23/05 17:59",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Is it spelled correctly?",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7916068",
+    "type": "public",
+    "date": "23/05 18:00",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Porphyrophobia nah you're Theodore because of how much you eat every 5 seconds fatass",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7916069",
+    "type": "public",
+    "date": "23/05 18:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Runefaust STFU",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7916070",
+    "type": "public",
+    "date": "23/05 18:00",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Runefaust self projecting much?",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7916071",
+    "type": "public",
+    "date": "23/05 18:00",
+    "username": "Ashie٭",
+    "userId": "26425",
+    "userClasses": "username bneon10 bnfont11",
+    "message": "Miss Kit yeah?",
+    "msgClasses": "chat_message bcolor6 heavybold bfont4"
+  },
+  {
+    "id": "7916072",
+    "type": "public",
+    "date": "23/05 18:00",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "On break for 5 minutes",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7916073",
+    "type": "public",
+    "date": "23/05 18:01",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_4653fb5853a5.gif]",
+    "msgClasses": "chat_message "
   }
 ]
