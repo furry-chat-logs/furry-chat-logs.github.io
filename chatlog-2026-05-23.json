@@ -5488,5 +5488,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Ah",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914541",
+    "type": "public",
+    "date": "23/05 8:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Man I wish I invented FurryChat",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
