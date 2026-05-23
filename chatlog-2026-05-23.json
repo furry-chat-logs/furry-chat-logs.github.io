@@ -1578,5 +1578,25 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "Sol_Aizawa  hiii",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914147",
+    "type": "public",
+    "date": "23/05 2:13",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Thank god I was in a car so my dad couldn't see it",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914148",
+    "type": "public",
+    "date": "23/05 2:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "bluee just say it was a dare...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
