@@ -10738,5 +10738,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Hm.",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7915070",
+    "type": "public",
+    "date": "23/05 13:03",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Sol_Aizawa who?",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
