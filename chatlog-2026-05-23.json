@@ -4898,5 +4898,15 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "[wooper]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914482",
+    "type": "public",
+    "date": "23/05 5:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Chat is so dead",
+    "msgClasses": "chat_message bneon14"
   }
 ]
