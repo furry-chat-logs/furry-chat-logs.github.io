@@ -2498,5 +2498,45 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_07fec814dacb.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914242",
+    "type": "public",
+    "date": "23/05 2:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Me is air type... true form will mb have wings",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914243",
+    "type": "public",
+    "date": "23/05 2:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Gata cache them all",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914244",
+    "type": "public",
+    "date": "23/05 2:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sprigatito is so cuteeee",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914245",
+    "type": "public",
+    "date": "23/05 2:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Watched only the new horizons a bit",
+    "msgClasses": "chat_message bneon14"
   }
 ]
