@@ -10448,5 +10448,15 @@
     "userClasses": "username bcolor12 bnfont4",
     "message": "not username font",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915041",
+    "type": "public",
+    "date": "23/05 12:59",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Deimos bruh",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
