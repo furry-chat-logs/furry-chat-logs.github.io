@@ -728,5 +728,35 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "x3",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914062",
+    "type": "public",
+    "date": "23/05 1:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hru today? :3",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7914063",
+    "type": "public",
+    "date": "23/05 1:42",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "i'm good!!",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7914064",
+    "type": "public",
+    "date": "23/05 1:42",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "you? ^^",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
