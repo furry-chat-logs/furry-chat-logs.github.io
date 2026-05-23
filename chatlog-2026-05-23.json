@@ -4568,5 +4568,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Sol_Aizawa thanks",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7914449",
+    "type": "public",
+    "date": "23/05 4:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYTl0aXZtY3dyODJ4a2ozYXVzbGsxZ245N3dta28xeDlnNHBmaW5xeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Enr4bc3JeOOzHLYY8R/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
