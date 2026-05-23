@@ -11498,5 +11498,15 @@
     "userClasses": "username bcolor12 bnfont14",
     "message": "IGHT",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915147",
+    "type": "public",
+    "date": "23/05 13:14",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[secret-share: SXocMD8xl15GfZ4AavIzlc3us&n=47281] Q&A",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
