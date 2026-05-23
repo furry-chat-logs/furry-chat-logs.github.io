@@ -3928,5 +3928,15 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "Hihi medokin :3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914385",
+    "type": "public",
+    "date": "23/05 4:02",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Iyas_fox wat food do you like",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
