@@ -10418,5 +10418,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_cc6080986653.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915038",
+    "type": "public",
+    "date": "23/05 12:59",
+    "username": "syx",
+    "userId": "37338",
+    "userClasses": "username bcolor12 bnfont4",
+    "message": "no i mean like ur text fnt",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915039",
+    "type": "public",
+    "date": "23/05 12:59",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_767c5ab85b42.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
