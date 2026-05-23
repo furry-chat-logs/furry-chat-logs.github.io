@@ -6308,5 +6308,25 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "Miss Kit hruu",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7914623",
+    "type": "public",
+    "date": "23/05 10:37",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Miss Kit You know what kind of people I mean.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914624",
+    "type": "public",
+    "date": "23/05 10:37",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I'm doing good$",
+    "msgClasses": "chat_message bneon4"
   }
 ]
