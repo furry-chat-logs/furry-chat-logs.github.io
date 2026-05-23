@@ -22198,5 +22198,55 @@
     "userClasses": "username bgrad38 bnfont6",
     "message": "asterr this is why I hate you",
     "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916221",
+    "type": "public",
+    "date": "23/05 18:43",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Breadcrumbs HELLO??",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7916222",
+    "type": "public",
+    "date": "23/05 18:43",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😭💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7916223",
+    "type": "public",
+    "date": "23/05 18:43",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "Oh hi!",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916224",
+    "type": "public",
+    "date": "23/05 18:43",
+    "username": "sinnercat_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "president mondo for 2028",
+    "msgClasses": "chat_message bneon1 ital bfont12"
+  },
+  {
+    "id": "7916225",
+    "type": "public",
+    "date": "23/05 18:43",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_771afc5527c5.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
