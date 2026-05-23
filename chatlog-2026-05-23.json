@@ -17098,5 +17098,35 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYTd0Y3ViZ3ZybWhtZ2Q1bTU2NjZvenZjMmg3Y2FpcjJ3NWFodWp4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0vhmihKfjHjOIgT51Q/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7915708",
+    "type": "public",
+    "date": "23/05 16:33",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbmV3bHYwNzgzdjFkbnk0N2EyNXlpeXhwd2UyajBpNjYwYnh6dno0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EUKWawNC65oc0/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7915709",
+    "type": "public",
+    "date": "23/05 16:33",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[secret-share: Oi2j5b08HQ83svYe7SSviYnHo&n=47295]",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7915710",
+    "type": "public",
+    "date": "23/05 16:33",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bneon4"
   }
 ]
