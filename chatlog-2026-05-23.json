@@ -14898,5 +14898,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19750_9882cbe27e45.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915488",
+    "type": "public",
+    "date": "23/05 15:21",
+    "username": "AllisonsAwesomeAlt2",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "Chat",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
+  },
+  {
+    "id": "7915489",
+    "type": "public",
+    "date": "23/05 15:21",
+    "username": "AllisonsAwesomeAlt2",
+    "userId": "15496",
+    "userClasses": "username bneon11 bnfont6",
+    "message": "Wtf do I do with my alts",
+    "msgClasses": "chat_message bneon11 heavyital bfont12"
   }
 ]
