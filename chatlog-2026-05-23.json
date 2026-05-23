@@ -12558,5 +12558,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Eminens Afton no, i actually went to the 72 season concert in cali",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7915253",
+    "type": "public",
+    "date": "23/05 13:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[totallove] I have a big fat crush on pink panther",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7915254",
+    "type": "public",
+    "date": "23/05 13:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
