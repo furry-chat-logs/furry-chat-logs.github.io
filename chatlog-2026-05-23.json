@@ -5718,5 +5718,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_c4c2eb5f6eea.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7914564",
+    "type": "public",
+    "date": "23/05 8:48",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I did this yesterday it was fun",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
