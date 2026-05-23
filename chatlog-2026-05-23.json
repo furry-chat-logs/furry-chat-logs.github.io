@@ -7158,5 +7158,15 @@
     "userClasses": "username bneon4 ",
     "message": "Over a ROLEPLAY too",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7914709",
+    "type": "public",
+    "date": "23/05 10:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "*respawns* damn... That was a hard battle.",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
