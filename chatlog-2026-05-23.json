@@ -12328,5 +12328,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "I've always wondered, what is your full name  23/05 19:36 Liam Jones",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7915230",
+    "type": "public",
+    "date": "23/05 13:36",
+    "username": "Eminens Afton",
+    "userId": "35333",
+    "userClasses": "username bcolor1 bnfont15",
+    "message": "Does anyone here like Metallica?",
+    "msgClasses": "chat_message bgrad39  bfont1"
   }
 ]
