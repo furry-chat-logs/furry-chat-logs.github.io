@@ -10608,5 +10608,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "I think you're fine",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7915057",
+    "type": "public",
+    "date": "23/05 13:01",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I think it's funny",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
