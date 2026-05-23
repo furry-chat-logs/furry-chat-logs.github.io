@@ -3808,5 +3808,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "How are you Sol_Aizawa Medokin",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7914373",
+    "type": "public",
+    "date": "23/05 3:59",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Good hby",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
