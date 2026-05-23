@@ -9708,5 +9708,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Heee heee",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7914967",
+    "type": "public",
+    "date": "23/05 11:57",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Michael.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
