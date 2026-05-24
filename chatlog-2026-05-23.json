@@ -28658,5 +28658,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_4b89aeb4f405.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7916870",
+    "type": "public",
+    "date": "23/05 19:56",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "I then proceeded to beat him over the head with a park bench",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7916871",
+    "type": "public",
+    "date": "23/05 19:56",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Back U.U",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7916872",
+    "type": "public",
+    "date": "23/05 19:56",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "asterr I want you dead",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916873",
+    "type": "public",
+    "date": "23/05 19:56",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "Smiley hello",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916874",
+    "type": "public",
+    "date": "23/05 19:56",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Breadcrumbs hi",
+    "msgClasses": "chat_message "
   }
 ]
