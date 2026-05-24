@@ -1988,5 +1988,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan how do you",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917712",
+    "type": "public",
+    "date": "24/05 2:02",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan isn't it harder to do normal things",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917713",
+    "type": "public",
+    "date": "24/05 2:02",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_d72e7d7753d1.png]",
+    "msgClasses": "chat_message "
   }
 ]
