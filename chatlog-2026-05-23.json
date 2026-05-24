@@ -34486,5 +34486,35 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Jake Spanish",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7917454",
+    "type": "public",
+    "date": "23/05 23:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_96c7c4d937d0.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917455",
+    "type": "public",
+    "date": "23/05 23:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "😭😭",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917456",
+    "type": "public",
+    "date": "23/05 23:40",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Deimos it's not",
+    "msgClasses": "chat_message "
   }
 ]
