@@ -5748,5 +5748,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "XxGuardianxX [good] [wooper]",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918497",
+    "type": "public",
+    "date": "24/05 8:13",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "[1f415]",
+    "msgClasses": "chat_message "
   }
 ]
