@@ -4578,5 +4578,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa now I can't un her it",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917972",
+    "type": "public",
+    "date": "24/05 4:05",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user484_80233b7e9a14.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917973",
+    "type": "public",
+    "date": "24/05 4:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Me neither [sob]",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
