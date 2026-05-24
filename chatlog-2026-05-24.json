@@ -7508,5 +7508,25 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "annoying orange IRL donald",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918700",
+    "type": "public",
+    "date": "24/05 10:21",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Numm Bug bro invented a new scin color",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918701",
+    "type": "public",
+    "date": "24/05 10:21",
+    "username": "Ashie٭",
+    "userId": "26425",
+    "userClasses": "username bneon1 bnfont11",
+    "message": "bark",
+    "msgClasses": "chat_message bcolor1 heavybold bfont4"
   }
 ]
