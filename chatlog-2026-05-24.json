@@ -5148,5 +5148,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "i'm doing good, you?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7918181",
+    "type": "public",
+    "date": "24/05 6:33",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Pretty good",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
