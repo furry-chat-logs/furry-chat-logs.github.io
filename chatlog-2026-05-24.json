@@ -4928,5 +4928,25 @@
     "userClasses": "username bcolor28 ",
     "message": "Theyre 2005 japan prize exclusive",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7918007",
+    "type": "public",
+    "date": "24/05 4:20",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "I got them for 25 each",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7918008",
+    "type": "public",
+    "date": "24/05 4:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh wow",
+    "msgClasses": "chat_message bneon14"
   }
 ]
