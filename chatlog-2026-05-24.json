@@ -6808,5 +6808,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Very true",
     "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7918629",
+    "type": "public",
+    "date": "24/05 9:52",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I speak in meows and hisses",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
