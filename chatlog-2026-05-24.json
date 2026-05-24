@@ -5798,5 +5798,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "paimon hru today",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7918528",
+    "type": "public",
+    "date": "24/05 8:43",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": ";-;",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7918529",
+    "type": "public",
+    "date": "24/05 8:43",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "i am melting",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
