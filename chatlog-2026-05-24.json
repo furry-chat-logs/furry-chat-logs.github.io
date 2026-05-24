@@ -7148,5 +7148,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "I'm just confused at this point. english is not englishing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918663",
+    "type": "public",
+    "date": "24/05 10:11",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMmt2ZmNxbXhhMHY2eDM4NTluOWdjYmhnNGw3ZGZzMXd1dGlvdDdqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qV57XdnY3xpkIRNnaZ/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
