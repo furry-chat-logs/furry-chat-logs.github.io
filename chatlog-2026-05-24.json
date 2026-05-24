@@ -4598,5 +4598,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Me neither [sob]",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7917974",
+    "type": "public",
+    "date": "24/05 4:05",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "liminal heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7917975",
+    "type": "public",
+    "date": "24/05 4:05",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Chat i think i might be having an internal breakdown at the moment idk why......",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
