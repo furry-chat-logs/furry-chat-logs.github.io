@@ -6008,5 +6008,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "mj is watching me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918549",
+    "type": "public",
+    "date": "24/05 9:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODgzbGt5MXc4M3E5bGZuaXVoOG9sdXlub3Z4NnMwZXFqcjU3ejlsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fxpPSvdGnxfR6/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
