@@ -2478,5 +2478,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nooooooo",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917761",
+    "type": "public",
+    "date": "24/05 2:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "This how much floofi I am",
+    "msgClasses": "chat_message bneon14"
   }
 ]
