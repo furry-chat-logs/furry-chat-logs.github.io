@@ -7858,5 +7858,15 @@
     "userClasses": "username bneon18 ",
     "message": "We all love Slendy.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7918735",
+    "type": "public",
+    "date": "24/05 10:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Issa slendy",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
