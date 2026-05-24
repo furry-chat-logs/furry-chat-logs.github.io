@@ -5918,5 +5918,15 @@
     "userClasses": "username bgrad40 ",
     "message": "?",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7918540",
+    "type": "public",
+    "date": "24/05 9:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I got seats 6-7 at a movie once",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
