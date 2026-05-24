@@ -6978,5 +6978,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "🧑‍🦯",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7918646",
+    "type": "public",
+    "date": "24/05 10:05",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "I don't think the weather is to bad",
+    "msgClasses": "chat_message "
   }
 ]
