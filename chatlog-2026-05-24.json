@@ -628,5 +628,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_8bf579f8b9ca.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917574",
+    "type": "public",
+    "date": "24/05 0:57",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_aa6418b51b02.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917575",
+    "type": "public",
+    "date": "24/05 0:57",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Oh my god",
+    "msgClasses": "chat_message bneon4"
   }
 ]
