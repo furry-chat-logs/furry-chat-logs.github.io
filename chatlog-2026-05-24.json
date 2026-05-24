@@ -2398,5 +2398,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hehehehehe",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917753",
+    "type": "public",
+    "date": "24/05 2:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHBlNjBmazBrN3Rldmdjcm94MmVhZ3IyZGtmc2FzMGRlZGIydmtjeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2g6sCTsSoVuSfSxK4W/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
