@@ -3968,5 +3968,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "He sniffing to much",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917911",
+    "type": "public",
+    "date": "24/05 3:30",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2k0d3J5MDMzbThnaGthY2k0OGpzZW41d2xrdHBrZzBwa2NzdGtjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HUg6Ypas42ubkXu/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
