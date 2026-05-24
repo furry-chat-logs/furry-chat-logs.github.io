@@ -4828,5 +4828,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Meow",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917997",
+    "type": "public",
+    "date": "24/05 4:18",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "How do u do 24/05 10:17 Pretty good!!! Watching Evangelion rn 😽 How about yourself",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7917998",
+    "type": "public",
+    "date": "24/05 4:18",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "SoraTheMikuFan meow",
+    "msgClasses": "chat_message "
   }
 ]
