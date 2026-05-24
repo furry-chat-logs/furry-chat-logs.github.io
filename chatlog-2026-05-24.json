@@ -4718,5 +4718,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa it's contagious",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917986",
+    "type": "public",
+    "date": "24/05 4:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ZephTheFloofBoi dm if you want, maybe I could be of help",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7917987",
+    "type": "public",
+    "date": "24/05 4:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin YES",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
