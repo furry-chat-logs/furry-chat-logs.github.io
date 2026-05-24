@@ -3118,5 +3118,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "It's definitely not easy singing the second half of My Eyes by Travis Scott 😭",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917825",
+    "type": "public",
+    "date": "24/05 3:01",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "🐱 Cat",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
