@@ -5908,5 +5908,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_698a348208c2.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918539",
+    "type": "public",
+    "date": "24/05 9:04",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "?",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
