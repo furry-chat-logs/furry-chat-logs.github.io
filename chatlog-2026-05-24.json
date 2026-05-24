@@ -5248,5 +5248,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "hello",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7918221",
+    "type": "public",
+    "date": "24/05 7:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "me too",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
