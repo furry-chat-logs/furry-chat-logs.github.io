@@ -6778,5 +6778,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Anyone need me before i go?",
     "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7918626",
+    "type": "public",
+    "date": "24/05 9:52",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Nox speaks stabby stab",
+    "msgClasses": "chat_message bneon4"
   }
 ]
