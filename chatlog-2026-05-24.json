@@ -6038,5 +6038,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "if he sneaks up on me like my bf i will have a panic attack but it would be worth it T-T",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918552",
+    "type": "public",
+    "date": "24/05 9:32",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZW1xaXFzdzM5MDc3aTVsNXkyeDk2MndjbGZrbjkyYjFmdGljZ3lsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uE04rNfT8bK4mNOpEr/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
