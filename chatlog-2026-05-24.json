@@ -7638,5 +7638,15 @@
     "userClasses": "username bneon1 bnfont11",
     "message": "Medokin they do kinda just scream",
     "msgClasses": "chat_message bcolor1 heavybold bfont4"
+  },
+  {
+    "id": "7918713",
+    "type": "public",
+    "date": "24/05 10:23",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "AAAAAAAAAAAAAAAA",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
