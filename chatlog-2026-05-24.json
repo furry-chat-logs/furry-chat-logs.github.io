@@ -5138,5 +5138,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "had to go and put my guitar away",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7918180",
+    "type": "public",
+    "date": "24/05 6:31",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "i'm doing good, you?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
