@@ -34326,5 +34326,35 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM3lzdXI3YzlzbjNubXc1YzJsbHg3ZnU5eGpjc244NTh4dXpsMjFxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CciM7ZRcjqY6P7HHdd/giphy.gif]",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7917438",
+    "type": "public",
+    "date": "23/05 23:35",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Deimos we know you refunded it",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917439",
+    "type": "public",
+    "date": "23/05 23:35",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user24440_ea17ba6e79c3.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917440",
+    "type": "public",
+    "date": "23/05 23:35",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Finally outta work",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
