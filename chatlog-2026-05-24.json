@@ -7868,5 +7868,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Issa slendy",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918736",
+    "type": "public",
+    "date": "24/05 10:30",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmanh2NzN6dXUzemFvNXE4ZjJjdXVxcmZuMXQ3bWhmaWNwZGhkNGw1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1014RBn4HVSTK/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
