@@ -6908,5 +6908,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rafteatsrocks normally the chat would be active right now",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918639",
+    "type": "public",
+    "date": "24/05 10:02",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ye",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
