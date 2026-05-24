@@ -27848,5 +27848,45 @@
     "userClasses": "username bneon11 bnfont6",
     "message": "Actually wait yes I do",
     "msgClasses": "chat_message bneon11 heavyital bfont12"
+  },
+  {
+    "id": "7916787",
+    "type": "public",
+    "date": "23/05 19:42",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "j-rock_mondo Ace",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916788",
+    "type": "public",
+    "date": "23/05 19:42",
+    "username": "j-rock_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Breadcrumbs how yk that name?",
+    "msgClasses": "chat_message bneon13 ital bfont12"
+  },
+  {
+    "id": "7916789",
+    "type": "public",
+    "date": "23/05 19:42",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "I'm just like that",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916790",
+    "type": "public",
+    "date": "23/05 19:42",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Breadcrumbs dont make me say it",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
