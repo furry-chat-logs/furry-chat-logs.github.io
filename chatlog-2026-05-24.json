@@ -7298,5 +7298,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Issa say that in the first place",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918678",
+    "type": "public",
+    "date": "24/05 10:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Daving my buster",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
