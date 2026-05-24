@@ -3048,5 +3048,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sniff sniff",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917818",
+    "type": "public",
+    "date": "24/05 2:58",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "*pets*",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
