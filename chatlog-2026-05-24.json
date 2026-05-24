@@ -1538,5 +1538,65 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan witch time is it we're you are",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917667",
+    "type": "public",
+    "date": "24/05 1:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "09:51",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917668",
+    "type": "public",
+    "date": "24/05 1:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm an hour after u and sol",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917669",
+    "type": "public",
+    "date": "24/05 1:52",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You're one hour ahead of me",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917670",
+    "type": "public",
+    "date": "24/05 1:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yes(˵◝ ⩊ ◜˵マ",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917671",
+    "type": "public",
+    "date": "24/05 1:52",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Why you still tired",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917672",
+    "type": "public",
+    "date": "24/05 1:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm too fasttt",
+    "msgClasses": "chat_message bneon14"
   }
 ]
