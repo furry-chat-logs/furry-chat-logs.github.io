@@ -358,5 +358,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "She also looks like one of my regular customers lol",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7917546",
+    "type": "public",
+    "date": "24/05 0:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Good to know that she's scott pilgrim",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917547",
+    "type": "public",
+    "date": "24/05 0:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemI0bmVkeW9iMjlocWw2eTl1cGVlY3JuamhqcnFjbTRjbXR5aHMxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ac9tQi8GtuJaW8HBJ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
