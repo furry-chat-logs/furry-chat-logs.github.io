@@ -6898,5 +6898,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "yeah",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918638",
+    "type": "public",
+    "date": "24/05 10:02",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rafteatsrocks normally the chat would be active right now",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
