@@ -2508,5 +2508,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Medokin what happened to ur pfannkchun",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917764",
+    "type": "public",
+    "date": "24/05 2:29",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWs1YmVuYWRxdHBvcWlmbmpvbm5weTZocG1oc3M2YWR5ODlmOTZ0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMv36BprGxUAqoWc72/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
