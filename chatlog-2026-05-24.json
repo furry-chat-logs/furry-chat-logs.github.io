@@ -5208,5 +5208,15 @@
     "userClasses": "username user ",
     "message": "Hey guys im back after a 1 year absence",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918217",
+    "type": "public",
+    "date": "24/05 7:18",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "plushpaw545 hi",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
