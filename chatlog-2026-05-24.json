@@ -6168,5 +6168,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "I wish I had some",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7918565",
+    "type": "public",
+    "date": "24/05 9:41",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Oh boy what a nice day :3",
+    "msgClasses": "chat_message "
   }
 ]
