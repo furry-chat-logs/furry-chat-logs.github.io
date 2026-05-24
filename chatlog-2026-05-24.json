@@ -4528,5 +4528,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa it's wird",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917967",
+    "type": "public",
+    "date": "24/05 4:04",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "yes",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7917968",
+    "type": "public",
+    "date": "24/05 4:04",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "and I liked the song",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
