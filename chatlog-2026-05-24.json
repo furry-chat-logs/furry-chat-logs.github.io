@@ -6138,5 +6138,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Onion rings",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7918562",
+    "type": "public",
+    "date": "24/05 9:38",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "yumm",
+    "msgClasses": "chat_message "
   }
 ]
