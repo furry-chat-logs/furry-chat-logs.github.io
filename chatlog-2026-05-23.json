@@ -30838,5 +30838,25 @@
     "userClasses": "username bneon18 ",
     "message": "Arby's? Must've had the Rod Wave.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917088",
+    "type": "public",
+    "date": "23/05 21:00",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "Bro was trying to roleplay i assume",
+    "msgClasses": "chat_message bneon19  bfont3"
+  },
+  {
+    "id": "7917089",
+    "type": "public",
+    "date": "23/05 21:00",
+    "username": "FoxiiFoxii",
+    "userId": "3117",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "😭",
+    "msgClasses": "chat_message bneon19  bfont3"
   }
 ]
