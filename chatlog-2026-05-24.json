@@ -5658,5 +5658,15 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "More gambling money (actually just tryna get vip lol)",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918488",
+    "type": "public",
+    "date": "24/05 8:11",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Only 1000 mising",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
