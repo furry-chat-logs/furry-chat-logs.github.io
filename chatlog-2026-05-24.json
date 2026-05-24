@@ -3528,5 +3528,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXdkNXJrMjl2MTI2bTh5YXJjcHp6MmlhaGJrYm52YzdxZWpxaXVmaSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xoZWpxtSLecftH30K1/giphy.gif]",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917867",
+    "type": "public",
+    "date": "24/05 3:12",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hunter77 bruh",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
