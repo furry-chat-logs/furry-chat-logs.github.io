@@ -5818,5 +5818,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "i am melting",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7918530",
+    "type": "public",
+    "date": "24/05 8:43",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "Sol_Aizawa i am melting from frozen",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
