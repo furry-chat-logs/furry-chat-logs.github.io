@@ -6448,5 +6448,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Only thing i consume is alcohol",
     "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7918593",
+    "type": "public",
+    "date": "24/05 9:47",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "But only small amounts",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7918594",
+    "type": "public",
+    "date": "24/05 9:48",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "Nøx boston is bad for that stuff",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
