@@ -4708,5 +4708,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "atleast for a bit",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7917985",
+    "type": "public",
+    "date": "24/05 4:08",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa it's contagious",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
