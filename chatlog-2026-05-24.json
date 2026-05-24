@@ -5838,5 +5838,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am melting from the heat",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7918532",
+    "type": "public",
+    "date": "24/05 8:45",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "o",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7918533",
+    "type": "public",
+    "date": "24/05 8:45",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "oh",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
