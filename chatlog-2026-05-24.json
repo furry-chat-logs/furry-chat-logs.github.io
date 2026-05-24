@@ -6538,5 +6538,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "i love european liquor... im polish so we also love our vodka",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918602",
+    "type": "public",
+    "date": "24/05 9:49",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Teach me some polish words",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
