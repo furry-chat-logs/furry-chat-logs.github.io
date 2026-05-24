@@ -3468,5 +3468,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I'm in danger",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917861",
+    "type": "public",
+    "date": "24/05 3:09",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "*distraction ploy to disappear*",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
