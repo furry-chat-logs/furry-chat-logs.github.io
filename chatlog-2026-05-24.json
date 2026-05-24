@@ -6228,5 +6228,25 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "i feel that",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918571",
+    "type": "public",
+    "date": "24/05 9:43",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "i want some salid",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918572",
+    "type": "public",
+    "date": "24/05 9:43",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Good good wbu",
+    "msgClasses": "chat_message "
   }
 ]
