@@ -3268,5 +3268,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Night chat",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917841",
+    "type": "public",
+    "date": "24/05 3:04",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Goodnight",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917842",
+    "type": "public",
+    "date": "24/05 3:04",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "All at once 💊",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
