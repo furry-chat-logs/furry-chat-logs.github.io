@@ -6958,5 +6958,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "It's raining tacos it's raining taco",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918644",
+    "type": "public",
+    "date": "24/05 10:04",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I have to check the weather forcast today; I have to head out. [sob]",
+    "msgClasses": "chat_message ital"
   }
 ]
