@@ -5558,5 +5558,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_73590498eb0a.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918469",
+    "type": "public",
+    "date": "24/05 8:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "morning deltz...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
