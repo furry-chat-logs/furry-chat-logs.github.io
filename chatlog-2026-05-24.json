@@ -3478,5 +3478,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "*distraction ploy to disappear*",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917862",
+    "type": "public",
+    "date": "24/05 3:09",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeXlkaTVzaXd5dTE5c3Rzc25qZGcyMDF5YjdnejBlcmU1N2R1emtsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/55itGuoAJiZEEen9gg/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
