@@ -7748,5 +7748,15 @@
     "userClasses": "username bneon1 bnfont11",
     "message": "walks like this",
     "msgClasses": "chat_message bcolor1 heavybold bfont4"
+  },
+  {
+    "id": "7918724",
+    "type": "public",
+    "date": "24/05 10:25",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Slenderman",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
