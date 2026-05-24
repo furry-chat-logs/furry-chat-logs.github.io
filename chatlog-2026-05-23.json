@@ -33856,5 +33856,25 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "yes maam",
     "msgClasses": "chat_message bneon29 ital bfont1"
+  },
+  {
+    "id": "7917390",
+    "type": "public",
+    "date": "23/05 23:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": ">.>",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917391",
+    "type": "public",
+    "date": "23/05 23:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa [kiss3]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
