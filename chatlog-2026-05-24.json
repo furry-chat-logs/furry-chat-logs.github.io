@@ -3828,5 +3828,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "If you know you know",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917897",
+    "type": "public",
+    "date": "24/05 3:25",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "😭😭",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917898",
+    "type": "public",
+    "date": "24/05 3:25",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Idk",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
