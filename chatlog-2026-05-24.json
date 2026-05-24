@@ -4108,5 +4108,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "wut",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7917925",
+    "type": "public",
+    "date": "24/05 3:39",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wer worde es nicht tuen",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
