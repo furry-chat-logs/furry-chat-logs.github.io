@@ -328,5 +328,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "She looks old enough to be a sugar mama. 🫩",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917543",
+    "type": "public",
+    "date": "24/05 0:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmanc5amw1Zncwc3Rqb3FmcnJvc2c3bjlhdG04ZTlzbnlsZGF5aWw1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OmqRHI3lSX7jR97WjZ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917544",
+    "type": "public",
+    "date": "24/05 0:07",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Frogmin damn lolll, hope you had a great time",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7917545",
+    "type": "public",
+    "date": "24/05 0:07",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "She also looks like one of my regular customers lol",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
