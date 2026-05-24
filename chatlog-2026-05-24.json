@@ -958,5 +958,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bark",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917609",
+    "type": "public",
+    "date": "24/05 1:40",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Medokin bark",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917610",
+    "type": "public",
+    "date": "24/05 1:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Arruuuuf!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917611",
+    "type": "public",
+    "date": "24/05 1:40",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "SoraTheMikuFan meow",
+    "msgClasses": "chat_message "
   }
 ]
