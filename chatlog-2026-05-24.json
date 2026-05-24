@@ -7168,5 +7168,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "lmao",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918665",
+    "type": "public",
+    "date": "24/05 10:12",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rafteatsrocks brain is not braining",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
