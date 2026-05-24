@@ -3458,5 +3458,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36931_0985041abfa5.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917860",
+    "type": "public",
+    "date": "24/05 3:08",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm in danger",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
