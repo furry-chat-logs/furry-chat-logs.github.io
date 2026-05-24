@@ -718,5 +718,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_a9ee462ad858.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917584",
+    "type": "public",
+    "date": "24/05 1:06",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I knew eating the expires Mr feastable was a bad idea",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7917585",
+    "type": "public",
+    "date": "24/05 1:06",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Now my gut suffers",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
