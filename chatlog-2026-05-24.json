@@ -4678,5 +4678,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Sol_Aizawa no not that........something i cant decide between rn",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7917982",
+    "type": "public",
+    "date": "24/05 4:07",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "also I cannot see the word tikle normally anymore",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7917983",
+    "type": "public",
+    "date": "24/05 4:07",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "??",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
