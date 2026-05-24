@@ -5958,5 +5958,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "I'm growing pet mold",
     "msgClasses": "chat_message bold bfont1"
+  },
+  {
+    "id": "7918544",
+    "type": "public",
+    "date": "24/05 9:27",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "hehe",
+    "msgClasses": "chat_message "
   }
 ]
