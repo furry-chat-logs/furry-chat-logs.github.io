@@ -31348,5 +31348,45 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "anyone down for some poker with us?",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7917139",
+    "type": "public",
+    "date": "23/05 22:16",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "-rolls dice in hand-",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7917140",
+    "type": "public",
+    "date": "23/05 22:17",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon28 bnfont1",
+    "message": "the way your bio places it you're just a slvt ..>?<< explodes",
+    "msgClasses": "chat_message bneon28 bold bfont1"
+  },
+  {
+    "id": "7917141",
+    "type": "public",
+    "date": "23/05 22:17",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Zeen ?",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7917142",
+    "type": "public",
+    "date": "23/05 22:17",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "Zeen excuse me...",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
