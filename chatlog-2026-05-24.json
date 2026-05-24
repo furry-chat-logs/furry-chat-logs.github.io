@@ -3338,5 +3338,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[gun] [gun] yes you are",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917848",
+    "type": "public",
+    "date": "24/05 3:06",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[gun] [wooper]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
