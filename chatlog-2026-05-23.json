@@ -34206,5 +34206,35 @@
     "userClasses": "username bneon29 bnfont1",
     "message": "subs on my surfer",
     "msgClasses": "chat_message bneon29 ital bfont1"
+  },
+  {
+    "id": "7917426",
+    "type": "public",
+    "date": "23/05 23:27",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Porphyrophobia Deimos this the beat banger level?",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7917427",
+    "type": "public",
+    "date": "23/05 23:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Miss Kit it's touching my ears gracefully",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917428",
+    "type": "public",
+    "date": "23/05 23:28",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Goodnight, I’m just gonna go to sleep early",
+    "msgClasses": "chat_message "
   }
 ]
