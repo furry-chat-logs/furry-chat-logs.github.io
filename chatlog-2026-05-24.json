@@ -1198,5 +1198,45 @@
     "userClasses": "username user ",
     "message": "SoraTheMikuFan alos milk is good for cats depends on the type of cat u give it to",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917633",
+    "type": "public",
+    "date": "24/05 1:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37148_cc1495a4ee6e.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917634",
+    "type": "public",
+    "date": "24/05 1:44",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nach my phone",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917635",
+    "type": "public",
+    "date": "24/05 1:44",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Medokin please tell me that wsnt ur back",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917636",
+    "type": "public",
+    "date": "24/05 1:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea, I'm a cat fox so idk it's not that good for me, I'm like a teen cat and not a baby anymore... when I was younger I could consume lots of milk",
+    "msgClasses": "chat_message bneon14"
   }
 ]
