@@ -4478,5 +4478,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "but do you get what I mean?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7917962",
+    "type": "public",
+    "date": "24/05 4:03",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "ya ig",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
