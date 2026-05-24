@@ -3248,5 +3248,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Alr i gotta sleep",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917839",
+    "type": "public",
+    "date": "24/05 3:04",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Lmao",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917840",
+    "type": "public",
+    "date": "24/05 3:04",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Night chat",
+    "msgClasses": "chat_message "
   }
 ]
