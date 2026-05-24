@@ -4618,5 +4618,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Chat i think i might be having an internal breakdown at the moment idk why......",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7917976",
+    "type": "public",
+    "date": "24/05 4:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[devil] tikle",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
