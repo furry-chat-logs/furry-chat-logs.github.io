@@ -1308,5 +1308,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Some times",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917644",
+    "type": "public",
+    "date": "24/05 1:46",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ranking The Funniest Fox Sounds / JustSomePets cuties patooties",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917645",
+    "type": "public",
+    "date": "24/05 1:46",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nach I wanted to say something but my phone is broken",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
