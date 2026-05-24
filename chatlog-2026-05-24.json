@@ -3518,5 +3518,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2FxZ3hjYzV3djBrNXRzMTQ5cHpoZW0zcDU2YWpzbDR6MTN0eXR6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ajTZXnm7H2gu8iBesr/giphy.gif]",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917866",
+    "type": "public",
+    "date": "24/05 3:11",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXdkNXJrMjl2MTI2bTh5YXJjcHp6MmlhaGJrYm52YzdxZWpxaXVmaSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xoZWpxtSLecftH30K1/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
