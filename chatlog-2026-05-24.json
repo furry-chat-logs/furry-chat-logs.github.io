@@ -6128,5 +6128,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[good]",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918561",
+    "type": "public",
+    "date": "24/05 9:38",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Onion rings",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
