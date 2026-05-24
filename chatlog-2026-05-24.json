@@ -5218,5 +5218,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "plushpaw545 hi",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918218",
+    "type": "public",
+    "date": "24/05 7:19",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "Medokin hello",
+    "msgClasses": "chat_message "
   }
 ]
