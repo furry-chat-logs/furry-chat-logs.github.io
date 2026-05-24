@@ -768,5 +768,25 @@
     "userClasses": "username bneon4 ",
     "message": "Don't do that again that shit ain't good for ya 😭",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7917589",
+    "type": "public",
+    "date": "24/05 1:10",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcG9tOWtsMTVyMG9hem94dmMwcGE1Mmczb2NpZGFhdDJodm83eDJkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/90H1S1tCYPq08Di5dK/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917590",
+    "type": "public",
+    "date": "24/05 1:10",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Miss Kit Mr beast food is banned in Germany",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
