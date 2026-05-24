@@ -33658,5 +33658,43 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Issa Disgusting",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917370",
+    "type": "public",
+    "date": "23/05 22:56",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon14 bnfont6",
+    "message": "IM BAK",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7917371",
+    "type": "public",
+    "date": "23/05 22:56",
+    "username": "Zeen",
+    "userId": "16465",
+    "userClasses": "username bneon29 bnfont1",
+    "message": "leave again",
+    "msgClasses": "chat_message bneon29 ital bfont1"
+  },
+  {
+    "id": "7917372",
+    "type": "system",
+    "date": "23/05 22:57",
+    "username": "System",
+    "userId": null,
+    "message": "Cutieozzy has been kicked"
+  },
+  {
+    "id": "7917373",
+    "type": "public",
+    "date": "23/05 22:57",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon14 bnfont6",
+    "message": "?",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
