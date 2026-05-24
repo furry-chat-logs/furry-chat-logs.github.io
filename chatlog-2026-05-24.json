@@ -5948,5 +5948,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "New Kid hi",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918543",
+    "type": "public",
+    "date": "24/05 9:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "I'm growing pet mold",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
