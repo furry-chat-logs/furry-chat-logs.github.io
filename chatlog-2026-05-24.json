@@ -3028,5 +3028,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Same",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917816",
+    "type": "public",
+    "date": "24/05 2:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_b8fa3764d1c1.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
