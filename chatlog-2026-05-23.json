@@ -33178,5 +33178,25 @@
     "userClasses": "username bneon18 ",
     "message": "It's fine.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917322",
+    "type": "public",
+    "date": "23/05 22:37",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Brb let me post something on my alt real quick...",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917323",
+    "type": "public",
+    "date": "23/05 22:37",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "..why are you yelling, EL1ZABETH?",
+    "msgClasses": "chat_message "
   }
 ]
