@@ -178,5 +178,35 @@
     "userClasses": "username bneon4 ",
     "message": "Frogmin WHAT",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7917528",
+    "type": "public",
+    "date": "24/05 0:03",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I thought you weren't SUPPOSED TO CLICK THOSE LINKS",
+    "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7917529",
+    "type": "public",
+    "date": "24/05 0:03",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "In the last racist way possible, I find it very very hard to identify the age of black woman between 20-50",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7917530",
+    "type": "public",
+    "date": "24/05 0:03",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZm41ZTIwNnZ3bzQ5ZGwydzN5OTJnaGxpNWhqdnlrMG11djVlcjZ3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/94K4bYAdH00A8ytta1/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
