@@ -6278,5 +6278,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "wtf",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918576",
+    "type": "public",
+    "date": "24/05 9:45",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm.",
+    "msgClasses": "chat_message ital"
   }
 ]
