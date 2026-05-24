@@ -3388,5 +3388,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I'm surching for chocolate",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917853",
+    "type": "public",
+    "date": "24/05 3:07",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[tongue]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917854",
+    "type": "public",
+    "date": "24/05 3:07",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Real",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
