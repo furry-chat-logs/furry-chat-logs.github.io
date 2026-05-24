@@ -4638,5 +4638,15 @@
     "userClasses": "username bcolor28 ",
     "message": "Sol_Aizawa HELLO",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7917978",
+    "type": "public",
+    "date": "24/05 4:06",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Medokin no FU",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
