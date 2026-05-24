@@ -4868,5 +4868,25 @@
     "userClasses": "username bcolor28 ",
     "message": "Im gonna show off the figures I got at comiccon again",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7918001",
+    "type": "public",
+    "date": "24/05 4:18",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user484_b485a823459e.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918002",
+    "type": "public",
+    "date": "24/05 4:18",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "liminal okay",
+    "msgClasses": "chat_message "
   }
 ]
