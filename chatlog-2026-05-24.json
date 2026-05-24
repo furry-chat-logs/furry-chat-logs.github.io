@@ -2718,5 +2718,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[tongue]",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917785",
+    "type": "public",
+    "date": "24/05 2:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Idk how",
+    "msgClasses": "chat_message bneon14"
   }
 ]
