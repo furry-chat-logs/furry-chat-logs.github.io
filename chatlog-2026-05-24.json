@@ -3088,5 +3088,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_9e4e395c79bd.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917822",
+    "type": "public",
+    "date": "24/05 2:59",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "🎶 🎼 🎵 🎧 ❕",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
