@@ -7108,5 +7108,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Shucking my buster",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7918659",
+    "type": "public",
+    "date": "24/05 10:10",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "you suking wat",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
