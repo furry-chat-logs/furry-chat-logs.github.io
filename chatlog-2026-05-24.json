@@ -6488,5 +6488,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "i prefer my jamison irish whiskey",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918597",
+    "type": "public",
+    "date": "24/05 9:48",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Never tried it",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
