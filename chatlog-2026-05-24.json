@@ -4298,5 +4298,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Why",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917944",
+    "type": "public",
+    "date": "24/05 3:57",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I aint never gonna be able to listen to mary on a cross normally again",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
