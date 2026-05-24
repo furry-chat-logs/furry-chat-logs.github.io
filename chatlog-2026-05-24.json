@@ -558,5 +558,15 @@
     "userClasses": "username bneon18 ",
     "message": "[happy] Yes!",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917567",
+    "type": "public",
+    "date": "24/05 0:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_3409793ebbbf.png]",
+    "msgClasses": "chat_message "
   }
 ]
