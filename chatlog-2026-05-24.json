@@ -5318,5 +5318,15 @@
     "userClasses": "username user ",
     "message": "Medokin i use a bunch of sites",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918228",
+    "type": "public",
+    "date": "24/05 7:22",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Borthem can do allot of things",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
