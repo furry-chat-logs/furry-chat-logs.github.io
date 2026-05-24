@@ -30908,5 +30908,15 @@
     "userClasses": "username bgrad36 bnfont6",
     "message": "HI CHAT :]",
     "msgClasses": "chat_message bneon22 heavybold bfont12"
+  },
+  {
+    "id": "7917095",
+    "type": "public",
+    "date": "23/05 21:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "Hi!",
+    "msgClasses": "chat_message bold bfont1"
   }
 ]
