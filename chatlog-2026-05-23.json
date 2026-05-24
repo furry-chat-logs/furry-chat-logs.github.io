@@ -30038,5 +30038,35 @@
     "userClasses": "username bneon4 ",
     "message": "Yeah I see why the fuck theres boss music holy shit",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7917008",
+    "type": "public",
+    "date": "23/05 20:18",
+    "username": "Nyx",
+    "userId": "495",
+    "userClasses": "username bneon23 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user495_ea5420895f77.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917009",
+    "type": "public",
+    "date": "23/05 20:18",
+    "username": "Nyx",
+    "userId": "495",
+    "userClasses": "username bneon23 bnfont15",
+    "message": "God damnit",
+    "msgClasses": "chat_message bneon23 bold bfont11"
+  },
+  {
+    "id": "7917010",
+    "type": "public",
+    "date": "23/05 20:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_13d79c71557a.png]",
+    "msgClasses": "chat_message "
   }
 ]
