@@ -2258,5 +2258,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "👋 👋 👋",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917739",
+    "type": "public",
+    "date": "24/05 2:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm gonna come back in a sek",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917740",
+    "type": "public",
+    "date": "24/05 2:15",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "How did u make the hand green",
+    "msgClasses": "chat_message bneon14"
   }
 ]
