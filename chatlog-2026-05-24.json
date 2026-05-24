@@ -6918,5 +6918,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "ye",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7918640",
+    "type": "public",
+    "date": "24/05 10:03",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rafteatsrocks are there like event's",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918641",
+    "type": "public",
+    "date": "24/05 10:03",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "but for a lot summer break started",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
