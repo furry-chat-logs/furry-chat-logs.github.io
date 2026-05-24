@@ -27238,5 +27238,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Welp, I'm going to go eat my pizza. Be back in like 20",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7916726",
+    "type": "public",
+    "date": "23/05 19:33",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "Guys I got called corny for trying to make it not a furry femboy",
+    "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916727",
+    "type": "public",
+    "date": "23/05 19:33",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Breadcrumbs love your art btw😞",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7916728",
+    "type": "public",
+    "date": "23/05 19:33",
+    "username": "Breadcrumbs",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "Smiley enjoy your soup",
+    "msgClasses": "chat_message bneon23  bfont8"
   }
 ]
