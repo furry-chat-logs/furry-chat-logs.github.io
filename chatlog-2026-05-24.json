@@ -698,5 +698,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Getting wifi delivered fr",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7917582",
+    "type": "public",
+    "date": "24/05 1:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_8813053293a4.png]",
+    "msgClasses": "chat_message "
   }
 ]
