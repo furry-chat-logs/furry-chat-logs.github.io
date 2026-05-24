@@ -5228,5 +5228,25 @@
     "userClasses": "username user ",
     "message": "Medokin hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918219",
+    "type": "public",
+    "date": "24/05 7:19",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm pretty new",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918220",
+    "type": "public",
+    "date": "24/05 7:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "hello",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
