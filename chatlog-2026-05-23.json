@@ -30288,5 +30288,15 @@
     "userClasses": "username bneon23 bnfont15",
     "message": "Oh",
     "msgClasses": "chat_message bneon23 bold bfont11"
+  },
+  {
+    "id": "7917033",
+    "type": "public",
+    "date": "23/05 20:28",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_1555588eca5a.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
