@@ -6468,5 +6468,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "Nøx boston is bad for that stuff",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918595",
+    "type": "public",
+    "date": "24/05 9:48",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Mm i agree",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
