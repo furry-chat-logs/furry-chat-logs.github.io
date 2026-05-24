@@ -4818,5 +4818,15 @@
     "userClasses": "username user ",
     "message": "liminal im joking",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917996",
+    "type": "public",
+    "date": "24/05 4:18",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Meow",
+    "msgClasses": "chat_message bneon14"
   }
 ]
