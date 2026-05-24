@@ -3058,5 +3058,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "*pets*",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917819",
+    "type": "public",
+    "date": "24/05 2:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "😊",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917820",
+    "type": "public",
+    "date": "24/05 2:58",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rrrr",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
