@@ -33088,5 +33088,95 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "[wooper]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917313",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "EL1ZABETH",
+    "userId": "15496",
+    "userClasses": "username bgrad36 bnfont6",
+    "message": "IS THIS WHAT YOU USERS LIKE?",
+    "msgClasses": "chat_message bneon22 heavybold bfont12"
+  },
+  {
+    "id": "7917314",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "EL1ZABETH",
+    "userId": "15496",
+    "userClasses": "username bgrad36 bnfont6",
+    "message": "INTERESTING",
+    "msgClasses": "chat_message bneon22 heavybold bfont12"
+  },
+  {
+    "id": "7917315",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "•.•",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917316",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[Proceeded to bite Issa's arm].",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917317",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "EL1ZABETH",
+    "userId": "15496",
+    "userClasses": "username bgrad36 bnfont6",
+    "message": "D:",
+    "msgClasses": "chat_message bneon22 heavybold bfont12"
+  },
+  {
+    "id": "7917318",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia GGAGHGHAGSH-",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917319",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "EL1ZABETH",
+    "userId": "15496",
+    "userClasses": "username bgrad36 bnfont6",
+    "message": "WHY WOULD YOU DO THAT TO ISSA",
+    "msgClasses": "chat_message bneon22 heavybold bfont12"
+  },
+  {
+    "id": "7917320",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "EL1ZABETH",
+    "userId": "15496",
+    "userClasses": "username bgrad36 bnfont6",
+    "message": "THAT'S NOT NICE",
+    "msgClasses": "chat_message bneon22 heavybold bfont12"
+  },
+  {
+    "id": "7917321",
+    "type": "public",
+    "date": "23/05 22:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "It's fine.",
+    "msgClasses": "chat_message ital"
   }
 ]
