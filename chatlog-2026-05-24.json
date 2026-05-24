@@ -5108,5 +5108,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "How we doing",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7918177",
+    "type": "public",
+    "date": "24/05 6:28",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb3kwaDI4M2UxMXAwbzFrbzk0aTA1NmwyMjZxeDJ3bTkzczluMmFkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gfIIByUBhvy7AYwaqP/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
