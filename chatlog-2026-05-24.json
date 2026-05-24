@@ -2378,5 +2378,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "My friend goggle helped",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917751",
+    "type": "public",
+    "date": "24/05 2:18",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Englisch is hard 🥺",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
