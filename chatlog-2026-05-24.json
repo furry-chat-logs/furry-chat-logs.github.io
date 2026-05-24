@@ -7928,5 +7928,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rafteatsrocks [100]",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918742",
+    "type": "public",
+    "date": "24/05 10:33",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMnp1anU5NjhncDA4YnNhaG5hNXpzd2M1eDExZGxveHJmdTU0bTg0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7gNXVIPKkQad0AIIFJ/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
