@@ -33806,5 +33806,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Issa I'll give you something to smile about ho",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917385",
+    "type": "public",
+    "date": "23/05 23:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Your jolliness makes me sick",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917386",
+    "type": "public",
+    "date": "23/05 23:09",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYzl1NGU2dGRmYzdhZWF2eDJzNnZ6aTQxYTh2NDlsNGlxYW5xbm93ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PpMeUUFlZXQQ0/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
