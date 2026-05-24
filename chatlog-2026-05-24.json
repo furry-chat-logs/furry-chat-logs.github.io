@@ -468,5 +468,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNXE5ZjI4ZnBmNTNyMHgxZnU0N2QwYzBwZ2lsZjU1bXIxd2NrdWgwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sFOfDaoQG79HT2cRQa/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7917558",
+    "type": "public",
+    "date": "24/05 0:18",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I hated my 9 hr shift today",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7917559",
+    "type": "public",
+    "date": "24/05 0:18",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Waves after waves after waves of teenagers coming in, dirtying my store and probably stealing shit",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
