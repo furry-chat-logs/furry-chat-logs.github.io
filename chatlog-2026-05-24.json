@@ -4498,5 +4498,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa \"I will tikle you internally and I see nothing wrong with that\" you shur",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917964",
+    "type": "public",
+    "date": "24/05 4:03",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "thats a line out of mary on a cross Medokin",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
