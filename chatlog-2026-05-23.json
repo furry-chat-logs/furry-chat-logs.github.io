@@ -30378,5 +30378,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "VRC went down again lmfao [skull]",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7917042",
+    "type": "public",
+    "date": "23/05 20:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Found it",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
