@@ -4998,5 +4998,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And it came from Japan",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7918014",
+    "type": "public",
+    "date": "24/05 4:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWU2dnpqcmZ5cTVwcG01dHJ1Ym8yZWk3dWl0a2x3NzRjeHpybmozaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WTLh3RVuebb2g6nmvb/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
