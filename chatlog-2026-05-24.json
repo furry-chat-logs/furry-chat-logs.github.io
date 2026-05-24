@@ -2738,5 +2738,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I'm brushing my teeth",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917787",
+    "type": "public",
+    "date": "24/05 2:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Aww it was so cute",
+    "msgClasses": "chat_message bneon14"
   }
 ]
