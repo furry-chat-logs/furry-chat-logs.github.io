@@ -34026,5 +34026,85 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Issa [moai]",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7917408",
+    "type": "public",
+    "date": "23/05 23:24",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Deimos . . .",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917409",
+    "type": "public",
+    "date": "23/05 23:25",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWhuM2V5Nmp2NGMyajlqb3l3MHg0NGlpNzhkYmM3ZjJhaXB0dHoyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WjXzDbhBhVN9EFkVSB/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917410",
+    "type": "public",
+    "date": "23/05 23:25",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWhuM2V5Nmp2NGMyajlqb3l3MHg0NGlpNzhkYmM3ZjJhaXB0dHoyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kJkRuH2gKEodnvJaRy/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917411",
+    "type": "public",
+    "date": "23/05 23:25",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWhuM2V5Nmp2NGMyajlqb3l3MHg0NGlpNzhkYmM3ZjJhaXB0dHoyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MVoX99cLXXU0gq7QuG/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917412",
+    "type": "public",
+    "date": "23/05 23:25",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "HUH WHA",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7917413",
+    "type": "public",
+    "date": "23/05 23:25",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWhuM2V5Nmp2NGMyajlqb3l3MHg0NGlpNzhkYmM3ZjJhaXB0dHoyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dwzbqcZT2IubAR6oRg/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917414",
+    "type": "public",
+    "date": "23/05 23:25",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Anyway.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7917415",
+    "type": "public",
+    "date": "23/05 23:25",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "DID I GET EXPOSED OR SOME SHI WHILE I WAS GONE",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
