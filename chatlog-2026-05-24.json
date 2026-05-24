@@ -6858,5 +6858,15 @@
     "userClasses": "username bneon4 ",
     "message": "I speak in English and Gundam",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7918634",
+    "type": "public",
+    "date": "24/05 9:53",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "(aka you may go)",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
