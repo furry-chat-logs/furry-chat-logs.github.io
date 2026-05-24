@@ -3788,5 +3788,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ3UzaGswa2Q2dDZqenJqb3I2bTR1ZWs4dzAyaWEyOTJmdDQzaWhjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xlnv8ACkAK79146ZpT/giphy.gif]",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917893",
+    "type": "public",
+    "date": "24/05 3:24",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[1f439]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
