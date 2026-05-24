@@ -3098,5 +3098,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "🎶 🎼 🎵 🎧 ❕",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917823",
+    "type": "public",
+    "date": "24/05 3:00",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[good] idk wat you said",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
