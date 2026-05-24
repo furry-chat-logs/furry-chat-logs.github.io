@@ -4218,5 +4218,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Me in pulle",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917936",
+    "type": "public",
+    "date": "24/05 3:51",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "+=",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917937",
+    "type": "public",
+    "date": "24/05 3:51",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "+í",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
