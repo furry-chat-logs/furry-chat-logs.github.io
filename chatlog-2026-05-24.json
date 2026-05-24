@@ -7718,5 +7718,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rawr",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918721",
+    "type": "public",
+    "date": "24/05 10:24",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeXBmazMxMWJscTJxcTljcnp3eTR6ejY0ZTlzMDVrb2k5bWhmM3Q5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fnmsu2lTw3r1e/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
