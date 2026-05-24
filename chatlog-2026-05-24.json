@@ -5898,5 +5898,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "paimon the Rock sounds good",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918538",
+    "type": "public",
+    "date": "24/05 9:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_698a348208c2.png]",
+    "msgClasses": "chat_message "
   }
 ]
