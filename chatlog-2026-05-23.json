@@ -28108,5 +28108,25 @@
     "userClasses": "username bgrad38 bnfont6",
     "message": "Porphyrophobia ew what",
     "msgClasses": "chat_message bneon23  bfont8"
+  },
+  {
+    "id": "7916813",
+    "type": "public",
+    "date": "23/05 19:47",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHc5MWFyazJrZzF1MnltOGN0djcwOGhnbnExM3dmcWN2NW9wZjlqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xzMvVHrvlPhjOx5EO8/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7916815",
+    "type": "public",
+    "date": "23/05 19:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Fly Boi Keno [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
