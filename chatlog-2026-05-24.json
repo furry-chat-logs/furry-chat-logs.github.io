@@ -2228,5 +2228,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Okay",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917736",
+    "type": "public",
+    "date": "24/05 2:13",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Hello",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917737",
+    "type": "public",
+    "date": "24/05 2:13",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "PuRoUwU hallo👋",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
