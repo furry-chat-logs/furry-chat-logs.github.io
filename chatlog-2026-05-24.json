@@ -5568,5 +5568,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "morning deltz...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7918476",
+    "type": "public",
+    "date": "24/05 8:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bgrad34 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_6f32fcdc9202.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
