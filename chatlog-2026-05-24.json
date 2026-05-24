@@ -6988,5 +6988,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "I don't think the weather is to bad",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918647",
+    "type": "public",
+    "date": "24/05 10:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Go outside and open your mouth it's ringing tacos",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
