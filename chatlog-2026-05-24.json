@@ -4448,5 +4448,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Sol_Aizawa  i seen everything......",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7917959",
+    "type": "public",
+    "date": "24/05 4:02",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "even though im a part blind fucker sometimes",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7917960",
+    "type": "public",
+    "date": "24/05 4:02",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ZephTheFloofBoi damnit...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
