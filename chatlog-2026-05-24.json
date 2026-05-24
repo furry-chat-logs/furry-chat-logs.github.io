@@ -1078,5 +1078,55 @@
     "userClasses": "username user ",
     "message": "Medokin yipp",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917621",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "PuRoUwU ty!!!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917622",
+    "type": "public",
+    "date": "24/05 1:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Jump scare",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917623",
+    "type": "public",
+    "date": "24/05 1:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Auu-*cough* I can't screamm thattt muchhhh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917624",
+    "type": "public",
+    "date": "24/05 1:42",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nach he in pain",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917625",
+    "type": "public",
+    "date": "24/05 1:42",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "SoraTheMikuFan ur welcome",
+    "msgClasses": "chat_message "
   }
 ]
