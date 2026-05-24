@@ -6088,5 +6088,15 @@
     "userClasses": "username user ",
     "message": "Where did Deimos,go",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918557",
+    "type": "public",
+    "date": "24/05 9:35",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Acheron idk",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
