@@ -5268,5 +5268,15 @@
     "userClasses": "username user ",
     "message": "Medokin ive been on here longer than this account",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918223",
+    "type": "public",
+    "date": "24/05 7:20",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "plushpaw545 second account",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
