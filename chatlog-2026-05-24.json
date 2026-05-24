@@ -2388,5 +2388,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Englisch is hard 🥺",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917752",
+    "type": "public",
+    "date": "24/05 2:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hehehehehe",
+    "msgClasses": "chat_message bneon14"
   }
 ]
