@@ -7138,5 +7138,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rafteatsrocks thay tieing to kill chat",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918662",
+    "type": "public",
+    "date": "24/05 10:11",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "I'm just confused at this point. english is not englishing",
+    "msgClasses": "chat_message "
   }
 ]
