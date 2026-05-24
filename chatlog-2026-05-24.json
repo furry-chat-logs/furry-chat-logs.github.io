@@ -1328,5 +1328,65 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nach I wanted to say something but my phone is broken",
     "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917646",
+    "type": "public",
+    "date": "24/05 1:46",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "That sounds like I'm eating dog food",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917647",
+    "type": "public",
+    "date": "24/05 1:47",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[tongue]",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917648",
+    "type": "public",
+    "date": "24/05 1:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcWxuMmZja204YTN5NnJibnVlbTY4OGQ1MDE3ZGlxOXQyMGkzNDc4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RWBZxJyIpxBh5Zbvtj/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917649",
+    "type": "public",
+    "date": "24/05 1:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "So cuteeeee",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917650",
+    "type": "public",
+    "date": "24/05 1:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Aah kittennnnn",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917651",
+    "type": "public",
+    "date": "24/05 1:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Nomnom",
+    "msgClasses": "chat_message bneon14"
   }
 ]
