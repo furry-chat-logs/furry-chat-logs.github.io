@@ -7248,5 +7248,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZGZuMGxwank3cTNxbG5teHEyaG1pMWZpa2I3Z21yYzZyeXFrbDRrOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t520inKSmk8oTT91ud/giphy.gif]",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918673",
+    "type": "public",
+    "date": "24/05 10:14",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "lol",
+    "msgClasses": "chat_message "
   }
 ]
