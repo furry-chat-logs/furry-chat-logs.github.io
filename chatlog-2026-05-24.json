@@ -4628,5 +4628,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[devil] tikle",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917977",
+    "type": "public",
+    "date": "24/05 4:05",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Sol_Aizawa HELLO",
+    "msgClasses": "chat_message bold"
   }
 ]
