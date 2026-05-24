@@ -7258,5 +7258,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918674",
+    "type": "public",
+    "date": "24/05 10:14",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Dave & Buster's.",
+    "msgClasses": "chat_message ital"
   }
 ]
