@@ -5888,5 +5888,15 @@
     "userClasses": "username bgrad40 ",
     "message": "rock",
     "msgClasses": "chat_message bgrad40 boldital bfont3"
+  },
+  {
+    "id": "7918537",
+    "type": "public",
+    "date": "24/05 8:49",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "paimon the Rock sounds good",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
