@@ -6218,5 +6218,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "hungry",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918570",
+    "type": "public",
+    "date": "24/05 9:43",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "i feel that",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
