@@ -6868,5 +6868,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "(aka you may go)",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918635",
+    "type": "public",
+    "date": "24/05 9:57",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Cutieozzy hi",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
