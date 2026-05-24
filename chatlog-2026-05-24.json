@@ -7048,5 +7048,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "shucks nevermind it didn't work :(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918653",
+    "type": "public",
+    "date": "24/05 10:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Shucksbuster",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
