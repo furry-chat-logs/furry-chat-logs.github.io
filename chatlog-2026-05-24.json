@@ -6368,5 +6368,25 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "Nøx some people have zero decency",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918585",
+    "type": "public",
+    "date": "24/05 9:46",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I live in uk mate",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7918586",
+    "type": "public",
+    "date": "24/05 9:46",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "What do you expect",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
