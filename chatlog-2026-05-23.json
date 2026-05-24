@@ -28768,5 +28768,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "yw guys",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7916881",
+    "type": "public",
+    "date": "23/05 20:00",
+    "username": "Nyx",
+    "userId": "495",
+    "userClasses": "username bneon23 bnfont15",
+    "message": "Fight",
+    "msgClasses": "chat_message bneon23 bold bfont11"
+  },
+  {
+    "id": "7916882",
+    "type": "public",
+    "date": "23/05 20:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "asterr Girl I'm bored let's delete our accounts",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7916883",
+    "type": "public",
+    "date": "23/05 20:00",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "is it just me or is huggle_da_wolf hella suspicious",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
