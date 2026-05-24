@@ -5638,5 +5638,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "XxIQShuruixX you rith",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918486",
+    "type": "public",
+    "date": "24/05 8:10",
+    "username": "XxIQShuruixX",
+    "userId": "37146",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "Yes",
+    "msgClasses": "chat_message "
   }
 ]
