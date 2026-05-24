@@ -4888,5 +4888,35 @@
     "userClasses": "username user ",
     "message": "liminal okay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918003",
+    "type": "public",
+    "date": "24/05 4:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ooh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7918004",
+    "type": "public",
+    "date": "24/05 4:19",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "PuRoUwU Yeah I like Melon!!! I read the manga recently",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7918005",
+    "type": "public",
+    "date": "24/05 4:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Noice",
+    "msgClasses": "chat_message bneon14"
   }
 ]
