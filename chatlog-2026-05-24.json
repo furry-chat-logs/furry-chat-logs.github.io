@@ -3548,5 +3548,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "😃",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917869",
+    "type": "public",
+    "date": "24/05 3:12",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[nana]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
