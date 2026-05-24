@@ -3748,5 +3748,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[cookie]",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917889",
+    "type": "public",
+    "date": "24/05 3:22",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmczJybGpzdGIxeHN1enpzb3ZjaGU2eWlpamhzamt2bmRtN3R0dWV5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pN6Jvdh6BwSEE/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
