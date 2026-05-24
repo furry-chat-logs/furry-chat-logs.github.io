@@ -3678,5 +3678,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hunter77 im not Hering a no",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917882",
+    "type": "public",
+    "date": "24/05 3:17",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWoxNDRhajlncDRsMmtsYm1xaXQyamhscXlsdDlveWw3NG9qYjJmaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fXJyMfUdqVCMPAnPJM/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
