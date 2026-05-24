@@ -3928,5 +3928,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Energetic",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917907",
+    "type": "public",
+    "date": "24/05 3:29",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmajRvbnQxcXpvZHFuejNhcTNmNDA3ODFnOHNlbDAyZGo5dzNmeHg4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l35qrL8kZtNKM/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
