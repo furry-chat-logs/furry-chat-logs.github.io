@@ -6408,5 +6408,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "damn",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918589",
+    "type": "public",
+    "date": "24/05 9:47",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "How the world works innit",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
