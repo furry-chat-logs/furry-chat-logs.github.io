@@ -7528,5 +7528,25 @@
     "userClasses": "username bneon1 bnfont11",
     "message": "bark",
     "msgClasses": "chat_message bcolor1 heavybold bfont4"
+  },
+  {
+    "id": "7918702",
+    "type": "public",
+    "date": "24/05 10:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Orange slander will NOT be tolerated",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7918703",
+    "type": "public",
+    "date": "24/05 10:21",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Huh ? Porphyrophobia",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
