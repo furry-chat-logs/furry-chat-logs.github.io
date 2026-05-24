@@ -34356,5 +34356,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Finally outta work",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7917441",
+    "type": "public",
+    "date": "23/05 23:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_49978cbe5f78.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917442",
+    "type": "public",
+    "date": "23/05 23:36",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Why is i6",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7917443",
+    "type": "public",
+    "date": "23/05 23:36",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Sorry",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
