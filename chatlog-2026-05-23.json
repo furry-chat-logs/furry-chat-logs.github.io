@@ -31038,5 +31038,15 @@
     "userClasses": "username user ",
     "message": "If that's blue then I'm black",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917108",
+    "type": "public",
+    "date": "23/05 21:31",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Wow I forgot how much I don't like most people",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
