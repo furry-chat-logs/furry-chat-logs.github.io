@@ -2458,5 +2458,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "This one has ears",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917759",
+    "type": "public",
+    "date": "24/05 2:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMHZqNmcyMWJzN2xqN2o5cjV1dTJ1cnJoc2Y4cTZ0aGJmMjkyYmFnYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H55IwUvuvmd8YiyGZX/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917760",
+    "type": "public",
+    "date": "24/05 2:27",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nooooooo",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
