@@ -5718,5 +5718,15 @@
     "userClasses": "username bgrad34 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_d8ff55b4022a.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918494",
+    "type": "public",
+    "date": "24/05 8:12",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Yo",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
