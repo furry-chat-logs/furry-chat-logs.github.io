@@ -4858,5 +4858,15 @@
     "userClasses": "username user ",
     "message": "liminal im good u like melon i see",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918000",
+    "type": "public",
+    "date": "24/05 4:18",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor28 ",
+    "message": "Im gonna show off the figures I got at comiccon again",
+    "msgClasses": "chat_message bold"
   }
 ]
