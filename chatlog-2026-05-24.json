@@ -988,5 +988,95 @@
     "userClasses": "username user ",
     "message": "SoraTheMikuFan meow",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917612",
+    "type": "public",
+    "date": "24/05 1:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Tried to bark as fox",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917613",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "They make this kinda sound",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917614",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Awuuuuuuuuuuu",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917615",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ekekekekekeke",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917616",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Idk",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917617",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Idk how fox makes",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
+  },
+  {
+    "id": "7917618",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "SoraTheMikuFan ur doing a great fox impression",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7917619",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Red Fox Sounds (Sounds Foxes Actually Make) / Wyoming Game and Fish Department like dis",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917620",
+    "type": "public",
+    "date": "24/05 1:41",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "Medokin yipp",
+    "msgClasses": "chat_message "
   }
 ]
