@@ -5188,5 +5188,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Gtg",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918185",
+    "type": "public",
+    "date": "24/05 6:56",
+    "username": "PuRoUwU",
+    "userId": "36468",
+    "userClasses": "username user ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ210M3U1YXRibzBybG02cTN3Y3JtMjE3OTM1NWdtNmFjd2c4YWlwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g2JO6qWbQhiV7m4AKM/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
