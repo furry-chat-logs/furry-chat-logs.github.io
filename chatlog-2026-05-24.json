@@ -3848,5 +3848,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Idk",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7917899",
+    "type": "public",
+    "date": "24/05 3:25",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcXdqZjRxMHpueGFmaXN3dGd3aG8xaW5oNXV5MWxsbWFwd3phMjZvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GpyS1lJXJYupG/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
