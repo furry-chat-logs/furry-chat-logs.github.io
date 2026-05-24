@@ -4408,5 +4408,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "ZephTheFloofBoi *hugs *",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917955",
+    "type": "public",
+    "date": "24/05 4:00",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "my message did not send",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
