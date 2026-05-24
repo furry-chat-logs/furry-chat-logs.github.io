@@ -6318,5 +6318,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "Nøx same! on a bench",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7918580",
+    "type": "public",
+    "date": "24/05 9:46",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Cutieozzy on the stairs for me",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
