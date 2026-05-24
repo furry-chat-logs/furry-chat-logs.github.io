@@ -7848,5 +7848,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7918734",
+    "type": "public",
+    "date": "24/05 10:30",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "We all love Slendy.",
+    "msgClasses": "chat_message ital"
   }
 ]
