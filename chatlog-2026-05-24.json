@@ -2698,5 +2698,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "How did you know",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917783",
+    "type": "public",
+    "date": "24/05 2:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Baby Arctic Fox Steals Mans Fish / Poke My Heart",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917784",
+    "type": "public",
+    "date": "24/05 2:36",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[tongue]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
