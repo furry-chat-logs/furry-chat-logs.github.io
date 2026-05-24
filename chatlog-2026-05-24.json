@@ -7658,5 +7658,15 @@
     "userClasses": "username bneon1 bnfont11",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbHh2Z3A1cms3M215Nm1hMmVkcGU2MTFjcjR4NDBkbWsxcTdwbDM5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2qBul5zTnq36HUUxCe/giphy.gif]",
     "msgClasses": "chat_message bcolor1 heavybold bfont4"
+  },
+  {
+    "id": "7918715",
+    "type": "public",
+    "date": "24/05 10:23",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Not bark or anything else",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
