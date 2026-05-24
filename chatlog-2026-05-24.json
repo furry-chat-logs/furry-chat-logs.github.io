@@ -7798,5 +7798,25 @@
     "userClasses": "username bneon1 bnfont11",
     "message": "evangelion*",
     "msgClasses": "chat_message bcolor1 heavybold bfont4"
+  },
+  {
+    "id": "7918729",
+    "type": "public",
+    "date": "24/05 10:27",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcDg0Z3RobGJ0b2k4NWZ4dXZzNGxuMWs3eHVuNnYwcnBmNzZkMnZtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N8z0KQrN4nQmSwIplX/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918730",
+    "type": "public",
+    "date": "24/05 10:27",
+    "username": "Ashie٭",
+    "userId": "26425",
+    "userClasses": "username bneon1 bnfont11",
+    "message": "3hhehhheheehehahhahhheheuhuhfshdfldsjgksirog",
+    "msgClasses": "chat_message bcolor1 heavybold bfont4"
   }
 ]
