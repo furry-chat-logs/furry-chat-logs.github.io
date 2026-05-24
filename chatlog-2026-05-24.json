@@ -7178,5 +7178,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rafteatsrocks brain is not braining",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918666",
+    "type": "public",
+    "date": "24/05 10:12",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODlrM2ZrMDgwOW9mMmx4eHUxNTJsaHNkcmVzaWxwdXprMzYwZ3p6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4kR5kYjn7AC4akNPAa/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
