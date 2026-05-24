@@ -7288,5 +7288,15 @@
     "userClasses": "username bneon4 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmamwyYnhrd2ZrNHE2Z3c3enVzYWZxZmhuY2g0dGx2bTl4MXo1OWo4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/21VTFJTEr1x9ortvO3/giphy.gif]",
     "msgClasses": "chat_message bneon4"
+  },
+  {
+    "id": "7918677",
+    "type": "public",
+    "date": "24/05 10:15",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Issa say that in the first place",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
