@@ -4178,5 +4178,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "i am not woke enough for dis shiet :p",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7917932",
+    "type": "public",
+    "date": "24/05 3:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "morning chat",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
