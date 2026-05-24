@@ -7388,5 +7388,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rafteatsrocks fruit",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7918687",
+    "type": "public",
+    "date": "24/05 10:18",
+    "username": "Rafteatsrocks",
+    "userId": "37337",
+    "userClasses": "username bcolor10 bnfont3",
+    "message": "what came first the donald or the orange?",
+    "msgClasses": "chat_message "
   }
 ]
