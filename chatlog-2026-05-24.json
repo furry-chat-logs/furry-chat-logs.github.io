@@ -6948,5 +6948,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "idk if there are events",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7918643",
+    "type": "public",
+    "date": "24/05 10:03",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "It's raining tacos it's raining taco",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
