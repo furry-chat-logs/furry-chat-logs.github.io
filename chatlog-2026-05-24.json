@@ -4038,5 +4038,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hunter77 over dose [pills]",
     "msgClasses": "chat_message bcolor7 heavyital bfont7"
+  },
+  {
+    "id": "7917918",
+    "type": "public",
+    "date": "24/05 3:34",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNzduemZteTJudDJxczFkbjBrMmIwbmVqaGozdHEwZW52dmt2bGp6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FHlMJHSx5sGBi/giphy.gif]",
+    "msgClasses": "chat_message bcolor7 heavyital bfont7"
   }
 ]
