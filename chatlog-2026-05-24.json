@@ -2078,5 +2078,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yea/ᐠ ╥ ˕ ╥マ",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917721",
+    "type": "public",
+    "date": "24/05 2:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And also her face isn't white it just hard to color here",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7917722",
+    "type": "public",
+    "date": "24/05 2:05",
+    "username": "Medokin",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bruh you go to my scholders",
+    "msgClasses": "chat_message bgrad2 heavyital bfont7"
   }
 ]
