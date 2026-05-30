@@ -6436,5 +6436,15 @@
     "userClasses": "username user ",
     "message": "Porphyrophobia TS FRYING ME",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935980",
+    "type": "public",
+    "date": "30/05 15:17",
+    "username": "Smoking Scoundrel",
+    "userId": "36006",
+    "userClasses": "username bcolor7 bnfont1",
+    "message": "What the fuck is happening",
+    "msgClasses": "chat_message bgrad2 bold bfont1"
   }
 ]
