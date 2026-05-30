@@ -498,5 +498,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_3f7624211933.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935339",
+    "type": "public",
+    "date": "30/05 12:04",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user12859_d59026e4bf3f.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935340",
+    "type": "public",
+    "date": "30/05 12:04",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Ignore that",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
