@@ -4668,5 +4668,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "\"Hey let's make a joke about one of Porphyrophobia's struggle and not think shit about it\"",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935803",
+    "type": "public",
+    "date": "30/05 14:43",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaDFyM3Z6c2w0dHJmMzZuc2p5czM4bG53azE2dGcwNDFqbzJxcHZkaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pTAwoGGRmPetOw1oDy/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935804",
+    "type": "public",
+    "date": "30/05 14:43",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Dumbfucjs",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935805",
+    "type": "public",
+    "date": "30/05 14:43",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbnk3dzFqY3FuMzF2a3FteHhmNHBscWVtZmR6dzdkeXJhM3N1bmFubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XuB1OPqB4JTgc/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
