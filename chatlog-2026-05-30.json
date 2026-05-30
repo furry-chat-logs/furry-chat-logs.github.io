@@ -958,5 +958,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "SoraTheMikuFan hm?",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7935385",
+    "type": "public",
+    "date": "30/05 12:13",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "Grahhhh",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
   }
 ]
