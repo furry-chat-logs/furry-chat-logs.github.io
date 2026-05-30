@@ -5328,5 +5328,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "No one said anything about cheating.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935869",
+    "type": "public",
+    "date": "30/05 14:58",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Nobody fucking told me what the fuck was going on EITHER WAY",
+    "msgClasses": "chat_message bneon19"
   }
 ]
