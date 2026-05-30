@@ -5218,5 +5218,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "(I blocked her before she had the pleasure of blocking me)",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935858",
+    "type": "public",
+    "date": "30/05 14:55",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Meep didn't do anything wrong",
+    "msgClasses": "chat_message bneon19"
   }
 ]
