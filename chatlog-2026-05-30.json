@@ -7396,5 +7396,25 @@
     "userClasses": "username user ",
     "message": "Man I have not seen a single user from back when I had my old account",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936076",
+    "type": "public",
+    "date": "30/05 15:35",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_e7a1f99428ec.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936077",
+    "type": "public",
+    "date": "30/05 15:35",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Art wip",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
