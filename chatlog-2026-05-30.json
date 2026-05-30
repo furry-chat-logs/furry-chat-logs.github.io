@@ -7926,5 +7926,15 @@
     "userClasses": "username user ",
     "message": "Wrong search bar fuck",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936129",
+    "type": "public",
+    "date": "30/05 15:50",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "What.",
+    "msgClasses": "chat_message "
   }
 ]
