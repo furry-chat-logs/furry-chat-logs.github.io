@@ -1488,5 +1488,15 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "do u like choco? 30/05 13:30 si",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7935438",
+    "type": "public",
+    "date": "30/05 12:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "nom choco",
+    "msgClasses": "chat_message bneon14"
   }
 ]
