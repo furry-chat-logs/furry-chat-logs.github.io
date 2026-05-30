@@ -1368,5 +1368,15 @@
     "userClasses": "username bcolor27 ",
     "message": "[secret-share: 1508QYgoEpxTpTEUShiyS5G6G&n=46369]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7935426",
+    "type": "public",
+    "date": "30/05 12:28",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZjBscmN4cmU5aG9sN2c1ejR3MXNna2QwanJnbjdwMXg4NWxydHp0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xzgUAa2nFVqp3oqOnx/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
