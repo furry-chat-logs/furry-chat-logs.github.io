@@ -5786,5 +5786,15 @@
     "userClasses": "username bneon18 ",
     "message": "I JUST logged on.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7935915",
+    "type": "public",
+    "date": "30/05 15:05",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "ALLEGATION AFTER ALLEGATION",
+    "msgClasses": "chat_message bneon19"
   }
 ]
