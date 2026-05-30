@@ -6886,5 +6886,35 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "Hi Miss Kit!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936025",
+    "type": "public",
+    "date": "30/05 15:26",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "FUCJ",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7936026",
+    "type": "public",
+    "date": "30/05 15:26",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "FUCK",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7936027",
+    "type": "public",
+    "date": "30/05 15:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Immature over a racist & ableist person",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
