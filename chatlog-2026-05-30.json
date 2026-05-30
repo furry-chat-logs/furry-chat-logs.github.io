@@ -3488,5 +3488,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "just now",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7935649",
+    "type": "public",
+    "date": "30/05 13:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Do u at least have google meet",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935650",
+    "type": "public",
+    "date": "30/05 13:55",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Meep awh.....",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
