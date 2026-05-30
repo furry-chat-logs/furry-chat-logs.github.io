@@ -1298,5 +1298,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Okai ^^",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7935419",
+    "type": "public",
+    "date": "30/05 12:27",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Am. Back",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
