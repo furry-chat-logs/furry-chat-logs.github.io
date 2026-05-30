@@ -7356,5 +7356,15 @@
     "userClasses": "username user ",
     "message": "ImYoursToCuddle hey!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936072",
+    "type": "public",
+    "date": "30/05 15:33",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "Hewooo! ~",
+    "msgClasses": "chat_message "
   }
 ]
