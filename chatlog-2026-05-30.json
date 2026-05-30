@@ -9044,5 +9044,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "How about",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936242",
+    "type": "public",
+    "date": "30/05 18:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hmmm",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936243",
+    "type": "public",
+    "date": "30/05 18:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Actually nvm",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
