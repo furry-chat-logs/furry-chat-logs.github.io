@@ -4538,5 +4538,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Over something that isn't true",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935788",
+    "type": "public",
+    "date": "30/05 14:42",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "So if you have something against me for something untrue, tell me and I'll block you",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935789",
+    "type": "public",
+    "date": "30/05 14:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Also when did I mention about the cheating, that's what really pokes my interest",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935791",
+    "type": "public",
+    "date": "30/05 14:42",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Same with Deimos",
+    "msgClasses": "chat_message bneon19"
   }
 ]
