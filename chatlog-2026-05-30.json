@@ -5038,5 +5038,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Deimos very shitty person who was my bff now ex bff and in jail",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7935840",
+    "type": "public",
+    "date": "30/05 14:50",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Meep oh",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
