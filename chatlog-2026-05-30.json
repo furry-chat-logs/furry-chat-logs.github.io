@@ -5268,5 +5268,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Oh damn. Then why aren't I blocked?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935863",
+    "type": "public",
+    "date": "30/05 14:56",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "I know what happened with Mondo, and I don't want to be treated like mondo for something that unlike mondo, didn't do",
+    "msgClasses": "chat_message bneon19"
   }
 ]
