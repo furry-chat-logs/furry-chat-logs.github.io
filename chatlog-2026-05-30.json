@@ -5576,5 +5576,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Balright",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935894",
+    "type": "public",
+    "date": "30/05 15:02",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "You're so defensive over something NO ONE even brought up it only makes it even more obvious that something immoral was going on Miss Kit.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935895",
+    "type": "public",
+    "date": "30/05 15:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Send me fucking screenshots of me kissing, showing romantic affection to ANYONE taken.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
