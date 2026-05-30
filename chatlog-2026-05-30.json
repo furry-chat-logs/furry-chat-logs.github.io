@@ -8944,5 +8944,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOXBmZmt0YnJ1MWV1NDBmeGVmZnhucHozbGtrcXNoazdhNGxud2oyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uT6dWH1afT1noJVuu7/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936232",
+    "type": "public",
+    "date": "30/05 17:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hmm..",
+    "msgClasses": "chat_message ital"
   }
 ]
