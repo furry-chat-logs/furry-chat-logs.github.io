@@ -518,5 +518,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Ignore that",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7935341",
+    "type": "public",
+    "date": "30/05 12:05",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'ma just go grab the spirit box from my coworker",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7935342",
+    "type": "public",
+    "date": "30/05 12:05",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "Spectre_protogen what was that",
+    "msgClasses": "chat_message bneon1  bfont10"
   }
 ]
