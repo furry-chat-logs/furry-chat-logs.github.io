@@ -7256,5 +7256,35 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "*poog*",
     "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7936062",
+    "type": "public",
+    "date": "30/05 15:30",
+    "username": "L Dog",
+    "userId": "37446",
+    "userClasses": "username user ",
+    "message": "Nick Wilde",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936063",
+    "type": "public",
+    "date": "30/05 15:30",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Poof*",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7936064",
+    "type": "public",
+    "date": "30/05 15:30",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "Have fun!",
+    "msgClasses": "chat_message "
   }
 ]
