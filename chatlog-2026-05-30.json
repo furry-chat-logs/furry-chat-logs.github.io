@@ -2758,5 +2758,15 @@
     "userClasses": "username bcolor27 ",
     "message": ":3c",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7935566",
+    "type": "public",
+    "date": "30/05 13:29",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "wiffie TV coole",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
