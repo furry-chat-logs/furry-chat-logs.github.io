@@ -3968,5 +3968,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "M-meow",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935697",
+    "type": "public",
+    "date": "30/05 14:08",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Now im kinda sad and alone....",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
