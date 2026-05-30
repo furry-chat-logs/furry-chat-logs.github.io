@@ -538,5 +538,15 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "Spectre_protogen what was that",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7935343",
+    "type": "public",
+    "date": "30/05 12:05",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "I dont do vms a lot of the time",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
   }
 ]
