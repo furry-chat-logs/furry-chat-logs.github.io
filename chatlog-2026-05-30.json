@@ -6226,5 +6226,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Meep",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935959",
+    "type": "public",
+    "date": "30/05 15:13",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "HighTierFraud.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7935960",
+    "type": "public",
+    "date": "30/05 15:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Meep Zen basically blueskidoo'd asterr while doing the same to another minor using them 🫩",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
