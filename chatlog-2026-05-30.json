@@ -978,5 +978,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "SoraTheMikuFan [pats head] Just say it or ask it, he won’t do anything =]",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7935387",
+    "type": "public",
+    "date": "30/05 12:13",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Not me you'd need to worry 'bout",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7935388",
+    "type": "public",
+    "date": "30/05 12:13",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "Lowkey wanna bite someone just to be annoying lol",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
   }
 ]
