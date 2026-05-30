@@ -2708,5 +2708,25 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "Hi can I have a hug it's been hard lately and idk want to do I just don't feel good 30/05 14:27 *Hugs* If you need someone to talk to im here just pm me",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7935561",
+    "type": "public",
+    "date": "30/05 13:28",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user12859_38e7fa6762fa.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935562",
+    "type": "public",
+    "date": "30/05 13:28",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[secret-share: ZkEwVTxFZnD3At9UAL5b1Q2U7] idk anithing",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
