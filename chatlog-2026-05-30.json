@@ -5526,5 +5526,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Even Corgz has told me it's you flirting",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935889",
+    "type": "public",
+    "date": "30/05 15:01",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Even though he's taken by someone",
+    "msgClasses": "chat_message "
   }
 ]
