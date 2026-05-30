@@ -6566,5 +6566,15 @@
     "userClasses": "username bneon18 ",
     "message": "Meep The specimen tends to yap relentlessly, going in circles.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7935993",
+    "type": "public",
+    "date": "30/05 15:20",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Over something false and stupid.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
