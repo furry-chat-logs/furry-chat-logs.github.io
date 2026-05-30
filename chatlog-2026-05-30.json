@@ -5556,5 +5556,15 @@
     "userClasses": "username bcolor15 bnfont12",
     "message": "Spectre got muted for a google meets link. According to his mood",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935892",
+    "type": "public",
+    "date": "30/05 15:02",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmanZ4aTUyYW1qcjFodm5xY2kzazN3NjR6N2xxd3A4Yzl5a2kwdzFtdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E49cnw3VmpcrS3hOkY/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
