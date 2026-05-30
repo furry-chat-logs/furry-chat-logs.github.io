@@ -7606,5 +7606,35 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Everybody knows what happened with them and zen",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7936097",
+    "type": "public",
+    "date": "30/05 15:42",
+    "username": "SD_S",
+    "userId": "31766",
+    "userClasses": "username bcolor15 bnfont12",
+    "message": "Even if I fuck off somewhere else, I'm still gonna be pissed.  no point in me bothering.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936098",
+    "type": "public",
+    "date": "30/05 15:42",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I'm not trying to side with them or anything but like cmon",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7936099",
+    "type": "public",
+    "date": "30/05 15:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Taps chin",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
