@@ -1408,5 +1408,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Lol 30/05 18:28 What are you laughing at punk...",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7935430",
+    "type": "public",
+    "date": "30/05 12:30",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
+    "msgClasses": "chat_message bneon1  bfont10"
   }
 ]
