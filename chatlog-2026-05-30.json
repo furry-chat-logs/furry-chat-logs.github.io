@@ -2978,5 +2978,15 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7935598",
+    "type": "public",
+    "date": "30/05 13:44",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Anything",
+    "msgClasses": "chat_message "
   }
 ]
