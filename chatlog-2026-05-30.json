@@ -8814,5 +8814,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "thank yeu",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936219",
+    "type": "public",
+    "date": "30/05 17:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
