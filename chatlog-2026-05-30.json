@@ -4328,5 +4328,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Ts frying me",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935752",
+    "type": "public",
+    "date": "30/05 14:38",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Meep grab the popcorn",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
