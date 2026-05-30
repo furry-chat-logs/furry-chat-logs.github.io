@@ -6326,5 +6326,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I'm a flirter, but that wasn't what I would say is flirting, which is a whole different opinion to everyone else, I guess so now people also think I'm just not owning up to something",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935969",
+    "type": "public",
+    "date": "30/05 15:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "\"What about the movie we made Rune\" okay bro",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935970",
+    "type": "public",
+    "date": "30/05 15:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOHN1OGtjNDg5anhnMXdmd2VuN3owYWtmOHc1ODNlaWIwdzRveGVvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ov8Lynmnaxpqp7BApF/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
