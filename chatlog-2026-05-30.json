@@ -7016,5 +7016,45 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmazlnc2wwYXNvYTlndDcxenBoOWl2bHcwYW9ucml0Z2s3N3l1YWp2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sZEl1yTi26mJzrI4VN/giphy.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936038",
+    "type": "public",
+    "date": "30/05 15:27",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user26198_03d8f7c5f019.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936039",
+    "type": "public",
+    "date": "30/05 15:27",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Y'all I'm not trying to call just specific people immature when I say \"everyone\"",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7936040",
+    "type": "public",
+    "date": "30/05 15:28",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "When I said everyone I said EVERYONEEEEE",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7936041",
+    "type": "public",
+    "date": "30/05 15:28",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "0Remy0 nice art!",
+    "msgClasses": "chat_message "
   }
 ]
