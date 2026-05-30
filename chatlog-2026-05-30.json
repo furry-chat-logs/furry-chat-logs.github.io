@@ -1598,5 +1598,15 @@
     "userClasses": "username bcolor27 ",
     "message": "do you play any instruments? 30/05 18:34 I play the smallest bit of piano and I sing!!",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7935449",
+    "type": "public",
+    "date": "30/05 12:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "same :p wiffie",
+    "msgClasses": "chat_message bneon14"
   }
 ]
