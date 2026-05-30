@@ -5986,5 +5986,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Issa [totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935935",
+    "type": "public",
+    "date": "30/05 15:08",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "It says fuck so much lmao",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935936",
+    "type": "public",
+    "date": "30/05 15:08",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "I come back yesterday and literally everyone talking about shit that's untrue but built up for god knows how long and now everyone turns their back for false shit",
+    "msgClasses": "chat_message bneon19"
   }
 ]
