@@ -3638,5 +3638,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Alrightyyy",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7935664",
+    "type": "public",
+    "date": "30/05 13:59",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[i wish i had a vr app that let me put this site as part of my gaming hud. It would mean I could chat AND play]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
