@@ -5926,5 +5926,35 @@
     "userClasses": "username bgrad7 ",
     "message": "SD_S I'm not explaining this shit for the billionth time because apparently everyone is too restarted to understand",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935929",
+    "type": "public",
+    "date": "30/05 15:07",
+    "username": "SD_S",
+    "userId": "31766",
+    "userClasses": "username bcolor15 bnfont12",
+    "message": "Miss Kit ok.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935930",
+    "type": "public",
+    "date": "30/05 15:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Blaming everyone but itself",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935931",
+    "type": "public",
+    "date": "30/05 15:07",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Tsktsk guess I was right",
+    "msgClasses": "chat_message "
   }
 ]
