@@ -4338,5 +4338,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Meep grab the popcorn",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935753",
+    "type": "public",
+    "date": "30/05 14:38",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Deimos there's no drama",
+    "msgClasses": "chat_message bneon19"
   }
 ]
