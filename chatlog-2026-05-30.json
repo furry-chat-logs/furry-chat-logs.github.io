@@ -5496,5 +5496,25 @@
     "userClasses": "username bgrad7 ",
     "message": "I was NOT flirting",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935886",
+    "type": "public",
+    "date": "30/05 15:01",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "least we don't have to hear her go on and on about Gundam",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935887",
+    "type": "public",
+    "date": "30/05 15:01",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Dear fucking lord",
+    "msgClasses": "chat_message bneon19"
   }
 ]
