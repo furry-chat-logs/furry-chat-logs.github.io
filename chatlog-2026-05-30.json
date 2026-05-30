@@ -6976,5 +6976,25 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user26198_c9e7f6b287d6.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936034",
+    "type": "public",
+    "date": "30/05 15:27",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Yes yes, we're so immature for talking shit about an obviously bad person",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936035",
+    "type": "public",
+    "date": "30/05 15:27",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "0Remy0 💔",
+    "msgClasses": "chat_message bneon19"
   }
 ]
