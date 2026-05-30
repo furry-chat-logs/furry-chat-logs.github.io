@@ -1378,5 +1378,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZjBscmN4cmU5aG9sN2c1ejR3MXNna2QwanJnbjdwMXg4NWxydHp0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xzgUAa2nFVqp3oqOnx/giphy.gif]",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7935427",
+    "type": "public",
+    "date": "30/05 12:28",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user484_48b746dee674.gif]",
+    "msgClasses": "chat_message "
   }
 ]
