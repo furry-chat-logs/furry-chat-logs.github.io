@@ -2098,5 +2098,45 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7935500",
+    "type": "public",
+    "date": "30/05 13:07",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "XxGuardianxX hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7935501",
+    "type": "public",
+    "date": "30/05 13:07",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Awesomesauce",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7935502",
+    "type": "public",
+    "date": "30/05 13:07",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "I also heard they're doing Gundan Lego sets",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935503",
+    "type": "public",
+    "date": "30/05 13:07",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "They look really good",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
