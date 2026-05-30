@@ -6646,5 +6646,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "SD_S 1-3  hours sounds more reasonable",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7936001",
+    "type": "public",
+    "date": "30/05 15:22",
+    "username": "L Dog",
+    "userId": "37446",
+    "userClasses": "username user ",
+    "message": "SD_S I believe it",
+    "msgClasses": "chat_message "
   }
 ]
