@@ -1398,5 +1398,15 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "N!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935429",
+    "type": "public",
+    "date": "30/05 12:29",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Lol 30/05 18:28 What are you laughing at punk...",
+    "msgClasses": "chat_message bold"
   }
 ]
