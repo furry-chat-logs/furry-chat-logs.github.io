@@ -2558,5 +2558,25 @@
     "userClasses": "username bneon14 bnfont7",
     "message": "Don't you touch me crazy person get away (ss) wuh?",
     "msgClasses": "chat_message bneon14 heavybold bfont2"
+  },
+  {
+    "id": "7935546",
+    "type": "public",
+    "date": "30/05 13:23",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_2263a78fa539.webp]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935547",
+    "type": "public",
+    "date": "30/05 13:23",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_b85cc12552a1.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
