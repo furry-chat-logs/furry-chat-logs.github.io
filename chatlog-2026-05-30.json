@@ -3018,5 +3018,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Rip caine",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935602",
+    "type": "public",
+    "date": "30/05 13:46",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( Wats your favorite food 30/05 11:45 ) For a snack apples, for a meal mexican food",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935603",
+    "type": "public",
+    "date": "30/05 13:46",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "(╥﹏╥)",
+    "msgClasses": "chat_message bneon14"
   }
 ]
