@@ -3098,5 +3098,15 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "not the roundbout the Merrygoround?",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7935610",
+    "type": "public",
+    "date": "30/05 13:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Smiley samee",
+    "msgClasses": "chat_message bneon14"
   }
 ]
