@@ -2308,5 +2308,25 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Miss Kit yeah, Lego is stupid expensive",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7935521",
+    "type": "public",
+    "date": "30/05 13:14",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Yeah Gundam depends on the Grade",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935522",
+    "type": "public",
+    "date": "30/05 13:14",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Might be back. Probs not tho.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
