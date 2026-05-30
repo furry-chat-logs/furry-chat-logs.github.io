@@ -7436,5 +7436,15 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "L Dog hello",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7936080",
+    "type": "public",
+    "date": "30/05 15:36",
+    "username": "L Dog",
+    "userId": "37446",
+    "userClasses": "username user ",
+    "message": "Lyman howdy",
+    "msgClasses": "chat_message "
   }
 ]
