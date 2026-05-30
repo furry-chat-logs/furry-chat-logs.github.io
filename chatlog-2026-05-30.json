@@ -1158,5 +1158,15 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "Woof!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935405",
+    "type": "public",
+    "date": "30/05 12:18",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "Wruff!",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
   }
 ]
