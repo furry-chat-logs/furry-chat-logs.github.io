@@ -1848,5 +1848,35 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "Good afternoon chat",
     "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7935475",
+    "type": "public",
+    "date": "30/05 12:56",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I mean I already knew they'd be talking about movie 2",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7935476",
+    "type": "public",
+    "date": "30/05 12:56",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Spoil?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935477",
+    "type": "public",
+    "date": "30/05 12:56",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "But sshhhh",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
