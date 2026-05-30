@@ -2768,5 +2768,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "wiffie TV coole",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7935567",
+    "type": "public",
+    "date": "30/05 13:30",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
+    "msgClasses": "chat_message bneon1  bfont10"
   }
 ]
