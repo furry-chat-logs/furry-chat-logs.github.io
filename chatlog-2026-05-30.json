@@ -4498,5 +4498,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Miss Kit girl who are you talking to..?",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7935782",
+    "type": "public",
+    "date": "30/05 14:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_591910d2fb6b.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935783",
+    "type": "public",
+    "date": "30/05 14:41",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Meep you.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
