@@ -3748,5 +3748,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "(  30/05 12:02 ) Why'd you just put a space 0.0",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935675",
+    "type": "public",
+    "date": "30/05 14:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It was the emojiii",
+    "msgClasses": "chat_message bneon14"
   }
 ]
