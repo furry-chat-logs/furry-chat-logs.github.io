@@ -4058,5 +4058,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Got my hands on a Spirit box",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7935706",
+    "type": "public",
+    "date": "30/05 14:22",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Yawn",
+    "msgClasses": "chat_message bneon19"
   }
 ]
