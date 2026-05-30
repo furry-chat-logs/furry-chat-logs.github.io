@@ -888,5 +888,15 @@
     "userClasses": "username bneon14 bnfont7",
     "message": "Im so boreddd",
     "msgClasses": "chat_message bneon14 heavybold bfont2"
+  },
+  {
+    "id": "7935378",
+    "type": "public",
+    "date": "30/05 12:11",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ummm nvm",
+    "msgClasses": "chat_message bneon14"
   }
 ]
