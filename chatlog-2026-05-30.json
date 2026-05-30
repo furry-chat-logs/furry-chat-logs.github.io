@@ -1888,5 +1888,25 @@
     "userClasses": "username bgrad7 ",
     "message": "The 2nd movie is gonna be fucking terriblr",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935479",
+    "type": "public",
+    "date": "30/05 12:56",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "I mean don't spoil the live",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7935480",
+    "type": "public",
+    "date": "30/05 12:56",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Welcome to corporate movie studios greedy half assed shit",
+    "msgClasses": "chat_message bneon19"
   }
 ]
