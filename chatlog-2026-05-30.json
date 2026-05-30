@@ -8794,5 +8794,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "im back",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936217",
+    "type": "public",
+    "date": "30/05 17:20",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Wb",
+    "msgClasses": "chat_message "
   }
 ]
