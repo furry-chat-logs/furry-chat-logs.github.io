@@ -5118,5 +5118,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Chats normally dead, but now that people want to twist a knife in my back for something someone said that's entirely untrue, I only have like two people who come online to talk to 💔",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935848",
+    "type": "public",
+    "date": "30/05 14:53",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "She's becoming more and more like Elashit every day",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935849",
+    "type": "public",
+    "date": "30/05 14:53",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I should draw a sketch dedicated to Miss Kit",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
