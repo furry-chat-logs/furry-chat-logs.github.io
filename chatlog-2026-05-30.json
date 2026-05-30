@@ -7706,5 +7706,25 @@
     "userClasses": "username bgrad7 ",
     "message": "They usually do..",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7936107",
+    "type": "public",
+    "date": "30/05 15:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bullying or not, its well deserved",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936108",
+    "type": "public",
+    "date": "30/05 15:44",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "I mean I do that too",
+    "msgClasses": "chat_message bneon19"
   }
 ]
