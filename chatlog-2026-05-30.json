@@ -5198,5 +5198,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Smiley yeah so Moon decided to block Meep",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935856",
+    "type": "public",
+    "date": "30/05 14:55",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Deimos the fuck? Why?? What did Meep do? Did she finally go off on her?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935857",
+    "type": "public",
+    "date": "30/05 14:55",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "(I blocked her before she had the pleasure of blocking me)",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
