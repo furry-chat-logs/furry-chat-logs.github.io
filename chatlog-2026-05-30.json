@@ -8484,5 +8484,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Solene Solene Solene Solene",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936185",
+    "type": "public",
+    "date": "30/05 16:31",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "asterr asterr asterr asterr",
+    "msgClasses": "chat_message bneon13 ital bfont12"
   }
 ]
