@@ -8096,5 +8096,33 @@
     "userClasses": "username user ",
     "message": "Hey at least I'm not judyhoppslover69 it could always be worse",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936146",
+    "type": "public",
+    "date": "30/05 15:55",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Who tf is that?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936147",
+    "type": "system",
+    "date": "30/05 15:55",
+    "username": "System",
+    "userId": null,
+    "message": "ImYoursToCuddle has been muted"
+  },
+  {
+    "id": "7936148",
+    "type": "public",
+    "date": "30/05 15:55",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "This post has been marked as spam",
+    "msgClasses": "chat_message "
   }
 ]
