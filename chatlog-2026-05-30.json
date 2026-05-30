@@ -3688,5 +3688,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Spectre_protogen Meep aww you two will finally see each other",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935669",
+    "type": "public",
+    "date": "30/05 14:01",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "🧑‍🦯",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
