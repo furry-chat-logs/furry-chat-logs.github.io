@@ -5616,5 +5616,35 @@
     "userClasses": "username bgrad7 ",
     "message": "Smiley BECAUSE OF CONTEXT CLUES DUMBASS",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935898",
+    "type": "public",
+    "date": "30/05 15:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Good FUCKING GOD",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935899",
+    "type": "public",
+    "date": "30/05 15:02",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "SD_S hi spectre",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935900",
+    "type": "public",
+    "date": "30/05 15:03",
+    "username": "SD_S",
+    "userId": "31766",
+    "userClasses": "username bcolor15 bnfont12",
+    "message": "Please. Can yall chill out.",
+    "msgClasses": "chat_message "
   }
 ]
