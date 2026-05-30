@@ -6196,5 +6196,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeTA5bWx0aXB3NXVkd3E5bmczejJlN3dmamVhczYxdjNjMzd2YTJ3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lqX6DWRfBQSuMXsyQi/giphy.gif]",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935956",
+    "type": "public",
+    "date": "30/05 15:12",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "It's STILL ranting to absolutely NO ONE",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
