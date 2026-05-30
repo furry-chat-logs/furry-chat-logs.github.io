@@ -418,5 +418,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "yea is kinda static",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935331",
+    "type": "public",
+    "date": "30/05 12:03",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "gonna watch zombie movie with my girlfriend",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7935332",
+    "type": "public",
+    "date": "30/05 12:03",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "You can play vrc on mobile",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
