@@ -2028,5 +2028,25 @@
     "userClasses": "username bgrad7 ",
     "message": "And was born from the mind of Kane Pixels who has both big ideas and talent",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935493",
+    "type": "public",
+    "date": "30/05 13:04",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "Hello chat",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935494",
+    "type": "public",
+    "date": "30/05 13:04",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Ugghh I wanna play Minecraft dungeons",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
