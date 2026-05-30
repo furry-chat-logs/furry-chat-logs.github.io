@@ -3158,5 +3158,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I like the wooden playgrounds they have here, so what if you get splinters. It's a fun time",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935616",
+    "type": "public",
+    "date": "30/05 13:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's like when I get these fake sms about my insurance, I don't even have a credit card🤔",
+    "msgClasses": "chat_message bneon14"
   }
 ]
