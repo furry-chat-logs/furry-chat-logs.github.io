@@ -3538,5 +3538,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "ZephTheFloofBoi pov u see real reality",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935654",
+    "type": "public",
+    "date": "30/05 13:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Then create a call link with Spectre_protogen",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935655",
+    "type": "public",
+    "date": "30/05 13:55",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "SoraTheMikuFan broo it feels so weird now T_T",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7935656",
+    "type": "public",
+    "date": "30/05 13:55",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Meep we could do a google meet.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
