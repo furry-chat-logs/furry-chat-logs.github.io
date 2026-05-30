@@ -3258,5 +3258,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Spectre_protogen goobaiii",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935626",
+    "type": "public",
+    "date": "30/05 13:50",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Smiley thes places are so coole",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7935627",
+    "type": "public",
+    "date": "30/05 13:50",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
+    "msgClasses": "chat_message bneon1  bfont10"
   }
 ]
