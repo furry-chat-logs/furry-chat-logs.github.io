@@ -5816,5 +5816,25 @@
     "userClasses": "username bgrad7 ",
     "message": "You are fucking dumb as a bag of rocks",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935918",
+    "type": "public",
+    "date": "30/05 15:06",
+    "username": "SD_S",
+    "userId": "31766",
+    "userClasses": "username bcolor15 bnfont12",
+    "message": "Okay. Chill out and explain calmly to me what happened",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935919",
+    "type": "public",
+    "date": "30/05 15:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "SD_S Ts ain't gonna work",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
