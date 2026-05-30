@@ -8674,5 +8674,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_6708f6b9b036.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936204",
+    "type": "public",
+    "date": "30/05 16:47",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnQzMHVvNjR1eDFkcmo1b2dpYjljNXphamhyd21iMXl6cHE5OGJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GgpAgbhcLUkGyyoAWo/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
