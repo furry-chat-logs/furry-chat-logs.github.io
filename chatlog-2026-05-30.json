@@ -6146,5 +6146,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Have to start calling her Miss Dale Meep Porphyrophobia Issa Smiley",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935951",
+    "type": "public",
+    "date": "30/05 15:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "LMAO",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935952",
+    "type": "public",
+    "date": "30/05 15:12",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "And when I ask and ask for what I did, because give me vague ass answers and expect me to put together accurately what the situation is",
+    "msgClasses": "chat_message bneon19"
   }
 ]
