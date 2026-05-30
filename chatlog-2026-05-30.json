@@ -6536,5 +6536,15 @@
     "userClasses": "username user ",
     "message": "What did I w",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935990",
+    "type": "public",
+    "date": "30/05 15:20",
+    "username": "L Dog",
+    "userId": "37446",
+    "userClasses": "username user ",
+    "message": "Walk into *",
+    "msgClasses": "chat_message "
   }
 ]
