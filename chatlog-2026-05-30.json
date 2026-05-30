@@ -8804,5 +8804,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Wb",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936218",
+    "type": "public",
+    "date": "30/05 17:20",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "thank yeu",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
