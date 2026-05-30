@@ -1718,5 +1718,25 @@
     "userClasses": "username bcolor27 ",
     "message": "[secret-share: 1508QYgoEpxTpTEUShiyS5G6G&n=46369]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7935462",
+    "type": "public",
+    "date": "30/05 12:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I love ittttttttttttttt",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935463",
+    "type": "public",
+    "date": "30/05 12:42",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "Peak",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
   }
 ]
