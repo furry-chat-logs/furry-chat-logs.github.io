@@ -8974,5 +8974,15 @@
     "userClasses": "username bcolor27 ",
     "message": "[heu]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7936235",
+    "type": "public",
+    "date": "30/05 18:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*sigh*",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
