@@ -8834,5 +8834,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "sigh",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936221",
+    "type": "public",
+    "date": "30/05 17:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_fbdd90b93cdc.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936222",
+    "type": "public",
+    "date": "30/05 17:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I deadass forgot I drawn Rune as Bro Strider [sob]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
