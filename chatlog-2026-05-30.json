@@ -4238,5 +4238,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Is the national dish a Big Mac yet",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935726",
+    "type": "public",
+    "date": "30/05 14:33",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "No",
+    "msgClasses": "chat_message bneon19"
   }
 ]
