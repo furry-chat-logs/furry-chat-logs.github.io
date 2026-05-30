@@ -2778,5 +2778,25 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7935568",
+    "type": "public",
+    "date": "30/05 13:30",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "How do i put things on the wall",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7935569",
+    "type": "public",
+    "date": "30/05 13:30",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "English Jake (ss) huh",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
   }
 ]
