@@ -458,5 +458,15 @@
     "userClasses": "username bcolor27 ",
     "message": "bc im BORED",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7935335",
+    "type": "public",
+    "date": "30/05 12:04",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "am I the only one single here",
+    "msgClasses": "chat_message bneon14"
   }
 ]
