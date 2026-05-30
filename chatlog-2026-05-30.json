@@ -728,5 +728,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Meep :3",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7935362",
+    "type": "public",
+    "date": "30/05 12:08",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "Oh yeh i do, i listen to em sometimes :3",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
+  },
+  {
+    "id": "7935363",
+    "type": "public",
+    "date": "30/05 12:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "smol cat 🥺",
+    "msgClasses": "chat_message bneon14"
   }
 ]
