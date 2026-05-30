@@ -4638,5 +4638,25 @@
     "userClasses": "username bgrad7 ",
     "message": "You too",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935800",
+    "type": "public",
+    "date": "30/05 14:43",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Both little followers on a leash",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935801",
+    "type": "public",
+    "date": "30/05 14:43",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Did it first",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
