@@ -2338,5 +2338,25 @@
     "userClasses": "username bgrad7 ",
     "message": "High Grade is between 15-30$",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935524",
+    "type": "public",
+    "date": "30/05 13:15",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "That is so cheap compared to lego",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7935525",
+    "type": "public",
+    "date": "30/05 13:15",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Real Grade is 30-60$",
+    "msgClasses": "chat_message bneon19"
   }
 ]
