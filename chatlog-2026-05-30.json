@@ -6076,5 +6076,25 @@
     "userClasses": "username bcolor15 bnfont12",
     "message": "Anyway. Changing the subject. I was on akinator and it guessed every character from stickwar...other than the one I wanted",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935944",
+    "type": "public",
+    "date": "30/05 15:10",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "So",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935945",
+    "type": "public",
+    "date": "30/05 15:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Have we not learn from what he did to ellishit",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
