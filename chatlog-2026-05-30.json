@@ -9104,5 +9104,15 @@
     "userClasses": "username bgrad15 ",
     "message": "There youd have to pay 1.25",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7936248",
+    "type": "public",
+    "date": "30/05 18:53",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No [angry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
