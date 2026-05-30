@@ -6746,5 +6746,25 @@
     "userClasses": "username bgrad7 ",
     "message": "Pictures don't change, but the people inside of them do.",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7936011",
+    "type": "public",
+    "date": "30/05 15:25",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Does it not know how to shut it's trap?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936012",
+    "type": "public",
+    "date": "30/05 15:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "But here's what don't make sense, how the hell you knew that Zen was a creep but then forgotten about it",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
