@@ -568,5 +568,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Spectre_protogen *ignores that* who even is that",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935346",
+    "type": "public",
+    "date": "30/05 12:05",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "SoraTheMikuFan idk",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7935347",
+    "type": "public",
+    "date": "30/05 12:05",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user484_81a241a13526.gif]",
+    "msgClasses": "chat_message "
   }
 ]
