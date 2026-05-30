@@ -6306,5 +6306,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Ones",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935967",
+    "type": "public",
+    "date": "30/05 15:15",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Can somebody just put a badge on Miss Dale's profile that reads \"LOLCOW\"?",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7935968",
+    "type": "public",
+    "date": "30/05 15:15",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "I'm a flirter, but that wasn't what I would say is flirting, which is a whole different opinion to everyone else, I guess so now people also think I'm just not owning up to something",
+    "msgClasses": "chat_message bneon19"
   }
 ]
