@@ -7116,5 +7116,35 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Deimos \"gloomies gonna love this shit drama\"",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7936048",
+    "type": "public",
+    "date": "30/05 15:28",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": ";_;",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7936049",
+    "type": "public",
+    "date": "30/05 15:28",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "This is pretty shitty dram.",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7936050",
+    "type": "public",
+    "date": "30/05 15:28",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Thought we were jumping Someone else",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
   }
 ]
