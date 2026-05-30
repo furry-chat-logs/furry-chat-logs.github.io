@@ -5456,5 +5456,25 @@
     "userClasses": "username bneon18 ",
     "message": "Er-",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7935882",
+    "type": "public",
+    "date": "30/05 15:00",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "It's so immature to continue to be passive agressive, or referencing towards me doing something bad, when I don't know what the hell it is",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935883",
+    "type": "public",
+    "date": "30/05 15:01",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "I just found out i cant say shut \"u-p\"",
+    "msgClasses": "chat_message "
   }
 ]
