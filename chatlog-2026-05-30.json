@@ -8214,5 +8214,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "SilverXD Come back gng",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936158",
+    "type": "public",
+    "date": "30/05 16:06",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Mood & bio updated [nosebleed]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7936159",
+    "type": "public",
+    "date": "30/05 16:06",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Anywho",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
