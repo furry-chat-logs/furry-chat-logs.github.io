@@ -8504,5 +8504,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "hi diva",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936187",
+    "type": "public",
+    "date": "30/05 16:31",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_3e83005b3aaf.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
