@@ -5068,5 +5068,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "List goes on and on ngl",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7935843",
+    "type": "public",
+    "date": "30/05 14:51",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Meep watch the usage of the first word, it might set off someone",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935844",
+    "type": "public",
+    "date": "30/05 14:51",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "That's crazy",
+    "msgClasses": "chat_message bneon19"
   }
 ]
