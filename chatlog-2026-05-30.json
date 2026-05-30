@@ -2728,5 +2728,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[secret-share: ZkEwVTxFZnD3At9UAL5b1Q2U7] idk anithing",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7935563",
+    "type": "public",
+    "date": "30/05 13:28",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "Fuck ass camera quality qwq",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
+  },
+  {
+    "id": "7935564",
+    "type": "public",
+    "date": "30/05 13:28",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[secret-share: 1508QYgoEpxTpTEUShiyS5G6G&n=46369]",
+    "msgClasses": "chat_message bold"
   }
 ]
