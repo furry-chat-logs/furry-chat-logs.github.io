@@ -5676,5 +5676,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Miss Kit at least we take accountability for our actions instead of attention seeking and being an asshole.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935904",
+    "type": "public",
+    "date": "30/05 15:04",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "watch now as they block Smiley",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935905",
+    "type": "public",
+    "date": "30/05 15:04",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Oh you're so suspicious! Oh you're defensive over something that isn't the topic even though countless context clues point to your reason for being defensive, oh but! I won't tell you what it actually is!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
