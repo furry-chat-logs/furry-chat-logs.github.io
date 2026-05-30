@@ -2168,5 +2168,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Spectre_protogen your partner is a twink",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935507",
+    "type": "public",
+    "date": "30/05 13:08",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "It's not guaranteed though",
+    "msgClasses": "chat_message bneon19"
   }
 ]
