@@ -8184,5 +8184,15 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7936155",
+    "type": "public",
+    "date": "30/05 15:59",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "chins tap",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
