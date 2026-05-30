@@ -8994,5 +8994,15 @@
     "userClasses": "username bcolor7 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_706400e9b48b.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936237",
+    "type": "public",
+    "date": "30/05 18:51",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Giving out free pneumonia",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
