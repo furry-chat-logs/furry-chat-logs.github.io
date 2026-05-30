@@ -5418,5 +5418,13 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_96622def2b39.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935878",
+    "type": "system",
+    "date": "30/05 14:59",
+    "username": "System",
+    "userId": null,
+    "message": "Spectre_protogen has been muted"
   }
 ]
