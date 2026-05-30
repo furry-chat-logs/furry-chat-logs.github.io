@@ -4748,5 +4748,35 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user33413_495f5267204a.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935811",
+    "type": "public",
+    "date": "30/05 14:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "IT",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7935812",
+    "type": "public",
+    "date": "30/05 14:44",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Or should I go through the manipulators friends list",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935813",
+    "type": "public",
+    "date": "30/05 14:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'M CRYING",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
