@@ -4048,5 +4048,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Smiley I'm great, and good to hear",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935705",
+    "type": "public",
+    "date": "30/05 14:17",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Got my hands on a Spirit box",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
