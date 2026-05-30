@@ -5238,5 +5238,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Smiley cheating anxiety syndrome idk",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7935860",
+    "type": "public",
+    "date": "30/05 14:56",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Miss Kit why'd you block her then? :|",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935861",
+    "type": "public",
+    "date": "30/05 14:56",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "I blocked them because I can't with anyone who talks to Porphy knowing how porphy has been telling people I'm a cheater",
+    "msgClasses": "chat_message bneon19"
   }
 ]
