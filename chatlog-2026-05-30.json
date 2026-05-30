@@ -3868,5 +3868,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "At least that...",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935687",
+    "type": "public",
+    "date": "30/05 14:05",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "TwT",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7935688",
+    "type": "public",
+    "date": "30/05 14:05",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Porphyrophobia hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
