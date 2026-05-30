@@ -7766,5 +7766,25 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "You are so fucking corny and full of yourself",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7936113",
+    "type": "public",
+    "date": "30/05 15:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "So? [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936114",
+    "type": "public",
+    "date": "30/05 15:45",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "This is ultimately meaningless",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
