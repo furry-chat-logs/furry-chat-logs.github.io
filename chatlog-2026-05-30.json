@@ -3438,5 +3438,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I wish I could be on that group call with Paimon",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935644",
+    "type": "public",
+    "date": "30/05 13:54",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Spectre_protogen sadly not, my mom is strict and won’t let me have apps TwT",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7935645",
+    "type": "public",
+    "date": "30/05 13:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Paimon where r u",
+    "msgClasses": "chat_message bneon14"
   }
 ]
