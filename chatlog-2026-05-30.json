@@ -5536,5 +5536,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Even though he's taken by someone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935890",
+    "type": "public",
+    "date": "30/05 15:01",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "It's not though?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7935891",
+    "type": "public",
+    "date": "30/05 15:01",
+    "username": "SD_S",
+    "userId": "31766",
+    "userClasses": "username bcolor15 bnfont12",
+    "message": "Spectre got muted for a google meets link. According to his mood",
+    "msgClasses": "chat_message "
   }
 ]
