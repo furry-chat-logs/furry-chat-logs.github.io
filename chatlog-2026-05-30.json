@@ -398,5 +398,15 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "Its too static",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7935329",
+    "type": "public",
+    "date": "30/05 12:03",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_8ccaae0a7546.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
