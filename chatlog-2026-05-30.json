@@ -7056,5 +7056,35 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "0Remy0 nice art!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936042",
+    "type": "public",
+    "date": "30/05 15:28",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Gloomie's gonna love ts drama",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7936043",
+    "type": "public",
+    "date": "30/05 15:28",
+    "username": "SD_S",
+    "userId": "31766",
+    "userClasses": "username bcolor15 bnfont12",
+    "message": "Wall post",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936044",
+    "type": "public",
+    "date": "30/05 15:28",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Yep",
+    "msgClasses": "chat_message bneon19"
   }
 ]
