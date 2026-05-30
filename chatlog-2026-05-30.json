@@ -608,5 +608,35 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Back in the old days I used to bartend at a digital bar and steal from the patrons.. Good days",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7935350",
+    "type": "public",
+    "date": "30/05 12:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "awww",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7935351",
+    "type": "public",
+    "date": "30/05 12:06",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I fly jets and terrorise people as V",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7935352",
+    "type": "public",
+    "date": "30/05 12:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "sounds fun",
+    "msgClasses": "chat_message bneon14"
   }
 ]
