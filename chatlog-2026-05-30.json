@@ -7546,5 +7546,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Porphyrophobia REAL",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7936091",
+    "type": "public",
+    "date": "30/05 15:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_4687511c6ca7.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936092",
+    "type": "public",
+    "date": "30/05 15:41",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[skull]",
+    "msgClasses": "chat_message ital"
   }
 ]
