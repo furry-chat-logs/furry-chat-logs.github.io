@@ -4818,5 +4818,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Eat it",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937914",
+    "type": "public",
+    "date": "31/05 2:17",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nom nom😋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937915",
+    "type": "public",
+    "date": "31/05 2:17",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Last night i drank an expired monster can",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
