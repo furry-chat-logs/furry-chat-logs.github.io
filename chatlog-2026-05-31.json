@@ -2998,5 +2998,15 @@
     "userClasses": "username user ",
     "message": "Trademark btw",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937732",
+    "type": "public",
+    "date": "31/05 1:40",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Damn",
+    "msgClasses": "chat_message "
   }
 ]
