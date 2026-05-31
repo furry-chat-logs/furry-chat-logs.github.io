@@ -13314,5 +13314,35 @@
     "userClasses": "username user ",
     "message": "My flavor of silly gets people upset",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936669",
+    "type": "public",
+    "date": "30/05 20:06",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop you replied to my note on ig but it said it was unavailable",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936670",
+    "type": "public",
+    "date": "30/05 20:06",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "But it's a living",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936671",
+    "type": "public",
+    "date": "30/05 20:06",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I cracked my toe",
+    "msgClasses": "chat_message bneon9"
   }
 ]
