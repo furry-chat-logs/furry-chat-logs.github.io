@@ -7998,5 +7998,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Veno did you perhaps block Mdekoni on accident",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938233",
+    "type": "public",
+    "date": "31/05 7:36",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Because that would make you the second person to do that",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
