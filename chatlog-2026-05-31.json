@@ -17906,5 +17906,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Huh i didnt know about it?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939228",
+    "type": "public",
+    "date": "31/05 14:35",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Like he controlled drones",
+    "msgClasses": "chat_message bold"
   }
 ]
