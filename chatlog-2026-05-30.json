@@ -15954,5 +15954,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Do u want my new disc",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936935",
+    "type": "public",
+    "date": "30/05 20:26",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "sue",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936936",
+    "type": "public",
+    "date": "30/05 20:26",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "sure",
+    "msgClasses": "chat_message bneon14 bold bfont9"
   }
 ]
