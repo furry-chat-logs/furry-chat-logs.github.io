@@ -9028,5 +9028,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Ch3rry_Drop That's cool !",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7938336",
+    "type": "public",
+    "date": "31/05 10:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "right",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938337",
+    "type": "public",
+    "date": "31/05 10:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "my dad had one",
+    "msgClasses": "chat_message bneon14"
   }
 ]
