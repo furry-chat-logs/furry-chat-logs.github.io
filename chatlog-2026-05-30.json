@@ -19344,5 +19344,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Umm I didn't understand a thing",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937320",
+    "type": "public",
+    "date": "30/05 23:36",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "yeah",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
