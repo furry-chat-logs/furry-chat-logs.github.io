@@ -8168,5 +8168,15 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "youre",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7938250",
+    "type": "public",
+    "date": "31/05 8:02",
+    "username": "CHERRYBOMB",
+    "userId": "13262",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_36c55309d741.png]",
+    "msgClasses": "chat_message "
   }
 ]
