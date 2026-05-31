@@ -7968,5 +7968,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Mdekoni if veno blocked you they cannot see your messages",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938230",
+    "type": "public",
+    "date": "31/05 7:34",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "!",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
