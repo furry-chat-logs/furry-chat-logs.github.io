@@ -17604,5 +17604,25 @@
     "userClasses": "username bcolor32 bnfont5",
     "message": "cool pfp",
     "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937145",
+    "type": "public",
+    "date": "30/05 22:02",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "parfait nice!",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7937146",
+    "type": "public",
+    "date": "30/05 22:02",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon14 bnfont6",
+    "message": "changed AGAIN",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
   }
 ]
