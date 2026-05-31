@@ -16194,5 +16194,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "🥀",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936959",
+    "type": "public",
+    "date": "30/05 20:29",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "i rwally dont remember😭",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936960",
+    "type": "public",
+    "date": "30/05 20:29",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "asterr oh",
+    "msgClasses": "chat_message bneon13 ital bfont12"
   }
 ]
