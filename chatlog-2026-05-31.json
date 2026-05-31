@@ -3358,5 +3358,25 @@
     "userClasses": "username user ",
     "message": "Ends with hragg",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937768",
+    "type": "public",
+    "date": "31/05 1:48",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Hunter77 sorry bud, can't listen to audios",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937769",
+    "type": "public",
+    "date": "31/05 1:48",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Sonic The Hedgehog Eso es bueno",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
