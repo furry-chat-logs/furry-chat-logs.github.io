@@ -4428,5 +4428,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "NotAWarlock okay, that is cool",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937875",
+    "type": "public",
+    "date": "31/05 2:10",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Its so hot and the sun isn't even up",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
