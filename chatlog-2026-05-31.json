@@ -10938,5 +10938,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "u can be loud and proud",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938527",
+    "type": "public",
+    "date": "31/05 10:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB gay laptop",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938528",
+    "type": "public",
+    "date": "31/05 10:38",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Just buy one i got one gifted",
+    "msgClasses": "chat_message "
   }
 ]
