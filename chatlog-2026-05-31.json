@@ -6588,5 +6588,15 @@
     "userClasses": "username bneon4 ",
     "message": "This site is English only.",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7938091",
+    "type": "public",
+    "date": "31/05 3:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Okay danke",
+    "msgClasses": "chat_message "
   }
 ]
