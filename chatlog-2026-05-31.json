@@ -18856,5 +18856,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Im tryna stay awake",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7939323",
+    "type": "public",
+    "date": "31/05 18:31",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "I will not sleep",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
