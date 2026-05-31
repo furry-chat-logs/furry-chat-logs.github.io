@@ -13388,5 +13388,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "My friend has one of these too",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938773",
+    "type": "public",
+    "date": "31/05 11:08",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "That's it's brand",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938775",
+    "type": "public",
+    "date": "31/05 11:08",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "These have nice touchpads",
+    "msgClasses": "chat_message "
   }
 ]
