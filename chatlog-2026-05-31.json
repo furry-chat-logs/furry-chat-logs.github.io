@@ -6578,5 +6578,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Drück auf die drei Linien oben links und gehe dann auf specal vip",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938090",
+    "type": "public",
+    "date": "31/05 3:44",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "This site is English only.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
