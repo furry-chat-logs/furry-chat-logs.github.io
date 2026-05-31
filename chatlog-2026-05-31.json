@@ -5008,5 +5008,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Mdekoni I'm sorry what?",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937933",
+    "type": "public",
+    "date": "31/05 2:20",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog nothing",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
