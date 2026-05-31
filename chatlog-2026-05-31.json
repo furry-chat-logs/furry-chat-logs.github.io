@@ -12248,5 +12248,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "*fades from existence*",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7938658",
+    "type": "public",
+    "date": "31/05 10:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Neo The Protogen goobaiii",
+    "msgClasses": "chat_message bneon14"
   }
 ]
