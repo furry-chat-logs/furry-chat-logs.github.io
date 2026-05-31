@@ -8088,5 +8088,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Sorry Mdekoni they got you on that one",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938242",
+    "type": "public",
+    "date": "31/05 7:53",
+    "username": "Smoking Scoundrel",
+    "userId": "36006",
+    "userClasses": "username bcolor7 bnfont1",
+    "message": "Does anyone even like mdeko",
+    "msgClasses": "chat_message bgrad2 bold bfont1"
   }
 ]
