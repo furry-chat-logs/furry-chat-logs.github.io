@@ -10504,5 +10504,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "😔",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936388",
+    "type": "public",
+    "date": "30/05 19:40",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "BRO",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936389",
+    "type": "public",
+    "date": "30/05 19:40",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "mxgic_mondo yes?",
+    "msgClasses": "chat_message bneon1  bfont10"
   }
 ]
