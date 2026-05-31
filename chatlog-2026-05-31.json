@@ -7778,5 +7778,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Sorry i just saw that message now",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938210",
+    "type": "public",
+    "date": "31/05 6:51",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "We traded getting Nighthawk back for Issbrokie quitting 😔",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
