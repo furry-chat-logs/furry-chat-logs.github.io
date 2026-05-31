@@ -15704,5 +15704,25 @@
     "userClasses": "username bgrad1 bnfont4",
     "message": "asterr No you DON'T [verysad]",
     "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7936910",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I only have stinky Elliot and then Lyman",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936911",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "Well, bats are cute",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
   }
 ]
