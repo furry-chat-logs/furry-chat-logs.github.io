@@ -2228,5 +2228,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[nana]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937655",
+    "type": "public",
+    "date": "31/05 1:30",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Sonic The Hedgehog Oh, Hi, it's in Chile, I am afraid you won't know wich one",
+    "msgClasses": "chat_message "
   }
 ]
