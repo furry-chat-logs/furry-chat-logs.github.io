@@ -11264,5 +11264,15 @@
     "userClasses": "username bcolor1 ",
     "message": "Don't dm me \"Hewo\" I will bite ur head off.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936464",
+    "type": "public",
+    "date": "30/05 19:47",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Does the pfp not say anything",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
