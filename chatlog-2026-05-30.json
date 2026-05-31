@@ -17554,5 +17554,25 @@
     "userClasses": "username bcolor32 bnfont5",
     "message": "let me find out",
     "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937140",
+    "type": "public",
+    "date": "30/05 22:01",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon15 bnfont6",
+    "message": "ok new pfp hi",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7937141",
+    "type": "public",
+    "date": "30/05 22:01",
+    "username": "kayden_404",
+    "userId": "12021",
+    "userClasses": "username bcolor32 bnfont5",
+    "message": "[sob] 72 coins my broke ahh",
+    "msgClasses": "chat_message bcolor30 heavybold"
   }
 ]
