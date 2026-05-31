@@ -1058,5 +1058,25 @@
     "userClasses": "username user ",
     "message": "I'm new here",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937538",
+    "type": "public",
+    "date": "31/05 0:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Your aspiring words are confusing me.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937539",
+    "type": "public",
+    "date": "31/05 0:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Volkner cool",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
