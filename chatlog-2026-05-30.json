@@ -13054,5 +13054,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "😔",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936643",
+    "type": "public",
+    "date": "30/05 20:04",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Beat him up",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936644",
+    "type": "public",
+    "date": "30/05 20:04",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "cøllieシ i lowkey might have lost your number again",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936645",
+    "type": "public",
+    "date": "30/05 20:04",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "Kill him",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
   }
 ]
