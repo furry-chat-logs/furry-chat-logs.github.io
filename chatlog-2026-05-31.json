@@ -16628,5 +16628,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Miss Kit about?",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939099",
+    "type": "public",
+    "date": "31/05 12:58",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "New Kid poverty",
+    "msgClasses": "chat_message bneon19"
   }
 ]
