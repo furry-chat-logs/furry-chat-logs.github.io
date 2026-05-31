@@ -10164,5 +10164,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_3bd7f6329449.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936354",
+    "type": "public",
+    "date": "30/05 19:38",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user28253_edc47c740519.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936355",
+    "type": "public",
+    "date": "30/05 19:38",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "<img src=\" [media: https://media.discordapp.net/attachments/1510442042533085418/1510442110237671464/IMG_0521.jpg?ex=6a1cd455&amp;is=6a1b82d5&amp;hm=cedaf6b244d61c7ae9b4b8c611999bafa6bb8042ab1308ce970d0be6b9ee3228&amp;=&amp;format=webp&amp;width=266&amp;height=473\"] alt=\"Image\"/>",
+    "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7936356",
+    "type": "public",
+    "date": "30/05 19:39",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "OMG YES",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936357",
+    "type": "public",
+    "date": "30/05 19:39",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "Lyman put the belly away ok?ok",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
