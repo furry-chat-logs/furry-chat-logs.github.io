@@ -15494,5 +15494,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Ch3rry_Drop oh",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936888",
+    "type": "public",
+    "date": "30/05 20:23",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "then carry on",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936889",
+    "type": "public",
+    "date": "30/05 20:23",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Ch3rry_Drop he tried to get me to pay off your \"debt\"",
+    "msgClasses": "chat_message bneon14 bold bfont9"
   }
 ]
