@@ -13514,5 +13514,25 @@
     "userClasses": "username bgrad39 ",
     "message": "I like Cinnamon Toast Crunch",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936689",
+    "type": "public",
+    "date": "30/05 20:07",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "Issa [totallove] GRGRGRGGRRG",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7936690",
+    "type": "public",
+    "date": "30/05 20:07",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Cover them in pitch and tose them into the Grand canyon",
+    "msgClasses": "chat_message "
   }
 ]
