@@ -5788,5 +5788,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "I hadn't think on how much I like carrot cake",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7938011",
+    "type": "public",
+    "date": "31/05 2:47",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Nein",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
