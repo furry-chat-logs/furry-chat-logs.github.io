@@ -16898,5 +16898,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "I have to go now, have a nice day",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939126",
+    "type": "public",
+    "date": "31/05 13:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I forgot to say I was going to the beach",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
