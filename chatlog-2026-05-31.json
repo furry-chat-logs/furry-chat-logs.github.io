@@ -15278,5 +15278,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "gloop glorp",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7938964",
+    "type": "public",
+    "date": "31/05 12:09",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "New Kid cool 😎",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
