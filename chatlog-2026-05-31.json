@@ -18426,5 +18426,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_68c2695201d7.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939280",
+    "type": "public",
+    "date": "31/05 15:31",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_3b958c261cbe.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
