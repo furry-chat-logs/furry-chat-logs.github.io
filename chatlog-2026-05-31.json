@@ -13728,5 +13728,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB doesn't it dry",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938809",
+    "type": "public",
+    "date": "31/05 11:17",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "We had a conversation with Miku saying that shes sticky",
+    "msgClasses": "chat_message "
   }
 ]
