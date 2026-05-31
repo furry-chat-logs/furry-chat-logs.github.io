@@ -8828,5 +8828,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "SBB  oooo",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7938316",
+    "type": "public",
+    "date": "31/05 10:05",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB cool",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
