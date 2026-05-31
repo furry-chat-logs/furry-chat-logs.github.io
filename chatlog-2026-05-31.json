@@ -4978,5 +4978,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Like protogen",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937930",
+    "type": "public",
+    "date": "31/05 2:19",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Sol_Aizawa gm",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937931",
+    "type": "public",
+    "date": "31/05 2:19",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
