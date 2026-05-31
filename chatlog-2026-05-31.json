@@ -9048,5 +9048,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "my dad had one",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938338",
+    "type": "public",
+    "date": "31/05 10:09",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37449_6b9738e49a92.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938339",
+    "type": "public",
+    "date": "31/05 10:09",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ch3rry_Drop do you have that plastic bag thingy over your tato",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938340",
+    "type": "public",
+    "date": "31/05 10:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "he said it didn't hurt at all tho",
+    "msgClasses": "chat_message bneon14"
   }
 ]
