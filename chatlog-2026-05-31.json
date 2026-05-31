@@ -2078,5 +2078,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Volkner do you play any instruments?",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7937640",
+    "type": "public",
+    "date": "31/05 1:25",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Oh... I used to play piano, that was long ago and I kiiiiiind of learning to play guitar in my work, I am a waiter",
+    "msgClasses": "chat_message "
   }
 ]
