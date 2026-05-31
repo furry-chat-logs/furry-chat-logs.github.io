@@ -17318,5 +17318,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcm15NmQwNzY4ZXFidzFzdnJwZDJmb2J1cGpwYzdmZXFzOXlpa3FvZSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/dzPXKFVLVUJa0kDyLT/giphy.gif]",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7939168",
+    "type": "public",
+    "date": "31/05 13:31",
+    "username": "Xbox",
+    "userId": "8187",
+    "userClasses": "username bneon10 bnfont12",
+    "message": "But mine was the 360",
+    "msgClasses": "chat_message bneon10 heavybold bfont12"
   }
 ]
