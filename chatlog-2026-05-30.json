@@ -10524,5 +10524,25 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "mxgic_mondo yes?",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7936390",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Giggled.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936391",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Ch3rry_Drop Ion know you. [verysad]",
+    "msgClasses": "chat_message ital"
   }
 ]
