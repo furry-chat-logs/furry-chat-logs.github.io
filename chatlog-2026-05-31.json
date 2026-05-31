@@ -6118,5 +6118,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Goobai",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938044",
+    "type": "public",
+    "date": "31/05 3:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan SoraTheMikuFan I have 59%",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
