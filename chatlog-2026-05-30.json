@@ -15274,5 +15274,35 @@
     "userClasses": "username bgrad39 ",
     "message": "I'm part of everyone",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936866",
+    "type": "public",
+    "date": "30/05 20:21",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Ch3rry_Drop this was a joke",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936867",
+    "type": "public",
+    "date": "30/05 20:21",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I don't hate everyone",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936868",
+    "type": "public",
+    "date": "30/05 20:21",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "🥹",
+    "msgClasses": "chat_message bneon9"
   }
 ]
