@@ -5908,5 +5908,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Old and fashion way than",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938023",
+    "type": "public",
+    "date": "31/05 2:52",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_7d64b2d2c401.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938024",
+    "type": "public",
+    "date": "31/05 2:52",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Thers a button",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
