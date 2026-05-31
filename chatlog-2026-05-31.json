@@ -5828,5 +5828,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Should I try to draw my fursona? Before sleeping?",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7938015",
+    "type": "public",
+    "date": "31/05 2:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Volkner [good]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
