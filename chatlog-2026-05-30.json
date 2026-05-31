@@ -11534,5 +11534,15 @@
     "userClasses": "username bcolor1 ",
     "message": "On my knees",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936491",
+    "type": "public",
+    "date": "30/05 19:49",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[hono]",
+    "msgClasses": "chat_message ital"
   }
 ]
