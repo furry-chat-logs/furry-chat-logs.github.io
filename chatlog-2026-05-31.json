@@ -7388,5 +7388,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "i've been trying to sleep since about liek 3 or 4 in the afternoon yesterday",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7938171",
+    "type": "public",
+    "date": "31/05 5:32",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Where is the percent when I need it",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938172",
+    "type": "public",
+    "date": "31/05 5:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": ":/",
+    "msgClasses": "chat_message bneon14"
   }
 ]
