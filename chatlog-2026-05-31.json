@@ -7958,5 +7958,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Veno why did you block me",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938229",
+    "type": "public",
+    "date": "31/05 7:34",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Mdekoni if veno blocked you they cannot see your messages",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
