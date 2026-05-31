@@ -4038,5 +4038,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "And what about me Sonic?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937836",
+    "type": "public",
+    "date": "31/05 2:05",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I'm not a brother?!",
+    "msgClasses": "chat_message "
   }
 ]
