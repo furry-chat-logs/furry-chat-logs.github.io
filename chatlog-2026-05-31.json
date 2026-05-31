@@ -6698,5 +6698,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yeah but this aint a problem",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938102",
+    "type": "public",
+    "date": "31/05 3:48",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_218885081d2a.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
