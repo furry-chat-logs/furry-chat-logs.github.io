@@ -19784,5 +19784,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And Jews",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937364",
+    "type": "public",
+    "date": "30/05 23:41",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Wtfissachip TRUE",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937365",
+    "type": "public",
+    "date": "30/05 23:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Isser English confirmed",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
