@@ -7628,5 +7628,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "liminal hello",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938195",
+    "type": "public",
+    "date": "31/05 6:21",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Sol_Aizawa Hii!!!",
+    "msgClasses": "chat_message bold"
   }
 ]
