@@ -6058,5 +6058,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "M-me?!",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938038",
+    "type": "public",
+    "date": "31/05 2:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm not an AI!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
