@@ -3028,5 +3028,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Yeah today I decided to be an Anarchist.",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937735",
+    "type": "public",
+    "date": "31/05 1:41",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Damn nein outta 10",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937736",
+    "type": "public",
+    "date": "31/05 1:41",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Gonna leave that club to the pups Wtfissachip",
+    "msgClasses": "chat_message "
   }
 ]
