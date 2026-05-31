@@ -11514,5 +11514,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I can on my alt",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936489",
+    "type": "public",
+    "date": "30/05 19:49",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "I beg",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936490",
+    "type": "public",
+    "date": "30/05 19:49",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "On my knees",
+    "msgClasses": "chat_message "
   }
 ]
