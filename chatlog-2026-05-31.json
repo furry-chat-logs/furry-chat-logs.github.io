@@ -13578,5 +13578,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I even got a monecraft torch",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938794",
+    "type": "public",
+    "date": "31/05 11:13",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Now it worked",
+    "msgClasses": "chat_message "
   }
 ]
