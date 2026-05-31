@@ -15778,5 +15778,25 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "im so enjoying ready or not rn",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7939014",
+    "type": "public",
+    "date": "31/05 12:25",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "my fiero is a 1987 silver se",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939015",
+    "type": "public",
+    "date": "31/05 12:25",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "So many privileged people who have more money than others and instead of using to help, we pillage others lives with ways to exploit money out of the lesser fortune",
+    "msgClasses": "chat_message bneon19"
   }
 ]
