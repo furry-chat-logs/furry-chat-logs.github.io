@@ -6128,5 +6128,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan SoraTheMikuFan I have 59%",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938045",
+    "type": "public",
+    "date": "31/05 3:03",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "I'll be back later",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
