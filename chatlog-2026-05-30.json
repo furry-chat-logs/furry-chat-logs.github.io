@@ -14614,5 +14614,35 @@
     "userClasses": "username bgrad39 ",
     "message": "cøllieシ Awh man",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936800",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop CHUD?",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936801",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936802",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Last time that happened I called the cops",
+    "msgClasses": "chat_message bneon9"
   }
 ]
