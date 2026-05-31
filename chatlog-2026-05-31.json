@@ -3198,5 +3198,15 @@
     "userClasses": "username user ",
     "message": "Gonna kms now",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937752",
+    "type": "public",
+    "date": "31/05 1:44",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcHlqOHM2dmM0NGZzdm1hbnA3NzZ6NWZ5N2l5Z2IxdHdoZ2V0cW1sMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3467pZ7lvSWctKzj4Z/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
