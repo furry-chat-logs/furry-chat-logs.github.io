@@ -19854,5 +19854,25 @@
     "userClasses": "username bneon18 ",
     "message": "Isser English.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7937371",
+    "type": "public",
+    "date": "30/05 23:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*traumatised*",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937372",
+    "type": "public",
+    "date": "30/05 23:41",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Bergindine is that was Hitler said?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
