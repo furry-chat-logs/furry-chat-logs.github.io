@@ -18496,5 +18496,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "That's nice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939287",
+    "type": "public",
+    "date": "31/05 15:39",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Thundercloudgaming03 Nice pfp bro",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
