@@ -938,5 +938,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "What is what",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937526",
+    "type": "public",
+    "date": "31/05 0:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Can we address the elephant in the room?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937527",
+    "type": "public",
+    "date": "31/05 0:57",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeDl3dzRzY3hjcGl3dzB2OGE3Zm0zN244bTYxMWZ0aXp0YW5zMW5vMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BiI4Ocki694ctjmxRF/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
