@@ -10134,5 +10134,35 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "paper between hardcovers",
     "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936351",
+    "type": "public",
+    "date": "30/05 19:38",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user28253_2f10df6d0a75.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936352",
+    "type": "public",
+    "date": "30/05 19:38",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "<img src=\" [media: https://media.discordapp.net/attachments/1510442042533085418/1510442109898068069/IMG_0624.jpg?ex=6a1cd455&amp;is=6a1b82d5&amp;hm=8e261cec5cee9e7765492807d632c01aeb7bd7912eb967646d193c39976b7481&amp;=&amp;format=webp&amp;width=266&amp;height=473\"] alt=\"Image\"/>",
+    "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7936353",
+    "type": "public",
+    "date": "30/05 19:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_3bd7f6329449.png]",
+    "msgClasses": "chat_message "
   }
 ]
