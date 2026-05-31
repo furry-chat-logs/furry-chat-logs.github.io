@@ -16868,5 +16868,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "You are not",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939123",
+    "type": "public",
+    "date": "31/05 13:09",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "You have thougth and you want to share them, that is everything",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
