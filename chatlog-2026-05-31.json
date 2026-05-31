@@ -3698,5 +3698,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "You never know anything pup",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937802",
+    "type": "public",
+    "date": "31/05 1:59",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "(just kidding, sorry)",
+    "msgClasses": "chat_message "
   }
 ]
