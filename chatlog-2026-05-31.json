@@ -9348,5 +9348,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Well ima say im not a Miku fan, but im a Siku fan",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938368",
+    "type": "public",
+    "date": "31/05 10:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Siku?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
