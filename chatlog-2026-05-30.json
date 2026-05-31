@@ -9974,5 +9974,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "bites nails",
     "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936335",
+    "type": "public",
+    "date": "30/05 19:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Yeah, I have no clue who aiko is.",
+    "msgClasses": "chat_message ital"
   }
 ]
