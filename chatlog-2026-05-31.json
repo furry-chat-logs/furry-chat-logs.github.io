@@ -4738,5 +4738,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nom",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937906",
+    "type": "public",
+    "date": "31/05 2:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*sings miku miku bongo*",
+    "msgClasses": "chat_message bneon14"
   }
 ]
