@@ -8448,5 +8448,15 @@
     "userClasses": "username bneon4 ",
     "message": "Yawned and stretched",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7938278",
+    "type": "public",
+    "date": "31/05 9:44",
+    "username": "Hiddeblade",
+    "userId": "37360",
+    "userClasses": "username user ",
+    "message": "Morning",
+    "msgClasses": "chat_message "
   }
 ]
