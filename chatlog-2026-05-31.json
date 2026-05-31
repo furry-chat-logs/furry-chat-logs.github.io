@@ -9438,5 +9438,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "ohhh I see why lol",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938377",
+    "type": "public",
+    "date": "31/05 10:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "wowie",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938378",
+    "type": "public",
+    "date": "31/05 10:20",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Its logo is a red circle with white text \"siku\"",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938379",
+    "type": "public",
+    "date": "31/05 10:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "noice",
+    "msgClasses": "chat_message bneon14"
   }
 ]
