@@ -18704,5 +18704,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "i cant send the su-57 construction manue",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937255",
+    "type": "public",
+    "date": "30/05 23:24",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Bergindine are you trying to teach us how to build stuff ;-;",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937256",
+    "type": "public",
+    "date": "30/05 23:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "AH",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
