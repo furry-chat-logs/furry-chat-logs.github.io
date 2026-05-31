@@ -18304,5 +18304,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "blue for me",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937215",
+    "type": "public",
+    "date": "30/05 23:15",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "anime theme",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937216",
+    "type": "public",
+    "date": "30/05 23:15",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "huh",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937217",
+    "type": "public",
+    "date": "30/05 23:15",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "dark theme is blue",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
