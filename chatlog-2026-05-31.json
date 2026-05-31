@@ -5158,5 +5158,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Volkner I am a multi-sona ->-",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7937948",
+    "type": "public",
+    "date": "31/05 2:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Me is cat fox hybrid :p",
+    "msgClasses": "chat_message bneon14"
   }
 ]
