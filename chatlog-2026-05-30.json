@@ -14564,5 +14564,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "cøllieシ genuinely gonna throw Ch3rry_Drop 's tattoo gun at you",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936795",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Ch3rry_Drop I will end it all",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936796",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "No ur not.",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936797",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ur not touching my shit",
+    "msgClasses": "chat_message bneon9"
   }
 ]
