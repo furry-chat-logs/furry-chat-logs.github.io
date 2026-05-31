@@ -3428,5 +3428,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Sonic The Hedgehog Ahora mismo es bueno simplemente relajarse.",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7937775",
+    "type": "public",
+    "date": "31/05 1:49",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Hunter77 Muy bien wey",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
