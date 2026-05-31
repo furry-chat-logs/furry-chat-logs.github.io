@@ -15878,5 +15878,35 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hehe yeah ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939024",
+    "type": "public",
+    "date": "31/05 12:26",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_12f3a856e6da.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939025",
+    "type": "public",
+    "date": "31/05 12:26",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_f250f5baec20.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939026",
+    "type": "public",
+    "date": "31/05 12:26",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Only interesting thing I have",
+    "msgClasses": "chat_message bneon19"
   }
 ]
