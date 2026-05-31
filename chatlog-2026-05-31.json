@@ -3878,5 +3878,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "I'm the mero mero bud",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937820",
+    "type": "public",
+    "date": "31/05 2:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Volkner it's a song",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
