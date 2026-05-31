@@ -3308,5 +3308,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7937763",
+    "type": "public",
+    "date": "31/05 1:47",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Starts with a t",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937764",
+    "type": "public",
+    "date": "31/05 1:47",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Wtfissachip hmm",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
