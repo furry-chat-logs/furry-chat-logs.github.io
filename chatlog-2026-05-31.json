@@ -15328,5 +15328,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[gun]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938969",
+    "type": "public",
+    "date": "31/05 12:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXo4azJ1ZXd4eW5waXdzbGV1OGxhd2RsaTJ5aWU0cWtsZWh3b3UxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vk9HkFgiFztiZBtlOB/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
