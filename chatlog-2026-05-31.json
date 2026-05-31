@@ -8018,5 +8018,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa but the chases",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938235",
+    "type": "public",
+    "date": "31/05 7:37",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "they were speaking nonsense in my dms",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
