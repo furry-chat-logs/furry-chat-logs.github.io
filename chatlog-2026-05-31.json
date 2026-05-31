@@ -5858,5 +5858,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_d2f1df000a00.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938018",
+    "type": "public",
+    "date": "31/05 2:50",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Forgot to put them back",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
