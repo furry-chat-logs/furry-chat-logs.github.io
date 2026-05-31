@@ -5108,5 +5108,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "SoraTheMikuFan Hello friend",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7937943",
+    "type": "public",
+    "date": "31/05 2:22",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Volkner strangely normal",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
