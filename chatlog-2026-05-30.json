@@ -18904,5 +18904,35 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "nini",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7937275",
+    "type": "public",
+    "date": "30/05 23:29",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "i have mein kampf (ford translation) but you know",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937276",
+    "type": "public",
+    "date": "30/05 23:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Smiley nini",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937277",
+    "type": "public",
+    "date": "30/05 23:29",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Wtfissachip whys that",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
