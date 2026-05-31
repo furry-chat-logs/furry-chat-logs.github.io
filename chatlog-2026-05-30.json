@@ -10864,5 +10864,15 @@
     "userClasses": "username bcolor1 ",
     "message": "I've been gone for to long",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936424",
+    "type": "public",
+    "date": "30/05 19:43",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "How do I not remember this person.",
+    "msgClasses": "chat_message ital"
   }
 ]
