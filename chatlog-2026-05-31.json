@@ -18106,5 +18106,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I feel exhausted from swimming",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939248",
+    "type": "public",
+    "date": "31/05 15:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_662f4b992dda.png]",
+    "msgClasses": "chat_message "
   }
 ]
