@@ -10014,5 +10014,25 @@
     "userClasses": "username bcolor1 ",
     "message": "I forgor my old accs name",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936339",
+    "type": "public",
+    "date": "30/05 19:37",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "are they GOOD books at least",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936340",
+    "type": "public",
+    "date": "30/05 19:37",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "And that's where my memory fucking slips.",
+    "msgClasses": "chat_message ital"
   }
 ]
