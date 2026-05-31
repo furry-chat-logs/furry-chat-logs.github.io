@@ -18954,5 +18954,45 @@
     "userClasses": "username user ",
     "message": "Bergindine it lets too many idiots have a voice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937280",
+    "type": "public",
+    "date": "30/05 23:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Uh uh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937281",
+    "type": "public",
+    "date": "30/05 23:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_692ebfbaa943.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937282",
+    "type": "public",
+    "date": "30/05 23:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "We all ignored the stranger-danger rule",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937283",
+    "type": "public",
+    "date": "30/05 23:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I think this was the one I had",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
