@@ -10544,5 +10544,35 @@
     "userClasses": "username bneon18 ",
     "message": "Ch3rry_Drop Ion know you. [verysad]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7936392",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "U just hate me",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936393",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Cries",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936394",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop is getting jumped",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
