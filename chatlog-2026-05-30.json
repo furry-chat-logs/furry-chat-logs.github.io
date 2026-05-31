@@ -13344,5 +13344,35 @@
     "userClasses": "username bgrad39 ",
     "message": "I cracked my toe",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936672",
+    "type": "public",
+    "date": "30/05 20:06",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "thats why i dmed you originally😭",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936673",
+    "type": "public",
+    "date": "30/05 20:06",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "but why D:",
+    "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7936674",
+    "type": "public",
+    "date": "30/05 20:06",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "asterr bc u mentioned collie",
+    "msgClasses": "chat_message bneon9"
   }
 ]
