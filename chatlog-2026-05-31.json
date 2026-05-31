@@ -848,5 +848,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "You mean the good boy 77",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937517",
+    "type": "public",
+    "date": "31/05 0:53",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Bingo",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
