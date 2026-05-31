@@ -10474,5 +10474,35 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "You know Zen don't you",
     "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936385",
+    "type": "public",
+    "date": "30/05 19:40",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop you know me because im 100% obviously your favorite",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936386",
+    "type": "public",
+    "date": "30/05 19:40",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Ik Porphyrophobia and Issa nd Lyman and idk asterr I swear",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936387",
+    "type": "public",
+    "date": "30/05 19:40",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
