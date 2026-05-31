@@ -15834,5 +15834,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "🥀",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936923",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "But if they are injured they heal fast.",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936924",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "Bnuy",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7936925",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "cøllieシ oh.",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
