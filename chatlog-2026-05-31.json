@@ -4878,5 +4878,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Sonic The Hedgehog u r the one who told Mdekoni to eat it",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937920",
+    "type": "public",
+    "date": "31/05 2:18",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "NotAWarlock yummy",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
