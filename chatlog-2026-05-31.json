@@ -2838,5 +2838,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Mdekoni",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937716",
+    "type": "public",
+    "date": "31/05 1:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Wtfissachip [moai]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937717",
+    "type": "public",
+    "date": "31/05 1:38",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "Alixfurrryy hey",
+    "msgClasses": "chat_message "
   }
 ]
