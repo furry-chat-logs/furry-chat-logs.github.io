@@ -15508,5 +15508,15 @@
     "userClasses": "username user ",
     "message": "they shouldnt have hired me but im paid cash",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938987",
+    "type": "public",
+    "date": "31/05 12:21",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I don't have a job or a driving license, or have I studied, all bc my parents only see me as a liability",
+    "msgClasses": "chat_message bneon19"
   }
 ]
