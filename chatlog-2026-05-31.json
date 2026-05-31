@@ -17626,5 +17626,15 @@
     "username": "System",
     "userId": null,
     "message": "Sol_Aizawa has been muted"
+  },
+  {
+    "id": "7939199",
+    "type": "public",
+    "date": "31/05 13:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Noooo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
