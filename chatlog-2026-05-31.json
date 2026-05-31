@@ -11108,5 +11108,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "🍺",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938544",
+    "type": "public",
+    "date": "31/05 10:40",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Neo The Protogen you big pc",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
