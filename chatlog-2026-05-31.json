@@ -14488,5 +14488,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bye",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938885",
+    "type": "public",
+    "date": "31/05 11:25",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Its free",
+    "msgClasses": "chat_message "
   }
 ]
