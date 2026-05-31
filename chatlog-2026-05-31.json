@@ -5478,5 +5478,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_5cb1284f6d85.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937980",
+    "type": "public",
+    "date": "31/05 2:31",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My cave",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
