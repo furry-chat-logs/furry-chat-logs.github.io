@@ -3268,5 +3268,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Yes 31/05 8:45 you shurr",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937759",
+    "type": "public",
+    "date": "31/05 1:46",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "He gets it from me",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
