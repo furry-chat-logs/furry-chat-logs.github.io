@@ -9718,5 +9718,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Jetzt tretet die mein arsch",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938405",
+    "type": "public",
+    "date": "31/05 10:23",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "No no it was called something else",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938406",
+    "type": "public",
+    "date": "31/05 10:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "oh wait I cut them yesterday",
+    "msgClasses": "chat_message bneon14"
   }
 ]
