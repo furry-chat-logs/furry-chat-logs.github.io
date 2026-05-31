@@ -4698,5 +4698,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Why so quiet suddenly",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937902",
+    "type": "public",
+    "date": "31/05 2:15",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Idk",
+    "msgClasses": "chat_message bneon14"
   }
 ]
