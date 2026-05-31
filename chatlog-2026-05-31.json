@@ -4148,5 +4148,35 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Its 1 AM and i can't really fall a sleep so now i am just killing time",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937847",
+    "type": "public",
+    "date": "31/05 2:06",
+    "username": "CHERRYBOMB",
+    "userId": "13262",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_39fd5b44f75b.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937848",
+    "type": "public",
+    "date": "31/05 2:06",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "NotAWarlock i dont got vip so im bored rn",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937849",
+    "type": "public",
+    "date": "31/05 2:06",
+    "username": "CHERRYBOMB",
+    "userId": "13262",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_c6c9fb369fce.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
