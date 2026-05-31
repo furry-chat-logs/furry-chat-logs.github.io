@@ -12894,5 +12894,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "asterr whag",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936627",
+    "type": "public",
+    "date": "30/05 20:03",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "cøllieシ ill dm you hold on💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936628",
+    "type": "public",
+    "date": "30/05 20:03",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Time to go play Siege, see you all later.",
+    "msgClasses": "chat_message bneon18 bold bfont4"
   }
 ]
