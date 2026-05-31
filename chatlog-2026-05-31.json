@@ -10438,5 +10438,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB 20kg",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938477",
+    "type": "public",
+    "date": "31/05 10:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "SBB how much?",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938478",
+    "type": "public",
+    "date": "31/05 10:33",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB 50",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938479",
+    "type": "public",
+    "date": "31/05 10:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "like an ant",
+    "msgClasses": "chat_message bneon14"
   }
 ]
