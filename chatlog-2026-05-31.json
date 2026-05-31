@@ -1448,5 +1448,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "That is my last drawing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937577",
+    "type": "public",
+    "date": "31/05 1:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Scrunched my face sobbing, curled up in the corner that is suddenly existent. [cry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
