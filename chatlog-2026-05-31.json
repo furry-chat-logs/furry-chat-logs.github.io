@@ -6328,5 +6328,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB you buy with the money you get every minute",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938065",
+    "type": "public",
+    "date": "31/05 3:34",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB no problem",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
