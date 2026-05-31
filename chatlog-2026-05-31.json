@@ -11588,5 +11588,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Appeared",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7938592",
+    "type": "public",
+    "date": "31/05 10:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "SBB oh jeez that's hot",
+    "msgClasses": "chat_message bneon14"
   }
 ]
