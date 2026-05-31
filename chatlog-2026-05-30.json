@@ -10364,5 +10364,35 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "ok",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7936374",
+    "type": "public",
+    "date": "30/05 19:40",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Veno syau",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936375",
+    "type": "public",
+    "date": "30/05 19:40",
+    "username": "mxgic_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_ebfd60ec9c23.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936376",
+    "type": "public",
+    "date": "30/05 19:40",
+    "username": "mxgic_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "asterr Ch3rry_Drop Lyman",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
