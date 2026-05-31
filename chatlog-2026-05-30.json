@@ -20284,5 +20284,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "im hungery",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937414",
+    "type": "public",
+    "date": "30/05 23:51",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_ce5481eec3c5.png]",
+    "msgClasses": "chat_message "
   }
 ]
