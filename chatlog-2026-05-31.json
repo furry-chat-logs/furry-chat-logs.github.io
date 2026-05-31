@@ -18046,5 +18046,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Shrimp indeed.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939242",
+    "type": "public",
+    "date": "31/05 15:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_4632081ae91e.png]",
+    "msgClasses": "chat_message "
   }
 ]
