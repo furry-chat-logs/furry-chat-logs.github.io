@@ -6928,5 +6928,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Mdekoni what does wary Harry mean?",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7938125",
+    "type": "public",
+    "date": "31/05 4:07",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "He needs to go",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938126",
+    "type": "public",
+    "date": "31/05 4:07",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": ":(",
+    "msgClasses": "chat_message "
   }
 ]
