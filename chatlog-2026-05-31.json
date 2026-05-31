@@ -13478,5 +13478,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "But you gotta refresh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938784",
+    "type": "public",
+    "date": "31/05 11:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Gay laptop and mic",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938785",
+    "type": "public",
+    "date": "31/05 11:11",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "SBB holy tuff",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
