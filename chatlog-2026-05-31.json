@@ -3678,5 +3678,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "NotAWarlock hey que onda?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937800",
+    "type": "public",
+    "date": "31/05 1:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Volkner idk",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
