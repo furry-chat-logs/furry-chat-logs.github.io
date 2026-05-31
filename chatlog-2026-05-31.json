@@ -11408,5 +11408,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "not sticky",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938574",
+    "type": "public",
+    "date": "31/05 10:43",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "But sometimes he gives me a 90 volt shock",
+    "msgClasses": "chat_message "
   }
 ]
