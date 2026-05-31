@@ -6348,5 +6348,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Okay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938067",
+    "type": "public",
+    "date": "31/05 3:35",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I see in your pf desc that you cant really talk english",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938068",
+    "type": "public",
+    "date": "31/05 3:35",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Thats the same as me",
+    "msgClasses": "chat_message "
   }
 ]
