@@ -5318,5 +5318,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "K/Volkner(Wolfs) Wallas/Chester (dogs) Haru (dragon) makoro (shark-wolf) Damián (Linx) Theodore (besar) Valter (Tiger-Fox)",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937964",
+    "type": "public",
+    "date": "31/05 2:28",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Mdekoni what is that?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937965",
+    "type": "public",
+    "date": "31/05 2:28",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ima go back in my cave",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
