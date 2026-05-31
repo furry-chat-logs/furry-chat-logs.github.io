@@ -9944,5 +9944,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "is that zen",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936332",
+    "type": "public",
+    "date": "30/05 19:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Serious?",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7936333",
+    "type": "public",
+    "date": "30/05 19:36",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "no",
+    "msgClasses": "chat_message bneon18 bold bfont4"
   }
 ]
