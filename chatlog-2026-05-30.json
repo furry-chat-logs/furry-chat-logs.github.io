@@ -10684,5 +10684,25 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "Ch3rry_Drop oh damn",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7936406",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "I had to give him cologne for valentines day",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936407",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "LMFAO",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
