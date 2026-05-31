@@ -6518,5 +6518,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Bin am Bodensee",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938084",
+    "type": "public",
+    "date": "31/05 3:40",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Coole",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
