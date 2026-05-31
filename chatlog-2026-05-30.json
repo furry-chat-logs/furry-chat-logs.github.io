@@ -17574,5 +17574,25 @@
     "userClasses": "username bcolor32 bnfont5",
     "message": "[sob] 72 coins my broke ahh",
     "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937142",
+    "type": "public",
+    "date": "30/05 22:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_afa255d4ecf3.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937143",
+    "type": "public",
+    "date": "30/05 22:02",
+    "username": "kayden_404",
+    "userId": "12021",
+    "userClasses": "username bcolor32 bnfont5",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user12021_deef04898296.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
