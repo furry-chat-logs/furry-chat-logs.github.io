@@ -6868,5 +6868,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ello Volkner :D",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938119",
+    "type": "public",
+    "date": "31/05 4:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Volkner K bros wary Harry",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
