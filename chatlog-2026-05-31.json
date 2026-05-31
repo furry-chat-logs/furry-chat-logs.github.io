@@ -13738,5 +13738,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "We had a conversation with Miku saying that shes sticky",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938810",
+    "type": "public",
+    "date": "31/05 11:17",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Good morning ^^",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938811",
+    "type": "public",
+    "date": "31/05 11:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "No it's not stickyyyy",
+    "msgClasses": "chat_message bneon14"
   }
 ]
