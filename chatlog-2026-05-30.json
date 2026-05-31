@@ -18664,5 +18664,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "thats a book about facism and socialism",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937251",
+    "type": "public",
+    "date": "30/05 23:23",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "And well, it has a bunch of dark humor [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937252",
+    "type": "public",
+    "date": "30/05 23:23",
+    "username": "GORILLAZFAN",
+    "userId": "34493",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Oop",
+    "msgClasses": "chat_message "
   }
 ]
