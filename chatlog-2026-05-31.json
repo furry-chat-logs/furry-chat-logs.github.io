@@ -8508,5 +8508,15 @@
     "userClasses": "username user ",
     "message": "Wait nvm short",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938284",
+    "type": "public",
+    "date": "31/05 9:46",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Oop..",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
