@@ -3898,5 +3898,15 @@
     "userClasses": "username user ",
     "message": "NotAWarlock \"¿Te puedo secuestrar?\"",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937822",
+    "type": "public",
+    "date": "31/05 2:03",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "If you want to talk in spanish with me that woulb be in prívate i guess",
+    "msgClasses": "chat_message "
   }
 ]
