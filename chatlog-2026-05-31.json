@@ -12608,5 +12608,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "*prepares for the worst*",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938694",
+    "type": "public",
+    "date": "31/05 11:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Why is the HARD DRIVE ONE DEGREE OVER THE LIMIT",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938695",
+    "type": "public",
+    "date": "31/05 11:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan 200%",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
