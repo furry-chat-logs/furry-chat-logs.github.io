@@ -17418,5 +17418,25 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcXlobmEwbW5mMzZ0Y2lzd2FlcHgxdDNvbmZhb2N3eW8zdnVsNGRmeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ix8BIYKvO6GQM/giphy.gif]",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7939178",
+    "type": "public",
+    "date": "31/05 13:33",
+    "username": "Xbox",
+    "userId": "8187",
+    "userClasses": "username bneon10 bnfont12",
+    "message": "But the only things I got is my parents Wii, Xbox 360, Xbox one, and Xbox series s",
+    "msgClasses": "chat_message bneon10 heavybold bfont12"
+  },
+  {
+    "id": "7939179",
+    "type": "public",
+    "date": "31/05 13:34",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "I'VE PLAYED MARIO KART WII",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
