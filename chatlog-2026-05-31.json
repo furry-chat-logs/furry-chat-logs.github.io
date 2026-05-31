@@ -5698,5 +5698,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "And it's bed, bead its something else",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938002",
+    "type": "public",
+    "date": "31/05 2:40",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_7c7777b96c63.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
