@@ -5488,5 +5488,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "My cave",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937981",
+    "type": "public",
+    "date": "31/05 2:32",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Mdekoni nice",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
