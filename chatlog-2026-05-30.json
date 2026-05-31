@@ -19664,5 +19664,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "my bad",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937352",
+    "type": "public",
+    "date": "30/05 23:40",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Are we talking about how terrible he was, but how clever he was in the way he could persaude and manipulate?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7937353",
+    "type": "public",
+    "date": "30/05 23:40",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "SoraTheMikuFan i can explain it or not, i dont care either way",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
