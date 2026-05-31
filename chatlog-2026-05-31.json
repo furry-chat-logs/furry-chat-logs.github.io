@@ -7558,5 +7558,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Bought some noodles",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938188",
+    "type": "public",
+    "date": "31/05 5:47",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "ouch...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
