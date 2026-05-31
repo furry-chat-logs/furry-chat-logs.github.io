@@ -16638,5 +16638,15 @@
     "userClasses": "username bneon4 ",
     "message": "New Kid poverty",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939100",
+    "type": "public",
+    "date": "31/05 12:59",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Huh interesting",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
