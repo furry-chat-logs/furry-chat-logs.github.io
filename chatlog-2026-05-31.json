@@ -9518,5 +9518,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yes my pfp is a RC Siku CLAAS",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938385",
+    "type": "public",
+    "date": "31/05 10:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "why am I loling lol",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938386",
+    "type": "public",
+    "date": "31/05 10:21",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yep",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938387",
+    "type": "public",
+    "date": "31/05 10:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "stawp it Sora",
+    "msgClasses": "chat_message bneon14"
   }
 ]
