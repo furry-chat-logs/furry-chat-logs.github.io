@@ -14328,5 +14328,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "My neck hurts",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938869",
+    "type": "public",
+    "date": "31/05 11:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_89ca5a093c63.png]",
+    "msgClasses": "chat_message "
   }
 ]
