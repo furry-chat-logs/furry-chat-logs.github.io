@@ -17726,5 +17726,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "meep",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7939209",
+    "type": "public",
+    "date": "31/05 14:10",
+    "username": "Electric_sinner_wolf",
+    "userId": "26458",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Is there a Mr shark",
+    "msgClasses": "chat_message bgrad32 heavyital bfont2"
   }
 ]
