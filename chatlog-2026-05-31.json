@@ -13118,5 +13118,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "me",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938745",
+    "type": "public",
+    "date": "31/05 11:05",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB 🫢",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938746",
+    "type": "public",
+    "date": "31/05 11:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "hot",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938747",
+    "type": "public",
+    "date": "31/05 11:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "noooooooooooooooooooooooooooo wayyyyyyyyyyyyyyyyyyyy",
+    "msgClasses": "chat_message bneon14"
   }
 ]
