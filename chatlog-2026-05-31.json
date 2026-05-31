@@ -8958,5 +8958,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I don't have tatoos",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938329",
+    "type": "public",
+    "date": "31/05 10:08",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Well",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7938330",
+    "type": "public",
+    "date": "31/05 10:08",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I do",
+    "msgClasses": "chat_message bneon9"
   }
 ]
