@@ -11734,5 +11734,25 @@
     "userClasses": "username bneon1 ",
     "message": "Now that I have my vip im flexing my hair",
     "msgClasses": "chat_message bneon1"
+  },
+  {
+    "id": "7936511",
+    "type": "public",
+    "date": "30/05 19:51",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop smells like the hantavirus",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936512",
+    "type": "public",
+    "date": "30/05 19:51",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "[idontcare]",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
