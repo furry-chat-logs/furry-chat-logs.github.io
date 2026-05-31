@@ -11288,5 +11288,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Thanks <3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938562",
+    "type": "public",
+    "date": "31/05 10:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "it's gay right? so it wouldn't become sticky next to me",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938563",
+    "type": "public",
+    "date": "31/05 10:42",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Icecream: <3",
+    "msgClasses": "chat_message "
   }
 ]
