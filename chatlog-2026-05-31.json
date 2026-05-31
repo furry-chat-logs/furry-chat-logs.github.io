@@ -8048,5 +8048,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Veno I just wanted to say hi",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938238",
+    "type": "public",
+    "date": "31/05 7:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Veno he just wanted to say hi",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
