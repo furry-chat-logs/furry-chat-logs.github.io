@@ -19704,5 +19704,25 @@
     "userClasses": "username bneon4 ",
     "message": "He's like Trump in that way",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7937356",
+    "type": "public",
+    "date": "30/05 23:40",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "he was VERY persausive and smart, he just thought that white people were better",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937357",
+    "type": "public",
+    "date": "30/05 23:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ummm",
+    "msgClasses": "chat_message bneon14"
   }
 ]
