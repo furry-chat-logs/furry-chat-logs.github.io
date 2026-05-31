@@ -14944,5 +14944,45 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Ch3rry_Drop damn, what’d we do </3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936833",
+    "type": "public",
+    "date": "30/05 20:19",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "asterr i dont forgive you",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936834",
+    "type": "public",
+    "date": "30/05 20:19",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "U all smell",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936835",
+    "type": "public",
+    "date": "30/05 20:19",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop but i dont know where to send the cops😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936836",
+    "type": "public",
+    "date": "30/05 20:19",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Veno ty",
+    "msgClasses": "chat_message bneon9"
   }
 ]
