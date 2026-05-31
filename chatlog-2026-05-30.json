@@ -18584,5 +18584,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "cant send the mig29 flight manual",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937243",
+    "type": "public",
+    "date": "30/05 23:20",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Nini everyone",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
