@@ -15948,5 +15948,25 @@
     "userClasses": "username user ",
     "message": "the stock sound system is aweful",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939031",
+    "type": "public",
+    "date": "31/05 12:27",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "had no bass and crackly speakers",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939032",
+    "type": "public",
+    "date": "31/05 12:28",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Miss Kit it is not an obligation to help... Even if it would be good, it is just imposible with so many things happening, one never know what happened tomorrow, we are responsable for our one future, I for example, work like a crazy dog to have My money and live with my husband",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
