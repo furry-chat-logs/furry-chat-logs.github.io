@@ -20034,5 +20034,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[secret-share: 1QqOJmD8Npc0KGotliAgdE8Gn&n=47492] what should I eat",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937389",
+    "type": "public",
+    "date": "30/05 23:45",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Twitter is a fucking hell hole full of ****ers, idiots who think they're right, and any kind of phobe",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937390",
+    "type": "public",
+    "date": "30/05 23:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_e4c9eb25fa8e.png]",
+    "msgClasses": "chat_message "
   }
 ]
