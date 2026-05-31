@@ -15518,5 +15518,25 @@
     "userClasses": "username bneon4 ",
     "message": "I don't have a job or a driving license, or have I studied, all bc my parents only see me as a liability",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7938988",
+    "type": "public",
+    "date": "31/05 12:22",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "i dont have a license but i have 3 cars lol",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938989",
+    "type": "public",
+    "date": "31/05 12:22",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Good morning",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
