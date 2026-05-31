@@ -12354,5 +12354,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Last fall* 🥱",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936573",
+    "type": "public",
+    "date": "30/05 19:56",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "(pretty sure i was involved in most but whatever😟)",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936574",
+    "type": "public",
+    "date": "30/05 19:56",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "anyway brb",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936575",
+    "type": "public",
+    "date": "30/05 19:56",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "Wtfissachip kinked vein :[ no blood flow 4 u",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
