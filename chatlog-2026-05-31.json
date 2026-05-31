@@ -5418,5 +5418,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Sol_Aizawa I love that desing!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937974",
+    "type": "public",
+    "date": "31/05 2:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "The drawing is not mine, as it is from a mha fanfic",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
