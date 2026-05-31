@@ -3538,5 +3538,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Cat",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937786",
+    "type": "public",
+    "date": "31/05 1:55",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Heyaaaa",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937787",
+    "type": "public",
+    "date": "31/05 1:55",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I was wondering...",
+    "msgClasses": "chat_message "
   }
 ]
