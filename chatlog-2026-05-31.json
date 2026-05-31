@@ -17368,5 +17368,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "My first console was the PS2...I now have a PS4",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939173",
+    "type": "public",
+    "date": "31/05 13:32",
+    "username": "Xbox",
+    "userId": "8187",
+    "userClasses": "username bneon10 bnfont12",
+    "message": "Wish I had the experience of the original Xbox",
+    "msgClasses": "chat_message bneon10 heavybold bfont12"
+  },
+  {
+    "id": "7939174",
+    "type": "public",
+    "date": "31/05 13:32",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "I witnessed the Wii and the PS3",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
