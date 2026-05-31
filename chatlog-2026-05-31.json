@@ -17608,5 +17608,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Rune is genderman a real game",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939197",
+    "type": "public",
+    "date": "31/05 13:45",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "Unfortunately",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
   }
 ]
