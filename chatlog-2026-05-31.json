@@ -13608,5 +13608,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "My laptop aint that sticky",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938797",
+    "type": "public",
+    "date": "31/05 11:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Youre sticky",
+    "msgClasses": "chat_message "
   }
 ]
