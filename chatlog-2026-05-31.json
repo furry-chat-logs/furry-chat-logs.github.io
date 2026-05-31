@@ -4048,5 +4048,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "I'm not a brother?!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937837",
+    "type": "public",
+    "date": "31/05 2:05",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Volkner Hermanos",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
