@@ -18424,5 +18424,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "huh?",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937227",
+    "type": "public",
+    "date": "30/05 23:17",
+    "username": "WackyJack",
+    "userId": "37410",
+    "userClasses": "username user ",
+    "message": "hi everyone",
+    "msgClasses": "chat_message "
   }
 ]
