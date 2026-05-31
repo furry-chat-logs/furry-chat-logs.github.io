@@ -5628,5 +5628,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "The ideas are flooooowing and I love it! This is what I needed",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937995",
+    "type": "public",
+    "date": "31/05 2:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_4314aa415df6.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937996",
+    "type": "public",
+    "date": "31/05 2:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Little space left",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
