@@ -5688,5 +5688,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Pup, NO!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938001",
+    "type": "public",
+    "date": "31/05 2:40",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "And it's bed, bead its something else",
+    "msgClasses": "chat_message "
   }
 ]
