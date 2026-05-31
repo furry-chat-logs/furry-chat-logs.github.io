@@ -2448,5 +2448,15 @@
     "userClasses": "username user ",
     "message": "Set yourself on fire",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937677",
+    "type": "public",
+    "date": "31/05 1:33",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Volkner yah",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
