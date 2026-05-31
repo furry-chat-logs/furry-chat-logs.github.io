@@ -7568,5 +7568,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "ouch...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938189",
+    "type": "public",
+    "date": "31/05 5:47",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "my head is throbbing",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
