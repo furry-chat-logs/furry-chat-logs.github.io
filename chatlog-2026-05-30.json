@@ -10814,5 +10814,55 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Ch3rry_Drop ill dm you",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936419",
+    "type": "public",
+    "date": "30/05 19:43",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Idk who ik anymore",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936420",
+    "type": "public",
+    "date": "30/05 19:43",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Bro am I TWEAKING?",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7936421",
+    "type": "public",
+    "date": "30/05 19:43",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Cries?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936422",
+    "type": "public",
+    "date": "30/05 19:43",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Uh",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7936423",
+    "type": "public",
+    "date": "30/05 19:43",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "I've been gone for to long",
+    "msgClasses": "chat_message "
   }
 ]
