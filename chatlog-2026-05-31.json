@@ -2758,5 +2758,35 @@
     "userClasses": "username user ",
     "message": "No",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937708",
+    "type": "public",
+    "date": "31/05 1:38",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "Mdekoni is that the taken the foxcraft trilogy",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937709",
+    "type": "public",
+    "date": "31/05 1:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Wtfissachip wat",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937710",
+    "type": "public",
+    "date": "31/05 1:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I like how nobody cares that I have a lighter",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
