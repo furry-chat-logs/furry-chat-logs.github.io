@@ -11728,5 +11728,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Porphyrophobia morning good",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938606",
+    "type": "public",
+    "date": "31/05 10:47",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "This chat is so sus",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938607",
+    "type": "public",
+    "date": "31/05 10:47",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "🧑‍🦯",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
