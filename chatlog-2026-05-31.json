@@ -12298,5 +12298,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": ">.>",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938663",
+    "type": "public",
+    "date": "31/05 10:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "EYELASH",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938664",
+    "type": "public",
+    "date": "31/05 10:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "OW",
+    "msgClasses": "chat_message bneon14"
   }
 ]
