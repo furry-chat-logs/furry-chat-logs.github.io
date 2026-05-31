@@ -6398,5 +6398,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im german",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938072",
+    "type": "public",
+    "date": "31/05 3:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB me too",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
