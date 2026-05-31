@@ -3278,5 +3278,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "He gets it from me",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937760",
+    "type": "public",
+    "date": "31/05 1:46",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_a51500697fd7.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937761",
+    "type": "public",
+    "date": "31/05 1:46",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sonic The Hedgehog you won't guess who I am",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937762",
+    "type": "public",
+    "date": "31/05 1:47",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
