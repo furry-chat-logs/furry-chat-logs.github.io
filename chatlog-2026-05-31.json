@@ -3858,5 +3858,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "For the sake of everyone my fellow NotAWarlock we have to keep tallking in English haha",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937818",
+    "type": "public",
+    "date": "31/05 2:02",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Alr, alr, fair enough",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
