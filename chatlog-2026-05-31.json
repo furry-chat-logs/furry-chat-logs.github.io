@@ -18706,5 +18706,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Stupid font",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939308",
+    "type": "public",
+    "date": "31/05 16:53",
+    "username": "新来的孩子",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Hm",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
