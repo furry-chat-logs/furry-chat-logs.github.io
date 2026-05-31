@@ -7938,5 +7938,15 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "hii !",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7938227",
+    "type": "public",
+    "date": "31/05 7:32",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Hallo!!!",
+    "msgClasses": "chat_message bold"
   }
 ]
