@@ -20234,5 +20234,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Don't chop it off [totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937409",
+    "type": "public",
+    "date": "30/05 23:49",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7937410",
+    "type": "public",
+    "date": "30/05 23:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f13459858854.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937411",
+    "type": "public",
+    "date": "30/05 23:49",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_da518a120f13.png]",
+    "msgClasses": "chat_message "
   }
 ]
