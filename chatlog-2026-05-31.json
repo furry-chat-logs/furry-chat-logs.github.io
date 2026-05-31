@@ -7368,5 +7368,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "AAAAAAAAAAAAaa",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938169",
+    "type": "public",
+    "date": "31/05 5:32",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "NEVERMING I HAVE 15",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938170",
+    "type": "public",
+    "date": "31/05 5:32",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "i've been trying to sleep since about liek 3 or 4 in the afternoon yesterday",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
