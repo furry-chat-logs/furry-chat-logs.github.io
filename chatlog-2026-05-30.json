@@ -11974,5 +11974,35 @@
     "userClasses": "username bneon1 ",
     "message": "At all",
     "msgClasses": "chat_message bneon1"
+  },
+  {
+    "id": "7936535",
+    "type": "public",
+    "date": "30/05 19:53",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "I dont like you either",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936536",
+    "type": "public",
+    "date": "30/05 19:53",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bneon1 ",
+    "message": "Anyways.",
+    "msgClasses": "chat_message bneon1"
+  },
+  {
+    "id": "7936537",
+    "type": "public",
+    "date": "30/05 19:54",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bneon1 ",
+    "message": "Meow meow meow meow",
+    "msgClasses": "chat_message bneon1"
   }
 ]
