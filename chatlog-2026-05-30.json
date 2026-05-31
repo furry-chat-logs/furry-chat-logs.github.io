@@ -13414,5 +13414,35 @@
     "userClasses": "username user ",
     "message": "Veno some people just take shit too seriously",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936679",
+    "type": "public",
+    "date": "30/05 20:07",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Obviously",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936680",
+    "type": "public",
+    "date": "30/05 20:07",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "i dont remember this😭",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936681",
+    "type": "public",
+    "date": "30/05 20:07",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ur note was smth abt collie",
+    "msgClasses": "chat_message bneon9"
   }
 ]
