@@ -4388,5 +4388,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937871",
+    "type": "public",
+    "date": "31/05 2:10",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMzRhY2Z0enhxOWF0aW5sY3VlNmliamxiam9ra3J5N2YwcGR5a3g4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0RHwT0chgyYM5UU0U1/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
