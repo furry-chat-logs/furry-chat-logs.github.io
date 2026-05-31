@@ -15664,5 +15664,25 @@
     "userClasses": "username bgrad1 bnfont4",
     "message": "[media: https://furrychat.net/chat/upload/chat/user33678_d1665e759b8c.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936905",
+    "type": "public",
+    "date": "30/05 20:24",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "i want a bat",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936906",
+    "type": "public",
+    "date": "30/05 20:24",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I need mkre ppl added here",
+    "msgClasses": "chat_message bneon9"
   }
 ]
