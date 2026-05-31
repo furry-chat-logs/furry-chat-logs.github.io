@@ -3048,5 +3048,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Gonna leave that club to the pups Wtfissachip",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937737",
+    "type": "public",
+    "date": "31/05 1:41",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I want to be free of oppression.",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
