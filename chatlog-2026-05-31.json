@@ -13698,5 +13698,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan why",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938806",
+    "type": "public",
+    "date": "31/05 11:16",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "The stickyness drops on your head",
+    "msgClasses": "chat_message "
   }
 ]
