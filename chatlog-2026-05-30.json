@@ -14514,5 +14514,35 @@
     "userClasses": "username user ",
     "message": "You'd be weird to not think of that",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936789",
+    "type": "public",
+    "date": "30/05 20:15",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "truth nuke",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936790",
+    "type": "public",
+    "date": "30/05 20:15",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I like this guy",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936791",
+    "type": "public",
+    "date": "30/05 20:15",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ima shave collies head",
+    "msgClasses": "chat_message bneon9"
   }
 ]
