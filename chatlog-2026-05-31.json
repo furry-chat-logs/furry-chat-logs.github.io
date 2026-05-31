@@ -17168,5 +17168,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc2dyYXJ2aGc4M3pld2g5MmZvdjZzbjViMXYyOGphNHg5ODV2bHF4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y2BBy5IxOjJFA7F4a8/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7939153",
+    "type": "public",
+    "date": "31/05 13:29",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMjFxbmZ1bGtwYnZheG1vMHNuZXc2b3RxeW5idGJpbnZza3dyY3c2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tNnvxQmLhRdS5gJ4SQ/giphy.gif]",
+    "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7939154",
+    "type": "public",
+    "date": "31/05 13:29",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeW16OW9pMHk3N3g3aTk0dm83c2Ewend1ajdtZzZ0MDN6NmR2cXl1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vdOARwUgvmPVC/giphy.gif]",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
