@@ -20064,5 +20064,25 @@
     "userClasses": "username bcolor19 ",
     "message": "Hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937392",
+    "type": "public",
+    "date": "30/05 23:45",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "penor 31/05 6:45wat is that",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937393",
+    "type": "public",
+    "date": "30/05 23:45",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "hi yall",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
