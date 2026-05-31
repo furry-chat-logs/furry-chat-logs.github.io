@@ -6908,5 +6908,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Okay alr",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938123",
+    "type": "public",
+    "date": "31/05 4:06",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "SBB Hello!",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
