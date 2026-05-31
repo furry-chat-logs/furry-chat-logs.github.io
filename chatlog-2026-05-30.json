@@ -9814,5 +9814,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "💔",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936319",
+    "type": "public",
+    "date": "30/05 19:35",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "yawmn",
+    "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7936320",
+    "type": "public",
+    "date": "30/05 19:35",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Lyman my goats gonna send the tattoos in chat bc I cant",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936321",
+    "type": "public",
+    "date": "30/05 19:35",
+    "username": "mxgic_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "asterr hush patty flipper",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
