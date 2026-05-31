@@ -11808,5 +11808,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "SoraTheMikuFan Prob lol",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7938614",
+    "type": "public",
+    "date": "31/05 10:48",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Neo The Protogen lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938615",
+    "type": "public",
+    "date": "31/05 10:48",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "SoraTheMikuFan no, not me. I'm perfectly normal and sane U.U",
+    "msgClasses": "chat_message "
   }
 ]
