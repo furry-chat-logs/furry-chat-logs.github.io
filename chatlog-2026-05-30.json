@@ -19614,5 +19614,25 @@
     "userClasses": "username user ",
     "message": "Arayan m",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937347",
+    "type": "public",
+    "date": "30/05 23:39",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Damn",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937348",
+    "type": "public",
+    "date": "30/05 23:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's hard to hear abt him",
+    "msgClasses": "chat_message bneon14"
   }
 ]
