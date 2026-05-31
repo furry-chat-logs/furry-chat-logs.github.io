@@ -4118,5 +4118,25 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "plushpaw545 bored as hell",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937844",
+    "type": "public",
+    "date": "31/05 2:06",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[hilarious]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937845",
+    "type": "public",
+    "date": "31/05 2:06",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "NotAWarlock same right now",
+    "msgClasses": "chat_message "
   }
 ]
