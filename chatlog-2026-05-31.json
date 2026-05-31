@@ -8338,5 +8338,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Hi 31/05 15:26 Hallooo!!!",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7938267",
+    "type": "public",
+    "date": "31/05 9:29",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hmm...",
+    "msgClasses": "chat_message ital"
   }
 ]
