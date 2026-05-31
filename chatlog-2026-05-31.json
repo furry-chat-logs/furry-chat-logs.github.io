@@ -14728,5 +14728,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im the ultra real ProximityChat",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938909",
+    "type": "public",
+    "date": "31/05 11:29",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "I'm getting a 16GB Laptop soon",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
