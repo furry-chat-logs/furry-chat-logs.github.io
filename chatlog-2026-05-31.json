@@ -5878,5 +5878,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Mdekoni what were you doing with those",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938020",
+    "type": "public",
+    "date": "31/05 2:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_03447e84e377.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
