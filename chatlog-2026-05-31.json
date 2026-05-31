@@ -6458,5 +6458,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Das geht schon hauptsache ich hab jemanden mit dem ich mich einfacher verständigen kann",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938078",
+    "type": "public",
+    "date": "31/05 3:39",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Coole",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
