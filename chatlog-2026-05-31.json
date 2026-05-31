@@ -998,5 +998,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "You're confusing me, boy",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937532",
+    "type": "public",
+    "date": "31/05 0:58",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username user ",
+    "message": "Good nigth",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937533",
+    "type": "public",
+    "date": "31/05 0:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Whom, boy?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937534",
+    "type": "public",
+    "date": "31/05 0:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hmmm..",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
