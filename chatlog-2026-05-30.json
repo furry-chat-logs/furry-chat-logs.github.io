@@ -9654,5 +9654,25 @@
     "userClasses": "username bcolor1 ",
     "message": "I have no vip",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936303",
+    "type": "public",
+    "date": "30/05 19:33",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "No image perms",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936304",
+    "type": "public",
+    "date": "30/05 19:33",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "So u cant",
+    "msgClasses": "chat_message "
   }
 ]
