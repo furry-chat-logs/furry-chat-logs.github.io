@@ -4848,5 +4848,25 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "How foolish of me",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937917",
+    "type": "public",
+    "date": "31/05 2:17",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "(But fr tho i had an awful time after that)",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937918",
+    "type": "public",
+    "date": "31/05 2:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ew",
+    "msgClasses": "chat_message bneon14"
   }
 ]
