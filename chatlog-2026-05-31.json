@@ -238,5 +238,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Mdekoni just become unbored by sleeping",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7937456",
+    "type": "public",
+    "date": "31/05 0:15",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "People trying not to die usually aren't bored",
+    "msgClasses": "chat_message "
   }
 ]
