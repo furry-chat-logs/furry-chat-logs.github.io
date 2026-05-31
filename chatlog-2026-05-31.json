@@ -15858,5 +15858,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "datfurryredneck my friend has a silver one (For parts) and a black one",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7939022",
+    "type": "public",
+    "date": "31/05 12:26",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "i just domed a suspect with a 6.5 creedmore dmr for not dropping his gun",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7939023",
+    "type": "public",
+    "date": "31/05 12:26",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Hehe yeah ^^",
+    "msgClasses": "chat_message "
   }
 ]
