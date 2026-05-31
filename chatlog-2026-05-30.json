@@ -13264,5 +13264,15 @@
     "userClasses": "username user ",
     "message": "Veno I'm just silly",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936664",
+    "type": "public",
+    "date": "30/05 20:06",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "i like your flavor of silly",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
