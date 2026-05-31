@@ -5438,5 +5438,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "also the eyes of my wendigo are more blueish than red",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7937976",
+    "type": "public",
+    "date": "31/05 2:31",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "It's friendly?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937977",
+    "type": "public",
+    "date": "31/05 2:31",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "also wendigo's get pictured as demons and stuff by folklore",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
