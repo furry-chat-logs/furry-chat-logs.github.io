@@ -4198,5 +4198,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2R2ZTFtazhwdnB4OWRkYWVtaTFha3RtZnZkYmgxMWE4YWd1amd2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rBpG1qXdB1n3PEjrgV/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937852",
+    "type": "public",
+    "date": "31/05 2:07",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "5000",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937853",
+    "type": "public",
+    "date": "31/05 2:07",
+    "username": "CHERRYBOMB",
+    "userId": "13262",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "NotAWarlock 5k coins",
+    "msgClasses": "chat_message bcolor1 heavyital bfont3"
   }
 ]
