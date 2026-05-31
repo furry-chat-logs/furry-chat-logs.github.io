@@ -13224,5 +13224,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "BRO💔",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936660",
+    "type": "public",
+    "date": "30/05 20:05",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Don't be cocky with me",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936661",
+    "type": "public",
+    "date": "30/05 20:05",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Wtfissachip i like this idea",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936662",
+    "type": "public",
+    "date": "30/05 20:05",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ur the gay that texted ME",
+    "msgClasses": "chat_message bneon9"
   }
 ]
