@@ -12464,5 +12464,35 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Did I make that public ?",
     "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936584",
+    "type": "public",
+    "date": "30/05 19:58",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "...",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936585",
+    "type": "public",
+    "date": "30/05 19:58",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "Ill just leave",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936586",
+    "type": "public",
+    "date": "30/05 19:58",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bneon1 ",
+    "message": "I'm gonna chew on rune",
+    "msgClasses": "chat_message bneon1"
   }
 ]
