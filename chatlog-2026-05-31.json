@@ -4008,5 +4008,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Hermano",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937833",
+    "type": "public",
+    "date": "31/05 2:05",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeXhxejN4MnJ2ZWdpYnI3eTFteW03ZWR1ZTZtcWtjcGxscGtqNG9rMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gW9n2fOd1zfZqLwx6s/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
