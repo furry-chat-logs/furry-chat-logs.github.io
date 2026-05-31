@@ -18196,5 +18196,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Miss Kit I looked it up...",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939257",
+    "type": "public",
+    "date": "31/05 15:26",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm grossed out",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939258",
+    "type": "public",
+    "date": "31/05 15:26",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Guys I want McDonald's new sprite drink thing",
+    "msgClasses": "chat_message bneon9"
   }
 ]
