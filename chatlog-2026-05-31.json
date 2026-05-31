@@ -17528,5 +17528,15 @@
     "userClasses": "username bgrad1 bnfont4",
     "message": "I'm slenderman's woke cousin.",
     "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7939189",
+    "type": "public",
+    "date": "31/05 13:36",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYmFiZXdpeWcwazU2eHkycWh1dXdoM3k2ODdlcXd1dWYzN3NlOWhpbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
