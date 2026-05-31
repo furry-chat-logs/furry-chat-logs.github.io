@@ -5838,5 +5838,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Volkner [good]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938016",
+    "type": "public",
+    "date": "31/05 2:49",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Gonna come back soon",
+    "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7938017",
+    "type": "public",
+    "date": "31/05 2:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_d2f1df000a00.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
