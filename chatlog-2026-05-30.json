@@ -17594,5 +17594,15 @@
     "userClasses": "username bcolor32 bnfont5",
     "message": "[media: https://furrychat.net/chat/upload/chat/user12021_deef04898296.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937144",
+    "type": "public",
+    "date": "30/05 22:02",
+    "username": "kayden_404",
+    "userId": "12021",
+    "userClasses": "username bcolor32 bnfont5",
+    "message": "cool pfp",
+    "msgClasses": "chat_message bcolor30 heavybold"
   }
 ]
