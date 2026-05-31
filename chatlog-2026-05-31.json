@@ -4998,5 +4998,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937932",
+    "type": "public",
+    "date": "31/05 2:19",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Mdekoni I'm sorry what?",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
