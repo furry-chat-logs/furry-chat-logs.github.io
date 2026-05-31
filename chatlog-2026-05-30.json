@@ -12434,5 +12434,35 @@
     "userClasses": "username user ",
     "message": "Gonna do some saw shit to my hand ig",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936581",
+    "type": "public",
+    "date": "30/05 19:57",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "I'm surprised Rune knows",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936582",
+    "type": "public",
+    "date": "30/05 19:57",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Gotta save my bloodline",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936583",
+    "type": "public",
+    "date": "30/05 19:57",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Did I make that public ?",
+    "msgClasses": "chat_message bneon18 bold bfont4"
   }
 ]
