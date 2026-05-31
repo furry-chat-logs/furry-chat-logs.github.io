@@ -9318,5 +9318,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im so confused",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938365",
+    "type": "public",
+    "date": "31/05 10:18",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "bruh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938366",
+    "type": "public",
+    "date": "31/05 10:18",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB same",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
