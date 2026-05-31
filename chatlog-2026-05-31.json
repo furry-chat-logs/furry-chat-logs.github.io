@@ -10548,5 +10548,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Like the Logo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938488",
+    "type": "public",
+    "date": "31/05 10:34",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I have a lenovo laptop in my dad's house which I'm using rn :3",
+    "msgClasses": "chat_message bneon14"
   }
 ]
