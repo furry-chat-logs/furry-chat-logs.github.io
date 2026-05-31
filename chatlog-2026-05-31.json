@@ -2458,5 +2458,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Volkner yah",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937678",
+    "type": "public",
+    "date": "31/05 1:34",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I don't recomend setting yourself on fire...",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937679",
+    "type": "public",
+    "date": "31/05 1:34",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I do",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937680",
+    "type": "public",
+    "date": "31/05 1:34",
+    "username": "Alixfurrryy",
+    "userId": "37457",
+    "userClasses": "username user ",
+    "message": "Haiii",
+    "msgClasses": "chat_message "
   }
 ]
