@@ -17618,5 +17618,13 @@
     "userClasses": "username bgrad1 bnfont4",
     "message": "Unfortunately",
     "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7939198",
+    "type": "system",
+    "date": "31/05 13:45",
+    "username": "System",
+    "userId": null,
+    "message": "Sol_Aizawa has been muted"
   }
 ]
