@@ -8358,5 +8358,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Do you like Moskitos? 31/05 15:27 mosquitoes are so cute [heu]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7938269",
+    "type": "public",
+    "date": "31/05 9:34",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Oh nahhhh",
+    "msgClasses": "chat_message "
   }
 ]
