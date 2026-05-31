@@ -4638,5 +4638,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "plushpaw545 yippeee",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937896",
+    "type": "public",
+    "date": "31/05 2:13",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "plushpaw545 that is more than nothinf!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937897",
+    "type": "public",
+    "date": "31/05 2:13",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "SoraTheMikuFan its a trick",
+    "msgClasses": "chat_message "
   }
 ]
