@@ -15578,5 +15578,25 @@
     "userClasses": "username user ",
     "message": "my suburban is a manual",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938994",
+    "type": "public",
+    "date": "31/05 12:22",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "How is everybody?",
+    "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7938995",
+    "type": "public",
+    "date": "31/05 12:22",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "my powerstroke f250 is a automatic",
+    "msgClasses": "chat_message "
   }
 ]
