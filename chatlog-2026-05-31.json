@@ -7818,5 +7818,15 @@
     "userClasses": "username bcolor27 ",
     "message": "[kiss4]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7938214",
+    "type": "public",
+    "date": "31/05 6:53",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Anyone remember Femtanyl when they were actually decent",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
