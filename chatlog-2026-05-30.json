@@ -17244,5 +17244,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Cute",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7937109",
+    "type": "public",
+    "date": "30/05 21:52",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "so art shaped",
+    "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7937110",
+    "type": "public",
+    "date": "30/05 21:52",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bgrad7 ",
+    "message": "Thx!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
