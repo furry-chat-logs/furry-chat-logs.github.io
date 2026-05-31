@@ -10598,5 +10598,35 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Good morning",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7938493",
+    "type": "public",
+    "date": "31/05 10:35",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I have a HP yk that brand?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938494",
+    "type": "public",
+    "date": "31/05 10:35",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "NotAWarlock hoi :3",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938495",
+    "type": "public",
+    "date": "31/05 10:35",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ello",
+    "msgClasses": "chat_message "
   }
 ]
