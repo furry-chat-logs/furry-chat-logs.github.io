@@ -1088,5 +1088,15 @@
     "userClasses": "username user ",
     "message": "Or was I? I remembered that I had an online account, I am a wolf",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937541",
+    "type": "public",
+    "date": "31/05 0:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "What a strange young man you are",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
