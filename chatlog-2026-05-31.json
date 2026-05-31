@@ -2978,5 +2978,25 @@
     "userClasses": "username user ",
     "message": "Kkk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937730",
+    "type": "public",
+    "date": "31/05 1:40",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Eee",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937731",
+    "type": "public",
+    "date": "31/05 1:40",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Trademark btw",
+    "msgClasses": "chat_message "
   }
 ]
