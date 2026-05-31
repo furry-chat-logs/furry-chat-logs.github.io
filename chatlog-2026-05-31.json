@@ -7648,5 +7648,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "liminal dang you're happy",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938197",
+    "type": "public",
+    "date": "31/05 6:42",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Twin",
+    "msgClasses": "chat_message "
   }
 ]
