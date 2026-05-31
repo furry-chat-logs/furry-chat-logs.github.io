@@ -18254,5 +18254,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "2 great books",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937210",
+    "type": "public",
+    "date": "30/05 23:14",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "here is the entire bible",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937211",
+    "type": "public",
+    "date": "30/05 23:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Huh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
