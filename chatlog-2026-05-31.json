@@ -15198,5 +15198,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "its been one hell of a week gone",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7938956",
+    "type": "public",
+    "date": "31/05 12:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
