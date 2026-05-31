@@ -6268,5 +6268,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": ":D",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938059",
+    "type": "public",
+    "date": "31/05 3:32",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHl6YnFpbWc4YnFna3hoa3Nva2Zjdmh1c3RicnplaXZnNnpwM3dicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C8ih1zB9e9KJLySClx/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
