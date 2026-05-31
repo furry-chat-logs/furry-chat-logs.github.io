@@ -6998,5 +6998,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Was sup everybody ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938132",
+    "type": "public",
+    "date": "31/05 4:25",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Thundercloudgaming03 hello",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
