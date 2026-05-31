@@ -15214,5 +15214,35 @@
     "userClasses": "username bgrad39 ",
     "message": "U said so",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936860",
+    "type": "public",
+    "date": "30/05 20:20",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "brooklyns my bestay😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936861",
+    "type": "public",
+    "date": "30/05 20:21",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "U said u hate everyone except for ash",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936862",
+    "type": "public",
+    "date": "30/05 20:21",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": ".q.",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
   }
 ]
