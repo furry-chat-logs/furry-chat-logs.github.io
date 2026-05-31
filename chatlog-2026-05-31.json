@@ -16918,5 +16918,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Volkner K you too",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939128",
+    "type": "public",
+    "date": "31/05 13:10",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "New Kid you going to the beach, beech?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
