@@ -20114,5 +20114,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bruh",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937397",
+    "type": "public",
+    "date": "30/05 23:46",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "NYX05 happens",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
