@@ -7808,5 +7808,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "liminal yeah",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7938213",
+    "type": "public",
+    "date": "31/05 6:52",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[kiss4]",
+    "msgClasses": "chat_message bold"
   }
 ]
