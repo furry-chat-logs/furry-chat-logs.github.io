@@ -16668,5 +16668,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "The last time I started a debate I was called a biggot....",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939103",
+    "type": "public",
+    "date": "31/05 13:00",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "How sad...",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
