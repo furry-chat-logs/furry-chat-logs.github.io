@@ -14618,5 +14618,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yes ik",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938898",
+    "type": "public",
+    "date": "31/05 11:27",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Deimos noo",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
