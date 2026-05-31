@@ -4228,5 +4228,25 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Daaaamn",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937855",
+    "type": "public",
+    "date": "31/05 2:07",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan and with inflation",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937856",
+    "type": "public",
+    "date": "31/05 2:08",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "NotAWarlock I just like being around other people that have my same interesest!",
+    "msgClasses": "chat_message "
   }
 ]
