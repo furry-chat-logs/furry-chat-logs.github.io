@@ -10704,5 +10704,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "LMFAO",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936408",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "asterr syf.",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7936409",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Syfm*",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
+  },
+  {
+    "id": "7936410",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "🥹",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936411",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "yikes",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
