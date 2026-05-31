@@ -3778,5 +3778,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Muy nice",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937810",
+    "type": "public",
+    "date": "31/05 2:01",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "NotAWarlock No creas que no ví tu bandera wey",
+    "msgClasses": "chat_message "
   }
 ]
