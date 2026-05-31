@@ -2908,5 +2908,15 @@
     "userClasses": "username user ",
     "message": "Kk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937723",
+    "type": "public",
+    "date": "31/05 1:39",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Shoot",
+    "msgClasses": "chat_message "
   }
 ]
