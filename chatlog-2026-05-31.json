@@ -6628,5 +6628,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yeah sorry...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938095",
+    "type": "public",
+    "date": "31/05 3:44",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Miss Kit Wir sind ja die einzigen die mit einander geredet haben",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
