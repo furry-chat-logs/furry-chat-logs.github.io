@@ -5998,5 +5998,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "me neither, but my friends had",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938032",
+    "type": "public",
+    "date": "31/05 2:55",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "but I am gonna go eat breakfeast",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938033",
+    "type": "public",
+    "date": "31/05 2:55",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan than your the criminal",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
