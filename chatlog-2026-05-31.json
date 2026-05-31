@@ -12948,5 +12948,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "NOW IT'S GETTING HOT",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938728",
+    "type": "public",
+    "date": "31/05 11:04",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Is your laptop gay?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938729",
+    "type": "public",
+    "date": "31/05 11:04",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "wait wha",
+    "msgClasses": "chat_message bneon14"
   }
 ]
