@@ -8638,5 +8638,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Hello",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7938297",
+    "type": "public",
+    "date": "31/05 10:02",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Ch3rry_Drop hii",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7938298",
+    "type": "public",
+    "date": "31/05 10:02",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ch3rry_Drop hewwo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
