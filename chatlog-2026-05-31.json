@@ -10818,5 +10818,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Thats why?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938515",
+    "type": "public",
+    "date": "31/05 10:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "yea mb it found a partner",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938516",
+    "type": "public",
+    "date": "31/05 10:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "who knows",
+    "msgClasses": "chat_message bneon14"
   }
 ]
