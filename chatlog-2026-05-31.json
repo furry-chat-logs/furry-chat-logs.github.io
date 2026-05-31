@@ -8908,5 +8908,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": ":D",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938324",
+    "type": "public",
+    "date": "31/05 10:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "WHERE IS THAT BOT",
+    "msgClasses": "chat_message bneon14"
   }
 ]
