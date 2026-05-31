@@ -8038,5 +8038,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Veno oh, yeah thats also a way...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938237",
+    "type": "public",
+    "date": "31/05 7:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Veno I just wanted to say hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
