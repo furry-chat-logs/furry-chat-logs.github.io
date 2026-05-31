@@ -4958,5 +4958,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36863_ff9b290c1388.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937928",
+    "type": "public",
+    "date": "31/05 2:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Good morning to everyone too -w-",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7937929",
+    "type": "public",
+    "date": "31/05 2:19",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Like protogen",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
