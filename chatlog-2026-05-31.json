@@ -17438,5 +17438,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "I'VE PLAYED MARIO KART WII",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7939180",
+    "type": "public",
+    "date": "31/05 13:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
