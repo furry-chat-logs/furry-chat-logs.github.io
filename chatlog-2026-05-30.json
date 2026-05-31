@@ -19644,5 +19644,25 @@
     "userClasses": "username user ",
     "message": "Misspelled time to kms",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937350",
+    "type": "public",
+    "date": "30/05 23:40",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "\"Herrenvolk\"",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937351",
+    "type": "public",
+    "date": "30/05 23:40",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "my bad",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
