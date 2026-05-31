@@ -5118,5 +5118,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Volkner strangely normal",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937944",
+    "type": "public",
+    "date": "31/05 2:23",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "What is a wendigo and what are You both?",
+    "msgClasses": "chat_message "
   }
 ]
