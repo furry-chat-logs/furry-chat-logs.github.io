@@ -10878,5 +10878,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yes good idea",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938521",
+    "type": "public",
+    "date": "31/05 10:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan you thinking wird",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938522",
+    "type": "public",
+    "date": "31/05 10:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "yea no fr3aky computahs in MY suitcase!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
