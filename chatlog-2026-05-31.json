@@ -3398,5 +3398,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Hunter77 Si si, como stas tu dia?",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937772",
+    "type": "public",
+    "date": "31/05 1:49",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Ring a ding ding baby",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937773",
+    "type": "public",
+    "date": "31/05 1:49",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I read it with the Bad english",
+    "msgClasses": "chat_message "
   }
 ]
