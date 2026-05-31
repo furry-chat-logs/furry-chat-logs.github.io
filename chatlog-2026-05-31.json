@@ -7908,5 +7908,15 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "gmm",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7938224",
+    "type": "public",
+    "date": "31/05 7:04",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "hewwo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
