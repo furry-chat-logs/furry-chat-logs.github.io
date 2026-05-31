@@ -6888,5 +6888,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I have PMd you Mdekoni",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938121",
+    "type": "public",
+    "date": "31/05 4:05",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB I know",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
