@@ -14454,5 +14454,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "asterr keeps hating on me for thinking about sweaty emo twinks",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936783",
+    "type": "public",
+    "date": "30/05 20:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_39e0401ff9b7.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936784",
+    "type": "public",
+    "date": "30/05 20:15",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "i texted him saying that i was in gym class and that i would text him later, and he genuinely just replied \"sweaty emo twinks😍\"",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
