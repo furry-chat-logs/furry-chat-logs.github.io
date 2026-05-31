@@ -7028,5 +7028,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa why dose it say that I can't sand text to SBB",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938135",
+    "type": "public",
+    "date": "31/05 4:32",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Mdekoni because they probably blocked you",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
