@@ -12528,5 +12528,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Wait a secon...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938686",
+    "type": "public",
+    "date": "31/05 10:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "No...",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938687",
+    "type": "public",
+    "date": "31/05 10:59",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan hope so onoo",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
