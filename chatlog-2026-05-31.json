@@ -328,5 +328,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZTVpN2IxbjN1OTM4ODRud2pocGNqNHF5MWY2YXFiZTJ2anNvbHZpbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tFqKgC5KSoZRm/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7937465",
+    "type": "public",
+    "date": "31/05 0:27",
+    "username": "TheRealXavier",
+    "userId": "37453",
+    "userClasses": "username user ",
+    "message": "new",
+    "msgClasses": "chat_message "
   }
 ]
