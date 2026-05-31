@@ -248,5 +248,15 @@
     "userClasses": "username user ",
     "message": "People trying not to die usually aren't bored",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937457",
+    "type": "public",
+    "date": "31/05 0:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lyman slept on the floor today",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
