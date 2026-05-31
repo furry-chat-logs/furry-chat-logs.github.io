@@ -1538,5 +1538,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[nerd]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937586",
+    "type": "public",
+    "date": "31/05 1:10",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "It is native?",
+    "msgClasses": "chat_message "
   }
 ]
