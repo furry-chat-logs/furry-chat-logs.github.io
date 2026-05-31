@@ -10974,5 +10974,15 @@
     "userClasses": "username bcolor1 ",
     "message": "YES",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936435",
+    "type": "public",
+    "date": "30/05 19:44",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I don't know them.",
+    "msgClasses": "chat_message ital"
   }
 ]
