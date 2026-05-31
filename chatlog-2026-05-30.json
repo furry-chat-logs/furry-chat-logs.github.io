@@ -10284,5 +10284,25 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "Ch3rry_Drop either way",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7936366",
+    "type": "public",
+    "date": "30/05 19:39",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "asterr I have a tattoo gun.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936367",
+    "type": "public",
+    "date": "30/05 19:39",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "Ch3rry_Drop you can't sau shut u p",
+    "msgClasses": "chat_message bneon1  bfont10"
   }
 ]
