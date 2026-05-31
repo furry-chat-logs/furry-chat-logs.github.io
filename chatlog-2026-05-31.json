@@ -3228,5 +3228,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[secret-share: H900rOM2NpCoF3w4v9nltDu9F&n=47494]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937755",
+    "type": "public",
+    "date": "31/05 1:45",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "My character is autistic",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
