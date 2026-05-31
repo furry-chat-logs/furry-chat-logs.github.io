@@ -16458,5 +16458,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "That is rigth, they are not going to figth, because they have the power to do that, and getting to that power takes a lot",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939082",
+    "type": "public",
+    "date": "31/05 12:47",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "A presidente Will never figth unlees he is the last one in the country",
+    "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939083",
+    "type": "public",
+    "date": "31/05 12:47",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Does it?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
