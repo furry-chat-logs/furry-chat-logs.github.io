@@ -12508,5 +12508,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Mdekoni AAAAAAAAAAAAAH",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938684",
+    "type": "public",
+    "date": "31/05 10:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes? But the cpu is hot",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938685",
+    "type": "public",
+    "date": "31/05 10:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Wait a secon...",
+    "msgClasses": "chat_message "
   }
 ]
