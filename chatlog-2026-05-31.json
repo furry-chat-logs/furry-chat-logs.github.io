@@ -18276,5 +18276,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Ch3rry_Drop the water I swallowed at the beach and my breakfast",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939265",
+    "type": "public",
+    "date": "31/05 15:28",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Gay",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7939266",
+    "type": "public",
+    "date": "31/05 15:28",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_6faca1ece67d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
