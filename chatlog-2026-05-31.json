@@ -4558,5 +4558,25 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Coins/",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937888",
+    "type": "public",
+    "date": "31/05 2:12",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Whoops",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937889",
+    "type": "public",
+    "date": "31/05 2:12",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Wrong command",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
