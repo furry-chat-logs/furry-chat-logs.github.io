@@ -7148,5 +7148,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Why?",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7938147",
+    "type": "public",
+    "date": "31/05 4:40",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "hurt my knee last friday",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
