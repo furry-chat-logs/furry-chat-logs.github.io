@@ -14788,5 +14788,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "No but only that im gay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938915",
+    "type": "public",
+    "date": "31/05 11:30",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Not sure if it's DDR4 or 5",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7938916",
+    "type": "public",
+    "date": "31/05 11:30",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ik my laptop has 32GB RAM",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938917",
+    "type": "public",
+    "date": "31/05 11:30",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "My parents don’t know shit about me lol",
+    "msgClasses": "chat_message "
   }
 ]
