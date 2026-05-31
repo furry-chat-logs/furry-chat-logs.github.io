@@ -16264,5 +16264,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Ch3rry_Drop is a diva",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936966",
+    "type": "public",
+    "date": "30/05 20:30",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "Rwally",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7936967",
+    "type": "public",
+    "date": "30/05 20:30",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "Okay bro",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
   }
 ]
