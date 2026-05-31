@@ -8478,5 +8478,15 @@
     "userClasses": "username bneon4 ",
     "message": "Good morning",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7938281",
+    "type": "public",
+    "date": "31/05 9:45",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Hiddeblade was it Enough ?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
