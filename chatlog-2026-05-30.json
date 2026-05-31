@@ -10064,5 +10064,25 @@
     "userClasses": "username bneon18 ",
     "message": "Wait,",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7936344",
+    "type": "public",
+    "date": "30/05 19:37",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "is it just hardcover between paper",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936345",
+    "type": "public",
+    "date": "30/05 19:37",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "do you know who I am? 👁️",
+    "msgClasses": "chat_message ital"
   }
 ]
