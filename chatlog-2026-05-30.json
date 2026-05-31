@@ -10754,5 +10754,15 @@
     "userClasses": "username bcolor1 ",
     "message": "Oooo someone's cocky",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936413",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "0Remy0 go away😞",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
