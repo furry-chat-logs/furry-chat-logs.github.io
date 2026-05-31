@@ -17864,5 +17864,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "My most favorite one [totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937171",
+    "type": "public",
+    "date": "30/05 22:19",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcmpib3dqc2lrbzBzOTc5cTU5bWZ1Z3M0cWFqZjFmcTJqNWs3cXh1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/avc09zuOkpWQ5QG4XL/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
