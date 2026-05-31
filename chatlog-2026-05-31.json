@@ -7588,5 +7588,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "its like a stabbing feeling",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938191",
+    "type": "public",
+    "date": "31/05 6:20",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "yapyapyapyapyap",
+    "msgClasses": "chat_message bold"
   }
 ]
