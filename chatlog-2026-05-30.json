@@ -9844,5 +9844,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "asterr hush patty flipper",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7936322",
+    "type": "public",
+    "date": "30/05 19:35",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "mxgic_mondo ?",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936323",
+    "type": "public",
+    "date": "30/05 19:35",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Yea I'm aiko",
+    "msgClasses": "chat_message "
   }
 ]
