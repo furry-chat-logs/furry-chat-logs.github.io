@@ -15244,5 +15244,35 @@
     "userClasses": "username bgrad1 bnfont4",
     "message": ".q.",
     "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7936863",
+    "type": "public",
+    "date": "30/05 20:21",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Which includes me",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936864",
+    "type": "public",
+    "date": "30/05 20:21",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "asterr i dont think this is true",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936865",
+    "type": "public",
+    "date": "30/05 20:21",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I'm part of everyone",
+    "msgClasses": "chat_message bneon9"
   }
 ]
