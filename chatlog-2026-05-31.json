@@ -14178,5 +14178,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "My internet is bad still with vpn",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938854",
+    "type": "public",
+    "date": "31/05 11:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "SBB I can give u munee",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938855",
+    "type": "public",
+    "date": "31/05 11:21",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "INTERNET",
+    "msgClasses": "chat_message "
   }
 ]
