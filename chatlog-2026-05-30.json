@@ -17664,5 +17664,15 @@
     "userClasses": "username bcolor32 bnfont5",
     "message": "i need a new pfp",
     "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937151",
+    "type": "public",
+    "date": "30/05 22:03",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_eea0f0613fd7.gif]",
+    "msgClasses": "chat_message "
   }
 ]
