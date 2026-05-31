@@ -4018,5 +4018,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeXhxejN4MnJ2ZWdpYnI3eTFteW03ZWR1ZTZtcWtjcGxscGtqNG9rMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gW9n2fOd1zfZqLwx6s/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7937834",
+    "type": "public",
+    "date": "31/05 2:05",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Mmmmmh, i love being bilingual",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937835",
+    "type": "public",
+    "date": "31/05 2:05",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "And what about me Sonic?",
+    "msgClasses": "chat_message "
   }
 ]
