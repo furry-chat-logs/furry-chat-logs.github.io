@@ -10584,5 +10584,45 @@
     "userClasses": "username bcolor1 ",
     "message": "Okay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936396",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "just wait",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936397",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I forgot half of the people on here I used to be friends with.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7936398",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936399",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Oh u guys missed some of my lore",
+    "msgClasses": "chat_message "
   }
 ]
