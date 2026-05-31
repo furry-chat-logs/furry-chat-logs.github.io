@@ -12664,5 +12664,25 @@
     "userClasses": "username bneon1 ",
     "message": "Lyman okayyy",
     "msgClasses": "chat_message bneon1"
+  },
+  {
+    "id": "7936604",
+    "type": "public",
+    "date": "30/05 20:00",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Veno I'm sorry but I gotta make bank somehow",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936605",
+    "type": "public",
+    "date": "30/05 20:00",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "sigh",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
