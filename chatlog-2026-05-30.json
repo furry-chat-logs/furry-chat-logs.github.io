@@ -17474,5 +17474,15 @@
     "userClasses": "username bcolor32 bnfont5",
     "message": "lowkey",
     "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937132",
+    "type": "public",
+    "date": "30/05 22:00",
+    "username": "kayden_404",
+    "userId": "12021",
+    "userClasses": "username bcolor32 bnfont5",
+    "message": "what did i miss here",
+    "msgClasses": "chat_message bcolor30 heavybold"
   }
 ]
