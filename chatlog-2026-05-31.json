@@ -6418,5 +6418,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Oh wirklich?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938074",
+    "type": "public",
+    "date": "31/05 3:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ja wirklich",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
