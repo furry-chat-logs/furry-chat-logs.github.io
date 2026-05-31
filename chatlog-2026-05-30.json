@@ -19564,5 +19564,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "No... not a lot actually",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937342",
+    "type": "public",
+    "date": "30/05 23:39",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Bergindine oh I thought they did, welp you learn something new every day",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937343",
+    "type": "public",
+    "date": "30/05 23:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Although I was sypposed to",
+    "msgClasses": "chat_message bneon14"
   }
 ]
