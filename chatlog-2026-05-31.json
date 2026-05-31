@@ -3738,5 +3738,35 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Oh you really are a bartender?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937806",
+    "type": "public",
+    "date": "31/05 2:00",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Omg con que andamos hablando español",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937807",
+    "type": "public",
+    "date": "31/05 2:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Do dodo du ich möchte dich heute noch sehen some like that",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937808",
+    "type": "public",
+    "date": "31/05 2:00",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "Volkner i put that as my mood cause i know how to brew",
+    "msgClasses": "chat_message "
   }
 ]
