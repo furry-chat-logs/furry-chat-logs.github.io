@@ -15058,5 +15058,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB shure",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938942",
+    "type": "public",
+    "date": "31/05 11:42",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I have 6:42 PM",
+    "msgClasses": "chat_message "
   }
 ]
