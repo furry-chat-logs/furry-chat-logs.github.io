@@ -15098,5 +15098,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "same time like you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938946",
+    "type": "public",
+    "date": "31/05 11:42",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Bye",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938947",
+    "type": "public",
+    "date": "31/05 11:42",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB wierd",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
