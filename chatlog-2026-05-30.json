@@ -16314,5 +16314,45 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "so no thank you elliot?💔",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936971",
+    "type": "public",
+    "date": "30/05 20:31",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "wally west",
+    "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7936972",
+    "type": "public",
+    "date": "30/05 20:31",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "okay im leaving",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936973",
+    "type": "public",
+    "date": "30/05 20:31",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "goodbye",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936974",
+    "type": "public",
+    "date": "30/05 20:31",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "cøllieシ bye homo",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
