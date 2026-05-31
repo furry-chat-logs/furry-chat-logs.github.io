@@ -5138,5 +5138,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Volkner idk",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937946",
+    "type": "public",
+    "date": "31/05 2:23",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "NotAWarlock i kind of imagined it",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937947",
+    "type": "public",
+    "date": "31/05 2:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Volkner I am a multi-sona ->-",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
