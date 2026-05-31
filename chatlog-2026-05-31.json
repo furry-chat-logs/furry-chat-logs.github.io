@@ -2508,5 +2508,15 @@
     "userClasses": "username user ",
     "message": "Ok",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937683",
+    "type": "public",
+    "date": "31/05 1:35",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_f5721220df86.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
