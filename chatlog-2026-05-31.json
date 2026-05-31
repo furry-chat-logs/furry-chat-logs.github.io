@@ -3968,5 +3968,45 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Sonic The Hedgehog hola manito",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937829",
+    "type": "public",
+    "date": "31/05 2:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Volkner idk like hello again",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937830",
+    "type": "public",
+    "date": "31/05 2:04",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Hahahaha",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937831",
+    "type": "public",
+    "date": "31/05 2:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Maybe",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937832",
+    "type": "public",
+    "date": "31/05 2:04",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Hermano",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
