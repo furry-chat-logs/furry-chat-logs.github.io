@@ -18406,5 +18406,15 @@
     "userClasses": "username bgrad39 ",
     "message": "Hi rune",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7939278",
+    "type": "public",
+    "date": "31/05 15:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hihi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
