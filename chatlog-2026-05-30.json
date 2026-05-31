@@ -10634,5 +10634,35 @@
     "userClasses": "username bcolor1 ",
     "message": "I left for what felt like decades",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936401",
+    "type": "public",
+    "date": "30/05 19:41",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "While I was gone I got cheated on irl",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936402",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Oopsies",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936403",
+    "type": "public",
+    "date": "30/05 19:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
