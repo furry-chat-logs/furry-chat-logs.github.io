@@ -6738,5 +6738,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB I got a bird nast",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938106",
+    "type": "public",
+    "date": "31/05 3:49",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Nice",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938107",
+    "type": "public",
+    "date": "31/05 3:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_9de896ec84a2.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
