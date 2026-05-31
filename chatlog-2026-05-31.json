@@ -17766,5 +17766,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Good bye",
     "msgClasses": "chat_message bgrad32 heavyital bfont2"
+  },
+  {
+    "id": "7939214",
+    "type": "public",
+    "date": "31/05 14:15",
+    "username": "CHERRYBOMB",
+    "userId": "13262",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "hmm",
+    "msgClasses": "chat_message bcolor1 heavyital bfont3"
   }
 ]
