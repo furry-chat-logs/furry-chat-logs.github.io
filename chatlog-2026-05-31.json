@@ -2888,5 +2888,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_42739a7fe92c.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937721",
+    "type": "public",
+    "date": "31/05 1:39",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "Got a question for ya",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937722",
+    "type": "public",
+    "date": "31/05 1:39",
+    "username": "Alixfurrryy",
+    "userId": "37457",
+    "userClasses": "username user ",
+    "message": "Kk",
+    "msgClasses": "chat_message "
   }
 ]
