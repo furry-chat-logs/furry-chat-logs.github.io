@@ -15668,5 +15668,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "my friend has 2 fieros",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7939003",
+    "type": "public",
+    "date": "31/05 12:23",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "well its for sale but its for 7k",
+    "msgClasses": "chat_message "
   }
 ]
