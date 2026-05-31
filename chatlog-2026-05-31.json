@@ -11238,5 +11238,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB why are you using your laptop",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938557",
+    "type": "public",
+    "date": "31/05 10:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "IM BACK SRRY",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938558",
+    "type": "public",
+    "date": "31/05 10:42",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "No im usin my phone",
+    "msgClasses": "chat_message "
   }
 ]
