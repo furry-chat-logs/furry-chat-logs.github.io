@@ -18756,5 +18756,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939313",
+    "type": "public",
+    "date": "31/05 17:54",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_acdc13c74402.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
