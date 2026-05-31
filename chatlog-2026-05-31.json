@@ -4948,5 +4948,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "NotAWarlock how did it tasted?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937927",
+    "type": "public",
+    "date": "31/05 2:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_ff9b290c1388.png]",
+    "msgClasses": "chat_message "
   }
 ]
