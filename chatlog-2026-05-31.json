@@ -8728,5 +8728,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Anyways",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7938306",
+    "type": "public",
+    "date": "31/05 10:03",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Where are the people I actually talk to",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7938307",
+    "type": "public",
+    "date": "31/05 10:03",
+    "username": "1lad",
+    "userId": "37461",
+    "userClasses": "username user ",
+    "message": "hello yall",
+    "msgClasses": "chat_message "
   }
 ]
