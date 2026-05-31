@@ -9288,5 +9288,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938362",
+    "type": "public",
+    "date": "31/05 10:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "idk I'm a boring meow",
+    "msgClasses": "chat_message bneon14"
   }
 ]
