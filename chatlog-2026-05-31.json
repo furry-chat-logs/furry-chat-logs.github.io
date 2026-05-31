@@ -15138,5 +15138,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_c76d5c8131ae.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938950",
+    "type": "public",
+    "date": "31/05 11:55",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "It broke",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
