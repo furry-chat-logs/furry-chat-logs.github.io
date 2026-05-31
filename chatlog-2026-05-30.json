@@ -18354,5 +18354,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Bergindine if you like those books check out 1984 by George Orwell if you haven't already ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937220",
+    "type": "public",
+    "date": "30/05 23:16",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Smiley i have that and animal farm",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937221",
+    "type": "public",
+    "date": "30/05 23:16",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "i have a BUNCH of books",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
