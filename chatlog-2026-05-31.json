@@ -2858,5 +2858,35 @@
     "userClasses": "username user ",
     "message": "Alixfurrryy hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937718",
+    "type": "public",
+    "date": "31/05 1:39",
+    "username": "Alixfurrryy",
+    "userId": "37457",
+    "userClasses": "username user ",
+    "message": "God is not dead",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937719",
+    "type": "public",
+    "date": "31/05 1:39",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Hitler speed run",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937720",
+    "type": "public",
+    "date": "31/05 1:39",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_42739a7fe92c.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
