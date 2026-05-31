@@ -20194,5 +20194,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "NYX05 VIP",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937405",
+    "type": "public",
+    "date": "30/05 23:48",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_ecda3e4ab4a5.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937406",
+    "type": "public",
+    "date": "30/05 23:48",
+    "username": "NYX05",
+    "userId": "37452",
+    "userClasses": "username bcolor19 ",
+    "message": "AW MAN",
+    "msgClasses": "chat_message "
   }
 ]
