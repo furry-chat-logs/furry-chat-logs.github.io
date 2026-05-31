@@ -18404,5 +18404,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Bergindine any king?",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7937225",
+    "type": "public",
+    "date": "30/05 23:17",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Bergindine necronomicon ;-;",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937226",
+    "type": "public",
+    "date": "30/05 23:17",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "huh?",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
