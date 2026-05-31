@@ -10478,5 +10478,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "lol",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938481",
+    "type": "public",
+    "date": "31/05 10:33",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan definitely",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938482",
+    "type": "public",
+    "date": "31/05 10:33",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Its fr 7kilos and when i had it on my arm it hurted for 3 days straight",
+    "msgClasses": "chat_message "
   }
 ]
