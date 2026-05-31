@@ -13678,5 +13678,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "All my laptop is now upside downnn",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938804",
+    "type": "public",
+    "date": "31/05 11:16",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Super",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938805",
+    "type": "public",
+    "date": "31/05 11:16",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan why",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
