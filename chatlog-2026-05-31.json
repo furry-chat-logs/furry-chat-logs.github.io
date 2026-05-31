@@ -14018,5 +14018,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Meowww",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938838",
+    "type": "public",
+    "date": "31/05 11:19",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Mr-Shark it is wired with contact",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938839",
+    "type": "public",
+    "date": "31/05 11:19",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yeah i got my laptop refurbished too",
+    "msgClasses": "chat_message "
   }
 ]
