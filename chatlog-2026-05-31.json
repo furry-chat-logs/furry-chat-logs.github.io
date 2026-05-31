@@ -6288,5 +6288,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I cant send GIFs :(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938061",
+    "type": "public",
+    "date": "31/05 3:33",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You need diamond",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
