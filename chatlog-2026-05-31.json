@@ -9618,5 +9618,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "help-",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938395",
+    "type": "public",
+    "date": "31/05 10:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB bruh",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938396",
+    "type": "public",
+    "date": "31/05 10:22",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "MIKU YOU JUST GOT LOLLED",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938397",
+    "type": "public",
+    "date": "31/05 10:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I can't understand a thing",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938398",
+    "type": "public",
+    "date": "31/05 10:22",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "HAHA",
+    "msgClasses": "chat_message "
   }
 ]
