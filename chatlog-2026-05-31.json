@@ -7948,5 +7948,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Hallo!!!",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7938228",
+    "type": "public",
+    "date": "31/05 7:33",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Veno why did you block me",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
