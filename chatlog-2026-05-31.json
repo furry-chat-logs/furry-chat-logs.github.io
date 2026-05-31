@@ -10638,5 +10638,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "NotAWarlock hi👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938497",
+    "type": "public",
+    "date": "31/05 10:35",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "SBB I think I know it is the hp in a circle?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
