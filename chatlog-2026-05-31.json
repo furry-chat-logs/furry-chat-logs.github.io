@@ -16748,5 +16748,15 @@
     "userClasses": "username bneon4 ",
     "message": "*word",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939111",
+    "type": "public",
+    "date": "31/05 13:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Miss Kit surprisingly it wasn't forgmin lol",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
