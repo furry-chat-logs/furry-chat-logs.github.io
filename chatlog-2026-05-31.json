@@ -15698,5 +15698,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "datfurryredneck damn",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7939006",
+    "type": "public",
+    "date": "31/05 12:24",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Ugh I hate the world",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939007",
+    "type": "public",
+    "date": "31/05 12:24",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "the fiero ill never sell",
+    "msgClasses": "chat_message "
   }
 ]
