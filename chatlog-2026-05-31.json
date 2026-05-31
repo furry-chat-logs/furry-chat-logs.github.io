@@ -18576,5 +18576,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "That's nice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939295",
+    "type": "public",
+    "date": "31/05 16:12",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "im just kinda bored rn",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
