@@ -11754,5 +11754,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "[idontcare]",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936513",
+    "type": "public",
+    "date": "30/05 19:52",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "They should've bombed that boat",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936514",
+    "type": "public",
+    "date": "30/05 19:52",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bneon1 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37449_f72ca6750798.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
