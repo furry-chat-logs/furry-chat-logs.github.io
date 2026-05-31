@@ -2048,5 +2048,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "My eyes shall be cursed forever. [verysad]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937637",
+    "type": "public",
+    "date": "31/05 1:23",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I-I don't do anything bad, I just had to go and... I kind of feel relieved coming back",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937638",
+    "type": "public",
+    "date": "31/05 1:23",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Porphyrophobia true",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
