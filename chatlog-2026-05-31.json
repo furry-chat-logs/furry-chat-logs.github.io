@@ -4838,5 +4838,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Last night i drank an expired monster can",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937916",
+    "type": "public",
+    "date": "31/05 2:17",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "How foolish of me",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
