@@ -16878,5 +16878,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "You have thougth and you want to share them, that is everything",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939124",
+    "type": "public",
+    "date": "31/05 13:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Woooo made it to the beach",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939125",
+    "type": "public",
+    "date": "31/05 13:09",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I have to go now, have a nice day",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
