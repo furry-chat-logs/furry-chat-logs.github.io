@@ -16118,5 +16118,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Hello Nebulais_0",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939048",
+    "type": "public",
+    "date": "31/05 12:31",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Hello",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
