@@ -2188,5 +2188,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Lyman A mexican restaurant, I am a barman too and... A cook when I need to",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937651",
+    "type": "public",
+    "date": "31/05 1:29",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_59cb8e8cac57.webp]",
+    "msgClasses": "chat_message "
   }
 ]
