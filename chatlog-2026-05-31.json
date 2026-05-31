@@ -14818,5 +14818,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "My parents don’t know shit about me lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938918",
+    "type": "public",
+    "date": "31/05 11:30",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB only",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938919",
+    "type": "public",
+    "date": "31/05 11:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Downloading steammm",
+    "msgClasses": "chat_message bneon14"
   }
 ]
