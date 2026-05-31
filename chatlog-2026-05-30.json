@@ -19484,5 +19484,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Ew",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937334",
+    "type": "public",
+    "date": "30/05 23:37",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "People seem to only base something of a speech rather than actions",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937335",
+    "type": "public",
+    "date": "30/05 23:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Not the pig dof ew no it's cute-",
+    "msgClasses": "chat_message bneon14"
   }
 ]
