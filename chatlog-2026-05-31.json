@@ -15368,5 +15368,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Pew pew",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938973",
+    "type": "public",
+    "date": "31/05 12:14",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "howdy guys",
+    "msgClasses": "chat_message "
   }
 ]
