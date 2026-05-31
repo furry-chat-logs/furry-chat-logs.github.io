@@ -4138,5 +4138,15 @@
     "userClasses": "username user ",
     "message": "NotAWarlock same right now",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937846",
+    "type": "public",
+    "date": "31/05 2:06",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Its 1 AM and i can't really fall a sleep so now i am just killing time",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
