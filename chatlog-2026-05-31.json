@@ -3718,5 +3718,15 @@
     "userClasses": "username user ",
     "message": "Im back",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937804",
+    "type": "public",
+    "date": "31/05 1:59",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Hello again",
+    "msgClasses": "chat_message "
   }
 ]
