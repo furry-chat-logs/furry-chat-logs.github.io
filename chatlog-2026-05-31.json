@@ -5538,5 +5538,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "It's warm and cumfy",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937986",
+    "type": "public",
+    "date": "31/05 2:34",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I always try to have \"normal\" characters, maybe I Will thing of one like yours",
+    "msgClasses": "chat_message "
   }
 ]
