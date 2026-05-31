@@ -16294,5 +16294,15 @@
     "userClasses": "username bgrad39 ",
     "message": "I am",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936969",
+    "type": "public",
+    "date": "30/05 20:30",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "oh ok",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
