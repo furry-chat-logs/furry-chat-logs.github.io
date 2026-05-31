@@ -16434,5 +16434,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "so g o o d n i g h t💔",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936983",
+    "type": "public",
+    "date": "30/05 20:32",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "no",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936984",
+    "type": "public",
+    "date": "30/05 20:32",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "bad night",
+    "msgClasses": "chat_message bneon14 bold bfont9"
   }
 ]
