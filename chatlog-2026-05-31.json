@@ -5808,5 +5808,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Okay",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938013",
+    "type": "public",
+    "date": "31/05 2:48",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I am gonna sleep soon",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
