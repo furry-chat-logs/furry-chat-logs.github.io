@@ -18096,5 +18096,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_39f991587b10.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939247",
+    "type": "public",
+    "date": "31/05 15:18",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I feel exhausted from swimming",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
