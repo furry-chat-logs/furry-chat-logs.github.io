@@ -4318,5 +4318,35 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "And send messages",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937864",
+    "type": "public",
+    "date": "31/05 2:08",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Aaaaaaaaaaaaaa",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937865",
+    "type": "public",
+    "date": "31/05 2:08",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "Volkner well it used to be 7000 but it went down but we can only get so many coins now in so little time",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937866",
+    "type": "public",
+    "date": "31/05 2:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Becoming a staff member/admin is volunteering to help a community come together",
+    "msgClasses": "chat_message bneon14"
   }
 ]
