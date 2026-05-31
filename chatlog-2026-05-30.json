@@ -14664,5 +14664,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "oh",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936805",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "...😟",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936806",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Puhlease don't",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936807",
+    "type": "public",
+    "date": "30/05 20:16",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I don't like cops",
+    "msgClasses": "chat_message bneon9"
   }
 ]
