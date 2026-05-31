@@ -13778,5 +13778,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Thundercloudgaming03 hewwooo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938814",
+    "type": "public",
+    "date": "31/05 11:17",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938815",
+    "type": "public",
+    "date": "31/05 11:17",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": ":3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938816",
+    "type": "public",
+    "date": "31/05 11:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_fd0a06c312a3.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
