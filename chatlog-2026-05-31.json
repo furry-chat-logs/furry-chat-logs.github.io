@@ -4928,5 +4928,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "That's an ad we have here abt our current prime minister",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937925",
+    "type": "public",
+    "date": "31/05 2:19",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "*choking *",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937926",
+    "type": "public",
+    "date": "31/05 2:19",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "NotAWarlock how did it tasted?",
+    "msgClasses": "chat_message "
   }
 ]
