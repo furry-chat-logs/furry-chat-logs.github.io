@@ -14428,5 +14428,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I have it on my hOt laptop",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938879",
+    "type": "public",
+    "date": "31/05 11:25",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB mobile",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938880",
+    "type": "public",
+    "date": "31/05 11:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I DON'T HAVE STEAMM",
+    "msgClasses": "chat_message bneon14"
   }
 ]
