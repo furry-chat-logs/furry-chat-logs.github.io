@@ -12334,5 +12334,25 @@
     "userClasses": "username bneon1 ",
     "message": "Woohoo!",
     "msgClasses": "chat_message bneon1"
+  },
+  {
+    "id": "7936571",
+    "type": "public",
+    "date": "30/05 19:56",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "there was TOO MUCH drama on here last summer",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936572",
+    "type": "public",
+    "date": "30/05 19:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Last fall* 🥱",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
