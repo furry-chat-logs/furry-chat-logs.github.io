@@ -15758,5 +15758,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "this pos",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7939012",
+    "type": "public",
+    "date": "31/05 12:24",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Miss Kit why young one?",
+    "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939013",
+    "type": "public",
+    "date": "31/05 12:24",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "im so enjoying ready or not rn",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
