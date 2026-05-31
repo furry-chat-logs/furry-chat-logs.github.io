@@ -12168,5 +12168,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "uhhhhhhhhh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938650",
+    "type": "public",
+    "date": "31/05 10:54",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "What.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938651",
+    "type": "public",
+    "date": "31/05 10:54",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Mdekoni lol",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
