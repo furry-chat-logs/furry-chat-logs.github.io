@@ -508,5 +508,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Porphyrophobia do what ever is I. You're had",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937483",
+    "type": "public",
+    "date": "31/05 0:36",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "In your had",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937484",
+    "type": "public",
+    "date": "31/05 0:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I was planning on drawing my OCs as shrek characters",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
