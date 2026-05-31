@@ -11418,5 +11418,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "But sometimes he gives me a 90 volt shock",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938575",
+    "type": "public",
+    "date": "31/05 10:43",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lol you abusing your laptop",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
