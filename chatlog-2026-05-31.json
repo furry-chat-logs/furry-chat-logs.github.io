@@ -9778,5 +9778,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Das ist von meinen Freund",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938411",
+    "type": "public",
+    "date": "31/05 10:24",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Der hat das gemacht",
+    "msgClasses": "chat_message "
   }
 ]
