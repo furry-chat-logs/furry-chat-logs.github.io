@@ -15064,5 +15064,65 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Ch3rry_Drop shes pookie",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936845",
+    "type": "public",
+    "date": "30/05 20:20",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user8620_2f40ef5f4373.mp3 | say_wallahi_bro.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936846",
+    "type": "public",
+    "date": "30/05 20:20",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Brooklyn is a city",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936847",
+    "type": "public",
+    "date": "30/05 20:20",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop a friend of mine",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936848",
+    "type": "public",
+    "date": "30/05 20:20",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I am mad at u",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936849",
+    "type": "public",
+    "date": "30/05 20:20",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "sigh sigh",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936850",
+    "type": "public",
+    "date": "30/05 20:20",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "You're welcome",
+    "msgClasses": "chat_message "
   }
 ]
