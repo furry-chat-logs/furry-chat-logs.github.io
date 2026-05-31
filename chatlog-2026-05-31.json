@@ -16658,5 +16658,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "I am a mature wolf I want to think... I have a soft heart and understanding of others... I apreciatte I did not recibe any insult",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939102",
+    "type": "public",
+    "date": "31/05 12:59",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "The last time I started a debate I was called a biggot....",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
