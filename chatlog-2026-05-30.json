@@ -16074,5 +16074,35 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Ch3rry_Drop why?",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7936947",
+    "type": "public",
+    "date": "30/05 20:27",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "and maybe Ch3rry_Drop",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936948",
+    "type": "public",
+    "date": "30/05 20:27",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Do I just DOE",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936949",
+    "type": "public",
+    "date": "30/05 20:27",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "DIE*",
+    "msgClasses": "chat_message bneon9"
   }
 ]
