@@ -4218,5 +4218,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "NotAWarlock 5k coins",
     "msgClasses": "chat_message bcolor1 heavyital bfont3"
+  },
+  {
+    "id": "7937854",
+    "type": "public",
+    "date": "31/05 2:07",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Daaaamn",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
