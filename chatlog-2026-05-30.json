@@ -12524,5 +12524,15 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "Have a good day, and sorry again",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936590",
+    "type": "public",
+    "date": "30/05 19:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Chew what?",
+    "msgClasses": "chat_message ital"
   }
 ]
