@@ -968,5 +968,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ko",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937529",
+    "type": "public",
+    "date": "31/05 0:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Taps chin",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
