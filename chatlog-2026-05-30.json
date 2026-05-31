@@ -12564,5 +12564,25 @@
     "userClasses": "username user ",
     "message": "Veno I'll just adopt a Chinese kid see how that goes",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936594",
+    "type": "public",
+    "date": "30/05 19:58",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "Wtfissachip good luck i heard theyre just like every other kid",
+    "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7936595",
+    "type": "public",
+    "date": "30/05 19:59",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon1 bnfont16",
+    "message": "Ch3rry_Drop fuck it we ball ill match",
+    "msgClasses": "chat_message bneon1  bfont10"
   }
 ]
