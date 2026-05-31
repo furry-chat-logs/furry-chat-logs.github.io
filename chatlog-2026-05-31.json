@@ -5388,5 +5388,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Solen is like this hen out of human form",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7937971",
+    "type": "public",
+    "date": "31/05 2:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "tough the bones are kind of burnt looking",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7937972",
+    "type": "public",
+    "date": "31/05 2:29",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I have not created all of theme, they just exist as concepts, I try to Made them with AI wich is amazing but I want to make them myself",
+    "msgClasses": "chat_message "
   }
 ]
