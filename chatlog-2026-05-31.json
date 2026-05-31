@@ -8098,5 +8098,15 @@
     "userClasses": "username bcolor7 bnfont1",
     "message": "Does anyone even like mdeko",
     "msgClasses": "chat_message bgrad2 bold bfont1"
+  },
+  {
+    "id": "7938243",
+    "type": "public",
+    "date": "31/05 7:53",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Idek",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
