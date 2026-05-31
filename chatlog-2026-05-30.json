@@ -17484,5 +17484,25 @@
     "userClasses": "username bcolor32 bnfont5",
     "message": "what did i miss here",
     "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937133",
+    "type": "public",
+    "date": "30/05 22:00",
+    "username": "kayden_404",
+    "userId": "12021",
+    "userClasses": "username bcolor32 bnfont5",
+    "message": "we have polls now ooo",
+    "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937134",
+    "type": "public",
+    "date": "30/05 22:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "👀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
