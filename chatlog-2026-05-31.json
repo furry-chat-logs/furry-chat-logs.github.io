@@ -18006,5 +18006,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Something to do with your skull I think idk",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939238",
+    "type": "public",
+    "date": "31/05 15:07",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Meh :/",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939239",
+    "type": "public",
+    "date": "31/05 15:07",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_f468dd6d65ee.png]",
+    "msgClasses": "chat_message "
   }
 ]
