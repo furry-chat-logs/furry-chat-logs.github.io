@@ -17706,5 +17706,15 @@
     "userClasses": "username bneon22 bnfont9",
     "message": "Uhm",
     "msgClasses": "chat_message bneon22 boldital bfont2"
+  },
+  {
+    "id": "7939207",
+    "type": "public",
+    "date": "31/05 14:00",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "Ch3rry_Drop",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
   }
 ]
