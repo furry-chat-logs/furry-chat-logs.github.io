@@ -11914,5 +11914,25 @@
     "userClasses": "username user ",
     "message": "There's white and then there's you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936529",
+    "type": "public",
+    "date": "30/05 19:53",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "So you become smooth as fine steel when light hits you?",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936530",
+    "type": "public",
+    "date": "30/05 19:53",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bneon1 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37449_b94b22c6d2ae.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
