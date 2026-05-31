@@ -4178,5 +4178,25 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user13262_c6c9fb369fce.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937850",
+    "type": "public",
+    "date": "31/05 2:07",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "How much was VIP again?",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937851",
+    "type": "public",
+    "date": "31/05 2:07",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2R2ZTFtazhwdnB4OWRkYWVtaTFha3RtZnZkYmgxMWE4YWd1amd2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rBpG1qXdB1n3PEjrgV/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
