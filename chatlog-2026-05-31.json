@@ -18866,5 +18866,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "I will not sleep",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7939324",
+    "type": "public",
+    "date": "31/05 18:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_e1c09772cf4c.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
