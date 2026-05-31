@@ -18544,5 +18544,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7937239",
+    "type": "public",
+    "date": "30/05 23:18",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "fuck",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937240",
+    "type": "public",
+    "date": "30/05 23:19",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "the good ones are too large",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
