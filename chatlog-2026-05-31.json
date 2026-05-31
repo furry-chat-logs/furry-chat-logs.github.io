@@ -7858,5 +7858,15 @@
     "userClasses": "username bcolor27 ",
     "message": "I've never been a huge femtanyl fan though",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7938218",
+    "type": "public",
+    "date": "31/05 6:57",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "She came out 25 years too late for her genre.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
