@@ -11324,5 +11324,25 @@
     "userClasses": "username bcolor1 ",
     "message": "Ew Elijah adde dne",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936470",
+    "type": "public",
+    "date": "30/05 19:47",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "GAG",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936471",
+    "type": "public",
+    "date": "30/05 19:47",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "Thats how i greet everyone",
+    "msgClasses": "chat_message "
   }
 ]
