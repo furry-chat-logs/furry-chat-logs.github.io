@@ -19184,5 +19184,25 @@
     "userClasses": "username user ",
     "message": "Bergindine nein",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937304",
+    "type": "public",
+    "date": "30/05 23:33",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "My character looks like space Hitler",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937305",
+    "type": "public",
+    "date": "30/05 23:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wtfissachip phew",
+    "msgClasses": "chat_message bneon14"
   }
 ]
