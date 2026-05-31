@@ -12184,5 +12184,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "do Ch3rry_Drop and Zxn have beef or am i on something",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936556",
+    "type": "public",
+    "date": "30/05 19:55",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bneon1 ",
+    "message": "Did u forget",
+    "msgClasses": "chat_message bneon1"
+  },
+  {
+    "id": "7936557",
+    "type": "public",
+    "date": "30/05 19:55",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop hello?💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936558",
+    "type": "public",
+    "date": "30/05 19:55",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bneon1 ",
+    "message": "I swear u knew everything",
+    "msgClasses": "chat_message bneon1"
   }
 ]
