@@ -15568,5 +15568,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "datfurryredneck any manuals?",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7938993",
+    "type": "public",
+    "date": "31/05 12:22",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "my suburban is a manual",
+    "msgClasses": "chat_message "
   }
 ]
