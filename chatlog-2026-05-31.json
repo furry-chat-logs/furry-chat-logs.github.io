@@ -18486,5 +18486,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Ch3rry_Drop i have pink lemonade",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7939286",
+    "type": "public",
+    "date": "31/05 15:39",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "That's nice",
+    "msgClasses": "chat_message "
   }
 ]
