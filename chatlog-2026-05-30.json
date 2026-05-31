@@ -12254,5 +12254,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a63a81745910.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936563",
+    "type": "public",
+    "date": "30/05 19:55",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "if i did, i probably forgot",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936564",
+    "type": "public",
+    "date": "30/05 19:55",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bneon1 ",
+    "message": "I don't even remember the beef to be fair",
+    "msgClasses": "chat_message bneon1"
   }
 ]
