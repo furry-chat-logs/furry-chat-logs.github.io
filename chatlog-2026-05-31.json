@@ -17746,5 +17746,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "NeptuneLynxx merp",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7939211",
+    "type": "public",
+    "date": "31/05 14:11",
+    "username": "Electric_sinner_wolf",
+    "userId": "26458",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Ok damn, sorry for being here chat",
+    "msgClasses": "chat_message bgrad32 heavyital bfont2"
+  },
+  {
+    "id": "7939212",
+    "type": "public",
+    "date": "31/05 14:11",
+    "username": "Electric_sinner_wolf",
+    "userId": "26458",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Good bye",
+    "msgClasses": "chat_message bgrad32 heavyital bfont2"
   }
 ]
