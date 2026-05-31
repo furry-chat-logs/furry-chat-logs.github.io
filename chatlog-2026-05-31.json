@@ -17408,5 +17408,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "”Back in my day“ type shit",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939177",
+    "type": "public",
+    "date": "31/05 13:33",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcXlobmEwbW5mMzZ0Y2lzd2FlcHgxdDNvbmZhb2N3eW8zdnVsNGRmeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ix8BIYKvO6GQM/giphy.gif]",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
