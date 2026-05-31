@@ -14878,5 +14878,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan what's steem?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938924",
+    "type": "public",
+    "date": "31/05 11:31",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "The app I can get vrchat onnn",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938925",
+    "type": "public",
+    "date": "31/05 11:31",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I got a NVIDIA QUADRO P520",
+    "msgClasses": "chat_message "
   }
 ]
