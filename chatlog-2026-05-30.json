@@ -19554,5 +19554,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "SoraTheMikuFan do yall know anything about him? /genq /nm",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937341",
+    "type": "public",
+    "date": "30/05 23:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "No... not a lot actually",
+    "msgClasses": "chat_message bneon14"
   }
 ]
