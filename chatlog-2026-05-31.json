@@ -12388,5 +12388,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "now me is oki :3",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938672",
+    "type": "public",
+    "date": "31/05 10:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Good",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
