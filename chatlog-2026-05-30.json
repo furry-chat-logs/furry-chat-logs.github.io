@@ -10234,5 +10234,35 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "those are Ch3rry_Drop tatoo's",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7936361",
+    "type": "public",
+    "date": "30/05 19:39",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "shut uwup ^-^^ im a fuzzy fuwwy",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936362",
+    "type": "public",
+    "date": "30/05 19:39",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "Ew",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936363",
+    "type": "public",
+    "date": "30/05 19:39",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop girl is that pen or a deadass tattoo",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
