@@ -20354,5 +20354,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "hotdogs and pickles",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937421",
+    "type": "public",
+    "date": "30/05 23:52",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Porphyrophobia it's a hotdog",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937422",
+    "type": "public",
+    "date": "30/05 23:52",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "as long as its not dill i dont judge you",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
