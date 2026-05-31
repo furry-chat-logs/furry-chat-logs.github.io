@@ -19384,5 +19384,35 @@
     "userClasses": "username user ",
     "message": "Shit was pretty good makes sense why he was considered a strong leader",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937324",
+    "type": "public",
+    "date": "30/05 23:36",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "SoraTheMikuFan skill issue smh",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937325",
+    "type": "public",
+    "date": "30/05 23:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "But never heard the bad man speak",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937326",
+    "type": "public",
+    "date": "30/05 23:36",
+    "username": "AutumnTheFox",
+    "userId": "26447",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user26447_1f711158c3d8.png]",
+    "msgClasses": "chat_message "
   }
 ]
