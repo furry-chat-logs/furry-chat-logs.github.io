@@ -13308,5 +13308,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I wish i could send a picture of my laptop :(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938764",
+    "type": "public",
+    "date": "31/05 11:07",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_55bee57537a5.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938765",
+    "type": "public",
+    "date": "31/05 11:07",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "welp I can",
+    "msgClasses": "chat_message bneon14"
   }
 ]
