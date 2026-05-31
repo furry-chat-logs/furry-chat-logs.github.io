@@ -13814,5 +13814,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "Ch3rry_Drop HELLO?",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936719",
+    "type": "public",
+    "date": "30/05 20:09",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "😭",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936720",
+    "type": "public",
+    "date": "30/05 20:09",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": ":3",
+    "msgClasses": "chat_message bneon9"
   }
 ]
