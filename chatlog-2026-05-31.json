@@ -13548,5 +13548,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Dell",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938791",
+    "type": "public",
+    "date": "31/05 11:12",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes it does",
+    "msgClasses": "chat_message "
   }
 ]
