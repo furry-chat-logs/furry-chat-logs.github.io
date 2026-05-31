@@ -15724,5 +15724,45 @@
     "userClasses": "username bgrad1 bnfont4",
     "message": "Well, bats are cute",
     "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7936912",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Rune sigh..",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936913",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "I just said that because I got chased by one [skull]",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7936914",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "theyre so cute tho..😞",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936915",
+    "type": "public",
+    "date": "30/05 20:25",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Bats should stay wild",
+    "msgClasses": "chat_message bneon9"
   }
 ]
