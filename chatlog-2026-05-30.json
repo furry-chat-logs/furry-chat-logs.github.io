@@ -18644,5 +18644,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Porphyrophobia animal farm",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937249",
+    "type": "public",
+    "date": "30/05 23:23",
+    "username": "AutumnTheFox",
+    "userId": "26447",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "Animal farm? lol",
+    "msgClasses": "chat_message bneon22 boldital bfont8"
+  },
+  {
+    "id": "7937250",
+    "type": "public",
+    "date": "30/05 23:23",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "thats a book about facism and socialism",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
