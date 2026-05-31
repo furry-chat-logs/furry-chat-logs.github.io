@@ -19464,5 +19464,25 @@
     "userClasses": "username user ",
     "message": "Bergindine yeah I mean as in people considered him a good leader based on his speeches",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937332",
+    "type": "public",
+    "date": "30/05 23:37",
+    "username": "AutumnTheFox",
+    "userId": "26447",
+    "userClasses": "username bneon21 bnfont15",
+    "message": "SoraTheMikuFan yea",
+    "msgClasses": "chat_message bneon22 boldital bfont8"
+  },
+  {
+    "id": "7937333",
+    "type": "public",
+    "date": "30/05 23:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ew",
+    "msgClasses": "chat_message bneon14"
   }
 ]
