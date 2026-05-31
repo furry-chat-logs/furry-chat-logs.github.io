@@ -7118,5 +7118,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Hunter77 hello",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938144",
+    "type": "public",
+    "date": "31/05 4:39",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Sol_Aizawa how's it going",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
