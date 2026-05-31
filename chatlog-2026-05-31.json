@@ -2418,5 +2418,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Volkner no buts",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937674",
+    "type": "public",
+    "date": "31/05 1:33",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "You need to keep you body warm enougth",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937675",
+    "type": "public",
+    "date": "31/05 1:33",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Mdekoni You meant boots?",
+    "msgClasses": "chat_message "
   }
 ]
