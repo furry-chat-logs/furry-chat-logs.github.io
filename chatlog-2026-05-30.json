@@ -19594,5 +19594,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "do yall know about the \"****** race\"?",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937345",
+    "type": "public",
+    "date": "30/05 23:39",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "WOW",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937346",
+    "type": "public",
+    "date": "30/05 23:39",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Arayan m",
+    "msgClasses": "chat_message "
   }
 ]
