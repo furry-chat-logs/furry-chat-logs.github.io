@@ -19324,5 +19324,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "field sabatoge for military",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937318",
+    "type": "public",
+    "date": "30/05 23:36",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Y'all ever heard Hitler's speech but translated?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937319",
+    "type": "public",
+    "date": "30/05 23:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Umm I didn't understand a thing",
+    "msgClasses": "chat_message bneon14"
   }
 ]
