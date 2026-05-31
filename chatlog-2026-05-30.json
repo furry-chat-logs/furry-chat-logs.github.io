@@ -9774,5 +9774,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "SIGH",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936315",
+    "type": "public",
+    "date": "30/05 19:34",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Who is this, I'm actually perplexed.",
+    "msgClasses": "chat_message ital"
   }
 ]
