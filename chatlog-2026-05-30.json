@@ -18374,5 +18374,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "i have a BUNCH of books",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937222",
+    "type": "public",
+    "date": "30/05 23:17",
+    "username": "CHERRYBOMB",
+    "userId": "13262",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_86ca6acd0d51.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937223",
+    "type": "public",
+    "date": "30/05 23:17",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "i can send the bible or the necronomicon if yall want",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
