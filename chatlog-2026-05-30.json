@@ -11554,5 +11554,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "There we go",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7936493",
+    "type": "public",
+    "date": "30/05 19:49",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "throws hands with a wall",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
