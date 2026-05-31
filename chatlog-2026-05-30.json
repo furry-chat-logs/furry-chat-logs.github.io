@@ -18574,5 +18574,15 @@
     "userClasses": "username user ",
     "message": "Shit I've heard before",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937242",
+    "type": "public",
+    "date": "30/05 23:19",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "cant send the mig29 flight manual",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
