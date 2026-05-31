@@ -10118,5 +10118,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I can heare it with my eyes that's how good it is",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938445",
+    "type": "public",
+    "date": "31/05 10:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "SBB I kinda did",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938446",
+    "type": "public",
+    "date": "31/05 10:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I only hear drumset",
+    "msgClasses": "chat_message "
   }
 ]
