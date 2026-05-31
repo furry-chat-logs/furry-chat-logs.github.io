@@ -13948,5 +13948,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Didn't expect it to go that way",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938831",
+    "type": "public",
+    "date": "31/05 11:19",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36957_4be57228fcaf.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938832",
+    "type": "public",
+    "date": "31/05 11:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm already depressed...",
+    "msgClasses": "chat_message bneon14"
   }
 ]
