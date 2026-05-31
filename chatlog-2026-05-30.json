@@ -9374,5 +9374,25 @@
     "userClasses": "username bneon1 bnfont16",
     "message": "Ch3rry_Drop who are you again",
     "msgClasses": "chat_message bneon1  bfont10"
+  },
+  {
+    "id": "7936275",
+    "type": "public",
+    "date": "30/05 19:30",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username user ",
+    "message": "My old acc logged me out puta no where then I got a new phone",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936276",
+    "type": "public",
+    "date": "30/05 19:30",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username user ",
+    "message": "I am aiko",
+    "msgClasses": "chat_message "
   }
 ]
