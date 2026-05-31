@@ -19036,5 +19036,25 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Good wbu",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939341",
+    "type": "public",
+    "date": "31/05 18:53",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Pretty good ^^",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939342",
+    "type": "public",
+    "date": "31/05 18:53",
+    "username": "Astro_protogen",
+    "userId": "37272",
+    "userClasses": "username user ",
+    "message": "I'm good just relaxing",
+    "msgClasses": "chat_message "
   }
 ]
