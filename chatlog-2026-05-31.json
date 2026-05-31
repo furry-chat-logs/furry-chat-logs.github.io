@@ -12128,5 +12128,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "I love sticky things",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7938646",
+    "type": "public",
+    "date": "31/05 10:53",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Wait pause",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7938647",
+    "type": "public",
+    "date": "31/05 10:53",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "yesterday I was at a mcdonals'd with a sticky floor ;w;",
+    "msgClasses": "chat_message bneon14"
   }
 ]
