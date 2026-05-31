@@ -17384,5 +17384,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Issa [totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937123",
+    "type": "public",
+    "date": "30/05 21:56",
+    "username": "kayden_404",
+    "userId": "12021",
+    "userClasses": "username bcolor32 bnfont5",
+    "message": "hmmmmmmmmmm",
+    "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937124",
+    "type": "public",
+    "date": "30/05 21:56",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ3p6Z20zYnI5MGFrbmF3cGUycXNweXF6ZDg2aXRodDBxYXJ5Y2w5ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JiGojt7g1Nlss/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
