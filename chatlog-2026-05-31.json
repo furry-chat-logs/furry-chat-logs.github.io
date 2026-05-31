@@ -8428,5 +8428,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "😭",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938276",
+    "type": "public",
+    "date": "31/05 9:43",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I miss Snakey..",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
