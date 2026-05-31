@@ -12228,5 +12228,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Wellp time for me to go",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7938656",
+    "type": "public",
+    "date": "31/05 10:55",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Neo The Protogen wher",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938657",
+    "type": "public",
+    "date": "31/05 10:55",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "*fades from existence*",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
