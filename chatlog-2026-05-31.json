@@ -10178,5 +10178,45 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I actually got a 1,300€ e drum",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938451",
+    "type": "public",
+    "date": "31/05 10:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Thats like 1,200$",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938452",
+    "type": "public",
+    "date": "31/05 10:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "wow that's a lot",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938453",
+    "type": "public",
+    "date": "31/05 10:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Or smth",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938454",
+    "type": "public",
+    "date": "31/05 10:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes",
+    "msgClasses": "chat_message "
   }
 ]
