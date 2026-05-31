@@ -6728,5 +6728,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I wish i could send photos too",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938105",
+    "type": "public",
+    "date": "31/05 3:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB I got a bird nast",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
