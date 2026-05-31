@@ -5218,5 +5218,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Volkner not a fairy...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7937954",
+    "type": "public",
+    "date": "31/05 2:25",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "And yes its a thing",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
