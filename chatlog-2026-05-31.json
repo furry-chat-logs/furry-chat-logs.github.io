@@ -9428,5 +9428,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "From Germany",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938376",
+    "type": "public",
+    "date": "31/05 10:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ohhh I see why lol",
+    "msgClasses": "chat_message bneon14"
   }
 ]
