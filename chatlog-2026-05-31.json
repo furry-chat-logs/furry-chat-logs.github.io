@@ -9278,5 +9278,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "🥀🥀",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938361",
+    "type": "public",
+    "date": "31/05 10:17",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
