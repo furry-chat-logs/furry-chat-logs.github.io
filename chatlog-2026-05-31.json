@@ -3768,5 +3768,15 @@
     "userClasses": "username user ",
     "message": "Volkner i put that as my mood cause i know how to brew",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937809",
+    "type": "public",
+    "date": "31/05 2:00",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Muy nice",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
