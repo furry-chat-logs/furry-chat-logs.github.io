@@ -12118,5 +12118,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Wierd",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938645",
+    "type": "public",
+    "date": "31/05 10:53",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "I love sticky things",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
