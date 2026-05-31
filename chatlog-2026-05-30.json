@@ -15624,5 +15624,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "asterr truth",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936901",
+    "type": "public",
+    "date": "30/05 20:24",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I hate him sm",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936902",
+    "type": "public",
+    "date": "30/05 20:24",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "My lizard is very stinky",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
+  },
+  {
+    "id": "7936903",
+    "type": "public",
+    "date": "30/05 20:24",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Never asking him for gold agaib",
+    "msgClasses": "chat_message bneon9"
   }
 ]
