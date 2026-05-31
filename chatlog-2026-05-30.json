@@ -15574,5 +15574,25 @@
     "userClasses": "username bgrad39 ",
     "message": "And that he can start digging",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936896",
+    "type": "public",
+    "date": "30/05 20:23",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "thats the point of a gift",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936897",
+    "type": "public",
+    "date": "30/05 20:23",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bgrad1 bnfont4",
+    "message": "I'm about to slime this reptilian out",
+    "msgClasses": "chat_message bgrad38 boldital bfont4"
   }
 ]
