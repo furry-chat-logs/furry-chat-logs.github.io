@@ -11014,5 +11014,15 @@
     "userClasses": "username bcolor1 ",
     "message": "I had one account",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936439",
+    "type": "public",
+    "date": "30/05 19:45",
+    "username": "0Remy0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Bro so unc",
+    "msgClasses": "chat_message bneon1 boldital bfont10"
   }
 ]
