@@ -17524,5 +17524,15 @@
     "userClasses": "username bcolor32 bnfont5",
     "message": "nice",
     "msgClasses": "chat_message bcolor30 heavybold"
+  },
+  {
+    "id": "7937137",
+    "type": "public",
+    "date": "30/05 22:00",
+    "username": "kayden_404",
+    "userId": "12021",
+    "userClasses": "username bcolor32 bnfont5",
+    "message": "anything new?",
+    "msgClasses": "chat_message bcolor30 heavybold"
   }
 ]
