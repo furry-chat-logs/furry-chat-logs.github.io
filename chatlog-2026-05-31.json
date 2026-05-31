@@ -798,5 +798,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Well riddle me this",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7937512",
+    "type": "public",
+    "date": "31/05 0:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Porphyrophobia im terrible at riddles",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937513",
+    "type": "public",
+    "date": "31/05 0:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Look at the leaderboard from all the way down",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
