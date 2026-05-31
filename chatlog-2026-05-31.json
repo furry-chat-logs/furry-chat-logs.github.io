@@ -13468,5 +13468,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I think you could now see it",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938783",
+    "type": "public",
+    "date": "31/05 11:10",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "But you gotta refresh",
+    "msgClasses": "chat_message "
   }
 ]
