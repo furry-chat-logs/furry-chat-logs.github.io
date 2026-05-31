@@ -12408,5 +12408,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan did you forget the laptop?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938674",
+    "type": "public",
+    "date": "31/05 10:58",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im Back :d",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938675",
+    "type": "public",
+    "date": "31/05 10:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "huh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
