@@ -12588,5 +12588,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Why is the",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938692",
+    "type": "public",
+    "date": "31/05 11:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB not possible",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
