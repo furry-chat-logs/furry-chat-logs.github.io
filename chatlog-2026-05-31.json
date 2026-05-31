@@ -368,5 +368,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "TheRealXavier hi",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937469",
+    "type": "public",
+    "date": "31/05 0:29",
+    "username": "TheRealXavier",
+    "userId": "37453",
+    "userClasses": "username user ",
+    "message": "Mdekoni Hello",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937470",
+    "type": "public",
+    "date": "31/05 0:29",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[secret-share: 1QqOJmD8Npc0KGotliAgdE8Gn&n=47492]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
