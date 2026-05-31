@@ -14578,5 +14578,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yes",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938894",
+    "type": "public",
+    "date": "31/05 11:27",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Rec Room is shutting down in 2 and a half hours",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
