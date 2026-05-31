@@ -4358,5 +4358,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "The more time u spend and the more messages you send, you earn a few coins per minute",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937868",
+    "type": "public",
+    "date": "31/05 2:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Spending ur munee on them sometimes",
+    "msgClasses": "chat_message bneon14"
   }
 ]
