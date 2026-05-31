@@ -14768,5 +14768,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB do Your peronts know that you're a furry",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938913",
+    "type": "public",
+    "date": "31/05 11:29",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "(16 GB Ram not storage)",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7938914",
+    "type": "public",
+    "date": "31/05 11:30",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "No but only that im gay",
+    "msgClasses": "chat_message "
   }
 ]
