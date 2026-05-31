@@ -3598,5 +3598,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Do whatchu want",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937792",
+    "type": "public",
+    "date": "31/05 1:56",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I can't change my name, I see",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937793",
+    "type": "public",
+    "date": "31/05 1:56",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Volkner how would ppl know that it's you",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
