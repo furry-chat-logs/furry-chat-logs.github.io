@@ -11788,5 +11788,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Neo The Protogen 🤨",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938612",
+    "type": "public",
+    "date": "31/05 10:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "we're all sus",
+    "msgClasses": "chat_message bneon14"
   }
 ]
