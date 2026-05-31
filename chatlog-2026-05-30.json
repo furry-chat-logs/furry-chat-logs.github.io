@@ -20334,5 +20334,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Mdekoni yummy",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937419",
+    "type": "public",
+    "date": "30/05 23:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Mdekoni what the fuck",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
