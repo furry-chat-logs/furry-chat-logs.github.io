@@ -12594,5 +12594,25 @@
     "userClasses": "username user ",
     "message": "See if my chia pet works out",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936597",
+    "type": "public",
+    "date": "30/05 19:59",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "The one time I ever see Lyman speak in chat",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936598",
+    "type": "public",
+    "date": "30/05 19:59",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "Ch3rry_Drop ill match with you😔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
