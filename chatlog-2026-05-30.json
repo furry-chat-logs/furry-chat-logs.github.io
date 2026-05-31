@@ -20304,5 +20304,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_d1e421c1db8f.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937416",
+    "type": "public",
+    "date": "30/05 23:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ta da",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
