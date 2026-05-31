@@ -3888,5 +3888,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Volkner it's a song",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7937821",
+    "type": "public",
+    "date": "31/05 2:03",
+    "username": "plushpaw545",
+    "userId": "26419",
+    "userClasses": "username user ",
+    "message": "NotAWarlock \"¿Te puedo secuestrar?\"",
+    "msgClasses": "chat_message "
   }
 ]
