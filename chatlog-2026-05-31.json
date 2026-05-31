@@ -15478,5 +15478,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "datfurryredneck atleast you got a job",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938984",
+    "type": "public",
+    "date": "31/05 12:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Here they aint hiring 15 y/o",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7938985",
+    "type": "public",
+    "date": "31/05 12:20",
+    "username": "datfurryredneck",
+    "userId": "37463",
+    "userClasses": "username user ",
+    "message": "its enough money to pay for my hobbies so im happy enough",
+    "msgClasses": "chat_message "
   }
 ]
