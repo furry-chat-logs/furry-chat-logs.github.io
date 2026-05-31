@@ -13538,5 +13538,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "And thats what i have now is my 7 kilo DELL monitor",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938790",
+    "type": "public",
+    "date": "31/05 11:12",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Dell",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
