@@ -6528,5 +6528,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Coole",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938085",
+    "type": "public",
+    "date": "31/05 3:41",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Wie kann ich auch so einen diamanten bekommen eigentlich?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938086",
+    "type": "public",
+    "date": "31/05 3:41",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB behalte deine Daten für dich du weißt ja nicht was passiern kann.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
