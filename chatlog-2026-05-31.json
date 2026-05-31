@@ -3158,5 +3158,35 @@
     "userClasses": "username user ",
     "message": "Perfection",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937748",
+    "type": "public",
+    "date": "31/05 1:43",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Damn it",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937749",
+    "type": "public",
+    "date": "31/05 1:43",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "70",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937750",
+    "type": "public",
+    "date": "31/05 1:43",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOWpuZTloOGV5ZDNsa2VkemJ4MzEyMDI2MzlsaWlpYjU1OWNmbGo5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11sBLVxNs7v6WA/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
