@@ -16218,5 +16218,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "We only control our lives",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939058",
+    "type": "public",
+    "date": "31/05 12:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Guh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
