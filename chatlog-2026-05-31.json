@@ -4348,5 +4348,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Becoming a staff member/admin is volunteering to help a community come together",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7937867",
+    "type": "public",
+    "date": "31/05 2:09",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "The more time u spend and the more messages you send, you earn a few coins per minute",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
