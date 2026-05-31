@@ -13508,5 +13508,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Rlly? I always think i got the most bad one",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938787",
+    "type": "public",
+    "date": "31/05 11:12",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB bad?",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938788",
+    "type": "public",
+    "date": "31/05 11:12",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "SBB the lgbtq flag helps alot too",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
