@@ -4578,5 +4578,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Wrong command",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937890",
+    "type": "public",
+    "date": "31/05 2:12",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "But I think u earn more coins when ur vip",
+    "msgClasses": "chat_message bneon14"
   }
 ]
