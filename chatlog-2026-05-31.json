@@ -6428,5 +6428,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ja wirklich",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938075",
+    "type": "public",
+    "date": "31/05 3:37",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Boah wie cool ist das denn das hab ich nicht erwartet",
+    "msgClasses": "chat_message "
   }
 ]
