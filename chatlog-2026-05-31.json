@@ -11598,5 +11598,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "SBB oh jeez that's hot",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938593",
+    "type": "public",
+    "date": "31/05 10:45",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Porphyrophobia rune",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7938594",
+    "type": "public",
+    "date": "31/05 10:45",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB cooking with laptop",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938595",
+    "type": "public",
+    "date": "31/05 10:45",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Sniff sniff sniff",
+    "msgClasses": "chat_message bneon9"
   }
 ]
