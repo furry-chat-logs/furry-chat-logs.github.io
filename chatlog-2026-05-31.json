@@ -10008,5 +10008,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "maooo :3",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938434",
+    "type": "public",
+    "date": "31/05 10:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "owo",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938435",
+    "type": "public",
+    "date": "31/05 10:25",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Aieee~~",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
