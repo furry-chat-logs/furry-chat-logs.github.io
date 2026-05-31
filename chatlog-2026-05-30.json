@@ -14894,5 +14894,25 @@
     "userClasses": "username bgrad39 ",
     "message": "I'll die",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7936828",
+    "type": "public",
+    "date": "30/05 20:18",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Veno stop flirting",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7936829",
+    "type": "public",
+    "date": "30/05 20:19",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Then u guys have to call the cops for me",
+    "msgClasses": "chat_message bneon9"
   }
 ]
