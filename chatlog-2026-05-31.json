@@ -3868,5 +3868,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Alr, alr, fair enough",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7937819",
+    "type": "public",
+    "date": "31/05 2:03",
+    "username": "Volkner",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I'm the mero mero bud",
+    "msgClasses": "chat_message "
   }
 ]
