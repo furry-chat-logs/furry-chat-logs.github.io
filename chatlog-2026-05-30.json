@@ -18184,5 +18184,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Bergindine oh? Which book",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937203",
+    "type": "public",
+    "date": "30/05 23:13",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "something wicked this way comes",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7937204",
+    "type": "public",
+    "date": "30/05 23:13",
+    "username": "CHERRYBOMB",
+    "userId": "13262",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_b75443a21022.png]",
+    "msgClasses": "chat_message "
   }
 ]
