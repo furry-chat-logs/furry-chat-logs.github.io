@@ -10944,5 +10944,35 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "i think thats them",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7936432",
+    "type": "public",
+    "date": "30/05 19:44",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "How many accounts did she have...",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7936433",
+    "type": "public",
+    "date": "30/05 19:44",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Oh yeah,",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7936434",
+    "type": "public",
+    "date": "30/05 19:44",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "YES",
+    "msgClasses": "chat_message "
   }
 ]
