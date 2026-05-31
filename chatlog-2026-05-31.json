@@ -1248,5 +1248,15 @@
     "userClasses": "username user ",
     "message": "What is Hmu?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7937557",
+    "type": "public",
+    "date": "31/05 1:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Maybe idk",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
