@@ -9884,5 +9884,35 @@
     "userClasses": "username bcolor1 ",
     "message": "I don't look the same now",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936326",
+    "type": "public",
+    "date": "30/05 19:35",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "I've only gotten cooler",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936327",
+    "type": "public",
+    "date": "30/05 19:35",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bcolor1 ",
+    "message": "I think",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7936328",
+    "type": "public",
+    "date": "30/05 19:35",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I guess I'm late, idk.",
+    "msgClasses": "chat_message ital"
   }
 ]
