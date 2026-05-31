@@ -13628,5 +13628,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMmtxYnljdXd2dHdib3kxaWQ2Y3huN29waGk2NHVjdGl6aW11eW93NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6QoyrrXdwo9aKmauYh/giphy.gif]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7938799",
+    "type": "public",
+    "date": "31/05 11:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[pills]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938800",
+    "type": "public",
+    "date": "31/05 11:14",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Me checking twice",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
