@@ -13968,5 +13968,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I'm already depressed...",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7938833",
+    "type": "public",
+    "date": "31/05 11:19",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36957_aa8f58a6d3ec.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938834",
+    "type": "public",
+    "date": "31/05 11:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "SBB idk it's second hand tbh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
