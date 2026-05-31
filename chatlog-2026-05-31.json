@@ -11398,5 +11398,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "He doesnt affect me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7938573",
+    "type": "public",
+    "date": "31/05 10:43",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "not sticky",
+    "msgClasses": "chat_message bneon14"
   }
 ]
