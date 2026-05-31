@@ -6858,5 +6858,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Mayba a tip",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7938118",
+    "type": "public",
+    "date": "31/05 4:03",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ello Volkner :D",
+    "msgClasses": "chat_message "
   }
 ]
