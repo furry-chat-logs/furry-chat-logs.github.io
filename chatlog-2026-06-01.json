@@ -30074,5 +30074,25 @@
     "userClasses": "username bneon4 ",
     "message": "Sonic The Hedgehog yes. In a good way",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942983",
+    "type": "public",
+    "date": "1/06 18:12",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Miss Kit YAY",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7942984",
+    "type": "public",
+    "date": "1/06 18:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "My gallery is a russian roulette game everytime I use this site",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
