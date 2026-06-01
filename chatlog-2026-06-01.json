@@ -13386,5 +13386,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Wait ima resend it rq",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941297",
+    "type": "public",
+    "date": "1/06 7:39",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "Oh alright.",
+    "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7941298",
+    "type": "public",
+    "date": "1/06 7:39",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_e9b676e8a7f2.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941299",
+    "type": "public",
+    "date": "1/06 7:39",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Like this dude",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
