@@ -6618,5 +6618,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ Huh?",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940504",
+    "type": "public",
+    "date": "1/06 1:15",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Porphyrophobia what is ts abt Maxwellg",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7940505",
+    "type": "public",
+    "date": "1/06 1:15",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Wasn't it pride month last month?",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
