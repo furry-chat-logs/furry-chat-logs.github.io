@@ -10156,5 +10156,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yeah ik",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940974",
+    "type": "public",
+    "date": "1/06 5:41",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I might have exposure to Sodium hypochlorite",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
