@@ -29944,5 +29944,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Gotta be riding the 1 seat bus to school",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7942970",
+    "type": "public",
+    "date": "1/06 18:09",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im just saying what i think ˋˋdudèˋ",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
