@@ -8518,5 +8518,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Es ist wichtig zu schlafen",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940810",
+    "type": "public",
+    "date": "1/06 2:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ja ich schlaf einfach so lange ich kann und gut ist",
+    "msgClasses": "chat_message "
   }
 ]
