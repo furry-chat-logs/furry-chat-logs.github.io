@@ -14206,5 +14206,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_4c2a1c687a82.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941379",
+    "type": "public",
+    "date": "1/06 7:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im a bat no joke",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941380",
+    "type": "public",
+    "date": "1/06 7:50",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Spidercar",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
