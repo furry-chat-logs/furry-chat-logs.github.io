@@ -16436,5 +16436,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "haha my stepdad is Australian, I've been there once, really felt upside down xD",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7941604",
+    "type": "public",
+    "date": "1/06 9:43",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "yeah welcome yappercat ^^",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941605",
+    "type": "public",
+    "date": "1/06 9:43",
+    "username": "YapperCat",
+    "userId": "37481",
+    "userClasses": "username user ",
+    "message": "LOL now that's the spirit!",
+    "msgClasses": "chat_message "
   }
 ]
