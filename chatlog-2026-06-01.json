@@ -6668,5 +6668,45 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "yayy",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940509",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "No",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940510",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Frogmin may isnt pride month,june is.",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940511",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I remember I went to a night club and made out with a 40 year old black girl.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940512",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Pride month is on June",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
