@@ -16716,5 +16716,25 @@
     "userClasses": "username user ",
     "message": "Omg they are beautiful",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941632",
+    "type": "public",
+    "date": "1/06 9:46",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "where abouts in Australia are you from?",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7941633",
+    "type": "public",
+    "date": "1/06 9:46",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Your cats name is \"disgusting\"",
+    "msgClasses": "chat_message bneon19"
   }
 ]
