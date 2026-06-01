@@ -17296,5 +17296,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Leeland nuh uh",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7941690",
+    "type": "public",
+    "date": "1/06 10:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm fried",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941691",
+    "type": "public",
+    "date": "1/06 10:11",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Pommespanzer",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
