@@ -11636,5 +11636,25 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "Nebulais_0 wow",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7941122",
+    "type": "public",
+    "date": "1/06 7:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Got my broken laptop under the table",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941123",
+    "type": "public",
+    "date": "1/06 7:01",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_53f5ac68471d.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
