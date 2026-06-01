@@ -9926,5 +9926,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "But thats the only thing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940951",
+    "type": "public",
+    "date": "1/06 5:32",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "I hope my twwin wakes up soon",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
