@@ -2308,5 +2308,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Imma be sophmore",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940072",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Wait Issa is a ultra unc",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
