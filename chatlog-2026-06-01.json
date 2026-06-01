@@ -6638,5 +6638,35 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Wasn't it pride month last month?",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940506",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "And cool mechanics",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940507",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Maxwellg let me know when it releases",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940508",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "yayy",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
