@@ -6968,5 +6968,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "like why is tails so bad",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7940539",
+    "type": "public",
+    "date": "1/06 1:17",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Idk",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940540",
+    "type": "public",
+    "date": "1/06 1:17",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user1_f429f752bf86.png]",
+    "msgClasses": "chat_message "
   }
 ]
