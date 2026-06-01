@@ -16576,5 +16576,25 @@
     "userClasses": "username user ",
     "message": "I need to sleep..",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941618",
+    "type": "public",
+    "date": "1/06 9:44",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "it's 8:44 am here",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7941619",
+    "type": "public",
+    "date": "1/06 9:44",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "maybe",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
