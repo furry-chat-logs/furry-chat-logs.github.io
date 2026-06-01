@@ -2798,5 +2798,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Lmfao",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940121",
+    "type": "public",
+    "date": "1/06 0:35",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I'm already getting PTSD of those two dudes talking about how they liked getting cracked by their partners",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940122",
+    "type": "public",
+    "date": "1/06 0:35",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "And",
+    "msgClasses": "chat_message "
   }
 ]
