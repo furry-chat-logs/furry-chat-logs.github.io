@@ -8676,5 +8676,15 @@
     "username": "System",
     "userId": null,
     "message": "SBB has been kicked"
+  },
+  {
+    "id": "7940826",
+    "type": "public",
+    "date": "1/06 3:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "What did SBB do?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
