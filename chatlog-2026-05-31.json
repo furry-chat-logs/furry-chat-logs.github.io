@@ -21246,5 +21246,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "What do You mean?",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939564",
+    "type": "public",
+    "date": "31/05 22:47",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "S T A Y , C U R I O U S . 🥹💔",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
