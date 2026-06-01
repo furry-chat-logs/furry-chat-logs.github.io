@@ -7298,5 +7298,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I**ael",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940573",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Oh what the fuck",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940574",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdDJzeG15aDc2dWl1cjYzazE2ZDU0eDFkdTVhbnNyeWY5b3N6MjF0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Jj2wGiHjiQgZQj1SAh/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940575",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I might actually get a degree in an Israeli university.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940576",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "LOAT",
+    "userId": "37477",
+    "userClasses": "username user ",
+    "message": "Na.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940577",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Maxwellg what 💔",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
