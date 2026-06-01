@@ -9516,5 +9516,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yes tbh its good",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940910",
+    "type": "public",
+    "date": "1/06 5:01",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I build computers",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940911",
+    "type": "public",
+    "date": "1/06 5:01",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Okay now i need to know what GPU u have",
+    "msgClasses": "chat_message "
   }
 ]
