@@ -23094,5 +23094,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bro I forgot to drink water to day",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942272",
+    "type": "public",
+    "date": "1/06 12:06",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Weit a sec",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942273",
+    "type": "public",
+    "date": "1/06 12:06",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I actually play my drums on this song",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
