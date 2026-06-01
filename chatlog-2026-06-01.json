@@ -19896,5 +19896,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB warum",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941951",
+    "type": "public",
+    "date": "1/06 11:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sorchistori",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
