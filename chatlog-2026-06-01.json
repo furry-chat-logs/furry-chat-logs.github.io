@@ -11156,5 +11156,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "A bit",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941074",
+    "type": "public",
+    "date": "1/06 6:53",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB cool",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
