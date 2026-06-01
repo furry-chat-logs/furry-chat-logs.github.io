@@ -6938,5 +6938,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "I'm not that racist",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940536",
+    "type": "public",
+    "date": "1/06 1:17",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I'm not even joking dude.",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940537",
+    "type": "public",
+    "date": "1/06 1:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ [sob]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940538",
+    "type": "public",
+    "date": "1/06 1:17",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "like why is tails so bad",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
