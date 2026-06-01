@@ -17016,5 +17016,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Mdekoni cool",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7941662",
+    "type": "public",
+    "date": "1/06 10:06",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_778e2d6fd738.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941663",
+    "type": "public",
+    "date": "1/06 10:06",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Blue",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
