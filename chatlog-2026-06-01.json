@@ -15606,5 +15606,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_d88c736cd604.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941521",
+    "type": "public",
+    "date": "1/06 9:18",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "The saber throw then the midair catch then I slice his arm off",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941522",
+    "type": "public",
+    "date": "1/06 9:18",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "So badass",
+    "msgClasses": "chat_message bneon19"
   }
 ]
