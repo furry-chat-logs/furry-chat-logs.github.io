@@ -3266,5 +3266,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "i could go through 3 jars",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7940168",
+    "type": "public",
+    "date": "1/06 0:40",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "X3",
+    "msgClasses": "chat_message "
   }
 ]
