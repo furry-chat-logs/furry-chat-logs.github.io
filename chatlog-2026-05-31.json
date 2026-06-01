@@ -22976,5 +22976,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "But um I am only gay rp term tho",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939760",
+    "type": "public",
+    "date": "31/05 23:45",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "OK!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939761",
+    "type": "public",
+    "date": "31/05 23:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "👀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
