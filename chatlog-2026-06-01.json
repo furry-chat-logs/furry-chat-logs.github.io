@@ -20336,5 +20336,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Mainia is a person I'm so stupid",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941995",
+    "type": "public",
+    "date": "1/06 11:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Spectre_protogen merp merp meep!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
