@@ -3836,5 +3836,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Maxwellg Dont we all love our partners?",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940225",
+    "type": "public",
+    "date": "1/06 0:46",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": ":3",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940226",
+    "type": "public",
+    "date": "1/06 0:46",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Yis",
+    "msgClasses": "chat_message "
   }
 ]
