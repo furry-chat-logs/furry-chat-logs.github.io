@@ -18346,5 +18346,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Spectre_protogen careful, that guys into v%re",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941796",
+    "type": "public",
+    "date": "1/06 10:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "V%re? What is that",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941797",
+    "type": "public",
+    "date": "1/06 10:39",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Smiley wut...?",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7941798",
+    "type": "public",
+    "date": "1/06 10:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "EUGH",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
