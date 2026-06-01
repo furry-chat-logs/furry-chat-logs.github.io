@@ -20826,5 +20826,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB please someone normal",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942044",
+    "type": "public",
+    "date": "1/06 11:14",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Porphyrophobia Hi rune",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7942045",
+    "type": "public",
+    "date": "1/06 11:14",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] :3",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
