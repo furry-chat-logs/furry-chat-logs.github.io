@@ -10266,5 +10266,45 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I think I'm gonna faint",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940985",
+    "type": "public",
+    "date": "1/06 5:44",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SoraTheMikuFan are you texting with paimon?",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940986",
+    "type": "public",
+    "date": "1/06 5:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "oh geez",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940987",
+    "type": "public",
+    "date": "1/06 5:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "no",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940988",
+    "type": "public",
+    "date": "1/06 5:44",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "or is paimon not online",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
