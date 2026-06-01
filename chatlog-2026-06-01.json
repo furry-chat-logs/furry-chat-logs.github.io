@@ -918,5 +918,25 @@
     "userClasses": "username bneon4 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_535d2ec347eb.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939933",
+    "type": "public",
+    "date": "1/06 0:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Miss Kit Because it's cold [troll]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939934",
+    "type": "public",
+    "date": "1/06 0:13",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username user ",
+    "message": "Also fox btw",
+    "msgClasses": "chat_message "
   }
 ]
