@@ -15726,5 +15726,15 @@
     "userClasses": "username bneon4 ",
     "message": "I love my fit today",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941533",
+    "type": "public",
+    "date": "1/06 9:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[feelgood]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
