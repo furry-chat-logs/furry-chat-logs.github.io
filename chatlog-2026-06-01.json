@@ -6738,5 +6738,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "That was for pride",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940516",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Sonic The Hedgehog alrighty!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940517",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ Tails happened",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
