@@ -22634,5 +22634,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ich mach jetzt mal aus",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942225",
+    "type": "public",
+    "date": "1/06 11:47",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ima head off now",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
