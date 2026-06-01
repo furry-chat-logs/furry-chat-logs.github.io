@@ -25514,5 +25514,15 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "Hello to all!",
     "msgClasses": "chat_message bneon10 ital bfont3"
+  },
+  {
+    "id": "7942515",
+    "type": "public",
+    "date": "1/06 13:10",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Squarest Bear Ello!",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
