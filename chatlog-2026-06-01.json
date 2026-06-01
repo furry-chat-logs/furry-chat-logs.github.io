@@ -25374,5 +25374,25 @@
     "userClasses": "username bneon4 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_aff08e674cd6.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942501",
+    "type": "public",
+    "date": "1/06 12:58",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37473_7325a1799a95.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942502",
+    "type": "public",
+    "date": "1/06 12:58",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I'm a HUGE metal fan",
+    "msgClasses": "chat_message bneon19"
   }
 ]
