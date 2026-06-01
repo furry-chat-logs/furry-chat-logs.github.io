@@ -16656,5 +16656,15 @@
     "userClasses": "username user ",
     "message": "Name rn",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941626",
+    "type": "public",
+    "date": "1/06 9:45",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "Maki",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
