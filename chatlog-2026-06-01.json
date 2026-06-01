@@ -12726,5 +12726,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I sold my SE and now got a 14",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941231",
+    "type": "public",
+    "date": "1/06 7:25",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_39c8ab155e5a.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941232",
+    "type": "public",
+    "date": "1/06 7:25",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB only 14?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
