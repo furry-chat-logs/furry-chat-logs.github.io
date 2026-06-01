@@ -26344,5 +26344,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "SBB lowkey wut ur oc?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942599",
+    "type": "public",
+    "date": "1/06 13:52",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I just say my opinion",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942600",
+    "type": "public",
+    "date": "1/06 13:52",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Mine is a fox",
+    "msgClasses": "chat_message "
   }
 ]
