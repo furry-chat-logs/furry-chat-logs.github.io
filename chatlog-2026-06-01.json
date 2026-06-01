@@ -25004,5 +25004,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "[media: https://furrychat.net/chat/upload/chat/user28253_998dba857eb7.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942464",
+    "type": "public",
+    "date": "1/06 12:52",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I actually hear all sounds thru bluetooth on my drum headphones",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942465",
+    "type": "public",
+    "date": "1/06 12:52",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "I just play bass",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
