@@ -7398,5 +7398,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Frogmin Spotting coins on the ground is enough for an entry",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940583",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Sonic can move",
+    "msgClasses": "chat_message "
   }
 ]
