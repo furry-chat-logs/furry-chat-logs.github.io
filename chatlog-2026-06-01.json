@@ -7868,5 +7868,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Listening to music now",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940745",
+    "type": "public",
+    "date": "1/06 2:15",
+    "username": "Starlvr",
+    "userId": "37465",
+    "userClasses": "username bcolor17 bnfont7",
+    "message": "Sonicx",
+    "msgClasses": "chat_message "
   }
 ]
