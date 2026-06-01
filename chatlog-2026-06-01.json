@@ -10196,5 +10196,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Cause I'm dizzy and I have a headache",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940978",
+    "type": "public",
+    "date": "1/06 5:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "are u gonna die???",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940979",
+    "type": "public",
+    "date": "1/06 5:42",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I looked it up just now and I need to get fresh air so I'm opening my window",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
