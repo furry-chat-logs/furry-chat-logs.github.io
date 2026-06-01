@@ -24944,5 +24944,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "I just play guitar",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942457",
+    "type": "public",
+    "date": "1/06 12:51",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "NeptuneLynxx Electric?!",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
