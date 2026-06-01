@@ -23924,5 +23924,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Porphyrophobia that u",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942355",
+    "type": "public",
+    "date": "1/06 12:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Yes",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
