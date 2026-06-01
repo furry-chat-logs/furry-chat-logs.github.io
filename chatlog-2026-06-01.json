@@ -25334,5 +25334,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "For maxwell mania",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942497",
+    "type": "public",
+    "date": "1/06 12:57",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_cfaaf1b83426.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
