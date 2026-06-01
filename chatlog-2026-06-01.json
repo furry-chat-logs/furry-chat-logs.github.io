@@ -5668,5 +5668,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Ashton the hellhound not really.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940409",
+    "type": "public",
+    "date": "1/06 1:08",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Not long enough for me to know who you are [troll]",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
