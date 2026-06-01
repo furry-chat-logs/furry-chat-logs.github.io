@@ -28954,5 +28954,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Boo",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7942871",
+    "type": "public",
+    "date": "1/06 16:22",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Yawn I’m back U.U",
+    "msgClasses": "chat_message "
   }
 ]
