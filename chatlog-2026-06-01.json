@@ -28804,5 +28804,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "test",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7942856",
+    "type": "public",
+    "date": "1/06 15:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Pluh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
