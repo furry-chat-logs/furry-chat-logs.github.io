@@ -9396,5 +9396,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Is it in settings?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940898",
+    "type": "public",
+    "date": "1/06 4:58",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "There should be a sticker on the back of your computer",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
