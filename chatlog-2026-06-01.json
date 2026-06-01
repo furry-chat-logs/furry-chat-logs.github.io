@@ -11526,5 +11526,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_b93ac3faa518.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941111",
+    "type": "public",
+    "date": "1/06 7:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "My upsido setup",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
