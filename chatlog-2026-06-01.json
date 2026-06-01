@@ -8716,5 +8716,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "SoraTheMikuFan You can talk with people who are muted through secret share",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940830",
+    "type": "public",
+    "date": "1/06 4:01",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "But SBB is not muted",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940831",
+    "type": "public",
+    "date": "1/06 4:01",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "there kicked not muted",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
