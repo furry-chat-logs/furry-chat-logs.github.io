@@ -1788,5 +1788,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Mom was right, it is the damn phone",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940020",
+    "type": "public",
+    "date": "1/06 0:22",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Huh",
+    "msgClasses": "chat_message "
   }
 ]
