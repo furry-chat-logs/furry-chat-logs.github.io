@@ -30284,5 +30284,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Understandable",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943004",
+    "type": "public",
+    "date": "1/06 18:15",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Meow",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7943005",
+    "type": "public",
+    "date": "1/06 18:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Exists",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
