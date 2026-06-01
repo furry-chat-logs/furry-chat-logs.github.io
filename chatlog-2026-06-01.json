@@ -38,5 +38,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Meowww",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939845",
+    "type": "public",
+    "date": "1/06 0:01",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjlwYmZ1N2Z6b2NocDE5djhxeW1sOHljcHgxcGkxcjVrcmhjbDVnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2blmehMgQbBRK/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939846",
+    "type": "public",
+    "date": "1/06 0:01",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "SoraTheMikuFan",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
