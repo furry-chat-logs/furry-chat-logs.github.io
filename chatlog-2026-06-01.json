@@ -9266,5 +9266,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "A moderator",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940885",
+    "type": "public",
+    "date": "1/06 4:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "My Monitor is a DELL",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940886",
+    "type": "public",
+    "date": "1/06 4:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea it's rlly good",
+    "msgClasses": "chat_message bneon14"
   }
 ]
