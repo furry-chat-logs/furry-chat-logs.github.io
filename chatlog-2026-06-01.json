@@ -26034,5 +26034,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I'm waiting youtub menweil on her",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942568",
+    "type": "public",
+    "date": "1/06 13:45",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_102a554af0f9.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942569",
+    "type": "public",
+    "date": "1/06 13:45",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Changed back to normal",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
