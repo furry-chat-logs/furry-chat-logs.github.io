@@ -30414,5 +30414,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcWV2dWRpeGRiNGZmcDg3cTU5MDNsdWdueXQ0M3c2NWUyZHptazgwcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IjWk0VFIOptpcqdriC/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7943017",
+    "type": "public",
+    "date": "1/06 18:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_33cc547d0140.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
