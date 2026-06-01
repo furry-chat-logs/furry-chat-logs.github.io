@@ -1218,5 +1218,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZm1sNmppaGlnNHpsN2c5bmt2OTYycGRrNDE1d2Ixd3lhZDZyaHdpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0IlkFDrl80PmdwktO/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939963",
+    "type": "public",
+    "date": "1/06 0:15",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Wrong tag LMFAI",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939964",
+    "type": "public",
+    "date": "1/06 0:15",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Miss Kit serch filianislost.com",
+    "msgClasses": "chat_message bneon14"
   }
 ]
