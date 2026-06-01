@@ -21816,5 +21816,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Ashton the hellhound let me look at them",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939626",
+    "type": "public",
+    "date": "31/05 23:21",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I don't have them but I know there's more",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
