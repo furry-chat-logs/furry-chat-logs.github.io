@@ -9746,5 +9746,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'm not kidding",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940933",
+    "type": "public",
+    "date": "1/06 5:29",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'll get muted jk",
+    "msgClasses": "chat_message bneon14"
   }
 ]
