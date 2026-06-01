@@ -31184,5 +31184,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "explodes",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7943095",
+    "type": "public",
+    "date": "1/06 18:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_96b97f5f08a6.gif]",
+    "msgClasses": "chat_message "
   }
 ]
