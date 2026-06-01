@@ -3286,5 +3286,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Same",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940170",
+    "type": "public",
+    "date": "1/06 0:41",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "It cruncy 2",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940171",
+    "type": "public",
+    "date": "1/06 0:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_5bbbc5b845b3.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
