@@ -23654,5 +23654,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Maxwellg what",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942328",
+    "type": "public",
+    "date": "1/06 12:27",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Idk man",
+    "msgClasses": "chat_message "
   }
 ]
