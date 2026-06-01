@@ -17336,5 +17336,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941694",
+    "type": "public",
+    "date": "1/06 10:12",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Nuh uhh",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7941695",
+    "type": "public",
+    "date": "1/06 10:12",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Today's the 31st",
+    "msgClasses": "chat_message bneon14"
   }
 ]
