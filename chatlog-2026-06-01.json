@@ -25924,5 +25924,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bro stoop your killlling mee",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942557",
+    "type": "public",
+    "date": "1/06 13:35",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_7b9104537bf4.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
