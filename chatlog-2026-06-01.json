@@ -29734,5 +29734,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "The hell did i do",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942949",
+    "type": "public",
+    "date": "1/06 18:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Miss Kit hruuuu",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
