@@ -19776,5 +19776,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOG50b2prZXcxNnB2cDZhYzI3aWx1ejMxdGFsdTNubnRrbDdyNmhmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B0yg6yWnfVpEA/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939415",
+    "type": "public",
+    "date": "31/05 20:15",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37449_e51fb205e82c.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939416",
+    "type": "public",
+    "date": "31/05 20:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
