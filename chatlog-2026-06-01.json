@@ -10526,5 +10526,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Don't do stupid shit",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7941011",
+    "type": "public",
+    "date": "1/06 5:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "okk",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941012",
+    "type": "public",
+    "date": "1/06 5:52",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I will find out if you did",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
