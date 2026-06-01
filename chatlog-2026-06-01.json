@@ -9796,5 +9796,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "No I can't have discord",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940938",
+    "type": "public",
+    "date": "1/06 5:29",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Paimon told me to get fluxer",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940939",
+    "type": "public",
+    "date": "1/06 5:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SoraTheMikuFan if you make a discord we could cal",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
