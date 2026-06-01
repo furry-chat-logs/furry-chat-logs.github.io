@@ -18236,5 +18236,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bro that dude under the bus this can only be Germany it's all eis  raining",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941784",
+    "type": "public",
+    "date": "1/06 10:37",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "My brain for some reason makes me hear the notification sound whenever someone sends a message. Even though my laptop volume is off.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7941786",
+    "type": "public",
+    "date": "1/06 10:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Alveies",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941787",
+    "type": "public",
+    "date": "1/06 10:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Idk",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
