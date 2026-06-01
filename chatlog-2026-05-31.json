@@ -19456,5 +19456,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939383",
+    "type": "public",
+    "date": "31/05 19:59",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Hello",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
