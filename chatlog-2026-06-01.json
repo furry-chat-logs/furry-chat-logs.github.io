@@ -26794,5 +26794,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_ceb3d9b53abc.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942647",
+    "type": "public",
+    "date": "1/06 13:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_b2502cc6f0b9.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942648",
+    "type": "public",
+    "date": "1/06 13:59",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "BRRRRRTTT",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
