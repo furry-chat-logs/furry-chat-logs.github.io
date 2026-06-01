@@ -2588,5 +2588,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "The three of you need professionals",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940100",
+    "type": "public",
+    "date": "1/06 0:33",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Nah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940101",
+    "type": "public",
+    "date": "1/06 0:33",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_5d8b3414d847.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
