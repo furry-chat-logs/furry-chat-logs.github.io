@@ -29864,5 +29864,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbHhibXd0NDFiNW8zOWNidmdqa2xsNXllbGNhb3lpZGViOWIxN3h0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8mXhcWpkfy8dkRx2dL/giphy.gif]",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942962",
+    "type": "public",
+    "date": "1/06 18:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcXpnemo4dTVpb2xjNTN2Y2t3ejdzb3c2eTRzZHZrNm0za2R4MDhvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ndCX1K95z5FNwPTWi9/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
