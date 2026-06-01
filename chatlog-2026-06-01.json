@@ -26584,5 +26584,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_453ebdb43712.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942623",
+    "type": "public",
+    "date": "1/06 13:56",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Like as char",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942624",
+    "type": "public",
+    "date": "1/06 13:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Thats fendt hes far",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942625",
+    "type": "public",
+    "date": "1/06 13:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I mean far",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
