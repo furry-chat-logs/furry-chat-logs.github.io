@@ -1178,5 +1178,45 @@
     "userClasses": "username user ",
     "message": "Wsp tho",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939959",
+    "type": "public",
+    "date": "1/06 0:14",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username user ",
+    "message": "Me too",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939960",
+    "type": "public",
+    "date": "1/06 0:14",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Deer",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939961",
+    "type": "public",
+    "date": "1/06 0:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_1fe7ad322c3a.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939962",
+    "type": "public",
+    "date": "1/06 0:14",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZm1sNmppaGlnNHpsN2c5bmt2OTYycGRrNDE1d2Ixd3lhZDZyaHdpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0IlkFDrl80PmdwktO/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
