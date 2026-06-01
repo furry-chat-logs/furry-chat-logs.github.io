@@ -29614,5 +29614,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZTA0dzc3ZmVibzNwd2EwdnozZHBwbWducXMxNnNkN3Q4ZDZnMnA4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mBYPAiqYlrM5FyzWXM/giphy.gif]",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942937",
+    "type": "public",
+    "date": "1/06 17:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_e47de9624ae9.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942938",
+    "type": "public",
+    "date": "1/06 17:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Midnight mode",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
