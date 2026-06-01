@@ -4988,5 +4988,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "night",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7940341",
+    "type": "public",
+    "date": "1/06 0:59",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "So i dont havta type",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940342",
+    "type": "public",
+    "date": "1/06 0:59",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Gn!",
+    "msgClasses": "chat_message "
   }
 ]
