@@ -3146,5 +3146,15 @@
     "userClasses": "username bcolor12 bnfont6",
     "message": "I'm back",
     "msgClasses": "chat_message bcolor12 heavyital bfont13"
+  },
+  {
+    "id": "7940156",
+    "type": "public",
+    "date": "1/06 0:39",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Yo",
+    "msgClasses": "chat_message "
   }
 ]
