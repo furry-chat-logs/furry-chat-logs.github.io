@@ -26764,5 +26764,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "Maxwellg bye",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7942643",
+    "type": "public",
+    "date": "1/06 13:58",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_8098bba15fa9.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
