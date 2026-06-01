@@ -19386,5 +19386,15 @@
     "userClasses": "username bneon18 ",
     "message": "[dead]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7939376",
+    "type": "public",
+    "date": "31/05 19:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[devil]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
