@@ -21546,5 +21546,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Me too man! Just here relaxing and chatting",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939598",
+    "type": "public",
+    "date": "31/05 23:16",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Can't complain about that Volkner K",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
