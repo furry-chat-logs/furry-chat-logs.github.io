@@ -10376,5 +10376,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'm trying",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940996",
+    "type": "public",
+    "date": "1/06 5:49",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I have to go to bed",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
