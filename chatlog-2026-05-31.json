@@ -22636,5 +22636,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "•w• you mean English class?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939726",
+    "type": "public",
+    "date": "31/05 23:38",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Sonic The Hedgehog mhm",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939727",
+    "type": "public",
+    "date": "31/05 23:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "No the language",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
