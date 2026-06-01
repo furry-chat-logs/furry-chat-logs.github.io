@@ -19236,5 +19236,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Kommt davon",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941885",
+    "type": "public",
+    "date": "1/06 10:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Fußnagel 1. Juni 17:50 Uhr ja das magst du",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
