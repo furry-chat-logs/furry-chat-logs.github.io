@@ -14436,5 +14436,25 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Heh I like building pc yk",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941402",
+    "type": "public",
+    "date": "1/06 7:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_6fffa4ecccab.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941403",
+    "type": "public",
+    "date": "1/06 7:59",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "And my microx is the oc that I built from zero",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
