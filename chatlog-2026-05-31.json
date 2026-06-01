@@ -23606,5 +23606,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lyman curse of binding",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939823",
+    "type": "public",
+    "date": "31/05 23:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa morningggg",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939824",
+    "type": "public",
+    "date": "31/05 23:56",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Mdekoni same",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
