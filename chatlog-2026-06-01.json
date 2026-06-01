@@ -13746,5 +13746,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I think i play drums",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941333",
+    "type": "public",
+    "date": "1/06 7:43",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "I like guys",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
