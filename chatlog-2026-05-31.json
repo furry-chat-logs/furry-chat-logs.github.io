@@ -22186,5 +22186,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "In the colors mixed so now I have gray",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939681",
+    "type": "public",
+    "date": "31/05 23:30",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Does that attract a lot of attention?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
