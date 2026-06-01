@@ -7728,5 +7728,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Maxwellg [cry]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940639",
+    "type": "public",
+    "date": "1/06 1:28",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Welp he gone",
+    "msgClasses": "chat_message "
   }
 ]
