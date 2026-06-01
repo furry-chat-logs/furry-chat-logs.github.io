@@ -9846,5 +9846,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "And I report EVERYTHING bad",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940943",
+    "type": "public",
+    "date": "1/06 5:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Discord alternative",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940944",
+    "type": "public",
+    "date": "1/06 5:30",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Tuff",
+    "msgClasses": "chat_message "
   }
 ]
