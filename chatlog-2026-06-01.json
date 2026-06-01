@@ -25104,5 +25104,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "No its bass",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942474",
+    "type": "public",
+    "date": "1/06 12:53",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Just bass",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942475",
+    "type": "public",
+    "date": "1/06 12:53",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "You said bass",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
