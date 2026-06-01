@@ -13016,5 +13016,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_f6bf6f06f4b3.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941260",
+    "type": "public",
+    "date": "1/06 7:30",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "My monitor actually weights 8,6 kilo thats unexpected",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941261",
+    "type": "public",
+    "date": "1/06 7:30",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Is that your pc",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
