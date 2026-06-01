@@ -11676,5 +11676,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Nebulais_0 hiii",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7941126",
+    "type": "public",
+    "date": "1/06 7:02",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_36fce4b83eec.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941127",
+    "type": "public",
+    "date": "1/06 7:02",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Numm Bug haiii",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
