@@ -25594,5 +25594,25 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "Oki",
     "msgClasses": "chat_message bneon10 ital bfont3"
+  },
+  {
+    "id": "7942523",
+    "type": "public",
+    "date": "1/06 13:12",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes i do too",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942524",
+    "type": "public",
+    "date": "1/06 13:12",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Squarest Bear Im doing pretty good. I just gave my friend a kitty because he lost his other cat due to an unfortunate event",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
