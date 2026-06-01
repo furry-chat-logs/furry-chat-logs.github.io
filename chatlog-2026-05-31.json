@@ -21346,5 +21346,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Sonic The Hedgehog Hello My lord, I am gratefull one day more for My VIP",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939577",
+    "type": "public",
+    "date": "31/05 22:52",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "You're welcome dude",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
