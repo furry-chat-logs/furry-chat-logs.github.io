@@ -22936,5 +22936,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Uh",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939756",
+    "type": "public",
+    "date": "31/05 23:44",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog happy",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939757",
+    "type": "public",
+    "date": "31/05 23:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm a homo [sick2]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
