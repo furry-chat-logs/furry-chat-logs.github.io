@@ -7778,5 +7778,15 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "Henlooo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940666",
+    "type": "public",
+    "date": "1/06 1:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "ImYoursToCuddle hello friend",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
