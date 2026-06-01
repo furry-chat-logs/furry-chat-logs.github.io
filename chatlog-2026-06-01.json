@@ -20276,5 +20276,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "m-me??",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941989",
+    "type": "public",
+    "date": "1/06 11:08",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMTY1bzhweWtxd3dhYTJnMHFwb3ZpbHFmYXhrdTdtNmVqaHR2cHozYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ul58YxwE8ph9YXgRNq/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941990",
+    "type": "public",
+    "date": "1/06 11:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "slur-ing u?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
