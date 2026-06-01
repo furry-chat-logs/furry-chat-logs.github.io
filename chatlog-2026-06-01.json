@@ -5278,5 +5278,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "But wut to buy...?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940370",
+    "type": "public",
+    "date": "1/06 1:02",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Chat is it even worth sleeping for this last week of school",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940371",
+    "type": "public",
+    "date": "1/06 1:02",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user1_66596b585626.png]",
+    "msgClasses": "chat_message "
   }
 ]
