@@ -28404,5 +28404,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Gtg",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942816",
+    "type": "public",
+    "date": "1/06 15:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im usin DeepL for Translating",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942817",
+    "type": "public",
+    "date": "1/06 15:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Bye Mdekoni",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
