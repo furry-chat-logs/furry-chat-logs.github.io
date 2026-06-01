@@ -578,5 +578,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Learnt it from him *points at Sonic The Hedgehog *",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939899",
+    "type": "public",
+    "date": "1/06 0:10",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Sonic The Hedgehog why are we talking about bottom or top",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939900",
+    "type": "public",
+    "date": "1/06 0:10",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Sonic The Hedgehog WHAT",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939901",
+    "type": "public",
+    "date": "1/06 0:10",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I told her not to search it up🥀",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
