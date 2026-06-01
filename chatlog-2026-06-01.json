@@ -31264,5 +31264,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "no",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7943103",
+    "type": "public",
+    "date": "1/06 18:59",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "no",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
