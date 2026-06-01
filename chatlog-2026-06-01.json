@@ -14656,5 +14656,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "My laptop costs 3000€",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941424",
+    "type": "public",
+    "date": "1/06 8:03",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "REFURBISHED",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941425",
+    "type": "public",
+    "date": "1/06 8:03",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "I'm on ddr4 and its like $100 for 16 gigs",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
