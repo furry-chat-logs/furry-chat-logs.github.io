@@ -21576,5 +21576,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "The chillaxers",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939601",
+    "type": "public",
+    "date": "31/05 23:17",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "What's up chat",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7939602",
+    "type": "public",
+    "date": "31/05 23:17",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Hehe true",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939603",
+    "type": "public",
+    "date": "31/05 23:17",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Hello yeah",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
