@@ -7478,5 +7478,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Maxwellg",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940591",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Yo",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940592",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Nobody",
+    "userId": "27175",
+    "userClasses": "username bcolor18 bnfont11",
+    "message": "Tel aviv impressed",
+    "msgClasses": "chat_message bcolor18  bfont13"
   }
 ]
