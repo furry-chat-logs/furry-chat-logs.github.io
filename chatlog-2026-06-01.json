@@ -15416,5 +15416,15 @@
     "userClasses": "username bneon4 ",
     "message": "INMPACUMA",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941500",
+    "type": "public",
+    "date": "1/06 9:13",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_d3c2c95fe6ce.png]",
+    "msgClasses": "chat_message "
   }
 ]
