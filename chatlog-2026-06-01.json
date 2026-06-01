@@ -24094,5 +24094,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bro I just felt like I had a mini hart attack 😧",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942372",
+    "type": "public",
+    "date": "1/06 12:37",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Hey skylar and king.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942373",
+    "type": "public",
+    "date": "1/06 12:37",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I have to stay on the upper level of my school",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
