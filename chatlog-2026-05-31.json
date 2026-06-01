@@ -21646,5 +21646,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[JustAnAss]",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7939608",
+    "type": "public",
+    "date": "31/05 23:18",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "How the fuck did I kill chat",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
