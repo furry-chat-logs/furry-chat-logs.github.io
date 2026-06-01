@@ -25654,5 +25654,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hey Squarest bear ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942530",
+    "type": "public",
+    "date": "1/06 13:20",
+    "username": "Squarest Bear",
+    "userId": "36962",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Hi Thundercloudgaming03",
+    "msgClasses": "chat_message bneon10 ital bfont3"
   }
 ]
