@@ -4408,5 +4408,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Peak cinima",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940283",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Help this reminds me of-",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940284",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm scared",
+    "msgClasses": "chat_message bneon14"
   }
 ]
