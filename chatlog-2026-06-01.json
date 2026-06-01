@@ -11476,5 +11476,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB you got a fursona?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941106",
+    "type": "public",
+    "date": "1/06 6:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdXh2a3RmOWtndm83ZGVxb2lmcXM3NHJjZW4wdnFlOHlnZTQxYnNuMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A8DheQANgMNLcQYHx9/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
