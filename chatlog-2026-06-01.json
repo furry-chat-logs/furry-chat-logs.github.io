@@ -8736,5 +8736,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "there kicked not muted",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7940832",
+    "type": "public",
+    "date": "1/06 4:01",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "oh damn",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
