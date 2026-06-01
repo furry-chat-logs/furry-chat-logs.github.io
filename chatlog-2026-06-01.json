@@ -5328,5 +5328,35 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Dont",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940375",
+    "type": "public",
+    "date": "1/06 1:03",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Just nap in class",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940376",
+    "type": "public",
+    "date": "1/06 1:03",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": ":3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940377",
+    "type": "public",
+    "date": "1/06 1:03",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I wouldn't",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
