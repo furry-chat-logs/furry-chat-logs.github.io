@@ -22276,5 +22276,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Every girl tries to get to me but they can't",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939690",
+    "type": "public",
+    "date": "31/05 23:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Inin",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939691",
+    "type": "public",
+    "date": "31/05 23:32",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Well lucky for me I go to work Monday and Wednesday",
+    "msgClasses": "chat_message "
   }
 ]
