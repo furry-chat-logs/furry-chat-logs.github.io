@@ -29814,5 +29814,25 @@
     "userClasses": "username bneon4 ",
     "message": "It's a rule",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942957",
+    "type": "public",
+    "date": "1/06 18:03",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Follow them.",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942958",
+    "type": "public",
+    "date": "1/06 18:03",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "They're there for a reason",
+    "msgClasses": "chat_message bneon19"
   }
 ]
