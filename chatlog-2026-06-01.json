@@ -10426,5 +10426,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Allo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941001",
+    "type": "public",
+    "date": "1/06 5:49",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You think I would let myself die",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
