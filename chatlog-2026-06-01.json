@@ -24534,5 +24534,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB bro my phone just glitched",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942416",
+    "type": "public",
+    "date": "1/06 12:47",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Super",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942417",
+    "type": "public",
+    "date": "1/06 12:47",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "i have no book to read",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
