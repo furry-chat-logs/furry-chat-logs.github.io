@@ -28024,5 +28024,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "How am  I alive",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942778",
+    "type": "public",
+    "date": "1/06 15:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Per day",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
