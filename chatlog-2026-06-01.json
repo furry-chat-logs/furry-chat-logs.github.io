@@ -11396,5 +11396,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "banana",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941098",
+    "type": "public",
+    "date": "1/06 6:57",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Banana",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941099",
+    "type": "public",
+    "date": "1/06 6:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*noms ur banana*",
+    "msgClasses": "chat_message bneon14"
   }
 ]
