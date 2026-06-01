@@ -29574,5 +29574,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "One died",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942933",
+    "type": "public",
+    "date": "1/06 17:49",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I had three",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
