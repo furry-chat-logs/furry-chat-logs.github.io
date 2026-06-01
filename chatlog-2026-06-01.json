@@ -24624,5 +24624,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "I already have built 2!",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942425",
+    "type": "public",
+    "date": "1/06 12:48",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "(not today lol)",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942426",
+    "type": "public",
+    "date": "1/06 12:48",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "NeptuneLynxx ANOTHER",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
