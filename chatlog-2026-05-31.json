@@ -20476,5 +20476,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "Can someone help me",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7939485",
+    "type": "public",
+    "date": "31/05 21:51",
+    "username": "V0X",
+    "userId": "37470",
+    "userClasses": "username user ",
+    "message": "Mr-Shark with what?",
+    "msgClasses": "chat_message "
   }
 ]
