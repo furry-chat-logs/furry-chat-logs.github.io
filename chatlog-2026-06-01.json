@@ -4124,5 +4124,23 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Thx",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940254",
+    "type": "system",
+    "date": "1/06 0:50",
+    "username": "System",
+    "userId": null,
+    "message": "Vanilla808 has been removed from chat"
+  },
+  {
+    "id": "7940255",
+    "type": "public",
+    "date": "1/06 0:50",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "How he look tho?",
+    "msgClasses": "chat_message "
   }
 ]
