@@ -21126,5 +21126,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Yes, thats rigth",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939550",
+    "type": "public",
+    "date": "31/05 22:37",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "True",
+    "msgClasses": "chat_message "
   }
 ]
