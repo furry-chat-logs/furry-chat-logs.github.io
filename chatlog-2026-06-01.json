@@ -25134,5 +25134,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Lyman I saw, but godamn thats one heck of a guitar collection",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7942477",
+    "type": "public",
+    "date": "1/06 12:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SBB sorry sorry you got me there, but I only play bass guitar",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7942478",
+    "type": "public",
+    "date": "1/06 12:54",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "My girlfriend plays guitar",
+    "msgClasses": "chat_message bold"
   }
 ]
