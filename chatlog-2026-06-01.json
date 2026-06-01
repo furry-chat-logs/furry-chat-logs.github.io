@@ -24574,5 +24574,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "im going to go insane",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942420",
+    "type": "public",
+    "date": "1/06 12:47",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB bro",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942421",
+    "type": "public",
+    "date": "1/06 12:47",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "my partner is busy too, life sucks",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
