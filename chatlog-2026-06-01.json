@@ -25584,5 +25584,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Maybe.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7942522",
+    "type": "public",
+    "date": "1/06 13:11",
+    "username": "Squarest Bear",
+    "userId": "36962",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Oki",
+    "msgClasses": "chat_message bneon10 ital bfont3"
   }
 ]
