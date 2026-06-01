@@ -31194,5 +31194,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_96b97f5f08a6.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943096",
+    "type": "public",
+    "date": "1/06 18:55",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hi collie",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
