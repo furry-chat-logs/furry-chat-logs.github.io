@@ -22994,5 +22994,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Good morning",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7942261",
+    "type": "public",
+    "date": "1/06 11:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "NotAWarlock Good night",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
