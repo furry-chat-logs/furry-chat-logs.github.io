@@ -17206,5 +17206,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Car",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7941681",
+    "type": "public",
+    "date": "1/06 10:09",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_bceb0e931c38.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
