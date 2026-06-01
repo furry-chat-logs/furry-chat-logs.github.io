@@ -28044,5 +28044,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Water water water sahur",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7942780",
+    "type": "public",
+    "date": "1/06 15:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2JqN2R2bnYxbm50OGl3cXQ2ZW1kYjY2aGk4czBtZnkzdDZkZjRlZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CvdcOhdi01KGau6jLN/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
