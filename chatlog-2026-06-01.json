@@ -12656,5 +12656,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Only got my iPhone SE",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941224",
+    "type": "public",
+    "date": "1/06 7:24",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_50f91569754b.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941225",
+    "type": "public",
+    "date": "1/06 7:24",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "I am doing ^^",
+    "msgClasses": "chat_message "
   }
 ]
