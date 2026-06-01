@@ -27844,5 +27844,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bruh im ligit in pain",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942760",
+    "type": "public",
+    "date": "1/06 14:54",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Yo listen",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942761",
+    "type": "public",
+    "date": "1/06 14:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Supe",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
