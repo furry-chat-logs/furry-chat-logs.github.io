@@ -8398,5 +8398,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "SBB Wie geht es dir",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940798",
+    "type": "public",
+    "date": "1/06 2:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Cough",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
