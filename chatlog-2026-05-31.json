@@ -23516,5 +23516,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Lol same",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939814",
+    "type": "public",
+    "date": "31/05 23:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It never works well",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939815",
+    "type": "public",
+    "date": "31/05 23:55",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan cehse",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
