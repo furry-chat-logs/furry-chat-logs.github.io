@@ -15356,5 +15356,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Maybe thats his pfp",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941494",
+    "type": "public",
+    "date": "1/06 9:12",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "WHAT is that",
+    "msgClasses": "chat_message bneon19"
   }
 ]
