@@ -8348,5 +8348,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "If you regularly don’t sleep for several nights, your body and brain can be affected quite quickly: you may become unfocused, confused, irritable, and slower to react, and your memory and judgment can worsen. In the longer term, chronic sleep deprivation is linked to higher risks of high blood press",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940793",
+    "type": "public",
+    "date": "1/06 2:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SBB hallo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940794",
+    "type": "public",
+    "date": "1/06 2:49",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Allo",
+    "msgClasses": "chat_message "
   }
 ]
