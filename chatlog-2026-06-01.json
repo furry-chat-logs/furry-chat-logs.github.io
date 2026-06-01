@@ -12746,5 +12746,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB only 14?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941233",
+    "type": "public",
+    "date": "1/06 7:25",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Iphone 14",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941234",
+    "type": "public",
+    "date": "1/06 7:25",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_581b03531fed.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
