@@ -21866,5 +21866,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Aw it's ok Volkner ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939635",
+    "type": "public",
+    "date": "31/05 23:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Idk what this this.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939636",
+    "type": "public",
+    "date": "31/05 23:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Is.>>",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
