@@ -8468,5 +8468,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Hä? Schlaf ist doch gut?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940805",
+    "type": "public",
+    "date": "1/06 2:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Mir geht es jetzt aber auch besser",
+    "msgClasses": "chat_message "
   }
 ]
