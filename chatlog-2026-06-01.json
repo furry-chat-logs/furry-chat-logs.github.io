@@ -16216,5 +16216,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8513_92a0e89f26f8.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941582",
+    "type": "public",
+    "date": "1/06 9:37",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "huh nice",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941583",
+    "type": "public",
+    "date": "1/06 9:37",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_2a0003eb3d12.png]",
+    "msgClasses": "chat_message "
   }
 ]
