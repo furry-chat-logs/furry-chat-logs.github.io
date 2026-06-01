@@ -7078,5 +7078,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "nevermind maybe i am that racist",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940551",
+    "type": "public",
+    "date": "1/06 1:19",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "To cuddle w/",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940552",
+    "type": "public",
+    "date": "1/06 1:19",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sonic The Hedgehog cheers brother",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940553",
+    "type": "public",
+    "date": "1/06 1:19",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "No",
+    "msgClasses": "chat_message "
   }
 ]
