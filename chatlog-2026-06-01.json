@@ -11926,5 +11926,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "SBB i have the 2B",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941151",
+    "type": "public",
+    "date": "1/06 7:06",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I have a 3B",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
