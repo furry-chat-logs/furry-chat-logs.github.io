@@ -20686,5 +20686,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I have one massage lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942030",
+    "type": "public",
+    "date": "1/06 11:13",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Anywyas",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7942031",
+    "type": "public",
+    "date": "1/06 11:13",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I derpo",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942032",
+    "type": "public",
+    "date": "1/06 11:13",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Have you ever eaten some of epsteins pills?  1/06 11:12 ?? What??",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
