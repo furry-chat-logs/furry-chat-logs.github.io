@@ -18096,5 +18096,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Spectre_protogen u cant park there",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7941770",
+    "type": "public",
+    "date": "1/06 10:34",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Spectre_protogen how did they even manage that 0-0",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941771",
+    "type": "public",
+    "date": "1/06 10:34",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "mxgic_mondo hehe",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
