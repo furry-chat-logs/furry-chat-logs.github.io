@@ -2128,5 +2128,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "A month [sob]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940054",
+    "type": "public",
+    "date": "1/06 0:28",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Imma be sophmore already",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940055",
+    "type": "public",
+    "date": "1/06 0:28",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "ive been done with school",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7940056",
+    "type": "public",
+    "date": "1/06 0:28",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": ":<",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940057",
+    "type": "public",
+    "date": "1/06 0:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm already in summer break, but it's honestly lowkey ass",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
