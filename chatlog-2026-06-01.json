@@ -9936,5 +9936,35 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "I hope my twwin wakes up soon",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940952",
+    "type": "public",
+    "date": "1/06 5:32",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "*twin",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940953",
+    "type": "public",
+    "date": "1/06 5:32",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea there's worse",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940954",
+    "type": "public",
+    "date": "1/06 5:33",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It smells like chlorine and bleach right now",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
