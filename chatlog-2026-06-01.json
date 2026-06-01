@@ -758,5 +758,45 @@
     "userClasses": "username bneon14 bnfont6",
     "message": "why are we talking about sexual topics at all",
     "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7939917",
+    "type": "public",
+    "date": "1/06 0:12",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Sonic The Hedgehog who's complaining",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939918",
+    "type": "public",
+    "date": "1/06 0:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Euh.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939919",
+    "type": "public",
+    "date": "1/06 0:12",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Don't go on it if you're a softy",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939920",
+    "type": "public",
+    "date": "1/06 0:12",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "WHAT",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
