@@ -8108,5 +8108,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Good morning",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940769",
+    "type": "public",
+    "date": "1/06 2:40",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Everyone is sleeping i guess",
+    "msgClasses": "chat_message "
   }
 ]
