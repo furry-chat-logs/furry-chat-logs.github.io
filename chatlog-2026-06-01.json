@@ -5478,5 +5478,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "AH HELL NAH",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940390",
+    "type": "public",
+    "date": "1/06 1:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "My greatest desires is John F Kennedy",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940391",
+    "type": "public",
+    "date": "1/06 1:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
