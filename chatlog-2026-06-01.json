@@ -25524,5 +25524,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Squarest Bear Ello!",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7942516",
+    "type": "public",
+    "date": "1/06 13:10",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Almost done with setting up my pc",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7942517",
+    "type": "public",
+    "date": "1/06 13:10",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Squarest Bear hey",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
