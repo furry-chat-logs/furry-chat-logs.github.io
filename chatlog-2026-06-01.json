@@ -18546,5 +18546,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_59333e8e4b3c.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941816",
+    "type": "public",
+    "date": "1/06 10:41",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "SoraTheMikuFan don't.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941817",
+    "type": "public",
+    "date": "1/06 10:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Umm",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941818",
+    "type": "public",
+    "date": "1/06 10:41",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "It's a bad thing",
+    "msgClasses": "chat_message "
   }
 ]
