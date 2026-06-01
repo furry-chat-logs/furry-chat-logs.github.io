@@ -8578,5 +8578,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "I gotta go",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940816",
+    "type": "public",
+    "date": "1/06 3:03",
+    "username": "NexusEmily",
+    "userId": "31615",
+    "userClasses": "username bgrad11 bnfont14",
+    "message": "Meow",
+    "msgClasses": "chat_message bgrad38  bfont14"
   }
 ]
