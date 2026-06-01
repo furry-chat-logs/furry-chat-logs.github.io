@@ -14036,5 +14036,65 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_3b0e458cc508.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941362",
+    "type": "public",
+    "date": "1/06 7:48",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Does anybody need horns? I bought them for no reason",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941363",
+    "type": "public",
+    "date": "1/06 7:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_2daf6104052f.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941364",
+    "type": "public",
+    "date": "1/06 7:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Fox",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941365",
+    "type": "public",
+    "date": "1/06 7:49",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Fox",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941366",
+    "type": "public",
+    "date": "1/06 7:49",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33275_84b3527420b2.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941367",
+    "type": "public",
+    "date": "1/06 7:49",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "Dog",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
