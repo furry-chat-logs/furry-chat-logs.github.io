@@ -19496,5 +19496,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "i",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7939387",
+    "type": "public",
+    "date": "31/05 20:07",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_7a4a80eb1767.png]",
+    "msgClasses": "chat_message "
   }
 ]
