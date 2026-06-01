@@ -5978,5 +5978,45 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Theterminator Gamoverse pilot probably turned a lot of dueds into furries",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940440",
+    "type": "public",
+    "date": "1/06 1:10",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Wowie",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940441",
+    "type": "public",
+    "date": "1/06 1:10",
+    "username": "LOAT",
+    "userId": "37477",
+    "userClasses": "username user ",
+    "message": "Oop",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940442",
+    "type": "public",
+    "date": "1/06 1:10",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Maybe",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940443",
+    "type": "public",
+    "date": "1/06 1:10",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaGNjY24xMWliZHNuOWV3NXJicWRxOXg5emJ1NW5nbzBud28xbWdmNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LqB1o8ciaOl6zmSCfv/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
