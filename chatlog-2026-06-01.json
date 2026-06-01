@@ -9866,5 +9866,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Tuff",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940945",
+    "type": "public",
+    "date": "1/06 5:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Ashton the hellhound thats fine friend",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
