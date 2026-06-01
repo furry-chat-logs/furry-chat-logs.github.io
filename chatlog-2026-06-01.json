@@ -12166,5 +12166,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I got day",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941175",
+    "type": "public",
+    "date": "1/06 7:12",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Your not in Germany where's the rain",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
