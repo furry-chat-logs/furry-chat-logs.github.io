@@ -25154,5 +25154,15 @@
     "userClasses": "username bcolor27 ",
     "message": "My girlfriend plays guitar",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7942479",
+    "type": "public",
+    "date": "1/06 12:54",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I really wanna learn acoustic",
+    "msgClasses": "chat_message bold"
   }
 ]
