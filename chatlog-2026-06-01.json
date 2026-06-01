@@ -4142,5 +4142,41 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "How he look tho?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940256",
+    "type": "system",
+    "date": "1/06 0:50",
+    "username": "System",
+    "userId": null,
+    "message": "Cinnamonroll has been removed from chat"
+  },
+  {
+    "id": "7940257",
+    "type": "public",
+    "date": "1/06 0:50",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Maxwellg good",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7940258",
+    "type": "public",
+    "date": "1/06 0:50",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I put my effort into it",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940259",
+    "type": "system",
+    "date": "1/06 0:50",
+    "username": "System",
+    "userId": null,
+    "message": "Vanilla has been removed from chat"
   }
 ]
