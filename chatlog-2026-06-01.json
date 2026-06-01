@@ -23694,5 +23694,25 @@
     "userClasses": "username bneon4 ",
     "message": "I js have a Bobcat",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942332",
+    "type": "public",
+    "date": "1/06 12:28",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": ":3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942333",
+    "type": "public",
+    "date": "1/06 12:28",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Maxwellg same",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
