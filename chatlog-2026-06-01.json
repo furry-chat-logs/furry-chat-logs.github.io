@@ -22774,5 +22774,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "How is it called",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942239",
+    "type": "public",
+    "date": "1/06 11:50",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Numm Bug *hugs* <3",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
