@@ -22306,5 +22306,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ima call him peogeot",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942192",
+    "type": "public",
+    "date": "1/06 11:39",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Imma head out",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942193",
+    "type": "public",
+    "date": "1/06 11:39",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Evolution of pidgey?",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
