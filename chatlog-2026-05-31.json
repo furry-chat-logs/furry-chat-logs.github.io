@@ -22516,5 +22516,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Questionable past [skull]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939714",
+    "type": "public",
+    "date": "31/05 23:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'd rather not dig too deep",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939715",
+    "type": "public",
+    "date": "31/05 23:36",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Thundercloudgaming03 wsg",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
