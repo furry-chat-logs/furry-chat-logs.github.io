@@ -24424,5 +24424,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "When you're the only adult in your class",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942405",
+    "type": "public",
+    "date": "1/06 12:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Oh hell nah thats like youre the main character",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942406",
+    "type": "public",
+    "date": "1/06 12:44",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Did thay try",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
