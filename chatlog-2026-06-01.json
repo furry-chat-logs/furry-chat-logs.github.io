@@ -338,5 +338,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I can't have a \"third\" leg like u say :/",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939875",
+    "type": "public",
+    "date": "1/06 0:05",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Tell that to R34",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939876",
+    "type": "public",
+    "date": "1/06 0:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sonic The Hedgehog wdymmm",
+    "msgClasses": "chat_message bneon14"
   }
 ]
