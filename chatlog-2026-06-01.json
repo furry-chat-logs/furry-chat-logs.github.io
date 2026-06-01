@@ -16006,5 +16006,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "how're you?",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7941561",
+    "type": "public",
+    "date": "1/06 9:34",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "pretty good as ever",
+    "msgClasses": "chat_message "
   }
 ]
