@@ -8906,5 +8906,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Was coding",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940849",
+    "type": "public",
+    "date": "1/06 4:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Music",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940850",
+    "type": "public",
+    "date": "1/06 4:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "My notes were off",
+    "msgClasses": "chat_message bneon14"
   }
 ]
