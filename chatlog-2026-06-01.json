@@ -3516,5 +3516,15 @@
     "userClasses": "username bcolor12 bnfont6",
     "message": "I'm sleepy",
     "msgClasses": "chat_message bcolor12 heavyital bfont13"
+  },
+  {
+    "id": "7940193",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I like deltarune",
+    "msgClasses": "chat_message "
   }
 ]
