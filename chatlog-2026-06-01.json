@@ -9696,5 +9696,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hey I'm friends with paimon",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940928",
+    "type": "public",
+    "date": "1/06 5:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Since May",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940929",
+    "type": "public",
+    "date": "1/06 5:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SoraTheMikuFan hm?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
