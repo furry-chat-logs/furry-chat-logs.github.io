@@ -6468,5 +6468,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "can someone explurn?",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7940489",
+    "type": "public",
+    "date": "1/06 1:14",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Legoshi",
+    "msgClasses": "chat_message "
   }
 ]
