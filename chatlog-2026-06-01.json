@@ -28934,5 +28934,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Crazy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942869",
+    "type": "public",
+    "date": "1/06 16:18",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Boo",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7942870",
+    "type": "public",
+    "date": "1/06 16:19",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Boo",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
