@@ -19446,5 +19446,35 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Spectreeee",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7941906",
+    "type": "public",
+    "date": "1/06 10:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Das heisst spass",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941907",
+    "type": "public",
+    "date": "1/06 10:54",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Peanut started to follow me on tiktok",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7941908",
+    "type": "public",
+    "date": "1/06 10:54",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "That's great",
+    "msgClasses": "chat_message bneon9"
   }
 ]
