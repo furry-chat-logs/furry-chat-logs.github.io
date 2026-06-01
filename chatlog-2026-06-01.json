@@ -28904,5 +28904,15 @@
     "userClasses": "username bneon4 ",
     "message": "Hi.",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942866",
+    "type": "public",
+    "date": "1/06 16:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_7ca45afd284a.png]",
+    "msgClasses": "chat_message "
   }
 ]
