@@ -4428,5 +4428,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I'm scared",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940285",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Idk how to spellz",
+    "msgClasses": "chat_message "
   }
 ]
