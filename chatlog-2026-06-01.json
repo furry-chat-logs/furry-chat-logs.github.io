@@ -31284,5 +31284,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZm5zMng0YWgwM3M4dHFxN3I5dGhxMnN4cGI3Njd6OGY1dDdxcWMzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uXCXzFd7NhrCcDgpdw/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7943105",
+    "type": "public",
+    "date": "1/06 18:59",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Hey again",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
