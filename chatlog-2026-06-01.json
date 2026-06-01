@@ -24004,5 +24004,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": ":<",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942363",
+    "type": "public",
+    "date": "1/06 12:35",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "my school is flooding",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942364",
+    "type": "public",
+    "date": "1/06 12:35",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "👍",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
