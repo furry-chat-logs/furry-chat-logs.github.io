@@ -16016,5 +16016,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "pretty good as ever",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941562",
+    "type": "public",
+    "date": "1/06 9:34",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "that's nice",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
