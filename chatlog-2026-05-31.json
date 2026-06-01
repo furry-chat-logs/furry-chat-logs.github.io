@@ -20956,5 +20956,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "True Volkner  hehe ^//w//^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939533",
+    "type": "public",
+    "date": "31/05 22:32",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "WHY ARE YOU BLUSHED?!",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
