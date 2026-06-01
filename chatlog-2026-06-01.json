@@ -5838,5 +5838,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Until they decided that my problem-resolution of insults wasn't awesome when they caused problems.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940426",
+    "type": "public",
+    "date": "1/06 1:09",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I like it x3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940427",
+    "type": "public",
+    "date": "1/06 1:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm one of the most nicest people here",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
