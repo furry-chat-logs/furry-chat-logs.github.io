@@ -24604,5 +24604,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "NeptuneLynxx build a pc",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7942423",
+    "type": "public",
+    "date": "1/06 12:47",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "NeptuneLynxx I have ssome",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942424",
+    "type": "public",
+    "date": "1/06 12:47",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I already have built 2!",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
