@@ -27174,5 +27174,45 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I need a fan so badly",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942690",
+    "type": "public",
+    "date": "1/06 14:15",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "I own two fans and that isn't enough",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7942691",
+    "type": "public",
+    "date": "1/06 14:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_d8105d6fde55.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942692",
+    "type": "public",
+    "date": "1/06 14:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "This thingy",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942693",
+    "type": "public",
+    "date": "1/06 14:15",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_bc0bfab9ab61.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
