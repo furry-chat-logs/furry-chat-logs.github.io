@@ -5358,5 +5358,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I wouldn't",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940378",
+    "type": "public",
+    "date": "1/06 1:03",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Well we get yearbooks tmr in 1st period ;3",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940379",
+    "type": "public",
+    "date": "1/06 1:03",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": ":3*",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
