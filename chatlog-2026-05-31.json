@@ -19536,5 +19536,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Return*",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7939391",
+    "type": "public",
+    "date": "31/05 20:08",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Returns",
+    "msgClasses": "chat_message bneon19"
   }
 ]
