@@ -30244,5 +30244,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Sonic The Hedgehog yeah",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7943000",
+    "type": "public",
+    "date": "1/06 18:14",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ3UxMnFnNWdpdGpwZGZyeWl4bnIyOXB4aHc0NTdlNWhtcmxoZzMwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tdCrHSdhN0o5atoRRc/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
