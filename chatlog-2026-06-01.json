@@ -26454,5 +26454,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "XD SBB lemme ride u sometime",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942610",
+    "type": "public",
+    "date": "1/06 13:54",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bye👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942611",
+    "type": "public",
+    "date": "1/06 13:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_166a1b8ea6c8.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
