@@ -3096,5 +3096,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "WTF",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940151",
+    "type": "public",
+    "date": "1/06 0:38",
+    "username": "Kami",
+    "userId": "11760",
+    "userClasses": "username bgrad10 bnfont6",
+    "message": "Hiya peeps",
+    "msgClasses": "chat_message bneon2 heavyital bfont10"
   }
 ]
