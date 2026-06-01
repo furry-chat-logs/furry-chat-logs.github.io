@@ -20136,5 +20136,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Gives it a kick",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941975",
+    "type": "public",
+    "date": "1/06 11:05",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Maxwellg bro I like the way u think",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
