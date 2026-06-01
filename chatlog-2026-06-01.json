@@ -7948,5 +7948,15 @@
     "userClasses": "username user ",
     "message": "You may crash and burn but that's always a risk in anything",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940753",
+    "type": "public",
+    "date": "1/06 2:18",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I will bleed with the best",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
