@@ -4378,5 +4378,35 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Nice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940280",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Frogmin can I come",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7940281",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "What is Nova Scotia",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940282",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Peak cinima",
+    "msgClasses": "chat_message "
   }
 ]
