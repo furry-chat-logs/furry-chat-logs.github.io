@@ -24504,5 +24504,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "😂",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942413",
+    "type": "public",
+    "date": "1/06 12:46",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "The drop off went well",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
