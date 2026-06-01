@@ -1438,5 +1438,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Miss Kit gn",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939985",
+    "type": "public",
+    "date": "1/06 0:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Miss Kit lol gnn",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939986",
+    "type": "public",
+    "date": "1/06 0:17",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Our sweet little Filipino boy furry",
+    "msgClasses": "chat_message bneon19"
   }
 ]
