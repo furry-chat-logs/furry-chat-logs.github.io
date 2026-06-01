@@ -12276,5 +12276,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB it's bigger than me",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941186",
+    "type": "public",
+    "date": "1/06 7:15",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user34858_354f5546483c.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
