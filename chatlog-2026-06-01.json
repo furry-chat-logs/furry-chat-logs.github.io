@@ -12486,5 +12486,25 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user34858_b7d17d17d80c.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941207",
+    "type": "public",
+    "date": "1/06 7:19",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Scary collection",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941208",
+    "type": "public",
+    "date": "1/06 7:19",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Huh?",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
