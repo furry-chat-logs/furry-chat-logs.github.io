@@ -25614,5 +25614,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Squarest Bear Im doing pretty good. I just gave my friend a kitty because he lost his other cat due to an unfortunate event",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7942525",
+    "type": "public",
+    "date": "1/06 13:13",
+    "username": "Squarest Bear",
+    "userId": "36962",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Awe, well I'm glad your doing good",
+    "msgClasses": "chat_message bneon10 ital bfont3"
   }
 ]
