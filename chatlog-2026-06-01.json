@@ -15126,5 +15126,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941471",
+    "type": "public",
+    "date": "1/06 9:08",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "So there's a joke going around",
+    "msgClasses": "chat_message bneon19"
   }
 ]
