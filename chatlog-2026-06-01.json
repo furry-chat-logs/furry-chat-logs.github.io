@@ -30004,5 +30004,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Miss Kit Does that include me?",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7942976",
+    "type": "public",
+    "date": "1/06 18:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_77a6374c4633.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942977",
+    "type": "public",
+    "date": "1/06 18:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXIyYjJuams2YjFnZXlxeHBzOGt4dW1mYnJ3dzQ5dmI1Z25xcWg3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vr9CseLC85kdjC56lR/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
