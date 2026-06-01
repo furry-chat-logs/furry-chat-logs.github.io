@@ -15956,5 +15956,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_e622f690c777.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941556",
+    "type": "public",
+    "date": "1/06 9:32",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "French fish",
+    "msgClasses": "chat_message bneon14"
   }
 ]
