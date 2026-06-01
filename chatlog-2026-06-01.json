@@ -11836,5 +11836,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "FAT",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941142",
+    "type": "public",
+    "date": "1/06 7:04",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "SoraTheMikuFan hi",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
