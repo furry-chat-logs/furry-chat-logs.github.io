@@ -2488,5 +2488,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "I wore collar last day of school freshman year",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940090",
+    "type": "public",
+    "date": "1/06 0:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sonic The Hedgehog WHAT",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940091",
+    "type": "public",
+    "date": "1/06 0:32",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "It was fun",
+    "msgClasses": "chat_message "
   }
 ]
