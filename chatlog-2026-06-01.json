@@ -8178,5 +8178,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "🥀🥀",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940776",
+    "type": "public",
+    "date": "1/06 2:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "You can't survive 5 Nights without closing an eye",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940777",
+    "type": "public",
+    "date": "1/06 2:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Trust me",
+    "msgClasses": "chat_message "
   }
 ]
