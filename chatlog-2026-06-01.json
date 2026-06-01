@@ -8438,5 +8438,15 @@
     "userClasses": "username user ",
     "message": "I'd probably kms if I couldn't sleep it's when I'm the most calm",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940802",
+    "type": "public",
+    "date": "1/06 2:52",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SBB Tja, das passiert eben, wenn man 12 Stunden schläft.",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
