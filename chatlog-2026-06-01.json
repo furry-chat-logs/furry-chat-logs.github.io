@@ -25364,5 +25364,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "If it loads",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942500",
+    "type": "public",
+    "date": "1/06 12:58",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_aff08e674cd6.png]",
+    "msgClasses": "chat_message "
   }
 ]
