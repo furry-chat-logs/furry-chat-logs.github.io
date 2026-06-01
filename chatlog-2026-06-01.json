@@ -12396,5 +12396,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB the fat part . You shure?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941198",
+    "type": "public",
+    "date": "1/06 7:17",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Look at that 1 kilo tractor",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
