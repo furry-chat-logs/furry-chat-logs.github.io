@@ -3896,5 +3896,55 @@
     "userClasses": "username bcolor12 bnfont6",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ",
     "msgClasses": "chat_message bcolor12 heavyital bfont13"
+  },
+  {
+    "id": "7940231",
+    "type": "public",
+    "date": "1/06 0:46",
+    "username": "Bluetooth",
+    "userId": "34073",
+    "userClasses": "username bcolor12 bnfont6",
+    "message": "Ur ai",
+    "msgClasses": "chat_message bcolor12 heavyital bfont13"
+  },
+  {
+    "id": "7940232",
+    "type": "public",
+    "date": "1/06 0:46",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Sadly, yis",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940233",
+    "type": "public",
+    "date": "1/06 0:46",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Bluetooth",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7940234",
+    "type": "public",
+    "date": "1/06 0:46",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "ZephTheFloofBoi yessir",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940235",
+    "type": "public",
+    "date": "1/06 0:47",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "For now",
+    "msgClasses": "chat_message "
   }
 ]
