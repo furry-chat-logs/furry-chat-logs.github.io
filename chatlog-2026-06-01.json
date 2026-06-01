@@ -23334,5 +23334,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Mdekoni nein das is nicht kartoffel flavoured",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7942296",
+    "type": "public",
+    "date": "1/06 12:22",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "English only chat btw",
+    "msgClasses": "chat_message bneon19"
   }
 ]
