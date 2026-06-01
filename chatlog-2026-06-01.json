@@ -8846,5 +8846,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "VPN?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940843",
+    "type": "public",
+    "date": "1/06 4:17",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes",
+    "msgClasses": "chat_message "
   }
 ]
