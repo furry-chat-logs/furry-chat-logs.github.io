@@ -1988,5 +1988,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "YAyyy",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940040",
+    "type": "public",
+    "date": "1/06 0:26",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "But need to color first",
+    "msgClasses": "chat_message "
   }
 ]
