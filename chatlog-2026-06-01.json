@@ -23394,5 +23394,15 @@
     "userClasses": "username bneon4 ",
     "message": "SBB it's part of the rukes",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942302",
+    "type": "public",
+    "date": "1/06 12:23",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmamVzaGU4c21jM2lndmZpcGxrY2dyMGhvbXF4emo5cGx3Z3JiZDZrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x4kwwbqmmi6jnDC60a/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
