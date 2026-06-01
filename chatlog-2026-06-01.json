@@ -1828,5 +1828,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Next topic",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940024",
+    "type": "public",
+    "date": "1/06 0:23",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc3JpMzBtd3ZrdWdoaHA0MHc2Mjd2eHg3cTF5eWxob3A4cThjbzQwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wJ974znMKq830AlgZ4/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
