@@ -10686,5 +10686,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I like volkswagen",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941027",
+    "type": "public",
+    "date": "1/06 6:15",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "even tho I did not do sports class,my knee hurts so bad",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
