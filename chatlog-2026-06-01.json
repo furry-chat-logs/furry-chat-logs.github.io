@@ -25094,5 +25094,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "SBB not that kind a bass, bass guitar",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7942473",
+    "type": "public",
+    "date": "1/06 12:53",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "No its bass",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
