@@ -9656,5 +9656,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I'm waiting for Paimon to be onlineee",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940924",
+    "type": "public",
+    "date": "1/06 5:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940925",
+    "type": "public",
+    "date": "1/06 5:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "So call me mbbb",
+    "msgClasses": "chat_message bneon14"
   }
 ]
