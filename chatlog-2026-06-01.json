@@ -498,5 +498,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmN3J1aG53dHdhamFtaWxrcGo2cmdwNGF1Y2V3aG9vbGdjZzRoaWExcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/89sDyLi1W0zx2ffoL0/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939891",
+    "type": "public",
+    "date": "1/06 0:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Huh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
