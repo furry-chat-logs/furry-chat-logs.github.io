@@ -19506,5 +19506,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_7a4a80eb1767.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939388",
+    "type": "public",
+    "date": "31/05 20:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
