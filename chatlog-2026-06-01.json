@@ -23204,5 +23204,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Bruder gehts dir gut Mdekoni ?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942283",
+    "type": "public",
+    "date": "1/06 12:11",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcTV4Z3V1NWJkOHZwN2xwY3drcGR6dWluZnRqdWVzbGhqbXNweWg0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TDvbZol9EHiZ91R3iu/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
