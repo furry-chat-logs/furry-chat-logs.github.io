@@ -14406,5 +14406,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yep how do u know that?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941399",
+    "type": "public",
+    "date": "1/06 7:59",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_35eec77ee7e9.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941400",
+    "type": "public",
+    "date": "1/06 7:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_9a194e4ba6c1.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
