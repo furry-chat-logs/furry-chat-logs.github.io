@@ -16876,5 +16876,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "sup leeland",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941648",
+    "type": "public",
+    "date": "1/06 9:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I thought u were reffering to chat",
+    "msgClasses": "chat_message bneon14"
   }
 ]
