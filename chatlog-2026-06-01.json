@@ -3946,5 +3946,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "For now",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940236",
+    "type": "public",
+    "date": "1/06 0:47",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I love my partner",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940237",
+    "type": "public",
+    "date": "1/06 0:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I don't have one",
+    "msgClasses": "chat_message bneon14"
   }
 ]
