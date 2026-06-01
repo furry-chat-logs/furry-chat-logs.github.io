@@ -18576,5 +18576,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "It's a bad thing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941819",
+    "type": "public",
+    "date": "1/06 10:41",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Banana",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
