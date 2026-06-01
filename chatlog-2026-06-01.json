@@ -108,5 +108,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "•⩊•",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939852",
+    "type": "public",
+    "date": "1/06 0:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan chinis",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939853",
+    "type": "public",
+    "date": "1/06 0:03",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Looks like a person with a third leg",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939854",
+    "type": "public",
+    "date": "1/06 0:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bruh-",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939855",
+    "type": "public",
+    "date": "1/06 0:03",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Sonic The Hedgehog ...",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
