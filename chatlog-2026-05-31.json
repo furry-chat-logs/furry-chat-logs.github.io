@@ -21976,5 +21976,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939650",
+    "type": "public",
+    "date": "31/05 23:23",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_36ea1a47c3cc.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939651",
+    "type": "public",
+    "date": "31/05 23:23",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[100] [amazing] [angel] [angry] [anxious] [bad] [bigsmile] [blink] [car] [clown] [cool] [crisped] [cry]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
