@@ -20436,5 +20436,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "SoraTheMikuFan :3",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7942005",
+    "type": "public",
+    "date": "1/06 11:10",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "owo",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7942006",
+    "type": "public",
+    "date": "1/06 11:10",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You should know about ********r 1/06 18:10 sadly yah but that's not meep you merp",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
