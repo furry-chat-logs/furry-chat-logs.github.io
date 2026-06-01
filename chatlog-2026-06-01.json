@@ -20796,5 +20796,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[secret-share: eK06KWz2mRcE3ar6tmYI5ZpSX&n=47531]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942041",
+    "type": "public",
+    "date": "1/06 11:14",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "It cool trust",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942042",
+    "type": "public",
+    "date": "1/06 11:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "The what.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
