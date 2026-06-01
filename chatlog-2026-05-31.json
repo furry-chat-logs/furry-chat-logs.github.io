@@ -23116,5 +23116,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Doesn't affect me",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939774",
+    "type": "public",
+    "date": "31/05 23:46",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Ashton the hellhound relatable",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7939775",
+    "type": "public",
+    "date": "31/05 23:46",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Sin is sin, even though it shouldn't be taken lightly, it's just sin",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
