@@ -18396,5 +18396,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "SoraTheMikuFan stay innocent.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941801",
+    "type": "public",
+    "date": "1/06 10:39",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "OH. I only just cought on to what you meant",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
