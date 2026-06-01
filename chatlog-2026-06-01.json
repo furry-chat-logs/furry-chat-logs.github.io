@@ -18046,5 +18046,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ch3rry_Drop Aieee",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941765",
+    "type": "public",
+    "date": "1/06 10:33",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Hii",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
