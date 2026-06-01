@@ -2178,5 +2178,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Same",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940059",
+    "type": "public",
+    "date": "1/06 0:28",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "gonna have to redo this year probably, but guess who might be  getting a job..",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7940060",
+    "type": "public",
+    "date": "1/06 0:28",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Ima lowk js stay on vrc all summer ngl",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
