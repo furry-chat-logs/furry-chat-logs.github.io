@@ -22316,5 +22316,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Just as it should be with us wolves, brother!Ashton the hellhound",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939694",
+    "type": "public",
+    "date": "31/05 23:33",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc29lanhraXhqNnJscDd6aWdiN3owcHVldWpjZngxZjZmNm9mMHdwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZgtRYTwqIXXNRzQrUR/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
