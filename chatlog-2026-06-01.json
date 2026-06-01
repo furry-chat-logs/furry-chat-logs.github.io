@@ -8478,5 +8478,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Mir geht es jetzt aber auch besser",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940806",
+    "type": "public",
+    "date": "1/06 2:55",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SBB Nicht, wenn Sie normalerweise weniger schlafen",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
