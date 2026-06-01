@@ -1638,5 +1638,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Did u do that",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940005",
+    "type": "public",
+    "date": "1/06 0:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I hope that was when u were 4",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940006",
+    "type": "public",
+    "date": "1/06 0:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[hono]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
