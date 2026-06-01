@@ -5408,5 +5408,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I dropped out of school when I was 15; and got in trouble for tax evasion for the first time when I was 16.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940383",
+    "type": "public",
+    "date": "1/06 1:04",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "wow",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
