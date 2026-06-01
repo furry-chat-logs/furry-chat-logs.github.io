@@ -23414,5 +23414,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I like the rukes",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942304",
+    "type": "public",
+    "date": "1/06 12:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Miss Kit sorry, I wont do it again, I am not even german",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
