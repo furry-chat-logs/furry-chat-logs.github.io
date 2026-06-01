@@ -5948,5 +5948,25 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "How are there so many new people?!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940437",
+    "type": "public",
+    "date": "1/06 1:10",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Idk",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940438",
+    "type": "public",
+    "date": "1/06 1:10",
+    "username": "Theterminator",
+    "userId": "31271",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Ive only been gone for like a month",
+    "msgClasses": "chat_message "
   }
 ]
