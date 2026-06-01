@@ -3028,5 +3028,33 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Maxwellg ....i weigh less than you and am a bit taller...im 145 and 5'9 [skull]",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940144",
+    "type": "public",
+    "date": "1/06 0:38",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Hai!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940145",
+    "type": "system",
+    "date": "1/06 0:38",
+    "username": "System",
+    "userId": null,
+    "message": "Vanilla808 has been muted"
+  },
+  {
+    "id": "7940146",
+    "type": "public",
+    "date": "1/06 0:38",
+    "username": "Vanilla808",
+    "userId": "37475",
+    "userClasses": "username user ",
+    "message": "This post has been marked as spam",
+    "msgClasses": "chat_message "
   }
 ]
