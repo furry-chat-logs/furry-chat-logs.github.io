@@ -30184,5 +30184,15 @@
     "userClasses": "username bneon4 ",
     "message": "Sonic The Hedgehog I ACTUALLY HAD A FRIEND WHO DID THAT",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942994",
+    "type": "public",
+    "date": "1/06 18:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOW91ZHlma2VmYWF2dWw2cGQwZ2dwd3plZ2s0d3ZteWI4NzJybzNuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/En7SC5h3Ql4v1f29TX/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
