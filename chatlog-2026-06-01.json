@@ -21566,5 +21566,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( Wanna kiss? 1/06 9:22 ) Haha no.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942118",
+    "type": "public",
+    "date": "1/06 11:23",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB idk what to do so I'm planning along",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
