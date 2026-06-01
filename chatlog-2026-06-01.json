@@ -17186,5 +17186,25 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user13262_e3f35ee7e530.webp]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941679",
+    "type": "public",
+    "date": "1/06 10:09",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Shurt on buget",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941680",
+    "type": "public",
+    "date": "1/06 10:09",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Car",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
