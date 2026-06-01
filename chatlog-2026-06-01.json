@@ -8138,5 +8138,15 @@
     "userClasses": "username bneon14 bnfont10",
     "message": "i havent been asleep yet 0-0",
     "msgClasses": "chat_message bneon14 heavyital bfont10"
+  },
+  {
+    "id": "7940772",
+    "type": "public",
+    "date": "1/06 2:41",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "same",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
