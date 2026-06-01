@@ -31154,5 +31154,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "💔",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943092",
+    "type": "public",
+    "date": "1/06 18:53",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Something i dont know either",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
