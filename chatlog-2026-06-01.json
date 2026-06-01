@@ -1958,5 +1958,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[troll]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940037",
+    "type": "public",
+    "date": "1/06 0:25",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I CAN make it home made drawing",
+    "msgClasses": "chat_message "
   }
 ]
