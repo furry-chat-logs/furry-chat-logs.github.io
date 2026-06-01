@@ -12376,5 +12376,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im fat and sniffy yeah",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941196",
+    "type": "public",
+    "date": "1/06 7:17",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_8a52f49a6ec9.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941197",
+    "type": "public",
+    "date": "1/06 7:17",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB the fat part . You shure?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
