@@ -12136,5 +12136,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Sadly my mom took away my laptop for today but tomorrow i can send how mine looks line",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941172",
+    "type": "public",
+    "date": "1/06 7:11",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "From me it's not night time, it was of last night this photo",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941173",
+    "type": "public",
+    "date": "1/06 7:11",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_c0817c6a18fc.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941174",
+    "type": "public",
+    "date": "1/06 7:11",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I got day",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
