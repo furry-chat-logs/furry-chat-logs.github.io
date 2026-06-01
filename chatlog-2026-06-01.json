@@ -26754,5 +26754,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Bye :(",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942642",
+    "type": "public",
+    "date": "1/06 13:58",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "Maxwellg bye",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
