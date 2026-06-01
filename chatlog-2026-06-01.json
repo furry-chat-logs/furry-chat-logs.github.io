@@ -6308,5 +6308,55 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Lowkey i had crush 4 tails",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940473",
+    "type": "public",
+    "date": "1/06 1:13",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Tam needs to come back on so she can unblock me",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940474",
+    "type": "public",
+    "date": "1/06 1:13",
+    "username": "ᴮᵘⁿⁿʸッ٭",
+    "userId": "34420",
+    "userClasses": "username bneon14 bnfont10",
+    "message": "LOAT mwah:£",
+    "msgClasses": "chat_message bneon14 heavyital bfont10"
+  },
+  {
+    "id": "7940475",
+    "type": "public",
+    "date": "1/06 1:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "WHAT",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940476",
+    "type": "public",
+    "date": "1/06 1:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "WHAT",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940477",
+    "type": "public",
+    "date": "1/06 1:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "For WHAT",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
