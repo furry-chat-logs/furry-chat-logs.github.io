@@ -29954,5 +29954,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im just saying what i think ˋˋdudèˋ",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942971",
+    "type": "public",
+    "date": "1/06 18:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "How you think is extremely fucked up 😭",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7942972",
+    "type": "public",
+    "date": "1/06 18:10",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNWg2ejY0aDJjOWtuZ2hyZnRkMjBwcXM4a3o2d2h0ZjJlMDJnZGI1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CEyKnXJ02b0qI/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
