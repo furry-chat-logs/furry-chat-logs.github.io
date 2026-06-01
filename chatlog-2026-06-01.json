@@ -18866,5 +18866,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Eyo",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941848",
+    "type": "public",
+    "date": "1/06 10:44",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "I am not gonna do it. I am playing game's why would I?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941849",
+    "type": "public",
+    "date": "1/06 10:44",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Boll",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
