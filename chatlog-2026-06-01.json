@@ -21686,5 +21686,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Should aiko show her outfit to the people",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7942130",
+    "type": "public",
+    "date": "1/06 11:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Yes",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7942131",
+    "type": "public",
+    "date": "1/06 11:25",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[secret-share: v5dma8JGQZYnEgDOh0ywqz1VX&n=47528]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
