@@ -8836,5 +8836,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": ":(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940842",
+    "type": "public",
+    "date": "1/06 4:16",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "VPN?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
