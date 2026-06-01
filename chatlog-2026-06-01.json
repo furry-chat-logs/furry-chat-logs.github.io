@@ -10656,5 +10656,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "but I cannot do sports class...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7941024",
+    "type": "public",
+    "date": "1/06 5:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "oh... poor Sol",
+    "msgClasses": "chat_message bneon14"
   }
 ]
