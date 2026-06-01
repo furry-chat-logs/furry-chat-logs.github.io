@@ -22346,5 +22346,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "I got stuffs to do",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942196",
+    "type": "public",
+    "date": "1/06 11:39",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_f5e5b4a78bde.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942197",
+    "type": "public",
+    "date": "1/06 11:39",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Bye !!Maxwellg",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
