@@ -13856,5 +13856,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB my lens is broken and works better",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941344",
+    "type": "public",
+    "date": "1/06 7:45",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Sorry i gotta learn to type on a newer iphone keyboar",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
