@@ -3346,5 +3346,25 @@
     "userClasses": "username bcolor12 bnfont6",
     "message": "Sonic The Hedgehog ew no",
     "msgClasses": "chat_message bcolor12 heavyital bfont13"
+  },
+  {
+    "id": "7940176",
+    "type": "public",
+    "date": "1/06 0:41",
+    "username": "Bluetooth",
+    "userId": "34073",
+    "userClasses": "username bcolor12 bnfont6",
+    "message": "Mommy asmr is there",
+    "msgClasses": "chat_message bcolor12 heavyital bfont13"
+  },
+  {
+    "id": "7940177",
+    "type": "public",
+    "date": "1/06 0:41",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Maxwellg i like creamy better",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
