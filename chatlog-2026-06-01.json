@@ -10226,5 +10226,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Fresh air",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940981",
+    "type": "public",
+    "date": "1/06 5:42",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It's the stuff that's in bleach",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
