@@ -17436,5 +17436,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Mdekoni SBB it's a song abt Halloween",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941704",
+    "type": "public",
+    "date": "1/06 10:12",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "everyone, I have something to say I'm Gay ,",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7941705",
+    "type": "public",
+    "date": "1/06 10:12",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Called teto the 31st",
+    "msgClasses": "chat_message bneon14"
   }
 ]
