@@ -2378,5 +2378,55 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Porphyrophobia talking about some \"back in my day\"",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940079",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Maxwellg WHAT",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940080",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "imma have to work first three weeks of the summer break",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940081",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bruh I'm in summer break in 19 daysss",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940082",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Xd",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940083",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's farrr",
+    "msgClasses": "chat_message bneon14"
   }
 ]
