@@ -11426,5 +11426,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "yum!",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941101",
+    "type": "public",
+    "date": "1/06 6:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My favorite frute",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941102",
+    "type": "public",
+    "date": "1/06 6:58",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_06d6c02a63f1.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
