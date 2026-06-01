@@ -5688,5 +5688,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[troll]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940411",
+    "type": "public",
+    "date": "1/06 1:08",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "lol",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940412",
+    "type": "public",
+    "date": "1/06 1:08",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I just joined today",
+    "msgClasses": "chat_message "
   }
 ]
