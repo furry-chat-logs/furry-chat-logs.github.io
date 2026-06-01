@@ -13796,5 +13796,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_52af08dcc385.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941338",
+    "type": "public",
+    "date": "1/06 7:44",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "*Sniff sniff *",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941339",
+    "type": "public",
+    "date": "1/06 7:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I love my iphones 0,5 lend",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
