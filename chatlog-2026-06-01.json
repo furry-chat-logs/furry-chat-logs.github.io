@@ -16056,5 +16056,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Look in him deep in the eyes",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941566",
+    "type": "public",
+    "date": "1/06 9:35",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeG5hYTd1ZTBlYmJ6c3RleGpuMWRwMXpyM2xxdzF5cHJueTN6MjR2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ev477g37MJORyOWfdG/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
