@@ -6448,5 +6448,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Now it on legoshi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940487",
+    "type": "public",
+    "date": "1/06 1:14",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "X3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940488",
+    "type": "public",
+    "date": "1/06 1:14",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "can someone explurn?",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
