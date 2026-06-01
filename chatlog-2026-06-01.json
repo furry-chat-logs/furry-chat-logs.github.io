@@ -19256,5 +19256,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "HAHAHAHAHAHAHA",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941887",
+    "type": "public",
+    "date": "1/06 10:52",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bro🤨",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941888",
+    "type": "public",
+    "date": "1/06 10:52",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "Ch3rry_Drop yes",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
