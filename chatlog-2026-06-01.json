@@ -25844,5 +25844,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Got it repaired",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942549",
+    "type": "public",
+    "date": "1/06 13:32",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Pop color 😂",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
