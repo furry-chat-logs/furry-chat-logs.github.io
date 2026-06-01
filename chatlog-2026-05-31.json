@@ -22536,5 +22536,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Thundercloudgaming03 wsg",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7939716",
+    "type": "public",
+    "date": "31/05 23:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdXhzdnFibmNqcHAzZWU3cW9wYTV6eG9vbWZpdm12aDloMnk3em1scyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1KuiPfzUInS8r0OY/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939717",
+    "type": "public",
+    "date": "31/05 23:36",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Oh nothing ^^",
+    "msgClasses": "chat_message "
   }
 ]
