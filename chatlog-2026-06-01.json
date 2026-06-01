@@ -26184,5 +26184,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_95f0724ffd47.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942583",
+    "type": "public",
+    "date": "1/06 13:49",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Germany is alr late",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942584",
+    "type": "public",
+    "date": "1/06 13:49",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Dam",
+    "msgClasses": "chat_message "
   }
 ]
