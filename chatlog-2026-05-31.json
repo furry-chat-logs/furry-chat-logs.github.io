@@ -23256,5 +23256,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "It's called Adonitology",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939788",
+    "type": "public",
+    "date": "31/05 23:49",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Weird",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
