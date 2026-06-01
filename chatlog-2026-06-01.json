@@ -5818,5 +5818,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Ill stay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940424",
+    "type": "public",
+    "date": "1/06 1:09",
+    "username": "Theterminator",
+    "userId": "31271",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "I am back from the great depths of SAT's and ACT's, I have returned!!!!!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940425",
+    "type": "public",
+    "date": "1/06 1:09",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Until they decided that my problem-resolution of insults wasn't awesome when they caused problems.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
