@@ -6718,5 +6718,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "It this month",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940514",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Wtf",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940515",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "That was for pride",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
