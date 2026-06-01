@@ -24554,5 +24554,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "i have no book to read",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942418",
+    "type": "public",
+    "date": "1/06 12:47",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I have nothing to do",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942419",
+    "type": "public",
+    "date": "1/06 12:47",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "im going to go insane",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
