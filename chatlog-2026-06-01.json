@@ -12826,5 +12826,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "(°□°)",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941241",
+    "type": "public",
+    "date": "1/06 7:27",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "SoraTheMikuFan uhhh around 509$?",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941242",
+    "type": "public",
+    "date": "1/06 7:27",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nebulais_0 rith",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
