@@ -26564,5 +26564,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I love tractors here look at my frens",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942621",
+    "type": "public",
+    "date": "1/06 13:56",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Now i wanna make it ngl",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942622",
+    "type": "public",
+    "date": "1/06 13:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_453ebdb43712.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
