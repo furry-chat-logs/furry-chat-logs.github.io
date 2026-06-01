@@ -3436,5 +3436,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZmVmMmJxaGtjNGdsa3F6d3M3ajc1Y2RlcDM2OTJ4aDEzMms2aDkzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k7J8lsR5ZMdTWMVhII/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940185",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "My classmates just synced up lol",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940186",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_748cb9f9cd7b.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
