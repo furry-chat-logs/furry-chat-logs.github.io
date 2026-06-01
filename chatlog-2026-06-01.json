@@ -9446,5 +9446,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "In the settings it says",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940903",
+    "type": "public",
+    "date": "1/06 4:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Okay one sec",
+    "msgClasses": "chat_message "
   }
 ]
