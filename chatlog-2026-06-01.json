@@ -23134,5 +23134,75 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "whoooo changed my mood",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7942276",
+    "type": "public",
+    "date": "1/06 12:09",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yk that one drum beat when someone made a joke",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942277",
+    "type": "public",
+    "date": "1/06 12:09",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "lol",
+    "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7942278",
+    "type": "public",
+    "date": "1/06 12:10",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Rat؜ Drags to DMs..",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7942279",
+    "type": "public",
+    "date": "1/06 12:10",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "*gulp gulp* so good",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942280",
+    "type": "public",
+    "date": "1/06 12:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7942281",
+    "type": "public",
+    "date": "1/06 12:10",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Mdekoni WOAH.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7942282",
+    "type": "public",
+    "date": "1/06 12:10",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Bruder gehts dir gut Mdekoni ?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
