@@ -12056,5 +12056,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941164",
+    "type": "public",
+    "date": "1/06 7:09",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": ":/",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
