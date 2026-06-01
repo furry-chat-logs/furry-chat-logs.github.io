@@ -8218,5 +8218,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "eeh fuck it",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940780",
+    "type": "public",
+    "date": "1/06 2:44",
+    "username": "lightening",
+    "userId": "34420",
+    "userClasses": "username bneon14 bnfont10",
+    "message": "well thats a lie.",
+    "msgClasses": "chat_message bneon14 heavyital bfont10"
   }
 ]
