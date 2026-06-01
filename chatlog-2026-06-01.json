@@ -12926,5 +12926,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I got an hp",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941251",
+    "type": "public",
+    "date": "1/06 7:28",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nebulais_0 macrox",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941252",
+    "type": "public",
+    "date": "1/06 7:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_38e2bfd11fa2.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
