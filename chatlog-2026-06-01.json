@@ -24354,5 +24354,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "like above above average",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942398",
+    "type": "public",
+    "date": "1/06 12:41",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "NeptuneLynxx bro I need an hour to red 40 pages",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942399",
+    "type": "public",
+    "date": "1/06 12:41",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_4678ebd63ffc.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
