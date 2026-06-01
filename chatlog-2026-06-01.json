@@ -12786,5 +12786,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941237",
+    "type": "public",
+    "date": "1/06 7:26",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user34858_b7de51efd5d7.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
