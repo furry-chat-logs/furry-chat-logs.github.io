@@ -23586,5 +23586,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lyman I have that but permanent",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939821",
+    "type": "public",
+    "date": "31/05 23:56",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Mdekoni My bus is not",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939822",
+    "type": "public",
+    "date": "31/05 23:56",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lyman curse of binding",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
