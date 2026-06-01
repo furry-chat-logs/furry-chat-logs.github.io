@@ -19016,5 +19016,25 @@
     "userClasses": "username bneon10 bnfont12",
     "message": "Maxwellg Good Morning",
     "msgClasses": "chat_message bneon10 heavybold bfont12"
+  },
+  {
+    "id": "7941863",
+    "type": "public",
+    "date": "1/06 10:47",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Im still eepy tho *3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941864",
+    "type": "public",
+    "date": "1/06 10:47",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[secret-share: Lxkg2LySzVHkTI3ATVQ2gFE5e&n=47527]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
