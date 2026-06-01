@@ -4318,5 +4318,35 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "i did a thing",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7940274",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Chat, I will be heading to Nova Scotia.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940275",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ ooohh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940276",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Coolll",
+    "msgClasses": "chat_message bneon14"
   }
 ]
