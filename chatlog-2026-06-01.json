@@ -26674,5 +26674,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Thats johnny he likes to stare at you",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942633",
+    "type": "public",
+    "date": "1/06 13:57",
+    "username": "Skylar Rosevelt Gunz",
+    "userId": "26529",
+    "userClasses": "username bgrad22 bnfont15",
+    "message": "Lol",
+    "msgClasses": "chat_message bgrad22 heavyital bfont8"
   }
 ]
