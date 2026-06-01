@@ -3696,5 +3696,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "he was poisoned",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7940211",
+    "type": "public",
+    "date": "1/06 0:44",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Dude it so hard to type w/ flip phone",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940212",
+    "type": "public",
+    "date": "1/06 0:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I still agree with my words",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
