@@ -17046,5 +17046,25 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "Mdekoni MAKE THE SHIELD FROM ZELDA :0",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7941665",
+    "type": "public",
+    "date": "1/06 10:07",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_b74f7f1950e9.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941666",
+    "type": "public",
+    "date": "1/06 10:07",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Leeland 🤩",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
