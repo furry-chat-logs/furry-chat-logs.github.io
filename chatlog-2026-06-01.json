@@ -9376,5 +9376,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I bet not",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940896",
+    "type": "public",
+    "date": "1/06 4:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Let me check",
+    "msgClasses": "chat_message bneon14"
   }
 ]
