@@ -24524,5 +24524,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "the kitten is safe",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7942415",
+    "type": "public",
+    "date": "1/06 12:46",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB bro my phone just glitched",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
