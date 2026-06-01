@@ -5968,5 +5968,15 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "Ive only been gone for like a month",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940439",
+    "type": "public",
+    "date": "1/06 1:10",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Theterminator Gamoverse pilot probably turned a lot of dueds into furries",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
