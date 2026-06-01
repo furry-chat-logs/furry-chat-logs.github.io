@@ -21236,5 +21236,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Tf",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942085",
+    "type": "public",
+    "date": "1/06 11:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ew keep that 2 urself dude",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7942086",
+    "type": "public",
+    "date": "1/06 11:19",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Q&A",
+    "msgClasses": "chat_message "
   }
 ]
