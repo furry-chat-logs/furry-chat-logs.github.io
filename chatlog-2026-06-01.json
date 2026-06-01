@@ -28304,5 +28304,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_5bfea21e2ba6.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942806",
+    "type": "public",
+    "date": "1/06 15:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Gugel not working",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
