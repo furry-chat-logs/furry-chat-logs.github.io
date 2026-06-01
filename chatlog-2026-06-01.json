@@ -31134,5 +31134,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_d559e203c0a0.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943090",
+    "type": "public",
+    "date": "1/06 18:53",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "what am i witnessing",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943091",
+    "type": "public",
+    "date": "1/06 18:53",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
