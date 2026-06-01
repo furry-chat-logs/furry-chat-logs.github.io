@@ -20696,5 +20696,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hey Volkner ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939507",
+    "type": "public",
+    "date": "31/05 22:18",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "How are you?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
