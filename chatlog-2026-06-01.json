@@ -21776,5 +21776,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Has*",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7942139",
+    "type": "public",
+    "date": "1/06 11:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Anywho",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7942140",
+    "type": "public",
+    "date": "1/06 11:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Closing SS again [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
