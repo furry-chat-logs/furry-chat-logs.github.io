@@ -18136,5 +18136,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Is that a bus from DB?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941774",
+    "type": "public",
+    "date": "1/06 10:34",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "idk",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
