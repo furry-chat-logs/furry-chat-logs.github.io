@@ -288,5 +288,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Does it count",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939870",
+    "type": "public",
+    "date": "1/06 0:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm a female btw Sonic The Hedgehog",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939871",
+    "type": "public",
+    "date": "1/06 0:05",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan yes tha tail hmm",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
