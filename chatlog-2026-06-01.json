@@ -168,5 +168,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "China [totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939858",
+    "type": "public",
+    "date": "1/06 0:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog, 🍴🫪",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939859",
+    "type": "public",
+    "date": "1/06 0:03",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "KAJAJWIDIFUDIEIWJ [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
