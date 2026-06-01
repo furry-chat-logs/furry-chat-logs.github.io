@@ -25444,5 +25444,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "AND IT ACTUALLY WORKS",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942508",
+    "type": "public",
+    "date": "1/06 12:59",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37473_60a3b749c20e.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942509",
+    "type": "public",
+    "date": "1/06 12:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "MY HIHAT SOUNDS LIKE THE SNARE",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
