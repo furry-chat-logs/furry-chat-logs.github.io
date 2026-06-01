@@ -9986,5 +9986,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Ashton the hellhound ew what happened THERE",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940957",
+    "type": "public",
+    "date": "1/06 5:33",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SoraTheMikuFan no tony, but theyre on discord",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940958",
+    "type": "public",
+    "date": "1/06 5:33",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm a little woozy",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
