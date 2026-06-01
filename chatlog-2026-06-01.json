@@ -4858,5 +4858,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "When they're online",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940328",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Lol cuz like vedal",
+    "msgClasses": "chat_message bneon14"
   }
 ]
