@@ -1878,5 +1878,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "talk*",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940029",
+    "type": "public",
+    "date": "1/06 0:24",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Idk what goin on XD",
+    "msgClasses": "chat_message "
   }
 ]
