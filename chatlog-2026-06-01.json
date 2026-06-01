@@ -308,5 +308,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan yes tha tail hmm",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939872",
+    "type": "public",
+    "date": "1/06 0:05",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmN3Q5dWIzeG5zd2ptaGM1NzlmNDM4eTRvOWFwOGdiZWF5a2gybjVnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/42fFswykne973vwGxX/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939873",
+    "type": "public",
+    "date": "1/06 0:05",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "SoraTheMikuFan",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
