@@ -8786,5 +8786,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "what did they do to make that happen",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940837",
+    "type": "public",
+    "date": "1/06 4:02",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "We were friendsssss",
+    "msgClasses": "chat_message bneon14"
   }
 ]
