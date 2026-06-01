@@ -10086,5 +10086,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "uhhh what",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940967",
+    "type": "public",
+    "date": "1/06 5:37",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Forget that",
+    "msgClasses": "chat_message "
   }
 ]
