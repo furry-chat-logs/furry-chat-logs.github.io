@@ -4868,5 +4868,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Lol cuz like vedal",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940329",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "They are watching us",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940330",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Ashton the hellhound I know.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940331",
+    "type": "public",
+    "date": "1/06 0:58",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Now it looping the rooms",
+    "msgClasses": "chat_message "
   }
 ]
