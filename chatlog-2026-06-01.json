@@ -7638,5 +7638,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Thx",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940621",
+    "type": "public",
+    "date": "1/06 1:25",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Solid pick, Sonic The Hedgehog",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940622",
+    "type": "public",
+    "date": "1/06 1:25",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I'm disappointed in the Sonic fandom🥀",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
