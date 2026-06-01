@@ -16956,5 +16956,25 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "RainbowDashTaiwanWDP good",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7941656",
+    "type": "public",
+    "date": "1/06 10:03",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_756462237e22.webp]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941657",
+    "type": "public",
+    "date": "1/06 10:03",
+    "username": "RainbowDashTaiwanWDP",
+    "userId": "37012",
+    "userClasses": "username bcolor22 bnfont16",
+    "message": "Dats goods",
+    "msgClasses": "chat_message "
   }
 ]
