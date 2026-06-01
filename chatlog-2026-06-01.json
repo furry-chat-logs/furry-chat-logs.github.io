@@ -28514,5 +28514,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_8c9b8704f123.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942827",
+    "type": "public",
+    "date": "1/06 15:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHdqdHdlczM3ZXJhZTlodDBpN25iOHF5ejRqdnZneGM4dzU3NGNmayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOuVjiA6qvLGB3NusU/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
