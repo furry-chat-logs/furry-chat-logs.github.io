@@ -21256,5 +21256,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Q&A",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942087",
+    "type": "public",
+    "date": "1/06 11:19",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I didnt type that",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
