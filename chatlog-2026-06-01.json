@@ -10046,5 +10046,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Sol_Aizawa who's Tony",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940963",
+    "type": "public",
+    "date": "1/06 5:34",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SoraTheMikuFan mew, electricwolf_tony, electric_sinnerwolf",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
