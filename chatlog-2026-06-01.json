@@ -14686,5 +14686,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "What a price change",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941427",
+    "type": "public",
+    "date": "1/06 8:07",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I got a usb stick with a file that opens youtube in the browser 500 times with the rickroll",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
