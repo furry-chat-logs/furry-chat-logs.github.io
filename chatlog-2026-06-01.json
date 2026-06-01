@@ -838,5 +838,15 @@
     "userClasses": "username bneon4 ",
     "message": "What?",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939925",
+    "type": "public",
+    "date": "1/06 0:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm too aroace for this",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
