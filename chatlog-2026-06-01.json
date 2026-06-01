@@ -13006,5 +13006,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Oka",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941259",
+    "type": "public",
+    "date": "1/06 7:30",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_f6bf6f06f4b3.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
