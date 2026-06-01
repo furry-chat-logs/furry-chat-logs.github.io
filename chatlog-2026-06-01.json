@@ -27074,5 +27074,25 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "It rains all night long but it makes zero difference",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7942680",
+    "type": "public",
+    "date": "1/06 14:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "We had like 29 degrees today",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942681",
+    "type": "public",
+    "date": "1/06 14:14",
+    "username": "Skylar Rosevelt Gunz",
+    "userId": "26529",
+    "userClasses": "username bgrad22 bnfont15",
+    "message": "NotAWarlock PFT I want that",
+    "msgClasses": "chat_message bgrad22 heavyital bfont8"
   }
 ]
