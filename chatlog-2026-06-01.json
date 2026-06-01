@@ -9186,5 +9186,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Deco*27",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940877",
+    "type": "public",
+    "date": "1/06 4:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Huh?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940878",
+    "type": "public",
+    "date": "1/06 4:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemZrbnRuNHBrZmxraHZ4Zng1NWJ5aXN5ZHZxbHI2Znl4MWNnZ3l1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zNGeC0tMZwxTroCO1Y/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
