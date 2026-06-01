@@ -6128,5 +6128,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMGhsZXViendtYnoyOHdsNWk0MjN3bjVpY2xnZ2F0NWNlcG43bWRxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940455",
+    "type": "public",
+    "date": "1/06 1:12",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Wowie",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940456",
+    "type": "public",
+    "date": "1/06 1:12",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I kind of beat you there Maxwellg",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
