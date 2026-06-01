@@ -17726,5 +17726,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "mxgic_mondo wait what",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941733",
+    "type": "public",
+    "date": "1/06 10:24",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Leeland dose USA want you",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941734",
+    "type": "public",
+    "date": "1/06 10:24",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon9"
   }
 ]
