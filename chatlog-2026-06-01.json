@@ -8228,5 +8228,35 @@
     "userClasses": "username bneon14 bnfont10",
     "message": "well thats a lie.",
     "msgClasses": "chat_message bneon14 heavyital bfont10"
+  },
+  {
+    "id": "7940781",
+    "type": "public",
+    "date": "1/06 2:44",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "ima take the challenge of not sleeping 5 days",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940782",
+    "type": "public",
+    "date": "1/06 2:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Its one of the most bad ideas wich exists",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940783",
+    "type": "public",
+    "date": "1/06 2:44",
+    "username": "lightening",
+    "userId": "34420",
+    "userClasses": "username bneon14 bnfont10",
+    "message": "i didnt sleep for a week and i was fine.",
+    "msgClasses": "chat_message bneon14 heavyital bfont10"
   }
 ]
