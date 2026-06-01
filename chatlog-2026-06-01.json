@@ -14676,5 +14676,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "I'm on ddr4 and its like $100 for 16 gigs",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7941426",
+    "type": "public",
+    "date": "1/06 8:03",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "What a price change",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
