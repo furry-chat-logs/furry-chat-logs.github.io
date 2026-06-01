@@ -5008,5 +5008,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Gn!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940343",
+    "type": "public",
+    "date": "1/06 0:59",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Maxwellg I am glad there is not VC.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
