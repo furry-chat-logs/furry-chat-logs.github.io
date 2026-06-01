@@ -19946,5 +19946,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Bck!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941956",
+    "type": "public",
+    "date": "1/06 11:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Maxwellg do do do do do dododododo",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941957",
+    "type": "public",
+    "date": "1/06 11:02",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I had chicken and fried beans",
+    "msgClasses": "chat_message "
   }
 ]
