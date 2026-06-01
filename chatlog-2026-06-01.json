@@ -10796,5 +10796,15 @@
     "userClasses": "username bcolor27 ",
     "message": "OHH ITS PRIDE MONTH",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7941038",
+    "type": "public",
+    "date": "1/06 6:19",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You finally got that",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
