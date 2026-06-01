@@ -30154,5 +30154,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWttbWR6bWRscnc3dTByMXI4Y2RsMmZ4NmtsNnR5bml0YWw4YXJ4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MQ08dsDSArNtEzf2kk/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7942991",
+    "type": "public",
+    "date": "1/06 18:13",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "But in some situations on a moral caste, some human lives are less valuable then others",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7942992",
+    "type": "public",
+    "date": "1/06 18:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Then we're going to have a problem.",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
