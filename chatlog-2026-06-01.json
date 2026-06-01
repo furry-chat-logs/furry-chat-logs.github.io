@@ -30364,5 +30364,15 @@
     "userClasses": "username bgrad39 ",
     "message": "I'm bored",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7943012",
+    "type": "public",
+    "date": "1/06 18:16",
+    "username": "absurdfurry",
+    "userId": "30116",
+    "userClasses": "username bneon19 bnfont6",
+    "message": "hi bored",
+    "msgClasses": "chat_message bgrad10  bfont11"
   }
 ]
