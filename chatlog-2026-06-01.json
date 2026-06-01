@@ -14856,5 +14856,15 @@
     "userClasses": "username bneon4 ",
     "message": "Eee! I can't wait for summer!!",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941444",
+    "type": "public",
+    "date": "1/06 8:28",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "good luck this week!!",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
