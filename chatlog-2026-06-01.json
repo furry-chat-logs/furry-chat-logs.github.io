@@ -29044,5 +29044,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Coolio",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942880",
+    "type": "public",
+    "date": "1/06 16:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Petting the isser",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
