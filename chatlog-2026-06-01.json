@@ -25054,5 +25054,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_9b88a8dd10b3.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942469",
+    "type": "public",
+    "date": "1/06 12:53",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I play bass too",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
