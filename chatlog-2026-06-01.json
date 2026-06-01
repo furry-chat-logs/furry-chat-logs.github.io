@@ -9076,5 +9076,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I gotta keep myself up with the monitoring",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940866",
+    "type": "public",
+    "date": "1/06 4:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hewwooo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
