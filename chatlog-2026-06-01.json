@@ -27124,5 +27124,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Now we have 19 degrees",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942685",
+    "type": "public",
+    "date": "1/06 14:14",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "I need to lowkey die of hypothermia or something",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7942686",
+    "type": "public",
+    "date": "1/06 14:15",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Only then will i be happy",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
