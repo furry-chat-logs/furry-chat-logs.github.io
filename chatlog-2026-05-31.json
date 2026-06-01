@@ -20446,5 +20446,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "Guys i forgot my password so i got a temporary one but it keeps saying its incorrect",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7939482",
+    "type": "public",
+    "date": "31/05 21:50",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Yup",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
