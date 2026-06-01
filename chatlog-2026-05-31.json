@@ -22696,5 +22696,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Huh I see",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939732",
+    "type": "public",
+    "date": "31/05 23:40",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "And on the third day, I'm gonna superglue his tomb to make sur he doesn't resuresurrect like the lordr",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
