@@ -9046,5 +9046,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Fr",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940863",
+    "type": "public",
+    "date": "1/06 4:53",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Hi everybody",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
