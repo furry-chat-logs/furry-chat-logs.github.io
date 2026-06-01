@@ -21496,5 +21496,25 @@
     "userClasses": "username bgrad39 ",
     "message": "😰",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7942111",
+    "type": "public",
+    "date": "1/06 11:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ch3rry_Drop what",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942112",
+    "type": "public",
+    "date": "1/06 11:22",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( You can go away back to where you live, in my ######  1/06 9:22 ) Pardon.",
+    "msgClasses": "chat_message "
   }
 ]
