@@ -20646,5 +20646,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im watching youtube right now :(",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942026",
+    "type": "public",
+    "date": "1/06 11:13",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "No.",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7942027",
+    "type": "public",
+    "date": "1/06 11:13",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB cous your the only one",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
