@@ -10786,5 +10786,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Kk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941037",
+    "type": "public",
+    "date": "1/06 6:18",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "OHH ITS PRIDE MONTH",
+    "msgClasses": "chat_message bold"
   }
 ]
