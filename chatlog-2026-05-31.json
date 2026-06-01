@@ -21476,5 +21476,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Hello my wolf brother! Ashton the hellhound",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939591",
+    "type": "public",
+    "date": "31/05 23:12",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Hello!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
