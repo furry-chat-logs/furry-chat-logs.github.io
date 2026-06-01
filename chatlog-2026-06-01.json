@@ -4918,5 +4918,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I like that I find it smart",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940334",
+    "type": "public",
+    "date": "1/06 0:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I like vocaloiddd",
+    "msgClasses": "chat_message bneon14"
   }
 ]
