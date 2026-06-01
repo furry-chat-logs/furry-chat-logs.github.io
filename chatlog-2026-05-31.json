@@ -21766,5 +21766,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "That is a very cool job young one JustAnAnt",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939620",
+    "type": "public",
+    "date": "31/05 23:20",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "There's more",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939621",
+    "type": "public",
+    "date": "31/05 23:20",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[scrylveon]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
