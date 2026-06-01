@@ -5448,5 +5448,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Moral of the story: stay out of school and don't pay taxes -- and one day you can be as awesome as me.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940387",
+    "type": "public",
+    "date": "1/06 1:05",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Hey wut yall greatest desires?",
+    "msgClasses": "chat_message "
   }
 ]
