@@ -23186,5 +23186,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "There's a religion where you worship curvy butts.",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939781",
+    "type": "public",
+    "date": "31/05 23:48",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Weird.",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939782",
+    "type": "public",
+    "date": "31/05 23:48",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "im a forced christian atually my stupid parents",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
