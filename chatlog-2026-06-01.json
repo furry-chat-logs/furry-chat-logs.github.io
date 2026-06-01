@@ -30834,5 +30834,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "So does if it work if i use / quote?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943059",
+    "type": "public",
+    "date": "1/06 18:35",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Doesnt do anything",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
