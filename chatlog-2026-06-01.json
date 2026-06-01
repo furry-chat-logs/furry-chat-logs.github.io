@@ -20666,5 +20666,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB cous your the only one",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942028",
+    "type": "public",
+    "date": "1/06 11:13",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Huhj? Idk what goin on frfr",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942029",
+    "type": "public",
+    "date": "1/06 11:13",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I have one massage lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
