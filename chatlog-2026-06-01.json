@@ -14986,5 +14986,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "see yall",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7941457",
+    "type": "public",
+    "date": "1/06 8:52",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Fit check!!",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941458",
+    "type": "public",
+    "date": "1/06 8:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a9d1f14babae.png]",
+    "msgClasses": "chat_message "
   }
 ]
