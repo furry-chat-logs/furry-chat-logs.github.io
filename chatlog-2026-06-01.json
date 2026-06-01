@@ -21096,5 +21096,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "meep meep meep merp meep? 1/06 18:16 this is cinda personal but yes",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942071",
+    "type": "public",
+    "date": "1/06 11:18",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Let's all talk abt how aiko is great",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7942072",
+    "type": "public",
+    "date": "1/06 11:18",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] mm",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7942073",
+    "type": "public",
+    "date": "1/06 11:18",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Smiley good morning to you",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
