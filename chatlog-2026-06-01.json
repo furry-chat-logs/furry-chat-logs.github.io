@@ -22694,5 +22694,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Mojito hi thare",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7942231",
+    "type": "public",
+    "date": "1/06 11:48",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I fogth my homework",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
