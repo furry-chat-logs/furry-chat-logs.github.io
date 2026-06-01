@@ -20986,5 +20986,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hehe ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939536",
+    "type": "public",
+    "date": "31/05 22:33",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I guess everyone has their own taste, buddy.",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
