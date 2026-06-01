@@ -5178,5 +5178,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "So fucking loud",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940360",
+    "type": "public",
+    "date": "1/06 1:01",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I am going to add a new feature in the future.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940361",
+    "type": "public",
+    "date": "1/06 1:01",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "XD",
+    "msgClasses": "chat_message "
   }
 ]
