@@ -5118,5 +5118,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Real",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940354",
+    "type": "public",
+    "date": "1/06 1:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "\"I love you my little shit-stain 🥺🥺🥺🥺🥺\"",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940355",
+    "type": "public",
+    "date": "1/06 1:00",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Lowkey there will be that one guy",
+    "msgClasses": "chat_message "
   }
 ]
