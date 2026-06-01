@@ -14756,5 +14756,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "his old cat got poisoned by one of his neighbors",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7941434",
+    "type": "public",
+    "date": "1/06 8:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rest in peace 🙏",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
