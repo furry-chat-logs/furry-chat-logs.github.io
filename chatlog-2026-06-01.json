@@ -4488,5 +4488,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Frogmin can I pay an over excessive amount instead?",
     "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7940291",
+    "type": "public",
+    "date": "1/06 0:53",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Frogmin WHAT IS NOVA SCOTIA",
+    "msgClasses": "chat_message bneon14"
   }
 ]
