@@ -7788,5 +7788,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "ImYoursToCuddle hello friend",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940672",
+    "type": "public",
+    "date": "1/06 1:37",
+    "username": "ImYoursToCuddle",
+    "userId": "37442",
+    "userClasses": "username bcolor2 bnfont15",
+    "message": "How was your day?",
+    "msgClasses": "chat_message "
   }
 ]
