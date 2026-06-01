@@ -888,5 +888,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Porphyrophobia",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939930",
+    "type": "public",
+    "date": "1/06 0:13",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Guys why's it so cold",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939931",
+    "type": "public",
+    "date": "1/06 0:13",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username user ",
+    "message": "Hello! I on flipphone X3",
+    "msgClasses": "chat_message "
   }
 ]
