@@ -7598,5 +7598,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "My fav is sonic cd",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940612",
+    "type": "public",
+    "date": "1/06 1:24",
+    "username": "Nobody",
+    "userId": "27175",
+    "userClasses": "username bcolor18 bnfont11",
+    "message": "Jewjitsu?? </344",
+    "msgClasses": "chat_message bcolor18  bfont13"
+  },
+  {
+    "id": "7940613",
+    "type": "public",
+    "date": "1/06 1:24",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Maxwellg sick",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
