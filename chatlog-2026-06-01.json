@@ -548,5 +548,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Miss Kit wha?t",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939896",
+    "type": "public",
+    "date": "1/06 0:09",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "LMAO SORA",
+    "msgClasses": "chat_message bneon19"
   }
 ]
