@@ -22456,5 +22456,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bug... bug",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942207",
+    "type": "public",
+    "date": "1/06 11:41",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "A numm Little bug .",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
