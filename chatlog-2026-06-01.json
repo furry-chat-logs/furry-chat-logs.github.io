@@ -8018,5 +8018,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "My enemies will stand next to me and I will always be bigger than them",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940760",
+    "type": "public",
+    "date": "1/06 2:20",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm gonna keep going",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
