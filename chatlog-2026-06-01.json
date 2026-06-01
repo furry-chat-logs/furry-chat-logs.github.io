@@ -15186,5 +15186,35 @@
     "userClasses": "username bneon4 ",
     "message": "SBB LAUGH",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941477",
+    "type": "public",
+    "date": "1/06 9:09",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "DO IT",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941478",
+    "type": "public",
+    "date": "1/06 9:09",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "😑",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941479",
+    "type": "public",
+    "date": "1/06 9:09",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "PLEASE",
+    "msgClasses": "chat_message bneon19"
   }
 ]
