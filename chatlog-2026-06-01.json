@@ -31294,5 +31294,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Hey again",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7943106",
+    "type": "public",
+    "date": "1/06 18:59",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Sup",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
