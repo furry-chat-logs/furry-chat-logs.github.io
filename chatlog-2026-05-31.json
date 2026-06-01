@@ -20076,5 +20076,15 @@
     "userClasses": "username bcolor22 bnfont16",
     "message": "Age *******ier",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939445",
+    "type": "public",
+    "date": "31/05 21:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I don't understand.",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
