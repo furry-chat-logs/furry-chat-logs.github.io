@@ -1248,5 +1248,25 @@
     "userClasses": "username user ",
     "message": "Eatin peanut butter by jar",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939966",
+    "type": "public",
+    "date": "1/06 0:15",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Countdown to potential comeback/a message from our Filipino boy",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939967",
+    "type": "public",
+    "date": "1/06 0:15",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username user ",
+    "message": "And watchin tv",
+    "msgClasses": "chat_message "
   }
 ]
