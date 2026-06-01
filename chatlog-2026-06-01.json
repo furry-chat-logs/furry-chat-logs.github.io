@@ -24954,5 +24954,35 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "NeptuneLynxx Electric?!",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7942458",
+    "type": "public",
+    "date": "1/06 12:51",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "im not sure what his actual job is but he gets to playtest a ton of different games",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7942459",
+    "type": "public",
+    "date": "1/06 12:51",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Numm Bug thx!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942460",
+    "type": "public",
+    "date": "1/06 12:51",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "both",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
