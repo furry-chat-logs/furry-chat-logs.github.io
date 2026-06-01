@@ -16236,5 +16236,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_2a0003eb3d12.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941584",
+    "type": "public",
+    "date": "1/06 9:38",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": ":3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941585",
+    "type": "public",
+    "date": "1/06 9:38",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I'm so excited to wear my grad outfit",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
