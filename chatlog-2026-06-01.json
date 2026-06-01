@@ -20916,5 +20916,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "That my user",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942053",
+    "type": "public",
+    "date": "1/06 11:15",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "On scratch",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942054",
+    "type": "public",
+    "date": "1/06 11:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Can someone send im [secret-share: eK06KWz2mRcE3ar6tmYI5ZpSX&n=47531] bored",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
