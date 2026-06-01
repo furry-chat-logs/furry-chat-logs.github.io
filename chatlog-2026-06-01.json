@@ -7278,5 +7278,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Even some people with almost no money Have special VIP",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940571",
+    "type": "public",
+    "date": "1/06 1:21",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I made cam stuf and physics",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940572",
+    "type": "public",
+    "date": "1/06 1:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I**ael",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
