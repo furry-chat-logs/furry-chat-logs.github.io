@@ -23636,5 +23636,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Ur back and not muted yippeee",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939826",
+    "type": "public",
+    "date": "31/05 23:56",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYTJ2czh1dnhlMmV3czBlM3Fqc3RjZ201eGcwbHhqeGM0NnVpcXUwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RYF3cIJiNA3Wn2La47/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
