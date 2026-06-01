@@ -28154,5 +28154,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bruh wats goigon",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942791",
+    "type": "public",
+    "date": "1/06 15:07",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "闭嘴，你这混蛋",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
