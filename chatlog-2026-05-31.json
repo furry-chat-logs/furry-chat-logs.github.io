@@ -19256,5 +19256,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Rat؜ that's fair",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939363",
+    "type": "public",
+    "date": "31/05 19:27",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I'm back.",
+    "msgClasses": "chat_message ital"
   }
 ]
