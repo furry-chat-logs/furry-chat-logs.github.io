@@ -19406,5 +19406,15 @@
     "userClasses": "username bcolor14 bnfont1",
     "message": "haii",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939378",
+    "type": "public",
+    "date": "31/05 19:53",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Heyo",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
