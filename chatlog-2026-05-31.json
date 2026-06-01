@@ -20436,5 +20436,15 @@
     "userClasses": "username user ",
     "message": "Sonic The Hedgehog feels like a ghost town in heat 😭",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939481",
+    "type": "public",
+    "date": "31/05 21:50",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "Guys i forgot my password so i got a temporary one but it keeps saying its incorrect",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
