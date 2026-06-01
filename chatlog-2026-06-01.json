@@ -21846,5 +21846,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODR6ZHl1a2xvNWZtMXZtdnBieHdqNnY4NDQ2Zm9rNHE5ZTdqb2VkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4AwFO4f2VLo2fIFFA2/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7942146",
+    "type": "public",
+    "date": "1/06 11:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_be4ee9fbb109.gif]",
+    "msgClasses": "chat_message "
   }
 ]
