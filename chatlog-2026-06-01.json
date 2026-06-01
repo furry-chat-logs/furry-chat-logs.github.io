@@ -4948,5 +4948,35 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940337",
+    "type": "public",
+    "date": "1/06 0:58",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Ashton the hellhound Brown nose holy",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7940338",
+    "type": "public",
+    "date": "1/06 0:58",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "aight yall im gonna go to sleep",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7940339",
+    "type": "public",
+    "date": "1/06 0:58",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I wish there was vc",
+    "msgClasses": "chat_message "
   }
 ]
