@@ -11046,5 +11046,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ym windows doesnt boot up??",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941063",
+    "type": "public",
+    "date": "1/06 6:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lyman do you do hand crafts",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941064",
+    "type": "public",
+    "date": "1/06 6:49",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Then there is a reason why its restarting",
+    "msgClasses": "chat_message "
   }
 ]
