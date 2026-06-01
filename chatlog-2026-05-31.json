@@ -22426,5 +22426,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Hahaha",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939705",
+    "type": "public",
+    "date": "31/05 23:35",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'll leave it to you",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
