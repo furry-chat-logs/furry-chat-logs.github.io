@@ -12266,5 +12266,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Scary",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941185",
+    "type": "public",
+    "date": "1/06 7:14",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB it's bigger than me",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
