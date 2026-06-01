@@ -4036,5 +4036,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I feel stupih now",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940245",
+    "type": "public",
+    "date": "1/06 0:47",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I have irl one",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940246",
+    "type": "public",
+    "date": "1/06 0:48",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Hold",
+    "msgClasses": "chat_message "
   }
 ]
