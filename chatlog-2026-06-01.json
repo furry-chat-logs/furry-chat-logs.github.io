@@ -8886,5 +8886,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": ":(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940847",
+    "type": "public",
+    "date": "1/06 4:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sorry I was in a lesson",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940848",
+    "type": "public",
+    "date": "1/06 4:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Was coding",
+    "msgClasses": "chat_message bneon14"
   }
 ]
