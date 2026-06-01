@@ -14776,5 +14776,25 @@
     "userClasses": "username bneon4 ",
     "message": "By his neighbor??",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941436",
+    "type": "public",
+    "date": "1/06 8:25",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "its sad that it happened and i know he is devestated and one of my friends has kittens for adoption",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7941437",
+    "type": "public",
+    "date": "1/06 8:25",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Is his neighbor Victor Gideon??",
+    "msgClasses": "chat_message bneon19"
   }
 ]
