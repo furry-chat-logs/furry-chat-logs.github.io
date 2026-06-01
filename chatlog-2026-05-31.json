@@ -19486,5 +19486,15 @@
     "userClasses": "username bcolor3 bnfont7",
     "message": "Hi there all",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939386",
+    "type": "public",
+    "date": "31/05 20:06",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "i",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
