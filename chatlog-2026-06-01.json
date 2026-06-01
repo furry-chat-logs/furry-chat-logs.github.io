@@ -25804,5 +25804,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB do you even have clothes lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942545",
+    "type": "public",
+    "date": "1/06 13:31",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes i do",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
