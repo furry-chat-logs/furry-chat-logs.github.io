@@ -9326,5 +9326,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I gotta know what your laptop got for a CPU",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940891",
+    "type": "public",
+    "date": "1/06 4:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I dunnooo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
