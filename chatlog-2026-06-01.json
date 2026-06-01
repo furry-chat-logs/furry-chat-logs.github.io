@@ -10306,5 +10306,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "or is paimon not online",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940989",
+    "type": "public",
+    "date": "1/06 5:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "texting SBB",
+    "msgClasses": "chat_message bneon14"
   }
 ]
