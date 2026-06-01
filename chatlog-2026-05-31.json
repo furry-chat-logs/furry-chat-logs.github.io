@@ -23746,5 +23746,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Mine is disabled",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939837",
+    "type": "public",
+    "date": "31/05 23:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog mine is crippled",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
