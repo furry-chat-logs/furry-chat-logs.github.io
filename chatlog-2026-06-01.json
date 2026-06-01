@@ -5098,5 +5098,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Ik",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940352",
+    "type": "public",
+    "date": "1/06 1:00",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "If VC was added; my intolerance would not be contained.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
