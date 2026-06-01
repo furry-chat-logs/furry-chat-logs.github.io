@@ -4588,5 +4588,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940301",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "SoraTheMikuFan what is a nova party",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940302",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Ashton the hellhound dont correct me boi. i dont liek when ppl correct me.",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
