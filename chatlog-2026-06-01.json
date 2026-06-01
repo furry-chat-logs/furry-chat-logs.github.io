@@ -18416,5 +18416,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Smiley place tell",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941803",
+    "type": "public",
+    "date": "1/06 10:39",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Spectre_protogen yeah.",
+    "msgClasses": "chat_message "
   }
 ]
