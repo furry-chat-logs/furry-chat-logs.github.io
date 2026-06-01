@@ -9756,5 +9756,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I'll get muted jk",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940934",
+    "type": "public",
+    "date": "1/06 5:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SoraTheMikuFan did you make a discord account",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940935",
+    "type": "public",
+    "date": "1/06 5:29",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Can't get muteddd",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940936",
+    "type": "public",
+    "date": "1/06 5:29",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I literally watch the entire night",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
