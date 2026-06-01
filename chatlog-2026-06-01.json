@@ -20046,5 +20046,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "what does that mean",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941966",
+    "type": "public",
+    "date": "1/06 11:04",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "It means dont take it serius",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
