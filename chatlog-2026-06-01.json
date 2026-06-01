@@ -26694,5 +26694,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "SBB JOHN DEER",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7942635",
+    "type": "public",
+    "date": "1/06 13:57",
+    "username": "Skylar Rosevelt Gunz",
+    "userId": "26529",
+    "userClasses": "username bgrad22 bnfont15",
+    "message": "Most entertaining thing I've seen here",
+    "msgClasses": "chat_message bgrad22 heavyital bfont8"
   }
 ]
