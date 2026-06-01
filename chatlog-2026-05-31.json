@@ -23766,5 +23766,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Why? Can't it stand high performance?",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939839",
+    "type": "public",
+    "date": "31/05 23:59",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Well it can't even stand in the first place but",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
