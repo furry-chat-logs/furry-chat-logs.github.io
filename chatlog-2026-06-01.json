@@ -25254,5 +25254,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I dunno im licking my snare cable",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942489",
+    "type": "public",
+    "date": "1/06 12:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "And it makes noises",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942490",
+    "type": "public",
+    "date": "1/06 12:56",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Deftones",
+    "msgClasses": "chat_message bneon19"
   }
 ]
