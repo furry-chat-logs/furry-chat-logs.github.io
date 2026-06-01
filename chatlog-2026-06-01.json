@@ -5908,5 +5908,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "LOAT hello!!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940433",
+    "type": "public",
+    "date": "1/06 1:10",
+    "username": "LOAT",
+    "userId": "37477",
+    "userClasses": "username user ",
+    "message": "Hiiii",
+    "msgClasses": "chat_message "
   }
 ]
