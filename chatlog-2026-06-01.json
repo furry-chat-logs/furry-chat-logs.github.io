@@ -9456,5 +9456,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Okay one sec",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940904",
+    "type": "public",
+    "date": "1/06 5:00",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Are you good with technology SBB",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940905",
+    "type": "public",
+    "date": "1/06 5:00",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz",
+    "msgClasses": "chat_message bneon14"
   }
 ]
