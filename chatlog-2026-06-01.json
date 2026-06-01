@@ -15436,5 +15436,35 @@
     "userClasses": "username bneon4 ",
     "message": "Chat should I do a video of me fucking around with mods in Blade and Sorcery?",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941502",
+    "type": "public",
+    "date": "1/06 9:14",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I just got this new one that adds impact frames",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941503",
+    "type": "public",
+    "date": "1/06 9:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Can you even send a vid here",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941504",
+    "type": "public",
+    "date": "1/06 9:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I cant",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
