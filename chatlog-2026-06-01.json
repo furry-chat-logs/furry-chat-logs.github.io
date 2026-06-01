@@ -17456,5 +17456,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Called teto the 31st",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941706",
+    "type": "public",
+    "date": "1/06 10:12",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Doesnt look like it",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
