@@ -12556,5 +12556,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "3300",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941214",
+    "type": "public",
+    "date": "1/06 7:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_6b204db43644.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
