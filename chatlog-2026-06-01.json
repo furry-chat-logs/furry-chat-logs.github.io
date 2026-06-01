@@ -4066,5 +4066,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "There",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940248",
+    "type": "public",
+    "date": "1/06 0:49",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "It no color ydt",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940249",
+    "type": "public",
+    "date": "1/06 0:49",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Yet*",
+    "msgClasses": "chat_message "
   }
 ]
