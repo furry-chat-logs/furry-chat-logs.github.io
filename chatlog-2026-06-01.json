@@ -2458,5 +2458,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Honerably",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940087",
+    "type": "public",
+    "date": "1/06 0:31",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Porphyrophobia why you kissing gramps alone🥀",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
