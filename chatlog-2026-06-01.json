@@ -30434,5 +30434,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_93f613c0b352.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943019",
+    "type": "public",
+    "date": "1/06 18:19",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_408eab61c2cb.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943020",
+    "type": "public",
+    "date": "1/06 18:19",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Hope nibbles alone",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
