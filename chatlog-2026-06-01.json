@@ -14226,5 +14226,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Spidercar",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941381",
+    "type": "public",
+    "date": "1/06 7:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "HAHA",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
