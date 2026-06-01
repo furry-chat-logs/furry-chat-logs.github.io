@@ -21116,5 +21116,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Volkner K people consider being gay weird",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7939549",
+    "type": "public",
+    "date": "31/05 22:37",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Yes, thats rigth",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
