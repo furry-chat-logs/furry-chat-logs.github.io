@@ -4298,5 +4298,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36773_72d827f00391.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940272",
+    "type": "public",
+    "date": "1/06 0:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Idk why am I like thisss",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940273",
+    "type": "public",
+    "date": "1/06 0:51",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "i did a thing",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
