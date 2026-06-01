@@ -23456,5 +23456,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Can't open lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939808",
+    "type": "public",
+    "date": "31/05 23:53",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_49c35b544f8b.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
