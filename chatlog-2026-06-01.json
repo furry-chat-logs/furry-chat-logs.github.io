@@ -1818,5 +1818,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Maxwellg cool",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940023",
+    "type": "public",
+    "date": "1/06 0:23",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Next topic",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
