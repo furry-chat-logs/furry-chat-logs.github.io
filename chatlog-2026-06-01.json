@@ -23514,5 +23514,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "I use translate for German half of the time",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7942314",
+    "type": "public",
+    "date": "1/06 12:25",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Huh?",
+    "msgClasses": "chat_message "
   }
 ]
