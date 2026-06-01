@@ -11106,5 +11106,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "SBB ik there is a reason but i don't know why",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7941069",
+    "type": "public",
+    "date": "1/06 6:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lyman wdym",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
