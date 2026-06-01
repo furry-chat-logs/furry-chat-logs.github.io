@@ -5028,5 +5028,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Wiggled my toelike fingers",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940345",
+    "type": "public",
+    "date": "1/06 0:59",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Wtf",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940346",
+    "type": "public",
+    "date": "1/06 0:59",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Huh?",
+    "msgClasses": "chat_message "
   }
 ]
