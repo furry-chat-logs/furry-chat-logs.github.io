@@ -23026,5 +23026,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Wha.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939765",
+    "type": "public",
+    "date": "31/05 23:45",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Makes me look bad [cry]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
