@@ -19976,5 +19976,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941959",
+    "type": "public",
+    "date": "1/06 11:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Maxwellg how do you fry beans",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941960",
+    "type": "public",
+    "date": "1/06 11:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "BB shark doo doo doo doo doodooo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
