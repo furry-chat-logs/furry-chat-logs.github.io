@@ -11536,5 +11536,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "My upsido setup",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941112",
+    "type": "public",
+    "date": "1/06 7:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB lol big protogen",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
