@@ -23594,5 +23594,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Idk what goin on",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942322",
+    "type": "public",
+    "date": "1/06 12:26",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "????",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
