@@ -11886,5 +11886,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Mr-Shark hoii",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941147",
+    "type": "public",
+    "date": "1/06 7:05",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user34858_639b4da7a3a1.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941148",
+    "type": "public",
+    "date": "1/06 7:05",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Too messy ugh",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
