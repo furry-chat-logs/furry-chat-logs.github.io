@@ -12036,5 +12036,15 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "They're slow af",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941162",
+    "type": "public",
+    "date": "1/06 7:08",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Looks like sending videos here doesnt work",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
