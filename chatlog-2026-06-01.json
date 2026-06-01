@@ -22206,5 +22206,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I dont know he came out of nowhere",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942182",
+    "type": "public",
+    "date": "1/06 11:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Cool",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
