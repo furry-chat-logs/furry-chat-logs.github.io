@@ -30344,5 +30344,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Yeah true",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943010",
+    "type": "public",
+    "date": "1/06 18:15",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Rune [totallove]",
+    "msgClasses": "chat_message ital"
   }
 ]
