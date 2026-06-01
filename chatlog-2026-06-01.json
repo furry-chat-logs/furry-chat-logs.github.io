@@ -4528,5 +4528,45 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "search it up if you dont believe me",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940295",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I wish i had real phone",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940296",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I thought abt the nova party...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940297",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Or comp",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940298",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": ":<",
+    "msgClasses": "chat_message "
   }
 ]
