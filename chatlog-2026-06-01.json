@@ -9716,5 +9716,35 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "SoraTheMikuFan hm?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940930",
+    "type": "public",
+    "date": "1/06 5:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And here's my fluxer",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940931",
+    "type": "public",
+    "date": "1/06 5:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SoraTheMikuFan kk",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940932",
+    "type": "public",
+    "date": "1/06 5:29",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm not kidding",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
