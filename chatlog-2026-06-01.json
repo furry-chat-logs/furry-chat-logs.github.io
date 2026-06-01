@@ -8198,5 +8198,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Trust me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940778",
+    "type": "public",
+    "date": "1/06 2:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Its one of the baddesr",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940779",
+    "type": "public",
+    "date": "1/06 2:44",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "eeh fuck it",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
