@@ -4096,5 +4096,13 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "better",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7940251",
+    "type": "system",
+    "date": "1/06 0:49",
+    "username": "System",
+    "userId": null,
+    "message": "Vanilla808 has been removed from chat"
   }
 ]
