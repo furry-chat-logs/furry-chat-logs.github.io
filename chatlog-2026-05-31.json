@@ -23406,5 +23406,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Ashton the hellhound see ya",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939803",
+    "type": "public",
+    "date": "31/05 23:52",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Mdekoni look",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
