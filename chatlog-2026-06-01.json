@@ -30144,5 +30144,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Unless if you pour milk before cereal.",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7942990",
+    "type": "public",
+    "date": "1/06 18:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWttbWR6bWRscnc3dTByMXI4Y2RsMmZ4NmtsNnR5bml0YWw4YXJ4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MQ08dsDSArNtEzf2kk/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
