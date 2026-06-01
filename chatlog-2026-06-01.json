@@ -8876,5 +8876,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Chat got dead",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940846",
+    "type": "public",
+    "date": "1/06 4:27",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": ":(",
+    "msgClasses": "chat_message "
   }
 ]
