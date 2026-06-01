@@ -13876,5 +13876,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "🥀",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941346",
+    "type": "public",
+    "date": "1/06 7:45",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33275_8e20c8ff3597.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
