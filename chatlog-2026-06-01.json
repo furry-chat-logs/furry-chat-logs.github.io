@@ -13256,5 +13256,25 @@
     "userClasses": "username bgrad5 bnfont6",
     "message": "Mdekoni SBB how do you all do?",
     "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7941284",
+    "type": "public",
+    "date": "1/06 7:36",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Good",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941285",
+    "type": "public",
+    "date": "1/06 7:36",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Fine",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
