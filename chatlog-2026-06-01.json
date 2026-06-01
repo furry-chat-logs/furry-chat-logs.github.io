@@ -8608,5 +8608,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I need some coffee",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940819",
+    "type": "public",
+    "date": "1/06 3:07",
+    "username": "NexusEmily",
+    "userId": "31615",
+    "userClasses": "username bgrad11 bnfont14",
+    "message": "ZephTheFloofBoi woof",
+    "msgClasses": "chat_message bgrad38  bfont14"
+  },
+  {
+    "id": "7940820",
+    "type": "public",
+    "date": "1/06 3:07",
+    "username": "NexusEmily",
+    "userId": "31615",
+    "userClasses": "username bgrad11 bnfont14",
+    "message": "SBB same",
+    "msgClasses": "chat_message bgrad38  bfont14"
   }
 ]
