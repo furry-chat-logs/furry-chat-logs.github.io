@@ -12506,5 +12506,25 @@
     "userClasses": "username bgrad27 bnfont15",
     "message": "Huh?",
     "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941209",
+    "type": "public",
+    "date": "1/06 7:21",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "😬",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941210",
+    "type": "public",
+    "date": "1/06 7:21",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "hey Nabulais ^^",
+    "msgClasses": "chat_message "
   }
 ]
