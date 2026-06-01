@@ -28034,5 +28034,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Per day",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942779",
+    "type": "public",
+    "date": "1/06 15:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Water water water sahur",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
