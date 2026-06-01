@@ -18996,5 +18996,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "I just woke up",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941861",
+    "type": "public",
+    "date": "1/06 10:46",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Maxwellg gm !!!!",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7941862",
+    "type": "public",
+    "date": "1/06 10:46",
+    "username": "Xbox",
+    "userId": "8187",
+    "userClasses": "username bneon10 bnfont12",
+    "message": "Maxwellg Good Morning",
+    "msgClasses": "chat_message bneon10 heavybold bfont12"
   }
 ]
