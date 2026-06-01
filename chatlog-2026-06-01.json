@@ -8568,5 +8568,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ima turn on my laptop",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940815",
+    "type": "public",
+    "date": "1/06 3:00",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "I gotta go",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
