@@ -30534,5 +30534,25 @@
     "userClasses": "username bneon4 ",
     "message": "SBB use a command",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943029",
+    "type": "public",
+    "date": "1/06 18:27",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Hold on",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943030",
+    "type": "public",
+    "date": "1/06 18:27",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "What??",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
