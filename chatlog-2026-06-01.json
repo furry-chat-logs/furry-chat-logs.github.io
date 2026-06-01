@@ -25494,5 +25494,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ima watch twitch a bit",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942513",
+    "type": "public",
+    "date": "1/06 13:09",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Lowk bored",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
