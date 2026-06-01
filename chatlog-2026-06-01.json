@@ -9416,5 +9416,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yes",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940900",
+    "type": "public",
+    "date": "1/06 4:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Intel inside CORE 15 vpro?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
