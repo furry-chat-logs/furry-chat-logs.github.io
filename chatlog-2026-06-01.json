@@ -4368,5 +4368,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Frogmin ummm hoi",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940279",
+    "type": "public",
+    "date": "1/06 0:52",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Nice",
+    "msgClasses": "chat_message "
   }
 ]
