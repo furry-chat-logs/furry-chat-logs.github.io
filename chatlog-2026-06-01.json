@@ -25294,5 +25294,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Guys",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942493",
+    "type": "public",
+    "date": "1/06 12:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I touch the cable and makes a noise!",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
