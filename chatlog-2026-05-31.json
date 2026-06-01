@@ -23486,5 +23486,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYm94Ym93eGc0a2Z3ZzB1OGp6ajlrZmRpemdrZmUwODRsdDFwY2xidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sUTYLTy2JhyHjQIHpl/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939811",
+    "type": "public",
+    "date": "31/05 23:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sonic The Hedgehog chuck e cheese",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939812",
+    "type": "public",
+    "date": "31/05 23:54",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My phone is not phoning",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
