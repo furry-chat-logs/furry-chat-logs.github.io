@@ -30324,5 +30324,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "It's like pouring water onto dirt to make mud",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943008",
+    "type": "public",
+    "date": "1/06 18:15",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Either way works",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943009",
+    "type": "public",
+    "date": "1/06 18:15",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Yeah true",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
