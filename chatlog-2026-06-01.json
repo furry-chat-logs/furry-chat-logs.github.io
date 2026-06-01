@@ -10436,5 +10436,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "You think I would let myself die",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7941002",
+    "type": "public",
+    "date": "1/06 5:50",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Survival of the fittest my friend",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7941003",
+    "type": "public",
+    "date": "1/06 5:50",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I get to see my girlfriend tomorroooww",
+    "msgClasses": "chat_message bold"
   }
 ]
