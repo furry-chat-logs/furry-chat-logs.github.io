@@ -23474,5 +23474,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Hello!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942310",
+    "type": "public",
+    "date": "1/06 12:24",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "The derpo fox is back",
+    "msgClasses": "chat_message "
   }
 ]
