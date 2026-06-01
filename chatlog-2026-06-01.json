@@ -3546,5 +3546,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_901a0536b522.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940196",
+    "type": "public",
+    "date": "1/06 0:43",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35229_99510cb5f16b.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940197",
+    "type": "public",
+    "date": "1/06 0:43",
+    "username": "Bluetooth",
+    "userId": "34073",
+    "userClasses": "username bcolor12 bnfont6",
+    "message": "cøllieシ never",
+    "msgClasses": "chat_message bcolor12 heavyital bfont13"
   }
 ]
