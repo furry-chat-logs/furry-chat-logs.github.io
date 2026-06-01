@@ -22376,5 +22376,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Hes trying to crawl on my arm",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942199",
+    "type": "public",
+    "date": "1/06 11:40",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hes very slow",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
