@@ -5298,5 +5298,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user1_66596b585626.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940372",
+    "type": "public",
+    "date": "1/06 1:02",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Nah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940373",
+    "type": "public",
+    "date": "1/06 1:02",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "theres gonna be liek nothin to do",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
