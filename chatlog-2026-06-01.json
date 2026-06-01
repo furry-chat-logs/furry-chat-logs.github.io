@@ -22136,5 +22136,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "gtg baiiii!",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7942175",
+    "type": "public",
+    "date": "1/06 11:36",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Spectre_protogen aww bye bye",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7942176",
+    "type": "public",
+    "date": "1/06 11:36",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Be safe",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
