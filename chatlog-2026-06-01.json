@@ -21516,5 +21516,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( You can go away back to where you live, in my ######  1/06 9:22 ) Pardon.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942113",
+    "type": "public",
+    "date": "1/06 11:22",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ima explode",
+    "msgClasses": "chat_message bneon9"
   }
 ]
