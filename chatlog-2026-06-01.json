@@ -8448,5 +8448,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "SBB Tja, das passiert eben, wenn man 12 Stunden schläft.",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940803",
+    "type": "public",
+    "date": "1/06 2:53",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Chat i ngl might just not bring my phone to school these next 5 days,shi i might not even need anything",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
