@@ -5258,5 +5258,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Ah",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940368",
+    "type": "public",
+    "date": "1/06 1:01",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Ye",
+    "msgClasses": "chat_message "
   }
 ]
