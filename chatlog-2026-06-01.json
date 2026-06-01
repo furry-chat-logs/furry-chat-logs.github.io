@@ -25414,5 +25414,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I love bass boosted music",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942505",
+    "type": "public",
+    "date": "1/06 12:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I changed the hihat and the snare cable",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942506",
+    "type": "public",
+    "date": "1/06 12:59",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "SBB PHSYCOPATH.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
