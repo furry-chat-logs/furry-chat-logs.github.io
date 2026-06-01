@@ -19356,5 +19356,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Aiko desho",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939373",
+    "type": "public",
+    "date": "31/05 19:35",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Hi",
+    "msgClasses": "chat_message "
   }
 ]
