@@ -6498,5 +6498,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Hey yall",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940492",
+    "type": "public",
+    "date": "1/06 1:14",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "wha?",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
