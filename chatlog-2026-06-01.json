@@ -3336,5 +3336,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Crunchy*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940175",
+    "type": "public",
+    "date": "1/06 0:41",
+    "username": "Bluetooth",
+    "userId": "34073",
+    "userClasses": "username bcolor12 bnfont6",
+    "message": "Sonic The Hedgehog ew no",
+    "msgClasses": "chat_message bcolor12 heavyital bfont13"
   }
 ]
