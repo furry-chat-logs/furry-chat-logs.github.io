@@ -5378,5 +5378,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": ":3*",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940380",
+    "type": "public",
+    "date": "1/06 1:03",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "OMFG THIS KEYBOARD [skull]",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940381",
+    "type": "public",
+    "date": "1/06 1:03",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Nice",
+    "msgClasses": "chat_message "
   }
 ]
