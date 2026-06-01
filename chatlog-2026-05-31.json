@@ -20716,5 +20716,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Pretty good",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939509",
+    "type": "public",
+    "date": "31/05 22:19",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Great, I just arrived from work",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
