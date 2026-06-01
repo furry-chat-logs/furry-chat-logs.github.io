@@ -30454,5 +30454,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Hope nibbles alone",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7943021",
+    "type": "public",
+    "date": "1/06 18:20",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_dc49fe087689.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
