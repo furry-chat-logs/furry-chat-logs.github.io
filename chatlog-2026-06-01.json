@@ -9536,5 +9536,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Okay now i need to know what GPU u have",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940912",
+    "type": "public",
+    "date": "1/06 5:02",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I found a 2.10 GHz CPU",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
