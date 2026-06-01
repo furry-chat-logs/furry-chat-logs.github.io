@@ -23706,5 +23706,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "....",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939833",
+    "type": "public",
+    "date": "31/05 23:57",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Rip laptop",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
