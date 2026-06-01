@@ -26544,5 +26544,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "It cool ngl",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942619",
+    "type": "public",
+    "date": "1/06 13:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_7c30ff57fbc2.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
