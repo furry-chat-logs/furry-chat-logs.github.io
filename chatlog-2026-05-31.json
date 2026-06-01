@@ -20766,5 +20766,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": ":(",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7939514",
+    "type": "public",
+    "date": "31/05 22:21",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Why the sad face?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
