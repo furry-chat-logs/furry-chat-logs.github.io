@@ -2338,5 +2338,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYTRxbzYycDUxb2RvZDY4eDdybmZkemJqY3h4d295czVkamJtcWdqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940075",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Kk",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940076",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "He's going to be a senior [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
