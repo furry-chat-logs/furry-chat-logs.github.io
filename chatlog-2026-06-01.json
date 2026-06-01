@@ -18776,5 +18776,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Its a Text from the bible :>",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941839",
+    "type": "public",
+    "date": "1/06 10:43",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "🫪",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941840",
+    "type": "public",
+    "date": "1/06 10:43",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*I sit on a beanbag chair*",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
