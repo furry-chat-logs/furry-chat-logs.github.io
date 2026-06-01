@@ -20616,5 +20616,15 @@
     "userClasses": "username bcolor9 ",
     "message": "hello :D",
     "msgClasses": "chat_message bcolor2  bfont10"
+  },
+  {
+    "id": "7939499",
+    "type": "public",
+    "date": "31/05 22:04",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "🐀",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
