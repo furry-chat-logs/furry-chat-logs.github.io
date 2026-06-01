@@ -28164,5 +28164,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "闭嘴，你这混蛋",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942792",
+    "type": "public",
+    "date": "1/06 15:07",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I don't speak takobel",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
