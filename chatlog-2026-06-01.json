@@ -2778,5 +2778,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "XD",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940119",
+    "type": "public",
+    "date": "1/06 0:34",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Im causing chaos, yay!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940120",
+    "type": "public",
+    "date": "1/06 0:34",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Lmfao",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
