@@ -22326,5 +22326,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Evolution of pidgey?",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7942194",
+    "type": "public",
+    "date": "1/06 11:39",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bye👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942195",
+    "type": "public",
+    "date": "1/06 11:39",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I got stuffs to do",
+    "msgClasses": "chat_message "
   }
 ]
