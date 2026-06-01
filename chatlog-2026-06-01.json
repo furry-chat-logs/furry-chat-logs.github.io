@@ -27664,5 +27664,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "concerning",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7942742",
+    "type": "public",
+    "date": "1/06 14:46",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Hai there!",
+    "msgClasses": "chat_message "
   }
 ]
