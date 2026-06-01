@@ -7388,5 +7388,15 @@
     "userClasses": "username bneon14 bnfont10",
     "message": "LOAT ima eat u",
     "msgClasses": "chat_message bneon14 heavyital bfont10"
+  },
+  {
+    "id": "7940582",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Frogmin Spotting coins on the ground is enough for an entry",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
