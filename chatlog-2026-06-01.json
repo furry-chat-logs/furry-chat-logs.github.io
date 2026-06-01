@@ -24924,5 +24924,25 @@
     "userClasses": "username bneon4 ",
     "message": "I'm looking to windward rn",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942455",
+    "type": "public",
+    "date": "1/06 12:51",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Welcome back .",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7942456",
+    "type": "public",
+    "date": "1/06 12:51",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I just play guitar",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
