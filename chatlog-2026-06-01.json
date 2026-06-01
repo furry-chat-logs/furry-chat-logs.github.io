@@ -6108,5 +6108,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "It cuz of helluva boss and char.ai",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940453",
+    "type": "public",
+    "date": "1/06 1:11",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Maxwellg I've only been a furry since Monday.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940454",
+    "type": "public",
+    "date": "1/06 1:11",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMGhsZXViendtYnoyOHdsNWk0MjN3bjVpY2xnZ2F0NWNlcG43bWRxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
