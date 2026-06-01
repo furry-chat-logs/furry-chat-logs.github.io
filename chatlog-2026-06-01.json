@@ -17996,5 +17996,15 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Spectre_protogen salutations",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7941760",
+    "type": "public",
+    "date": "1/06 10:31",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "mxgic_mondo hi there!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
