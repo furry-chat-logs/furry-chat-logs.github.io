@@ -8528,5 +8528,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ja ich schlaf einfach so lange ich kann und gut ist",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940811",
+    "type": "public",
+    "date": "1/06 2:57",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Das ist sicherlich richtig, aber die Wahrscheinlichkeit, sich nach 12 Stunden Schlaf schwindlig zu fühlen, ist einfach größer.",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
