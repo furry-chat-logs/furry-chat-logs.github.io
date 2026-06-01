@@ -7798,5 +7798,15 @@
     "userClasses": "username bcolor2 bnfont15",
     "message": "How was your day?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940677",
+    "type": "public",
+    "date": "1/06 1:38",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sometimes you just gotta throw someone into traffic",
+    "msgClasses": "chat_message "
   }
 ]
