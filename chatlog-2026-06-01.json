@@ -17696,5 +17696,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Dam it",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941730",
+    "type": "public",
+    "date": "1/06 10:23",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "mxgic_mondo uhh",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
