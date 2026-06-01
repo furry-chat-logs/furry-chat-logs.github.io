@@ -28234,5 +28234,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im not using google translator",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942799",
+    "type": "public",
+    "date": "1/06 15:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "i waasnt talking ab you",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
