@@ -7718,5 +7718,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Chip my fav char from that game",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940633",
+    "type": "public",
+    "date": "1/06 1:27",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Maxwellg [cry]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
