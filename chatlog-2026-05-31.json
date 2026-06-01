@@ -20496,5 +20496,25 @@
     "userClasses": "username user ",
     "message": "Mr-Shark oh that",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939487",
+    "type": "public",
+    "date": "31/05 21:51",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "V0X ye",
+    "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7939488",
+    "type": "public",
+    "date": "31/05 21:51",
+    "username": "V0X",
+    "userId": "37470",
+    "userClasses": "username user ",
+    "message": "Mr-Shark it did that to me too and it didn't work",
+    "msgClasses": "chat_message "
   }
 ]
