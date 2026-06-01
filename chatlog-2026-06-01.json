@@ -16766,5 +16766,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "pepsi and coke are equally good",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7941637",
+    "type": "public",
+    "date": "1/06 9:47",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "GASP",
+    "msgClasses": "chat_message bneon19"
   }
 ]
