@@ -1928,5 +1928,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940034",
+    "type": "public",
+    "date": "1/06 0:25",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Glue a jar to a man's mouth with rats in the jar, then start heating the bottom of the jar while the rats try to find a way out, then the rats will have no choice but to chew their way out through the man's head",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
