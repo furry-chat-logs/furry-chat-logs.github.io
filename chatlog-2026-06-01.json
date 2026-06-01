@@ -18946,5 +18946,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Deine bälle sind nun sauber",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941856",
+    "type": "public",
+    "date": "1/06 10:45",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "🫪",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941857",
+    "type": "public",
+    "date": "1/06 10:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a8c40b662607.gif]",
+    "msgClasses": "chat_message "
   }
 ]
