@@ -30094,5 +30094,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "My gallery is a russian roulette game everytime I use this site",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7942985",
+    "type": "public",
+    "date": "1/06 18:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I don't care that you're athiest",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
