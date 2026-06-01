@@ -17866,5 +17866,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "bruh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941747",
+    "type": "public",
+    "date": "1/06 10:29",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Guh",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7941748",
+    "type": "public",
+    "date": "1/06 10:29",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Do it",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
