@@ -3766,5 +3766,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Umm",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940218",
+    "type": "public",
+    "date": "1/06 0:45",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7940219",
+    "type": "public",
+    "date": "1/06 0:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Porphyrophobia clipped",
+    "msgClasses": "chat_message bneon14"
   }
 ]
