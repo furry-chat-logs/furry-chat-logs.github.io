@@ -7558,5 +7558,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Porphyrophobia I am the Jew.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940604",
+    "type": "public",
+    "date": "1/06 1:23",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Frogmin Jewjitsu",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
