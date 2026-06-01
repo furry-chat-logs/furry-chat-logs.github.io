@@ -26134,5 +26134,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Ah",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942578",
+    "type": "public",
+    "date": "1/06 13:49",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I just found ProximityChat on steam",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942579",
+    "type": "public",
+    "date": "1/06 13:49",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "It 11 am for me",
+    "msgClasses": "chat_message "
   }
 ]
