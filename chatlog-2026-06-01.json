@@ -11416,5 +11416,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "*noms ur banana*",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941100",
+    "type": "public",
+    "date": "1/06 6:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "yum!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
