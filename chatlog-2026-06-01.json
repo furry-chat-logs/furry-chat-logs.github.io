@@ -3106,5 +3106,25 @@
     "userClasses": "username bgrad10 bnfont6",
     "message": "Hiya peeps",
     "msgClasses": "chat_message bneon2 heavyital bfont10"
+  },
+  {
+    "id": "7940152",
+    "type": "public",
+    "date": "1/06 0:38",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Hai!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940153",
+    "type": "public",
+    "date": "1/06 0:38",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Hyd",
+    "msgClasses": "chat_message "
   }
 ]
