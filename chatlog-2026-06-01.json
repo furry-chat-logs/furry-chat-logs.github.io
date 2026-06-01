@@ -12566,5 +12566,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_6b204db43644.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941215",
+    "type": "public",
+    "date": "1/06 7:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941216",
+    "type": "public",
+    "date": "1/06 7:22",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "SBB and 3310",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
