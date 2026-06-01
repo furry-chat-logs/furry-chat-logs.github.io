@@ -9896,5 +9896,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yo Miku i have texted you what your laptop can do",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940948",
+    "type": "public",
+    "date": "1/06 5:31",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Rlly? Let me see",
+    "msgClasses": "chat_message bneon14"
   }
 ]
