@@ -8148,5 +8148,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "same",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7940773",
+    "type": "public",
+    "date": "1/06 2:41",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "i not sleeping the next 5 days",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
