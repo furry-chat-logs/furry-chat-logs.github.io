@@ -5238,5 +5238,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Either daily rewards, or scratch cards. Undecided.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940366",
+    "type": "public",
+    "date": "1/06 1:01",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "That'd be cool",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940367",
+    "type": "public",
+    "date": "1/06 1:01",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Ah",
+    "msgClasses": "chat_message "
   }
 ]
