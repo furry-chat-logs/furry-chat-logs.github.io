@@ -13556,5 +13556,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_fa7b64ee90de.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941314",
+    "type": "public",
+    "date": "1/06 7:41",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hes askin if he can get some candy",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941315",
+    "type": "public",
+    "date": "1/06 7:41",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "I love this angle",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
