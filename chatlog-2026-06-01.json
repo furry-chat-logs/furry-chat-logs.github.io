@@ -7618,5 +7618,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Maxwellg sick",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940614",
+    "type": "public",
+    "date": "1/06 1:24",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Mine's Sonic Unleashed",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940615",
+    "type": "public",
+    "date": "1/06 1:24",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Thx",
+    "msgClasses": "chat_message "
   }
 ]
