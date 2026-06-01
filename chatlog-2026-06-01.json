@@ -9386,5 +9386,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Let me check",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940897",
+    "type": "public",
+    "date": "1/06 4:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Is it in settings?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
