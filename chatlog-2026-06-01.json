@@ -1598,5 +1598,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "YES",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940001",
+    "type": "public",
+    "date": "1/06 0:19",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "LMFAO",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
