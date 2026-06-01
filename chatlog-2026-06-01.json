@@ -10126,5 +10126,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Its called Ameise in german its like a whole bible",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940971",
+    "type": "public",
+    "date": "1/06 5:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "hmm Ameise",
+    "msgClasses": "chat_message bneon14"
   }
 ]
