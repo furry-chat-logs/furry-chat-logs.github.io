@@ -31124,5 +31124,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdGp4MDl1eHJ5NHF0M3BtbnE2N3h4OWxvNDc2YzFnMWVvZ3BrYzJqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OfJcE5KHI6c2y57RCs/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943089",
+    "type": "public",
+    "date": "1/06 18:51",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_d559e203c0a0.gif]",
+    "msgClasses": "chat_message "
   }
 ]
