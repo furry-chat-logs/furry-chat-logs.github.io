@@ -21106,5 +21106,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "We all*",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939548",
+    "type": "public",
+    "date": "31/05 22:36",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Volkner K people consider being gay weird",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
