@@ -9606,5 +9606,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Is there still someone online?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940919",
+    "type": "public",
+    "date": "1/06 5:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Mememememe",
+    "msgClasses": "chat_message bneon14"
   }
 ]
