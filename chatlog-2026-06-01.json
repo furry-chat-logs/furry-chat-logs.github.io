@@ -8668,5 +8668,13 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "And she didnt even turn it off now the battery drains",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940825",
+    "type": "system",
+    "date": "1/06 3:58",
+    "username": "System",
+    "userId": null,
+    "message": "SBB has been kicked"
   }
 ]
