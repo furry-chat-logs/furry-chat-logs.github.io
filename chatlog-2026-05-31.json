@@ -19186,5 +19186,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "My DC is so dry UGUGUGUGHUGGUU [toro]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939356",
+    "type": "public",
+    "date": "31/05 19:20",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Porphyrophobia join the club",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939357",
+    "type": "public",
+    "date": "31/05 19:20",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Nini everyone,",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
