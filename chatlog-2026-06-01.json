@@ -4468,5 +4468,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "cøllieシ If you pay an excessive amount of money.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940289",
+    "type": "public",
+    "date": "1/06 0:53",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Derpo fox is me",
+    "msgClasses": "chat_message "
   }
 ]
