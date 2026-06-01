@@ -25864,5 +25864,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bro",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942551",
+    "type": "public",
+    "date": "1/06 13:32",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm *dieses *",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
