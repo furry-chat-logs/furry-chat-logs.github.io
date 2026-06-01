@@ -29904,5 +29904,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Thats a phone you feel like an phone?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942966",
+    "type": "public",
+    "date": "1/06 18:08",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Thats crazy",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942967",
+    "type": "public",
+    "date": "1/06 18:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "SBB dude how fucking spastic ru",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
