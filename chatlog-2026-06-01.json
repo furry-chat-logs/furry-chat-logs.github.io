@@ -4178,5 +4178,35 @@
     "username": "System",
     "userId": null,
     "message": "Vanilla has been removed from chat"
+  },
+  {
+    "id": "7940260",
+    "type": "public",
+    "date": "1/06 0:50",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Thx",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940261",
+    "type": "public",
+    "date": "1/06 0:50",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "X3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940262",
+    "type": "public",
+    "date": "1/06 0:50",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "dam Data",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
