@@ -15386,5 +15386,15 @@
     "userClasses": "username bneon4 ",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2N4anhubzUzcjN3cmN3Y3FwdzdqOWwwb3Nsd3M0eHM5MmNiYnYxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941497",
+    "type": "public",
+    "date": "1/06 9:12",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMWFzeWh0Z2htYnplZWVsZHhoZ2x4YjduazJmbTB5MGNsdWJlaWhwZCZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/BXjqytvu9bKzCUHdzz/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
