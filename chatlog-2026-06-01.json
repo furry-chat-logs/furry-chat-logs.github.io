@@ -23674,5 +23674,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Maxwellg what's derpo",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942330",
+    "type": "public",
+    "date": "1/06 12:28",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "It mean i dumb",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942331",
+    "type": "public",
+    "date": "1/06 12:28",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I js have a Bobcat",
+    "msgClasses": "chat_message bneon19"
   }
 ]
