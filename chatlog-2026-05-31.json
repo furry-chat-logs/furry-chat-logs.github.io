@@ -19216,5 +19216,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Numm Bug nini",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939359",
+    "type": "public",
+    "date": "31/05 19:21",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
