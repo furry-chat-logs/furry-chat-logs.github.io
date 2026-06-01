@@ -26114,5 +26114,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "How yall doin?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942576",
+    "type": "public",
+    "date": "1/06 13:47",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Fine ima head to bed soon its 8:37 pm",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
