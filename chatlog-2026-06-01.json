@@ -13846,5 +13846,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Get him some food or he will snif the hell out of u guys",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941343",
+    "type": "public",
+    "date": "1/06 7:45",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB my lens is broken and works better",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
