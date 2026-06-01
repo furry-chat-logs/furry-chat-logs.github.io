@@ -28924,5 +28924,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "I forgot how to type",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7942868",
+    "type": "public",
+    "date": "1/06 16:15",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Crazy",
+    "msgClasses": "chat_message "
   }
 ]
