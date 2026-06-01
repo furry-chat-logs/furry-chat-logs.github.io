@@ -258,5 +258,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sonic The Hedgehog shure",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939867",
+    "type": "public",
+    "date": "1/06 0:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan lost one",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
