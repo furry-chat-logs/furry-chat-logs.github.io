@@ -828,5 +828,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Unsettling",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939924",
+    "type": "public",
+    "date": "1/06 0:12",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "What?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
