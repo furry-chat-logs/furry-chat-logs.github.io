@@ -6188,5 +6188,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Frogmin i been furry since i joined this site",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940461",
+    "type": "public",
+    "date": "1/06 1:12",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Maxwellg Helluva Boss content is not welcome here.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940462",
+    "type": "public",
+    "date": "1/06 1:12",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Just a warning.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
