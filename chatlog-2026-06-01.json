@@ -6238,5 +6238,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Ye",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940466",
+    "type": "public",
+    "date": "1/06 1:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I used to be a furry because of how much I crushed on Chuck E. Cheese [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940467",
+    "type": "public",
+    "date": "1/06 1:12",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I became 1 in 2020 Maxwellg",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
