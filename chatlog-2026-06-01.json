@@ -618,5 +618,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Miss Kit Lyman said it first",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939903",
+    "type": "public",
+    "date": "1/06 0:10",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Curiousity killed the cat yk",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939904",
+    "type": "public",
+    "date": "1/06 0:10",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "covered Soras ears, she's js a lil guy! Don't teach them those things!!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
