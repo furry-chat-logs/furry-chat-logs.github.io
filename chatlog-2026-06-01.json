@@ -23874,5 +23874,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Maxwellg what language is that",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942350",
+    "type": "public",
+    "date": "1/06 12:31",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Mdekoni that's OBVIOUSLY Derpenease",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942351",
+    "type": "public",
+    "date": "1/06 12:31",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_ecf65b525fef.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942352",
+    "type": "public",
+    "date": "1/06 12:31",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "English",
+    "msgClasses": "chat_message "
   }
 ]
