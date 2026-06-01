@@ -19046,5 +19046,25 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Imma eat hold",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941866",
+    "type": "public",
+    "date": "1/06 10:47",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Should I make a secret share",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7941867",
+    "type": "public",
+    "date": "1/06 10:47",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Maxwellg hold",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
