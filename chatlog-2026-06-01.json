@@ -25084,5 +25084,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "there are 2 basses on that rack",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7942472",
+    "type": "public",
+    "date": "1/06 12:53",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SBB not that kind a bass, bass guitar",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
