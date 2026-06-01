@@ -30194,5 +30194,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOW91ZHlma2VmYWF2dWw2cGQwZ2dwd3plZ2s0d3ZteWI4NzJybzNuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/En7SC5h3Ql4v1f29TX/giphy.gif]",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942995",
+    "type": "public",
+    "date": "1/06 18:14",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "New Kid Like Kim Jong Un",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7942996",
+    "type": "public",
+    "date": "1/06 18:14",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmanU3dDd6M3RkMmZ2NjNnMHFoZ2Vnd294NWY0ZW41bDc3aWZpMWRiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dwZOgH1bBCwco/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
