@@ -5708,5 +5708,45 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "I just joined today",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940413",
+    "type": "public",
+    "date": "1/06 1:08",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": ":3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940414",
+    "type": "public",
+    "date": "1/06 1:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Just realized what time it was 🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940415",
+    "type": "public",
+    "date": "1/06 1:08",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Maxwellg leave while you still can..",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7940416",
+    "type": "public",
+    "date": "1/06 1:08",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "i mean",
+    "msgClasses": "chat_message bneon14 bold bfont9"
   }
 ]
