@@ -12676,5 +12676,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "I am doing ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941226",
+    "type": "public",
+    "date": "1/06 7:24",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_cc2c0b4bbb1e.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
