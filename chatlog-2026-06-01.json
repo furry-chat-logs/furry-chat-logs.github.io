@@ -7808,5 +7808,15 @@
     "userClasses": "username user ",
     "message": "Sometimes you just gotta throw someone into traffic",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940680",
+    "type": "public",
+    "date": "1/06 1:39",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Relatable",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
