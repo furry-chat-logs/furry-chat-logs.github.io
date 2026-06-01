@@ -10456,5 +10456,25 @@
     "userClasses": "username bcolor27 ",
     "message": "I get to see my girlfriend tomorroooww",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7941004",
+    "type": "public",
+    "date": "1/06 5:50",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "😍",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7941005",
+    "type": "public",
+    "date": "1/06 5:50",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "yayay",
+    "msgClasses": "chat_message bneon14"
   }
 ]
