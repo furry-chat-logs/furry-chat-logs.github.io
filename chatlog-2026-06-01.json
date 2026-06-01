@@ -22804,5 +22804,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "The time has come",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942242",
+    "type": "public",
+    "date": "1/06 11:51",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_e3066b0133f5.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
