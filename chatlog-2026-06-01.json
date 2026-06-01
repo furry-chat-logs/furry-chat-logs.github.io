@@ -16466,5 +16466,15 @@
     "userClasses": "username user ",
     "message": "Thanks man!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941607",
+    "type": "public",
+    "date": "1/06 9:43",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "it's only early morning for me",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
