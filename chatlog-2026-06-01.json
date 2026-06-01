@@ -29794,5 +29794,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Are rlly going to take so much care of that single rule",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942955",
+    "type": "public",
+    "date": "1/06 18:03",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Yes",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7942956",
+    "type": "public",
+    "date": "1/06 18:03",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "It's a rule",
+    "msgClasses": "chat_message bneon19"
   }
 ]
