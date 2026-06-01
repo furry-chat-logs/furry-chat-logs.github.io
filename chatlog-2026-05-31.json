@@ -21706,5 +21706,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Who?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939614",
+    "type": "public",
+    "date": "31/05 23:19",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "JustAnAnt HA I love that emote",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
