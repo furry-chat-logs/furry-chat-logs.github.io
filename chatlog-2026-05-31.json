@@ -23506,5 +23506,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "My phone is not phoning",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7939813",
+    "type": "public",
+    "date": "31/05 23:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Lol same",
+    "msgClasses": "chat_message bneon14"
   }
 ]
