@@ -13366,5 +13366,15 @@
     "userClasses": "username bgrad5 bnfont6",
     "message": "You mean the JOB application?",
     "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7941295",
+    "type": "public",
+    "date": "1/06 7:38",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Nope",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
