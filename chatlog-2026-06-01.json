@@ -16376,5 +16376,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "how about yourself?",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7941598",
+    "type": "public",
+    "date": "1/06 9:41",
+    "username": "YapperCat",
+    "userId": "37481",
+    "userClasses": "username user ",
+    "message": "Fair enough! What made you tired today if that's ok asking?",
+    "msgClasses": "chat_message "
   }
 ]
