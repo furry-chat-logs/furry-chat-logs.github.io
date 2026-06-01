@@ -22386,5 +22386,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNmowenlqamJpYnlrcnAwMWQxNG80MDh5a3RxY2ZscnM2amNwMWZtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lSvALxIxdofVZGVcYP/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939701",
+    "type": "public",
+    "date": "31/05 23:34",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Sonic The Hedgehog *stench",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7939702",
+    "type": "public",
+    "date": "31/05 23:34",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "OK now you're just shit talking",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
