@@ -8628,5 +8628,15 @@
     "userClasses": "username bgrad11 bnfont14",
     "message": "SBB same",
     "msgClasses": "chat_message bgrad38  bfont14"
+  },
+  {
+    "id": "7940821",
+    "type": "public",
+    "date": "1/06 3:16",
+    "username": "paimon",
+    "userId": "710",
+    "userClasses": "username bgrad40 ",
+    "message": "who wanna call",
+    "msgClasses": "chat_message bgrad40 boldital bfont3"
   }
 ]
