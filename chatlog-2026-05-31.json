@@ -21466,5 +21466,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "What's up everybody?!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939590",
+    "type": "public",
+    "date": "31/05 23:12",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Hello my wolf brother! Ashton the hellhound",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
