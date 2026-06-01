@@ -3056,5 +3056,25 @@
     "userClasses": "username user ",
     "message": "This post has been marked as spam",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940147",
+    "type": "public",
+    "date": "1/06 0:38",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Lmfao",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940148",
+    "type": "public",
+    "date": "1/06 0:38",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "XD",
+    "msgClasses": "chat_message "
   }
 ]
