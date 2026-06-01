@@ -10816,5 +10816,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "🥀🐜",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941040",
+    "type": "public",
+    "date": "1/06 6:19",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Ashton the hellhound I woke up like an hour ago",
+    "msgClasses": "chat_message bold"
   }
 ]
