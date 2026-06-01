@@ -26504,5 +26504,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I mean bat",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942615",
+    "type": "public",
+    "date": "1/06 13:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Cuz its upside down again 🙄",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942616",
+    "type": "public",
+    "date": "1/06 13:55",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Why tractor tho?",
+    "msgClasses": "chat_message "
   }
 ]
