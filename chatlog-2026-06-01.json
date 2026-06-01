@@ -9336,5 +9336,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I dunnooo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940892",
+    "type": "public",
+    "date": "1/06 4:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "How do I find this infooo",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940893",
+    "type": "public",
+    "date": "1/06 4:58",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "If you want i can tell you how u see it",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940894",
+    "type": "public",
+    "date": "1/06 4:58",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Do you know the model name?",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
