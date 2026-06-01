@@ -4578,5 +4578,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Province* ZephTheFloofBoi",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940300",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "?",
+    "msgClasses": "chat_message "
   }
 ]
