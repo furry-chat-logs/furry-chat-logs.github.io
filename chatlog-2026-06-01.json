@@ -21486,5 +21486,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Kissis you",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942110",
+    "type": "public",
+    "date": "1/06 11:22",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "😰",
+    "msgClasses": "chat_message bneon9"
   }
 ]
