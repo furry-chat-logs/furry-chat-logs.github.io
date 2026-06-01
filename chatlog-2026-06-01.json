@@ -28204,5 +28204,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "给新生儿起名叫“Crazy”",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942796",
+    "type": "public",
+    "date": "1/06 15:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "SBB 滚开！坐着你的轮椅离我远点，你这身患恶疾、浑身抽搐的残废！",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
