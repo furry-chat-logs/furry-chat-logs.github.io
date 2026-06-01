@@ -28124,5 +28124,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "是啊，难怪，你这胖子",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942788",
+    "type": "public",
+    "date": "1/06 15:06",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": ":>",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
