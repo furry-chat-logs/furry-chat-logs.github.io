@@ -20356,5 +20356,15 @@
     "userClasses": "username bcolor19 bnfont16",
     "message": "Mwahhahha I'm back after a year",
     "msgClasses": "chat_message bneon19 ital bfont1"
+  },
+  {
+    "id": "7939473",
+    "type": "public",
+    "date": "31/05 21:42",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Kit in her original language",
+    "msgClasses": "chat_message bneon19"
   }
 ]
