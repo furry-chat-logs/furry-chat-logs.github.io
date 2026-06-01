@@ -4928,5 +4928,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I like vocaloiddd",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940335",
+    "type": "public",
+    "date": "1/06 0:58",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Me too",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940336",
+    "type": "public",
+    "date": "1/06 0:58",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": ":3",
+    "msgClasses": "chat_message "
   }
 ]
