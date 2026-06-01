@@ -21796,5 +21796,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Wow nice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939623",
+    "type": "public",
+    "date": "31/05 23:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_2273dca03e75.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939624",
+    "type": "public",
+    "date": "31/05 23:20",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Ashton the hellhound let me look at them",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
