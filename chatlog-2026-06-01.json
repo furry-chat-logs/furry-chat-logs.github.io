@@ -3456,5 +3456,65 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_748cb9f9cd7b.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940187",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Nah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940188",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "Bluetooth",
+    "userId": "34073",
+    "userClasses": "username bcolor12 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user34073_4f1cf85d4934.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940189",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "oh great what is THIS GUY doing here",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7940190",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Um",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940191",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "cøllieシ",
+    "userId": "35229",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "😠",
+    "msgClasses": "chat_message bneon14 bold bfont9"
+  },
+  {
+    "id": "7940192",
+    "type": "public",
+    "date": "1/06 0:42",
+    "username": "Bluetooth",
+    "userId": "34073",
+    "userClasses": "username bcolor12 bnfont6",
+    "message": "I'm sleepy",
+    "msgClasses": "chat_message bcolor12 heavyital bfont13"
   }
 ]
