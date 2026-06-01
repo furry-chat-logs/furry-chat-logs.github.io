@@ -10726,5 +10726,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa I'm back from school 😀",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941031",
+    "type": "public",
+    "date": "1/06 6:16",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Mdekoni damn....",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
