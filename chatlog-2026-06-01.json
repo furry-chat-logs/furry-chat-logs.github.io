@@ -5528,5 +5528,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Just a question",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940395",
+    "type": "public",
+    "date": "1/06 1:07",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Sonic The Hedgehog No.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940396",
+    "type": "public",
+    "date": "1/06 1:07",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Me is co-- in me",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940397",
+    "type": "public",
+    "date": "1/06 1:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Frogmin Isn't he that guy from Fortnite",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
