@@ -23266,5 +23266,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Weird",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939789",
+    "type": "public",
+    "date": "31/05 23:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai] ..",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
