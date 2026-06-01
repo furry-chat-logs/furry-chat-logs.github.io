@@ -4508,5 +4508,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "SoraTheMikuFan a canadian providence. i searched it up",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7940293",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh phewww",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940294",
+    "type": "public",
+    "date": "1/06 0:54",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "search it up if you dont believe me",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
