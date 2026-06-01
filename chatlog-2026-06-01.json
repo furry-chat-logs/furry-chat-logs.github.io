@@ -938,5 +938,45 @@
     "userClasses": "username user ",
     "message": "Also fox btw",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939935",
+    "type": "public",
+    "date": "1/06 0:13",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Maxwellg u mean filian",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939936",
+    "type": "public",
+    "date": "1/06 0:13",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "also.",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7939937",
+    "type": "public",
+    "date": "1/06 0:13",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ur filian n",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939938",
+    "type": "public",
+    "date": "1/06 0:13",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username user ",
+    "message": "?",
+    "msgClasses": "chat_message "
   }
 ]
