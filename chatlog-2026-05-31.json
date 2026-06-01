@@ -22246,5 +22246,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939687",
+    "type": "public",
+    "date": "31/05 23:31",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Every time I go to school I'm popular shit",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7939688",
+    "type": "public",
+    "date": "31/05 23:31",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Maybe idk to be honest tho",
+    "msgClasses": "chat_message "
   }
 ]
