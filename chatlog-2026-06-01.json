@@ -31064,5 +31064,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_8298a7db0d66.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943082",
+    "type": "public",
+    "date": "1/06 18:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_52c92dd897d4.png]",
+    "msgClasses": "chat_message "
   }
 ]
