@@ -26304,5 +26304,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "War",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942595",
+    "type": "public",
+    "date": "1/06 13:50",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Ik",
+    "msgClasses": "chat_message "
   }
 ]
