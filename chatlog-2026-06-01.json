@@ -3366,5 +3366,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Maxwellg i like creamy better",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7940178",
+    "type": "public",
+    "date": "1/06 0:41",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Yo im listening to a dark zone on repeat",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940179",
+    "type": "public",
+    "date": "1/06 0:41",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Bluetooth what",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
