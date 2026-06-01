@@ -6708,5 +6708,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Pride month is on June",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940513",
+    "type": "public",
+    "date": "1/06 1:16",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "It this month",
+    "msgClasses": "chat_message "
   }
 ]
