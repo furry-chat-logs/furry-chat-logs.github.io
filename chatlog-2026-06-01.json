@@ -25044,5 +25044,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Lyman wow",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7942468",
+    "type": "public",
+    "date": "1/06 12:52",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_9b88a8dd10b3.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
