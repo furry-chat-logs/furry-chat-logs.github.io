@@ -9306,5 +9306,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yep",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940889",
+    "type": "public",
+    "date": "1/06 4:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Welp what is a monitor wait",
+    "msgClasses": "chat_message bneon14"
   }
 ]
