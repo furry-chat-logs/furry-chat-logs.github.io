@@ -7828,5 +7828,15 @@
     "userClasses": "username user ",
     "message": "Life comes at you fast. Maybe not as fast as a car though",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940685",
+    "type": "public",
+    "date": "1/06 1:40",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[troll]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
