@@ -30504,5 +30504,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMzExOHNnZ21yazZhdndwNzJxdXYyN3NoNm81bzRocjJ4Y2gzeTllZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ibKWtXAdE0Wfr45GF8/giphy.gif]",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943026",
+    "type": "public",
+    "date": "1/06 18:25",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_cb85960d7426.png]",
+    "msgClasses": "chat_message "
   }
 ]
