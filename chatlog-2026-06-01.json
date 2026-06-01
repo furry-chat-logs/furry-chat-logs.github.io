@@ -31164,5 +31164,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Something i dont know either",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943093",
+    "type": "public",
+    "date": "1/06 18:54",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNXBnYWZyYWV6bXdkOHU3MDE5MGd6dG92b3lra2Nsc3JmY2VmZDQzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kkSwp2senUho4mVaok/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
