@@ -16946,5 +16946,15 @@
     "userClasses": "username bcolor22 bnfont16",
     "message": "How's chu been",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941655",
+    "type": "public",
+    "date": "1/06 10:03",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "RainbowDashTaiwanWDP good",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
