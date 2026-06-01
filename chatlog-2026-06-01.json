@@ -17646,5 +17646,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Leeland twinkle twinkle little star (finish it)",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941725",
+    "type": "public",
+    "date": "1/06 10:22",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "Mdekoni i will hit you with a metal bar /j",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
