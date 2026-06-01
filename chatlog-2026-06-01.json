@@ -4768,5 +4768,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Bruh u giving me Vedal vibes Frogmin",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940319",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I don't know what a vedal is.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
