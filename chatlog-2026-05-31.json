@@ -20366,5 +20366,15 @@
     "userClasses": "username bneon4 ",
     "message": "Kit in her original language",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939474",
+    "type": "public",
+    "date": "31/05 21:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaGE0MmR1aGJicGR5c2NybXhtN214Z3RxZTB6ZnoxcWRtazduMThoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
