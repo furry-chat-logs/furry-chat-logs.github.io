@@ -25434,5 +25434,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "SBB PHSYCOPATH.",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7942507",
+    "type": "public",
+    "date": "1/06 12:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "AND IT ACTUALLY WORKS",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
