@@ -2068,5 +2068,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Speaking of rats",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940048",
+    "type": "public",
+    "date": "1/06 0:27",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Huh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940049",
+    "type": "public",
+    "date": "1/06 0:27",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Hello Rat",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
