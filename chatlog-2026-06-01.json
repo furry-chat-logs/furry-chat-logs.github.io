@@ -11246,5 +11246,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan bros right now",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941083",
+    "type": "public",
+    "date": "1/06 6:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "THANK YOU SO MUCH!!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941084",
+    "type": "public",
+    "date": "1/06 6:55",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Happy pride month 🏳️‍🌈🏳️‍🌈🏳️‍🌈",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941085",
+    "type": "public",
+    "date": "1/06 6:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "np",
+    "msgClasses": "chat_message bneon14"
   }
 ]
