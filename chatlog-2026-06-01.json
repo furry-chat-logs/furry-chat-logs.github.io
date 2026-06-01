@@ -238,5 +238,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMW5hMm1yZWNqNnA2bHhnZWtieWEwZHc2NWR5NW12ZTVyM2MzOGF5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1T5quZXHJNwq5NqWAw/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939865",
+    "type": "public",
+    "date": "1/06 0:04",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_78caf512bd2c.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939866",
+    "type": "public",
+    "date": "1/06 0:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog shure",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
