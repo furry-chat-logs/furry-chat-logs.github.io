@@ -21536,5 +21536,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939597",
+    "type": "public",
+    "date": "31/05 23:15",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Me too man! Just here relaxing and chatting",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
