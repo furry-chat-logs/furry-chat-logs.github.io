@@ -22586,5 +22586,13 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Stink",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7942220",
+    "type": "system",
+    "date": "1/06 11:46",
+    "username": "System",
+    "userId": null,
+    "message": "HandsOffMyFurry has been removed from chat"
   }
 ]
