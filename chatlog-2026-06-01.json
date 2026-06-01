@@ -13276,5 +13276,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Fine",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941286",
+    "type": "public",
+    "date": "1/06 7:37",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I still feel scared abt that one smart picture",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941287",
+    "type": "public",
+    "date": "1/06 7:37",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "It was so scary",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7941288",
+    "type": "public",
+    "date": "1/06 7:37",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "I see:)",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
