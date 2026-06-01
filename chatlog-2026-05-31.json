@@ -21846,5 +21846,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "*sad wolf again*",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7939633",
+    "type": "public",
+    "date": "31/05 23:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_9bb209cfb2b8.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7939634",
+    "type": "public",
+    "date": "31/05 23:22",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Aw it's ok Volkner ^^",
+    "msgClasses": "chat_message "
   }
 ]
