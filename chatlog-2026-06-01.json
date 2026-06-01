@@ -2898,5 +2898,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "I'll look for the screenshots",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940131",
+    "type": "public",
+    "date": "1/06 0:36",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Oh also in dnd",
+    "msgClasses": "chat_message "
   }
 ]
