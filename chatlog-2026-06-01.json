@@ -8706,5 +8706,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "We were supposed to play vrchatttt",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940829",
+    "type": "public",
+    "date": "1/06 4:00",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "SoraTheMikuFan You can talk with people who are muted through secret share",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
