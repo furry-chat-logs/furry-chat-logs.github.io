@@ -30104,5 +30104,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "I don't care that you're athiest",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7942986",
+    "type": "public",
+    "date": "1/06 18:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "You're still a human",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
