@@ -29184,5 +29184,25 @@
     "userClasses": "username bneon18 ",
     "message": "Gothamchess? [moai]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7942894",
+    "type": "public",
+    "date": "1/06 16:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "i beat the world against chess",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7942895",
+    "type": "public",
+    "date": "1/06 16:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "or some shi",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
