@@ -5398,5 +5398,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Nice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940382",
+    "type": "public",
+    "date": "1/06 1:03",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I dropped out of school when I was 15; and got in trouble for tax evasion for the first time when I was 16.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
