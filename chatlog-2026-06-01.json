@@ -7408,5 +7408,75 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Sonic can move",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940584",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Like he should",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940585",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Nobody",
+    "userId": "27175",
+    "userClasses": "username bcolor18 bnfont11",
+    "message": "XD",
+    "msgClasses": "chat_message bcolor18  bfont13"
+  },
+  {
+    "id": "7940586",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Don't let the Jews find out",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940587",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmajFtMWE5Nng2NjgwbWpqeWgyNnRtcTRtcnhwNG81djc0anFsbWJrcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NcrhM3USM6TABpus85/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940588",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940589",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "In game",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940590",
+    "type": "public",
+    "date": "1/06 1:22",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Maxwellg",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
