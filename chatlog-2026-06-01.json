@@ -16486,5 +16486,25 @@
     "userClasses": "username user ",
     "message": "Thundercloud gaming sounds like a true gamer name",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941609",
+    "type": "public",
+    "date": "1/06 9:43",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "in the land of.. I don't know, maple syrup",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7941610",
+    "type": "public",
+    "date": "1/06 9:43",
+    "username": "YapperCat",
+    "userId": "37481",
+    "userClasses": "username user ",
+    "message": "NeptuneLynxx yo mines like 12 pm for me",
+    "msgClasses": "chat_message "
   }
 ]
