@@ -8816,5 +8816,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "SoraTheMikuFan could you perhaps make a discord account?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940840",
+    "type": "public",
+    "date": "1/06 4:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I got kicked due VPN",
+    "msgClasses": "chat_message "
   }
 ]
