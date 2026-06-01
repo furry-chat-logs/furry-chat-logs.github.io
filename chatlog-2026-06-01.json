@@ -1848,5 +1848,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_4dd8f4e501e9.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940026",
+    "type": "public",
+    "date": "1/06 0:23",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdjNuOTBybXdkdnVtY2IwdnEwcGx1bWZxeTRsNGRybWI1aXl4cWllNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C8pFrAn8a2lkOQzu0L/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940027",
+    "type": "public",
+    "date": "1/06 0:23",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Let's talo about how you can use rarats for your next execution!t",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
