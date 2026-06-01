@@ -9496,5 +9496,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "That's not a bad CPU",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940908",
+    "type": "public",
+    "date": "1/06 5:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I got a intel core i7",
+    "msgClasses": "chat_message "
   }
 ]
