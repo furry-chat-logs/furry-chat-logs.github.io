@@ -3216,5 +3216,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Maxwellg How art thou",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7940163",
+    "type": "public",
+    "date": "1/06 0:39",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "I eating peanut butter from jar",
+    "msgClasses": "chat_message "
   }
 ]
