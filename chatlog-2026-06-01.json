@@ -10716,5 +10716,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "it hurts...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7941030",
+    "type": "public",
+    "date": "1/06 6:16",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa I'm back from school 😀",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
