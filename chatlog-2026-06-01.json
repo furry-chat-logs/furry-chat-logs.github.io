@@ -13926,5 +13926,45 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Awww",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941351",
+    "type": "public",
+    "date": "1/06 7:46",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "SoraTheMikuFan thank you:)",
+    "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7941352",
+    "type": "public",
+    "date": "1/06 7:46",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "oh hey Mr. fox",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941353",
+    "type": "public",
+    "date": "1/06 7:46",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_2bff3cefd5f4.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941354",
+    "type": "public",
+    "date": "1/06 7:46",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Stop the car cap",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
