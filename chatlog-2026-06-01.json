@@ -11116,5 +11116,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lyman wdym",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941070",
+    "type": "public",
+    "date": "1/06 6:51",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Windowd wants to reboot",
+    "msgClasses": "chat_message "
   }
 ]
