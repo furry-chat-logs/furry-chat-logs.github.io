@@ -9566,5 +9566,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "That's $400 down the drain",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940915",
+    "type": "public",
+    "date": "1/06 5:05",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I got a few things left on the PC I'm building",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
