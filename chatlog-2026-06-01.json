@@ -2428,5 +2428,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "It's farrr",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940084",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No wonder why I always call him gramps. ✌🏽🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940085",
+    "type": "public",
+    "date": "1/06 0:30",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Im gay gf",
+    "msgClasses": "chat_message "
   }
 ]
