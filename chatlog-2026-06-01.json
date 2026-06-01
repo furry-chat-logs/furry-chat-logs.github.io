@@ -14486,5 +14486,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_bc03414fd8f1.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7941407",
+    "type": "public",
+    "date": "1/06 8:00",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Nebulais_0 I'm working on mine rn",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7941408",
+    "type": "public",
+    "date": "1/06 8:00",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "And when I ordered the cou it came the same cooler lol",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7941409",
+    "type": "public",
+    "date": "1/06 8:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I can turn of single coolers of these three",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
