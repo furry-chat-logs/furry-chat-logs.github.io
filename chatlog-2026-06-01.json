@@ -8498,5 +8498,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Junge hör auf zu lügen",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940808",
+    "type": "public",
+    "date": "1/06 2:56",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Dann ist Ihr Körper es nicht gewohnt.",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7940809",
+    "type": "public",
+    "date": "1/06 2:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Es ist wichtig zu schlafen",
+    "msgClasses": "chat_message "
   }
 ]
