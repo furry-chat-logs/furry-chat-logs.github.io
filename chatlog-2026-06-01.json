@@ -9366,5 +9366,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Do you know the model name?",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940895",
+    "type": "public",
+    "date": "1/06 4:58",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I bet not",
+    "msgClasses": "chat_message "
   }
 ]
