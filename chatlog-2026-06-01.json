@@ -7698,5 +7698,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "We got Chris Chans everywhere",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940630",
+    "type": "public",
+    "date": "1/06 1:26",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc2d4dDFhMmY3NWkzY3ZpdzE2Y3h0dnA2MTJ2dDFtNHdwYnRzbmIyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YbE9Nrzof7lT7qEhQ1/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940631",
+    "type": "public",
+    "date": "1/06 1:26",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Chip my fav char from that game",
+    "msgClasses": "chat_message "
   }
 ]
