@@ -10476,5 +10476,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "yayay",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941006",
+    "type": "public",
+    "date": "1/06 5:50",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "But that also means im going to college 😓",
+    "msgClasses": "chat_message bold"
   }
 ]
