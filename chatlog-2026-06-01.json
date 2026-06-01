@@ -6358,5 +6358,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "For WHAT",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940478",
+    "type": "public",
+    "date": "1/06 1:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcHRjZmU2OGFncjZteTBvbjZraDE0dHhtbjl6ZDc2Znpoc2Q4cXdjdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HJYTTrJMzBLyT5JDUa/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940479",
+    "type": "public",
+    "date": "1/06 1:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Maxwellg YOU SAID WHAT",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
