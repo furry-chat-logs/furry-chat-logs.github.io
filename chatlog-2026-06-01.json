@@ -4828,5 +4828,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "What's weird but really smart is that the owners and admins usernames don't show up in the participants list",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7940325",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Im listening to chaos",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940326",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "\"Music to my ears\"",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940327",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "When they're online",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
