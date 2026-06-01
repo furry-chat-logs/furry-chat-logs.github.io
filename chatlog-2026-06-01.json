@@ -18756,5 +18756,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "SBB wha what",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7941837",
+    "type": "public",
+    "date": "1/06 10:43",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB lol Meister proper aber okay",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941838",
+    "type": "public",
+    "date": "1/06 10:43",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Its a Text from the bible :>",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
