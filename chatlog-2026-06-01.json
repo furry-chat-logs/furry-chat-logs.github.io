@@ -1298,5 +1298,25 @@
     "userClasses": "username bneon4 ",
     "message": "Schatt...",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939971",
+    "type": "public",
+    "date": "1/06 0:15",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Why is there a hole in the peanut butter",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7939972",
+    "type": "public",
+    "date": "1/06 0:15",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Miss Kit AY YOU KNOW",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
