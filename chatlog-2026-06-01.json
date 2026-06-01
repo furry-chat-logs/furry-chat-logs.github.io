@@ -5568,5 +5568,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_9cb3595ca370.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940399",
+    "type": "public",
+    "date": "1/06 1:07",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Oop",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940400",
+    "type": "public",
+    "date": "1/06 1:07",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "welp",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7940401",
+    "type": "public",
+    "date": "1/06 1:07",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Porphyrophobia No. JFK is the American that gets shot in the head.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
