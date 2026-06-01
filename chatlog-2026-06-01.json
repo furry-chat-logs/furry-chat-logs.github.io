@@ -15166,5 +15166,15 @@
     "userClasses": "username bneon4 ",
     "message": "😂",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7941475",
+    "type": "public",
+    "date": "1/06 9:09",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "😐",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
