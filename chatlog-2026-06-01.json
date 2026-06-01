@@ -12316,5 +12316,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "This me",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7941190",
+    "type": "public",
+    "date": "1/06 7:15",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Mdekoni cute",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
   }
 ]
