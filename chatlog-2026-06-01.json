@@ -648,5 +648,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "WAIT I'M A CAT-",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7939906",
+    "type": "public",
+    "date": "1/06 0:11",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "👀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939907",
+    "type": "public",
+    "date": "1/06 0:11",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Miss Kit you have 16+ on E621 according to Instagram",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939908",
+    "type": "public",
+    "date": "1/06 0:11",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Miss Kit my boyfrend won't admit that he is gayer than me",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7939909",
+    "type": "public",
+    "date": "1/06 0:11",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "oh mb",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
