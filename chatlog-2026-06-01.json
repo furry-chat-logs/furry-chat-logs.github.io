@@ -4268,5 +4268,35 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Like rn?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940269",
+    "type": "public",
+    "date": "1/06 0:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Cute Cinnamoroll ~",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940270",
+    "type": "public",
+    "date": "1/06 0:51",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Ill be here still",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940271",
+    "type": "public",
+    "date": "1/06 0:51",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36773_72d827f00391.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
