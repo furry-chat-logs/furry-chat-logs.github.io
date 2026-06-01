@@ -23236,5 +23236,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Well, I'm agnostic-atheist",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7939786",
+    "type": "public",
+    "date": "31/05 23:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I'm not joking.",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939787",
+    "type": "public",
+    "date": "31/05 23:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "It's called Adonitology",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
