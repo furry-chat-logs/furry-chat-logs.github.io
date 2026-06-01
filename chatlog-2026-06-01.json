@@ -20496,5 +20496,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "what is that",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7942011",
+    "type": "public",
+    "date": "1/06 11:11",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Bro what the hell who said that Mdekoni",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
