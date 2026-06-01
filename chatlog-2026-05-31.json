@@ -19416,5 +19416,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Heyo",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7939379",
+    "type": "public",
+    "date": "31/05 19:53",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Grggrgrgrg",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
