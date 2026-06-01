@@ -25174,5 +25174,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I can change the cable of the snare to the othter drums like my bass",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942481",
+    "type": "public",
+    "date": "1/06 12:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "That means my snare will be bass and my bass will be snare",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942482",
+    "type": "public",
+    "date": "1/06 12:55",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "SBB Is your token sleeping rn",
+    "msgClasses": "chat_message bneon19"
   }
 ]
