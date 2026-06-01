@@ -1378,5 +1378,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Well, you said you didn't need to use it",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7939979",
+    "type": "public",
+    "date": "1/06 0:16",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_e5444d011dec.gif]",
+    "msgClasses": "chat_message "
   }
 ]
