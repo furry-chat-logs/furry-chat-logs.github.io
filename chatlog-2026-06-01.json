@@ -4778,5 +4778,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I don't know what a vedal is.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7940320",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "What yall listening to?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940321",
+    "type": "public",
+    "date": "1/06 0:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oof",
+    "msgClasses": "chat_message bneon14"
   }
 ]
