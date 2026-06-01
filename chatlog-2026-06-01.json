@@ -24844,5 +24844,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Dont read what the display sais",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942447",
+    "type": "public",
+    "date": "1/06 12:50",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "That's so sick though",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7942448",
+    "type": "public",
+    "date": "1/06 12:50",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "Yo",
+    "msgClasses": "chat_message "
   }
 ]
