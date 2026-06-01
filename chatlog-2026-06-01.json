@@ -26104,5 +26104,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ello Maxwellg",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942575",
+    "type": "public",
+    "date": "1/06 13:47",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "How yall doin?",
+    "msgClasses": "chat_message "
   }
 ]
