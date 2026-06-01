@@ -2528,5 +2528,55 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Game is game",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940094",
+    "type": "public",
+    "date": "1/06 0:32",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "XD",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7940095",
+    "type": "public",
+    "date": "1/06 0:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I like them real old [troll]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940096",
+    "type": "public",
+    "date": "1/06 0:32",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Omg unfairrrrr",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7940097",
+    "type": "public",
+    "date": "1/06 0:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7940098",
+    "type": "public",
+    "date": "1/06 0:32",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmN2pwZjc5ZzFoNnp2N292a3M5YXl5c284NjU0NzkwbzI4amd4ODZkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oBepTjuK9fTKZLxbZW/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
