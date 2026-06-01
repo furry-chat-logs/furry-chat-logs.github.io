@@ -24884,5 +24884,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "1,300€",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942451",
+    "type": "public",
+    "date": "1/06 12:51",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Drumset has me feeling Higher",
+    "msgClasses": "chat_message bneon19"
   }
 ]
