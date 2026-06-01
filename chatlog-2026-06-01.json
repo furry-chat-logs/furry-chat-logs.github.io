@@ -25634,5 +25634,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Miku told me she had a sticky laptop",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7942527",
+    "type": "public",
+    "date": "1/06 13:14",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Omg... I just saw a Michael Jackson revilation...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
