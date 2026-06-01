@@ -23484,5 +23484,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "The derpo fox is back",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942311",
+    "type": "public",
+    "date": "1/06 12:24",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_7f120e95b55c.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
