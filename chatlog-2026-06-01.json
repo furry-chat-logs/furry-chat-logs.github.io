@@ -23544,5 +23544,15 @@
     "userClasses": "username bcolor2 bnfont3",
     "message": "Ah kk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942317",
+    "type": "public",
+    "date": "1/06 12:25",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "This is all I read seeing other languages here",
+    "msgClasses": "chat_message bneon19"
   }
 ]
