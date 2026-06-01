@@ -23734,5 +23734,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Imma go eat something pancakes",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7942336",
+    "type": "public",
+    "date": "1/06 12:29",
+    "username": "Maxwellg",
+    "userId": "37473",
+    "userClasses": "username bcolor2 bnfont3",
+    "message": "So i big derpo fox",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7942337",
+    "type": "public",
+    "date": "1/06 12:29",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa nom nom bye👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
