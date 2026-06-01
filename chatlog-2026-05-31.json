@@ -21176,5 +21176,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Sad day. Klofu the Ageplayer still isn't banned.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7939555",
+    "type": "public",
+    "date": "31/05 22:42",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Who...?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
