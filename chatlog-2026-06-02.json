@@ -11952,5 +11952,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "my bday is july 3rd, im so glad it isnt in june",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944731",
+    "type": "public",
+    "date": "2/06 14:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I don't know if st Thomas has any pride month events tho so I should probably be ok",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
