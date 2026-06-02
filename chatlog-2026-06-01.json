@@ -32304,5 +32304,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Chat just died :/",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943209",
+    "type": "public",
+    "date": "1/06 20:16",
+    "username": "mxgic_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "SBB indeed",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
