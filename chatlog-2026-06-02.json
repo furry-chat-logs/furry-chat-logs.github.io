@@ -9604,5 +9604,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "If I give dating advice I might get called a biggot again though",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944496",
+    "type": "public",
+    "date": "2/06 13:00",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "New Kid pfft",
+    "msgClasses": "chat_message bneon19"
   }
 ]
