@@ -33632,5 +33632,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "uhoh",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943377",
+    "type": "public",
+    "date": "1/06 22:01",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "They're a hello kitty fan so it's valid",
+    "msgClasses": "chat_message "
   }
 ]
