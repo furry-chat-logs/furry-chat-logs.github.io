@@ -2136,5 +2136,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Mao",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943746",
+    "type": "public",
+    "date": "2/06 3:21",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "mao",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
