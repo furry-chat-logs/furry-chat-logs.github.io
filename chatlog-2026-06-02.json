@@ -9914,5 +9914,15 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "oh",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7944527",
+    "type": "public",
+    "date": "2/06 13:05",
+    "username": "absurdfurry",
+    "userId": "30116",
+    "userClasses": "username bneon19 bnfont6",
+    "message": "what",
+    "msgClasses": "chat_message bgrad10  bfont11"
   }
 ]
