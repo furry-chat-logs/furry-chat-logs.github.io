@@ -2744,5 +2744,15 @@
     "userClasses": "username bneon14 bnfont7",
     "message": "Ello :3",
     "msgClasses": "chat_message bneon14 heavybold bfont2"
+  },
+  {
+    "id": "7943809",
+    "type": "public",
+    "date": "2/06 6:05",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ello",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
