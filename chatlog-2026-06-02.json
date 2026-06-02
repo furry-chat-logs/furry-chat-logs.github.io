@@ -2486,5 +2486,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I sent a report",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943783",
+    "type": "public",
+    "date": "2/06 4:37",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_14eadbf05db6.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
