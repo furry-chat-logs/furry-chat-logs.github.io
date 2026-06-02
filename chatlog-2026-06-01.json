@@ -32794,5 +32794,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_a20732382aa9.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943258",
+    "type": "public",
+    "date": "1/06 21:04",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_805373ffef26.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943259",
+    "type": "public",
+    "date": "1/06 21:04",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "mxgic_mondo oh yeaaah",
+    "msgClasses": "chat_message "
   }
 ]
