@@ -3404,5 +3404,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_2867af17ba49.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943875",
+    "type": "public",
+    "date": "2/06 8:34",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Pfft",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943876",
+    "type": "public",
+    "date": "2/06 8:34",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
