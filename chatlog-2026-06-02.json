@@ -798,5 +798,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_519e31ba854d.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943607",
+    "type": "public",
+    "date": "2/06 0:49",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Well folks, I have Linux now",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943608",
+    "type": "public",
+    "date": "2/06 0:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "ZephTheFloofBoi you need to try iy",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943609",
+    "type": "public",
+    "date": "2/06 0:49",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[cool]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
