@@ -14082,5 +14082,15 @@
     "userClasses": "username bneon21 bnfont16",
     "message": "QueenKit stop saying slrs!!",
     "msgClasses": "chat_message bneon21 ital"
+  },
+  {
+    "id": "7944952",
+    "type": "public",
+    "date": "2/06 18:52",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "QueenKit glop bloop glap",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
