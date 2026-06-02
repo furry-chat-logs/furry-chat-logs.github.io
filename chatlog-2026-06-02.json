@@ -6714,5 +6714,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Like 2 times a year or more",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944206",
+    "type": "public",
+    "date": "2/06 10:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Last year it was rlly bad like 4 times",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944207",
+    "type": "public",
+    "date": "2/06 10:57",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
