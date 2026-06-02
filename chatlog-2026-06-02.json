@@ -11222,5 +11222,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Same",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944658",
+    "type": "public",
+    "date": "2/06 14:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Buggo I have thes I finke cupl in my school and they are so discussing.",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944659",
+    "type": "public",
+    "date": "2/06 14:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "And it's lowk fucking annoying",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
