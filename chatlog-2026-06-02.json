@@ -3174,5 +3174,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Good",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943852",
+    "type": "public",
+    "date": "2/06 8:14",
+    "username": "RainbowDashTaiwanWDP",
+    "userId": "37012",
+    "userClasses": "username bcolor22 bnfont16",
+    "message": "Sames",
+    "msgClasses": "chat_message "
   }
 ]
