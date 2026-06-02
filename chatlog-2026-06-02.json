@@ -238,5 +238,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Just type in / coins",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7943551",
+    "type": "public",
+    "date": "2/06 0:19",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "How it an emoji 5000?!",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
