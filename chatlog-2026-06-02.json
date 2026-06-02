@@ -10892,5 +10892,25 @@
     "userClasses": "username bgrad15 ",
     "message": "But its okay bc my grandma said shed take me to get froyo when she gets off of work",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944625",
+    "type": "public",
+    "date": "2/06 13:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_c1c67f4263c1.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944626",
+    "type": "public",
+    "date": "2/06 13:54",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Class party?",
+    "msgClasses": "chat_message "
   }
 ]
