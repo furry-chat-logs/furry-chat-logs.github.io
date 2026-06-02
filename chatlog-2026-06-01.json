@@ -34722,5 +34722,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Hunter77 im alright, you?",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943491",
+    "type": "public",
+    "date": "1/06 23:18",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "I'm chilling just bored atm",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
