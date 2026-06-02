@@ -11562,5 +11562,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Oh damn",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944692",
+    "type": "public",
+    "date": "2/06 14:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Was it good or bad flashbacks",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
