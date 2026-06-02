@@ -33394,5 +33394,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "18 and life you got it 18 in life to go your crime is time and it's 18 in life to go",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7943318",
+    "type": "public",
+    "date": "1/06 21:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Oh damn",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7943319",
+    "type": "public",
+    "date": "1/06 21:43",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "The restaurant is burning",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
