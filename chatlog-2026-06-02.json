@@ -5734,5 +5734,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Oh uhh",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944108",
+    "type": "public",
+    "date": "2/06 10:29",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "what websites tell u this kinda stuff",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944109",
+    "type": "public",
+    "date": "2/06 10:29",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": ":3",
+    "msgClasses": "chat_message bneon14"
   }
 ]
