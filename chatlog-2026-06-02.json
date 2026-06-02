@@ -6664,5 +6664,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan nooo",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944201",
+    "type": "public",
+    "date": "2/06 10:56",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan bruh",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944202",
+    "type": "public",
+    "date": "2/06 10:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm so scared throwing up is like dying for me",
+    "msgClasses": "chat_message bneon14"
   }
 ]
