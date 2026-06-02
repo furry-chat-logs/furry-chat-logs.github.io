@@ -5124,5 +5124,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Chat",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944047",
+    "type": "public",
+    "date": "2/06 9:45",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Good morning",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944048",
+    "type": "public",
+    "date": "2/06 9:45",
+    "username": "Magnavox 20MT1331-17",
+    "userId": "32908",
+    "userClasses": "username bneon19 bnfont12",
+    "message": "Oh, you graduate soon? Congratulations.",
+    "msgClasses": "chat_message bneon1 heavybold bfont14"
+  },
+  {
+    "id": "7944049",
+    "type": "public",
+    "date": "2/06 9:45",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "First time not drawing a furry face on in awhile",
+    "msgClasses": "chat_message bneon19"
   }
 ]
