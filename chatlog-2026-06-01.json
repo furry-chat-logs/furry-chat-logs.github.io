@@ -34342,5 +34342,35 @@
     "userClasses": "username bgrad39 ",
     "message": "Wait he definitely doesn't know it's me",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7943453",
+    "type": "public",
+    "date": "1/06 23:10",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Sharkish my hours have gone down thankfully",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7943454",
+    "type": "public",
+    "date": "1/06 23:10",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Lux lux lux sahur",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7943455",
+    "type": "public",
+    "date": "1/06 23:10",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "12-16 is a bit long",
+    "msgClasses": "chat_message "
   }
 ]
