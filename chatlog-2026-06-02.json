@@ -258,5 +258,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Thats a whole week of vip",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7943553",
+    "type": "public",
+    "date": "2/06 0:21",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "The emojis I got ranged from 150-500 coins",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
