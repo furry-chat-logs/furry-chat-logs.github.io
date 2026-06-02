@@ -4104,5 +4104,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Sol_Aizawa hru ?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7943945",
+    "type": "public",
+    "date": "2/06 9:06",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Numm Bug still in pain",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
