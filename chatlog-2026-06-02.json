@@ -2894,5 +2894,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Denkst du d###### irgendjemand schreiben wird? Keine sau ist online brudda 2/06 14:17 I'm just bored bro SBB",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943824",
+    "type": "public",
+    "date": "2/06 7:19",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Okay das was ich geschrieben habe enthält keine beleidigung",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
