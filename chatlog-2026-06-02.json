@@ -3094,5 +3094,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Why it rave",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943844",
+    "type": "public",
+    "date": "2/06 8:13",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "gm!!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
