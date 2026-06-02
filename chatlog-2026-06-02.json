@@ -2256,5 +2256,15 @@
     "userClasses": "username bcolor15 ",
     "message": "Wowowo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943759",
+    "type": "public",
+    "date": "2/06 3:47",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "welcome :3",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
