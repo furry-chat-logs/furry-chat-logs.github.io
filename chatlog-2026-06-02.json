@@ -8684,5 +8684,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Oh thats fun...",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944403",
+    "type": "public",
+    "date": "2/06 12:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "How fun",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944404",
+    "type": "public",
+    "date": "2/06 12:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "HELP ME PLS",
+    "msgClasses": "chat_message bneon14"
   }
 ]
