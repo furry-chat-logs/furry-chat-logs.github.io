@@ -8424,5 +8424,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online Smiley get back online",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7944377",
+    "type": "public",
+    "date": "2/06 11:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I'm here I'm here",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944378",
+    "type": "public",
+    "date": "2/06 11:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_ad24bace5951.gif]",
+    "msgClasses": "chat_message "
   }
 ]
