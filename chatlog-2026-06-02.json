@@ -6744,5 +6744,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan how",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944209",
+    "type": "public",
+    "date": "2/06 10:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I mean like code name for throwing up",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944210",
+    "type": "public",
+    "date": "2/06 10:57",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's hard for me to say it",
+    "msgClasses": "chat_message bneon14"
   }
 ]
