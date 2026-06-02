@@ -9344,5 +9344,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_7f5f5266946c.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944470",
+    "type": "public",
+    "date": "2/06 12:51",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon14 bnfont7",
+    "message": "Anything (ss) totally haven't heard that before",
+    "msgClasses": "chat_message bneon14 heavybold bfont2"
   }
 ]
