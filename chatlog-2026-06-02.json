@@ -4714,5 +4714,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yippeee",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944006",
+    "type": "public",
+    "date": "2/06 9:39",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "no problem",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
