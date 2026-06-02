@@ -468,5 +468,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Yayy",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943574",
+    "type": "public",
+    "date": "2/06 0:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": ":boykisser.png:",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943575",
+    "type": "public",
+    "date": "2/06 0:30",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "There you go",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
