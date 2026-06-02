@@ -608,5 +608,35 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Okay i'm gonna sleep for now",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7943588",
+    "type": "public",
+    "date": "2/06 0:32",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[wolf] [wolf] [wolf] [wolf] [wolf] [wolf]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7943589",
+    "type": "public",
+    "date": "2/06 0:32",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I am tired AF and tomorrow I have a radio interview",
+    "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7943590",
+    "type": "public",
+    "date": "2/06 0:32",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "See ya",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
