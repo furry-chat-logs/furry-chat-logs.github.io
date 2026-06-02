@@ -1896,5 +1896,15 @@
     "username": "System",
     "userId": null,
     "message": "L Dog has been kicked"
+  },
+  {
+    "id": "7943717",
+    "type": "public",
+    "date": "2/06 1:50",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Lmao what'd they even do",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
