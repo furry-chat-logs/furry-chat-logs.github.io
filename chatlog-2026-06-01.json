@@ -32004,5 +32004,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello happy Pride month everyone",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943177",
+    "type": "public",
+    "date": "1/06 19:36",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmajUxNjRjZW04MGo0cGg1bTM5OXp1ank0aDI2eGJnN3hsc29pZG9tbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PAbvx0vbWiUqsI1gtg/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7943178",
+    "type": "public",
+    "date": "1/06 19:36",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "I love pride month but in its case we should also get a month for people who actually fought for the country",
+    "msgClasses": "chat_message bneon19"
   }
 ]
