@@ -2704,5 +2704,15 @@
     "username": "System",
     "userId": null,
     "message": "BigSpiderman18 has been kicked"
+  },
+  {
+    "id": "7943805",
+    "type": "public",
+    "date": "2/06 5:45",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Big Spiderman",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
