@@ -12472,5 +12472,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I wanted to sume in to the picture.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944783",
+    "type": "public",
+    "date": "2/06 14:57",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Mdekoni ion know how to use that",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944784",
+    "type": "public",
+    "date": "2/06 14:58",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "im js playing dw im not slow",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
