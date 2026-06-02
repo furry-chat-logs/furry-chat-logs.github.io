@@ -33622,5 +33622,15 @@
     "username": "System",
     "userId": null,
     "message": "prEtzeL has been muted"
+  },
+  {
+    "id": "7943370",
+    "type": "public",
+    "date": "1/06 21:59",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "uhoh",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
