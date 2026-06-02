@@ -33254,5 +33254,15 @@
     "userClasses": "username user ",
     "message": "Relatively peaceful",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943304",
+    "type": "public",
+    "date": "1/06 21:38",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
