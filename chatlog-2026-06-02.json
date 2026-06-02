@@ -358,5 +358,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "wait",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7943563",
+    "type": "public",
+    "date": "2/06 0:27",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Remove the_just put the name tag between 2 colons",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
