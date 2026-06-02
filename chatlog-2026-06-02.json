@@ -4024,5 +4024,35 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Sol_Aizawa how are u on this lovely day?",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7943937",
+    "type": "public",
+    "date": "2/06 9:02",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "mxgic_mondo in pain",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943938",
+    "type": "public",
+    "date": "2/06 9:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I got 355 is that enough",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943939",
+    "type": "public",
+    "date": "2/06 9:02",
+    "username": "mxgic_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Sol_Aizawa oh no",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
