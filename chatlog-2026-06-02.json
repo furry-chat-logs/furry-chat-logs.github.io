@@ -498,5 +498,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "does not work with me",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943577",
+    "type": "public",
+    "date": "2/06 0:30",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You have to buy Sol_Aizawa",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
