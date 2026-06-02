@@ -34872,5 +34872,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": ":3",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943506",
+    "type": "public",
+    "date": "1/06 23:34",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": ":3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943507",
+    "type": "public",
+    "date": "1/06 23:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] Mostly bad consequences.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
