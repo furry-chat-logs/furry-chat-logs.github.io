@@ -9674,5 +9674,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Funny TikTok guy",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944503",
+    "type": "public",
+    "date": "2/06 13:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_3c0b2ffe591c.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
