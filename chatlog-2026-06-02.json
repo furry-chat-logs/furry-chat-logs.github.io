@@ -5654,5 +5654,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "And",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944100",
+    "type": "public",
+    "date": "2/06 10:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Found the diddy dimension key",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
