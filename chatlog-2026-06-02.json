@@ -5224,5 +5224,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Zxn hi !",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944057",
+    "type": "public",
+    "date": "2/06 9:46",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "hellou",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7944058",
+    "type": "public",
+    "date": "2/06 9:46",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'm at school so I won't be on for long",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944059",
+    "type": "public",
+    "date": "2/06 9:46",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "alright class started",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
