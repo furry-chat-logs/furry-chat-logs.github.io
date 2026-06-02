@@ -1548,5 +1548,35 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943682",
+    "type": "public",
+    "date": "2/06 1:40",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_a85a9635324c.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943683",
+    "type": "public",
+    "date": "2/06 1:40",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Cabom",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943684",
+    "type": "public",
+    "date": "2/06 1:40",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Mdekoni SoraTheMikuFan Mdekoni said it",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
