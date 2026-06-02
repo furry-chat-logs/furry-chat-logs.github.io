@@ -31764,5 +31764,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "RUNE...",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943153",
+    "type": "public",
+    "date": "1/06 19:12",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "im sobing",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943154",
+    "type": "public",
+    "date": "1/06 19:12",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "sibning",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
