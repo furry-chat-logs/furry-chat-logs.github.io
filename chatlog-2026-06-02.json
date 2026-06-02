@@ -7714,5 +7714,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB cool",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944306",
+    "type": "public",
+    "date": "2/06 11:19",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "SBB woah",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944307",
+    "type": "public",
+    "date": "2/06 11:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Like on the almost last day of last summer break",
+    "msgClasses": "chat_message bneon14"
   }
 ]
