@@ -32244,5 +32244,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "maruchan is better than top ramen",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7943202",
+    "type": "public",
+    "date": "1/06 19:53",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Should i get my speaker at 5 AM, put it on the balcony,and play tri poloski?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
