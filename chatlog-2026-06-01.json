@@ -31664,5 +31664,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "sobbing",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943143",
+    "type": "public",
+    "date": "1/06 19:09",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Jumping [moai]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
