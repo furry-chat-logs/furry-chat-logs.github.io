@@ -31884,5 +31884,15 @@
     "userClasses": "username bneon4 ",
     "message": "Yawn",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943165",
+    "type": "public",
+    "date": "1/06 19:21",
+    "username": "R؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "[good]",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
