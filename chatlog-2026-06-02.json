@@ -3744,5 +3744,65 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "My dad can't own a gun because he's too trigger happy 💀",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7943909",
+    "type": "public",
+    "date": "2/06 8:39",
+    "username": "Cog",
+    "userId": "11087",
+    "userClasses": "username bneon31 bnfont11",
+    "message": "All because I knew someone who knew someone in management",
+    "msgClasses": "chat_message bneon31 bold bfont13"
+  },
+  {
+    "id": "7943910",
+    "type": "public",
+    "date": "2/06 8:39",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdDhlZXJyazU0eHQ1aTJ5bmh3OG1kcTVycHgwcmV0MHJkYTY5c3luMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g2o5wP8a3CIFpVQiia/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943911",
+    "type": "public",
+    "date": "2/06 8:39",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Cog yes!",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943912",
+    "type": "public",
+    "date": "2/06 8:39",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "That's another thing",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943913",
+    "type": "public",
+    "date": "2/06 8:39",
+    "username": "Cog",
+    "userId": "11087",
+    "userClasses": "username bneon31 bnfont11",
+    "message": "SilverXD ayeeee that sounds like me, jk. Sorry bout that",
+    "msgClasses": "chat_message bneon31 bold bfont13"
+  },
+  {
+    "id": "7943914",
+    "type": "public",
+    "date": "2/06 8:39",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I have a few connections",
+    "msgClasses": "chat_message bneon19"
   }
 ]
