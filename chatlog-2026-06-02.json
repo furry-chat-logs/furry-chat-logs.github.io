@@ -13492,5 +13492,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "It 4:30 here",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7944891",
+    "type": "public",
+    "date": "2/06 16:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "am orpm?",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7944892",
+    "type": "public",
+    "date": "2/06 16:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*or pm",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
