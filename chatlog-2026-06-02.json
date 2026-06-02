@@ -1976,5 +1976,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "I am so fucked....",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943730",
+    "type": "public",
+    "date": "2/06 3:12",
+    "username": "Scruffz",
+    "userId": "37493",
+    "userClasses": "username user ",
+    "message": "Woof hello",
+    "msgClasses": "chat_message "
   }
 ]
