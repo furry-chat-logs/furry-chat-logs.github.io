@@ -12382,5 +12382,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "its a pish...",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944774",
+    "type": "public",
+    "date": "2/06 14:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "No its Pina",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
