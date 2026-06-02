@@ -32454,5 +32454,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "hihi",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943224",
+    "type": "public",
+    "date": "1/06 20:39",
+    "username": "Evann",
+    "userId": "24398",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "How yall doing?",
+    "msgClasses": "chat_message bneon29 ital bfont2"
   }
 ]
