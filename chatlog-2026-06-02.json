@@ -14092,5 +14092,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "QueenKit glop bloop glap",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944953",
+    "type": "public",
+    "date": "2/06 18:52",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZmdiYjN0end5NHNuM2h4a3p1a25xYmhoamJ1czcyZXZxOW9mcWhyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wjTBn1ECUjLzy/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
