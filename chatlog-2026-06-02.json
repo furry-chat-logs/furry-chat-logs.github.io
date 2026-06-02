@@ -8224,5 +8224,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Its an Halogen bulb",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7944357",
+    "type": "public",
+    "date": "2/06 11:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ooooh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
