@@ -7914,5 +7914,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo buggo 4d",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944326",
+    "type": "public",
+    "date": "2/06 11:22",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Oh yeah i came up with a concept for 4D in my head when my sickness was really bad",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944327",
+    "type": "public",
+    "date": "2/06 11:22",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_d584ddfb8231.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
