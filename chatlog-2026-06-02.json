@@ -12072,5 +12072,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "They acting like that YOU in specific activated pride month",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944743",
+    "type": "public",
+    "date": "2/06 14:25",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Bruh I'm managing the store by myself for a whole hour",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7944744",
+    "type": "public",
+    "date": "2/06 14:25",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "ik",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
