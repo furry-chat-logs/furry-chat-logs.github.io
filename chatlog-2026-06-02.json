@@ -5384,5 +5384,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Squarest Bear salutations",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7944073",
+    "type": "public",
+    "date": "2/06 9:54",
+    "username": "Squarest Bear",
+    "userId": "36962",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "How are you doin today",
+    "msgClasses": "chat_message bneon10 ital bfont3"
   }
 ]
