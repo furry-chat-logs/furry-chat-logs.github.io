@@ -13072,5 +13072,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Angel crust is next",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7944845",
+    "type": "public",
+    "date": "2/06 16:00",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "damn",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
