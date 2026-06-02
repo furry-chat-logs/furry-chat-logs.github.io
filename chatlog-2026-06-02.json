@@ -328,5 +328,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": ":_ soso:",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7943560",
+    "type": "public",
+    "date": "2/06 0:26",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You put the name of the emoji In between the coins next to the underscore",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
