@@ -9524,5 +9524,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[secret-share: ZjWdu4ve7squN7iFJf5RaWSca&n=47553] qa",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944488",
+    "type": "public",
+    "date": "2/06 12:58",
+    "username": "Rat؜",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "test",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
