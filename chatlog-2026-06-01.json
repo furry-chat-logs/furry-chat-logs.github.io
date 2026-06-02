@@ -33902,5 +33902,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "[lynxfox]",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943409",
+    "type": "public",
+    "date": "1/06 22:37",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "That's one weird looking cat",
+    "msgClasses": "chat_message "
   }
 ]
