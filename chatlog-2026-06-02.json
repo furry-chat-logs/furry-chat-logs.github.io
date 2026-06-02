@@ -10094,5 +10094,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I'm throwing my phone in a vat of acid atp",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944545",
+    "type": "public",
+    "date": "2/06 13:13",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm trying to troll the trolls atp",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
