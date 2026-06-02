@@ -10224,5 +10224,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "They harrass us",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944558",
+    "type": "public",
+    "date": "2/06 13:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "So is it only fair to harass them back",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
