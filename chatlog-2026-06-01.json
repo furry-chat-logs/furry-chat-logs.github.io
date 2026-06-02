@@ -33682,5 +33682,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "real",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943387",
+    "type": "public",
+    "date": "1/06 22:15",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Nah I'm ai",
+    "msgClasses": "chat_message "
   }
 ]
