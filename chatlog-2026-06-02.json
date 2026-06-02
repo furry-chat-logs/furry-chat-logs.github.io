@@ -4124,5 +4124,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "and the pain med aren't helping",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943947",
+    "type": "public",
+    "date": "2/06 9:07",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Sol_Aizawa go hospital,",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7943948",
+    "type": "public",
+    "date": "2/06 9:07",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[cry]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
