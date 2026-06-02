@@ -9094,5 +9094,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "XD",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944444",
+    "type": "public",
+    "date": "2/06 12:38",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I forgot my lunch and i don't even have a book to read",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
