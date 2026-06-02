@@ -32574,5 +32574,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[pokerface]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7943236",
+    "type": "public",
+    "date": "1/06 20:50",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmanU3dDd6M3RkMmZ2NjNnMHFoZ2Vnd294NWY0ZW41bDc3aWZpMWRiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5cjgoeKubHDSU/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
