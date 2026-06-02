@@ -12372,5 +12372,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Is it a cat or a fish?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944773",
+    "type": "public",
+    "date": "2/06 14:48",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "its a pish...",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
