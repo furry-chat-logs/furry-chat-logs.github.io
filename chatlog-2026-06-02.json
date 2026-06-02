@@ -9414,5 +9414,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[secret-share: EvIGzcYdzVDxX9FMoaC0omeFx&n=47552] ask anything I guess",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944477",
+    "type": "public",
+    "date": "2/06 12:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_bf3446fd36ec.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944478",
+    "type": "public",
+    "date": "2/06 12:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "R we deadass",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
