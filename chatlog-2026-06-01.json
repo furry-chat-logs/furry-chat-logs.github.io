@@ -33224,5 +33224,25 @@
     "userClasses": "username bneon4 ",
     "message": "Yawners",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943301",
+    "type": "public",
+    "date": "1/06 21:36",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Today sucked :/",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943302",
+    "type": "public",
+    "date": "1/06 21:36",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "What did I do?",
+    "msgClasses": "chat_message "
   }
 ]
