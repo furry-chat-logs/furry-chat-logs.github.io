@@ -12602,5 +12602,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa im bored.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944796",
+    "type": "public",
+    "date": "2/06 15:07",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "I am not",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7944797",
+    "type": "public",
+    "date": "2/06 15:07",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "I am chatting with ma bestie",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
