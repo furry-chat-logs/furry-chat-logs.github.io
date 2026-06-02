@@ -9724,5 +9724,25 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "oh tht guy",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7944508",
+    "type": "public",
+    "date": "2/06 13:02",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "New Kid",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944509",
+    "type": "public",
+    "date": "2/06 13:02",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "he's funny lol",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
