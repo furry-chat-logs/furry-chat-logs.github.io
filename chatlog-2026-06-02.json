@@ -8234,5 +8234,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Ooooh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944358",
+    "type": "public",
+    "date": "2/06 11:42",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB okay",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
