@@ -1628,5 +1628,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Ooh eeh ooh",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943690",
+    "type": "public",
+    "date": "2/06 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Just sing Miku Miku oo-ee-oo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
