@@ -4344,5 +4344,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "You want to talk about it?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943969",
+    "type": "public",
+    "date": "2/06 9:16",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "no",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943970",
+    "type": "public",
+    "date": "2/06 9:16",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Okay",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
