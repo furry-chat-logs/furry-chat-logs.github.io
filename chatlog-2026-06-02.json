@@ -1638,5 +1638,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Just sing Miku Miku oo-ee-oo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943691",
+    "type": "public",
+    "date": "2/06 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "The full song",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943692",
+    "type": "public",
+    "date": "2/06 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Here sing along!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
