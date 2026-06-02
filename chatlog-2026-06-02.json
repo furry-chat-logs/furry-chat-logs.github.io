@@ -12302,5 +12302,15 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "catfish camaro",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7944766",
+    "type": "public",
+    "date": "2/06 14:41",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Leeland phish",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
