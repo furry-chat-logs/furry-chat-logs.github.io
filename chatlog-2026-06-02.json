@@ -11512,5 +11512,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo 🫪",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944687",
+    "type": "public",
+    "date": "2/06 14:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I've recently travelled back to my old home from when I was 10 with Google maps",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
