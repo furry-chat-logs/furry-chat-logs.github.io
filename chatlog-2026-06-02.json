@@ -4394,5 +4394,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943974",
+    "type": "public",
+    "date": "2/06 9:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "but lets not be sad",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943975",
+    "type": "public",
+    "date": "2/06 9:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "were still friends",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
