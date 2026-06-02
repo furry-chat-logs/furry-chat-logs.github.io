@@ -34782,5 +34782,45 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "damn",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943497",
+    "type": "public",
+    "date": "1/06 23:26",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "it sucks",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7943498",
+    "type": "public",
+    "date": "1/06 23:26",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "then dm me or something",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943499",
+    "type": "public",
+    "date": "1/06 23:26",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "oh",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943500",
+    "type": "public",
+    "date": "1/06 23:26",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "F",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
