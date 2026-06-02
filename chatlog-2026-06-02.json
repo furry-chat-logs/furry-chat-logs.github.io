@@ -11642,5 +11642,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "this is sad.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944700",
+    "type": "public",
+    "date": "2/06 14:11",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_bcb73502cc3b.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944701",
+    "type": "public",
+    "date": "2/06 14:12",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Bear",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
