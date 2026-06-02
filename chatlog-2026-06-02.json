@@ -10942,5 +10942,15 @@
     "userClasses": "username user ",
     "message": "Oh im guessing you live in a different country",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944630",
+    "type": "public",
+    "date": "2/06 13:55",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Buggo 😭",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
