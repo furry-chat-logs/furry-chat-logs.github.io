@@ -5374,5 +5374,15 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "Hello to all!",
     "msgClasses": "chat_message bneon10 ital bfont3"
+  },
+  {
+    "id": "7944072",
+    "type": "public",
+    "date": "2/06 9:52",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Squarest Bear salutations",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
