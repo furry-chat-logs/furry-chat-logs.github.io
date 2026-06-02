@@ -2964,5 +2964,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Her you go 23467898532357890",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943831",
+    "type": "public",
+    "date": "2/06 7:24",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "thats not an adress",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
