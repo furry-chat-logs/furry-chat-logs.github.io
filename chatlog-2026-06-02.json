@@ -6504,5 +6504,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_422ab6f99131.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944185",
+    "type": "public",
+    "date": "2/06 10:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "New Kid dogggg",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944186",
+    "type": "public",
+    "date": "2/06 10:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "New Kid wats his name?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
