@@ -1018,5 +1018,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "All my steam friends are just gone",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943629",
+    "type": "public",
+    "date": "2/06 1:18",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB damm",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
