@@ -298,5 +298,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Hello little one",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7943557",
+    "type": "public",
+    "date": "2/06 0:24",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Good morning",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
