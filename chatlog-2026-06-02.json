@@ -11702,5 +11702,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Ur art is awesome",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944706",
+    "type": "public",
+    "date": "2/06 14:12",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "New Kid Ty!!! I sold my soul to the devil for my art skills.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944707",
+    "type": "public",
+    "date": "2/06 14:12",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "omg hi guys! i got all the pride month merch from helluva boss",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
