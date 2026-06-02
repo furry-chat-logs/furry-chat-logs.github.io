@@ -3574,5 +3574,15 @@
     "userClasses": "username bneon31 bnfont11",
     "message": "QueenKit probably got 5k in a safe",
     "msgClasses": "chat_message bneon31 bold bfont13"
+  },
+  {
+    "id": "7943892",
+    "type": "public",
+    "date": "2/06 8:36",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Cog in Monopoly money maybe",
+    "msgClasses": "chat_message bneon19"
   }
 ]
