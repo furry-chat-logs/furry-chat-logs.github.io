@@ -2216,5 +2216,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": ":3c",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7943754",
+    "type": "public",
+    "date": "2/06 3:38",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ can i hug art",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943755",
+    "type": "public",
+    "date": "2/06 3:38",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "im going eat it",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
