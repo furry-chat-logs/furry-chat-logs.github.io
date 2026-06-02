@@ -9784,5 +9784,25 @@
     "userClasses": "username bneon20 bnfont16",
     "message": "wouldnt surpise me",
     "msgClasses": "chat_message bneon20 ital"
+  },
+  {
+    "id": "7944514",
+    "type": "public",
+    "date": "2/06 13:03",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "New Kid ew",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7944515",
+    "type": "public",
+    "date": "2/06 13:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bro if I would do that I would at least try English",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
