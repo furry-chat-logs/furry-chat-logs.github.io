@@ -5174,5 +5174,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_0546bacfff90.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944052",
+    "type": "public",
+    "date": "2/06 9:45",
+    "username": "Magnavox 20MT1331-17",
+    "userId": "32908",
+    "userClasses": "username bneon19 bnfont12",
+    "message": "Very good effort.",
+    "msgClasses": "chat_message bneon1 heavybold bfont14"
+  },
+  {
+    "id": "7944053",
+    "type": "public",
+    "date": "2/06 9:45",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Face shaped !!",
+    "msgClasses": "chat_message bneon18 bold bfont4"
   }
 ]
