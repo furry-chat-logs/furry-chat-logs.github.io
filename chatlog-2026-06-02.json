@@ -10742,5 +10742,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Hi chat im back",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944610",
+    "type": "public",
+    "date": "2/06 13:49",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Buggo heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
