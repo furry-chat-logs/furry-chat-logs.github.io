@@ -448,5 +448,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": ":dragorosie3:",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943572",
+    "type": "public",
+    "date": "2/06 0:29",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[boykisser.png]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
