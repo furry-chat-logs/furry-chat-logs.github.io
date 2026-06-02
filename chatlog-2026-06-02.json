@@ -3944,5 +3944,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SilverXD bro today my dad gave me 50€e and idk why",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943929",
+    "type": "public",
+    "date": "2/06 8:56",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Ok",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
