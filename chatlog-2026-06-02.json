@@ -5394,5 +5394,15 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "How are you doin today",
     "msgClasses": "chat_message bneon10 ital bfont3"
+  },
+  {
+    "id": "7944074",
+    "type": "public",
+    "date": "2/06 9:55",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Squarest Bear hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
