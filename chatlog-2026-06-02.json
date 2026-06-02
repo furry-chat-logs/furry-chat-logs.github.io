@@ -198,5 +198,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Now that I am opening My mind with drawings I feel... A lot better",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7943547",
+    "type": "public",
+    "date": "2/06 0:16",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I found out how to get new emojis!!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
