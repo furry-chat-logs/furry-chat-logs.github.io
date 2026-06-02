@@ -7554,5 +7554,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo pore Buggo 😢",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944290",
+    "type": "public",
+    "date": "2/06 11:15",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Im just waiting for my grandpa to leave",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
