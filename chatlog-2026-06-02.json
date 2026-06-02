@@ -7824,5 +7824,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I just use it as a part",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7944317",
+    "type": "public",
+    "date": "2/06 11:20",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_3954d64d5cb8.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944318",
+    "type": "public",
+    "date": "2/06 11:20",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Wow",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
