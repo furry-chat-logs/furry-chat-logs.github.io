@@ -11992,5 +11992,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "its kinda glaze fr",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944735",
+    "type": "public",
+    "date": "2/06 14:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Yeah",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
