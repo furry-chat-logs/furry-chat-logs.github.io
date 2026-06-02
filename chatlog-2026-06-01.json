@@ -31614,5 +31614,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "💔",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943138",
+    "type": "public",
+    "date": "1/06 19:08",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "you have too many to count",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
