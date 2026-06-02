@@ -7934,5 +7934,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_d584ddfb8231.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944328",
+    "type": "public",
+    "date": "2/06 11:22",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ill now test the speedometer on 5 volt",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7944329",
+    "type": "public",
+    "date": "2/06 11:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB Brumm brum",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
