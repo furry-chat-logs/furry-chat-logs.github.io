@@ -4004,5 +4004,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "*yessir",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943935",
+    "type": "public",
+    "date": "2/06 9:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I have enough for a VR hadset 😁",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
