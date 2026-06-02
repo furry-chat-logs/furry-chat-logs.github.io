@@ -2696,5 +2696,13 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "W",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943804",
+    "type": "system",
+    "date": "2/06 5:38",
+    "username": "System",
+    "userId": null,
+    "message": "BigSpiderman18 has been kicked"
   }
 ]
