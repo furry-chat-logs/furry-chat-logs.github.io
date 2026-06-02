@@ -11072,5 +11072,15 @@
     "userClasses": "username bgrad15 ",
     "message": "New Kid Ok sure buddy",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944643",
+    "type": "public",
+    "date": "2/06 13:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "The big e himself had an island in the USVI",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
