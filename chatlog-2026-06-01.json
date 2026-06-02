@@ -32834,5 +32834,35 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user24398_e1bc6e59755b.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943262",
+    "type": "public",
+    "date": "1/06 21:05",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_de076aa17516.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943263",
+    "type": "public",
+    "date": "1/06 21:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Grhrhrifrh AFK for 3 minutes max",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7943264",
+    "type": "public",
+    "date": "1/06 21:05",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36289_93ad5a796e6d.png]",
+    "msgClasses": "chat_message "
   }
 ]
