@@ -12182,5 +12182,15 @@
     "userClasses": "username bgrad15 ",
     "message": "What other animal should i draw",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944754",
+    "type": "public",
+    "date": "2/06 14:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Un momento I need to traverse Google maps",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
