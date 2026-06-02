@@ -2754,5 +2754,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ello",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943810",
+    "type": "public",
+    "date": "2/06 6:23",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Ello",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
