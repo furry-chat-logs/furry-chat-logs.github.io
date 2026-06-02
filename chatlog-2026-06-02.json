@@ -9924,5 +9924,15 @@
     "userClasses": "username bneon19 bnfont6",
     "message": "what",
     "msgClasses": "chat_message bgrad10  bfont11"
+  },
+  {
+    "id": "7944528",
+    "type": "public",
+    "date": "2/06 13:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "What that's #relatable right",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
