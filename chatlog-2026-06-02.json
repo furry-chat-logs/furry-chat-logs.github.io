@@ -8244,5 +8244,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB okay",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944359",
+    "type": "public",
+    "date": "2/06 11:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Idk what that means but sounds cool",
+    "msgClasses": "chat_message bneon14"
   }
 ]
