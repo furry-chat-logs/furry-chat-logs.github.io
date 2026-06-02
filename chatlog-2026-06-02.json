@@ -7594,5 +7594,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Nauseated? Or something from ur Pneumonia?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944294",
+    "type": "public",
+    "date": "2/06 11:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I think it was from the pill i took this morning",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944295",
+    "type": "public",
+    "date": "2/06 11:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
