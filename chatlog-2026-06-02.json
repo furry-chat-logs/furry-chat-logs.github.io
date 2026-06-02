@@ -8214,5 +8214,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yeah its an old light bulb inside",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7944356",
+    "type": "public",
+    "date": "2/06 11:41",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Its an Halogen bulb",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
