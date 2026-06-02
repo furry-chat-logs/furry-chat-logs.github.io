@@ -10702,5 +10702,25 @@
     "userClasses": "username user ",
     "message": "Especially when you break up with somebody who wants to be with someone else",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944606",
+    "type": "public",
+    "date": "2/06 13:46",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Oh..",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944607",
+    "type": "public",
+    "date": "2/06 13:46",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I feel that one",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
