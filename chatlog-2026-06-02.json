@@ -1268,5 +1268,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nebulais_0 thay sut it down",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943654",
+    "type": "public",
+    "date": "2/06 1:32",
+    "username": "Nebulais_0",
+    "userId": "34858",
+    "userClasses": "username bgrad27 bnfont15",
+    "message": "Yeah",
+    "msgClasses": "chat_message bneon10 heavyital bfont1"
+  },
+  {
+    "id": "7943655",
+    "type": "public",
+    "date": "2/06 1:32",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nooo",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
