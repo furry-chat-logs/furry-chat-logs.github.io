@@ -2506,5 +2506,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[troll]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943785",
+    "type": "public",
+    "date": "2/06 4:47",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Chat just got dead again",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
