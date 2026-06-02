@@ -6524,5 +6524,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "New Kid wats his name?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944187",
+    "type": "public",
+    "date": "2/06 10:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea what's it's name?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
