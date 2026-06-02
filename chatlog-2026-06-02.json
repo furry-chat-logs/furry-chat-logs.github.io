@@ -13852,5 +13852,15 @@
     "userClasses": "username user ",
     "message": "i want her to vote my cosplay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944928",
+    "type": "public",
+    "date": "2/06 18:09",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemozMzJpMzV6bXpsZWR3djhtczFnMTFmdGZ6Z3ZpajRqOGhqcHV2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k7Ip1BaxWwmLQZJ7Gk/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
