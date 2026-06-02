@@ -1388,5 +1388,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "It's going pretty good how about you",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943666",
+    "type": "public",
+    "date": "2/06 1:36",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Mdekoni lmao ,i've been running on shitty wifi since May 28th,which was the day i got to Sacramento",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7943667",
+    "type": "public",
+    "date": "2/06 1:36",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Im doing good",
+    "msgClasses": "chat_message "
   }
 ]
