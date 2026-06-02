@@ -34762,5 +34762,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Bergindine no.",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7943495",
+    "type": "public",
+    "date": "1/06 23:26",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "WiFi is so ass up here i can only do 1 thing on 1 device at a time",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7943496",
+    "type": "public",
+    "date": "1/06 23:26",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "damn",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
