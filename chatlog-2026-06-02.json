@@ -8124,5 +8124,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "It glows!",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7944347",
+    "type": "public",
+    "date": "2/06 11:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oohhh orange",
+    "msgClasses": "chat_message bneon14"
   }
 ]
