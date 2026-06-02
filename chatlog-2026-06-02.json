@@ -9834,5 +9834,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bro",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944519",
+    "type": "public",
+    "date": "2/06 13:04",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "yup",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
