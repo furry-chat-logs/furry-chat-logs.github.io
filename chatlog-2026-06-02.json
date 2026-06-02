@@ -8704,5 +8704,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "HELP ME PLS",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944405",
+    "type": "public",
+    "date": "2/06 12:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_f1aea17a8859.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944406",
+    "type": "public",
+    "date": "2/06 12:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I don't know these people bro 😭",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
