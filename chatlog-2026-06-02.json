@@ -1618,5 +1618,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Miku will solve ur wifi problems ZephTheFloofBoi",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943689",
+    "type": "public",
+    "date": "2/06 1:40",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Ooh eeh ooh",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
