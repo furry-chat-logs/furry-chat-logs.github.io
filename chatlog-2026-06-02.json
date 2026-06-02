@@ -2456,5 +2456,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "I'm very skeptical of that account",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943780",
+    "type": "public",
+    "date": "2/06 4:27",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Could be a spam",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
