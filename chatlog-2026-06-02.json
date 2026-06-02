@@ -438,5 +438,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": ":boykiser.png :",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943571",
+    "type": "public",
+    "date": "2/06 0:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": ":dragorosie3:",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
