@@ -1058,5 +1058,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "I sucessfully installed Ubuntu",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943633",
+    "type": "public",
+    "date": "2/06 1:24",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog cool",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
