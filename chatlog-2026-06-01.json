@@ -33414,5 +33414,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "The restaurant is burning",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7943320",
+    "type": "public",
+    "date": "1/06 21:43",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "ITS BURNING FUCK FUCK",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7943321",
+    "type": "public",
+    "date": "1/06 21:43",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Ashton the hellhound what are you on about",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943322",
+    "type": "public",
+    "date": "1/06 21:43",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_90ebbe5f2e4c.png]",
+    "msgClasses": "chat_message "
   }
 ]
