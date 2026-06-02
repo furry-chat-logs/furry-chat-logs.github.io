@@ -5074,5 +5074,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "they've been having a hard time so I'm going to surprise them soon",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7944042",
+    "type": "public",
+    "date": "2/06 9:44",
+    "username": "Magnavox 20MT1331-17",
+    "userId": "32908",
+    "userClasses": "username bneon19 bnfont12",
+    "message": "[pills]",
+    "msgClasses": "chat_message bneon1 heavybold bfont14"
   }
 ]
