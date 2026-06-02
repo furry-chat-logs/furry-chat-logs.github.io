@@ -11522,5 +11522,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I've recently travelled back to my old home from when I was 10 with Google maps",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944688",
+    "type": "public",
+    "date": "2/06 14:05",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "It was a fun walk",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
