@@ -33154,5 +33154,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "lol XD",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943294",
+    "type": "public",
+    "date": "1/06 21:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFma3lxOWpndjBqdGFiMTl6dWs1aDRiMXQxaHZsd2Y3Y3plOHFqamt2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4AwFO4f2VLo2fIFFA2/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
