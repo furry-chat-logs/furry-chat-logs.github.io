@@ -1438,5 +1438,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Mdekoni lmao",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7943671",
+    "type": "public",
+    "date": "2/06 1:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Did somebody call meee",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943672",
+    "type": "public",
+    "date": "2/06 1:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Like moths to a flame",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
