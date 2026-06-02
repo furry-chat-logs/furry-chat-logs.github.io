@@ -4844,5 +4844,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Pfun-something",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944019",
+    "type": "public",
+    "date": "2/06 9:40",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Magnavox 20MT1331-17 yummm",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944020",
+    "type": "public",
+    "date": "2/06 9:40",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Magnavox 20MT1331-17 sup",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7944021",
+    "type": "public",
+    "date": "2/06 9:40",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8513_035ac8c3dfbe.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
