@@ -8594,5 +8594,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "SoraTheMikuFan oh",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944394",
+    "type": "public",
+    "date": "2/06 12:00",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "My g00ner friend won't stop sending me edits of her favourite kdrama couple flirting kissing and saying yummy",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944395",
+    "type": "public",
+    "date": "2/06 12:00",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "~.~",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
