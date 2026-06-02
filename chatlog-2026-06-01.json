@@ -34172,5 +34172,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user11705_559893b16eaa.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943436",
+    "type": "public",
+    "date": "1/06 23:07",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Miss Kit haven't heard this on yet",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7943437",
+    "type": "public",
+    "date": "1/06 23:07",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_4d346d46595d.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
