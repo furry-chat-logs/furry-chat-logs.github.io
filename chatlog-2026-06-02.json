@@ -9644,5 +9644,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "🥀🥀💔",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944500",
+    "type": "public",
+    "date": "2/06 13:00",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon20 bnfont16",
+    "message": "who is carter",
+    "msgClasses": "chat_message bneon20 ital"
   }
 ]
