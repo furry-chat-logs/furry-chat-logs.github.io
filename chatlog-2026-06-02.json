@@ -4524,5 +4524,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "or no banners for you anymore",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943987",
+    "type": "public",
+    "date": "2/06 9:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "channel999_mondo Mondo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943988",
+    "type": "public",
+    "date": "2/06 9:37",
+    "username": "BottomBoi",
+    "userId": "37495",
+    "userClasses": "username user ",
+    "message": "hai :3",
+    "msgClasses": "chat_message "
   }
 ]
