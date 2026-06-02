@@ -5964,5 +5964,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo like melting your froght",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944131",
+    "type": "public",
+    "date": "2/06 10:43",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "The fear of throwing up New Kid",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944132",
+    "type": "public",
+    "date": "2/06 10:43",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And Buggo I knew it was possible for it to go through ur nose",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944133",
+    "type": "public",
+    "date": "2/06 10:43",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "New Kid fear of throwing up",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
