@@ -728,5 +728,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[boykisser.png]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943600",
+    "type": "public",
+    "date": "2/06 0:42",
+    "username": "Doodlebug",
+    "userId": "37492",
+    "userClasses": "username user ",
+    "message": "Hi",
+    "msgClasses": "chat_message "
   }
 ]
