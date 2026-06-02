@@ -31504,5 +31504,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "[muted]",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943127",
+    "type": "public",
+    "date": "1/06 19:05",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "* [moai]",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
