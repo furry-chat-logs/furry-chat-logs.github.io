@@ -6114,5 +6114,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo pore you",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944146",
+    "type": "public",
+    "date": "2/06 10:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I hate when this kinda shi happens to me every time I throw up",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944147",
+    "type": "public",
+    "date": "2/06 10:45",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Genuinely should just end it right now because i have nothing else to look forward to",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
