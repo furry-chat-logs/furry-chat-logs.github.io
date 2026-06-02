@@ -10812,5 +10812,15 @@
     "userClasses": "username user ",
     "message": "Uhh who are you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944617",
+    "type": "public",
+    "date": "2/06 13:51",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I threw up and than the principle (im so good at spelling) told me they have a PoLiCy that was like if i threw up i had to go home for the day",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
