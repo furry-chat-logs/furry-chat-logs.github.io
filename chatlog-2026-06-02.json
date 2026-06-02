@@ -6344,5 +6344,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo go drink some water",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944169",
+    "type": "public",
+    "date": "2/06 10:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "My emetophobia is BAD",
+    "msgClasses": "chat_message bneon14"
   }
 ]
