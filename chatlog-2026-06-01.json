@@ -34682,5 +34682,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "hihi",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943487",
+    "type": "public",
+    "date": "1/06 23:17",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_b5bbe4fee27c.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
