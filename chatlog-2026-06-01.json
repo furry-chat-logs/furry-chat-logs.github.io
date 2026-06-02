@@ -33652,5 +33652,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "say wahalli",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7943384",
+    "type": "public",
+    "date": "1/06 22:10",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Wtfissachip crazy",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
