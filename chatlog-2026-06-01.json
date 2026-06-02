@@ -31624,5 +31624,25 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "you have too many to count",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943139",
+    "type": "public",
+    "date": "1/06 19:08",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Your chin is like that meat mountain combo",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7943140",
+    "type": "public",
+    "date": "1/06 19:08",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "If you can't count past maybe 💔💔💔",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
