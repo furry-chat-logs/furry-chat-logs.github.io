@@ -2436,5 +2436,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "How it looks like",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943777",
+    "type": "public",
+    "date": "2/06 4:26",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Yea bro could also be lying about his age though too",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
