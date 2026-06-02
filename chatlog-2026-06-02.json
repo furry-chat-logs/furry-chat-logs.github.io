@@ -5054,5 +5054,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[lynxx1]",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7944040",
+    "type": "public",
+    "date": "2/06 9:44",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[scrylveon]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
