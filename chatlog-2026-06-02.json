@@ -5634,5 +5634,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I live pretty close to where Epstein island is so",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944098",
+    "type": "public",
+    "date": "2/06 10:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I did a little digging",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944099",
+    "type": "public",
+    "date": "2/06 10:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "And",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
