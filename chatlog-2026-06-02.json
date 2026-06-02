@@ -3254,5 +3254,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Coin from amrum",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943860",
+    "type": "public",
+    "date": "2/06 8:24",
+    "username": "Cog",
+    "userId": "11087",
+    "userClasses": "username bneon31 bnfont11",
+    "message": "Flat penny",
+    "msgClasses": "chat_message bneon31 bold bfont13"
   }
 ]
