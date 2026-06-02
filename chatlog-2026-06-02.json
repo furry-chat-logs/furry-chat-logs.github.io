@@ -9484,5 +9484,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "😂",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944484",
+    "type": "public",
+    "date": "2/06 12:55",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I had to start a new SS lol",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944485",
+    "type": "public",
+    "date": "2/06 12:55",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Q&A",
+    "msgClasses": "chat_message "
   }
 ]
