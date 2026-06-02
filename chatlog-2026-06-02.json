@@ -9684,5 +9684,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_3c0b2ffe591c.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944504",
+    "type": "public",
+    "date": "2/06 13:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[secret-share: 8rLApkR36RgUhtqIV0BONMCod&n=47554]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
