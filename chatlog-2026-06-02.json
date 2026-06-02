@@ -3104,5 +3104,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "gm!!",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943845",
+    "type": "public",
+    "date": "2/06 8:13",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Morning",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
