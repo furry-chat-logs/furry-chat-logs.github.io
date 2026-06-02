@@ -4094,5 +4094,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Numm Bug morning",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943944",
+    "type": "public",
+    "date": "2/06 9:06",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Sol_Aizawa hru ?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
