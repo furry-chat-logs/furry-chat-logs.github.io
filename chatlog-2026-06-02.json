@@ -11892,5 +11892,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "so ion like this month",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944725",
+    "type": "public",
+    "date": "2/06 14:18",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I love saying words",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
