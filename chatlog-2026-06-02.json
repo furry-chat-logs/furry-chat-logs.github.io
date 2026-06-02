@@ -6974,5 +6974,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "HAH",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944232",
+    "type": "public",
+    "date": "2/06 11:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "MY FEAR IS NOT A \"PHOBIA\" ANYMORE",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944233",
+    "type": "public",
+    "date": "2/06 11:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Helf time remaining",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944234",
+    "type": "public",
+    "date": "2/06 11:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "HAHAHAHA",
+    "msgClasses": "chat_message bneon14"
   }
 ]
