@@ -11912,5 +11912,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Pina I was planning on going on a walk today. Maybe I should reconsider",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944727",
+    "type": "public",
+    "date": "2/06 14:21",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "For all of june",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
