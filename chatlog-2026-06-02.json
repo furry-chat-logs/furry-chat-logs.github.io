@@ -2066,5 +2066,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "1 is me",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943739",
+    "type": "public",
+    "date": "2/06 3:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "2nd one is Superbot",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943740",
+    "type": "public",
+    "date": "2/06 3:20",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "what did i get myself into",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
