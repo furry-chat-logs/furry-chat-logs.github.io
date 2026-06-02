@@ -32694,5 +32694,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "teahcing what",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943248",
+    "type": "public",
+    "date": "1/06 21:02",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Nini everyone",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7943249",
+    "type": "public",
+    "date": "1/06 21:02",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "night!",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
