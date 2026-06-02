@@ -3494,5 +3494,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "LMFAOOO",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943884",
+    "type": "public",
+    "date": "2/06 8:35",
+    "username": "Cog",
+    "userId": "11087",
+    "userClasses": "username bneon31 bnfont11",
+    "message": "DAYUM",
+    "msgClasses": "chat_message bneon31 bold bfont13"
+  },
+  {
+    "id": "7943885",
+    "type": "public",
+    "date": "2/06 8:35",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I only have 25 cents lmao",
+    "msgClasses": "chat_message bneon19"
   }
 ]
