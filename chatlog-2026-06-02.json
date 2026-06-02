@@ -11752,5 +11752,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Yeah",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944711",
+    "type": "public",
+    "date": "2/06 14:13",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "oooooooooooohhhhh",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944712",
+    "type": "public",
+    "date": "2/06 14:13",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "WAIT IS THAT PINA FROM BEASTARS",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
