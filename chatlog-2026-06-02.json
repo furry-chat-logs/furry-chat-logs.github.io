@@ -13232,5 +13232,15 @@
     "userClasses": "username bneon18 ",
     "message": "[skull]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7944863",
+    "type": "public",
+    "date": "2/06 16:06",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcG56NnppNTBsMHB6aXd5cThrZm12ZmliMzNncDZqcThqaWk0cjJhMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P9U0I46DTgDAs/giphy.gif]",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
