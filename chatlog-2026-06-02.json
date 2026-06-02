@@ -18,5 +18,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hewwwoowowow",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943529",
+    "type": "public",
+    "date": "2/06 0:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
