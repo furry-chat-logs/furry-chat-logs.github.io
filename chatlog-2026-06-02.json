@@ -8894,5 +8894,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Yippi",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944424",
+    "type": "public",
+    "date": "2/06 12:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Balls",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
