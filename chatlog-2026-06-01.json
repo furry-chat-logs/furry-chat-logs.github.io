@@ -31354,5 +31354,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGR3YmNuMHp3dml6djVvOHptN2d5dDJ1M3RzMGtrMHVlenA2MTJ3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6bKX8oGKNd91c3ch0D/giphy.gif]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7943112",
+    "type": "public",
+    "date": "1/06 19:02",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yo Rune, aster just said hello",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943113",
+    "type": "public",
+    "date": "1/06 19:02",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcDY4cjA5bmZvOW41Y2QwYm1uZ2dpYnp2MTdid2E5bnd1OWUwcTlzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1avhvRAhi8jnxnEj4/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
