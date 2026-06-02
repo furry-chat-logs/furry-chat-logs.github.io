@@ -968,5 +968,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "ask JustAnAnt or Frogmin for help",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943624",
+    "type": "public",
+    "date": "2/06 1:09",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "last 4 days of school lets go",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
