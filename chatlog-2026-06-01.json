@@ -33892,5 +33892,15 @@
     "userClasses": "username user ",
     "message": "Omg it's a moose",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943408",
+    "type": "public",
+    "date": "1/06 22:37",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[lynxfox]",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
