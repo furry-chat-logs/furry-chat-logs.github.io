@@ -6014,5 +6014,25 @@
     "userClasses": "username bgrad15 ",
     "message": "SoraTheMikuFan Well i didnt 😭",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944136",
+    "type": "public",
+    "date": "2/06 10:43",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan rip",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944137",
+    "type": "public",
+    "date": "2/06 10:43",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Oh",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
