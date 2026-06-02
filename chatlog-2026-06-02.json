@@ -318,5 +318,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "How do i use them?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943559",
+    "type": "public",
+    "date": "2/06 0:25",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": ":_ soso:",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
