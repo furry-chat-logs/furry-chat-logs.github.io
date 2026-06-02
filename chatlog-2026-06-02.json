@@ -4164,5 +4164,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "Physical thereapist",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943951",
+    "type": "public",
+    "date": "2/06 9:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "not hospital",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
