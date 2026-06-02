@@ -10324,5 +10324,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] )",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944568",
+    "type": "public",
+    "date": "2/06 13:20",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "And then people end up hating me when I do share something about myself that I keep hidden, even though I don't want people to hate me.",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944569",
+    "type": "public",
+    "date": "2/06 13:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Now its spamming a slur 😭✌🏽",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
