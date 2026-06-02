@@ -34142,5 +34142,25 @@
     "userClasses": "username bneon4 ",
     "message": "This song so fire",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943433",
+    "type": "public",
+    "date": "1/06 23:06",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Finally fixed my acc",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7943434",
+    "type": "public",
+    "date": "1/06 23:06",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Ive begun to save moneh",
+    "msgClasses": "chat_message "
   }
 ]
