@@ -10594,5 +10594,13 @@
     "userClasses": "username user ",
     "message": "Idk....",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944595",
+    "type": "system",
+    "date": "2/06 13:32",
+    "username": "System",
+    "userId": null,
+    "message": "Aidey has been kicked"
   }
 ]
