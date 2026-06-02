@@ -7484,5 +7484,15 @@
     "userClasses": "username bgrad15 ",
     "message": "I live with my grandparents",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944283",
+    "type": "public",
+    "date": "2/06 11:13",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "My grandmas at work and im waiting for my grandpa to leave for his",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
