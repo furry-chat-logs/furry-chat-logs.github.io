@@ -3224,5 +3224,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Do you have pets?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943857",
+    "type": "public",
+    "date": "2/06 8:15",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "SilverXD aw im sorry to hear that, I'm mainly the first one",
+    "msgClasses": "chat_message bneon19"
   }
 ]
