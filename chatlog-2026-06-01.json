@@ -31704,5 +31704,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNjlmdXo4bmxpaXpuN3duaTVuaHMzMjR2d2w0eWhvanZib2xyMWgxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwRO0LKbOtVhC/giphy.gif]",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7943147",
+    "type": "public",
+    "date": "1/06 19:09",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_ecc49cad9911.png]",
+    "msgClasses": "chat_message "
   }
 ]
