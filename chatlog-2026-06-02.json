@@ -6274,5 +6274,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I think",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944162",
+    "type": "public",
+    "date": "2/06 10:47",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "New Kid Im not gonna im a pussy",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944163",
+    "type": "public",
+    "date": "2/06 10:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "But trust me",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944164",
+    "type": "public",
+    "date": "2/06 10:47",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan???",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
