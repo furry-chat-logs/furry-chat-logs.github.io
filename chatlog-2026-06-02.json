@@ -3314,5 +3314,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Brought a subenir",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943866",
+    "type": "public",
+    "date": "2/06 8:27",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_d1686f4ebbef.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
