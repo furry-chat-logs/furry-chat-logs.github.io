@@ -11442,5 +11442,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I'm surprised the lorax plot hasn't taken place in Seattle yet",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944680",
+    "type": "public",
+    "date": "2/06 14:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Because I went to Seattle once",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
