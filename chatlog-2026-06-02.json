@@ -2146,5 +2146,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "mao",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7943747",
+    "type": "public",
+    "date": "2/06 3:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hehehhe",
+    "msgClasses": "chat_message bneon14"
   }
 ]
