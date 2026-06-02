@@ -2676,5 +2676,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "The little petite Euro Truck 😭",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943802",
+    "type": "public",
+    "date": "2/06 5:06",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Doin delivery from Duisburg to lille",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
