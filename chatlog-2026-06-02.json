@@ -4054,5 +4054,45 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Sol_Aizawa oh no",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7943940",
+    "type": "public",
+    "date": "2/06 9:03",
+    "username": "mxgic_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "im so sad",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7943941",
+    "type": "public",
+    "date": "2/06 9:03",
+    "username": "mxgic_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "rec room is gone :<",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7943942",
+    "type": "public",
+    "date": "2/06 9:04",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Gm everyone",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7943943",
+    "type": "public",
+    "date": "2/06 9:04",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Numm Bug morning",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
