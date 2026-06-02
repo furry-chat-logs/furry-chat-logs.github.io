@@ -518,5 +518,35 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "[cat]",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943579",
+    "type": "public",
+    "date": "2/06 0:30",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_daafd59b3020.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943580",
+    "type": "public",
+    "date": "2/06 0:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "I have this one",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943581",
+    "type": "public",
+    "date": "2/06 0:30",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "How random",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
