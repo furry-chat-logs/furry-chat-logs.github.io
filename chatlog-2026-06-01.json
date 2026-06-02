@@ -35052,5 +35052,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "LYNXX!",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943524",
+    "type": "public",
+    "date": "1/06 23:47",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "alr tf2 time",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
