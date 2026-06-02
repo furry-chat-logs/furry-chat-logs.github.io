@@ -12712,5 +12712,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Wow",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944807",
+    "type": "public",
+    "date": "2/06 15:11",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "names alos back to corresponding color",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7944808",
+    "type": "public",
+    "date": "2/06 15:11",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*also",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
