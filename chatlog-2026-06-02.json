@@ -4544,5 +4544,25 @@
     "userClasses": "username user ",
     "message": "hai :3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943989",
+    "type": "public",
+    "date": "2/06 9:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "U should be identitycrisis_mondo lol u change ur name so muchhh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943990",
+    "type": "public",
+    "date": "2/06 9:37",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sol_Aizawa who said i was gonna hurt them? :3",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
