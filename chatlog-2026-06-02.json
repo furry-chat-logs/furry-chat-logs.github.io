@@ -13942,5 +13942,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Good deal?",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944937",
+    "type": "public",
+    "date": "2/06 18:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I managed to haggle the seller down by 5$ because he originally wanted 30",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
