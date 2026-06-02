@@ -8324,5 +8324,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Like this",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7944367",
+    "type": "public",
+    "date": "2/06 11:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Ain't ever running barefoot again",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
