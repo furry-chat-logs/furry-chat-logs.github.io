@@ -8504,5 +8504,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Deimos pretty good man",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944385",
+    "type": "public",
+    "date": "2/06 11:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Abcdefghijklmnopqrstuvwxyz",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
