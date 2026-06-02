@@ -32294,5 +32294,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Hecks nah didnt recognise",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943208",
+    "type": "public",
+    "date": "1/06 20:15",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Chat just died :/",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
