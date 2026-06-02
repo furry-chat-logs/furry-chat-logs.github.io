@@ -31534,5 +31534,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "is that aiko",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943130",
+    "type": "public",
+    "date": "1/06 19:06",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmazFqYmNqZHIzZzE1aWc0cThoZG1hbDF1MGNtdXhrMW1haXJ2bTZreCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4AwFO4f2VLo2fIFFA2/giphy.gif]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
