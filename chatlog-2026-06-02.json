@@ -1888,5 +1888,13 @@
     "userClasses": "username bcolor27 ",
     "message": "I'm hoping I can link the work to the game im making",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7943716",
+    "type": "system",
+    "date": "2/06 1:50",
+    "username": "System",
+    "userId": null,
+    "message": "L Dog has been kicked"
   }
 ]
