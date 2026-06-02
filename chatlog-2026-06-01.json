@@ -31674,5 +31674,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Jumping [moai]",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7943144",
+    "type": "public",
+    "date": "1/06 19:09",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "rune keeps clocking me bye💔",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943145",
+    "type": "public",
+    "date": "1/06 19:09",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Peter griffin ass chin",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
