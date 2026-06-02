@@ -4664,5 +4664,15 @@
     "userClasses": "username user ",
     "message": "deuces",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944001",
+    "type": "public",
+    "date": "2/06 9:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "BottomBoi goobai",
+    "msgClasses": "chat_message bneon14"
   }
 ]
