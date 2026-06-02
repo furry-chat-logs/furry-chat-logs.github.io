@@ -34902,5 +34902,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Porphyrophobia yikes",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943509",
+    "type": "public",
+    "date": "1/06 23:35",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "at least youll be remebered igs",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943510",
+    "type": "public",
+    "date": "1/06 23:35",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "or not",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943511",
+    "type": "public",
+    "date": "1/06 23:35",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "idk",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
