@@ -4314,5 +4314,25 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "I am single",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943966",
+    "type": "public",
+    "date": "2/06 9:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "my gf broke up with me",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943967",
+    "type": "public",
+    "date": "2/06 9:13",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "lost connection",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
