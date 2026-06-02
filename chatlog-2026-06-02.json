@@ -3624,5 +3624,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943897",
+    "type": "public",
+    "date": "2/06 8:37",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "LMAO",
+    "msgClasses": "chat_message bneon19"
   }
 ]
