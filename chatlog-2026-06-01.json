@@ -35062,5 +35062,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "alr tf2 time",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943525",
+    "type": "public",
+    "date": "1/06 23:54",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Hiiii",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
