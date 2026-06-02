@@ -34852,5 +34852,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[secret-share: s6YbJqRcqFueGHE5jqaEpQYDG&n=47541] Promised not to do anymore SS after what happened earlier, but maybe one wouldn't hurt. [crisped]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7943504",
+    "type": "public",
+    "date": "1/06 23:32",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "i asked a question",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943505",
+    "type": "public",
+    "date": "1/06 23:32",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": ":3",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
