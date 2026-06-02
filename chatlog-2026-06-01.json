@@ -32594,5 +32594,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Big ass ears.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7943238",
+    "type": "public",
+    "date": "1/06 20:51",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmanU3dDd6M3RkMmZ2NjNnMHFoZ2Vnd294NWY0ZW41bDc3aWZpMWRiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y64uBZCJsl0TS/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
