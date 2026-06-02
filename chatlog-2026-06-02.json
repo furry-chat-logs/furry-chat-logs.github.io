@@ -2616,5 +2616,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ikr",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943796",
+    "type": "public",
+    "date": "2/06 5:02",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmN3l1b3V5bDZxN3pwdzIwenIwbjR1dnNxNTc2cnZybTM0ZnJlN3UzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dcKWFKCzjdozxwZASo/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
