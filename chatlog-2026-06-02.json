@@ -4474,5 +4474,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "SoraTheMikuFan you...",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7943982",
+    "type": "public",
+    "date": "2/06 9:36",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "no hurting my other friends mondo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943983",
+    "type": "public",
+    "date": "2/06 9:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "U changed ur name again",
+    "msgClasses": "chat_message bneon14"
   }
 ]
