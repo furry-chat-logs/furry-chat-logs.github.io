@@ -7384,5 +7384,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "In 1st grade",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944273",
+    "type": "public",
+    "date": "2/06 11:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan who wasn't",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
