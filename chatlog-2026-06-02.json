@@ -4724,5 +4724,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "no problem",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7944007",
+    "type": "public",
+    "date": "2/06 9:39",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "NeptuneLynxx thanks",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
