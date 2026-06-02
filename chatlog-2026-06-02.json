@@ -6254,5 +6254,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "You'll get better eventually but you don't have to kill yourself",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944160",
+    "type": "public",
+    "date": "2/06 10:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ikr",
+    "msgClasses": "chat_message bneon14"
   }
 ]
