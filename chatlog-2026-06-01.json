@@ -34732,5 +34732,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "I'm chilling just bored atm",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943492",
+    "type": "public",
+    "date": "1/06 23:23",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "I've been bored for the past 7 hours [sob]",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
