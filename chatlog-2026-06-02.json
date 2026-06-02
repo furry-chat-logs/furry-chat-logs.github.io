@@ -12132,5 +12132,25 @@
     "userClasses": "username bgrad15 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37005_fd049327ae9a.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944749",
+    "type": "public",
+    "date": "2/06 14:27",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I drew a rat",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944750",
+    "type": "public",
+    "date": "2/06 14:27",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm lowk deathly curious",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
