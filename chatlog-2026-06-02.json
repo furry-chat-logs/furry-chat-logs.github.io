@@ -3634,5 +3634,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "LMAO",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943898",
+    "type": "public",
+    "date": "2/06 8:37",
+    "username": "Cog",
+    "userId": "11087",
+    "userClasses": "username bneon31 bnfont11",
+    "message": "Then again, only reason I have a bunch of money is my friend group fell off",
+    "msgClasses": "chat_message bneon31 bold bfont13"
+  },
+  {
+    "id": "7943899",
+    "type": "public",
+    "date": "2/06 8:37",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I don't have any way to get there",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943900",
+    "type": "public",
+    "date": "2/06 8:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm to Yung spare meee",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
