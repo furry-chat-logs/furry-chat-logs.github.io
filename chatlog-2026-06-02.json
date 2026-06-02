@@ -898,5 +898,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "ZephTheFloofBoi but tasty",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943617",
+    "type": "public",
+    "date": "2/06 0:57",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Mdekoni make me >:3",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
