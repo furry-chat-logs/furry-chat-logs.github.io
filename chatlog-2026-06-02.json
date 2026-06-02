@@ -6064,5 +6064,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Me is linda cooked in this chat",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944141",
+    "type": "public",
+    "date": "2/06 10:44",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I have to fucking miss my class party bc of this btw",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944142",
+    "type": "public",
+    "date": "2/06 10:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yelp",
+    "msgClasses": "chat_message bneon14"
   }
 ]
