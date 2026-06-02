@@ -268,5 +268,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "The emojis I got ranged from 150-500 coins",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7943554",
+    "type": "public",
+    "date": "2/06 0:21",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
