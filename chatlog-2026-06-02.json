@@ -848,5 +848,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmamFleTZ1ajhwamFxOTAza2VuN2Y2emR2c2V0MTI1aWg0N25pc3p0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IQEoYJg5ySZ4Dzfoqr/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943612",
+    "type": "public",
+    "date": "2/06 0:55",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": ":stake:",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
