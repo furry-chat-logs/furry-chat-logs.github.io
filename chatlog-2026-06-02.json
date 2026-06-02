@@ -12102,5 +12102,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "KingCorgz where u werk at?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944746",
+    "type": "public",
+    "date": "2/06 14:26",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "KingCorgz what typa store?",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
