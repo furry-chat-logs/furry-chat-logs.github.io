@@ -12592,5 +12592,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7944795",
+    "type": "public",
+    "date": "2/06 15:06",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa im bored.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
