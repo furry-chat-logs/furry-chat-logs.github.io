@@ -34372,5 +34372,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "12-16 is a bit long",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943456",
+    "type": "public",
+    "date": "1/06 23:10",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "I prefer the shifts that are 8-10",
+    "msgClasses": "chat_message "
   }
 ]
