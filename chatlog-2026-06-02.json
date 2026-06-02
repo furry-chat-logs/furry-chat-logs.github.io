@@ -1308,5 +1308,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943658",
+    "type": "public",
+    "date": "2/06 1:34",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I hade so many ppl you just telling me they are all gone",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
