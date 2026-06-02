@@ -7794,5 +7794,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "We're going real fassttt",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944314",
+    "type": "public",
+    "date": "2/06 11:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Miku's drunkkk",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944315",
+    "type": "public",
+    "date": "2/06 11:20",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Buggo *hugs you *",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
