@@ -9274,5 +9274,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "No my algorithm",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944462",
+    "type": "public",
+    "date": "2/06 12:46",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Porphyrophobia's favorite song",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
