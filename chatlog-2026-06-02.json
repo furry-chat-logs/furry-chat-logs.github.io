@@ -5194,5 +5194,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Face shaped !!",
     "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7944054",
+    "type": "public",
+    "date": "2/06 9:45",
+    "username": "Magnavox 20MT1331-17",
+    "userId": "32908",
+    "userClasses": "username bneon19 bnfont12",
+    "message": "*Explodes.*",
+    "msgClasses": "chat_message bneon1 heavybold bfont14"
+  },
+  {
+    "id": "7944055",
+    "type": "public",
+    "date": "2/06 9:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "QueenKit nice",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
