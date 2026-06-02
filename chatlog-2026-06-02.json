@@ -4144,5 +4144,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[cry]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943949",
+    "type": "public",
+    "date": "2/06 9:07",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Numm Bug I am being helped by a phisical hospital",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7943950",
+    "type": "public",
+    "date": "2/06 9:07",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Physical thereapist",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
