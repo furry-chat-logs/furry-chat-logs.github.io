@@ -1358,5 +1358,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lol running on mobile data",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943663",
+    "type": "public",
+    "date": "2/06 1:36",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
