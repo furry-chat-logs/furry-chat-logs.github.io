@@ -2784,5 +2784,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "No",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943813",
+    "type": "public",
+    "date": "2/06 6:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "Mdekoni your mean",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
