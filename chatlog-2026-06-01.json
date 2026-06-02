@@ -33692,5 +33692,15 @@
     "userClasses": "username user ",
     "message": "Nah I'm ai",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943388",
+    "type": "public",
+    "date": "1/06 22:16",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "happens",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
