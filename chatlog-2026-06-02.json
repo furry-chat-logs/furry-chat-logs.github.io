@@ -3454,5 +3454,15 @@
     "userClasses": "username bneon31 bnfont11",
     "message": "<_< monopoly don't count",
     "msgClasses": "chat_message bneon31 bold bfont13"
+  },
+  {
+    "id": "7943880",
+    "type": "public",
+    "date": "2/06 8:34",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_b2c01476d1b9.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
