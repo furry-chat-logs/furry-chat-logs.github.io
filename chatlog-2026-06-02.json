@@ -6694,5 +6694,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I'm sorry I can't help but be like this",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944204",
+    "type": "public",
+    "date": "2/06 10:56",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan how many times did you die",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
