@@ -33514,5 +33514,25 @@
     "userClasses": "username bneon4 ",
     "message": "Only rap I listen to is NF",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943330",
+    "type": "public",
+    "date": "1/06 21:45",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "So good luck on my part 💔",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943331",
+    "type": "public",
+    "date": "1/06 21:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNDlnd2s5eHRiMnB4eGZ3N213b3hlNmd4dDNudGFoYXhwZ2YyeWZyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
