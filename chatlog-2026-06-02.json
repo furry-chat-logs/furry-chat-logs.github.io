@@ -10384,5 +10384,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I know how that feels",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944574",
+    "type": "public",
+    "date": "2/06 13:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Damn.",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
