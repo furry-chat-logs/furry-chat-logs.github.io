@@ -10014,5 +10014,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I don't want to look in my SS anymore after what I got U.U",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944537",
+    "type": "public",
+    "date": "2/06 13:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_69ebc0ad4055.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944538",
+    "type": "public",
+    "date": "2/06 13:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "The fuck.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
