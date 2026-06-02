@@ -8904,5 +8904,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Balls",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944425",
+    "type": "public",
+    "date": "2/06 12:23",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'm heading home from school and it's only 10:23am",
+    "msgClasses": "chat_message bneon19"
   }
 ]
