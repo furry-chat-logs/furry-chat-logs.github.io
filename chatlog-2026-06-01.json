@@ -33642,5 +33642,15 @@
     "userClasses": "username user ",
     "message": "They're a hello kitty fan so it's valid",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943383",
+    "type": "public",
+    "date": "1/06 22:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "say wahalli",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
