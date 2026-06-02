@@ -13472,5 +13472,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I should go to sleep...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7944889",
+    "type": "public",
+    "date": "2/06 16:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "but I am worried I am gonna fail my german test",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
