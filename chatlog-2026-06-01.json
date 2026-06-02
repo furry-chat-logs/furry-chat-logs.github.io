@@ -34262,5 +34262,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Sigh.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7943445",
+    "type": "public",
+    "date": "1/06 23:08",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "OMG LUXXY",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7943446",
+    "type": "public",
+    "date": "1/06 23:08",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "HIII",
+    "msgClasses": "chat_message bneon9"
   }
 ]
