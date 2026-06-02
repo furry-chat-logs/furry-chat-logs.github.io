@@ -13922,5 +13922,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_b7d08f09a680.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944935",
+    "type": "public",
+    "date": "2/06 18:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Snagged a 70$ phone for 25 off Craigslist",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944936",
+    "type": "public",
+    "date": "2/06 18:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Good deal?",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
