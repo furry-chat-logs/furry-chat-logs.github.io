@@ -31434,5 +31434,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I mean thats alr but its just werid",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943120",
+    "type": "public",
+    "date": "1/06 19:04",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Kind means child in german",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943121",
+    "type": "public",
+    "date": "1/06 19:04",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "did rune just call themself special",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
