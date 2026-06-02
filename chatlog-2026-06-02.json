@@ -1008,5 +1008,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I just got hacked on my steam account :/",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943628",
+    "type": "public",
+    "date": "2/06 1:18",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "All my steam friends are just gone",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
