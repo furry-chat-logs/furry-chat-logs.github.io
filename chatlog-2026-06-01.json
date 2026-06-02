@@ -33662,5 +33662,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Wtfissachip crazy",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943385",
+    "type": "public",
+    "date": "1/06 22:12",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Crazy? I was crazy once",
+    "msgClasses": "chat_message "
   }
 ]
