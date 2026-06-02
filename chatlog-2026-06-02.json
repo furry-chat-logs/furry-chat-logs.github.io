@@ -10464,5 +10464,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "\"See you tomorrow!\" *Gone since 2023*",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944582",
+    "type": "public",
+    "date": "2/06 13:26",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "\"Let's play again tonight?\" *last online 2022*",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
