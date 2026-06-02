@@ -11932,5 +11932,15 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "yea bro, be careful",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944729",
+    "type": "public",
+    "date": "2/06 14:21",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I hate walking,i have to walk to school and back everyday.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
