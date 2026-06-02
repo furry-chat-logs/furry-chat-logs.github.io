@@ -8164,5 +8164,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Now im running it on 24 volts and its double as bright",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7944351",
+    "type": "public",
+    "date": "2/06 11:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB cool",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
