@@ -10434,5 +10434,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "That's why I've been in it since I was... 9-10 maybe?",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944579",
+    "type": "public",
+    "date": "2/06 13:25",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "New Kid yeah",
+    "msgClasses": "chat_message bneon19"
   }
 ]
