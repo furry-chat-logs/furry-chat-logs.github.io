@@ -3854,5 +3854,35 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "New Men's health awareness month banner",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7943920",
+    "type": "public",
+    "date": "2/06 8:50",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SilverXD is that a holiday?",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943921",
+    "type": "public",
+    "date": "2/06 8:50",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Mdekoni June is men's mental health awareness month same as pride month",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7943922",
+    "type": "public",
+    "date": "2/06 8:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SilverXD is ther a girl mental health month?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
