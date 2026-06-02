@@ -4364,5 +4364,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Okay",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943971",
+    "type": "public",
+    "date": "2/06 9:16",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "It was comming, but we both did not wanna admit it was",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
