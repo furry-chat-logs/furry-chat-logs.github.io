@@ -9764,5 +9764,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_8f671012e453.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944512",
+    "type": "public",
+    "date": "2/06 13:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I think this is mdeko",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
