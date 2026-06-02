@@ -11542,5 +11542,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "But damn did nostalgia kick my ass",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944690",
+    "type": "public",
+    "date": "2/06 14:06",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I just had a flashback to one of my old homes from when i was 3",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
