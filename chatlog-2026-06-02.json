@@ -3214,5 +3214,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Mdekoni that's good",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943856",
+    "type": "public",
+    "date": "2/06 8:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Do you have pets?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
