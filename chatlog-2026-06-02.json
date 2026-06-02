@@ -10722,5 +10722,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I feel that one",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944608",
+    "type": "public",
+    "date": "2/06 13:48",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Have you been through the same",
+    "msgClasses": "chat_message "
   }
 ]
