@@ -5844,5 +5844,25 @@
     "userClasses": "username bgrad15 ",
     "message": "And i just threw up again and it came out through my nose which i didnt know was possible and it was really gross",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944119",
+    "type": "public",
+    "date": "2/06 10:40",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Ch3rry_Drop Oh hi",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944120",
+    "type": "public",
+    "date": "2/06 10:40",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ew",
+    "msgClasses": "chat_message bneon9"
   }
 ]
