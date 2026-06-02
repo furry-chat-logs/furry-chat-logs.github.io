@@ -7044,5 +7044,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Phew",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944239",
+    "type": "public",
+    "date": "2/06 11:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Buggo rip his soul is texting",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944240",
+    "type": "public",
+    "date": "2/06 11:04",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "U alive? U throwing up? Wassup",
+    "msgClasses": "chat_message bneon14"
   }
 ]
