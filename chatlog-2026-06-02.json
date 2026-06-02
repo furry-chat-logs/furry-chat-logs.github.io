@@ -11292,5 +11292,25 @@
     "userClasses": "username bgrad15 ",
     "message": "How cool",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944665",
+    "type": "public",
+    "date": "2/06 14:01",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Im on a trash heap",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944666",
+    "type": "public",
+    "date": "2/06 14:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Oh",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
