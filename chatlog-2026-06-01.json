@@ -31564,5 +31564,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "sigh.",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943133",
+    "type": "public",
+    "date": "1/06 19:07",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Probably because you have 6 chins",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
