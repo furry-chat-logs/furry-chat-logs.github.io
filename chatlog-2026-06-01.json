@@ -33872,5 +33872,15 @@
     "userClasses": "username user ",
     "message": "Small price to pay for salvation",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943406",
+    "type": "public",
+    "date": "1/06 22:34",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[deer]",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
