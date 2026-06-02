@@ -5544,5 +5544,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "SoraTheMikuFan I'm sorry TwT",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944089",
+    "type": "public",
+    "date": "2/06 10:26",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "skins New Kid",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
