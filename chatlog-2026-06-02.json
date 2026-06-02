@@ -2904,5 +2904,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Okay das was ich geschrieben habe enthält keine beleidigung",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943825",
+    "type": "public",
+    "date": "2/06 7:19",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB shure",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
