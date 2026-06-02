@@ -12362,5 +12362,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sniffing catfish carmo",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944772",
+    "type": "public",
+    "date": "2/06 14:46",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Is it a cat or a fish?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
