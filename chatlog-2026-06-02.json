@@ -7654,5 +7654,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Aside from my lungs",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944300",
+    "type": "public",
+    "date": "2/06 11:18",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "But thats unrelated",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
