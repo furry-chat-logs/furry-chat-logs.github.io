@@ -5524,5 +5524,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "SoraTheMikuFan haii",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944087",
+    "type": "public",
+    "date": "2/06 10:26",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "New Kid finally u notice me o^o",
+    "msgClasses": "chat_message bneon14"
   }
 ]
