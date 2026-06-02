@@ -10174,5 +10174,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "New Kid just ignore them",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944553",
+    "type": "public",
+    "date": "2/06 13:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "But there an anti fur I think",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
