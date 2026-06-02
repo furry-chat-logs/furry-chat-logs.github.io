@@ -2316,5 +2316,15 @@
     "userClasses": "username user ",
     "message": "i need someone to vote my cosplay UwU",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943765",
+    "type": "public",
+    "date": "2/06 4:22",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "That sounds a bit sus at my opinion",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
