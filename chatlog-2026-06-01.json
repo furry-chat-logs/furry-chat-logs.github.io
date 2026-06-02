@@ -33454,5 +33454,15 @@
     "userClasses": "username user ",
     "message": "Yep thems words",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943324",
+    "type": "public",
+    "date": "1/06 21:43",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 ",
+    "message": "Brother thinks he's Cordea",
+    "msgClasses": "chat_message bneon19"
   }
 ]
