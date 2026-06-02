@@ -11732,5 +11732,25 @@
     "userClasses": "username bcolor26 bnfont7",
     "message": "wait its pride month?",
     "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944709",
+    "type": "public",
+    "date": "2/06 14:13",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "YESSSS",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7944710",
+    "type": "public",
+    "date": "2/06 14:13",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Yeah",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
