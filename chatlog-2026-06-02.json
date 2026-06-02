@@ -8874,5 +8874,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Rune first I fogth onoo",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944422",
+    "type": "public",
+    "date": "2/06 12:19",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Rune Yuno Ball",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
