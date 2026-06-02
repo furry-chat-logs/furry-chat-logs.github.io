@@ -8614,5 +8614,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "~.~",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7944396",
+    "type": "public",
+    "date": "2/06 12:00",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[skull]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7944397",
+    "type": "public",
+    "date": "2/06 12:00",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Abt the boy",
+    "msgClasses": "chat_message bneon14"
   }
 ]
