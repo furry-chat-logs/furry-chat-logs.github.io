@@ -31304,5 +31304,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Sup",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7943107",
+    "type": "public",
+    "date": "1/06 19:01",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hello",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
