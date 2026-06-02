@@ -2416,5 +2416,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Facts and I'm concerned because he said girl and not woman lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943775",
+    "type": "public",
+    "date": "2/06 4:26",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hes 18yrs",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943776",
+    "type": "public",
+    "date": "2/06 4:26",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "How it looks like",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
