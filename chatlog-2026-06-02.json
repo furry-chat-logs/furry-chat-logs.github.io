@@ -11202,5 +11202,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Personally I fucking hate Epstein",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944656",
+    "type": "public",
+    "date": "2/06 14:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Bc some people call me Jeffrey epstein",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944657",
+    "type": "public",
+    "date": "2/06 14:00",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Same",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
