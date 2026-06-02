@@ -8084,5 +8084,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo good",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944343",
+    "type": "public",
+    "date": "2/06 11:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Running something wich needs 24 volts only with 15 volts is crazy",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
