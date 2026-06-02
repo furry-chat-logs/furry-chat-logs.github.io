@@ -13792,5 +13792,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944922",
+    "type": "public",
+    "date": "2/06 18:04",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "⠀⢀⣤⢤⡀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⢀⣀⣀⣀⡤⢤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀ ⠀⢸⠀⠀⢹⠀⠀⠀⠀⠀⠀⢸⠃⠈⢹⠀⠀⢸⡛⠏⠙⢦⡀⠀⠀⠀⠀⠀⠀⢀⡔⠋⡟⡧⠀⠀⡟⠁⠙⢛⣁⠀⠀⠈⠛⢦⡀⠀⠀⠀⠀⣰⠛⠋⠉⠁⠀⠀⠀⠀⠀⠈⣷⠀⠀ ⠀⠸⠀⠀⢸⠀⠀⠀⠀⠀⠀⡼⠀⠀⢸⠀⠀⠀⠳⡀⠀⠀⠙⢦⠀⠀⠀⢀⡴⠋⠀⢀⡞⠁⠀⠀⡇⠀⠀⢸⠉⠉⠓⢢⡀⠀⢳⠀⠀⠀⠀⢻⠀⠀⡖⠒⠒⠒⠒⠒⠒⠚⠁⠀⠀ ⠀⠀⠀⠀⢸⡀⠀⠀⠀⠀⠀⡇⠀⠀⢸⠀⠀⠀⠀⠙⢦⠀⠀⠀⠑⣤⠴⠋⠀⠀⣰⠋⠀⠀⠀⠀⡇⠀⠀⣿⠀⠀⠀⠀⡧⠀⠸⡆⠀⠀⠀⢸⠀⠀⠳⠤⠤⠤⠤⠤⣄⡀⠀⠀⠀ ⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠁⠀⠀⢸⡄⠀⠀⠀⠀⠀⠱⣄⠀⠀⠀⠁⠀⢀⡜⠁⠀⠀⠀⠀⠀",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7944923",
+    "type": "public",
+    "date": "2/06 18:04",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "aw man",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
