@@ -3184,5 +3184,15 @@
     "userClasses": "username bcolor22 bnfont16",
     "message": "Sames",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943853",
+    "type": "public",
+    "date": "2/06 8:15",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "nope im gone",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
