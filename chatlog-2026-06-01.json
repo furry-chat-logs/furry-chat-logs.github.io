@@ -34122,5 +34122,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGQxOWJrd3ptYzZzYThvaWYzMW15amtrdXc3MGIzN3N0NWs0aTY3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8OJdqYqN1Nii3UTD6l/giphy.gif]",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7943431",
+    "type": "public",
+    "date": "1/06 23:05",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Guh",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
