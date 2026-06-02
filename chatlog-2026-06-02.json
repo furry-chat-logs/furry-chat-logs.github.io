@@ -5444,5 +5444,25 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "Mdekoni, hi how are you aswell?",
     "msgClasses": "chat_message bneon10 ital bfont3"
+  },
+  {
+    "id": "7944079",
+    "type": "public",
+    "date": "2/06 9:58",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Good morning.",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944080",
+    "type": "public",
+    "date": "2/06 9:58",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "channel999_mondo lol I think they still are, I mean they’ve asked me a couple times if I could draw them/person x a couple times lol",
+    "msgClasses": "chat_message "
   }
 ]
