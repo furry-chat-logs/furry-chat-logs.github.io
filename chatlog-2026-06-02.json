@@ -3514,5 +3514,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I only have 25 cents lmao",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7943886",
+    "type": "public",
+    "date": "2/06 8:35",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Okay can't say anything about so much",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943887",
+    "type": "public",
+    "date": "2/06 8:35",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "I have five dollars",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7943888",
+    "type": "public",
+    "date": "2/06 8:35",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "That was the bit",
+    "msgClasses": "chat_message bneon19"
   }
 ]
