@@ -828,5 +828,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[cool]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7943610",
+    "type": "public",
+    "date": "2/06 0:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "It*",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
