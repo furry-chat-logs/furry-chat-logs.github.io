@@ -2596,5 +2596,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I got 9 trucks",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943794",
+    "type": "public",
+    "date": "2/06 5:01",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Another thing I had to get used to is driving on the left side of the road not the right side 😭",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
