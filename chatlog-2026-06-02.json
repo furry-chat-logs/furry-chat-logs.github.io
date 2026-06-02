@@ -13582,5 +13582,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "chat dead",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7944901",
+    "type": "public",
+    "date": "2/06 17:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hhhhhh.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
