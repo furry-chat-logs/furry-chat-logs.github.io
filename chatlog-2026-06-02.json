@@ -8204,5 +8204,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ollmost my color",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944355",
+    "type": "public",
+    "date": "2/06 11:40",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yeah its an old light bulb inside",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
