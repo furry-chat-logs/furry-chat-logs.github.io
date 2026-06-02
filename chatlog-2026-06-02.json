@@ -11942,5 +11942,15 @@
     "userClasses": "username bgrad15 ",
     "message": "I hate walking,i have to walk to school and back everyday.",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944730",
+    "type": "public",
+    "date": "2/06 14:21",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "my bday is july 3rd, im so glad it isnt in june",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
   }
 ]
