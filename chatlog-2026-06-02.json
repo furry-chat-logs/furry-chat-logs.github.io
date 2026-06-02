@@ -2984,5 +2984,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "O really",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7943833",
+    "type": "public",
+    "date": "2/06 7:26",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37459_b046a36a3534.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
