@@ -31324,5 +31324,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_f611f3a8e61f.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943109",
+    "type": "public",
+    "date": "1/06 19:02",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "asterr Stop speaking right now",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
