@@ -2686,5 +2686,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Doin delivery from Duisburg to lille",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943803",
+    "type": "public",
+    "date": "2/06 5:11",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "W",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
