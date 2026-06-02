@@ -2606,5 +2606,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Another thing I had to get used to is driving on the left side of the road not the right side 😭",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7943795",
+    "type": "public",
+    "date": "2/06 5:02",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ikr",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
