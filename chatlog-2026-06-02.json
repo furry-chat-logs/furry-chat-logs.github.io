@@ -2106,5 +2106,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "What happened",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7943743",
+    "type": "public",
+    "date": "2/06 3:20",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "SoraTheMikuFan hewwo :3c",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
