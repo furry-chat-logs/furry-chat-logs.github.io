@@ -31524,5 +31524,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "wrong emoji",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7943129",
+    "type": "public",
+    "date": "1/06 19:06",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "is that aiko",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
