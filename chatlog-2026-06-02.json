@@ -5304,5 +5304,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "channel999_mondo °Boop°",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944065",
+    "type": "public",
+    "date": "2/06 9:48",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "That drawing took me about 15 or 20 minutes",
+    "msgClasses": "chat_message bneon19"
   }
 ]
