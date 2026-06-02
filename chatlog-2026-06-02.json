@@ -11312,5 +11312,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Oh",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944667",
+    "type": "public",
+    "date": "2/06 14:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "People can live in trash heaps?",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
