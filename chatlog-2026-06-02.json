@@ -12242,5 +12242,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hey pina",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944760",
+    "type": "public",
+    "date": "2/06 14:38",
+    "username": "Pina",
+    "userId": "25955",
+    "userClasses": "username bcolor26 bnfont7",
+    "message": "Thundercloudgaming03 hai!",
+    "msgClasses": "chat_message bneon10 boldital bfont12"
+  },
+  {
+    "id": "7944761",
+    "type": "public",
+    "date": "2/06 14:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Buggo Gerald doing the 🤨",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
