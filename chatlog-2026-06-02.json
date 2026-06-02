@@ -7614,5 +7614,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7944296",
+    "type": "public",
+    "date": "2/06 11:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I didnt drink enough water with it",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
