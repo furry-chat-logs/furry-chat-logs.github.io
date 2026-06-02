@@ -10602,5 +10602,15 @@
     "username": "System",
     "userId": null,
     "message": "Aidey has been kicked"
+  },
+  {
+    "id": "7944596",
+    "type": "public",
+    "date": "2/06 13:33",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Whoes aidey",
+    "msgClasses": "chat_message "
   }
 ]
