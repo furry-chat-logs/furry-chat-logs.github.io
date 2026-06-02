@@ -9624,5 +9624,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Or get accused of flirting with taken people",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944498",
+    "type": "public",
+    "date": "2/06 13:00",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Right 😭",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
