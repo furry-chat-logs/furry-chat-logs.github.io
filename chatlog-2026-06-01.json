@@ -34932,5 +34932,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "idk",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943512",
+    "type": "public",
+    "date": "1/06 23:35",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "most people are forgotten about in 2-3 generations",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7943513",
+    "type": "public",
+    "date": "1/06 23:35",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hm",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
