@@ -5794,5 +5794,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_9f236fe3bbfd.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944114",
+    "type": "public",
+    "date": "2/06 10:34",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Eyo",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
