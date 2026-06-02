@@ -33672,5 +33672,15 @@
     "userClasses": "username user ",
     "message": "Crazy? I was crazy once",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943386",
+    "type": "public",
+    "date": "1/06 22:13",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "real",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
