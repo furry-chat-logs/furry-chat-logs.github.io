@@ -6204,5 +6204,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "YO CHILL",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944155",
+    "type": "public",
+    "date": "2/06 10:46",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Buggo do you have someone to talk to",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
