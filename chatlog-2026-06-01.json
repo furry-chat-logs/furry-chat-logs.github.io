@@ -32204,5 +32204,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "What a conversation",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7943198",
+    "type": "public",
+    "date": "1/06 19:51",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "💀",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
