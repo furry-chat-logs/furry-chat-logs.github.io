@@ -13982,5 +13982,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Squeak Squak",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944942",
+    "type": "public",
+    "date": "2/06 18:50",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon21 bnfont16",
+    "message": "so squeaky",
+    "msgClasses": "chat_message bneon21 ital"
   }
 ]
