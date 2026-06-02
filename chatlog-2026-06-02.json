@@ -11112,5 +11112,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo hi👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7944647",
+    "type": "public",
+    "date": "2/06 13:57",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Some kid keeps coming up to my friend group during lunch and talks to us abt how much he loves epstein and hitler and its really fucking weird",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944648",
+    "type": "public",
+    "date": "2/06 13:57",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Mdekoni Hii",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
