@@ -12682,5 +12682,15 @@
     "userClasses": "username bcolor9 bnfont7",
     "message": "k",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7944804",
+    "type": "public",
+    "date": "2/06 15:10",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor9 bnfont7",
+    "message": "done",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
