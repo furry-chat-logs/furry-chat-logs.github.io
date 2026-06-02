@@ -11332,5 +11332,25 @@
     "userClasses": "username bgrad15 ",
     "message": "I said the wrong your,its youre not your.",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7944669",
+    "type": "public",
+    "date": "2/06 14:01",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I thought that's a little illegal",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944670",
+    "type": "public",
+    "date": "2/06 14:01",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "New Kid Yeah its called california",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
