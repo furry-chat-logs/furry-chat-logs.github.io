@@ -5944,5 +5944,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "What's emotopohobic",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944129",
+    "type": "public",
+    "date": "2/06 10:43",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Are you scared of Fortnite emotes",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944130",
+    "type": "public",
+    "date": "2/06 10:43",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Buggo like melting your froght",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
