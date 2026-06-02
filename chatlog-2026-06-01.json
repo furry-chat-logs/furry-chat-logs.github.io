@@ -32434,5 +32434,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Wsg guys I'm back",
     "msgClasses": "chat_message bneon29 ital bfont2"
+  },
+  {
+    "id": "7943222",
+    "type": "public",
+    "date": "1/06 20:39",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Hey Evan ^^",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7943223",
+    "type": "public",
+    "date": "1/06 20:39",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hihi",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
