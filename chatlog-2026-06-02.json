@@ -5594,5 +5594,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Drags channel999_mondo to the diddy dimension",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7944094",
+    "type": "public",
+    "date": "2/06 10:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "AYOOO",
+    "msgClasses": "chat_message bneon14"
   }
 ]
