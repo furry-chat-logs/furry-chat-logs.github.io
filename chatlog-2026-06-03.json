@@ -6008,5 +6008,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's not very common to see above 20",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945898",
+    "type": "public",
+    "date": "3/06 6:07",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Most I've seen was 43",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
