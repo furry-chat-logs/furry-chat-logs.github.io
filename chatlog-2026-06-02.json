@@ -17140,5 +17140,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "U probably meant buggo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945260",
+    "type": "public",
+    "date": "2/06 23:20",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm in the Carribbean",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
