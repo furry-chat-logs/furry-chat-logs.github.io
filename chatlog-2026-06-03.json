@@ -17588,5 +17588,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Her*",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947186",
+    "type": "public",
+    "date": "3/06 16:57",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_75c823d423af.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947187",
+    "type": "public",
+    "date": "3/06 16:57",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Hehehe",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
