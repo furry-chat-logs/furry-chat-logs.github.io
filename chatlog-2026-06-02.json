@@ -16402,5 +16402,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Or some other model",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7945186",
+    "type": "public",
+    "date": "2/06 22:51",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Sonic The Hedgehog couldn't cheaper CPUs do that",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
