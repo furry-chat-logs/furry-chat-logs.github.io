@@ -18388,5 +18388,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "waved",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7947266",
+    "type": "public",
+    "date": "3/06 17:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Mow",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
