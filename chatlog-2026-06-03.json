@@ -10848,5 +10848,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "My name is Anderdingus",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946510",
+    "type": "public",
+    "date": "3/06 11:50",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_c558b53bd187.gif]",
+    "msgClasses": "chat_message "
   }
 ]
