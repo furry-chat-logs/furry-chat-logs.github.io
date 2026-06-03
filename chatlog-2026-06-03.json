@@ -1318,5 +1318,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Yeah, the blue is fine, it's the only thing that is fine",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945427",
+    "type": "public",
+    "date": "3/06 0:53",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "It's funny that I've only seen three Lamborghinis in my 21 years because they're not popular in my state also because my state has very bumpy roads lol",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
