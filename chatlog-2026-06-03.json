@@ -18428,5 +18428,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947270",
+    "type": "public",
+    "date": "3/06 17:59",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bneon31 bnfont4",
+    "message": "if only someone would be spoke",
+    "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7947271",
+    "type": "public",
+    "date": "3/06 17:59",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bneon31 bnfont4",
+    "message": "sigh",
+    "msgClasses": "chat_message bneon1 bold bfont4"
   }
 ]
