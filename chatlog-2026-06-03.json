@@ -15158,5 +15158,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_9e13384de620.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946941",
+    "type": "public",
+    "date": "3/06 15:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I've barely left my bed",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
