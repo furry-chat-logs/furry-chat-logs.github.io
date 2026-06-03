@@ -5068,5 +5068,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Ohhh",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945804",
+    "type": "public",
+    "date": "3/06 5:10",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "A song I REALLY love",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945805",
+    "type": "public",
+    "date": "3/06 5:10",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "with the calm rock vibe",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
