@@ -3808,5 +3808,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "my pc be like:",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7945677",
+    "type": "public",
+    "date": "3/06 2:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "So rightt it hyperventilates",
+    "msgClasses": "chat_message bneon14"
   }
 ]
