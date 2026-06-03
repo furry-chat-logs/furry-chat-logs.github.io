@@ -8148,5 +8148,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Solen",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946223",
+    "type": "public",
+    "date": "3/06 8:25",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wow",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946224",
+    "type": "public",
+    "date": "3/06 8:25",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_612685e6d321.png]",
+    "msgClasses": "chat_message "
   }
 ]
