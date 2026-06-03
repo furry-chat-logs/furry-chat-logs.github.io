@@ -1498,5 +1498,15 @@
     "userClasses": "username bneon10 bnfont7",
     "message": "lies",
     "msgClasses": "chat_message bgrad2 heavyital bfont12"
+  },
+  {
+    "id": "7945445",
+    "type": "public",
+    "date": "3/06 1:16",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "baabe!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
