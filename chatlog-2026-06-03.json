@@ -1628,5 +1628,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Idk about anyone else but my dog is Chinese and he eats people",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7945458",
+    "type": "public",
+    "date": "3/06 1:51",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[wolf]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945459",
+    "type": "public",
+    "date": "3/06 1:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Wait what mmtnntjf",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7945460",
+    "type": "public",
+    "date": "3/06 1:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "OMG",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
