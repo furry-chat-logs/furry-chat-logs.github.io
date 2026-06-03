@@ -7598,5 +7598,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Mdekoni I tried sending a picture...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946161",
+    "type": "public",
+    "date": "3/06 7:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "but you can't copy paste pictures to here",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
