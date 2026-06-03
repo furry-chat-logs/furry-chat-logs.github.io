@@ -1058,5 +1058,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37456_3a1e4e91768a.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945401",
+    "type": "public",
+    "date": "3/06 0:45",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_9d8951f69d1e.png]",
+    "msgClasses": "chat_message "
   }
 ]
