@@ -2568,5 +2568,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Gargles",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945552",
+    "type": "public",
+    "date": "3/06 2:11",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a5248b41ad2b.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945553",
+    "type": "public",
+    "date": "3/06 2:11",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I just found a game on steam called escape the boykisser",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
