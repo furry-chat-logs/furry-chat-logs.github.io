@@ -9668,5 +9668,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMXhoaWdxOGI5MjZydjB1ZTVyN2ZxN3R2ZTdzMWFmYjdqMWtwaWRuYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WsesqZM4MoASCYJwyE/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7946387",
+    "type": "public",
+    "date": "3/06 11:01",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "Mdekoni oh a ytuber",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
+  },
+  {
+    "id": "7946388",
+    "type": "public",
+    "date": "3/06 11:01",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "Mdekoni thats cool",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
