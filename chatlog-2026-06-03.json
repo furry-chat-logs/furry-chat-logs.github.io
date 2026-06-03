@@ -14308,5 +14308,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Numm Bug Dont call me that",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7946856",
+    "type": "public",
+    "date": "3/06 14:49",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "I was reading your bio",
+    "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946857",
+    "type": "public",
+    "date": "3/06 14:49",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Just got home",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
