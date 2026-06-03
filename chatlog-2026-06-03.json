@@ -6048,5 +6048,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "When I'm at school",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945902",
+    "type": "public",
+    "date": "3/06 6:07",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "To be fair, there was like...a year and a bit that I missed when I was banned. But I kinda assumed not much changed",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7945903",
+    "type": "public",
+    "date": "3/06 6:07",
+    "username": "pandacorpze",
+    "userId": "37480",
+    "userClasses": "username user ",
+    "message": "did any of yall go to galatic camp",
+    "msgClasses": "chat_message "
   }
 ]
