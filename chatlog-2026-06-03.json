@@ -998,5 +998,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Haha",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945395",
+    "type": "public",
+    "date": "3/06 0:42",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "No Red Bull it's allow in this chat",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
