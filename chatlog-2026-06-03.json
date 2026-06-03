@@ -5638,5 +5638,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "pandacorpze Just per info, you do know this site is mainly minors",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945861",
+    "type": "public",
+    "date": "3/06 5:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "pandacorpze also welcome o the community",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945862",
+    "type": "public",
+    "date": "3/06 5:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*to",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945863",
+    "type": "public",
+    "date": "3/06 5:59",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Aye welcome, mate",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
