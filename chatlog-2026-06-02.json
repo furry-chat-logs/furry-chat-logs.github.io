@@ -15002,5 +15002,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Sorry didn't meant to mention anyone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945045",
+    "type": "public",
+    "date": "2/06 21:01",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon21 bnfont16",
+    "message": "blagh",
+    "msgClasses": "chat_message bneon21 ital"
   }
 ]
