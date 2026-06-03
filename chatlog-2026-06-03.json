@@ -5158,5 +5158,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "ラストラス / *Luna feat. 初音ミク / Hatsune Miku",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945813",
+    "type": "public",
+    "date": "3/06 5:41",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I came here to say something. and I forgot what I was gonna say. TvT",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
