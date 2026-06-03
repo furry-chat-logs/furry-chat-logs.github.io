@@ -7448,5 +7448,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "for somenyan 0^0",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7946146",
+    "type": "public",
+    "date": "3/06 7:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "<div class=\"tenor-gif-embed\" data-postid=\"9159251029234749644\" data-share-method=\"host\" data-aspect-ratio=\"1\" data-width=\"100%\"><a href=\"https://tenor.com/view/black-cat-green-eyes-sad-crying-gif-9159251029234749644\">Black Cat Sticker</a>from <a href=\"https://tenor.com/search/black-stickers\">Black S",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946147",
+    "type": "public",
+    "date": "3/06 7:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "damnit",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
