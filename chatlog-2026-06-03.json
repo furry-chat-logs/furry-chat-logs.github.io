@@ -18078,5 +18078,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Just stole a free iPhone 😂",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947235",
+    "type": "public",
+    "date": "3/06 17:29",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "F.R.I.E.N.D.S",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947236",
+    "type": "public",
+    "date": "3/06 17:29",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Where just friends",
+    "msgClasses": "chat_message "
   }
 ]
