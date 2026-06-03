@@ -10478,5 +10478,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Er",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7946473",
+    "type": "public",
+    "date": "3/06 11:33",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I have peak playing",
+    "msgClasses": "chat_message bneon19"
   }
 ]
