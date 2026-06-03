@@ -18328,5 +18328,25 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Stop dont talk to me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947260",
+    "type": "public",
+    "date": "3/06 17:36",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Looser lame you wanna be",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947261",
+    "type": "public",
+    "date": "3/06 17:36",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "z e n",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
