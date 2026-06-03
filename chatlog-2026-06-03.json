@@ -5528,5 +5528,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "but ERASERDUST",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945850",
+    "type": "public",
+    "date": "3/06 5:57",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "blergh",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
