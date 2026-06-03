@@ -15352,5 +15352,15 @@
     "userClasses": "username user ",
     "message": "QueenKit Yo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945080",
+    "type": "public",
+    "date": "2/06 21:28",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Pfft",
+    "msgClasses": "chat_message bneon19"
   }
 ]
