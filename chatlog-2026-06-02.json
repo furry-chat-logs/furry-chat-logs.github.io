@@ -15832,5 +15832,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Ashton the hellhound ok?",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7945129",
+    "type": "public",
+    "date": "2/06 22:17",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Just give me the fucking name!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945130",
+    "type": "public",
+    "date": "2/06 22:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Ch3rry_Drop Ooh you mean a G.E.D",
+    "msgClasses": "chat_message "
   }
 ]
