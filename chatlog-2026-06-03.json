@@ -17898,5 +17898,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Welp",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947217",
+    "type": "public",
+    "date": "3/06 17:22",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Dont be stealing or the cops gonna get you",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947218",
+    "type": "public",
+    "date": "3/06 17:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I just created a whole fucking survival quest for myself",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
