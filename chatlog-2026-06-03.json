@@ -6508,5 +6508,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Sol_Aizawa yeah",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946002",
+    "type": "public",
+    "date": "3/06 6:25",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I wanna see",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946003",
+    "type": "public",
+    "date": "3/06 6:25",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_afd51697afc6.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
