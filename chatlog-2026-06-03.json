@@ -18448,5 +18448,25 @@
     "userClasses": "username bneon31 bnfont4",
     "message": "sigh",
     "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7947272",
+    "type": "public",
+    "date": "3/06 17:59",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "imma go update my bio",
+    "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7947273",
+    "type": "public",
+    "date": "3/06 17:59",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "cough",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
