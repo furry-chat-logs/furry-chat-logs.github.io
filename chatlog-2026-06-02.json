@@ -16132,5 +16132,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I love Gundam chat",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7945159",
+    "type": "public",
+    "date": "2/06 22:20",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "My call buddy exploded.",
+    "msgClasses": "chat_message bneon9"
   }
 ]
