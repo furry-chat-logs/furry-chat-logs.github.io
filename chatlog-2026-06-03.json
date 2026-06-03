@@ -3098,5 +3098,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "oh valid",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945605",
+    "type": "public",
+    "date": "3/06 2:26",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "human tastes pretty good",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945606",
+    "type": "public",
+    "date": "3/06 2:26",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "not at all gamey usually",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
