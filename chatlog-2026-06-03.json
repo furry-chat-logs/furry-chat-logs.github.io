@@ -10278,5 +10278,25 @@
     "userClasses": "username bcolor14 ",
     "message": "I wish I had a bf lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946453",
+    "type": "public",
+    "date": "3/06 11:23",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Waffles gewd boi3 thers this one dude in my class",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946454",
+    "type": "public",
+    "date": "3/06 11:23",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "its nice isnt it?",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
