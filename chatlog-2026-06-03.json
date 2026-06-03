@@ -9388,5 +9388,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Hm",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946356",
+    "type": "public",
+    "date": "3/06 10:00",
+    "username": "horselover9000",
+    "userId": "37113",
+    "userClasses": "username user ",
+    "message": "hm",
+    "msgClasses": "chat_message "
   }
 ]
