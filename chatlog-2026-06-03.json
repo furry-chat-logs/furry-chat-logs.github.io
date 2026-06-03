@@ -9768,5 +9768,15 @@
     "userClasses": "username user ",
     "message": "What's your fursona silly?:3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946397",
+    "type": "public",
+    "date": "3/06 11:05",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "a protogen ^^",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
