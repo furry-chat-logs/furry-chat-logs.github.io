@@ -888,5 +888,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "In*",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945384",
+    "type": "public",
+    "date": "3/06 0:39",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I will stick with monster",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
