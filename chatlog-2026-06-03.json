@@ -118,5 +118,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "We all love deme",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7945307",
+    "type": "public",
+    "date": "3/06 0:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Volkner K good",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
