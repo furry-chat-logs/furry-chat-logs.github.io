@@ -12508,5 +12508,15 @@
     "userClasses": "username bgrad5 bnfont6",
     "message": "profile link",
     "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946676",
+    "type": "public",
+    "date": "3/06 14:05",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "Is it a particular species of protogen?",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
