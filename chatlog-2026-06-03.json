@@ -10748,5 +10748,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'm not there yet",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946500",
+    "type": "public",
+    "date": "3/06 11:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_9f2dafc4fbe3.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946501",
+    "type": "public",
+    "date": "3/06 11:45",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "5 or 4 more days",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946502",
+    "type": "public",
+    "date": "3/06 11:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm staying in my room all summer ong",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
