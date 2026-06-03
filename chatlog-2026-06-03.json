@@ -9578,5 +9578,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "A little positivity goes a long way these days ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946378",
+    "type": "public",
+    "date": "3/06 10:57",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "i agree",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
