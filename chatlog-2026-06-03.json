@@ -1178,5 +1178,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Sol_Aizawa nah fam it's a FIAT or Kia Soul frfr",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945413",
+    "type": "public",
+    "date": "3/06 0:50",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "no fr",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
