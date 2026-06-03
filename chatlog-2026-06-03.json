@@ -6958,5 +6958,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Also snail",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946096",
+    "type": "public",
+    "date": "3/06 6:42",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "snel",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
