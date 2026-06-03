@@ -3218,5 +3218,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "i got some ideas i wanna try",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945617",
+    "type": "public",
+    "date": "3/06 2:28",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "do you like mustard as a binder?",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945618",
+    "type": "public",
+    "date": "3/06 2:29",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Help I'm broke",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
