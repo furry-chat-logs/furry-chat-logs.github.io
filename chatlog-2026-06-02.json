@@ -15422,5 +15422,15 @@
     "userClasses": "username user ",
     "message": "QueenKit alr",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945087",
+    "type": "public",
+    "date": "2/06 21:30",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "This is definitely one of the conversations of all times lol",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
