@@ -10428,5 +10428,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Veno glorp",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946468",
+    "type": "public",
+    "date": "3/06 11:29",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon21 bnfont16",
+    "message": "vorp?",
+    "msgClasses": "chat_message bneon21 ital"
   }
 ]
