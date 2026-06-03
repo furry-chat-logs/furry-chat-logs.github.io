@@ -10498,5 +10498,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "not me missing my bf while he is 2 sec. offline",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946475",
+    "type": "public",
+    "date": "3/06 11:33",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_0fc74132ad68.png]",
+    "msgClasses": "chat_message "
   }
 ]
