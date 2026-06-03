@@ -15588,5 +15588,15 @@
     "userClasses": "username bcolor27 ",
     "message": "smoking to avoid the stress makes you more stressed when you stop",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7946984",
+    "type": "public",
+    "date": "3/06 15:13",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Although I probably need to mind my T's and W's more tho...",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
