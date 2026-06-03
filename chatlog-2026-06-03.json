@@ -11338,5 +11338,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Meh",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946559",
+    "type": "public",
+    "date": "3/06 12:26",
+    "username": "NotMe",
+    "userId": "28145",
+    "userClasses": "username bcolor1 bnfont8",
+    "message": "Explodes",
+    "msgClasses": "chat_message bcolor3  bfont12"
   }
 ]
