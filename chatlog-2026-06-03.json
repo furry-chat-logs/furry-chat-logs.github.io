@@ -11118,5 +11118,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Zxn wanna grind r6 later and get me to 25000 renown for Dok?",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946537",
+    "type": "public",
+    "date": "3/06 12:07",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "How much are oyu at rn?",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7946538",
+    "type": "public",
+    "date": "3/06 12:07",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "you*",
+    "msgClasses": "chat_message bneon18 bold bfont4"
   }
 ]
