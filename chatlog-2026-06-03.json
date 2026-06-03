@@ -1288,5 +1288,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "At least it's blue lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945424",
+    "type": "public",
+    "date": "3/06 0:53",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37456_aa3648a3180f.png]",
+    "msgClasses": "chat_message "
   }
 ]
