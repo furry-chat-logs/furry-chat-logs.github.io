@@ -17818,5 +17818,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Meow meow",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947209",
+    "type": "public",
+    "date": "3/06 17:21",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm fucking shaking rn",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
