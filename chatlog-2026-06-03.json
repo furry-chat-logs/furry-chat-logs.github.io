@@ -10358,5 +10358,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa don't you have those blue plastic bags that thays allvays give out at shool?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946461",
+    "type": "public",
+    "date": "3/06 11:26",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "How is the drawing going!!",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
