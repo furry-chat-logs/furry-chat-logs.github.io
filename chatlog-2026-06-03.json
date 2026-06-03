@@ -6178,5 +6178,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "hi there!",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7945919",
+    "type": "public",
+    "date": "3/06 6:13",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon21 bnfont16",
+    "message": "hulloo",
+    "msgClasses": "chat_message bneon21 ital"
   }
 ]
