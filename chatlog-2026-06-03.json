@@ -1618,5 +1618,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Same",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945457",
+    "type": "public",
+    "date": "3/06 1:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Idk about anyone else but my dog is Chinese and he eats people",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
