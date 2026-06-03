@@ -9398,5 +9398,15 @@
     "userClasses": "username user ",
     "message": "hm",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946357",
+    "type": "public",
+    "date": "3/06 10:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hm",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
