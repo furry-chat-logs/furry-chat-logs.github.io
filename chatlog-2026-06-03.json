@@ -12848,5 +12848,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Holy fuckin slow",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946710",
+    "type": "public",
+    "date": "3/06 14:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I don't think I should be unblocked [sick2]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
