@@ -17558,5 +17558,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "she would just beat me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947183",
+    "type": "public",
+    "date": "3/06 16:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "The Nephalem I'm not scared of my mom tbh",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
