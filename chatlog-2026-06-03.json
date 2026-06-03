@@ -14028,5 +14028,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "that",
     "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7946828",
+    "type": "public",
+    "date": "3/06 14:39",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Hmm",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946829",
+    "type": "public",
+    "date": "3/06 14:39",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Neo The Protogen neaaaaww",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
