@@ -9828,5 +9828,25 @@
     "userClasses": "username bcolor14 ",
     "message": "Are we the only people here ? Lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946403",
+    "type": "public",
+    "date": "3/06 11:06",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "nope",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946404",
+    "type": "public",
+    "date": "3/06 11:07",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "not many ppl on rn",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
