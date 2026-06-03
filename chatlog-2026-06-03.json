@@ -12838,5 +12838,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_4191663ef6f8.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946709",
+    "type": "public",
+    "date": "3/06 14:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Holy fuckin slow",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
