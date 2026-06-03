@@ -9728,5 +9728,25 @@
     "userClasses": "username bcolor1 bnfont6",
     "message": "Waffles gewd boi3 hi ^^",
     "msgClasses": "chat_message bcolor1 bold bfont6"
+  },
+  {
+    "id": "7946393",
+    "type": "public",
+    "date": "3/06 11:03",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "welcome",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
+  },
+  {
+    "id": "7946394",
+    "type": "public",
+    "date": "3/06 11:03",
+    "username": "Waffles gewd boi3",
+    "userId": "37508",
+    "userClasses": "username user ",
+    "message": "Asfo?:3",
+    "msgClasses": "chat_message "
   }
 ]
