@@ -16518,5 +16518,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_fde300ae53c9.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947079",
+    "type": "public",
+    "date": "3/06 15:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Grgrgr",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947080",
+    "type": "public",
+    "date": "3/06 15:50",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Gosh im so bored",
+    "msgClasses": "chat_message bold"
   }
 ]
