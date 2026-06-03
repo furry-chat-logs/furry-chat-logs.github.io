@@ -16368,5 +16368,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_560ca6ddd419.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947064",
+    "type": "public",
+    "date": "3/06 15:39",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I gambled like £40 to get this skin [heu]",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7947065",
+    "type": "public",
+    "date": "3/06 15:39",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I hate gacha so much",
+    "msgClasses": "chat_message bold"
   }
 ]
