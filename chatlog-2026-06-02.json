@@ -14912,5 +14912,15 @@
     "userClasses": "username bneon18 ",
     "message": "I'm definitely putting ts in the playlist.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7945036",
+    "type": "public",
+    "date": "2/06 20:43",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmenRiNnJ6Y3l5cGFlYThzdmVjZG45b3BtY2cyZnNjYzRqNjd1YjhwOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tu0kWALxJpAOHn7N6U/giphy.gif]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
