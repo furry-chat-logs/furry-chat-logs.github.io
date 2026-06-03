@@ -15898,5 +15898,25 @@
     "userClasses": "username bcolor27 ",
     "message": "I love 2hollis so much ooohh my god",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7947017",
+    "type": "public",
+    "date": "3/06 15:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Why does my spelling only work 20%",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947018",
+    "type": "public",
+    "date": "3/06 15:16",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I've got a ton of his unreleased/archived shit [kiss4]",
+    "msgClasses": "chat_message bold"
   }
 ]
