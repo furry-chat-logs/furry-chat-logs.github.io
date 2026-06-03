@@ -10858,5 +10858,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_c558b53bd187.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946511",
+    "type": "public",
+    "date": "3/06 11:51",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "My name is Gillis Willis",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
