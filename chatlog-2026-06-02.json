@@ -16292,5 +16292,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "QueenKit *boop*",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7945175",
+    "type": "public",
+    "date": "2/06 22:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Oh shit I'm stupid i js did something wrong lol",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
