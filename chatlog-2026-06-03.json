@@ -8178,5 +8178,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Solis",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946226",
+    "type": "public",
+    "date": "3/06 8:25",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "yes you'd get Puro",
+    "msgClasses": "chat_message bneon19"
   }
 ]
