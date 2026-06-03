@@ -10778,5 +10778,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I'm staying in my room all summer ong",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946503",
+    "type": "public",
+    "date": "3/06 11:46",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Eww",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
