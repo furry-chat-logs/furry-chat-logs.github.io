@@ -10298,5 +10298,15 @@
     "userClasses": "username bcolor1 bnfont6",
     "message": "its nice isnt it?",
     "msgClasses": "chat_message bcolor1 bold bfont6"
+  },
+  {
+    "id": "7946455",
+    "type": "public",
+    "date": "3/06 11:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "yes very",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
