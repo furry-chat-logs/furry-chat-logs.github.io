@@ -12258,5 +12258,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] )",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946651",
+    "type": "public",
+    "date": "3/06 13:56",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Adios mi amigos",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
