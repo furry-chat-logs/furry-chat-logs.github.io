@@ -2828,5 +2828,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "OOOHHHHH PIGGYYYYYYYYYY!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945578",
+    "type": "public",
+    "date": "3/06 2:21",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Ashton McKennan You are high as a motherfucker. Heres this award: Highest furry of furrychat. *hands you an award*",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7945579",
+    "type": "public",
+    "date": "3/06 2:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oo-ee-oo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
