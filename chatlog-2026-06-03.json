@@ -10708,5 +10708,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Doesn't that suck",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946496",
+    "type": "public",
+    "date": "3/06 11:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Anywyas",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
