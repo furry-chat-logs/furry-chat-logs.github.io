@@ -388,5 +388,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "\"What can there be in the exam? What do I know?\"",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945334",
+    "type": "public",
+    "date": "3/06 0:24",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "it is not a exam",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
