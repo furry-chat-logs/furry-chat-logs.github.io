@@ -1258,5 +1258,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "My other dream car lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945421",
+    "type": "public",
+    "date": "3/06 0:52",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "In blue or black it would be heaven for me",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
