@@ -918,5 +918,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "But I'm more of a red Bull guy lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945387",
+    "type": "public",
+    "date": "3/06 0:40",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Red Bull*",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945388",
+    "type": "public",
+    "date": "3/06 0:40",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Ah, an enemy I see",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
