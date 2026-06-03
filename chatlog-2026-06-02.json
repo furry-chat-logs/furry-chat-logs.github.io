@@ -15142,5 +15142,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "peace on earth?",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7945059",
+    "type": "public",
+    "date": "2/06 21:05",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon21 bnfont16",
+    "message": "peace everywhere, it is a haven",
+    "msgClasses": "chat_message bneon21 ital"
   }
 ]
