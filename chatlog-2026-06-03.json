@@ -11388,5 +11388,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_ed8a47833a7c.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946564",
+    "type": "public",
+    "date": "3/06 12:48",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Gumby_iguana hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
