@@ -10738,5 +10738,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Isn't summer amazing",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946499",
+    "type": "public",
+    "date": "3/06 11:45",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'm not there yet",
+    "msgClasses": "chat_message bneon19"
   }
 ]
