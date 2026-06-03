@@ -11858,5 +11858,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Dose this look good on me?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946611",
+    "type": "public",
+    "date": "3/06 13:33",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Does*",
+    "msgClasses": "chat_message "
   }
 ]
