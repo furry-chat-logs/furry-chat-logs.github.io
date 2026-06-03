@@ -1678,5 +1678,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "[wolf]",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945463",
+    "type": "public",
+    "date": "3/06 1:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm just high asf rn [moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
