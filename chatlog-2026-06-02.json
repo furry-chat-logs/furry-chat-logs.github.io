@@ -14472,5 +14472,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Tchh.",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7944991",
+    "type": "public",
+    "date": "2/06 20:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Issa-shaped person.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7944992",
+    "type": "public",
+    "date": "2/06 20:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "and also 哈囉",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
