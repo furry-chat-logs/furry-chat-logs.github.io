@@ -10408,5 +10408,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I was busy to ////",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946466",
+    "type": "public",
+    "date": "3/06 11:28",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon21 bnfont16",
+    "message": "yawn",
+    "msgClasses": "chat_message bneon21 ital"
   }
 ]
