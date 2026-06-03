@@ -6658,5 +6658,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": ":3",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946032",
+    "type": "public",
+    "date": "3/06 6:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "If i were a protogen I would prob look like this",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946033",
+    "type": "public",
+    "date": "3/06 6:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Orange proot! So cute!!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
