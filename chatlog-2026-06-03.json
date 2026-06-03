@@ -8628,5 +8628,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Mrrp",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946280",
+    "type": "public",
+    "date": "3/06 9:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Dang I can see my brothers surch history",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
