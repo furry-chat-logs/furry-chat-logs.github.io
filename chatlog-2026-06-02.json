@@ -17238,5 +17238,15 @@
     "username": "System",
     "userId": null,
     "message": "20andthick has been removed from chat"
+  },
+  {
+    "id": "7945270",
+    "type": "public",
+    "date": "2/06 23:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Good golly.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
