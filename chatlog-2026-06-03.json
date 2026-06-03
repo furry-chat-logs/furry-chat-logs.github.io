@@ -7698,5 +7698,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[*w*]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946171",
+    "type": "public",
+    "date": "3/06 7:35",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Ello",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
