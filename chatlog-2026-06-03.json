@@ -12618,5 +12618,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Neo The Protogen relatable",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946687",
+    "type": "public",
+    "date": "3/06 14:11",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "I noticed this figure by the name of \"Galaxyia\" is in quite a few friend lists from people who made their profile in late 2023",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
