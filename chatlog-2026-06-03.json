@@ -3238,5 +3238,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Help I'm broke",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945619",
+    "type": "public",
+    "date": "3/06 2:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Yes",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7945620",
+    "type": "public",
+    "date": "3/06 2:29",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "sell a kidney",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
