@@ -1158,5 +1158,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Mercedes Benz",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945411",
+    "type": "public",
+    "date": "3/06 0:49",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "for me a polestar",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
