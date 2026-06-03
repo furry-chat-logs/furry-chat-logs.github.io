@@ -4528,5 +4528,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ohh okay",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7945750",
+    "type": "public",
+    "date": "3/06 4:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "once I got a uhm AI reference and they wanted like an almost one on one recreation with my drawing stile",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945751",
+    "type": "public",
+    "date": "3/06 4:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*style",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
