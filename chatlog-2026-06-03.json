@@ -3198,5 +3198,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "cook them first at least",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945615",
+    "type": "public",
+    "date": "3/06 2:28",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "and if you wont, then let me",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945616",
+    "type": "public",
+    "date": "3/06 2:28",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "i got some ideas i wanna try",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
