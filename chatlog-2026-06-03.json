@@ -15968,5 +15968,25 @@
     "userClasses": "username bcolor27 ",
     "message": "released meaning on streaming platforms",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7947024",
+    "type": "public",
+    "date": "3/06 15:17",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "liminal oh",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947025",
+    "type": "public",
+    "date": "3/06 15:17",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user484_1966c3d0fa7a.mp3 | 2HOLLIS_&_CIRCLEAIN___IM_DOING_ALRIGHT.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
