@@ -18498,5 +18498,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "hi Planet",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7947277",
+    "type": "public",
+    "date": "3/06 18:01",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bneon31 bnfont4",
+    "message": "waves",
+    "msgClasses": "chat_message bneon1 bold bfont4"
   }
 ]
