@@ -478,5 +478,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "You have a lot of time, do You have anyone to practice?",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945343",
+    "type": "public",
+    "date": "3/06 0:26",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "At least in my state I don't know about the other states school ends tomorrow and it doesn't start back up until September 4 for 5th I believe there Labor Day weekend",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945344",
+    "type": "public",
+    "date": "3/06 0:26",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Or*",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
