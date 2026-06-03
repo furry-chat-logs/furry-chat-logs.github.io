@@ -7038,5 +7038,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36863_de1f3ea9034c.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946104",
+    "type": "public",
+    "date": "3/06 6:46",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Curious kitty",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946105",
+    "type": "public",
+    "date": "3/06 6:46",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Cat",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
