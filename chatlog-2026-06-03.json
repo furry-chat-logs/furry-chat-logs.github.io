@@ -10088,5 +10088,25 @@
     "userClasses": "username bcolor14 ",
     "message": "Ohhhh damn that's unfortunate :(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946434",
+    "type": "public",
+    "date": "3/06 11:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Damn",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7946435",
+    "type": "public",
+    "date": "3/06 11:17",
+    "username": "Waffles gewd boi3",
+    "userId": "37508",
+    "userClasses": "username bcolor14 ",
+    "message": "Hope you're doing ok",
+    "msgClasses": "chat_message "
   }
 ]
