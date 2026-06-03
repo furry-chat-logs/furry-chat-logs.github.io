@@ -10648,5 +10648,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Montange vs frost lore",
     "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7946490",
+    "type": "public",
+    "date": "3/06 11:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_8e75dd524660.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946491",
+    "type": "public",
+    "date": "3/06 11:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "My room from a different angle",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
