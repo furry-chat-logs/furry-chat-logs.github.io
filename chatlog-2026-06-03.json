@@ -2698,5 +2698,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Tomorrow!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945565",
+    "type": "public",
+    "date": "3/06 2:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm sorry I was a bit not here",
+    "msgClasses": "chat_message bneon14"
   }
 ]
