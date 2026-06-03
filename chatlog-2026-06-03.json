@@ -10818,5 +10818,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "What",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946507",
+    "type": "public",
+    "date": "3/06 11:50",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "He's here...",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946508",
+    "type": "public",
+    "date": "3/06 11:50",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I think I'm dead...",
+    "msgClasses": "chat_message bneon19"
   }
 ]
