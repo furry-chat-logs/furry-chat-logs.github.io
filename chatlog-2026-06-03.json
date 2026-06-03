@@ -1738,5 +1738,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Porphyrophobia imagine.",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7945469",
+    "type": "public",
+    "date": "3/06 1:54",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm high too",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
