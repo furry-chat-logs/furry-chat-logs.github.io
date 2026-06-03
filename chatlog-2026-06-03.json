@@ -14428,5 +14428,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Yepeeee",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7946868",
+    "type": "public",
+    "date": "3/06 14:53",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "liminal I was browsing profiles that were either banned or abandoned",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
