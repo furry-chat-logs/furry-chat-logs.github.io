@@ -17000,5 +17000,35 @@
     "userClasses": "username bgrad15 ",
     "message": "Oh damn",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945246",
+    "type": "public",
+    "date": "2/06 23:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Time zones frfr",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945247",
+    "type": "public",
+    "date": "2/06 23:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Well anyway",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945248",
+    "type": "public",
+    "date": "2/06 23:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Bye",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
