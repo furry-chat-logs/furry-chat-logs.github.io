@@ -10958,5 +10958,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Your phone's charger got laced with fent",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946521",
+    "type": "public",
+    "date": "3/06 12:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "And now your phone is geeked out",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946522",
+    "type": "public",
+    "date": "3/06 12:03",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Probs",
+    "msgClasses": "chat_message bneon19"
   }
 ]
