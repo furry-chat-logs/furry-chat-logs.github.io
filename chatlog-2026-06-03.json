@@ -18168,5 +18168,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "So it's perfect",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947244",
+    "type": "public",
+    "date": "3/06 17:30",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Understandable i got one too just in case if anything happen so i can get help",
+    "msgClasses": "chat_message "
   }
 ]
