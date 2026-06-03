@@ -16602,5 +16602,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "bleh",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945206",
+    "type": "public",
+    "date": "2/06 22:53",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Blep",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945207",
+    "type": "public",
+    "date": "2/06 22:53",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "people are annoying i swear",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945208",
+    "type": "public",
+    "date": "2/06 22:53",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Bergindine Bleh right back at you",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
