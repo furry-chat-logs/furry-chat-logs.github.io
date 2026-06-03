@@ -578,5 +578,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "I wish I could go back with the knowledge I have now so I could finish it... Yours is a valid reason.",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945353",
+    "type": "public",
+    "date": "3/06 0:30",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "And even before I was accused like the second half of the school year before when I was in 11th grade and then the beginning of my 12th grade year where I got accused I was already on the outs with school",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945354",
+    "type": "public",
+    "date": "3/06 0:30",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Besides not seeing the point, I wanted to work",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
