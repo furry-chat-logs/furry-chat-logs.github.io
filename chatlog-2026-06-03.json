@@ -11918,5 +11918,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Crazy Haarschnitt",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7946617",
+    "type": "public",
+    "date": "3/06 13:37",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "The spinal cord has been dislocated",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946618",
+    "type": "public",
+    "date": "3/06 13:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
