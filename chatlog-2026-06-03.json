@@ -18348,5 +18348,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "z e n",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7947262",
+    "type": "public",
+    "date": "3/06 17:36",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Like totally totally",
+    "msgClasses": "chat_message "
   }
 ]
