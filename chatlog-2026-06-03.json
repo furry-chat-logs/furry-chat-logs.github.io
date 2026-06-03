@@ -3258,5 +3258,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "sell a kidney",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945621",
+    "type": "public",
+    "date": "3/06 2:29",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "i never specified your kidney",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
