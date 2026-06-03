@@ -15678,5 +15678,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Neo The Protogen how are they doing?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946993",
+    "type": "public",
+    "date": "3/06 15:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Oh fuck the ceiling fan",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
