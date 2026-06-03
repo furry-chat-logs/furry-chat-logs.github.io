@@ -16308,5 +16308,25 @@
     "userClasses": "username bcolor27 ",
     "message": "How do people draw with a mouse omg",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7947058",
+    "type": "public",
+    "date": "3/06 15:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Idk I never been funny before",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947059",
+    "type": "public",
+    "date": "3/06 15:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Wait bad timing",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
