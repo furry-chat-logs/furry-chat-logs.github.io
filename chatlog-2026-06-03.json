@@ -9378,5 +9378,15 @@
     "userClasses": "username bneon1 bnfont1",
     "message": "Hmhm",
     "msgClasses": "chat_message bgrad3 heavybold bfont1"
+  },
+  {
+    "id": "7946355",
+    "type": "public",
+    "date": "3/06 9:59",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Hm",
+    "msgClasses": "chat_message "
   }
 ]
