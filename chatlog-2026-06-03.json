@@ -2208,5 +2208,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Jesus fucking Christ don't buy THC",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945516",
+    "type": "public",
+    "date": "3/06 2:01",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm as high as the moon",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945517",
+    "type": "public",
+    "date": "3/06 2:01",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I was an entire different breed. [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
