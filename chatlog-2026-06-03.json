@@ -17478,5 +17478,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Just stole my mom's old iPhone lol",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947175",
+    "type": "public",
+    "date": "3/06 16:54",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "[good]",
+    "msgClasses": "chat_message "
   }
 ]
