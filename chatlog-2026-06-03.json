@@ -9248,5 +9248,15 @@
     "userClasses": "username user ",
     "message": "NeptuneLynxx whatre you up to atm?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946342",
+    "type": "public",
+    "date": "3/06 9:46",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Lineart done!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
