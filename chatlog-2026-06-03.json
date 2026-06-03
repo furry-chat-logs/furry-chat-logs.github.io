@@ -11978,5 +11978,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lyman yach it really is.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946623",
+    "type": "public",
+    "date": "3/06 13:40",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "But actually nice",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7946624",
+    "type": "public",
+    "date": "3/06 13:40",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Steht dir",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
