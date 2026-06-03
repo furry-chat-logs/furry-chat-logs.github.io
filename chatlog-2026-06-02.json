@@ -16882,5 +16882,15 @@
     "userClasses": "username bgrad15 ",
     "message": "New Kid I second that^^",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945234",
+    "type": "public",
+    "date": "2/06 23:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Brain damage is fun too",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
