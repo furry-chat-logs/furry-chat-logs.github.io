@@ -18488,5 +18488,15 @@
     "userClasses": "username bneon31 bnfont4",
     "message": "wipes nose",
     "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7947276",
+    "type": "public",
+    "date": "3/06 18:00",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "hi Planet",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
