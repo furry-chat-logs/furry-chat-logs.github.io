@@ -15552,5 +15552,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "QueenKit wwew",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7945100",
+    "type": "public",
+    "date": "2/06 21:56",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Hi",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945101",
+    "type": "public",
+    "date": "2/06 21:56",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Insidiae hihi",
+    "msgClasses": "chat_message bneon9"
   }
 ]
