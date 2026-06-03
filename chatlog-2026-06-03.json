@@ -5708,5 +5708,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's alright",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945868",
+    "type": "public",
+    "date": "3/06 6:00",
+    "username": "pandacorpze",
+    "userId": "37480",
+    "userClasses": "username user ",
+    "message": "ok thank you for the heads up",
+    "msgClasses": "chat_message "
   }
 ]
