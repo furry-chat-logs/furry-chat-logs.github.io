@@ -378,5 +378,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Intead of beeing here try to study a little",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945333",
+    "type": "public",
+    "date": "3/06 0:23",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "\"What can there be in the exam? What do I know?\"",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
