@@ -13518,5 +13518,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "New Kid yes,",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946777",
+    "type": "public",
+    "date": "3/06 14:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Porphyrophobia wait what's an art trade",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
