@@ -428,5 +428,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "yes, yes they do",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945338",
+    "type": "public",
+    "date": "3/06 0:25",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I have 3-4 weeks until test week wich is at the end of every year, like examns, but I don't graduate",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
