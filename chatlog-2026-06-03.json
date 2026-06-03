@@ -2258,5 +2258,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_088fc7380031.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945521",
+    "type": "public",
+    "date": "3/06 2:03",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHpkYWNnaXY5dGZma3B4Ymk5NTBjMmp0ZnoxaDc3MDZ4b2tlMndmcCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/bGPTxLislwm3u/giphy.gif]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
