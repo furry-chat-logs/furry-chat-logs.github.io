@@ -8878,5 +8878,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "waiting for the school doors to open",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7946305",
+    "type": "public",
+    "date": "3/06 9:29",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I can't bother my gf anymore",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946306",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "my hair is too fluffy today",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
