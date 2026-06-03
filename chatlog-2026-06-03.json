@@ -11278,5 +11278,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ofc!",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946553",
+    "type": "public",
+    "date": "3/06 12:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Personally I'm living in a 1 dimensional plane of existence where time doesn't exist",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
