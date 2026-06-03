@@ -6498,5 +6498,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Hehehe",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946001",
+    "type": "public",
+    "date": "3/06 6:25",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sol_Aizawa yeah",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
