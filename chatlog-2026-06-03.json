@@ -12968,5 +12968,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Neo The Protogen what happen?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946722",
+    "type": "public",
+    "date": "3/06 14:17",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Numm Bug hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946723",
+    "type": "public",
+    "date": "3/06 14:17",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Just dont search it ever",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
