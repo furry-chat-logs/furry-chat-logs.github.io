@@ -14048,5 +14048,45 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Neo The Protogen neaaaaww",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7946830",
+    "type": "public",
+    "date": "3/06 14:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "~.~",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7946831",
+    "type": "public",
+    "date": "3/06 14:39",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Huh?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946832",
+    "type": "public",
+    "date": "3/06 14:40",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "What about Corgz?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946833",
+    "type": "public",
+    "date": "3/06 14:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[secret-share: ytXPu45sXSHU7wEcq8rkhQWAz&n=47582] ask me things",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
