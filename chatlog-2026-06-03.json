@@ -3288,5 +3288,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "What I mean is I'm broke off of coins",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945624",
+    "type": "public",
+    "date": "3/06 2:31",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "oh",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
