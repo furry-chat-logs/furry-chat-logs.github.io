@@ -8398,5 +8398,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "It shows 3/4ths of the face which is why the snout is like that",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946248",
+    "type": "public",
+    "date": "3/06 8:33",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "oh!",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
