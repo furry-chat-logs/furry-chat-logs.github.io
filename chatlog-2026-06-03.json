@@ -1428,5 +1428,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Goodnight",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945438",
+    "type": "public",
+    "date": "3/06 0:56",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Nos vemos perros! 🐺",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
