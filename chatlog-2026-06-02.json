@@ -16772,5 +16772,25 @@
     "userClasses": "username bgrad15 ",
     "message": "What the fuck",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945223",
+    "type": "public",
+    "date": "2/06 22:58",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_586793248c7f.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945224",
+    "type": "public",
+    "date": "2/06 22:58",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "They think they're part of the team",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
