@@ -6128,5 +6128,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oof",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945910",
+    "type": "public",
+    "date": "3/06 6:10",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I forgot that the Frog-lord could see what email address the account was registered to [and I forgot I had been kicked]. So I'd assume the staff thought I was trying to bypass the kick",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
