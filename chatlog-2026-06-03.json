@@ -17608,5 +17608,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Hehehe",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947188",
+    "type": "public",
+    "date": "3/06 16:57",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "my parents kinda (propably) hate me",
+    "msgClasses": "chat_message "
   }
 ]
