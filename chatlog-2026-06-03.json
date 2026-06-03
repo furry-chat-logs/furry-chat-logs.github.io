@@ -11398,5 +11398,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Gumby_iguana hi👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946565",
+    "type": "public",
+    "date": "3/06 12:50",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_f7275f387d0f.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
