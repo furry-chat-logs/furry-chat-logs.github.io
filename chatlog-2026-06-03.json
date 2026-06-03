@@ -3318,5 +3318,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "i only got like 800",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945627",
+    "type": "public",
+    "date": "3/06 2:32",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Porphyrophobia do you like rib meat? if so do you prefer it on the bone or is off bone fine too?",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945628",
+    "type": "public",
+    "date": "3/06 2:32",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "My weed is wearing off",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
