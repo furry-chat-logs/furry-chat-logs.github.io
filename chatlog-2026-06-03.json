@@ -9958,5 +9958,15 @@
     "userClasses": "username bcolor1 bnfont6",
     "message": "very squish",
     "msgClasses": "chat_message bcolor1 bold bfont6"
+  },
+  {
+    "id": "7946421",
+    "type": "public",
+    "date": "3/06 11:12",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "fat :o",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
