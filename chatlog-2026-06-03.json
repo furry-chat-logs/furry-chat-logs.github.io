@@ -18368,5 +18368,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Who wants to have a dance party",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947264",
+    "type": "public",
+    "date": "3/06 17:37",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "asterr stared",
+    "msgClasses": "chat_message bneon18 bold bfont4"
   }
 ]
