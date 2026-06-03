@@ -11668,5 +11668,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "just assholes happened",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7946592",
+    "type": "public",
+    "date": "3/06 13:12",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Sorry tmi everyone",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946593",
+    "type": "public",
+    "date": "3/06 13:12",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "Sol_Aizawa they're good",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
