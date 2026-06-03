@@ -1858,5 +1858,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "oh damn",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945481",
+    "type": "public",
+    "date": "3/06 1:56",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am to young for even a edible",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945482",
+    "type": "public",
+    "date": "3/06 1:56",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It's supposed to help me relieve my stress",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945483",
+    "type": "public",
+    "date": "3/06 1:56",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "stupis laws",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
