@@ -8558,5 +8558,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa what",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946264",
+    "type": "public",
+    "date": "3/06 8:49",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Mdekoni go to the website your email address is registered on.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
