@@ -1928,5 +1928,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "SBB Guten morgen",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945488",
+    "type": "public",
+    "date": "3/06 1:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[verysad] I have a bad history of dr*gs soooo.. I'm not even super be trusted with any but I need to keep myself from tweaking",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7945489",
+    "type": "public",
+    "date": "3/06 1:57",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Ashton McKennan same, but that doesn't stop em to give it to me",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945490",
+    "type": "public",
+    "date": "3/06 1:57",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im so goddam sick",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
