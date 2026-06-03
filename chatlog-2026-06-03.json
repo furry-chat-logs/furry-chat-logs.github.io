@@ -18816,5 +18816,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Gtg eat dinner",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7947310",
+    "type": "public",
+    "date": "3/06 18:54",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Farts",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947311",
+    "type": "public",
+    "date": "3/06 18:54",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "asterr sup matr",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
