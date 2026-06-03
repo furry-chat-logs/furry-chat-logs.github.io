@@ -18648,5 +18648,13 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjQzcDIxbWd6MTR1MjduMWJra2U3a3UxMWs1OWp6anJkcm83emUwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7TwPbkbwhIGx4PEAQt/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7947292",
+    "type": "system",
+    "date": "3/06 18:28",
+    "username": "System",
+    "userId": null,
+    "message": "ImYoursToCuddle has been muted"
   }
 ]
