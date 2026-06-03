@@ -17658,5 +17658,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "its just a cornball?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947193",
+    "type": "public",
+    "date": "3/06 17:00",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "whats funny about corn?",
+    "msgClasses": "chat_message "
   }
 ]
