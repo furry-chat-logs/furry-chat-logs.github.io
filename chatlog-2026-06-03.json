@@ -1108,5 +1108,25 @@
     "userClasses": "username user ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user27699_bbc6553a16b4.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945406",
+    "type": "public",
+    "date": "3/06 0:48",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Yeeeeeeeeeeah! 2v1, You lost Hunter77",
+    "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945407",
+    "type": "public",
+    "date": "3/06 0:48",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_2dc49e2a5655.png]",
+    "msgClasses": "chat_message "
   }
 ]
