@@ -5148,5 +5148,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "*Sings lustrous*",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945812",
+    "type": "public",
+    "date": "3/06 5:32",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ラストラス / *Luna feat. 初音ミク / Hatsune Miku",
+    "msgClasses": "chat_message bneon14"
   }
 ]
