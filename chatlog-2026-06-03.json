@@ -12338,5 +12338,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I can't read",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946659",
+    "type": "public",
+    "date": "3/06 14:02",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36289_8771721aa41e.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946660",
+    "type": "public",
+    "date": "3/06 14:02",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "Quite a bit of abandoned accounts here",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
