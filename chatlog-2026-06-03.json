@@ -9338,5 +9338,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Wow👏",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946351",
+    "type": "public",
+    "date": "3/06 9:52",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Okay thanks",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946352",
+    "type": "public",
+    "date": "3/06 9:52",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I gtg for a bit",
+    "msgClasses": "chat_message bneon19"
   }
 ]
