@@ -17618,5 +17618,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "my parents kinda (propably) hate me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947189",
+    "type": "public",
+    "date": "3/06 16:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f7a271d9dca3.png]",
+    "msgClasses": "chat_message "
   }
 ]
