@@ -58,5 +58,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "She on YouTube",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7945301",
+    "type": "public",
+    "date": "3/06 0:07",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "We love deme",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7945302",
+    "type": "public",
+    "date": "3/06 0:07",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "We don't hate on deme",
+    "msgClasses": "chat_message bneon19"
   }
 ]
