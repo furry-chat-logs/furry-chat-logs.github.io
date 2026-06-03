@@ -198,5 +198,15 @@
     "userClasses": "username user ",
     "message": "Like when someone gives someome the L it means Lose or Loser",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945315",
+    "type": "public",
+    "date": "3/06 0:12",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Because you said you promoted the restaurant I put the W as in a positive thing",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
