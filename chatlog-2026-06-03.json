@@ -18676,5 +18676,15 @@
     "userClasses": "username bcolor21 bnfont12",
     "message": "Good afternoon uwu",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947295",
+    "type": "public",
+    "date": "3/06 18:36",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_1ad68095b4cb.gif]",
+    "msgClasses": "chat_message "
   }
 ]
