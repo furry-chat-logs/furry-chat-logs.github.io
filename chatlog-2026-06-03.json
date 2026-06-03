@@ -12378,5 +12378,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "^ My friends and family are the most valuable things I have",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946663",
+    "type": "public",
+    "date": "3/06 14:03",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "They're not abandoned",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7946664",
+    "type": "public",
+    "date": "3/06 14:03",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Just offline",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
