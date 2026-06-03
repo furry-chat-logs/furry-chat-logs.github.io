@@ -8218,5 +8218,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Hmm I'll draw you Solen using that art as a ref",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946230",
+    "type": "public",
+    "date": "3/06 8:27",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_87cb8766d4d6.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946231",
+    "type": "public",
+    "date": "3/06 8:27",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "puro",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
