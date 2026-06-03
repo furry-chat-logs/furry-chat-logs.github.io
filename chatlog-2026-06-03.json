@@ -12328,5 +12328,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( Hi can you show your most valuable thing? 3/06 12:01 ) Bet",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946658",
+    "type": "public",
+    "date": "3/06 14:02",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I can't read",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
