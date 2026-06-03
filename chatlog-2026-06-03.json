@@ -568,5 +568,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "So I left I was like I'm done with this place why would I go to a place that don't care about me",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945352",
+    "type": "public",
+    "date": "3/06 0:30",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "I wish I could go back with the knowledge I have now so I could finish it... Yours is a valid reason.",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
