@@ -10038,5 +10038,15 @@
     "userClasses": "username bcolor14 ",
     "message": "I had a cat but he lives with my brother now :(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946429",
+    "type": "public",
+    "date": "3/06 11:15",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I haven't seen him in over a year so I might go to Mexico where my Tio is to see him",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
