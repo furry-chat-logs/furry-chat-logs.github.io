@@ -16900,5 +16900,15 @@
     "username": "System",
     "userId": null,
     "message": "Bergindine has been muted"
+  },
+  {
+    "id": "7945236",
+    "type": "public",
+    "date": "2/06 23:10",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Pfft",
+    "msgClasses": "chat_message bneon19"
   }
 ]
