@@ -10938,5 +10938,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "My phone tweaking",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946519",
+    "type": "public",
+    "date": "3/06 11:59",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "It was just at 40%, charging and it jumped to 34% while still on the charger",
+    "msgClasses": "chat_message bneon19"
   }
 ]
