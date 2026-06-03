@@ -12268,5 +12268,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Adios mi amigos",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7946652",
+    "type": "public",
+    "date": "3/06 13:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] ~🔻~",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
