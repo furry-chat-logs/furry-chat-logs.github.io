@@ -7648,5 +7648,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "wut",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946166",
+    "type": "public",
+    "date": "3/06 7:30",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Spectre_protogen how much ram do you use?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
