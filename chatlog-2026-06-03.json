@@ -11348,5 +11348,15 @@
     "userClasses": "username bcolor1 bnfont8",
     "message": "Explodes",
     "msgClasses": "chat_message bcolor3  bfont12"
+  },
+  {
+    "id": "7946560",
+    "type": "public",
+    "date": "3/06 12:32",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Greetings",
+    "msgClasses": "chat_message "
   }
 ]
