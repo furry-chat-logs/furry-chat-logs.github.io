@@ -14672,5 +14672,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Hehe brain go brrrrrrr",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7945011",
+    "type": "public",
+    "date": "2/06 20:22",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Don't give me that stare, rodent-man.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
