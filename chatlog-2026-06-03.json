@@ -14968,5 +14968,15 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "i cast the red sky",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946922",
+    "type": "public",
+    "date": "3/06 15:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I love sitting in my room",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
