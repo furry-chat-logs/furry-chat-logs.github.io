@@ -10868,5 +10868,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "My name is Gillis Willis",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946512",
+    "type": "public",
+    "date": "3/06 11:51",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "New Kid flazza-blazzalrighttt",
+    "msgClasses": "chat_message bneon19"
   }
 ]
