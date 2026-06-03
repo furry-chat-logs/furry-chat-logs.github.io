@@ -13528,5 +13528,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Porphyrophobia wait what's an art trade",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946778",
+    "type": "public",
+    "date": "3/06 14:30",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "New Kid you trade your art with someone else's",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
