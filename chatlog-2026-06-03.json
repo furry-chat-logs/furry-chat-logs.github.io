@@ -3928,5 +3928,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yippeeee",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945690",
+    "type": "public",
+    "date": "3/06 3:07",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_12f862d4580b.png]",
+    "msgClasses": "chat_message "
   }
 ]
