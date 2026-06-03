@@ -1788,5 +1788,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "couldnt be me",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7945474",
+    "type": "public",
+    "date": "3/06 1:54",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I took 100 mg of THC",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
