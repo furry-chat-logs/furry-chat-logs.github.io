@@ -11758,5 +11758,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Gotta connect that to my ps4 ngl",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7946601",
+    "type": "public",
+    "date": "3/06 13:16",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Dawg that's like trying to connect an ant to Bluetooth",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
