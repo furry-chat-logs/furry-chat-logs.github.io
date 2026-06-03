@@ -11868,5 +11868,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Does*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946612",
+    "type": "public",
+    "date": "3/06 13:35",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I look like a vampire 🧛",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
