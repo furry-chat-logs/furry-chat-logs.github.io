@@ -5378,5 +5378,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Do you wanna go to the RP room?",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945835",
+    "type": "public",
+    "date": "3/06 5:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Blergh...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
