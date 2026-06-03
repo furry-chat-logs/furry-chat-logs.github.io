@@ -8608,5 +8608,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "merp",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946278",
+    "type": "public",
+    "date": "3/06 8:55",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "blep",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
