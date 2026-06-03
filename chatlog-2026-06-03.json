@@ -4398,5 +4398,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Okah",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7945737",
+    "type": "public",
+    "date": "3/06 4:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "its hard I have never tried to copy a style without also tracing the outline",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945738",
+    "type": "public",
+    "date": "3/06 4:42",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Lemme know if you need anything",
+    "msgClasses": "chat_message bneon19"
   }
 ]
