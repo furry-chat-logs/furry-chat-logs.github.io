@@ -5948,5 +5948,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I literally watched this chat site dissipate",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945892",
+    "type": "public",
+    "date": "3/06 6:06",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "yeah",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
