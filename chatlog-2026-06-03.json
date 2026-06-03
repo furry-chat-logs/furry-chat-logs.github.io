@@ -11048,5 +11048,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Oh",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946530",
+    "type": "public",
+    "date": "3/06 12:06",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "TS better not turn into my old device #twk",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946531",
+    "type": "public",
+    "date": "3/06 12:06",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Well then the battery is laced with fent",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
