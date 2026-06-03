@@ -10998,5 +10998,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Oh",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946525",
+    "type": "public",
+    "date": "3/06 12:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "The sun light is laced with fent",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
