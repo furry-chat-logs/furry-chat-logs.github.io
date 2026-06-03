@@ -1438,5 +1438,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Nos vemos perros! 🐺",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945439",
+    "type": "public",
+    "date": "3/06 0:57",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_f3e3ad78b8f6.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
