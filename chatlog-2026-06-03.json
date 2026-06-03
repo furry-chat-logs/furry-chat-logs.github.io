@@ -1378,5 +1378,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Haha",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945433",
+    "type": "public",
+    "date": "3/06 0:55",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "hell nah not Giphy hating on polestar and giving me bmw",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
