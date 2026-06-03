@@ -1958,5 +1958,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im so goddam sick",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7945491",
+    "type": "public",
+    "date": "3/06 1:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_6f6ff4d9a0b0.gif]",
+    "msgClasses": "chat_message "
   }
 ]
