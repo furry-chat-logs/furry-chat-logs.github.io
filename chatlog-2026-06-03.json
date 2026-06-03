@@ -4078,5 +4078,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Real",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945705",
+    "type": "public",
+    "date": "3/06 3:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa lol hoii",
+    "msgClasses": "chat_message bneon14"
   }
 ]
