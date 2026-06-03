@@ -9788,5 +9788,15 @@
     "userClasses": "username user ",
     "message": "Nice:3 I'm a border collie/German Shepherd",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946399",
+    "type": "public",
+    "date": "3/06 11:05",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "ooo",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
