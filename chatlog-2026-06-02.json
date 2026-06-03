@@ -16742,5 +16742,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Same",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7945220",
+    "type": "public",
+    "date": "2/06 22:57",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37058_38ff5d0061a4.png]",
+    "msgClasses": "chat_message "
   }
 ]
