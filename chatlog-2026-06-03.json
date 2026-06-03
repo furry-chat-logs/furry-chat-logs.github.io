@@ -9868,5 +9868,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "so I am not responding much",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946407",
+    "type": "public",
+    "date": "3/06 11:07",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "aweee how sweet",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
