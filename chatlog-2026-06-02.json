@@ -15132,5 +15132,15 @@
     "userClasses": "username bneon21 bnfont16",
     "message": "peace",
     "msgClasses": "chat_message bneon21 ital"
+  },
+  {
+    "id": "7945058",
+    "type": "public",
+    "date": "2/06 21:05",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "peace on earth?",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
