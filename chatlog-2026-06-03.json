@@ -4598,5 +4598,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I also did a comm with a template as I only got a description no ref",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945757",
+    "type": "public",
+    "date": "3/06 4:47",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_e6af29fe883f.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945758",
+    "type": "public",
+    "date": "3/06 4:47",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Used this template",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
