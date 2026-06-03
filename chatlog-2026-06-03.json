@@ -10238,5 +10238,25 @@
     "userClasses": "username bcolor1 bnfont6",
     "message": "Sol_Aizawa hehe i know the feeling ^^",
     "msgClasses": "chat_message bcolor1 bold bfont6"
+  },
+  {
+    "id": "7946449",
+    "type": "public",
+    "date": "3/06 11:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "well I did not",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946450",
+    "type": "public",
+    "date": "3/06 11:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I had a gf before",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
