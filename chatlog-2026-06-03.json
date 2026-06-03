@@ -1278,5 +1278,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Hunter77 we have very different tastes...",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945423",
+    "type": "public",
+    "date": "3/06 0:52",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "At least it's blue lol",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
