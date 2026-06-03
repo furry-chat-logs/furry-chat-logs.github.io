@@ -17110,5 +17110,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Ppl from europe usually have it",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945257",
+    "type": "public",
+    "date": "2/06 23:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And ur from the usa",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945258",
+    "type": "public",
+    "date": "2/06 23:19",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Hey Oreo",
+    "msgClasses": "chat_message "
   }
 ]
