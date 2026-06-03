@@ -16672,5 +16672,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Bergindine real",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7945213",
+    "type": "public",
+    "date": "2/06 22:55",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_a28344876a88.png]",
+    "msgClasses": "chat_message "
   }
 ]
