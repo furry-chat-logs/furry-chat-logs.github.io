@@ -9368,5 +9368,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hm",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7946354",
+    "type": "public",
+    "date": "3/06 9:57",
+    "username": "Fawzi",
+    "userId": "9421",
+    "userClasses": "username bneon1 bnfont1",
+    "message": "Hmhm",
+    "msgClasses": "chat_message bgrad3 heavybold bfont1"
   }
 ]
