@@ -14272,5 +14272,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "??",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7944971",
+    "type": "public",
+    "date": "2/06 19:52",
+    "username": "Veno",
+    "userId": "8589",
+    "userClasses": "username bneon21 bnfont16",
+    "message": "song lyrics",
+    "msgClasses": "chat_message bneon21 ital"
   }
 ]
