@@ -228,5 +228,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Yeah I think it was a GREAT W",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945318",
+    "type": "public",
+    "date": "3/06 0:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I aint gonna survive this day",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945319",
+    "type": "public",
+    "date": "3/06 0:20",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGt5NG92enVld3dpYjd1ZjN0b2Z6Yzk4YXQ0dnVzZmM3Njd5MDV4ZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/ro4WcwPA2vmIPt1WVt/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
