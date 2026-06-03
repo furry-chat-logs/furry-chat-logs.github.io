@@ -17130,5 +17130,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hey Oreo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945259",
+    "type": "public",
+    "date": "2/06 23:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "U probably meant buggo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
