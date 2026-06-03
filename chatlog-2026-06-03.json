@@ -398,5 +398,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "it is not a exam",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945335",
+    "type": "public",
+    "date": "3/06 0:24",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "My school graduates today granted I'm no longer in school but my friend's sister graduates today and I'm going to the graduation lol so I guess schools in Europe go longer than schools in America",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945336",
+    "type": "public",
+    "date": "3/06 0:24",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "its words, the thing that stick the least in that head of mine",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
