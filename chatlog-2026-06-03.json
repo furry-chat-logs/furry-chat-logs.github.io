@@ -7868,5 +7868,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "nvm my bestie is awake -w-",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946194",
+    "type": "public",
+    "date": "3/06 7:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_487ef0f6a48e.webp]",
+    "msgClasses": "chat_message "
   }
 ]
