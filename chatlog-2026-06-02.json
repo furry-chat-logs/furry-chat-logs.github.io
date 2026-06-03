@@ -15872,5 +15872,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I need information for the welfare check",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945133",
+    "type": "public",
+    "date": "2/06 22:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Mb that makes more sense",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945134",
+    "type": "public",
+    "date": "2/06 22:17",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "You're making a scene out of nothing",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7945135",
+    "type": "public",
+    "date": "2/06 22:17",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "they won't do shit",
+    "msgClasses": "chat_message bneon9"
   }
 ]
