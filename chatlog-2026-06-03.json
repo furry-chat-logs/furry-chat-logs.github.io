@@ -12128,5 +12128,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Heyheyhey",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7946638",
+    "type": "public",
+    "date": "3/06 13:51",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "liminal heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
