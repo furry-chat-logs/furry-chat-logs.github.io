@@ -17848,5 +17848,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_563a8dc847f8.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947212",
+    "type": "public",
+    "date": "3/06 17:22",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I just stole my mom's old iPhone",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
