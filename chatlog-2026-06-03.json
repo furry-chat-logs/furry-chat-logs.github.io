@@ -14608,5 +14608,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_45809c2f25c9.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946886",
+    "type": "public",
+    "date": "3/06 14:57",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "SilverXD why did you piss yourself at the end",
+    "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946887",
+    "type": "public",
+    "date": "3/06 14:57",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "liminal that's why I said idk",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
