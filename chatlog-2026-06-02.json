@@ -15612,5 +15612,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I need all hands on deck for a welfare check",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945106",
+    "type": "public",
+    "date": "2/06 22:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "KingCorgz HEY",
+    "msgClasses": "chat_message bneon19"
   }
 ]
