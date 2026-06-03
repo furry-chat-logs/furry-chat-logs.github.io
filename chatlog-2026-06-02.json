@@ -16442,5 +16442,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Please",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945190",
+    "type": "public",
+    "date": "2/06 22:51",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "It's called VRAM",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7945191",
+    "type": "public",
+    "date": "2/06 22:51",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Virtual Ram",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
