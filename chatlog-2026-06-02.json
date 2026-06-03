@@ -16712,5 +16712,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Im kinda done",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945217",
+    "type": "public",
+    "date": "2/06 22:55",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Just like",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945218",
+    "type": "public",
+    "date": "2/06 22:55",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "With everything",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
