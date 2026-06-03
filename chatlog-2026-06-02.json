@@ -14412,5 +14412,25 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944985",
+    "type": "public",
+    "date": "2/06 20:13",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemh3M250aWZoMzRvY3g0ajZuaTVza2l3dmcwNW5pZ3hveGE2bmJmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fUQ4rhUZJYiQsas6WD/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7944986",
+    "type": "public",
+    "date": "2/06 20:13",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "No.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
