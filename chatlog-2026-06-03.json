@@ -4268,5 +4268,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "my legal name aint that bad for me to pay that much",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945724",
+    "type": "public",
+    "date": "3/06 4:38",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I'll just try to change the name people call me",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
