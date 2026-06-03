@@ -6528,5 +6528,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36863_afd51697afc6.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946005",
+    "type": "public",
+    "date": "3/06 6:26",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "0v0. you caught me",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
