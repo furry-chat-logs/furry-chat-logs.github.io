@@ -1458,5 +1458,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_f86571b8c1da.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945441",
+    "type": "public",
+    "date": "3/06 0:57",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "😭",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
