@@ -16268,5 +16268,25 @@
     "userClasses": "username bneon18 ",
     "message": "LMFAO.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7947054",
+    "type": "public",
+    "date": "3/06 15:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Dryer than a Popeyes biscuit. ✌🏽🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947055",
+    "type": "public",
+    "date": "3/06 15:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Porphyrophobia nah that's moistened seasoning",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
