@@ -10888,5 +10888,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "QueenKit Gillis Willis",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946514",
+    "type": "public",
+    "date": "3/06 11:52",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_de7b8f7e7a38.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
