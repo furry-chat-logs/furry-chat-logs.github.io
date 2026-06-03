@@ -17248,5 +17248,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Also slow",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947152",
+    "type": "public",
+    "date": "3/06 16:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I love fighting with somebody who's totally not me",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
