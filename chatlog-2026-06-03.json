@@ -10308,5 +10308,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "yes very",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946456",
+    "type": "public",
+    "date": "3/06 11:24",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "hehe",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
