@@ -2068,5 +2068,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I wann smoke, but like I am 15 and there aint nothing really illigal in me",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945502",
+    "type": "public",
+    "date": "3/06 1:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "except maybe grafiti",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
