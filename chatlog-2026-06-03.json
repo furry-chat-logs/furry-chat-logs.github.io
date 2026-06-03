@@ -15868,5 +15868,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Testicles, even",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947014",
+    "type": "public",
+    "date": "3/06 15:15",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Huh?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
