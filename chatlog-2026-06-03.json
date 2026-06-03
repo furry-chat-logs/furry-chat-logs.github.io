@@ -15208,5 +15208,15 @@
     "userClasses": "username bcolor27 ",
     "message": "It's practically just a longer episode",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7946946",
+    "type": "public",
+    "date": "3/06 15:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Neo The Protogen real",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
