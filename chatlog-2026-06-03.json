@@ -15058,5 +15058,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Big fan of the storyline",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7946931",
+    "type": "public",
+    "date": "3/06 15:07",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "KillerThefemmy A",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
