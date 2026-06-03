@@ -17978,5 +17978,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Ohhhh shit",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947225",
+    "type": "public",
+    "date": "3/06 17:23",
+    "username": "Sylveon",
+    "userId": "8363",
+    "userClasses": "username bgrad3 bnfont16",
+    "message": "holy shit are you two feet tall",
+    "msgClasses": "chat_message bneon19 ital bfont14"
   }
 ]
