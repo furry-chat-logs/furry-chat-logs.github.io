@@ -15838,5 +15838,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Autocorrect",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947011",
+    "type": "public",
+    "date": "3/06 15:15",
+    "username": "Data",
+    "userId": "2",
+    "userClasses": "username bneon9 bnfont7",
+    "message": "This room has been cleared by NeptuneLynxx",
+    "msgClasses": "chat_message chat_system"
+  },
+  {
+    "id": "7947012",
+    "type": "public",
+    "date": "3/06 15:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Bslls",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
