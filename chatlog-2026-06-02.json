@@ -14572,5 +14572,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "This is morbid incompetence.",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7945001",
+    "type": "public",
+    "date": "2/06 20:17",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_a1ddeb2d667b.gif]",
+    "msgClasses": "chat_message "
   }
 ]
