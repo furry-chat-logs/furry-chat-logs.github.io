@@ -11298,5 +11298,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Good morning everyone ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946555",
+    "type": "public",
+    "date": "3/06 12:14",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "morning",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
