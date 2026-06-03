@@ -3358,5 +3358,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "pop a xanny or smthn",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945631",
+    "type": "public",
+    "date": "3/06 2:34",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hewwowoo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
