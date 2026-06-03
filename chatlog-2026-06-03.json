@@ -17288,5 +17288,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "hihi ^^",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7947156",
+    "type": "public",
+    "date": "3/06 16:34",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Nini",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7947157",
+    "type": "public",
+    "date": "3/06 16:34",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Everyone",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
