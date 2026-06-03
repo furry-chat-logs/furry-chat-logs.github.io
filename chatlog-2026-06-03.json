@@ -7368,5 +7368,15 @@
     "userClasses": "username bneon21 bnfont16",
     "message": "gnarpie",
     "msgClasses": "chat_message bneon21 ital"
+  },
+  {
+    "id": "7946137",
+    "type": "public",
+    "date": "3/06 7:11",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ye",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
