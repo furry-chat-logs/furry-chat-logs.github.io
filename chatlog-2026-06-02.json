@@ -16990,5 +16990,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Buggo umm it's 7:16 am",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945245",
+    "type": "public",
+    "date": "2/06 23:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Oh damn",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
