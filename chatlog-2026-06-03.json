@@ -1478,5 +1478,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "You don't have to say it twice.Hunter77 💀",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945443",
+    "type": "public",
+    "date": "3/06 1:15",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "oh look its Sircreeper",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
