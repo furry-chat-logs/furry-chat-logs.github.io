@@ -468,5 +468,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Damn",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945342",
+    "type": "public",
+    "date": "3/06 0:26",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "You have a lot of time, do You have anyone to practice?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
