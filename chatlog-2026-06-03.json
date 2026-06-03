@@ -5298,5 +5298,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Grief? Nu-uh my grandpa died, did not cry, all I felt was a weird emptyness",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945827",
+    "type": "public",
+    "date": "3/06 5:50",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Relatable there.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7945828",
+    "type": "public",
+    "date": "3/06 5:50",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "people said I should cry I should trow a tantrumbe angry anything",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
