@@ -5048,5 +5048,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "It's a song",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945802",
+    "type": "public",
+    "date": "3/06 5:09",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "a song I was listening to",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945803",
+    "type": "public",
+    "date": "3/06 5:09",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Ohhh",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
