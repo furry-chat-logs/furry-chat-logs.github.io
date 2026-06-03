@@ -18118,5 +18118,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_f8c5347091b2.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947239",
+    "type": "public",
+    "date": "3/06 17:29",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Ez yoink bro",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947240",
+    "type": "public",
+    "date": "3/06 17:29",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "New Kid is that gonna be a backup phone for you?",
+    "msgClasses": "chat_message "
   }
 ]
