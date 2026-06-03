@@ -13658,5 +13658,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Every protogen but a certain green one too !",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946791",
+    "type": "public",
+    "date": "3/06 14:34",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Synths Are better.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946792",
+    "type": "public",
+    "date": "3/06 14:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Wolfs is poopoo",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
