@@ -17528,5 +17528,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[tongue3]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947180",
+    "type": "public",
+    "date": "3/06 16:56",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "New Kid if i did that to my mother",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947181",
+    "type": "public",
+    "date": "3/06 16:56",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7947182",
+    "type": "public",
+    "date": "3/06 16:56",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "she would just beat me",
+    "msgClasses": "chat_message "
   }
 ]
