@@ -11158,5 +11158,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'm pretty close",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946541",
+    "type": "public",
+    "date": "3/06 12:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Farts",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
