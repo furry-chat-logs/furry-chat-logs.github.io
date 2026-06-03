@@ -9618,5 +9618,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "R10T what are you doing?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946382",
+    "type": "public",
+    "date": "3/06 10:58",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "nothing much :3 just finished an art project ive been working on for a few days, wbu?",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
