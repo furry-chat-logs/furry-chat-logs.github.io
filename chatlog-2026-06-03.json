@@ -9638,5 +9638,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lying in bed and watching Gnu.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946384",
+    "type": "public",
+    "date": "3/06 10:59",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "gnu?",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
