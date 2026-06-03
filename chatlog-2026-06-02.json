@@ -16392,5 +16392,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "New Kid Not all of us has Snapdragon CPU",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7945185",
+    "type": "public",
+    "date": "2/06 22:48",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Or some other model",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
