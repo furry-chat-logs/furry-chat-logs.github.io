@@ -4958,5 +4958,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "It sorta feels like I am running out of time",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945793",
+    "type": "public",
+    "date": "3/06 5:07",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I haven't found all that I was hoping to find",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
