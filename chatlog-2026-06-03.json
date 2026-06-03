@@ -5618,5 +5618,25 @@
     "userClasses": "username user ",
     "message": "im still new the fandom",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945859",
+    "type": "public",
+    "date": "3/06 5:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "pandacorpze hewwooo",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945860",
+    "type": "public",
+    "date": "3/06 5:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "pandacorpze Just per info, you do know this site is mainly minors",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
