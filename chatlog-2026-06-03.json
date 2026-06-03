@@ -11008,5 +11008,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "The sun light is laced with fent",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946526",
+    "type": "public",
+    "date": "3/06 12:05",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "If the file would send",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946527",
+    "type": "public",
+    "date": "3/06 12:05",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_bb1646f4b9e6.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
