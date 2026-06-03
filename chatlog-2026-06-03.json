@@ -1138,5 +1138,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "what is you guys dream car?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945409",
+    "type": "public",
+    "date": "3/06 0:49",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27699_231c52a62b2a.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945410",
+    "type": "public",
+    "date": "3/06 0:49",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Mercedes Benz",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
