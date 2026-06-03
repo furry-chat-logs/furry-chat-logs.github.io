@@ -15338,5 +15338,35 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Neo The Protogen aren't we all .",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946959",
+    "type": "public",
+    "date": "3/06 15:10",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Hints why im glued to this chaie",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7946960",
+    "type": "public",
+    "date": "3/06 15:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Dihpression",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7946961",
+    "type": "public",
+    "date": "3/06 15:10",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "its just a cigarete and it can not be that bad New Kid",
+    "msgClasses": "chat_message bneon20 bold bfont14"
   }
 ]
