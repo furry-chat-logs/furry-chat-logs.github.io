@@ -8708,5 +8708,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "rah",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7946288",
+    "type": "public",
+    "date": "3/06 9:26",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "merp",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
