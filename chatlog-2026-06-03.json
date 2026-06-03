@@ -4098,5 +4098,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "•⩊•",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945707",
+    "type": "public",
+    "date": "3/06 3:26",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Lesson is about to start soon",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945708",
+    "type": "public",
+    "date": "3/06 3:26",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wait-",
+    "msgClasses": "chat_message bneon14"
   }
 ]
