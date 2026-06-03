@@ -4988,5 +4988,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "gonna have a early night",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945796",
+    "type": "public",
+    "date": "3/06 5:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "And you're startin' to bore me, baby",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945797",
+    "type": "public",
+    "date": "3/06 5:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "\"Why'd you only call me when you're high?\"",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
