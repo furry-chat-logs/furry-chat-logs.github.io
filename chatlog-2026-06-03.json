@@ -18518,5 +18518,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "ahem",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7947279",
+    "type": "public",
+    "date": "3/06 18:11",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "hellooooo",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
