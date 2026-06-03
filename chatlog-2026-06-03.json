@@ -5818,5 +5818,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I looked up \"furry chatroom\"",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7945879",
+    "type": "public",
+    "date": "3/06 6:03",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "first result: \"furrychat\".",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
