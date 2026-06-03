@@ -14602,5 +14602,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Maybe a bit cute.",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7945004",
+    "type": "public",
+    "date": "2/06 20:18",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Or uhh.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7945005",
+    "type": "public",
+    "date": "2/06 20:18",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Something among those words.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
