@@ -12178,5 +12178,25 @@
     "userClasses": "username bgrad12 bnfont6",
     "message": "To a full blown story lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946643",
+    "type": "public",
+    "date": "3/06 13:52",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Be advised enemy funky wunky tinky winky donky mcfingle tinglers in the AO",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7946644",
+    "type": "public",
+    "date": "3/06 13:52",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "SilverXD yup",
+    "msgClasses": "chat_message "
   }
 ]
