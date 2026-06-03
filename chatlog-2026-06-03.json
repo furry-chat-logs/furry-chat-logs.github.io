@@ -13178,5 +13178,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Mr Fox Ima text said figure",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7946743",
+    "type": "public",
+    "date": "3/06 14:21",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "Neo The Protogen oh, okay.",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
