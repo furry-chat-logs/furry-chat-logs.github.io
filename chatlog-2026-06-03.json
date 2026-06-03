@@ -10128,5 +10128,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Porphyrophobia wtf",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946438",
+    "type": "public",
+    "date": "3/06 11:18",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Waffles gewd boi3 it's fine.",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946439",
+    "type": "public",
+    "date": "3/06 11:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Huh?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
