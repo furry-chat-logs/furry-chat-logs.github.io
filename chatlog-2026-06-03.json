@@ -1538,5 +1538,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hmmm?",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7945449",
+    "type": "public",
+    "date": "3/06 1:41",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Why is everybody so freaking quiet",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
