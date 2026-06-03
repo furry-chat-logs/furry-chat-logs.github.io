@@ -14518,5 +14518,35 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Uhhh",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946877",
+    "type": "public",
+    "date": "3/06 14:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm half convinced that's offensive",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946878",
+    "type": "public",
+    "date": "3/06 14:56",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I forgot to add they/them to my bio",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7946879",
+    "type": "public",
+    "date": "3/06 14:56",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_94d5532914da.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
