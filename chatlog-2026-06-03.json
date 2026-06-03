@@ -10258,5 +10258,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I had a gf before",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946451",
+    "type": "public",
+    "date": "3/06 11:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I did not feel this way about her",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
