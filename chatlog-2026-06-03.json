@@ -18268,5 +18268,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Fs an 8",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947254",
+    "type": "public",
+    "date": "3/06 17:32",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "Oh yeah it makes more sence to be an 8",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947255",
+    "type": "public",
+    "date": "3/06 17:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "It has the weird alien ass pill shaped camera",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
