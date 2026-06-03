@@ -4818,5 +4818,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im so bored",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7945779",
+    "type": "public",
+    "date": "3/06 4:56",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Same",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
