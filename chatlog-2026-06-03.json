@@ -11308,5 +11308,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "morning",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7946556",
+    "type": "public",
+    "date": "3/06 12:15",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Morning",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
