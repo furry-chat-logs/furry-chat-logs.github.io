@@ -15248,5 +15248,35 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "im just ded",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946950",
+    "type": "public",
+    "date": "3/06 15:10",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "no more me",
+    "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946951",
+    "type": "public",
+    "date": "3/06 15:10",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "none",
+    "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946952",
+    "type": "public",
+    "date": "3/06 15:10",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm out of cigarettes D:",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
