@@ -18198,5 +18198,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "It was her old phone",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947247",
+    "type": "public",
+    "date": "3/06 17:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I just reset it and didn't look back",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
