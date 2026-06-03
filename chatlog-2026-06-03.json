@@ -18228,5 +18228,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Is that the iphone 7 or 6+",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947250",
+    "type": "public",
+    "date": "3/06 17:32",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Uhhh",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
