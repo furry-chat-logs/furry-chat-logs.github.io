@@ -17210,5 +17210,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "I think so",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7945267",
+    "type": "public",
+    "date": "2/06 23:42",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I'm awake",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
