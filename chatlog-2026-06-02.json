@@ -17338,5 +17338,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Wtfissachip [troll]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7945280",
+    "type": "public",
+    "date": "2/06 23:52",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Hello",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
