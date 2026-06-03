@@ -11908,5 +11908,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Mdekoni how are you",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7946616",
+    "type": "public",
+    "date": "3/06 13:36",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Crazy Haarschnitt",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
