@@ -14442,5 +14442,25 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37058_c715f71c33d1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944988",
+    "type": "public",
+    "date": "2/06 20:14",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "How is everyoke",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944989",
+    "type": "public",
+    "date": "2/06 20:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Hello, Hola, Bonjour,  Hallo, Përshëndetje, ሰላም, مرحبا, Բարև, Salam, Kaixo, নমস্কার",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
