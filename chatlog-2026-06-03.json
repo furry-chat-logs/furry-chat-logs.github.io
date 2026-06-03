@@ -628,5 +628,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Damn, someone hated you",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945358",
+    "type": "public",
+    "date": "3/06 0:31",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Why are people capable of doing things like that?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
