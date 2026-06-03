@@ -5038,5 +5038,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Why'd you only call me when you're High - AM - Artic Monkeys",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945801",
+    "type": "public",
+    "date": "3/06 5:09",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "It's a song",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
