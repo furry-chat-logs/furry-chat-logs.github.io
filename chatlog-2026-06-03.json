@@ -10388,5 +10388,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I haven't worked on it in a few hours",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946464",
+    "type": "public",
+    "date": "3/06 11:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ah no worries",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
