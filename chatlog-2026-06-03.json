@@ -9568,5 +9568,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "🙏😔",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946377",
+    "type": "public",
+    "date": "3/06 10:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "A little positivity goes a long way these days ^^",
+    "msgClasses": "chat_message "
   }
 ]
