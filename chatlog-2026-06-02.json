@@ -15452,5 +15452,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "It's a meme with my generation",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945090",
+    "type": "public",
+    "date": "2/06 21:31",
+    "username": "V0X",
+    "userId": "37470",
+    "userClasses": "username user ",
+    "message": "Hunter77 oh alr",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945091",
+    "type": "public",
+    "date": "2/06 21:31",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Where we say a sentence that makes no sense and then ends it with of all times",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
