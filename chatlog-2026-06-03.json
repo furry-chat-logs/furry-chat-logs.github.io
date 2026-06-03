@@ -16218,5 +16218,25 @@
     "userClasses": "username bcolor27 ",
     "message": "is that icespice",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7947049",
+    "type": "public",
+    "date": "3/06 15:36",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Porphyrophobia Ice Spice ❌ Flaming Water ✅",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947050",
+    "type": "public",
+    "date": "3/06 15:36",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "OMGG I get subway tmrw I just remembered",
+    "msgClasses": "chat_message bold"
   }
 ]
