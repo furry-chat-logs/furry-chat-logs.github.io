@@ -16892,5 +16892,13 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Brain damage is fun too",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7945235",
+    "type": "system",
+    "date": "2/06 23:10",
+    "username": "System",
+    "userId": null,
+    "message": "Bergindine has been muted"
   }
 ]
