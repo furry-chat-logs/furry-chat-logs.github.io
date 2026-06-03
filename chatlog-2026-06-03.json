@@ -8298,5 +8298,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "ye I saw, its very good",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946238",
+    "type": "public",
+    "date": "3/06 8:28",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "It was a ten minute 3/4ths drawing",
+    "msgClasses": "chat_message bneon19"
   }
 ]
