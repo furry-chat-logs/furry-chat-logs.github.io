@@ -3718,5 +3718,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37226_8f2816ad831c.mp3 | videoplayback_1774932844467_publer_com.mp3]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945667",
+    "type": "public",
+    "date": "3/06 2:45",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "take some music",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
