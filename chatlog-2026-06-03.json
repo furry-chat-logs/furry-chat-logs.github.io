@@ -14928,5 +14928,15 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "im a goobr",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946918",
+    "type": "public",
+    "date": "3/06 15:04",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user484_65ef8238ba52.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
