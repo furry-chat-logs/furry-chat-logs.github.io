@@ -8098,5 +8098,25 @@
     "userClasses": "username bcolor21 bnfont12",
     "message": "Maybe you might",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946217",
+    "type": "public",
+    "date": "3/06 8:23",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Showe both",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946218",
+    "type": "public",
+    "date": "3/06 8:23",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "possibly",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
