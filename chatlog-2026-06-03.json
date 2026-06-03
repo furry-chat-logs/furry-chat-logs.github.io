@@ -15578,5 +15578,15 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "Neo The Protogen yep and you cant stop me",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946983",
+    "type": "public",
+    "date": "3/06 15:13",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "smoking to avoid the stress makes you more stressed when you stop",
+    "msgClasses": "chat_message bold"
   }
 ]
