@@ -18098,5 +18098,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Where just friends",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947237",
+    "type": "public",
+    "date": "3/06 17:29",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_c162cfd0dd19.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
