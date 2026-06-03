@@ -16592,5 +16592,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Sacarverdasaiko Okay",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7945205",
+    "type": "public",
+    "date": "2/06 22:53",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "bleh",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
