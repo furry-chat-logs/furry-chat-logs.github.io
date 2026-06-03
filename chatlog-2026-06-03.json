@@ -4238,5 +4238,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's pretty expensive to get your name changed",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945721",
+    "type": "public",
+    "date": "3/06 4:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "true so I do not think I will",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
