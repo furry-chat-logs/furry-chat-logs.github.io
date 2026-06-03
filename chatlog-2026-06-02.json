@@ -14542,5 +14542,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user21748_6e46833d4895.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944998",
+    "type": "public",
+    "date": "2/06 20:16",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Pointed finger",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
