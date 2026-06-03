@@ -15028,5 +15028,35 @@
     "userClasses": "username bneon24 bnfont16",
     "message": "liminal too much of the same room",
     "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946928",
+    "type": "public",
+    "date": "3/06 15:07",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "The cinematography is great, the CGI and practical effects are awesome",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7946929",
+    "type": "public",
+    "date": "3/06 15:07",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "liminal the backrooms is infinite it should show more rooms",
+    "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946930",
+    "type": "public",
+    "date": "3/06 15:07",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Big fan of the storyline",
+    "msgClasses": "chat_message bold"
   }
 ]
