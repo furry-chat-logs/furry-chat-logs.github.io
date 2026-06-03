@@ -13038,5 +13038,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Idk",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946729",
+    "type": "public",
+    "date": "3/06 14:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_82497a85de6c.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946730",
+    "type": "public",
+    "date": "3/06 14:18",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I don't really mind keeping you unblocked",
+    "msgClasses": "chat_message bneon19"
   }
 ]
