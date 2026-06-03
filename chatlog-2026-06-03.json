@@ -2078,5 +2078,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "except maybe grafiti",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945503",
+    "type": "public",
+    "date": "3/06 1:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "cuz I did do that...",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945504",
+    "type": "public",
+    "date": "3/06 1:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "My friend is smoking and hes 9",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
