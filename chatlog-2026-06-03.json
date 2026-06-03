@@ -9978,5 +9978,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "My fat cat is in Mexico🥀",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7946423",
+    "type": "public",
+    "date": "3/06 11:13",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "awe [cry]",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
