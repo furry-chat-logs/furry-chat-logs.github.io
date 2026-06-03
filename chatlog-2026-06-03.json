@@ -11458,5 +11458,15 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "SBB torrac",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7946571",
+    "type": "public",
+    "date": "3/06 12:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Cotarr",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
