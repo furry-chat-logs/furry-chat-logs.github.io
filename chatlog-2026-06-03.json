@@ -3728,5 +3728,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "take some music",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7945668",
+    "type": "public",
+    "date": "3/06 2:46",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yippeee",
+    "msgClasses": "chat_message bneon14"
   }
 ]
