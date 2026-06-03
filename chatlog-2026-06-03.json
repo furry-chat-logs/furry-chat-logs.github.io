@@ -128,5 +128,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Volkner K good",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7945308",
+    "type": "public",
+    "date": "3/06 0:09",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Greeeeat how has been the day?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
