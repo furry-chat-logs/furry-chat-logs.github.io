@@ -4118,5 +4118,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Wait-",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945709",
+    "type": "public",
+    "date": "3/06 3:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It is Wednesday my dudes!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945710",
+    "type": "public",
+    "date": "3/06 3:27",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am at home no school for me today anymore",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
