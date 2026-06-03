@@ -12948,5 +12948,15 @@
     "userClasses": "username bgrad5 bnfont6",
     "message": "Quite horrid I would say",
     "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946720",
+    "type": "public",
+    "date": "3/06 14:17",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Porphyrophobia its a challenge site",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
