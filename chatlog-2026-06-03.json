@@ -17458,5 +17458,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "how is everyone?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947173",
+    "type": "public",
+    "date": "3/06 16:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Good",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947174",
+    "type": "public",
+    "date": "3/06 16:54",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Just stole my mom's old iPhone lol",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
