@@ -15218,5 +15218,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Neo The Protogen real",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946947",
+    "type": "public",
+    "date": "3/06 15:09",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I'm Always standing up.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
