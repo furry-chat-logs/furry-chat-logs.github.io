@@ -14718,5 +14718,25 @@
     "userClasses": "username bcolor27 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user484_928666a4a887.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946897",
+    "type": "public",
+    "date": "3/06 15:00",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "shoud i share my voice",
+    "msgClasses": "chat_message bneon20 bold bfont14"
+  },
+  {
+    "id": "7946898",
+    "type": "public",
+    "date": "3/06 15:00",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_6e396d0551e8.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
