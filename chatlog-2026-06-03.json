@@ -18856,5 +18856,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "𝙏𝙝𝙚 𝙡𝙚𝙜𝙚𝙣𝙙 𝙞𝙨 𝙬𝙧𝙤𝙣𝙜.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947314",
+    "type": "public",
+    "date": "3/06 18:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWUwZGh2aGM0cHcyeTB3dmNlMWQwZ2kwNzg2bTVrc2l5NDVmMzNjbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDVA0bF2Ctv6o/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
