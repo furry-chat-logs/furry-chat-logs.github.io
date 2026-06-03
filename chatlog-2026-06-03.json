@@ -6868,5 +6868,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36863_48ffab3c2395.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946076",
+    "type": "public",
+    "date": "3/06 6:37",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "oh cool",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946077",
+    "type": "public",
+    "date": "3/06 6:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Aww",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
