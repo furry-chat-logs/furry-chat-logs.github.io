@@ -14328,5 +14328,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Just got home",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7946858",
+    "type": "public",
+    "date": "3/06 14:49",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Dammit i am so tired",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
