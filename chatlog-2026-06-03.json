@@ -13218,5 +13218,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Lol",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7946747",
+    "type": "public",
+    "date": "3/06 14:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_2446ae1a6cbe.png]",
+    "msgClasses": "chat_message "
   }
 ]
