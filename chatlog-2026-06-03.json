@@ -5688,5 +5688,15 @@
     "userClasses": "username user ",
     "message": "im 31 and dont want to seem weird",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945866",
+    "type": "public",
+    "date": "3/06 6:00",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "nah dw, e have all ages, tough it is mostly minors",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
