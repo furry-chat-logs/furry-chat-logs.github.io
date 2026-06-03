@@ -17388,5 +17388,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Sol_Aizawa good morning",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945285",
+    "type": "public",
+    "date": "2/06 23:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sol_Aizawa gmmm",
+    "msgClasses": "chat_message bneon14"
   }
 ]
