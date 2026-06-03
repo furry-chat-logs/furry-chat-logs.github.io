@@ -15528,5 +15528,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "KillerThefemmy ayo?",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7946978",
+    "type": "public",
+    "date": "3/06 15:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Tbh smoking makes my life less stressful lol",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946979",
+    "type": "public",
+    "date": "3/06 15:12",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "i am one with the voice in my head telling me to bomb the towers",
+    "msgClasses": "chat_message bneon20 bold bfont14"
   }
 ]
