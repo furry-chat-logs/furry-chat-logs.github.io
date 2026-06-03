@@ -15728,5 +15728,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_829fb1b7c331.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946998",
+    "type": "public",
+    "date": "3/06 15:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Almost hopped face first into ts",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946999",
+    "type": "public",
+    "date": "3/06 15:14",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Neo The Protogen roaches right?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
