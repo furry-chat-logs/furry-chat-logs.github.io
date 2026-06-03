@@ -5458,5 +5458,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Yawns again",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945843",
+    "type": "public",
+    "date": "3/06 5:56",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*sharp inhale* damn",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
