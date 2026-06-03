@@ -17238,5 +17238,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "I just got off from work early because it's slow.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947151",
+    "type": "public",
+    "date": "3/06 16:32",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Also slow",
+    "msgClasses": "chat_message "
   }
 ]
