@@ -2488,5 +2488,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Keep talking dirty",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945544",
+    "type": "public",
+    "date": "3/06 2:09",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "That I might shove my banana down your throat",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945545",
+    "type": "public",
+    "date": "3/06 2:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Idk man that's kinda gay",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
