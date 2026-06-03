@@ -3708,5 +3708,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh but gn Bergindine",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945666",
+    "type": "public",
+    "date": "3/06 2:45",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37226_8f2816ad831c.mp3 | videoplayback_1774932844467_publer_com.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
