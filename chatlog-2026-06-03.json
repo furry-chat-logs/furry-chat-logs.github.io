@@ -4808,5 +4808,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "it was all me yappin",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945778",
+    "type": "public",
+    "date": "3/06 4:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im so bored",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
