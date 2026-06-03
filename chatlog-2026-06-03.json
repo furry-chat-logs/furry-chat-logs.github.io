@@ -4198,5 +4198,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I changed it a couple of days ago",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945717",
+    "type": "public",
+    "date": "3/06 4:36",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Nice",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
