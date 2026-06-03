@@ -17828,5 +17828,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I'm fucking shaking rn",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947210",
+    "type": "public",
+    "date": "3/06 17:21",
+    "username": "ryry",
+    "userId": "9219",
+    "userClasses": "username bcolor14 bnfont8",
+    "message": "New Kid why",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947211",
+    "type": "public",
+    "date": "3/06 17:21",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_563a8dc847f8.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
