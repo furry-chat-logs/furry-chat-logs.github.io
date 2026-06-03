@@ -16322,5 +16322,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_c85743255799.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945178",
+    "type": "public",
+    "date": "2/06 22:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "This feature is actually smart",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
