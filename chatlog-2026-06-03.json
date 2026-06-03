@@ -10528,5 +10528,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_d8178c6d3d1f.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946478",
+    "type": "public",
+    "date": "3/06 11:35",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_34b3395cb4b0.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946479",
+    "type": "public",
+    "date": "3/06 11:35",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "My room is a mess",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
