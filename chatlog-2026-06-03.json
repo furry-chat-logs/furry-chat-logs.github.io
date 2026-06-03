@@ -15878,5 +15878,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Huh?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7947015",
+    "type": "public",
+    "date": "3/06 15:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "What you're you ethervay talking about?",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947016",
+    "type": "public",
+    "date": "3/06 15:16",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I love 2hollis so much ooohh my god",
+    "msgClasses": "chat_message bold"
   }
 ]
