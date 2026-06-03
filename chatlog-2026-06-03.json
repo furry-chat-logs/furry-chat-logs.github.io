@@ -778,5 +778,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "In diying to draw man",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945373",
+    "type": "public",
+    "date": "3/06 0:35",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_55c6012db64e.png]",
+    "msgClasses": "chat_message "
   }
 ]
