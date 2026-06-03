@@ -1418,5 +1418,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Se You tomorrow, Nice chat, lots of fun",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945437",
+    "type": "public",
+    "date": "3/06 0:56",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Goodnight",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
