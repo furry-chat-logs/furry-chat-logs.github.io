@@ -5718,5 +5718,15 @@
     "userClasses": "username user ",
     "message": "ok thank you for the heads up",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945869",
+    "type": "public",
+    "date": "3/06 6:00",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "pandacorpze it's alright bro. You seem chill enough.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
