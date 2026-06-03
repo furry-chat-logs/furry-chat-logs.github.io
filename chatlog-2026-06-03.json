@@ -4208,5 +4208,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Nice",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945718",
+    "type": "public",
+    "date": "3/06 4:37",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I want my legal name to be Sol",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
