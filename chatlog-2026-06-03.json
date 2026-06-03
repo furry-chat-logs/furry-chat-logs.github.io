@@ -11378,5 +11378,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "[1f418]",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7946563",
+    "type": "public",
+    "date": "3/06 12:45",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_ed8a47833a7c.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
