@@ -12068,5 +12068,25 @@
     "userClasses": "username bgrad12 bnfont6",
     "message": "Anyone a slendytubbies fan?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946632",
+    "type": "public",
+    "date": "3/06 13:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] Rain has a very strange smell.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7946633",
+    "type": "public",
+    "date": "3/06 13:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "What's slendytubbies",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
