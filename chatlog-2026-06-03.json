@@ -7338,5 +7338,25 @@
     "userClasses": "username bneon21 bnfont16",
     "message": "me? no just using pfp from",
     "msgClasses": "chat_message bneon21 ital"
+  },
+  {
+    "id": "7946134",
+    "type": "public",
+    "date": "3/06 7:10",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbjVkcGcwdGljaHBlNmNvNnRnMWl4ancyNW95MGI2emdwbm5id29sayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWPOU9ExyU5d6/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7946135",
+    "type": "public",
+    "date": "3/06 7:10",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "because I have a feeling I have seen the characters on your banner and pfp on yt",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
