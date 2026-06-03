@@ -10628,5 +10628,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "I made him put one of those holes yesterday",
     "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7946488",
+    "type": "public",
+    "date": "3/06 11:38",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Hold up",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
