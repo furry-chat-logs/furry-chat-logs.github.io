@@ -15188,5 +15188,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Definitely one of the most normal things I've ever said",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7946944",
+    "type": "public",
+    "date": "3/06 15:09",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "New Kid Ive barely left my chair",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7946945",
+    "type": "public",
+    "date": "3/06 15:09",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "It's practically just a longer episode",
+    "msgClasses": "chat_message bold"
   }
 ]
