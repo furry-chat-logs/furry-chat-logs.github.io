@@ -9748,5 +9748,15 @@
     "userClasses": "username user ",
     "message": "Asfo?:3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946395",
+    "type": "public",
+    "date": "3/06 11:03",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "?",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
