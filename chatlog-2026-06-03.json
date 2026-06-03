@@ -11588,5 +11588,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "NeptuneLynxx I've seen better days but maybe ill be fine .",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946584",
+    "type": "public",
+    "date": "3/06 13:09",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I see",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
