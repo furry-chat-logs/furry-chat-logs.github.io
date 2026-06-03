@@ -1098,5 +1098,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Hahaha",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945405",
+    "type": "public",
+    "date": "3/06 0:48",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27699_bbc6553a16b4.png]",
+    "msgClasses": "chat_message "
   }
 ]
