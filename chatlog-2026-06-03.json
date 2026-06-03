@@ -5908,5 +5908,15 @@
     "userClasses": "username bneon21 bnfont16",
     "message": "23 mm what a time",
     "msgClasses": "chat_message bneon21 ital"
+  },
+  {
+    "id": "7945888",
+    "type": "public",
+    "date": "3/06 6:05",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I joined back in '24",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
