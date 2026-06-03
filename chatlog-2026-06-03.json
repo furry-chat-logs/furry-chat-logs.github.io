@@ -12138,5 +12138,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "liminal heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946639",
+    "type": "public",
+    "date": "3/06 13:51",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "New Kid horror game",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946640",
+    "type": "public",
+    "date": "3/06 13:51",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "Went from a joke game",
+    "msgClasses": "chat_message "
   }
 ]
