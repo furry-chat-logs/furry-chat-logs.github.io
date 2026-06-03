@@ -898,5 +898,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "I will stick with monster",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7945385",
+    "type": "public",
+    "date": "3/06 0:40",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Monster is good",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
