@@ -5348,5 +5348,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "as ifsomeone robbed some of my emotions and/or reactions to stuff",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945832",
+    "type": "public",
+    "date": "3/06 5:52",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Hello!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
