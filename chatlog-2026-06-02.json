@@ -15792,5 +15792,45 @@
     "userClasses": "username bgrad39 ",
     "message": "QueenKit bored",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7945125",
+    "type": "public",
+    "date": "2/06 22:16",
+    "username": "Ashton the hellhound",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm still calling dispatch either way",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945126",
+    "type": "public",
+    "date": "2/06 22:16",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "That a type of car?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945127",
+    "type": "public",
+    "date": "2/06 22:16",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Wtfissachip test for ppl who usually dropped out or smth",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7945128",
+    "type": "public",
+    "date": "2/06 22:17",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ashton the hellhound ok?",
+    "msgClasses": "chat_message bneon9"
   }
 ]
