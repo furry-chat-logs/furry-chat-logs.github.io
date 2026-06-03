@@ -10218,5 +10218,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "yes",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946447",
+    "type": "public",
+    "date": "3/06 11:19",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "very",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
