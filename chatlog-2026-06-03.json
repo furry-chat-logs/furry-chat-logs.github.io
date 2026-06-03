@@ -9798,5 +9798,15 @@
     "userClasses": "username bcolor1 bnfont6",
     "message": "ooo",
     "msgClasses": "chat_message bcolor1 bold bfont6"
+  },
+  {
+    "id": "7946400",
+    "type": "public",
+    "date": "3/06 11:06",
+    "username": "Waffles gewd boi3",
+    "userId": "37508",
+    "userClasses": "username bcolor14 ",
+    "message": "Hehe thanks",
+    "msgClasses": "chat_message "
   }
 ]
