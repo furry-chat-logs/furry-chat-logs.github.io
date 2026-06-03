@@ -17928,5 +17928,25 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Jk the cops dont give two shits anymore",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947220",
+    "type": "public",
+    "date": "3/06 17:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "ryry I've stolen a couple things",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947221",
+    "type": "public",
+    "date": "3/06 17:23",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Yeah",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
