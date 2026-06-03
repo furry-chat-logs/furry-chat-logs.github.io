@@ -18148,5 +18148,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Yeah",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947242",
+    "type": "public",
+    "date": "3/06 17:30",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I have a whole inner circle going on",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
