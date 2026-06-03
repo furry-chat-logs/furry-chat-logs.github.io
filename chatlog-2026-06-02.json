@@ -15442,5 +15442,15 @@
     "userClasses": "username user ",
     "message": "Hunter77 wdym",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945089",
+    "type": "public",
+    "date": "2/06 21:31",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "It's a meme with my generation",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
