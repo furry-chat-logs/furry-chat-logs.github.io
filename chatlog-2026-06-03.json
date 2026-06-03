@@ -8898,5 +8898,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "my hair is too fluffy today",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7946307",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I don't think I've ever done a face reveal",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7946308",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "as it now is ex gf instead of gf",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
