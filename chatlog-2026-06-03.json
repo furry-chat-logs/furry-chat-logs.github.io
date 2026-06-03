@@ -8528,5 +8528,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Pfdt",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946261",
+    "type": "public",
+    "date": "3/06 8:42",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "How do i find my email address?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
