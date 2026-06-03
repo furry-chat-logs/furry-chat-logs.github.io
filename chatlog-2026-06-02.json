@@ -14242,5 +14242,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Sup chat",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7944968",
+    "type": "public",
+    "date": "2/06 19:36",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Alex_007 cool. Let's not flex our drug addiction here.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
