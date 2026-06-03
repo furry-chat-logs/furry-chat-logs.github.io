@@ -18508,5 +18508,15 @@
     "userClasses": "username bneon31 bnfont4",
     "message": "waves",
     "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7947278",
+    "type": "public",
+    "date": "3/06 18:01",
+    "username": "asterr",
+    "userId": "25944",
+    "userClasses": "username bneon15 bnfont3",
+    "message": "ahem",
+    "msgClasses": "chat_message bneon30 ital bfont12"
   }
 ]
