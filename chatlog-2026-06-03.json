@@ -14438,5 +14438,25 @@
     "userClasses": "username bgrad5 bnfont6",
     "message": "liminal I was browsing profiles that were either banned or abandoned",
     "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946869",
+    "type": "public",
+    "date": "3/06 14:53",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "Do you know a figure named Galaxyia?",
+    "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946870",
+    "type": "public",
+    "date": "3/06 14:53",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user484_5ec3a7535c26.png]",
+    "msgClasses": "chat_message "
   }
 ]
