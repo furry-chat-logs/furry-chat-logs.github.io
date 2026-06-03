@@ -12648,5 +12648,15 @@
     "userClasses": "username bgrad5 bnfont6",
     "message": "Whom if this figure",
     "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946690",
+    "type": "public",
+    "date": "3/06 14:11",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "I don't have a job yet i still work",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
