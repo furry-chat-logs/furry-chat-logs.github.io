@@ -5508,5 +5508,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "yeah",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7945848",
+    "type": "public",
+    "date": "3/06 5:57",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Like Hotwings and BakuDeku are still faily okay",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945849",
+    "type": "public",
+    "date": "3/06 5:57",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "but ERASERDUST",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
