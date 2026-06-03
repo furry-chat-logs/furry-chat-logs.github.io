@@ -9608,5 +9608,15 @@
     "userClasses": "username bcolor1 bnfont6",
     "message": "Mdekoni hai ^^",
     "msgClasses": "chat_message bcolor1 bold bfont6"
+  },
+  {
+    "id": "7946381",
+    "type": "public",
+    "date": "3/06 10:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "R10T what are you doing?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
