@@ -9718,5 +9718,15 @@
     "userClasses": "username user ",
     "message": "Hiii",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946392",
+    "type": "public",
+    "date": "3/06 11:03",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "Waffles gewd boi3 hi ^^",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
