@@ -8918,5 +8918,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "as it now is ex gf instead of gf",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946309",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I see",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7946310",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "horselover9000",
+    "userId": "37113",
+    "userClasses": "username user ",
+    "message": "im actually not doing well tbh considering wgat day it is lol",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946311",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "im sorry to hear that",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
