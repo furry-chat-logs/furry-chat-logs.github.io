@@ -11248,5 +11248,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Time it's self is laced with fent",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946550",
+    "type": "public",
+    "date": "3/06 12:09",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Just text me when you can !",
+    "msgClasses": "chat_message bneon18 bold bfont4"
+  },
+  {
+    "id": "7946551",
+    "type": "public",
+    "date": "3/06 12:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Never trust time",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
