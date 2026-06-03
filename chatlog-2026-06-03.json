@@ -7008,5 +7008,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Aaaagh I'm gonna meltttt",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7946101",
+    "type": "public",
+    "date": "3/06 6:45",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan RIP",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
