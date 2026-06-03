@@ -11068,5 +11068,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Well then the battery is laced with fent",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946532",
+    "type": "public",
+    "date": "3/06 12:07",
+    "username": "Zxn",
+    "userId": "16465",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "its a solar panel",
+    "msgClasses": "chat_message bneon18 bold bfont4"
   }
 ]
