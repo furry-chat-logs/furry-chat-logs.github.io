@@ -8538,5 +8538,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "How do i find my email address?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946262",
+    "type": "public",
+    "date": "3/06 8:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Mdekoni ...",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
