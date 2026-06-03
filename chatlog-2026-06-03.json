@@ -4278,5 +4278,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I'll just try to change the name people call me",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945725",
+    "type": "public",
+    "date": "3/06 4:38",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "lol",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
