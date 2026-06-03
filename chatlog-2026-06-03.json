@@ -9888,5 +9888,15 @@
     "userClasses": "username bcolor14 ",
     "message": "True :)",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946412",
+    "type": "public",
+    "date": "3/06 11:09",
+    "username": "R10T",
+    "userId": "8882",
+    "userClasses": "username bcolor1 bnfont6",
+    "message": "hehe my cat keeps messing with my hair >w<",
+    "msgClasses": "chat_message bcolor1 bold bfont6"
   }
 ]
