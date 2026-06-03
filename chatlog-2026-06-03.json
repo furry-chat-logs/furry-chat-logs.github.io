@@ -13708,5 +13708,35 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_7fab2ed615ef.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946796",
+    "type": "public",
+    "date": "3/06 14:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "YEAHHHH",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946797",
+    "type": "public",
+    "date": "3/06 14:34",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Oh god this is so buggy",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946798",
+    "type": "public",
+    "date": "3/06 14:35",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Idk They're just way too many wolves.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
