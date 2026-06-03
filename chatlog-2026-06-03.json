@@ -7848,5 +7848,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "SoraTheMikuFan merp",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946192",
+    "type": "public",
+    "date": "3/06 7:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "meep ^^",
+    "msgClasses": "chat_message bneon14"
   }
 ]
