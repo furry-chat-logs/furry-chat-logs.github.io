@@ -14822,5 +14822,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Wait...",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7945026",
+    "type": "public",
+    "date": "2/06 20:31",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXoxa2Q3cjEzOXAxNmxoNHEzMmVtODY1MHA2emZnOWdpMmV3NWppZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1244kUYeMTUkak/giphy.gif]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
