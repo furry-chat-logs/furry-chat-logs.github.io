@@ -8338,5 +8338,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "like I only have a pfp of solen in human form",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946242",
+    "type": "public",
+    "date": "3/06 8:29",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Head on or 3/4ths?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7946243",
+    "type": "public",
+    "date": "3/06 8:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_f3e4c60e751d.png]",
+    "msgClasses": "chat_message "
   }
 ]
