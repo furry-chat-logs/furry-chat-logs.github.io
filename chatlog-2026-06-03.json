@@ -10078,5 +10078,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "My cat got hit by a car 😞",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946433",
+    "type": "public",
+    "date": "3/06 11:17",
+    "username": "Waffles gewd boi3",
+    "userId": "37508",
+    "userClasses": "username bcolor14 ",
+    "message": "Ohhhh damn that's unfortunate :(",
+    "msgClasses": "chat_message "
   }
 ]
