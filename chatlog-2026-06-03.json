@@ -1748,5 +1748,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'm high too",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7945470",
+    "type": "public",
+    "date": "3/06 1:54",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Don't worry",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
