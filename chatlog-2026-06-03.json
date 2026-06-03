@@ -8958,5 +8958,35 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "horselover9000 what's today?",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7946313",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Sol_Aizawa You'll find someone better .",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7946314",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Numm Bug ik",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946315",
+    "type": "public",
+    "date": "3/06 9:30",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I promise",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
