@@ -7858,5 +7858,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "meep ^^",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7946193",
+    "type": "public",
+    "date": "3/06 7:54",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "nvm my bestie is awake -w-",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
