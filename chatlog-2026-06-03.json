@@ -4658,5 +4658,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "so I was not that good at shading yet",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945763",
+    "type": "public",
+    "date": "3/06 4:48",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_1973db327449.png]",
+    "msgClasses": "chat_message "
   }
 ]
