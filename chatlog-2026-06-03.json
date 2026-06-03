@@ -16248,5 +16248,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Bro I can't use the check emojis",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947052",
+    "type": "public",
+    "date": "3/06 15:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No that's dry drought",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
