@@ -7478,5 +7478,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "oof",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7946149",
+    "type": "public",
+    "date": "3/06 7:21",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I had to do smth. I'm back now tho",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946150",
+    "type": "public",
+    "date": "3/06 7:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHk1emMzMmt1cDg4Nm9sdWtmZDc3dnMwcHhsc2JhdXNmbzJxd2c2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LdMWg0xQTfmcpFF5Yt/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7946151",
+    "type": "public",
+    "date": "3/06 7:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Spectre_protogen hewwoooo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
