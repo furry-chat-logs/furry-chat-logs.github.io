@@ -6338,5 +6338,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Five hours at moms office",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7945964",
+    "type": "public",
+    "date": "3/06 6:21",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Gtg eat",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
