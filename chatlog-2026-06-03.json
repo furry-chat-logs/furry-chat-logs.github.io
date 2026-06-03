@@ -6778,5 +6778,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I did not make this myself",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946053",
+    "type": "public",
+    "date": "3/06 6:32",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "And solen does not have that around their neck",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7946054",
+    "type": "public",
+    "date": "3/06 6:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Rlly cool",
+    "msgClasses": "chat_message bneon14"
   }
 ]
