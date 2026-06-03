@@ -4568,5 +4568,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "this was the ai picture I got",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945754",
+    "type": "public",
+    "date": "3/06 4:45",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36863_20ccf32a1b1e.png]",
+    "msgClasses": "chat_message "
   }
 ]
