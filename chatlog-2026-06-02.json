@@ -17448,5 +17448,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "I might have to bring back my alter ego",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945291",
+    "type": "public",
+    "date": "2/06 23:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh nyo not the chuckecheese",
+    "msgClasses": "chat_message bneon14"
   }
 ]
