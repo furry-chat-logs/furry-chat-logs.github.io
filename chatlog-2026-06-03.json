@@ -18628,5 +18628,15 @@
     "userClasses": "username bneon15 bnfont3",
     "message": "no [feelgood]",
     "msgClasses": "chat_message bneon30 ital bfont12"
+  },
+  {
+    "id": "7947290",
+    "type": "public",
+    "date": "3/06 18:21",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbHl2MWNmbTRnMWtmaHEzc3BjajdtcmFianRvY3JnN2VheHZzNDZiaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0rB1EJQJPO8ZYvPLxR/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
