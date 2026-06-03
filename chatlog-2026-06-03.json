@@ -1128,5 +1128,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36931_2dc49e2a5655.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945408",
+    "type": "public",
+    "date": "3/06 0:48",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "what is you guys dream car?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
