@@ -11318,5 +11318,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Morning",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946557",
+    "type": "public",
+    "date": "3/06 12:15",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "How's it going ^^",
+    "msgClasses": "chat_message "
   }
 ]
