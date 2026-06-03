@@ -14478,5 +14478,25 @@
     "userClasses": "username bgrad5 bnfont6",
     "message": "Ah okay",
     "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946873",
+    "type": "public",
+    "date": "3/06 14:55",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "For the celebration of pride month",
+    "msgClasses": "chat_message bneon2  bfont8"
+  },
+  {
+    "id": "7946874",
+    "type": "public",
+    "date": "3/06 14:55",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "Instead of saying hehehe",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
