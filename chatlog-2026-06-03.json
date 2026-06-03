@@ -16238,5 +16238,15 @@
     "userClasses": "username bcolor27 ",
     "message": "OMGG I get subway tmrw I just remembered",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7947051",
+    "type": "public",
+    "date": "3/06 15:36",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Bro I can't use the check emojis",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
