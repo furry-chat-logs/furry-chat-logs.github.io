@@ -7528,5 +7528,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "hru?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7946154",
+    "type": "public",
+    "date": "3/06 7:25",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I'm good",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7946155",
+    "type": "public",
+    "date": "3/06 7:25",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "u?",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
