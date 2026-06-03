@@ -1338,5 +1338,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Also because Florida and California took all the lambos",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945429",
+    "type": "public",
+    "date": "3/06 0:54",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "💀",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7945430",
+    "type": "public",
+    "date": "3/06 0:54",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Hahahaha",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
