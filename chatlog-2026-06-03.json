@@ -7758,5 +7758,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Meh",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7946183",
+    "type": "public",
+    "date": "3/06 7:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "chat is kinda dead too",
+    "msgClasses": "chat_message bneon14"
   }
 ]
