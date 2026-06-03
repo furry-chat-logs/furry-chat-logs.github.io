@@ -10688,5 +10688,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I had an ashtray somewhere but I think I knocked it on myself in my sleep",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946494",
+    "type": "public",
+    "date": "3/06 11:39",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I will send this to my friend and say this is your room",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946495",
+    "type": "public",
+    "date": "3/06 11:39",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Doesn't that suck",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
