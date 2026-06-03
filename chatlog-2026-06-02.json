@@ -17070,5 +17070,15 @@
     "userClasses": "username bneon1 bnfont12",
     "message": "What a rare sighting",
     "msgClasses": "chat_message bneon24 bold bfont3"
+  },
+  {
+    "id": "7945253",
+    "type": "public",
+    "date": "2/06 23:18",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "M-me or buggo?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
