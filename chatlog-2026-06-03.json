@@ -5368,5 +5368,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Ashton McKennan heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945834",
+    "type": "public",
+    "date": "3/06 5:53",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Do you wanna go to the RP room?",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
