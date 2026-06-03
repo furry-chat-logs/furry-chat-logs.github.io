@@ -11698,5 +11698,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36006_2582d6de4956.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946595",
+    "type": "public",
+    "date": "3/06 13:13",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_d17ef98a31d5.png]",
+    "msgClasses": "chat_message "
   }
 ]
