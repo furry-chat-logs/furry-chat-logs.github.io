@@ -5188,5 +5188,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Sol_Aizawa You're welcome bro. It's what friends are for.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7945816",
+    "type": "public",
+    "date": "3/06 5:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am a girl",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
