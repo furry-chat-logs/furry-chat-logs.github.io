@@ -7178,5 +7178,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa is ther a boy version for the word cat?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946118",
+    "type": "public",
+    "date": "3/06 6:50",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "No, there is in the Dutch language tough",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
