@@ -1038,5 +1038,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37456_5f84ac5c54aa.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945399",
+    "type": "public",
+    "date": "3/06 0:44",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "See?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
