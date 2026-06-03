@@ -4498,5 +4498,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "also I have never drawn female",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7945747",
+    "type": "public",
+    "date": "3/06 4:44",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "You traced the other persons art?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
