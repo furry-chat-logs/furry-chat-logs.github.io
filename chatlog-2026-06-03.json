@@ -13758,5 +13758,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f11e02a45f99.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7946801",
+    "type": "public",
+    "date": "3/06 14:35",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[secret-share: ytXPu45sXSHU7wEcq8rkhQWAz&n=47582] ask me things while Android 17 tweaks out",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946802",
+    "type": "public",
+    "date": "3/06 14:36",
+    "username": "Mr Fox",
+    "userId": "33275",
+    "userClasses": "username bgrad5 bnfont6",
+    "message": "Why does every protogen have their name like \"Pink the protogen\" \"Dave the protogen\" \"Foxy the protogen\"",
+    "msgClasses": "chat_message bneon2  bfont8"
   }
 ]
