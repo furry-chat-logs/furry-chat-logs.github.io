@@ -12688,5 +12688,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Neo The Protogen I fogth protogens can only change lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7946694",
+    "type": "public",
+    "date": "3/06 14:13",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Protogens are cyborgs there insides are still soft n squshie",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
