@@ -11268,5 +11268,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Never trust time",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7946552",
+    "type": "public",
+    "date": "3/06 12:09",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Ofc!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
