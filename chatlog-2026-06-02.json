@@ -17458,5 +17458,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh nyo not the chuckecheese",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7945292",
+    "type": "public",
+    "date": "2/06 23:59",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_910a0dc24358.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7945293",
+    "type": "public",
+    "date": "2/06 23:59",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "My alter ego",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
