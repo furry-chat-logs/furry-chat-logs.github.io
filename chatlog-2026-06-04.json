@@ -12574,5 +12574,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[boykisser.png]",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949336",
+    "type": "public",
+    "date": "4/06 9:22",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "SilverXD RIP",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
