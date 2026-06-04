@@ -10928,5 +10928,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "It looks like a mole",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949170",
+    "type": "public",
+    "date": "4/06 5:25",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "What's the next Part of the lyrics",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949171",
+    "type": "public",
+    "date": "4/06 5:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ashton McKennan with what??",
+    "msgClasses": "chat_message bneon14"
   }
 ]
