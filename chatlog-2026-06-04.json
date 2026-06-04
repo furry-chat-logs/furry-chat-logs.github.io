@@ -27008,5 +27008,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "You?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950786",
+    "type": "public",
+    "date": "4/06 17:47",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37449_863d409bbfe6.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950787",
+    "type": "public",
+    "date": "4/06 17:47",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_7ff69717178c.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
