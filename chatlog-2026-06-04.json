@@ -6148,5 +6148,15 @@
     "userClasses": "username user ",
     "message": "But when Translated it's gayland",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948692",
+    "type": "public",
+    "date": "4/06 1:57",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMHg4NmViOWFmbjRqaHF5dHRqbzIwNHd3b3JqZ3dsNmp1Y21mMmE4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ia93duCQfUSfHeaq8A/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
