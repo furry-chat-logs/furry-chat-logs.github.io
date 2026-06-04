@@ -18322,5 +18322,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_ec59f2089f75.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949911",
+    "type": "public",
+    "date": "4/06 14:26",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "What it takes to make my phone learn what words exist",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
