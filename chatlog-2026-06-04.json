@@ -29586,5 +29586,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Trapped Smiley",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951045",
+    "type": "public",
+    "date": "4/06 18:58",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "existed",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
