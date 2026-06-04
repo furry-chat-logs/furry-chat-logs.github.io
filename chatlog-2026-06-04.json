@@ -16074,5 +16074,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "The internet has told me many things. This statement can mean many things. None of them are good.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7949686",
+    "type": "public",
+    "date": "4/06 11:54",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Jesterandsugar Why are you jester and sugar shaped",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
