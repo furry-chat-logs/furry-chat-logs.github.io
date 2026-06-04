@@ -498,5 +498,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "channel666_mondo I don't connect",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7948126",
+    "type": "public",
+    "date": "4/06 0:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hm",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
