@@ -21716,5 +21716,15 @@
     "userClasses": "username user ",
     "message": "How are you doing today",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947618",
+    "type": "public",
+    "date": "3/06 21:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Cool asf 😎",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
