@@ -25276,5 +25276,25 @@
     "userClasses": "username bcolor23 ",
     "message": "i need to survive",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947978",
+    "type": "public",
+    "date": "3/06 23:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "the song is a banger",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947979",
+    "type": "public",
+    "date": "3/06 23:13",
+    "username": "Cheepuddin",
+    "userId": "37516",
+    "userClasses": "username bcolor23 ",
+    "message": "[cry]",
+    "msgClasses": "chat_message "
   }
 ]
