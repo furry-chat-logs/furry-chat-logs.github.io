@@ -26218,5 +26218,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Im doing my first job rn",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950707",
+    "type": "public",
+    "date": "4/06 17:25",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "You know I can't speak german , but I can speak a little bit of spanish",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950708",
+    "type": "public",
+    "date": "4/06 17:25",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Fking surviving in my room",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
