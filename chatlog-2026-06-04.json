@@ -21310,5 +21310,25 @@
     "userClasses": "username user ",
     "message": "Ch3rry_Drop hey I'm stupid 😭",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950213",
+    "type": "public",
+    "date": "4/06 16:07",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Oh wait it's 13",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950214",
+    "type": "public",
+    "date": "4/06 16:07",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "It's js his next vicitm",
+    "msgClasses": "chat_message bneon9"
   }
 ]
