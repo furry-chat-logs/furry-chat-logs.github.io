@@ -21726,5 +21726,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Cool asf 😎",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947619",
+    "type": "public",
+    "date": "3/06 21:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Jokes aside, pretty decent",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947620",
+    "type": "public",
+    "date": "3/06 21:19",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username user ",
+    "message": "Oh good",
+    "msgClasses": "chat_message "
   }
 ]
