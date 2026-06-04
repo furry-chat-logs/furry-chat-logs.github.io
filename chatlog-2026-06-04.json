@@ -15864,5 +15864,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[feelgood]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949665",
+    "type": "public",
+    "date": "4/06 11:49",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "fine, I wont",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949666",
+    "type": "public",
+    "date": "4/06 11:49",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "bye",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949667",
+    "type": "public",
+    "date": "4/06 11:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdmlkMWc5cWh6aDB2MzQxM3dkNGI1NXl5NWN3Ym9lZTQ4M25hejRzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
