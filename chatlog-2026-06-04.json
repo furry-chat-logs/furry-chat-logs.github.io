@@ -28398,5 +28398,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_cb860ca9dcea.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950925",
+    "type": "public",
+    "date": "4/06 18:23",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdzljd211dWtpd2M2cmlmaXIxMGI2YmtsNWlzeXExaXRmcmMwNDQ3ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UOIILsJOLcEwZjyK2T/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
