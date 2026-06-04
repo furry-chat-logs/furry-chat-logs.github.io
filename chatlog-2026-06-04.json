@@ -19890,5 +19890,15 @@
     "userClasses": "username user ",
     "message": "Alguém para conversar de boa",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950068",
+    "type": "public",
+    "date": "4/06 15:36",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Law_dragonplay English only",
+    "msgClasses": "chat_message bneon19"
   }
 ]
