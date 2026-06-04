@@ -25568,5 +25568,35 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "😭🥀",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950642",
+    "type": "public",
+    "date": "4/06 17:12",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "THE TOE.",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950643",
+    "type": "public",
+    "date": "4/06 17:12",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "What are ass weeds?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950644",
+    "type": "public",
+    "date": "4/06 17:12",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_2dc41548cd50.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
