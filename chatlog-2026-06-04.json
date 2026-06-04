@@ -24810,5 +24810,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Gang. It's been 4 years. \"Press the report button to report\" is not hard.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950565",
+    "type": "public",
+    "date": "4/06 16:58",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Yes I cannot scroll that far",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950566",
+    "type": "public",
+    "date": "4/06 16:58",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Strangely, when Zen pointed it out, all of you little mongoloids turned on him.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
