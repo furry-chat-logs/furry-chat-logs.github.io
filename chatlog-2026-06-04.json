@@ -10808,5 +10808,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "My teacher teaches class like we're some kind of jerk",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949158",
+    "type": "public",
+    "date": "4/06 5:22",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You've gotta fight",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
