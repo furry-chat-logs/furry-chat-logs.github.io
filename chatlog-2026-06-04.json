@@ -27218,5 +27218,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19750_6aef60e78e85.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950807",
+    "type": "public",
+    "date": "4/06 17:53",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Live footage of Issa's doodles",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950808",
+    "type": "public",
+    "date": "4/06 17:53",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
