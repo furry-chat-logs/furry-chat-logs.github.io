@@ -3358,5 +3358,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I need a quick break",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948413",
+    "type": "public",
+    "date": "4/06 0:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Was this a very nice message? 🥹❤️‍🩹",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948414",
+    "type": "public",
+    "date": "4/06 0:59",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Sol_Aizawa Thundercloudgaming03 how are you both doing",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948415",
+    "type": "public",
+    "date": "4/06 0:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Ashton McKennan do that ashoton",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
