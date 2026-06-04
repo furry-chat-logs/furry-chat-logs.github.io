@@ -15784,5 +15784,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Yes you are infected",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949657",
+    "type": "public",
+    "date": "4/06 11:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "So how was talking with solen?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
