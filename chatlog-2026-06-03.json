@@ -20286,5 +20286,25 @@
     "userClasses": "username bcolor1 bnfont8",
     "message": "Oh lmao",
     "msgClasses": "chat_message bcolor3  bfont12"
+  },
+  {
+    "id": "7947458",
+    "type": "public",
+    "date": "3/06 19:27",
+    "username": "NotMe",
+    "userId": "28145",
+    "userClasses": "username bcolor1 bnfont8",
+    "message": "Yeah",
+    "msgClasses": "chat_message bcolor3  bfont12"
+  },
+  {
+    "id": "7947459",
+    "type": "public",
+    "date": "3/06 19:27",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Instead of a ping",
+    "msgClasses": "chat_message "
   }
 ]
