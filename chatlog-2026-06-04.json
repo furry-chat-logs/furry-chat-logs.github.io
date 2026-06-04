@@ -1518,5 +1518,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Porphyrophobia it is very weird",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948229",
+    "type": "public",
+    "date": "4/06 0:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I wish there was a way for a blocked user not to get into your secret shares",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
