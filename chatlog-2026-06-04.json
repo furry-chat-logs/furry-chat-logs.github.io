@@ -15624,5 +15624,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Yeah no im gonna stay away",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949641",
+    "type": "public",
+    "date": "4/06 11:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*floats* you wanna jump a 5000 year old forest spirit?",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949642",
+    "type": "public",
+    "date": "4/06 11:35",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "I dont wanna get infected with whatever youbhave",
+    "msgClasses": "chat_message "
   }
 ]
