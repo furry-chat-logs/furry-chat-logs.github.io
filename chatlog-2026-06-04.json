@@ -15844,5 +15844,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "sorry not sorry",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949663",
+    "type": "public",
+    "date": "4/06 11:46",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Sol_Aizawa some things just arent appropriate in a social setting",
+    "msgClasses": "chat_message "
   }
 ]
