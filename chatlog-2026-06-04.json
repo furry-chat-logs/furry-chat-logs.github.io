@@ -18810,5 +18810,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Issa mentioned",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949960",
+    "type": "public",
+    "date": "4/06 15:13",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove]",
+    "msgClasses": "chat_message ital"
   }
 ]
