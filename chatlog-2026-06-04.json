@@ -12154,5 +12154,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Frogmin shool",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949294",
+    "type": "public",
+    "date": "4/06 9:10",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "You're German, you should just be able to run for Bundestag without any education?",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
