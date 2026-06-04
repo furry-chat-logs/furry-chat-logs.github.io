@@ -15514,5 +15514,25 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Sol_Aizawa jokes on you home",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7949630",
+    "type": "public",
+    "date": "4/06 11:32",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Sol_Aizawa I'm not home",
+    "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7949631",
+    "type": "public",
+    "date": "4/06 11:32",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "I own a sword",
+    "msgClasses": "chat_message "
   }
 ]
