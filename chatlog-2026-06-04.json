@@ -7888,5 +7888,15 @@
     "userClasses": "username user ",
     "message": "I said",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948866",
+    "type": "public",
+    "date": "4/06 3:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "M-me? A question?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
