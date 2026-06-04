@@ -2268,5 +2268,15 @@
     "userClasses": "username user ",
     "message": "If I had it my way you'd be buried from the neck down next to a fucking ant pile",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948304",
+    "type": "public",
+    "date": "4/06 0:34",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Sonic The Hedgehog that shows your ip and vpn ip",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
