@@ -25296,5 +25296,25 @@
     "userClasses": "username bcolor23 ",
     "message": "[cry]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947980",
+    "type": "public",
+    "date": "3/06 23:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "TETO",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947981",
+    "type": "public",
+    "date": "3/06 23:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdnBnZGk2Y2FoMjdyNmhnemx3YXFzbzA0eHk5YTc4OWFtbDBoeWE3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XXJni7At4W5mjnO4J8/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
