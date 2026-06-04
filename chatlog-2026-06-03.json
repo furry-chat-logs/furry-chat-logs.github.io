@@ -19006,5 +19006,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "Porphyrophobia the what",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947329",
+    "type": "public",
+    "date": "3/06 19:03",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Hi",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947330",
+    "type": "public",
+    "date": "3/06 19:03",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "How are you all",
+    "msgClasses": "chat_message "
   }
 ]
