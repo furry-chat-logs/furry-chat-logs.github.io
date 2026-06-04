@@ -10178,5 +10178,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Berlin",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7949095",
+    "type": "public",
+    "date": "4/06 5:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Nope",
+    "msgClasses": "chat_message bneon14"
   }
 ]
