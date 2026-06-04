@@ -4948,5 +4948,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "perfect time for the mondo mayhem show to start",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948572",
+    "type": "public",
+    "date": "4/06 1:26",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "11:27",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
