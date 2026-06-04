@@ -25046,5 +25046,45 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user2169_a67d3e8f2155.mp3 | Hachimi_chimichi_MAMBOW.mp3]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947955",
+    "type": "public",
+    "date": "3/06 23:11",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Cheepuddin Yes",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7947956",
+    "type": "public",
+    "date": "3/06 23:11",
+    "username": "Cheepuddin",
+    "userId": "37516",
+    "userClasses": "username bcolor23 ",
+    "message": "hellowwww",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947957",
+    "type": "public",
+    "date": "3/06 23:11",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2V3d2w3cXFpeGF6NnN4b3I2c3V0bDFxOHJyYnFhbnM4NHN6eDlvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R85lowZx2ru0eNhNk7/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947958",
+    "type": "public",
+    "date": "3/06 23:11",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Thank you",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
