@@ -10888,5 +10888,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Cuz what is that",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949166",
+    "type": "public",
+    "date": "4/06 5:24",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "mole",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949167",
+    "type": "public",
+    "date": "4/06 5:24",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Help me out here sora",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
