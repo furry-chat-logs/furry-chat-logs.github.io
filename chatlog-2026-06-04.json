@@ -12264,5 +12264,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Frogmin It was the page that showed the three icons. one for my laptop connection [which said connected], one for cloudfare servers in london [also connected], and then the one for furrychat [which said failed to connect]",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949305",
+    "type": "public",
+    "date": "4/06 9:11",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "LOL",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
