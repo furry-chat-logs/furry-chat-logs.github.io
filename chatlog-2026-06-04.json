@@ -5778,5 +5778,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "State and US capital lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948655",
+    "type": "public",
+    "date": "4/06 1:51",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "...",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948656",
+    "type": "public",
+    "date": "4/06 1:51",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "omg someone did a lyric by a song now I cannout unhear it",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
