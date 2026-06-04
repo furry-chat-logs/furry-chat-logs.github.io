@@ -1378,5 +1378,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hehe ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948214",
+    "type": "public",
+    "date": "4/06 0:23",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sonic The Hedgehog yeah you're a butthead",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948215",
+    "type": "public",
+    "date": "4/06 0:23",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Porphyrophobia mb that was me",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
