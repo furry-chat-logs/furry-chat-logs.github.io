@@ -3058,5 +3058,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_07c22652cad4.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948383",
+    "type": "public",
+    "date": "4/06 0:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Thank god",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948384",
+    "type": "public",
+    "date": "4/06 0:50",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Wonderful",
+    "msgClasses": "chat_message "
   }
 ]
