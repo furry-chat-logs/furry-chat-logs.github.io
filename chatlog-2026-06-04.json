@@ -17952,5 +17952,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I deadass could've done that a long time ago",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949874",
+    "type": "public",
+    "date": "4/06 13:19",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Porphyrophobia real",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7949875",
+    "type": "public",
+    "date": "4/06 13:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I known him since I was about uh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
