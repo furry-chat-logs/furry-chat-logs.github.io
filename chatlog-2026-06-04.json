@@ -6068,5 +6068,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Bruh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948684",
+    "type": "public",
+    "date": "4/06 1:55",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Ashton McKennan huh?",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
