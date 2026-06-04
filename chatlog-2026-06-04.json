@@ -18870,5 +18870,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yo i just got a pic from newkid 😂",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949966",
+    "type": "public",
+    "date": "4/06 15:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa what does HE even do? 🐹",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949967",
+    "type": "public",
+    "date": "4/06 15:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Send me?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
