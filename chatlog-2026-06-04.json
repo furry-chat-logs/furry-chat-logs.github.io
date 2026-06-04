@@ -3298,5 +3298,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948407",
+    "type": "public",
+    "date": "4/06 0:58",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Hunter77 hello",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948408",
+    "type": "public",
+    "date": "4/06 0:58",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Sup hunter",
+    "msgClasses": "chat_message "
   }
 ]
