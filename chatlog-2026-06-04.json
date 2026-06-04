@@ -7098,5 +7098,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_8155f373da25.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948787",
+    "type": "public",
+    "date": "4/06 2:43",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_75fbbd2500ec.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
