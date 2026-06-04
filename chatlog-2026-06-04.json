@@ -14844,5 +14844,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hoi",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949563",
+    "type": "public",
+    "date": "4/06 10:45",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_c18517812167.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
