@@ -12254,5 +12254,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I don't want to be the next Friedrich merz",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949304",
+    "type": "public",
+    "date": "4/06 9:11",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Frogmin It was the page that showed the three icons. one for my laptop connection [which said connected], one for cloudfare servers in london [also connected], and then the one for furrychat [which said failed to connect]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
