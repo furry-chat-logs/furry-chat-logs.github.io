@@ -15064,5 +15064,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Yeah...",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7949585",
+    "type": "public",
+    "date": "4/06 11:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "That game sounds somewhat familiar",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
