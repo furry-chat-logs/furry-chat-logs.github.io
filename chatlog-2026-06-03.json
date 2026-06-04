@@ -19286,5 +19286,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "New Kid i hope the battery explodes",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947357",
+    "type": "public",
+    "date": "3/06 19:07",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Spoke yw",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947358",
+    "type": "public",
+    "date": "3/06 19:07",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Spoke gay",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
