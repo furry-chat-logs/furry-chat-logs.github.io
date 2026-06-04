@@ -27168,5 +27168,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2l1c2I2b2FhYXF3YmV1N3hkd2x5ejR4aTNiMmkwcGdjZG5oMmxoMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k7Ip1BaxWwmLQZJ7Gk/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950802",
+    "type": "public",
+    "date": "4/06 17:50",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "I'll think about neon green",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950803",
+    "type": "public",
+    "date": "4/06 17:50",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_2add56506edc.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
