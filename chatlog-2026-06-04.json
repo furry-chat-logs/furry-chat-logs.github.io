@@ -6518,5 +6518,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I have to take my weed edible in 20 minutes so I'm gonna be cross faded",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948729",
+    "type": "public",
+    "date": "4/06 2:12",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Just stopping by to say hello, good evening everyone",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
