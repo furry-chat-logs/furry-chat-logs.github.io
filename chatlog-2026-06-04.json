@@ -6248,5 +6248,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Meoww",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948702",
+    "type": "public",
+    "date": "4/06 1:59",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_ff865a5e77c7.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948703",
+    "type": "public",
+    "date": "4/06 1:59",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaTFlc2c0ZjNvNmljbXlzb3k4bDlqOGQ5b2E5MHNiMHg0cWxieTBoNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H0b5LKrinnFT3p5Bca/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
