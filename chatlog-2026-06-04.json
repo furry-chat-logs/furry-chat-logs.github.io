@@ -19990,5 +19990,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Porphyrophobia Don't slip on it",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950078",
+    "type": "public",
+    "date": "4/06 15:38",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "SBB make some fine ass looking harvesters too",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7950079",
+    "type": "public",
+    "date": "4/06 15:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdmlkMWc5cWh6aDB2MzQxM3dkNGI1NXl5NWN3Ym9lZTQ4M25hejRzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
