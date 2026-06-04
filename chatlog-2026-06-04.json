@@ -13844,5 +13844,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I heard!",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949463",
+    "type": "public",
+    "date": "4/06 10:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I am now going to turn my computah on and see if I can do something fun there",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949464",
+    "type": "public",
+    "date": "4/06 10:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "•⩊•",
+    "msgClasses": "chat_message bneon14"
   }
 ]
