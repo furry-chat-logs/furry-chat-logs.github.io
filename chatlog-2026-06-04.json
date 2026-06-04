@@ -9558,5 +9558,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWU0eXR6MjdpbHplejNxOHo2cnZuODEyNDZuOTg5cHBtYnE2dWl3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0GzquhmU03NpyOF42/giphy.gif]",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7949033",
+    "type": "public",
+    "date": "4/06 5:00",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ashton McKennan ur 15 ur supposed to eat not fast",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949034",
+    "type": "public",
+    "date": "4/06 5:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "STICKY LAPTOP",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
