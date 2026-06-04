@@ -15744,5 +15744,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I am not infected",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949653",
+    "type": "public",
+    "date": "4/06 11:41",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "you know what I will sitch places back with solis",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
