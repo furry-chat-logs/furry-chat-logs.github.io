@@ -21236,5 +21236,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hey aj",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947569",
+    "type": "public",
+    "date": "3/06 20:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "⚫️➖⚫️",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
