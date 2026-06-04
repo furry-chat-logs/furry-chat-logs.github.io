@@ -10868,5 +10868,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'll kick you out of my home if you don't cut that hair!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949164",
+    "type": "public",
+    "date": "4/06 5:24",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "SBB r u playing whack-a-mole",
+    "msgClasses": "chat_message bneon14"
   }
 ]
