@@ -3978,5 +3978,35 @@
     "userClasses": "username user ",
     "message": "Leave this plain of existence",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948475",
+    "type": "public",
+    "date": "4/06 1:13",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "I won't ok",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948476",
+    "type": "public",
+    "date": "4/06 1:13",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "that's custom paint :(",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948477",
+    "type": "public",
+    "date": "4/06 1:13",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You got 2 minutes to leave this fucking site",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
