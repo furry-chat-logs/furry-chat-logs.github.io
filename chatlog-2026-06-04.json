@@ -3218,5 +3218,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "I can be Mexican or American",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948399",
+    "type": "public",
+    "date": "4/06 0:52",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Oh wait I am Mexican",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948400",
+    "type": "public",
+    "date": "4/06 0:52",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "So he's either a predator or just a cunt",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948401",
+    "type": "public",
+    "date": "4/06 0:52",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "But you get the point",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
