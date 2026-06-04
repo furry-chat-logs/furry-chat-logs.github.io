@@ -20700,5 +20700,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": ":/",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950150",
+    "type": "public",
+    "date": "4/06 16:01",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950151",
+    "type": "public",
+    "date": "4/06 16:01",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Mmmhmmm.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950152",
+    "type": "public",
+    "date": "4/06 16:01",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gumby_iguana no you don't LMFAO",
+    "msgClasses": "chat_message bneon19"
   }
 ]
