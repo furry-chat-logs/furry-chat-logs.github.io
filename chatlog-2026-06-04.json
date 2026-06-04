@@ -4198,5 +4198,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's a tactic",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948497",
+    "type": "public",
+    "date": "4/06 1:15",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I wouldn't actually do anything",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948498",
+    "type": "public",
+    "date": "4/06 1:15",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdGNqeXV1d2R5bnYybWFxbmtxdW10YWpkYWJocWlxdDd1dnd2bTBjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4EmytS6dQtA5c6HoCv/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
