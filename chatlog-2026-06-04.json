@@ -12344,5 +12344,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "to see if it's on my end.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949313",
+    "type": "public",
+    "date": "4/06 9:13",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "No. If it was cloud flare, it would be their server. Can't be your end for that",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
