@@ -23856,5 +23856,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I had a stroke trying to read that.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947836",
+    "type": "public",
+    "date": "3/06 22:42",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bneon31 bnfont4",
+    "message": "real",
+    "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7947837",
+    "type": "public",
+    "date": "3/06 22:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[secret-share: CjnekMbpu58CrzwEMVWmaTDDm&n=47581] 👀👀👀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
