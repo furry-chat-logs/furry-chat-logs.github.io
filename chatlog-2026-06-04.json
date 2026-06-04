@@ -16384,5 +16384,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Type something ...",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949717",
+    "type": "public",
+    "date": "4/06 12:00",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username user ",
+    "message": "Who?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949718",
+    "type": "public",
+    "date": "4/06 12:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My mom is mad at me for learning instead of theching my sister how to swim.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
