@@ -16524,5 +16524,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Jesterandsugar what",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949731",
+    "type": "public",
+    "date": "4/06 12:05",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "I like to help",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949732",
+    "type": "public",
+    "date": "4/06 12:05",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username user ",
+    "message": "Nothin",
+    "msgClasses": "chat_message "
   }
 ]
