@@ -28836,5 +28836,25 @@
     "userClasses": "username bgrad31 bnfont3",
     "message": "this is bullshit",
     "msgClasses": "chat_message bgrad31 bold bfont3"
+  },
+  {
+    "id": "7950970",
+    "type": "public",
+    "date": "4/06 18:33",
+    "username": "ChildStewFrFr",
+    "userId": "26879",
+    "userClasses": "username bgrad31 bnfont3",
+    "message": "were just letting criminals roam huh?",
+    "msgClasses": "chat_message bgrad31 bold bfont3"
+  },
+  {
+    "id": "7950971",
+    "type": "public",
+    "date": "4/06 18:33",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "ChildStewFrFr so I am guilty by association?",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
