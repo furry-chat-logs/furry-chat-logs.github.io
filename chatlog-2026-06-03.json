@@ -21896,5 +21896,15 @@
     "userClasses": "username user ",
     "message": "Well I hope you all have a wonderful night, Imma hit the hay",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947636",
+    "type": "public",
+    "date": "3/06 21:29",
+    "username": "KillerThefemmy",
+    "userId": "8908",
+    "userClasses": "username bneon24 bnfont16",
+    "message": "I cast fireball",
+    "msgClasses": "chat_message bneon20 bold bfont14"
   }
 ]
