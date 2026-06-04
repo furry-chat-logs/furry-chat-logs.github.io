@@ -4098,5 +4098,35 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Ashton McKennan not allowed",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948487",
+    "type": "public",
+    "date": "4/06 1:14",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Sonic The Hedgehog WHAT?",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948488",
+    "type": "public",
+    "date": "4/06 1:14",
+    "username": "Xxchrryb0mbxx",
+    "userId": "25139",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Crine",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948489",
+    "type": "public",
+    "date": "4/06 1:15",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "GlamRockHeart u wanted him to stay?",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
