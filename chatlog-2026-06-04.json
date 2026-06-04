@@ -6988,5 +6988,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Okay, goodbye now",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7948776",
+    "type": "public",
+    "date": "4/06 2:26",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Hey everybody Please call me ash if you want to say my name I prefer going by ash instead of Ashton",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
