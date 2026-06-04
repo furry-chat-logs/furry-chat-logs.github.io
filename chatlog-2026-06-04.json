@@ -23250,5 +23250,25 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_b83625da71f6.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950407",
+    "type": "public",
+    "date": "4/06 16:37",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Insidiae does that include me",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950408",
+    "type": "public",
+    "date": "4/06 16:37",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Bc I'm in this place",
+    "msgClasses": "chat_message bneon9"
   }
 ]
