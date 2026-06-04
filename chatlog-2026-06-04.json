@@ -4958,5 +4958,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "11:27",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948573",
+    "type": "public",
+    "date": "4/06 1:27",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "1:27",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948574",
+    "type": "public",
+    "date": "4/06 1:28",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "I burnt my pothocket",
+    "msgClasses": "chat_message "
   }
 ]
