@@ -7698,5 +7698,15 @@
     "userClasses": "username user ",
     "message": "Who's",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948847",
+    "type": "public",
+    "date": "4/06 3:25",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You got on our*",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
