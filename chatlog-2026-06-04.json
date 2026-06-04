@@ -19900,5 +19900,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Law_dragonplay English only",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950069",
+    "type": "public",
+    "date": "4/06 15:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Oh hey I'm a fellow border hopper too",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
