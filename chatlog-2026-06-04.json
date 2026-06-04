@@ -7798,5 +7798,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oof",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948857",
+    "type": "public",
+    "date": "4/06 3:27",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I meant to say that you got on our nerves",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948858",
+    "type": "public",
+    "date": "4/06 3:27",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "Heyo",
+    "msgClasses": "chat_message "
   }
 ]
