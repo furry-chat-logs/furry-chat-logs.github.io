@@ -7088,5 +7088,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Great now we just need 1 more",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948786",
+    "type": "public",
+    "date": "4/06 2:41",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_8155f373da25.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
