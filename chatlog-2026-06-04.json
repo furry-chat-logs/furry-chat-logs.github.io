@@ -15664,5 +15664,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Sharkish *teleports next to you* Infected?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949645",
+    "type": "public",
+    "date": "4/06 11:36",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "you calling me and Solis infected?",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
