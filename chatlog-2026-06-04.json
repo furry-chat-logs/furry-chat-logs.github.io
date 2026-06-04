@@ -20260,5 +20260,15 @@
     "userClasses": "username bcolor8 ",
     "message": "Cute voice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950106",
+    "type": "public",
+    "date": "4/06 15:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "..",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
