@@ -16494,5 +16494,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "No",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949728",
+    "type": "public",
+    "date": "4/06 12:05",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Im getting Jesterandsugar vip",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949729",
+    "type": "public",
+    "date": "4/06 12:05",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username user ",
+    "message": "Oh",
+    "msgClasses": "chat_message "
   }
 ]
