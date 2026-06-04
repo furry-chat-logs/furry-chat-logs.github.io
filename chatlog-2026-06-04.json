@@ -5828,5 +5828,25 @@
     "userClasses": "username user ",
     "message": "that's what dc stands for",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948660",
+    "type": "public",
+    "date": "4/06 1:52",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I live in the west not the east!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948661",
+    "type": "public",
+    "date": "4/06 1:52",
+    "username": "Xxchrryb0mbxx",
+    "userId": "25139",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Washington is crack head central Thats how I see it at least",
+    "msgClasses": "chat_message "
   }
 ]
