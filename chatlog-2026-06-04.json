@@ -26698,5 +26698,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I DIDNT",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950755",
+    "type": "public",
+    "date": "4/06 17:36",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_55537b8269f8.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
