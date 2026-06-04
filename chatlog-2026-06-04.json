@@ -4858,5 +4858,15 @@
     "userClasses": "username user ",
     "message": "\"I can imagine myself an anime waifuu\" 💀💀💀",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948563",
+    "type": "public",
+    "date": "4/06 1:25",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOXNtendubTRpdXkwYWdvZzEzcXp5Mnpkd2NudndnbmVjaXM0eXpjcCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/H0IWB4qLDFcyNg4o9s/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
