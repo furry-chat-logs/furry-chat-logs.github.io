@@ -8538,5 +8538,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "heh",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948931",
+    "type": "public",
+    "date": "4/06 4:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I am just trynna survive the day",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948932",
+    "type": "public",
+    "date": "4/06 4:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I miss my bf",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948933",
+    "type": "public",
+    "date": "4/06 4:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Same",
+    "msgClasses": "chat_message bneon14"
   }
 ]
