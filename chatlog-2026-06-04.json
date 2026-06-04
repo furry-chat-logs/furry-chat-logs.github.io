@@ -8378,5 +8378,15 @@
     "userClasses": "username user ",
     "message": "I'ma change my pfp",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948915",
+    "type": "public",
+    "date": "4/06 3:39",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "Back",
+    "msgClasses": "chat_message "
   }
 ]
