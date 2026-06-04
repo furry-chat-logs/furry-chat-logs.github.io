@@ -28198,5 +28198,15 @@
     "userClasses": "username bcolor8 ",
     "message": "Why runefast",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950905",
+    "type": "public",
+    "date": "4/06 18:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ima drink a whole 1,5 L bottle",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
