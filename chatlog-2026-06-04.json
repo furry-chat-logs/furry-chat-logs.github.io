@@ -20680,5 +20680,25 @@
     "userClasses": "username bcolor8 ",
     "message": "No, im practically chemically castrated.  Im asexual mostly",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950148",
+    "type": "public",
+    "date": "4/06 16:00",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "I keep it pg 13",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950149",
+    "type": "public",
+    "date": "4/06 16:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": ":/",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
