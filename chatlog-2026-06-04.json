@@ -11626,5 +11626,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "chats so dead",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7949241",
+    "type": "public",
+    "date": "4/06 8:12",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I kinda hate being female",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
