@@ -21596,5 +21596,15 @@
     "userClasses": "username bcolor8 ",
     "message": "U know about sofurry and ferzu?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947605",
+    "type": "public",
+    "date": "3/06 21:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm not chronically online enough for this",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
