@@ -6308,5 +6308,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_e8202f0bc338.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948708",
+    "type": "public",
+    "date": "4/06 2:01",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36664_7e80f83ccb41.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948709",
+    "type": "public",
+    "date": "4/06 2:01",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": ":P",
+    "msgClasses": "chat_message "
   }
 ]
