@@ -29386,5 +29386,15 @@
     "userClasses": "username bneon18 ",
     "message": "[cry]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7951025",
+    "type": "public",
+    "date": "4/06 18:50",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_a70f9884626c.png]",
+    "msgClasses": "chat_message "
   }
 ]
