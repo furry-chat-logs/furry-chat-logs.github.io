@@ -18312,5 +18312,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "its oki lol",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7949910",
+    "type": "public",
+    "date": "4/06 14:26",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_ec59f2089f75.png]",
+    "msgClasses": "chat_message "
   }
 ]
