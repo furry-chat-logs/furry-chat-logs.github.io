@@ -25816,5 +25816,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Nini",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948032",
+    "type": "public",
+    "date": "3/06 23:33",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "~^~ [secret-share: CjnekMbpu58CrzwEMVWmaTDDm&n=47581]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948033",
+    "type": "public",
+    "date": "3/06 23:33",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "WAIT WHAT",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
