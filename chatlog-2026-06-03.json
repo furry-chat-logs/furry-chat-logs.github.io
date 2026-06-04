@@ -25626,5 +25626,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Is a pineapple...",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7948013",
+    "type": "public",
+    "date": "3/06 23:20",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) Anything",
+    "msgClasses": "chat_message "
   }
 ]
