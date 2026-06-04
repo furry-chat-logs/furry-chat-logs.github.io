@@ -24870,5 +24870,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I'm transparent about mine",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7950571",
+    "type": "public",
+    "date": "4/06 16:59",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "I have many, many kicks. But it will be very fun.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950572",
+    "type": "public",
+    "date": "4/06 16:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Why cant i type anything",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
