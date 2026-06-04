@@ -27558,5 +27558,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNzNpbWd1aTlycjk1cHh1amdnNHc3YTAxdjZmMDBodzB5NGZkbHBxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErpklM4dZVZYs/giphy.gif]",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950841",
+    "type": "public",
+    "date": "4/06 17:58",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZzJ5ZmowZWRzbDg5Y2h0dzVhdzB1MGRnMnFydGl3b2t2OTU5cHgyNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fUQ4rhUZJYiQsas6WD/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950842",
+    "type": "public",
+    "date": "4/06 17:58",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "I'll never be able to pronounce german",
+    "msgClasses": "chat_message "
   }
 ]
