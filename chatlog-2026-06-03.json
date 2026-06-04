@@ -25596,5 +25596,15 @@
     "userClasses": "username bcolor23 ",
     "message": "[neutral]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948010",
+    "type": "public",
+    "date": "3/06 23:18",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bneon31 bnfont4",
+    "message": "Porphyrophobia is it hating to hate if you dont like pineapple",
+    "msgClasses": "chat_message bneon1 bold bfont4"
   }
 ]
