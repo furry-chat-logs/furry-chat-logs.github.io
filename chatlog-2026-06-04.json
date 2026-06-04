@@ -25330,5 +25330,15 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Nommed my staff",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950618",
+    "type": "public",
+    "date": "4/06 17:10",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "I got a clean bunch of stuff out of my room",
+    "msgClasses": "chat_message "
   }
 ]
