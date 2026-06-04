@@ -23010,5 +23010,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[runefaust]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950383",
+    "type": "public",
+    "date": "4/06 16:34",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Sighhhh.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950384",
+    "type": "public",
+    "date": "4/06 16:34",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "💀",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
