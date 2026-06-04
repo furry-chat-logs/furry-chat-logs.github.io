@@ -24086,5 +24086,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "I want to say one",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947859",
+    "type": "public",
+    "date": "3/06 22:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog hmmm",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
