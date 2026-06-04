@@ -12204,5 +12204,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Frogmin just a second ago",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949299",
+    "type": "public",
+    "date": "4/06 9:11",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Spectre_protogen Default browser error page?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949300",
+    "type": "public",
+    "date": "4/06 9:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Frogmin that's not how it works I just need to pas my class.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
