@@ -26618,5 +26618,15 @@
     "userClasses": "username bgrad39 ",
     "message": "I'm munchin on French toast",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950747",
+    "type": "public",
+    "date": "4/06 17:35",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWFxM3MxNmJyMzF1MHAyaGZsZmQzYnk3MDhzc2J0YXplNmFzbmQxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OrXZpLyqUWtO/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
