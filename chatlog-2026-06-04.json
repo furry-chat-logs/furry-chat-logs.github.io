@@ -13304,5 +13304,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Good morning",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949409",
+    "type": "public",
+    "date": "4/06 9:52",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "As a person who's interested in mechanical engineering. Wtf am I looking at",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
