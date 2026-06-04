@@ -3738,5 +3738,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "I'm bored lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948451",
+    "type": "public",
+    "date": "4/06 1:09",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Man I need a therapist",
+    "msgClasses": "chat_message "
   }
 ]
