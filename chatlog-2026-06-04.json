@@ -22180,5 +22180,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_eb09685b40be.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950300",
+    "type": "public",
+    "date": "4/06 16:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb21ndjJra2J2cHlmMGtmYXVzZDFoYnFpMmE4NWw3ZjJnY2MyODFzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6H4H9GfwySrkFSV2ll/giphy.gif]",
+    "msgClasses": "chat_message bneon19"
   }
 ]
