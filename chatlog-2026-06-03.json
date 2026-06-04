@@ -25176,5 +25176,35 @@
     "userClasses": "username bcolor23 ",
     "message": "[cry]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947968",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "WHAT",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947969",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Oh doing comms gave me trauma for life",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7947970",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Never again",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
