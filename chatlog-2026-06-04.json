@@ -11994,5 +11994,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Spectre_protogen damn how did it go",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949278",
+    "type": "public",
+    "date": "4/06 9:00",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Chat I got a new Gundam in my game",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7949279",
+    "type": "public",
+    "date": "4/06 9:00",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sol_Aizawa decent",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
