@@ -15454,5 +15454,25 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "7vhl_Mike water?...",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7949624",
+    "type": "public",
+    "date": "4/06 11:32",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "ghostship_mondo alr get em",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949625",
+    "type": "public",
+    "date": "4/06 11:32",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "ghostship_mondo I see you",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
