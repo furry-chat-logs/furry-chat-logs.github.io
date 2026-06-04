@@ -3708,5 +3708,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "channel666_mondo [cry]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948448",
+    "type": "public",
+    "date": "4/06 1:08",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sonic The Hedgehog [cry]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
