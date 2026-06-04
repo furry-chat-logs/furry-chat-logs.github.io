@@ -20636,5 +20636,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[SS] I got the name 'Rune' from a very old RPG game series I liked since I was a toddler. ^^",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947493",
+    "type": "public",
+    "date": "3/06 19:46",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaGE1NmlnMHFmcHZoN2YxdHJ6d3ppeGphaXhxcWhmdGdyeDEweW14ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26n6LfgnzRDobbBEA/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947494",
+    "type": "public",
+    "date": "3/06 19:46",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Porphyrophobia interesting",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
