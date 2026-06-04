@@ -11694,5 +11694,15 @@
     "username": "System",
     "userId": null,
     "message": "Rennie has been kicked"
+  },
+  {
+    "id": "7949248",
+    "type": "public",
+    "date": "4/06 8:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
