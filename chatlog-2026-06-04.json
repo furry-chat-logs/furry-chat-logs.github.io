@@ -5138,5 +5138,15 @@
     "userClasses": "username user ",
     "message": "Not really but I see the vision",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948591",
+    "type": "public",
+    "date": "4/06 1:33",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Holy shit I just got slapped in the face with a buzz",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
