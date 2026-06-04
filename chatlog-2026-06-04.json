@@ -11388,5 +11388,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'm doing great how about you",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949216",
+    "type": "public",
+    "date": "4/06 5:41",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "I'm doing good, just tired cuz I stood up late decorating my graduation cap",
+    "msgClasses": "chat_message "
   }
 ]
