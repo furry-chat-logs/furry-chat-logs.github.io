@@ -22376,5 +22376,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Really fits that era of American muscle",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7947686",
+    "type": "public",
+    "date": "3/06 21:53",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "fr",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7947687",
+    "type": "public",
+    "date": "3/06 21:53",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Porphyrophobia I must draw this character ’lu-xun’",
+    "msgClasses": "chat_message "
   }
 ]
