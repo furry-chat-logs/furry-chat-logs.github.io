@@ -10338,5 +10338,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Bruh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949111",
+    "type": "public",
+    "date": "4/06 5:11",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_00ac5041cb07.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949112",
+    "type": "public",
+    "date": "4/06 5:11",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "What",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
