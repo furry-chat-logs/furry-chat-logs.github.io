@@ -11934,5 +11934,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Sol_Aizawa real",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7949272",
+    "type": "public",
+    "date": "4/06 8:59",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Real",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
