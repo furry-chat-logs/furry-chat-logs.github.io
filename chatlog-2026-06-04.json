@@ -9528,5 +9528,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "U cut my kaomojiii",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949030",
+    "type": "public",
+    "date": "4/06 5:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im going to summon",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949031",
+    "type": "public",
+    "date": "4/06 5:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "My",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949032",
+    "type": "public",
+    "date": "4/06 5:00",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWU0eXR6MjdpbHplejNxOHo2cnZuODEyNDZuOTg5cHBtYnE2dWl3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0GzquhmU03NpyOF42/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
