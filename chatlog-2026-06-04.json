@@ -13034,5 +13034,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "QueenKit Shooting🥀",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7949382",
+    "type": "public",
+    "date": "4/06 9:45",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I have to learn some stupid coding language for a job.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949383",
+    "type": "public",
+    "date": "4/06 9:45",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I hate learning.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
