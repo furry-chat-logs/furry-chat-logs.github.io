@@ -24790,5 +24790,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Smiley | That's my nickname for him. He was caught changing his age between 16-18 multiple times and claimed to be many different ages.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950563",
+    "type": "public",
+    "date": "4/06 16:58",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Idk if I can scroll up that far?",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950564",
+    "type": "public",
+    "date": "4/06 16:58",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Gang. It's been 4 years. \"Press the report button to report\" is not hard.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
