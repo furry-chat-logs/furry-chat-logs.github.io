@@ -28806,5 +28806,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "ChildStewFrFr I'm 16 bro...",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7950967",
+    "type": "public",
+    "date": "4/06 18:33",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "so tuff ChildStewFrFr",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950968",
+    "type": "public",
+    "date": "4/06 18:33",
+    "username": "ChildStewFrFr",
+    "userId": "26879",
+    "userClasses": "username bgrad31 bnfont3",
+    "message": "Spectre_protogen you have him added and your trying to defend him",
+    "msgClasses": "chat_message bgrad31 bold bfont3"
   }
 ]
