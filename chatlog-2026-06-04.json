@@ -16784,5 +16784,45 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "It lasts a week then you have normal vip permanently",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949757",
+    "type": "public",
+    "date": "4/06 12:11",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "You can send images",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949758",
+    "type": "public",
+    "date": "4/06 12:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Jesterandsugar you can send videos links",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949759",
+    "type": "public",
+    "date": "4/06 12:11",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username user ",
+    "message": "Oooooooooooh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949760",
+    "type": "public",
+    "date": "4/06 12:12",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Or draw",
+    "msgClasses": "chat_message "
   }
 ]
