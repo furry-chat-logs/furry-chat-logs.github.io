@@ -938,5 +938,45 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "A sans au in the big 26",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7948170",
+    "type": "public",
+    "date": "4/06 0:20",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Porphyrophobia huh?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948171",
+    "type": "public",
+    "date": "4/06 0:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "The other day they were in my SS saying weird shit not too long ago [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948172",
+    "type": "public",
+    "date": "4/06 0:20",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "Sonic The Hedgehog No",
+    "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7948173",
+    "type": "public",
+    "date": "4/06 0:20",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Aw man.",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
