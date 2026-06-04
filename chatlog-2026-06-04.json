@@ -27208,5 +27208,15 @@
     "userClasses": "username bcolor8 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_9539d99f602e.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950806",
+    "type": "public",
+    "date": "4/06 17:53",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_6aef60e78e85.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
