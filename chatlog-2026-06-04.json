@@ -3168,5 +3168,35 @@
     "userClasses": "username user ",
     "message": "I gotta improvise",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948394",
+    "type": "public",
+    "date": "4/06 0:51",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "You know, y'all can't juts believe everything on the internet right?",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948395",
+    "type": "public",
+    "date": "4/06 0:51",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "And got a little bit of an allergy problem :c",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948396",
+    "type": "public",
+    "date": "4/06 0:51",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "just*",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
