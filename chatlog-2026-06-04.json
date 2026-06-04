@@ -4528,5 +4528,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I told you guys.",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948530",
+    "type": "public",
+    "date": "4/06 1:20",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Anyways uh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948531",
+    "type": "public",
+    "date": "4/06 1:20",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It's a tactic I'm not gonna do anything",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
