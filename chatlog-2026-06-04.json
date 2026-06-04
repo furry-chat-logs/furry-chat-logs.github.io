@@ -10288,5 +10288,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Not longer than 40 min",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949106",
+    "type": "public",
+    "date": "4/06 5:10",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Hunter77 aye, right",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
