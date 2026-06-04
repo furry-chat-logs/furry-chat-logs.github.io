@@ -5738,5 +5738,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "There's a state called Washington state in the USA",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948651",
+    "type": "public",
+    "date": "4/06 1:51",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Yes.",
+    "msgClasses": "chat_message "
   }
 ]
