@@ -7898,5 +7898,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "M-me? A question?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948867",
+    "type": "public",
+    "date": "4/06 3:28",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "I'm a femboy so does that count as a female too?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948868",
+    "type": "public",
+    "date": "4/06 3:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Umm no",
+    "msgClasses": "chat_message bneon14"
   }
 ]
