@@ -6648,5 +6648,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_330416c77aaa.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948742",
+    "type": "public",
+    "date": "4/06 2:15",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Mi gente latino xD Hunter77",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
