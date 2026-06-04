@@ -2448,5 +2448,25 @@
     "userClasses": "username bneon27 bnfont6",
     "message": "goodbye everyone",
     "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7948322",
+    "type": "public",
+    "date": "4/06 0:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "cya",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948323",
+    "type": "public",
+    "date": "4/06 0:38",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "have a good. night day evening. Timezones bro timezones",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
   }
 ]
