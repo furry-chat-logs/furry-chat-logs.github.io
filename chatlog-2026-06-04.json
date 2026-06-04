@@ -15714,5 +15714,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Sol_Aizawa yes",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949650",
+    "type": "public",
+    "date": "4/06 11:40",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "hmm",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
