@@ -15674,5 +15674,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "you calling me and Solis infected?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949646",
+    "type": "public",
+    "date": "4/06 11:37",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Sol_Aizawa senior citizen?",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
