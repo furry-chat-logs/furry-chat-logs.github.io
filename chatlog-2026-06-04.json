@@ -18372,5 +18372,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "This is on a factory reset phone btw",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7949916",
+    "type": "public",
+    "date": "4/06 14:30",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ok i dont think that anybody cares",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
