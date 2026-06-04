@@ -27278,5 +27278,35 @@
     "userClasses": "username bneon18 ",
     "message": "[verysad]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950813",
+    "type": "public",
+    "date": "4/06 17:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Is runnig",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950814",
+    "type": "public",
+    "date": "4/06 17:54",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_1d61309584ab.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950815",
+    "type": "public",
+    "date": "4/06 17:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Runnin his",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
