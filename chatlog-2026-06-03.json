@@ -25206,5 +25206,25 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Never again",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7947971",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Cheepuddin dang",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947972",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Cheepuddin Aw :(",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
