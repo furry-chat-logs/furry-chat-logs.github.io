@@ -24256,5 +24256,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_6ce31b56ac2b.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947876",
+    "type": "public",
+    "date": "3/06 22:54",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "yo",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7947877",
+    "type": "public",
+    "date": "3/06 22:54",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( This sentence is in spanish. 3/06 20:52 ) Good thing I know a bit of Spanish.",
+    "msgClasses": "chat_message "
   }
 ]
