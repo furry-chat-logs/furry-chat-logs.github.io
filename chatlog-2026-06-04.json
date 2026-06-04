@@ -1228,5 +1228,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'll js find the vid",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948199",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "ˢᵉᵃⁿ٭",
+    "userId": "26425",
+    "userClasses": "username bneon14 bnfont11",
+    "message": "what happened",
+    "msgClasses": "chat_message bcolor17 heavybold bfont4"
+  },
+  {
+    "id": "7948200",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I liked Xbox 360 because of Sonic Unleashed and Minecraft Legacy Edition",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948201",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "oh lord",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
