@@ -5628,5 +5628,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948640",
+    "type": "public",
+    "date": "4/06 1:48",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I've lived in this state my whole life",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
