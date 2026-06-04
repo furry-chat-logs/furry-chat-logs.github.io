@@ -2798,5 +2798,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "You know that cussing at or tryin to argue with someone isn't going to help right?",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948357",
+    "type": "public",
+    "date": "4/06 0:44",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "No but it sure was hell feels good",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948358",
+    "type": "public",
+    "date": "4/06 0:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948359",
+    "type": "public",
+    "date": "4/06 0:44",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "*as",
+    "msgClasses": "chat_message "
   }
 ]
