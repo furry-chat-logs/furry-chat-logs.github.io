@@ -1978,5 +1978,35 @@
     "userClasses": "username user ",
     "message": "parfait if you close your eyes you can smell his hairline",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948275",
+    "type": "public",
+    "date": "4/06 0:30",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "dam",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7948276",
+    "type": "public",
+    "date": "4/06 0:30",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "ow",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7948277",
+    "type": "public",
+    "date": "4/06 0:30",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOW50bXRpeno0b2tybDhvcGswZnk5ZmFydDNxc2VhdTR0NTBrNWtubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l17xS7crUblhleIAXO/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
