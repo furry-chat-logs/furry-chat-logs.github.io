@@ -98,5 +98,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoupPaws hi👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7948086",
+    "type": "public",
+    "date": "4/06 0:04",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "Mdekoni no I need someone to help me sleep. I can't really sleep in my own.",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948087",
+    "type": "public",
+    "date": "4/06 0:04",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Wolf ecilpse im asleep",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7948088",
+    "type": "public",
+    "date": "4/06 0:04",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "I am a realxing in bed tho",
+    "msgClasses": "chat_message "
   }
 ]
