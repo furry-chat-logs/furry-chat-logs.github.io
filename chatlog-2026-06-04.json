@@ -23120,5 +23120,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "I want to but I've been asleep the whole day. Haven't had the energy to make meaningful conversation with anyone.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950394",
+    "type": "public",
+    "date": "4/06 16:35",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm so mad my grandma threw her ancient computer away in her office (which is my room now because I'm just that peak)",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
