@@ -26236,5 +26236,15 @@
     "userClasses": "username user ",
     "message": "🥹💞",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948075",
+    "type": "public",
+    "date": "3/06 23:59",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Nah.",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
