@@ -5058,5 +5058,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Ashton McKennan mmmkay.. enjoy ig",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948583",
+    "type": "public",
+    "date": "4/06 1:31",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I don't see any differences between alcohol and weed",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948584",
+    "type": "public",
+    "date": "4/06 1:31",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Man I wish I could get wasted rn",
+    "msgClasses": "chat_message "
   }
 ]
