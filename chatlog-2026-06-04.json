@@ -25748,5 +25748,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Jeksie",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950660",
+    "type": "public",
+    "date": "4/06 17:16",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950661",
+    "type": "public",
+    "date": "4/06 17:16",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Theyre good",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
