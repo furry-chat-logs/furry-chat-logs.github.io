@@ -8828,5 +8828,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "My mom is doing a keto diet",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7948960",
+    "type": "public",
+    "date": "4/06 4:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "She alr got 25 kilos down in three weeks",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7948961",
+    "type": "public",
+    "date": "4/06 4:50",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Do you think I should do a 2 day fast",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
