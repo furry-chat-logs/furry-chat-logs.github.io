@@ -20716,5 +20716,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Sup Aston ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947501",
+    "type": "public",
+    "date": "3/06 19:47",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Hmmmm...",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7947502",
+    "type": "public",
+    "date": "3/06 19:47",
+    "username": "Dinonour",
+    "userId": "37152",
+    "userClasses": "username bneon9 bnfont16",
+    "message": "channel666_mondo yeah... Anyways, hru",
+    "msgClasses": "chat_message bneon9 bold bfont1"
   }
 ]
