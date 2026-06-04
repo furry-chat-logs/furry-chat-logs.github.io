@@ -18730,5 +18730,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Looks like I woke up the perfect time",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949952",
+    "type": "public",
+    "date": "4/06 15:11",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODBieWU1d3JoaG1weWVocW55bnhoeXVwMHBlbnI3cHNha253MzF6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FOuIZIAdCFUSrPkcyp/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
