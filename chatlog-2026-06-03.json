@@ -22736,5 +22736,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": ">:3",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7947722",
+    "type": "public",
+    "date": "3/06 22:01",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "EagleEdge",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
