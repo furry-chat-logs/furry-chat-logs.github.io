@@ -28228,5 +28228,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Watur",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950908",
+    "type": "public",
+    "date": "4/06 18:16",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "Yes",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
