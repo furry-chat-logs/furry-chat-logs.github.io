@@ -9308,5 +9308,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I put ketchup on it",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949008",
+    "type": "public",
+    "date": "4/06 4:58",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Quit it you're making me hungry",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949009",
+    "type": "public",
+    "date": "4/06 4:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's so yum",
+    "msgClasses": "chat_message bneon14"
   }
 ]
