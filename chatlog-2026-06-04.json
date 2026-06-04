@@ -6868,5 +6868,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "No worries",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948764",
+    "type": "public",
+    "date": "4/06 2:20",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_24d9dd75ac4d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948765",
+    "type": "public",
+    "date": "4/06 2:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Just know that if you finish please send it in pms",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
