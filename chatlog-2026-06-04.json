@@ -21920,5 +21920,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Mdekoni bro is saying truth",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950274",
+    "type": "public",
+    "date": "4/06 16:19",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "We need this be calm chat",
+    "msgClasses": "chat_message bneon19"
   }
 ]
