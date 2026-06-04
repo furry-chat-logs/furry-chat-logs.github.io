@@ -21110,5 +21110,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_09c77063c6ed.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950193",
+    "type": "public",
+    "date": "4/06 16:05",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I'm too irritated for ts. ✌️",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950194",
+    "type": "public",
+    "date": "4/06 16:05",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Dosent work",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
