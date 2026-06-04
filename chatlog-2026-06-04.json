@@ -18032,5 +18032,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I believe I caught a cold",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949882",
+    "type": "public",
+    "date": "4/06 13:23",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Not really, I just don't know how Insidiae tolerates my... \"unique\"-ness.  🫩",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
