@@ -3268,5 +3268,15 @@
     "userClasses": "username user ",
     "message": "Either way I hate their existence",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948404",
+    "type": "public",
+    "date": "4/06 0:53",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "sent",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
