@@ -25796,5 +25796,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Hehehe deme is pure adhd chaos",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948030",
+    "type": "public",
+    "date": "3/06 23:32",
+    "username": "Fleetway Sonic",
+    "userId": "28305",
+    "userClasses": "username bneon19 bnfont14",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user28305_accff200a7ba.mp3 | He_did_after.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948031",
+    "type": "public",
+    "date": "3/06 23:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Nini",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
