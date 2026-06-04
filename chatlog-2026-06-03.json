@@ -24476,5 +24476,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bergindine I feel like you kild chat.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947898",
+    "type": "public",
+    "date": "3/06 23:01",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "I JUST JOINED",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
