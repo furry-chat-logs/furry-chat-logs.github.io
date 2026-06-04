@@ -8998,5 +8998,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "The only thing i drink is water and that stays so",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7948977",
+    "type": "public",
+    "date": "4/06 4:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It is Apple cider vinegar honey and lemon juice in a cup of water",
+    "msgClasses": "chat_message bneon14"
   }
 ]
