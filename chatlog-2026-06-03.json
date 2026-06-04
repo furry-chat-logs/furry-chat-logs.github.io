@@ -20686,5 +20686,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Sup sonic ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947498",
+    "type": "public",
+    "date": "3/06 19:47",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "yo",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
