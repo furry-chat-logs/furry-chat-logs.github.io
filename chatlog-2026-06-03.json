@@ -23946,5 +23946,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Smiley what is that?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947845",
+    "type": "public",
+    "date": "3/06 22:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] Hamburgir",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
