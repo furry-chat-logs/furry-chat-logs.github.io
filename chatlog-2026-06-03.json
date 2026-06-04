@@ -21916,5 +21916,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Yawn",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7947638",
+    "type": "public",
+    "date": "3/06 21:31",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Charlie Charlie kirky",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
