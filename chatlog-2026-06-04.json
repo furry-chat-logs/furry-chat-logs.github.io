@@ -6508,5 +6508,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "im tired of this grandpa",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7948728",
+    "type": "public",
+    "date": "4/06 2:11",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I have to take my weed edible in 20 minutes so I'm gonna be cross faded",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
