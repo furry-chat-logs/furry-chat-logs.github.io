@@ -28178,5 +28178,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_2c1d5cd95e61.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950903",
+    "type": "public",
+    "date": "4/06 18:12",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_99f21f9348a2.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950904",
+    "type": "public",
+    "date": "4/06 18:12",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Why runefast",
+    "msgClasses": "chat_message "
   }
 ]
