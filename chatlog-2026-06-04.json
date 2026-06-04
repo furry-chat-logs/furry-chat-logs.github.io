@@ -18790,5 +18790,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "phthiafig Good",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949958",
+    "type": "public",
+    "date": "4/06 15:13",
+    "username": "phthiafig",
+    "userId": "37522",
+    "userClasses": "username bcolor32 bnfont15",
+    "message": "cool",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949959",
+    "type": "public",
+    "date": "4/06 15:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa mentioned",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
