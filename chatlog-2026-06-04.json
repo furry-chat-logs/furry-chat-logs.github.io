@@ -2248,5 +2248,25 @@
     "userClasses": "username bneon27 bnfont6",
     "message": "???what the fuck did i miss",
     "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7948302",
+    "type": "public",
+    "date": "4/06 0:34",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "yep",
+    "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7948303",
+    "type": "public",
+    "date": "4/06 0:34",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "If I had it my way you'd be buried from the neck down next to a fucking ant pile",
+    "msgClasses": "chat_message "
   }
 ]
