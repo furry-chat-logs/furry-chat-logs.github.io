@@ -16544,5 +16544,25 @@
     "userClasses": "username user ",
     "message": "Nothin",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949733",
+    "type": "public",
+    "date": "4/06 12:06",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Porphyrophobia give me coins",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949734",
+    "type": "public",
+    "date": "4/06 12:06",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sharkish lol I'm pore",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
