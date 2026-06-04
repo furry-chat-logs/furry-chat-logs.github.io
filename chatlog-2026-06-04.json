@@ -25150,5 +25150,35 @@
     "userClasses": "username bgrad39 ",
     "message": "That sounds awkward",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950599",
+    "type": "public",
+    "date": "4/06 17:04",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "I dunno.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950600",
+    "type": "public",
+    "date": "4/06 17:04",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Guys I'm so happy I get frnch toast",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950601",
+    "type": "public",
+    "date": "4/06 17:04",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Stand under a fan at max speed.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
