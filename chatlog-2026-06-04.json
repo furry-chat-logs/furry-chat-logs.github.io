@@ -17852,5 +17852,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "hey",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949864",
+    "type": "public",
+    "date": "4/06 13:12",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "HELLO!!!",
+    "msgClasses": "chat_message bold"
   }
 ]
