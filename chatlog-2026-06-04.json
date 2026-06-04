@@ -7298,5 +7298,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Umm do u work in a sewage",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948807",
+    "type": "public",
+    "date": "4/06 3:15",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Fah I forgot the meaning of it I'm sorry",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948808",
+    "type": "public",
+    "date": "4/06 3:15",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm being serious sora",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
