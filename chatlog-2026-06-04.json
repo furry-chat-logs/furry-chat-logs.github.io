@@ -16684,5 +16684,15 @@
     "userClasses": "username user ",
     "message": "I still appreciate it",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949747",
+    "type": "public",
+    "date": "4/06 12:09",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbXdza3E3azIyaGwxc2JreGw3MjVkcWl3MzVoeTBlMzEycjNhaWFobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S8xT2p6Vcsr8ExQans/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
