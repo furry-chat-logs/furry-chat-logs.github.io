@@ -24806,5 +24806,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_41dbef5b34d4.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947931",
+    "type": "public",
+    "date": "3/06 23:08",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "GlamRockHeart hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
