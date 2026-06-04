@@ -8098,5 +8098,15 @@
     "userClasses": "username user ",
     "message": "Well with some extra help I can",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948887",
+    "type": "public",
+    "date": "4/06 3:32",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZGIzbTYwcDMwNmttZ2V4cWhlemJuemEyazVneGRiNTBpajRncWM2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JefYGoZrBScaw8z5WZ/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
