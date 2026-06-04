@@ -26878,5 +26878,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "There cant be more text than this sadly",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950773",
+    "type": "public",
+    "date": "4/06 17:44",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_9718c13d5d68.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
