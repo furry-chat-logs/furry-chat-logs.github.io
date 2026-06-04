@@ -4128,5 +4128,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "GlamRockHeart u wanted him to stay?",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948490",
+    "type": "public",
+    "date": "4/06 1:15",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Why are predators genuinely so fucking stupid",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948491",
+    "type": "public",
+    "date": "4/06 1:15",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "\"I'll give you two minutes\"",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
