@@ -20016,5 +20016,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "I'm not a boyo qwq",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7947431",
+    "type": "public",
+    "date": "3/06 19:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[angry] she is a GIRLO.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947432",
+    "type": "public",
+    "date": "3/06 19:22",
+    "username": "Bunnynut Churro",
+    "userId": "37501",
+    "userClasses": "username bcolor27 bnfont15",
+    "message": "Sorry I didn't mean literally XD I call everyone I don't know a boyo",
+    "msgClasses": "chat_message "
   }
 ]
