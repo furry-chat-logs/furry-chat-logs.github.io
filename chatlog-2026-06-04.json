@@ -9928,5 +9928,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "SBB f-food?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949070",
+    "type": "public",
+    "date": "4/06 5:05",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdGU4OWljcmYyNWp6ZWYybW1maGU2c2g0dXV6djRtbXNxcDFqNTE3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lxxOGaDRk4f7R5TkBd/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7949071",
+    "type": "public",
+    "date": "4/06 5:05",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*drools a bit* •q•",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949072",
+    "type": "public",
+    "date": "4/06 5:05",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Come to me and i donate you cooled cookies and a chocolate vanilla cake",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
