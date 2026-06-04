@@ -5908,5 +5908,15 @@
     "userClasses": "username user ",
     "message": "There's a city called Gayland",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948668",
+    "type": "public",
+    "date": "4/06 1:53",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "The land of gays LMAO",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
