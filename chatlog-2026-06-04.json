@@ -10378,5 +10378,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Mins",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949115",
+    "type": "public",
+    "date": "4/06 5:12",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Waaaagh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949116",
+    "type": "public",
+    "date": "4/06 5:12",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "daaaammnnn",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
