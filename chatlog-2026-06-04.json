@@ -11616,5 +11616,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "*Sniff sniff *",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949240",
+    "type": "public",
+    "date": "4/06 8:11",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "chats so dead",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
