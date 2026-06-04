@@ -25106,5 +25106,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2V3d2w3cXFpeGF6NnN4b3I2c3V0bDFxOHJyYnFhbnM4NHN6eDlvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Sw61SNhyBc3zbXster/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947961",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2V3d2w3cXFpeGF6NnN4b3I2c3V0bDFxOHJyYnFhbnM4NHN6eDlvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YA1HKBoQEggFo5v31V/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947962",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Cheepuddin",
+    "userId": "37516",
+    "userClasses": "username bcolor23 ",
+    "message": "Yall someone is trying to scam me again by pretending to commission me...",
+    "msgClasses": "chat_message "
   }
 ]
