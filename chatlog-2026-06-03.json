@@ -24526,5 +24526,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Bergindine it's not enough",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947903",
+    "type": "public",
+    "date": "3/06 23:01",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "I was playing my game.",
+    "msgClasses": "chat_message "
   }
 ]
