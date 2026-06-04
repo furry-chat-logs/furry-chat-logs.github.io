@@ -20180,5 +20180,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "That was VERY cringy",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950097",
+    "type": "public",
+    "date": "4/06 15:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Gumby_iguana",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950098",
+    "type": "public",
+    "date": "4/06 15:44",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36767_28e9dfbc0289.mp3 | Vocaroo_1adZv5yezQYT.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
