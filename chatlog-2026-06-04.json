@@ -15564,5 +15564,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Sol_Aizawa ah hello fellow biromantic biromantic person",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949635",
+    "type": "public",
+    "date": "4/06 11:34",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Sharkish hello",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
