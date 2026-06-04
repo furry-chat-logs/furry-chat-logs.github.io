@@ -20306,5 +20306,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Instead of a ping",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947460",
+    "type": "public",
+    "date": "3/06 19:28",
+    "username": "Bunnynut Churro",
+    "userId": "37501",
+    "userClasses": "username bcolor27 bnfont15",
+    "message": "Sacarverdasaiko hello!",
+    "msgClasses": "chat_message "
   }
 ]
