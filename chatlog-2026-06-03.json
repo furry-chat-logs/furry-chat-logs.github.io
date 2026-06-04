@@ -19516,5 +19516,15 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "i hope rune gets jumped by a group of senior citizens",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947380",
+    "type": "public",
+    "date": "3/06 19:10",
+    "username": "channel999_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHZjajlxcjU3czZtMzRvb2Jpbm1ycXV2c29hY2E2bnlsNDU4ZWl6ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MAqUTiu84m1J6/giphy.gif]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
