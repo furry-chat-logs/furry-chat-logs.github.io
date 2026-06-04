@@ -26288,5 +26288,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Spectre_protogen My monitor doesnt work idk how ima do that",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950714",
+    "type": "public",
+    "date": "4/06 17:26",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Well my monitor does work but doesnt have a HDMI input on something",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950715",
+    "type": "public",
+    "date": "4/06 17:26",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user13262_dea8ffdfa15d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
