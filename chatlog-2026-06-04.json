@@ -4638,5 +4638,15 @@
     "userClasses": "username user ",
     "message": "ok wrong choice of words",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948541",
+    "type": "public",
+    "date": "4/06 1:22",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "interesting",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
