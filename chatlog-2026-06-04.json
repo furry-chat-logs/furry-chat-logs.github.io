@@ -1278,5 +1278,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Sup Aston",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948204",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcGVpNzFhZ2hxMWJvOGRlYjlocXEzNWtoMjkzNGdvdXd0MjFvbnVzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VyOcR0cFwCYmc0XAWt/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948205",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Porphyrophobia tf no I'm not that 😭",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
