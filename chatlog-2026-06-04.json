@@ -16704,5 +16704,25 @@
     "userClasses": "username user ",
     "message": "Ahhhhhhh no",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949749",
+    "type": "public",
+    "date": "4/06 12:10",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "I failed you 😞",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949750",
+    "type": "public",
+    "date": "4/06 12:10",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Lol",
+    "msgClasses": "chat_message "
   }
 ]
