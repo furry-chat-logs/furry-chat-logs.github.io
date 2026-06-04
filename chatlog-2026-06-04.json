@@ -14304,5 +14304,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Mdekoni yeah, I can't play anymore so past tense",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7949509",
+    "type": "public",
+    "date": "4/06 10:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oooh I got a nactarine! Yum!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949510",
+    "type": "public",
+    "date": "4/06 10:25",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*noms*",
+    "msgClasses": "chat_message bneon14"
   }
 ]
