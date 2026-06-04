@@ -5358,5 +5358,15 @@
     "userClasses": "username user ",
     "message": "AND ITS NIGHT TIME",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948613",
+    "type": "public",
+    "date": "4/06 1:44",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "That's fucking hot!!!!!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
