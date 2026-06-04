@@ -6548,5 +6548,35 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "They run on spanish",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948732",
+    "type": "public",
+    "date": "4/06 2:13",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Not batteries",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948733",
+    "type": "public",
+    "date": "4/06 2:13",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Si",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948734",
+    "type": "public",
+    "date": "4/06 2:13",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Ironically none of them speak Spanish 💀",
+    "msgClasses": "chat_message "
   }
 ]
