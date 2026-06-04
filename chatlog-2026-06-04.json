@@ -7658,5 +7658,25 @@
     "userClasses": "username user ",
     "message": "Tf",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948843",
+    "type": "public",
+    "date": "4/06 3:25",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "Yo",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948844",
+    "type": "public",
+    "date": "4/06 3:25",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "What's craziest you got on her nerves as soon as you logged in",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
