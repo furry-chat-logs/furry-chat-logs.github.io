@@ -12044,5 +12044,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Spectre_protogen did u pass?",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7949283",
+    "type": "public",
+    "date": "4/06 9:01",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "QueenKit I'll hop on Gundam to grab it in a bit.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949284",
+    "type": "public",
+    "date": "4/06 9:01",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "channel666_mondo not sure yet.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
