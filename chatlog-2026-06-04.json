@@ -9608,5 +9608,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Welp",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949038",
+    "type": "public",
+    "date": "4/06 5:01",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "I haven't ate in like 17 hours lol",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
