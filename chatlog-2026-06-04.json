@@ -5378,5 +5378,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "bro",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948615",
+    "type": "public",
+    "date": "4/06 1:44",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "That's cold",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
