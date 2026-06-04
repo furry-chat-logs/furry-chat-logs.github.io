@@ -24380,5 +24380,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "GlamRockHeart I don't think people lie about a vip membership bought with digital coins.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950521",
+    "type": "public",
+    "date": "4/06 16:54",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_8eeb91caa9e3.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
