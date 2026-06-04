@@ -17862,5 +17862,15 @@
     "userClasses": "username bcolor27 ",
     "message": "HELLO!!!",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7949865",
+    "type": "public",
+    "date": "4/06 13:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Nyx mentioned",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
