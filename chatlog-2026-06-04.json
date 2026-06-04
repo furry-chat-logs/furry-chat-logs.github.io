@@ -24740,5 +24740,35 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Porphyrophobia No. A report counts.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950558",
+    "type": "public",
+    "date": "4/06 16:58",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "All I saw was him say the age of consent in every place isn't 18",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950559",
+    "type": "public",
+    "date": "4/06 16:58",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "each to their own, I guess",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7950560",
+    "type": "public",
+    "date": "4/06 16:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Frogmin Ahh, alright.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
