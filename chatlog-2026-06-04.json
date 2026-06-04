@@ -338,5 +338,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hehe ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948110",
+    "type": "public",
+    "date": "4/06 0:09",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmejRwenFmcGN1eDUwN3RyNHA3MnlyMjBvdmU3d3V3aGc4MHlwcXF0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wMBC9eaSlNYqFwclMD/giphy.gif]",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
   }
 ]
