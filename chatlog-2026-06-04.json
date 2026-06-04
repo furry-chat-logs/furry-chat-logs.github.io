@@ -5668,5 +5668,15 @@
     "userClasses": "username user ",
     "message": "Ashton McKennan I used to live in siberia 🥹",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948644",
+    "type": "public",
+    "date": "4/06 1:49",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Bro you're in the Netherlands right?",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
