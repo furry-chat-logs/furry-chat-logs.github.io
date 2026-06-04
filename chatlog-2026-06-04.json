@@ -728,5 +728,25 @@
     "userClasses": "username bneon3 bnfont14",
     "message": "Hey guys, I really wanna take a bite out of someone",
     "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948149",
+    "type": "public",
+    "date": "4/06 0:18",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "I'm getting kinda hungry",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948150",
+    "type": "public",
+    "date": "4/06 0:18",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "That kush must be pretty good for him to be saying this",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
