@@ -25468,5 +25468,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Floated away",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950632",
+    "type": "public",
+    "date": "4/06 17:11",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Flushed away?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950633",
+    "type": "public",
+    "date": "4/06 17:11",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_4fb0f9148a1a.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
