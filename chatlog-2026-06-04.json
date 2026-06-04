@@ -16194,5 +16194,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Taps chin",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949698",
+    "type": "public",
+    "date": "4/06 11:57",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "No.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7949699",
+    "type": "public",
+    "date": "4/06 11:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Why would I imply something like that",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
