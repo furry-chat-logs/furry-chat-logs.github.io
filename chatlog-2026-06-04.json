@@ -20310,5 +20310,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_096a2c5169ba.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950111",
+    "type": "public",
+    "date": "4/06 15:49",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_ba973338b395.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
