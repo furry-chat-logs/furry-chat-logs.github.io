@@ -27148,5 +27148,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Rune doesn't enjoy the neon green idea",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950800",
+    "type": "public",
+    "date": "4/06 17:49",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I am munchin on French toast",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950801",
+    "type": "public",
+    "date": "4/06 17:49",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2l1c2I2b2FhYXF3YmV1N3hkd2x5ejR4aTNiMmkwcGdjZG5oMmxoMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k7Ip1BaxWwmLQZJ7Gk/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
