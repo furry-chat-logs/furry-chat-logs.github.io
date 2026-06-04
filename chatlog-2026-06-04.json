@@ -4338,5 +4338,45 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Oop",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948511",
+    "type": "public",
+    "date": "4/06 1:17",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Why you always hate me huh?!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948512",
+    "type": "public",
+    "date": "4/06 1:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Then you'd love the barrel of a pistol down your throat",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948513",
+    "type": "public",
+    "date": "4/06 1:17",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODk3bTZlMHloemp3Y3Z3emxlN2k5dXp1ZHNzdnVkc3NuYXBwcGx1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qy0EzVcQ3aaf8n6VWG/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948514",
+    "type": "public",
+    "date": "4/06 1:17",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "15",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
