@@ -19876,5 +19876,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Bunnynut Churro public execution",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947417",
+    "type": "public",
+    "date": "3/06 19:18",
+    "username": "Bunnynut Churro",
+    "userId": "37501",
+    "userClasses": "username bcolor27 bnfont15",
+    "message": "Sonic the hedgehog is that allowed here?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947418",
+    "type": "public",
+    "date": "3/06 19:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Spoke don't even TOUCH my fries.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
