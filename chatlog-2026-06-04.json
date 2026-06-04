@@ -24590,5 +24590,35 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Spectre_protogen Hopefully not.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950543",
+    "type": "public",
+    "date": "4/06 16:56",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I'm not gonna argue",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950544",
+    "type": "public",
+    "date": "4/06 16:56",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "People always say this shit to me. They never report the fucking thing.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950545",
+    "type": "public",
+    "date": "4/06 16:56",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Frogmin yeah...hopefully not",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
