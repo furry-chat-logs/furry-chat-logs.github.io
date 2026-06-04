@@ -2158,5 +2158,25 @@
     "userClasses": "username bneon27 bnfont6",
     "message": "Sonic The Hedgehog lowkey i think ur ip is showing",
     "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7948293",
+    "type": "public",
+    "date": "4/06 0:33",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Vpns",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948294",
+    "type": "public",
+    "date": "4/06 0:33",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2V1dTRkdmNuNzl5dzl0YzdpNWNpNTEyMXZnc3Q1cnpkZTU1cHd4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pTAwoGGRmPetOw1oDy/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
