@@ -28706,5 +28706,25 @@
     "userClasses": "username bgrad31 bnfont3",
     "message": "Spectre_protogen what a fucking dumbass",
     "msgClasses": "chat_message bgrad31 bold bfont3"
+  },
+  {
+    "id": "7950957",
+    "type": "public",
+    "date": "4/06 18:32",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWEweWExbzQ0aWtsajh6dXg4aTM1am54bXFzaG42cnkxMmkxdG9leiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/icv6M1gP90k4mtGT6G/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950958",
+    "type": "public",
+    "date": "4/06 18:32",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "ChildStewFrFr rude.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
