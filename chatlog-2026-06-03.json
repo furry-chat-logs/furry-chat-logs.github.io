@@ -19276,5 +19276,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Updating to iOS 16",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947356",
+    "type": "public",
+    "date": "3/06 19:07",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "New Kid i hope the battery explodes",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
