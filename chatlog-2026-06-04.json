@@ -11408,5 +11408,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "ouch",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949218",
+    "type": "public",
+    "date": "4/06 5:41",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "It was worth it though",
+    "msgClasses": "chat_message "
   }
 ]
