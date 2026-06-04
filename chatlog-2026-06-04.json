@@ -6048,5 +6048,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Mexico?",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948682",
+    "type": "public",
+    "date": "4/06 1:55",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Ashton McKennan yis.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948683",
+    "type": "public",
+    "date": "4/06 1:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bruh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
