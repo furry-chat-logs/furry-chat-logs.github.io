@@ -17104,5 +17104,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "IM NOT GOING TO SCHOOL TMR EITHER",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7949789",
+    "type": "public",
+    "date": "4/06 12:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "ZephTheFloofBoi why?",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949790",
+    "type": "public",
+    "date": "4/06 12:22",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
