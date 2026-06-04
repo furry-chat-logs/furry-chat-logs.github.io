@@ -24366,5 +24366,15 @@
     "userClasses": "username bneon3 bnfont14",
     "message": "Can you tell me? What type of ice cream is",
     "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7947887",
+    "type": "public",
+    "date": "3/06 22:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Strawberry shortcake :9",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
