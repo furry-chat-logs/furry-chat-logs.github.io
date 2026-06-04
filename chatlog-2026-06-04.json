@@ -26268,5 +26268,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Nice my mom does speak spanish too",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950712",
+    "type": "public",
+    "date": "4/06 17:26",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODBieWU1d3JoaG1weWVocW55bnhoeXVwMHBlbnI3cHNha253MzF6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sHNCX4Q47hEZZkmLra/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
