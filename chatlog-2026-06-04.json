@@ -19300,5 +19300,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Drinking Monster is crazy",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950009",
+    "type": "public",
+    "date": "4/06 15:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "A messy ass clown. 😭✌🏽",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950010",
+    "type": "public",
+    "date": "4/06 15:28",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Well I didn't ask for your fucking opinion did I?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950011",
+    "type": "public",
+    "date": "4/06 15:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_7b2c4f24ed72.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
