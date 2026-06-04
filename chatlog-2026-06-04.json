@@ -1528,5 +1528,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I wish there was a way for a blocked user not to get into your secret shares",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948230",
+    "type": "public",
+    "date": "4/06 0:25",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I love Nicholas Cage",
+    "msgClasses": "chat_message "
   }
 ]
