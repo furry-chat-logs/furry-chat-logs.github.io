@@ -17004,5 +17004,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Heading to work",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7949779",
+    "type": "public",
+    "date": "4/06 12:18",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "KingCorgz bye 👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
