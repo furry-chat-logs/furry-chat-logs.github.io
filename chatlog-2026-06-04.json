@@ -24140,5 +24140,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_caa71e7767b6.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950497",
+    "type": "public",
+    "date": "4/06 16:49",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_28289e7a34da.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950498",
+    "type": "public",
+    "date": "4/06 16:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Time to prank some neighbours",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
