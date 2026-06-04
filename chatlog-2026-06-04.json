@@ -28218,5 +28218,15 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "SBB of what",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7950907",
+    "type": "public",
+    "date": "4/06 18:16",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Watur",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
