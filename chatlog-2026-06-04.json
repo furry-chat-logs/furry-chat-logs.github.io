@@ -20330,5 +20330,15 @@
     "userClasses": "username bcolor8 ",
     "message": "[link: https://voca.ro/1lcJuZHsh3ot]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950113",
+    "type": "public",
+    "date": "4/06 15:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hey so now I'm scared",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
