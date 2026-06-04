@@ -17742,5 +17742,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": ">.>",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949853",
+    "type": "public",
+    "date": "4/06 12:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "The tweedle tribe is growing populatity per second.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
