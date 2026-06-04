@@ -22766,5 +22766,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "This is the CT-5 V Blackwing. LISTEN TO THAT ENGINE",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7947726",
+    "type": "public",
+    "date": "3/06 22:02",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "EagleEdge :3",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
