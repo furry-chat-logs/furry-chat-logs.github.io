@@ -11418,5 +11418,15 @@
     "userClasses": "username bgrad12 bnfont6",
     "message": "It was worth it though",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949220",
+    "type": "public",
+    "date": "4/06 5:42",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Aye, is that right",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
