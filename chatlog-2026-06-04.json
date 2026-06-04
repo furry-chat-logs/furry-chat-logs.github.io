@@ -29516,5 +29516,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "MY EARS",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951038",
+    "type": "public",
+    "date": "4/06 18:57",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "THAT'S MY CLOSET DOOR",
+    "msgClasses": "chat_message "
   }
 ]
