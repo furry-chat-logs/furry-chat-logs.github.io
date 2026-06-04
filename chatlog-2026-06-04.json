@@ -4448,5 +4448,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I warned you.",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948522",
+    "type": "public",
+    "date": "4/06 1:18",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM3JmMHN5Z2pudjYxdm1keHlxdHZ6M2cyNjc3eGk1a2dydmRnZWRtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wiLyVdm6FzGFyFbZft/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
