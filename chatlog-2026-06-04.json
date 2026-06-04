@@ -16064,5 +16064,15 @@
     "userClasses": "username user ",
     "message": "Hallo everyone, what's going on?XD",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949685",
+    "type": "public",
+    "date": "4/06 11:53",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "The internet has told me many things. This statement can mean many things. None of them are good.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
