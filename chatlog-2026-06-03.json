@@ -20896,5 +20896,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_3b426c4cf59c.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947530",
+    "type": "public",
+    "date": "3/06 19:59",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_755270536d31.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
