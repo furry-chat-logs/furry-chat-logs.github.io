@@ -26408,5 +26408,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_0b35ac599619.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950726",
+    "type": "public",
+    "date": "4/06 17:28",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "Ch3rry_Drop hi",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7950727",
+    "type": "public",
+    "date": "4/06 17:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I thought smth was on my balcony",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
