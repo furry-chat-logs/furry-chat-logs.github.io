@@ -26908,5 +26908,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19750_ec496eeef016.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950776",
+    "type": "public",
+    "date": "4/06 17:44",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Peakapple.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950777",
+    "type": "public",
+    "date": "4/06 17:44",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Rune",
+    "msgClasses": "chat_message bneon9"
   }
 ]
