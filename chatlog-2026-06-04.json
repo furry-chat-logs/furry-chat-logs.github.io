@@ -7498,5 +7498,15 @@
     "userClasses": "username user ",
     "message": "Sure buddy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948827",
+    "type": "public",
+    "date": "4/06 3:18",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh nyo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
