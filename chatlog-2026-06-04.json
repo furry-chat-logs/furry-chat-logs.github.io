@@ -5098,5 +5098,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Wtfissachip why can't u?",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948587",
+    "type": "public",
+    "date": "4/06 1:32",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "channel666_mondo I don't have any at the moment",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948588",
+    "type": "public",
+    "date": "4/06 1:32",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "If I die I die",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
