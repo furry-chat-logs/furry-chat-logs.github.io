@@ -5598,5 +5598,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Bullshit!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948637",
+    "type": "public",
+    "date": "4/06 1:48",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "I just got like a dm notification and the thing went up a red dot. Then it immediately disappeared",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948638",
+    "type": "public",
+    "date": "4/06 1:48",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Washington state!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
