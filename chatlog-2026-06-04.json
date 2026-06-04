@@ -17932,5 +17932,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "There is always a reason why u got Kicked or Banned",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949872",
+    "type": "public",
+    "date": "4/06 13:19",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "It told me for sharing personal information",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949873",
+    "type": "public",
+    "date": "4/06 13:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I deadass could've done that a long time ago",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
