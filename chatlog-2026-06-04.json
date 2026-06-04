@@ -4708,5 +4708,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Omg so many people active",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7948548",
+    "type": "public",
+    "date": "4/06 1:22",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "NotAWarlock salutations",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
