@@ -3008,5 +3008,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Tippy-toed offline",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948378",
+    "type": "public",
+    "date": "4/06 0:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Proceeds to sleep",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948379",
+    "type": "public",
+    "date": "4/06 0:49",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbjF4ODNrM2kwNXR4NWs1dDBjdzIzM3M2Zmx1a2pkdnhvajFramIyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3AXR39JDs2Dq7M3i1Q/giphy.gif]",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
   }
 ]
