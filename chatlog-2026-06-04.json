@@ -10008,5 +10008,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Cant open it bc things are standing on it",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949078",
+    "type": "public",
+    "date": "4/06 5:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Too bad I don't live in germany",
+    "msgClasses": "chat_message bneon14"
   }
 ]
