@@ -18590,5 +18590,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "wat",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7949938",
+    "type": "public",
+    "date": "4/06 15:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
