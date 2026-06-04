@@ -24890,5 +24890,45 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Why cant i type anything",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950573",
+    "type": "public",
+    "date": "4/06 17:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Now it works",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950574",
+    "type": "public",
+    "date": "4/06 17:00",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Explodes",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950575",
+    "type": "public",
+    "date": "4/06 17:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "😭✌🏽 I remember at some point the guy sent his birth certificate",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950576",
+    "type": "public",
+    "date": "4/06 17:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "God damit",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
