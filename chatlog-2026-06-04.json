@@ -12444,5 +12444,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "channel666_mondo how've you been?",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949323",
+    "type": "public",
+    "date": "4/06 9:16",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_9d9a0c526901.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
