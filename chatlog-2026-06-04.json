@@ -20560,5 +20560,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_6a499c7ca6dd.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950136",
+    "type": "public",
+    "date": "4/06 15:57",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[link: https://voca.ro/1imKIC0W1n21]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950137",
+    "type": "public",
+    "date": "4/06 15:57",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB bro",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
