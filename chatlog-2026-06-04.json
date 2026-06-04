@@ -7958,5 +7958,25 @@
     "userClasses": "username user ",
     "message": "Yes sir",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948873",
+    "type": "public",
+    "date": "4/06 3:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ur fem- act female",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948874",
+    "type": "public",
+    "date": "4/06 3:29",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bo is a male",
+    "msgClasses": "chat_message bneon14"
   }
 ]
