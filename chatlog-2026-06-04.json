@@ -8688,5 +8688,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "This chat group",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7948946",
+    "type": "public",
+    "date": "4/06 4:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Feels weirder and weirder every day",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
