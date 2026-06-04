@@ -3028,5 +3028,25 @@
     "userClasses": "username bgrad2 bnfont15",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbjF4ODNrM2kwNXR4NWs1dDBjdzIzM3M2Zmx1a2pkdnhvajFramIyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3AXR39JDs2Dq7M3i1Q/giphy.gif]",
     "msgClasses": "chat_message bneon10 heavyital bfont13"
+  },
+  {
+    "id": "7948380",
+    "type": "public",
+    "date": "4/06 0:49",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbG5oOGdiZGIwZHprYTlnaDZtYzBxdDlibTRlZGRibXliaWFuZWdmdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1fUpRxGqSJBCdvbIsR/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948381",
+    "type": "public",
+    "date": "4/06 0:49",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Don't worry  ill PM Lynxx",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
