@@ -1448,5 +1448,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Porphyrophobia I was just kidding",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948222",
+    "type": "public",
+    "date": "4/06 0:23",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I just say cuss words",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948223",
+    "type": "public",
+    "date": "4/06 0:23",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "ARE YOU THREATENING ME",
+    "msgClasses": "chat_message "
   }
 ]
