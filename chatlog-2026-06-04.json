@@ -15964,5 +15964,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Doesn't seem very refined.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7949675",
+    "type": "public",
+    "date": "4/06 11:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[cry] SOB.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
