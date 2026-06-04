@@ -26958,5 +26958,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Ch3rry_Drop Hm?",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950781",
+    "type": "public",
+    "date": "4/06 17:44",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Er-",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950782",
+    "type": "public",
+    "date": "4/06 17:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Well i made a drumkit wich says i like gumby",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
