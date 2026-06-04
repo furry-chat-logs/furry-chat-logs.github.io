@@ -24670,5 +24670,25 @@
     "userClasses": "username bgrad39 ",
     "message": "I just picked fun at the dudes laugh",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950551",
+    "type": "public",
+    "date": "4/06 16:57",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_3646f8d17e86.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950552",
+    "type": "public",
+    "date": "4/06 16:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Does a screenshot count,,",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
