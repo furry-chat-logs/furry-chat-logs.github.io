@@ -23950,5 +23950,25 @@
     "userClasses": "username bcolor8 ",
     "message": "[link: https://voca.ro/1fdKkmDqd3kk]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950478",
+    "type": "public",
+    "date": "4/06 16:47",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Gumby_iguana ✨Nobody cares✨",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950479",
+    "type": "public",
+    "date": "4/06 16:47",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_98fa70e42958.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
