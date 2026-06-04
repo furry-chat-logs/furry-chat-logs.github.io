@@ -20940,5 +20940,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "\"Taking about it\"",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7950174",
+    "type": "public",
+    "date": "4/06 16:03",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Don't say that when you did it",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950175",
+    "type": "public",
+    "date": "4/06 16:03",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Talk about something else like, gemstones",
+    "msgClasses": "chat_message "
   }
 ]
