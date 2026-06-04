@@ -21106,5 +21106,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_bf8a5a43fd12.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947555",
+    "type": "public",
+    "date": "3/06 20:21",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHZvZXNjbDdraXA4aXl0cDlvbWJzdml2bWw1ZGlmMWt2cHpkbWhhMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tctmydB4dhuI7eGSIu/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7947556",
+    "type": "public",
+    "date": "3/06 20:21",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Just to install games",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947557",
+    "type": "public",
+    "date": "3/06 20:21",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Sonic The Hedgehog this is tuff",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
