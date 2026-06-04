@@ -26096,5 +26096,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948061",
+    "type": "public",
+    "date": "3/06 23:46",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Tonight's 9 hour shift kicked my butt",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
