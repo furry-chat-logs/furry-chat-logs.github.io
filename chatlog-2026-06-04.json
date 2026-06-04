@@ -25688,5 +25688,35 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19750_5b231aefa53c.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950654",
+    "type": "public",
+    "date": "4/06 17:15",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "SBB I suggest hold down the door. it's best option either way",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7950655",
+    "type": "public",
+    "date": "4/06 17:15",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_079289544286.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950656",
+    "type": "public",
+    "date": "4/06 17:15",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_563522d2778f.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
