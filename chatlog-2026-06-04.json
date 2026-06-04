@@ -16854,5 +16854,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Jesterandsugar you can also change your name color and font",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949764",
+    "type": "public",
+    "date": "4/06 12:12",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "And your text color and font",
+    "msgClasses": "chat_message "
   }
 ]
