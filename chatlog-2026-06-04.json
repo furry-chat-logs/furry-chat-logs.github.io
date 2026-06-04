@@ -16374,5 +16374,15 @@
     "userClasses": "username user ",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949716",
+    "type": "public",
+    "date": "4/06 12:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Type something ...",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
