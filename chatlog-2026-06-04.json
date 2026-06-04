@@ -21630,5 +21630,15 @@
     "userClasses": "username bcolor8 ",
     "message": "Cat",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950245",
+    "type": "public",
+    "date": "4/06 16:13",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_55bb201ba965.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
