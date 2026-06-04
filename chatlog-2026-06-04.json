@@ -658,5 +658,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'll take the kick if it means nobody falls for your shit",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948142",
+    "type": "public",
+    "date": "4/06 0:16",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "The fuck we talking about that for",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948143",
+    "type": "public",
+    "date": "4/06 0:16",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "I'll stop it ok",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948144",
+    "type": "public",
+    "date": "4/06 0:16",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_857b48fad269.png]",
+    "msgClasses": "chat_message "
   }
 ]
