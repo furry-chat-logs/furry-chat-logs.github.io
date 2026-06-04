@@ -17164,5 +17164,15 @@
     "userClasses": "username bneon24 ",
     "message": "My school has been out for awhile now",
     "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7949795",
+    "type": "public",
+    "date": "4/06 12:25",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "My last day of school was supposed to be June 5th,but its June 3rd instead since im not going today or tmr",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
