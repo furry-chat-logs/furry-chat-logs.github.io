@@ -6168,5 +6168,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_e3fa2ffd51f6.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948694",
+    "type": "public",
+    "date": "4/06 1:57",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Probably because the translator thinks you're trying to say Gayland in English so it autocorrected it for you",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
