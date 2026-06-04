@@ -248,5 +248,25 @@
     "userClasses": "username bneon3 bnfont14",
     "message": "Thundercloudgaming03 thank you guys",
     "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948101",
+    "type": "public",
+    "date": "4/06 0:07",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZmRnZG8xeDE4dTZtOGZ6MGViaGZlcnkyMGNqZXM0dzc4enVxMDAwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1JmGiBtqTuehfYxuy9/giphy.gif]",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948102",
+    "type": "public",
+    "date": "4/06 0:07",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Wolf ecilpse hello new creature",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
