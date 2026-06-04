@@ -6338,5 +6338,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Dora",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7948711",
+    "type": "public",
+    "date": "4/06 2:01",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Every single dora ever :P",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948712",
+    "type": "public",
+    "date": "4/06 2:01",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "The explorer",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
