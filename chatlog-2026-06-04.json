@@ -5938,5 +5938,25 @@
     "userClasses": "username user ",
     "message": "GlamRockHeart is it a city or an amusement park",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948671",
+    "type": "public",
+    "date": "4/06 1:54",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "city",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948672",
+    "type": "public",
+    "date": "4/06 1:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Iwanna go on vacation there for pride month",
+    "msgClasses": "chat_message bneon14"
   }
 ]
