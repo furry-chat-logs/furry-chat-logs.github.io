@@ -25666,5 +25666,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I love pineapples but I'm a bit allergic </3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948017",
+    "type": "public",
+    "date": "3/06 23:23",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Smiley they also, yk",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
