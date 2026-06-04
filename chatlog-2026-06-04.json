@@ -5408,5 +5408,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Why do knee braces have hurt...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948618",
+    "type": "public",
+    "date": "4/06 1:44",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "At least over here it's cold when it's at the 90s",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948619",
+    "type": "public",
+    "date": "4/06 1:45",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Sol_Aizawa why funny bone when not funny",
+    "msgClasses": "chat_message "
   }
 ]
