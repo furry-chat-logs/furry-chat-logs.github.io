@@ -8168,5 +8168,15 @@
     "userClasses": "username user ",
     "message": "FIRST PERSON TO TEXT IS GAY!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948894",
+    "type": "public",
+    "date": "4/06 3:34",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Yes",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
