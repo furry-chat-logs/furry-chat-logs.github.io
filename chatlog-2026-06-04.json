@@ -22670,5 +22670,25 @@
     "userClasses": "username bgrad39 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_5262561b2890.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950349",
+    "type": "public",
+    "date": "4/06 16:30",
+    "username": "phthiafig",
+    "userId": "37522",
+    "userClasses": "username bcolor32 bnfont15",
+    "message": "oh no",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950350",
+    "type": "public",
+    "date": "4/06 16:30",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "What did I join back to.",
+    "msgClasses": "chat_message "
   }
 ]
