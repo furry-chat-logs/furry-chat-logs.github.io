@@ -11954,5 +11954,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "it's the frog man",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7949274",
+    "type": "public",
+    "date": "4/06 8:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Heyo frogmin",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949275",
+    "type": "public",
+    "date": "4/06 8:59",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Just finished a french reading exam. :P",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
