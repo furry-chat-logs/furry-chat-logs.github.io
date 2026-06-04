@@ -4188,5 +4188,15 @@
     "userClasses": "username user ",
     "message": "Lol*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948496",
+    "type": "public",
+    "date": "4/06 1:15",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It's a tactic",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
