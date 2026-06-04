@@ -11546,5 +11546,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Frogmin why can't we see what he did",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949233",
+    "type": "public",
+    "date": "4/06 7:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "The masege just disappeared",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
