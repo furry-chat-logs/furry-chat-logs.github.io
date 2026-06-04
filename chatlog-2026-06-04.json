@@ -24160,5 +24160,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Time to prank some neighbours",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950499",
+    "type": "public",
+    "date": "4/06 16:50",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_01b3aa918394.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
