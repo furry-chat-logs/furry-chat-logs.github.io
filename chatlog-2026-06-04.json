@@ -12174,5 +12174,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Oh, btw Frogmin. For some reason the chatroom's server stopped responding when I tried refreshing the page. Browser said the furrychat server failed to connect.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949296",
+    "type": "public",
+    "date": "4/06 9:10",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "thought I'd let you know.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
