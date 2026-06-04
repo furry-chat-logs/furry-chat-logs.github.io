@@ -6298,5 +6298,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "😭",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948707",
+    "type": "public",
+    "date": "4/06 2:00",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_e8202f0bc338.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
