@@ -23416,5 +23416,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Wtfissachip am I being wached?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947792",
+    "type": "public",
+    "date": "3/06 22:30",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdzZiZnh1NzN0MTZuZXhucnY5a3M5Ymt0MGxlcmxzbWk2bnEwbTVtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9khlybEoY9w29Bsqw4/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
