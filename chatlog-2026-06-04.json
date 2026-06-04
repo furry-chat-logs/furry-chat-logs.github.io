@@ -27338,5 +27338,25 @@
     "userClasses": "username bgrad39 ",
     "message": "This stupid French toast isn't working",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950819",
+    "type": "public",
+    "date": "4/06 17:55",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Is that even a fucking unicycle 😭",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950820",
+    "type": "public",
+    "date": "4/06 17:55",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_37f8c8617f0e.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
