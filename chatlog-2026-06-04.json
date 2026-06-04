@@ -17334,5 +17334,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "but idc",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7949812",
+    "type": "public",
+    "date": "4/06 12:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No I just ignore everyone",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
