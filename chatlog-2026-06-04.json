@@ -19270,5 +19270,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB ewww",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7950006",
+    "type": "public",
+    "date": "4/06 15:27",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "And he bought me my least favorite flavor.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
