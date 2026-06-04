@@ -23380,5 +23380,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_202682e1020e.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950420",
+    "type": "public",
+    "date": "4/06 16:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_587128b0df08.png]",
+    "msgClasses": "chat_message "
   }
 ]
