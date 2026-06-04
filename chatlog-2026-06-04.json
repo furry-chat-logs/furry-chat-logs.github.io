@@ -6918,5 +6918,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "GlamRockHeart thats so rigth HAHAHHA",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7948769",
+    "type": "public",
+    "date": "4/06 2:21",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Sol_Aizawa okay, i'm gonna try to do it tomorrow",
+    "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7948770",
+    "type": "public",
+    "date": "4/06 2:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "K",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
