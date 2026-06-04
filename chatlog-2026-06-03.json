@@ -19606,5 +19606,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Am I so nice guys.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947389",
+    "type": "public",
+    "date": "3/06 19:11",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "once again i got clocked by rune",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947390",
+    "type": "public",
+    "date": "3/06 19:11",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "[verysad]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
