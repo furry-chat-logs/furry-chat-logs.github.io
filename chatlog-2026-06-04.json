@@ -4928,5 +4928,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "GlamRockHeart 2:26am",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948570",
+    "type": "public",
+    "date": "4/06 1:26",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "2:26 at night",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
