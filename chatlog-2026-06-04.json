@@ -4398,5 +4398,35 @@
     "userClasses": "username user ",
     "message": "Please give it chance",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948517",
+    "type": "public",
+    "date": "4/06 1:18",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNHNmZGRrazFpaHU2YTBqN3IwNDdiMWxnZmMwaXg5MGplejMzeHpyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qSgZ9emjUxI8CQo1nr/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948518",
+    "type": "public",
+    "date": "4/06 1:18",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "5",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948519",
+    "type": "public",
+    "date": "4/06 1:18",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Glamrocklover",
+    "msgClasses": "chat_message "
   }
 ]
