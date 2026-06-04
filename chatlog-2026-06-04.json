@@ -8908,5 +8908,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "You have to do the apple cider vinegar everyday",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948968",
+    "type": "public",
+    "date": "4/06 4:52",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I especially do it myself",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948969",
+    "type": "public",
+    "date": "4/06 4:52",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Oh god",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
