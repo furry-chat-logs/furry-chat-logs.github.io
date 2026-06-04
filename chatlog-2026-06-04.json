@@ -17204,5 +17204,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Okay",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949799",
+    "type": "public",
+    "date": "4/06 12:26",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "It's raining here 🌧️",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
