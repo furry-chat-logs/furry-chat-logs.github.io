@@ -3798,5 +3798,15 @@
     "userClasses": "username user ",
     "message": "Thank you I feel vindicated",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948457",
+    "type": "public",
+    "date": "4/06 1:11",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": ":3",
+    "msgClasses": "chat_message "
   }
 ]
