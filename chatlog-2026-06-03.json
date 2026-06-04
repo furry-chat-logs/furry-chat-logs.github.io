@@ -22946,5 +22946,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_e4625fe1da69.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947745",
+    "type": "public",
+    "date": "3/06 22:12",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMGl5ZDF0OGtmcmd4bTVrZXdoMDZvbnJkODV0NnhkdHpkc3E0bWJjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wVUN5WgzSevnwIHJBf/giphy.gif]",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
+  },
+  {
+    "id": "7947746",
+    "type": "public",
+    "date": "3/06 22:12",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hmmmmm🤔",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
