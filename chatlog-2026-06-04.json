@@ -7728,5 +7728,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And NeonGreen101",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948850",
+    "type": "public",
+    "date": "4/06 3:26",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Not her either",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948851",
+    "type": "public",
+    "date": "4/06 3:26",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "Mhm",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
+  },
+  {
+    "id": "7948852",
+    "type": "public",
+    "date": "4/06 3:26",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "Well I'm a femboy so does that count",
+    "msgClasses": "chat_message "
   }
 ]
