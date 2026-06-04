@@ -17892,5 +17892,15 @@
     "userClasses": "username bcolor14 bnfont8",
     "message": "Hi yall, been a while",
     "msgClasses": "chat_message bneon19 heavybold bfont7"
+  },
+  {
+    "id": "7949868",
+    "type": "public",
+    "date": "4/06 13:18",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "How did I get band?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
