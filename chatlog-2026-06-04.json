@@ -14894,5 +14894,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_5acd3fcc0665.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949568",
+    "type": "public",
+    "date": "4/06 10:47",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Gremlin",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
