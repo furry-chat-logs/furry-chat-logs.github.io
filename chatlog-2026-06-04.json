@@ -16474,5 +16474,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Im collecting coins to get the new girl vip",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949726",
+    "type": "public",
+    "date": "4/06 12:05",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sharkish girl vip",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
