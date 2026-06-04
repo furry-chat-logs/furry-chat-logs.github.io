@@ -11158,5 +11158,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Your pops caught you smoking and he says no way!!!!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949193",
+    "type": "public",
+    "date": "4/06 5:30",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "That hypocrite smokes 2 packs a day!!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
