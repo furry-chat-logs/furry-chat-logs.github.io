@@ -28468,5 +28468,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19750_496f7616b3b2.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950933",
+    "type": "public",
+    "date": "4/06 18:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "he didnt even say anything",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950934",
+    "type": "public",
+    "date": "4/06 18:28",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Runefaust fair",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
