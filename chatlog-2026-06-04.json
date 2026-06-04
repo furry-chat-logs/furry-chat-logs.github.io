@@ -6688,5 +6688,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "and epp",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7948746",
+    "type": "public",
+    "date": "4/06 2:16",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "What is a baja blast?",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
