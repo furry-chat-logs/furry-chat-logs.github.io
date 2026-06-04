@@ -27038,5 +27038,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "My new room is going to come out so peak 💜",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950789",
+    "type": "public",
+    "date": "4/06 17:47",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Why would ive known that",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950790",
+    "type": "public",
+    "date": "4/06 17:47",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Everything will be purple",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
