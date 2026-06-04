@@ -18362,5 +18362,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_398d172aecb2.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949915",
+    "type": "public",
+    "date": "4/06 14:28",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "This is on a factory reset phone btw",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
