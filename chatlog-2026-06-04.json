@@ -4268,5 +4268,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Wtfissachip your twin now",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948504",
+    "type": "public",
+    "date": "4/06 1:16",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Haven't missed 1 yet",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948505",
+    "type": "public",
+    "date": "4/06 1:16",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "channel666_mondo I'm twinning",
+    "msgClasses": "chat_message "
   }
 ]
