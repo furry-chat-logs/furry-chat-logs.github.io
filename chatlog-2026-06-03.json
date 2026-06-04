@@ -21066,5 +21066,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Holy gem",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947551",
+    "type": "public",
+    "date": "3/06 20:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I need to redraw Peter Pan rune",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947552",
+    "type": "public",
+    "date": "3/06 20:19",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmenN2bm9uMjhxejkxYTJiZDlvMDQzdmNxb3J6dG9wYTAzazh2NmhtNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0TPFvIW8vgduA8juNL/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
