@@ -24520,5 +24520,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Ch3rry_Drop Report it. I am not here all or any of the time.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950536",
+    "type": "public",
+    "date": "4/06 16:56",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "GlamRockHeart",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950537",
+    "type": "public",
+    "date": "4/06 16:56",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "?",
+    "msgClasses": "chat_message bneon9"
   }
 ]
