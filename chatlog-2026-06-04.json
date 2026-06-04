@@ -13834,5 +13834,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hehehehh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949462",
+    "type": "public",
+    "date": "4/06 10:16",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I heard!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
