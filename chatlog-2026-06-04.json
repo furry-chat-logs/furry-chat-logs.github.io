@@ -13574,5 +13574,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Meep *hug*",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949436",
+    "type": "public",
+    "date": "4/06 10:05",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Spectre_protogen [Hugs back]",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
