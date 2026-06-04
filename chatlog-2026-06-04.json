@@ -1188,5 +1188,45 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "*********18",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948195",
+    "type": "public",
+    "date": "4/06 0:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Damnit",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948196",
+    "type": "public",
+    "date": "4/06 0:21",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "QueenKit yo",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7948197",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Medokin/Mdekoni is lowkey not beating the creepy allegations bc it keeps sexually harassing me on daily basis 🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948198",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'll js find the vid",
+    "msgClasses": "chat_message bneon19"
   }
 ]
