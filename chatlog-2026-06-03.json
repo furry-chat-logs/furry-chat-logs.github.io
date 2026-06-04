@@ -24726,5 +24726,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Thundercloudgaming03 the day is starting in half an hour",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947923",
+    "type": "public",
+    "date": "3/06 23:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] [moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
