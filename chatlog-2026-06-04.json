@@ -12664,5 +12664,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Porphyrophobia FRRRRRRRRR",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7949345",
+    "type": "public",
+    "date": "4/06 9:25",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Frogmin, quick question, my stepdad said he put an app on our router that shows him what devices are doing. Is that actually possible or is he bullshitting me? I thought I'd ask you because well, you created a website, so you know more than me.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
