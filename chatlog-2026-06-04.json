@@ -5208,5 +5208,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Sonic actually said that btw",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948598",
+    "type": "public",
+    "date": "4/06 1:34",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "My cat just garbled at me",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948599",
+    "type": "public",
+    "date": "4/06 1:35",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Play Sonic and the Black Knight and the line will appear",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
