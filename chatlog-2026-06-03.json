@@ -19046,5 +19046,15 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "oh ok.",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947333",
+    "type": "public",
+    "date": "3/06 19:03",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_bb5ee581092f.png]",
+    "msgClasses": "chat_message "
   }
 ]
