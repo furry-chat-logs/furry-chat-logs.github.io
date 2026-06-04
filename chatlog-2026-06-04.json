@@ -12244,5 +12244,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Mdekoni Ah",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949303",
+    "type": "public",
+    "date": "4/06 9:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I don't want to be the next Friedrich merz",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
