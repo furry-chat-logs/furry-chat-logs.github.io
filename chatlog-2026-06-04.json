@@ -2878,5 +2878,15 @@
     "userClasses": "username user ",
     "message": "Let out all that pent up anger",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948365",
+    "type": "public",
+    "date": "4/06 0:46",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdXh2YnV3NDk5dGp2YXc3YzRrM2VuZWt1bjgzNXoyYjBuZW5xZ2F0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7IWkhJvC3xquTt3ZQZ/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
