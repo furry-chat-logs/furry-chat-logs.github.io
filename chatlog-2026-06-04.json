@@ -5448,5 +5448,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "That's fucking hot where I'm at!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948622",
+    "type": "public",
+    "date": "4/06 1:45",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I live up here in Washington state",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
