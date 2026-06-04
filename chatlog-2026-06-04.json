@@ -26808,5 +26808,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_9e3a5cf8d56c.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950766",
+    "type": "public",
+    "date": "4/06 17:43",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I miss Mr brain cells",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950767",
+    "type": "public",
+    "date": "4/06 17:43",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "My-8",
+    "msgClasses": "chat_message bneon9"
   }
 ]
