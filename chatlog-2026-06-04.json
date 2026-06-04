@@ -14164,5 +14164,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "But I like this one",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949495",
+    "type": "public",
+    "date": "4/06 10:23",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan what's your vrchat name?",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949496",
+    "type": "public",
+    "date": "4/06 10:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yesterday I got a bit bullied for being miku and a furry tho",
+    "msgClasses": "chat_message bneon14"
   }
 ]
