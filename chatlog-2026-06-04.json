@@ -10188,5 +10188,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Nope",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949096",
+    "type": "public",
+    "date": "4/06 5:09",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Schwarzenegger",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
