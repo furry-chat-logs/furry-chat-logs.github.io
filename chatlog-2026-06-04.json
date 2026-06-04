@@ -4518,5 +4518,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmczRtYjRxNnR3M3A5eGY4YnFva25mcjd0MXE3dXYwNDk5cm9wamZsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TtrNPsVBXAcp7P0YKc/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948529",
+    "type": "public",
+    "date": "4/06 1:20",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I told you guys.",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
