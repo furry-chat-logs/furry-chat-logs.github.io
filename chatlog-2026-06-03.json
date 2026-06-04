@@ -24796,5 +24796,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Why is that?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947930",
+    "type": "public",
+    "date": "3/06 23:08",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_41dbef5b34d4.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
