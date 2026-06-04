@@ -378,5 +378,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Uh",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948114",
+    "type": "public",
+    "date": "4/06 0:10",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "I feel like I have stuttering problems, even in texting",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
   }
 ]
