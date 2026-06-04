@@ -19720,5 +19720,15 @@
     "userClasses": "username bneon18 ",
     "message": "Good grief.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950051",
+    "type": "public",
+    "date": "4/06 15:35",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "HELP",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
