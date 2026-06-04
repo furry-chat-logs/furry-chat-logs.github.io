@@ -6588,5 +6588,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Hunter77 this man just supplied 10 years of power",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948736",
+    "type": "public",
+    "date": "4/06 2:13",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "GlamRockHeart yo si",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
