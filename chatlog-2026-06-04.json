@@ -18512,5 +18512,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "New Kid don’t be ableist",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949930",
+    "type": "public",
+    "date": "4/06 14:41",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Smiley awww why",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
