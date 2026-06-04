@@ -24646,5 +24646,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Don't ask",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947915",
+    "type": "public",
+    "date": "3/06 23:03",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Just playing Tomodachi life living the dream.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947916",
+    "type": "public",
+    "date": "3/06 23:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Porphyrophobia...",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947917",
+    "type": "public",
+    "date": "3/06 23:03",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "Mdekoni gurl, why are you screaming?",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
   }
 ]
