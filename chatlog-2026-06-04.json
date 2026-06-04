@@ -12394,5 +12394,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Weird. Probably just something to do with their London sever.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949318",
+    "type": "public",
+    "date": "4/06 9:15",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "London server's been horrible recently. so you're probably right.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949319",
+    "type": "public",
+    "date": "4/06 9:15",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "SilverXD cloud flare is a CDN. If they have issues on their end for a second, could be bad for him. Sounds like it was literally only one second and only for London.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
