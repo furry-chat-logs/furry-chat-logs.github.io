@@ -26868,5 +26868,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "My drum sais this to you",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950772",
+    "type": "public",
+    "date": "4/06 17:43",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "There cant be more text than this sadly",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
