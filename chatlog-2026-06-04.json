@@ -2828,5 +2828,25 @@
     "userClasses": "username user ",
     "message": "*as",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948360",
+    "type": "public",
+    "date": "4/06 0:45",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "Uh..",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
+  },
+  {
+    "id": "7948361",
+    "type": "public",
+    "date": "4/06 0:45",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOW50bXRpeno0b2tybDhvcGswZnk5ZmFydDNxc2VhdTR0NTBrNWtubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2ur4gUCxxk2pIfm9rK/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
