@@ -23440,5 +23440,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Porphyrophobia | This.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950426",
+    "type": "public",
+    "date": "4/06 16:40",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Insidiae whatever I did to you",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950427",
+    "type": "public",
+    "date": "4/06 16:40",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Exist.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
