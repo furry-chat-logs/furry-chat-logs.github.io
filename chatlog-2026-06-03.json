@@ -23426,5 +23426,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdzZiZnh1NzN0MTZuZXhucnY5a3M5Ymt0MGxlcmxzbWk2bnEwbTVtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9khlybEoY9w29Bsqw4/giphy.gif]",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7947793",
+    "type": "public",
+    "date": "3/06 22:31",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Mdekoni who knows",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947794",
+    "type": "public",
+    "date": "3/06 22:31",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hunter77 spiderman?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
