@@ -1178,5 +1178,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "I am sorry ok",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948194",
+    "type": "public",
+    "date": "4/06 0:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "*********18",
+    "msgClasses": "chat_message bneon19"
   }
 ]
