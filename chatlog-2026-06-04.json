@@ -11686,5 +11686,13 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Okay",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949247",
+    "type": "system",
+    "date": "4/06 8:22",
+    "username": "System",
+    "userId": null,
+    "message": "Rennie has been kicked"
   }
 ]
