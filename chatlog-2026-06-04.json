@@ -6528,5 +6528,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Just stopping by to say hello, good evening everyone",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7948730",
+    "type": "public",
+    "date": "4/06 2:12",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "I sometimes question how some of these doras have has batteries in them for 20+ years and still work 💀",
+    "msgClasses": "chat_message "
   }
 ]
