@@ -13774,5 +13774,15 @@
     "userClasses": "username bcolor8 ",
     "message": "Me go now,  bye",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949456",
+    "type": "public",
+    "date": "4/06 10:14",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Gumby_iguana bye👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
