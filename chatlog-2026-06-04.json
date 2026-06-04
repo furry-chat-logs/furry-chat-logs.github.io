@@ -24930,5 +24930,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "God damit",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950577",
+    "type": "public",
+    "date": "4/06 17:00",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I have been kicked for dramamongering, banned because I was dumb enough to forget that my friend using my account called 'Jambalaya' would look like I was bypassing a kick. and a few other kicks before that for reasons I forgot",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7950578",
+    "type": "public",
+    "date": "4/06 17:00",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "alongside a few mutes",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
