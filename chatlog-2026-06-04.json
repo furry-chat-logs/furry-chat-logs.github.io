@@ -11914,5 +11914,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "TwT",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949270",
+    "type": "public",
+    "date": "4/06 8:58",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I hate time zones",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
