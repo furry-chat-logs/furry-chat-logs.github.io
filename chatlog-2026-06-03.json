@@ -22586,5 +22586,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Oh",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7947707",
+    "type": "public",
+    "date": "3/06 21:57",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "The newer Camaros are mid",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7947708",
+    "type": "public",
+    "date": "3/06 21:57",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "I'm dumb sorry",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
