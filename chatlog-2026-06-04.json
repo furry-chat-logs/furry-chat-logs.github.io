@@ -1718,5 +1718,45 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Lemon you would rather have Medic tie you up",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948249",
+    "type": "public",
+    "date": "4/06 0:27",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Oh sorry lem",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948250",
+    "type": "public",
+    "date": "4/06 0:27",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "Thats a good thing",
+    "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7948251",
+    "type": "public",
+    "date": "4/06 0:27",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Or BD-1",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948252",
+    "type": "public",
+    "date": "4/06 0:27",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user21748_1c6106e21de9.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
