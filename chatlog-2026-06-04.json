@@ -26428,5 +26428,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I thought smth was on my balcony",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950728",
+    "type": "public",
+    "date": "4/06 17:29",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "valid",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
