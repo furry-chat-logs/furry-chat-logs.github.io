@@ -15594,5 +15594,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Sol_Aizawa im finna jump you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949638",
+    "type": "public",
+    "date": "4/06 11:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "try it then *switches with solen*",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
