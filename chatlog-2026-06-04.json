@@ -5248,5 +5248,15 @@
     "userClasses": "username user ",
     "message": "If I eat two big macs but they have lettuce. I'm theoretically loosing weight",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948602",
+    "type": "public",
+    "date": "4/06 1:40",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcXd4czRkdjIwcmZ4NGc5b2FzcnFrbWpwMWd0MWpwZmI4eHFoaG5seSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UW3z9pbRilwifhBwmy/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
