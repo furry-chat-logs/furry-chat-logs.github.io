@@ -16864,5 +16864,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "And your text color and font",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949765",
+    "type": "public",
+    "date": "4/06 12:12",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username user ",
+    "message": "Ooh fun",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949766",
+    "type": "public",
+    "date": "4/06 12:12",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Jesterandsugar your writing too",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
