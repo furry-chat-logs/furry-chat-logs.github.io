@@ -21926,5 +21926,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Charlie Charlie kirky",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947639",
+    "type": "public",
+    "date": "3/06 21:32",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "i cast",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
