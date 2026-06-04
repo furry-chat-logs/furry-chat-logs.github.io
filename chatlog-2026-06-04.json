@@ -11884,5 +11884,15 @@
     "userClasses": "username bneon21 bnfont14",
     "message": "moog city moment",
     "msgClasses": "chat_message bneon30 bold bfont14"
+  },
+  {
+    "id": "7949267",
+    "type": "public",
+    "date": "4/06 8:57",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I did get a good headshot on you when you were rushing stairs",
+    "msgClasses": "chat_message bneon19"
   }
 ]
