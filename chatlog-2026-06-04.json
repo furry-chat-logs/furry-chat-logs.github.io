@@ -5818,5 +5818,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "The west coast!!!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948659",
+    "type": "public",
+    "date": "4/06 1:51",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "that's what dc stands for",
+    "msgClasses": "chat_message "
   }
 ]
