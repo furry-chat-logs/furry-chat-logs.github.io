@@ -23100,5 +23100,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Aiko needs to yap",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950392",
+    "type": "public",
+    "date": "4/06 16:35",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[link: https://voca.ro/1mMlasD5Qa7F]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950393",
+    "type": "public",
+    "date": "4/06 16:35",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "I want to but I've been asleep the whole day. Haven't had the energy to make meaningful conversation with anyone.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
