@@ -4598,5 +4598,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "This is frying me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948537",
+    "type": "public",
+    "date": "4/06 1:21",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Wtfissachip they shouldnt ban u they should just mute u bc u were doing a good thing",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948538",
+    "type": "public",
+    "date": "4/06 1:21",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Ah good",
+    "msgClasses": "chat_message "
   }
 ]
