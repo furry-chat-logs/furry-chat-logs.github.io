@@ -14514,5 +14514,15 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "I HAVE VR CHAT",
     "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7949530",
+    "type": "public",
+    "date": "4/06 10:33",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_0e8f182462d9.png]",
+    "msgClasses": "chat_message "
   }
 ]
