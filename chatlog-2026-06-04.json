@@ -25060,5 +25060,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "This website just gets full of g###ers what the hell",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950590",
+    "type": "public",
+    "date": "4/06 17:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "The grass is green",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950591",
+    "type": "public",
+    "date": "4/06 17:02",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "We need more towels",
+    "msgClasses": "chat_message bneon9"
   }
 ]
