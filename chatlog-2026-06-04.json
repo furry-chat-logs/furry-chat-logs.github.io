@@ -3078,5 +3078,15 @@
     "userClasses": "username user ",
     "message": "Wonderful",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948385",
+    "type": "public",
+    "date": "4/06 0:50",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Nice",
+    "msgClasses": "chat_message "
   }
 ]
