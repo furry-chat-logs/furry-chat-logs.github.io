@@ -4058,5 +4058,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmenlxb2QzNDd6eThhNGY3bG1iczVqMXVvZ2xsaDFqc3R5cmltMDdsbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fujGu0B5N0liTpaFKy/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948483",
+    "type": "public",
+    "date": "4/06 1:14",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Ashton McKennan",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948484",
+    "type": "public",
+    "date": "4/06 1:14",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "jesus",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
