@@ -12034,5 +12034,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "You'll get this guy",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7949282",
+    "type": "public",
+    "date": "4/06 9:01",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Spectre_protogen did u pass?",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
