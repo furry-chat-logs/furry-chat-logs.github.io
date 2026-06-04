@@ -7588,5 +7588,15 @@
     "userClasses": "username bgrad2 bnfont15",
     "message": "Same..",
     "msgClasses": "chat_message bneon10 heavyital bfont13"
+  },
+  {
+    "id": "7948836",
+    "type": "public",
+    "date": "4/06 3:21",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm sorry buddy Sonic The Hedgehog",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
