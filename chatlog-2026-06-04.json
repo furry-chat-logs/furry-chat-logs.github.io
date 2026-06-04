@@ -4688,5 +4688,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "This is wild",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948546",
+    "type": "public",
+    "date": "4/06 1:22",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Suuuup",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7948547",
+    "type": "public",
+    "date": "4/06 1:22",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Omg so many people active",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
