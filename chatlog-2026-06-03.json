@@ -22866,5 +22866,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Screams***",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7947736",
+    "type": "public",
+    "date": "3/06 22:04",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Woah",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
