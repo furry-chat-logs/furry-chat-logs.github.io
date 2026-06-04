@@ -22980,5 +22980,15 @@
     "userClasses": "username bgrad39 ",
     "message": "I need a call buddy",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950380",
+    "type": "public",
+    "date": "4/06 16:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemxsanFqc3cyZGNvM3JkZWx4dHluc3p4bDhheGxkMmhxNjRuZ2N3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lR1FLeDcZlFTHJo3zq/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
