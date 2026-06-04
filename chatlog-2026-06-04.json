@@ -7448,5 +7448,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "My mom died there too",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948822",
+    "type": "public",
+    "date": "4/06 3:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm so glad it didn't happen",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948823",
+    "type": "public",
+    "date": "4/06 3:18",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "In real life",
+    "msgClasses": "chat_message bneon14"
   }
 ]
