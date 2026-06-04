@@ -22216,5 +22216,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "EagleEdge it's a good song",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7947670",
+    "type": "public",
+    "date": "3/06 21:46",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Right",
+    "msgClasses": "chat_message bneon19"
   }
 ]
