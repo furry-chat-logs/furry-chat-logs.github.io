@@ -16304,5 +16304,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Special...",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7949709",
+    "type": "public",
+    "date": "4/06 11:58",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username user ",
+    "message": "Lol",
+    "msgClasses": "chat_message "
   }
 ]
