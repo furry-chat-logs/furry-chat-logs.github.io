@@ -15854,5 +15854,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Sol_Aizawa some things just arent appropriate in a social setting",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949664",
+    "type": "public",
+    "date": "4/06 11:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[feelgood]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
