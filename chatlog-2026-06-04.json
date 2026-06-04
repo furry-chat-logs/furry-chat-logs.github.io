@@ -9128,5 +9128,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "No??",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7948990",
+    "type": "public",
+    "date": "4/06 4:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "So why pickle",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948991",
+    "type": "public",
+    "date": "4/06 4:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "So ur on ur period",
+    "msgClasses": "chat_message bneon14"
   }
 ]
