@@ -13974,5 +13974,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Lol jk",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949476",
+    "type": "public",
+    "date": "4/06 10:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Gah my computer already having a reaction",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949477",
+    "type": "public",
+    "date": "4/06 10:20",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "oooh?",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
