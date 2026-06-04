@@ -5638,5 +5638,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I've lived in this state my whole life",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948641",
+    "type": "public",
+    "date": "4/06 1:49",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "GlamRockHeart means someone cleared the chat after pming u",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948642",
+    "type": "public",
+    "date": "4/06 1:49",
+    "username": "Xxchrryb0mbxx",
+    "userId": "25139",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "I've lived in wa for almost 20yrs moved from Virginia to Wa",
+    "msgClasses": "chat_message "
   }
 ]
