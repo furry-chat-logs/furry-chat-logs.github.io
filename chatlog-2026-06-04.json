@@ -6778,5 +6778,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Volkner K",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948755",
+    "type": "public",
+    "date": "4/06 2:18",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[omgomg] howww",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
