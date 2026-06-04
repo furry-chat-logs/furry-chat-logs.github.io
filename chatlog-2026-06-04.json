@@ -18570,5 +18570,25 @@
     "username": "System",
     "userId": null,
     "message": "New Kid has been kicked"
+  },
+  {
+    "id": "7949936",
+    "type": "public",
+    "date": "4/06 15:02",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Why he got kicked?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949937",
+    "type": "public",
+    "date": "4/06 15:02",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "wat",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
