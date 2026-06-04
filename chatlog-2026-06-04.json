@@ -10698,5 +10698,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "aye whats digress",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949147",
+    "type": "public",
+    "date": "4/06 5:18",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36931_febeac93cf02.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949148",
+    "type": "public",
+    "date": "4/06 5:18",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Google it",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
