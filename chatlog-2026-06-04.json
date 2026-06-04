@@ -27598,5 +27598,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Runefaust shut uwup ^-^^ im a fuzzy fuwwy taco muncher",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950845",
+    "type": "public",
+    "date": "4/06 17:59",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "I'm NOT a taco muncher.",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
