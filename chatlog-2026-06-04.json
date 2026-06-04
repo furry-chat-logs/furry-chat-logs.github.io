@@ -18562,5 +18562,13 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_aa5fe1df9bc1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949935",
+    "type": "system",
+    "date": "4/06 15:02",
+    "username": "System",
+    "userId": null,
+    "message": "New Kid has been kicked"
   }
 ]
