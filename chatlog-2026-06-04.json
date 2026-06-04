@@ -23470,5 +23470,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "That's what.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950429",
+    "type": "public",
+    "date": "4/06 16:40",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "GlamRockHeart That's just lux it's ok",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950430",
+    "type": "public",
+    "date": "4/06 16:40",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "That's my problem then not yours",
+    "msgClasses": "chat_message "
   }
 ]
