@@ -8228,5 +8228,25 @@
     "userClasses": "username user ",
     "message": "Yeah",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948900",
+    "type": "public",
+    "date": "4/06 3:35",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Ashton McKennan Nice post",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948901",
+    "type": "public",
+    "date": "4/06 3:35",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "That",
+    "msgClasses": "chat_message "
   }
 ]
