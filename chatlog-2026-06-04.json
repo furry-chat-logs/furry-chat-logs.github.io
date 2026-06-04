@@ -26978,5 +26978,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Well i made a drumkit wich says i like gumby",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950783",
+    "type": "public",
+    "date": "4/06 17:45",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Do you even know who gumby is",
+    "msgClasses": "chat_message "
   }
 ]
