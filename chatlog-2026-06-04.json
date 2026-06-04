@@ -25430,5 +25430,23 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19750_89eccde72794.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950628",
+    "type": "system",
+    "date": "4/06 17:11",
+    "username": "System",
+    "userId": null,
+    "message": "BigSpiderman18 has been kicked"
+  },
+  {
+    "id": "7950629",
+    "type": "public",
+    "date": "4/06 17:11",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Does anyone here know what gumby is?",
+    "msgClasses": "chat_message "
   }
 ]
