@@ -1808,5 +1808,15 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "I know 3 people who would say \"hit\"",
     "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7948258",
+    "type": "public",
+    "date": "4/06 0:28",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "what have i come back to",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
   }
 ]
