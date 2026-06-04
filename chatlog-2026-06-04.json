@@ -10238,5 +10238,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Ashton McKennan he's Austrian I believe lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7949101",
+    "type": "public",
+    "date": "4/06 5:10",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "It would be longer than 20 mins",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949102",
+    "type": "public",
+    "date": "4/06 5:10",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "aye Hunter77",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
