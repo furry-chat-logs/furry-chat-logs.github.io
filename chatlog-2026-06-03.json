@@ -25716,5 +25716,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Bergindine what.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948022",
+    "type": "public",
+    "date": "3/06 23:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_6469a85f56a9.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
