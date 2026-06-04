@@ -548,5 +548,35 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "To be honest not gonna focus someone into Vore becuz i don't want to made mistakes ever time ok.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948131",
+    "type": "public",
+    "date": "4/06 0:14",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "what the fuck",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7948132",
+    "type": "public",
+    "date": "4/06 0:14",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "why do i join to this",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7948133",
+    "type": "public",
+    "date": "4/06 0:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Ew",
+    "msgClasses": "chat_message bneon19"
   }
 ]
