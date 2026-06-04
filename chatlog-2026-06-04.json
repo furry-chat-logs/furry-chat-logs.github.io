@@ -27418,5 +27418,25 @@
     "userClasses": "username bcolor8 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_777cdfaa3e65.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950827",
+    "type": "public",
+    "date": "4/06 17:56",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[verysad] STOP THE FRENCH HATE",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950828",
+    "type": "public",
+    "date": "4/06 17:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I eat GERMAN BREAD VOLLKORNMEHL BROT VOM FEINSTEN",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
