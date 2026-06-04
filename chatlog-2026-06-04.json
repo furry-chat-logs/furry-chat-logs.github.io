@@ -25818,5 +25818,15 @@
     "userClasses": "username bcolor8 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_b3d114c5e76b.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950667",
+    "type": "public",
+    "date": "4/06 17:18",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Its your decission",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
