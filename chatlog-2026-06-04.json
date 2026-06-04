@@ -12544,5 +12544,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Porphyrophobia duble",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949333",
+    "type": "public",
+    "date": "4/06 9:18",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Porphyrophobia the rune [runefaust]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
