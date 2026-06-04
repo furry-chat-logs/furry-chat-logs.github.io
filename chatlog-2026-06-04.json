@@ -5528,5 +5528,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Sharkish highly depressing",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948630",
+    "type": "public",
+    "date": "4/06 1:46",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Ashton McKennan Washington district of Columbia",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948631",
+    "type": "public",
+    "date": "4/06 1:46",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "channel666_mondo so just the usual",
+    "msgClasses": "chat_message "
   }
 ]
