@@ -16254,5 +16254,15 @@
     "userClasses": "username user ",
     "message": "😂",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949704",
+    "type": "public",
+    "date": "4/06 11:57",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "How would I know? I don't know what goes on in that sick little mind of yours.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
