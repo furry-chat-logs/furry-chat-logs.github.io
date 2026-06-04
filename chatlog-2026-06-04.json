@@ -2328,5 +2328,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "True sonic is cool person to be honest tho",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948310",
+    "type": "public",
+    "date": "4/06 0:35",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Also don't mind what I said about leashes",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
