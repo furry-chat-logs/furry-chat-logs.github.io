@@ -25446,5 +25446,25 @@
     "userClasses": "username bcolor23 ",
     "message": "ermm",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947995",
+    "type": "public",
+    "date": "3/06 23:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_021d458dad0a.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947996",
+    "type": "public",
+    "date": "3/06 23:15",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "Would you graduate out of job corpse you get $1000 or more I forgot",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
   }
 ]
