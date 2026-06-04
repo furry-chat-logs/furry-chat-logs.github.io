@@ -22200,5 +22200,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "That's right, they're both creeps ❤️‍🩹",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950302",
+    "type": "public",
+    "date": "4/06 16:21",
+    "username": "phthiafig",
+    "userId": "37522",
+    "userClasses": "username bcolor32 bnfont15",
+    "message": "are people talking to minors again",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950303",
+    "type": "public",
+    "date": "4/06 16:21",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "phthiafig yes",
+    "msgClasses": "chat_message bneon9"
   }
 ]
