@@ -4378,5 +4378,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "15",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948515",
+    "type": "public",
+    "date": "4/06 1:17",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Thundercloudgaming03 and who is this \"buddy\"?",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948516",
+    "type": "public",
+    "date": "4/06 1:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Please give it chance",
+    "msgClasses": "chat_message "
   }
 ]
