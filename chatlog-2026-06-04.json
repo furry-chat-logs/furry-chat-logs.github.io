@@ -28876,5 +28876,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "What in the fuck is happening?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950974",
+    "type": "public",
+    "date": "4/06 18:34",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "look at the log",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950975",
+    "type": "public",
+    "date": "4/06 18:34",
+    "username": "ChildStewFrFr",
+    "userId": "26879",
+    "userClasses": "username bgrad31 bnfont3",
+    "message": "snake_bitez is a cp distributor",
+    "msgClasses": "chat_message bgrad31 bold bfont3"
   }
 ]
