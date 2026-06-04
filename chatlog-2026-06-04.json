@@ -16334,5 +16334,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Emoted",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949712",
+    "type": "public",
+    "date": "4/06 11:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Jesterandsugar hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949713",
+    "type": "public",
+    "date": "4/06 11:58",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Jesterandsugar hey",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949714",
+    "type": "public",
+    "date": "4/06 11:58",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Very special.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
