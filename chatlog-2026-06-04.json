@@ -978,5 +978,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Aw man.",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948174",
+    "type": "public",
+    "date": "4/06 0:20",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lemon hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7948175",
+    "type": "public",
+    "date": "4/06 0:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_3e9d28a7313d.gif]",
+    "msgClasses": "chat_message "
   }
 ]
