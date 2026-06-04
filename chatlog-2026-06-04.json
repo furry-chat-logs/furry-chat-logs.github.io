@@ -12914,5 +12914,15 @@
     "userClasses": "username bgrad2 bnfont9",
     "message": "wsp",
     "msgClasses": "chat_message bgrad10 heavyital bfont11"
+  },
+  {
+    "id": "7949370",
+    "type": "public",
+    "date": "4/06 9:43",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_cf65fbdebe6e.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
