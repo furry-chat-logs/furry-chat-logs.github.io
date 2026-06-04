@@ -20936,5 +20936,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_83243e6ad9a8.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947535",
+    "type": "public",
+    "date": "3/06 20:02",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_77bb715fe8cf.png]",
+    "msgClasses": "chat_message "
   }
 ]
