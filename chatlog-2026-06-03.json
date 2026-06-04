@@ -19326,5 +19326,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "[vomit]",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947361",
+    "type": "public",
+    "date": "3/06 19:08",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Porphyrophobia keep your nasty self away from me!",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947362",
+    "type": "public",
+    "date": "3/06 19:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "That's kinda gay bro",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
