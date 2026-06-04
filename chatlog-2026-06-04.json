@@ -1298,5 +1298,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Porphyrophobia tf no I'm not that 😭",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7948206",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I find it hilarious how I can tell who people is on SS based off their typing style",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948207",
+    "type": "public",
+    "date": "4/06 0:22",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Lemon does thou befit?",
+    "msgClasses": "chat_message "
   }
 ]
