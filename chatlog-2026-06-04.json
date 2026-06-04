@@ -3488,5 +3488,15 @@
     "userClasses": "username user ",
     "message": "Ashton McKennan why",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948426",
+    "type": "public",
+    "date": "4/06 1:01",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Personal situation.",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
