@@ -10738,5 +10738,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "😭 I'm also getting ready for bed lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7949151",
+    "type": "public",
+    "date": "4/06 5:19",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I got lunch now",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949152",
+    "type": "public",
+    "date": "4/06 5:19",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "12am",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
