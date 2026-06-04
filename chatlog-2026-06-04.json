@@ -20660,5 +20660,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Seems like it",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950146",
+    "type": "public",
+    "date": "4/06 15:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "We just found a go###er! Yippieeeeee!",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
