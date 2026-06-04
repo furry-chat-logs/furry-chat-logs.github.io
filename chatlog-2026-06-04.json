@@ -13104,5 +13104,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Reverse stereotype",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949389",
+    "type": "public",
+    "date": "4/06 9:47",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Porphyrophobia no friendly fire",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
