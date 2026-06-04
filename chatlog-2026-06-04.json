@@ -2668,5 +2668,25 @@
     "userClasses": "username user ",
     "message": "KingCorgz god I wish",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948344",
+    "type": "public",
+    "date": "4/06 0:42",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "No thx",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948345",
+    "type": "public",
+    "date": "4/06 0:42",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Wtfissachip me too",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
