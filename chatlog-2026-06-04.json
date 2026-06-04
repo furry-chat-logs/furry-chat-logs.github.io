@@ -19700,5 +19700,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Gumby_iguana hm",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950049",
+    "type": "public",
+    "date": "4/06 15:34",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOGcxZHR2dTRiNTU3Z2JhaW5vcjJhZGt4dDRmZ3Mydmo3cjR6OXFkNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jobUgnXokS6UztjMMD/giphy.gif]",
+    "msgClasses": "chat_message bneon19"
   }
 ]
