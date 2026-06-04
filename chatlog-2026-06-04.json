@@ -22390,5 +22390,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "WHA",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950321",
+    "type": "public",
+    "date": "4/06 16:26",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "No, porphobia, I do not deserve to suffer.Already suffered enough in life",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950322",
+    "type": "public",
+    "date": "4/06 16:26",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Gumby_iguana [link: https://furrychat.net/rules]",
+    "msgClasses": "chat_message "
   }
 ]
