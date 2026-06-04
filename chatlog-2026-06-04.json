@@ -3858,5 +3858,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "u think someone unplugged me while typing",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948463",
+    "type": "public",
+    "date": "4/06 1:12",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Mainly between us!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
