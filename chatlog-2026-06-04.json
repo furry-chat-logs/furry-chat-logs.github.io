@@ -3598,5 +3598,15 @@
     "userClasses": "username user ",
     "message": "You still talked to a minor in weird fucking ways dawg",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948437",
+    "type": "public",
+    "date": "4/06 1:05",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Nadia is not a minor",
+    "msgClasses": "chat_message "
   }
 ]
