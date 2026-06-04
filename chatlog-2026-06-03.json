@@ -20696,5 +20696,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "yo",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947499",
+    "type": "public",
+    "date": "3/06 19:47",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdWdvazVmZWRwOHp2enhiODVvNmZmeHQ0azg5NjA0Y2tlcGxxbWczNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1AevKFecTHFaCzRUtx/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7947500",
+    "type": "public",
+    "date": "3/06 19:47",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Sup Aston ^^",
+    "msgClasses": "chat_message "
   }
 ]
