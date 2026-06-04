@@ -12164,5 +12164,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "You're German, you should just be able to run for Bundestag without any education?",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949295",
+    "type": "public",
+    "date": "4/06 9:10",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Oh, btw Frogmin. For some reason the chatroom's server stopped responding when I tried refreshing the page. Browser said the furrychat server failed to connect.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
