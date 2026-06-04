@@ -618,5 +618,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I don't understand what's wrong",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7948138",
+    "type": "public",
+    "date": "4/06 0:16",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Then I'll stop talk about that ok",
+    "msgClasses": "chat_message "
   }
 ]
