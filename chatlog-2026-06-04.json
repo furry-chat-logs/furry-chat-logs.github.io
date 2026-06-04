@@ -21620,5 +21620,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_7044a194bb76.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950244",
+    "type": "public",
+    "date": "4/06 16:12",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Cat",
+    "msgClasses": "chat_message "
   }
 ]
