@@ -3658,5 +3658,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "..what have I come back too.. been gone what a year and I see ts when I wake up💔...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948443",
+    "type": "public",
+    "date": "4/06 1:06",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Sheesh I can't even flirt with my woman without glancing here at some negativity",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948444",
+    "type": "public",
+    "date": "4/06 1:06",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "It hurts knowing this person can vote",
+    "msgClasses": "chat_message "
   }
 ]
