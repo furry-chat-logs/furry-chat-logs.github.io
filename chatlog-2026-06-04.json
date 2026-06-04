@@ -15314,5 +15314,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "GULPS",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949610",
+    "type": "public",
+    "date": "4/06 11:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "THE MOVIE",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949611",
+    "type": "public",
+    "date": "4/06 11:29",
+    "username": "7vhl_Mike",
+    "userId": "27654",
+    "userClasses": "username bcolor1 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27654_337cee6d415b.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
