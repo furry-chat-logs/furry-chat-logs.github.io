@@ -9848,5 +9848,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yea?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949062",
+    "type": "public",
+    "date": "4/06 5:04",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_13d67abf901c.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949063",
+    "type": "public",
+    "date": "4/06 5:04",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdGh5b2J0MWllazg2eHQyMnpoM2Jpbzk3ZndkeXNrY2F6c2p4Y21nZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaMsiMwXAgFgOjujlV/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7949064",
+    "type": "public",
+    "date": "4/06 5:04",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ashton McKennan bruh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949065",
+    "type": "public",
+    "date": "4/06 5:04",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "This is our cool box",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
