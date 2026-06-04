@@ -6728,5 +6728,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "ima eep now",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7948750",
+    "type": "public",
+    "date": "4/06 2:17",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "But what is mountain dew?!",
+    "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7948751",
+    "type": "public",
+    "date": "4/06 2:17",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "good nini everyone",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
