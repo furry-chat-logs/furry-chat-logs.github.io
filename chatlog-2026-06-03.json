@@ -25546,5 +25546,25 @@
     "userClasses": "username bneon3 bnfont14",
     "message": "Well, damn sucks to be you Cheepuddin",
     "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948005",
+    "type": "public",
+    "date": "3/06 23:17",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": ":(",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948006",
+    "type": "public",
+    "date": "3/06 23:17",
+    "username": "Cheepuddin",
+    "userId": "37516",
+    "userClasses": "username bcolor23 ",
+    "message": "huhu",
+    "msgClasses": "chat_message "
   }
 ]
