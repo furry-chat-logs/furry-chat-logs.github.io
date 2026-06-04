@@ -19590,5 +19590,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Why Not",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950038",
+    "type": "public",
+    "date": "4/06 15:32",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "No cute girls?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950039",
+    "type": "public",
+    "date": "4/06 15:32",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "I need to buy a new graphics card",
+    "msgClasses": "chat_message bneon3  bfont5"
   }
 ]
