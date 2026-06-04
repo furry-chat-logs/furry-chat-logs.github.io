@@ -8268,5 +8268,15 @@
     "userClasses": "username user ",
     "message": "What's a multi-sona",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948904",
+    "type": "public",
+    "date": "4/06 3:36",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "not the best",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
