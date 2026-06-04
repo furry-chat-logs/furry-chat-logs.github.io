@@ -7028,5 +7028,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_8bc39685ffc4.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948780",
+    "type": "public",
+    "date": "4/06 2:37",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Kitty cat says hi",
+    "msgClasses": "chat_message "
   }
 ]
