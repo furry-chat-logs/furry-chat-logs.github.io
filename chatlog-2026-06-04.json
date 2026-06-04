@@ -5888,5 +5888,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Washington DC is a city in Pennsylvania!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948666",
+    "type": "public",
+    "date": "4/06 1:53",
+    "username": "Xxchrryb0mbxx",
+    "userId": "25139",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "I'm cackling at this",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948667",
+    "type": "public",
+    "date": "4/06 1:53",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "There's a city called Gayland",
+    "msgClasses": "chat_message "
   }
 ]
