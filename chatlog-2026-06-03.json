@@ -25836,5 +25836,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "WAIT WHAT",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948035",
+    "type": "public",
+    "date": "3/06 23:33",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb3psaGpzMmx1bWgxMzR3ZHNwMGRsOTJ4MTc2YjdtMGMyZzlkZm9qeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq6CA6z7x5QfVXsdxF/giphy.gif]",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
   }
 ]
