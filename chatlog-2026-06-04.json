@@ -27368,5 +27368,35 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "dumb stupid french toast >:c",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7950822",
+    "type": "public",
+    "date": "4/06 17:55",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_443918651674.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950823",
+    "type": "public",
+    "date": "4/06 17:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_ea0d852371c6.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950824",
+    "type": "public",
+    "date": "4/06 17:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I love it",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
