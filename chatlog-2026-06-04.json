@@ -12554,5 +12554,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Porphyrophobia the rune [runefaust]",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7949334",
+    "type": "public",
+    "date": "4/06 9:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[runefaust]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949335",
+    "type": "public",
+    "date": "4/06 9:18",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[boykisser.png]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
