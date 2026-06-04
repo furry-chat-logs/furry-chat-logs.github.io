@@ -13254,5 +13254,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user1_6f785cff6091.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949404",
+    "type": "public",
+    "date": "4/06 9:51",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[skull]",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949405",
+    "type": "public",
+    "date": "4/06 9:51",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I hate this.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
