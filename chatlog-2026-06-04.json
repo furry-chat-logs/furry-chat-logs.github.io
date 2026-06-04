@@ -21350,5 +21350,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "GlamRockHeart hi stupid",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950217",
+    "type": "public",
+    "date": "4/06 16:07",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "QueenKit hi queen",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950218",
+    "type": "public",
+    "date": "4/06 16:07",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "GlamRockHeart that's onk",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950219",
+    "type": "public",
+    "date": "4/06 16:07",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ok*",
+    "msgClasses": "chat_message bneon9"
   }
 ]
