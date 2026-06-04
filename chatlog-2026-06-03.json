@@ -23246,5 +23246,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_d204cb6f3708.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947775",
+    "type": "public",
+    "date": "3/06 22:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[secret-share: J6gb48etoNlcBkwWdhFvb4na5&n=47591]",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947776",
+    "type": "public",
+    "date": "3/06 22:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_978f6bf9ffad.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
