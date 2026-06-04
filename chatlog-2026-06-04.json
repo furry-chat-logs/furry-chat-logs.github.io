@@ -4438,5 +4438,15 @@
     "userClasses": "username user ",
     "message": "💀💀💀",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948521",
+    "type": "public",
+    "date": "4/06 1:18",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I warned you.",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
