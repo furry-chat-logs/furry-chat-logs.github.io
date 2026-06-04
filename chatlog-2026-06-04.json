@@ -8038,5 +8038,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Wait so he's gonna",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7948881",
+    "type": "public",
+    "date": "4/06 3:31",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "...",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948882",
+    "type": "public",
+    "date": "4/06 3:31",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It's literally a paraphrase of saying go fuck yourself Sonic The Hedgehog",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
