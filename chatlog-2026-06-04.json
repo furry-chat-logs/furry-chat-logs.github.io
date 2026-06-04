@@ -598,5 +598,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "I am serious I won't",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948136",
+    "type": "public",
+    "date": "4/06 0:15",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "No, why the fuck are you taking about that disgusting fetish",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948137",
+    "type": "public",
+    "date": "4/06 0:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I don't understand what's wrong",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
