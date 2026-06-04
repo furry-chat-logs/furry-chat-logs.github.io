@@ -9508,5 +9508,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "SBB waghhh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949028",
+    "type": "public",
+    "date": "4/06 4:59",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Then eat smth!!!!!",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949029",
+    "type": "public",
+    "date": "4/06 4:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "U cut my kaomojiii",
+    "msgClasses": "chat_message bneon14"
   }
 ]
