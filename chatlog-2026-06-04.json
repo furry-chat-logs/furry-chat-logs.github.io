@@ -25518,5 +25518,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user1_e819e7e12054.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950637",
+    "type": "public",
+    "date": "4/06 17:12",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Why did he get kicked",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950638",
+    "type": "public",
+    "date": "4/06 17:12",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "That one.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
