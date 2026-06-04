@@ -24240,5 +24240,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37459_74c941b80570.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950507",
+    "type": "public",
+    "date": "4/06 16:52",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_93b323335d6f.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
