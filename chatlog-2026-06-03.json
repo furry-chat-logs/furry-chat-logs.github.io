@@ -25866,5 +25866,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948038",
+    "type": "public",
+    "date": "3/06 23:34",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "=3",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
