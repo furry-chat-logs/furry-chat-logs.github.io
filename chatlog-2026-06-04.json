@@ -9968,5 +9968,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Choco vanilla cake????",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949074",
+    "type": "public",
+    "date": "4/06 5:06",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmazRneHl2aWg2MTAyNmJzcjBmYjdvZHl3MWljazgzd21vOHA2dmZ1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/696Y24Ar1ktZmf7Qe3/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7949075",
+    "type": "public",
+    "date": "4/06 5:06",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yeah smth like that i forgot",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949076",
+    "type": "public",
+    "date": "4/06 5:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "☆▽☆",
+    "msgClasses": "chat_message bneon14"
   }
 ]
