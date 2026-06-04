@@ -21656,5 +21656,15 @@
     "userClasses": "username bcolor8 ",
     "message": "Must be careful what i say in those chat rooms",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947611",
+    "type": "public",
+    "date": "3/06 21:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2hqdTY0b2x1eWtocHFwbXI5d2s5anA0bXlpZXRrMTFhZTJtNnk3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRgsiNC2GCn21l4gtV/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
