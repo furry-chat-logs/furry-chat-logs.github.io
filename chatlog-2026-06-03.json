@@ -20386,5 +20386,25 @@
     "userClasses": "username bcolor27 bnfont15",
     "message": "Is that a good or a meh I guess?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947468",
+    "type": "public",
+    "date": "3/06 19:30",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Bunnynut Churro a meh I guess",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947469",
+    "type": "public",
+    "date": "3/06 19:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Thank god Medo isn't here",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
