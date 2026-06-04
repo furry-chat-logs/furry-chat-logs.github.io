@@ -24410,5 +24410,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_8967b90d5515.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950525",
+    "type": "public",
+    "date": "4/06 16:55",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Frogmin, would it be possible to at some point in future add a transcript feature for VMs?",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
