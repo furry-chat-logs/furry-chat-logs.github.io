@@ -4998,5 +4998,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Just so you know I'm drinking everclear So I'm gonna be hammered next 5 minutes",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948577",
+    "type": "public",
+    "date": "4/06 1:29",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Cheers everybody!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
