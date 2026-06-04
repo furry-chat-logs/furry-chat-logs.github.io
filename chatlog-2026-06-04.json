@@ -18750,5 +18750,15 @@
     "userClasses": "username bcolor32 bnfont15",
     "message": "haii",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949954",
+    "type": "public",
+    "date": "4/06 15:12",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "phthiafig hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
