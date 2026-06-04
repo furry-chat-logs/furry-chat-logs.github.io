@@ -24976,5 +24976,25 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Hachimi chimichi",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7947948",
+    "type": "public",
+    "date": "3/06 23:11",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I need to stop giving him so many outfits 😭",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947949",
+    "type": "public",
+    "date": "3/06 23:11",
+    "username": "Cheepuddin",
+    "userId": "37516",
+    "userClasses": "username bcolor23 ",
+    "message": "hachimichimichi",
+    "msgClasses": "chat_message "
   }
 ]
