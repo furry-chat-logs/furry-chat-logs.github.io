@@ -23526,5 +23526,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "pixels is such a tuff movie",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7947803",
+    "type": "public",
+    "date": "3/06 22:33",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] Can't say it here [troll]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947804",
+    "type": "public",
+    "date": "3/06 22:33",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[secret-share: CjnekMbpu58CrzwEMVWmaTDDm&n=47581]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
