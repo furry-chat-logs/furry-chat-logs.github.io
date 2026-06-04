@@ -21510,5 +21510,25 @@
     "userClasses": "username user ",
     "message": "💀",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950233",
+    "type": "public",
+    "date": "4/06 16:09",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "No, im innocent",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950234",
+    "type": "public",
+    "date": "4/06 16:09",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "He literally just said that",
+    "msgClasses": "chat_message bneon9"
   }
 ]
