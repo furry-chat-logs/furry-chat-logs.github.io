@@ -10998,5 +10998,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Mb You've gotta fight for your right To paaaaaaaaaarrrrrtyyyy!",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949177",
+    "type": "public",
+    "date": "4/06 5:26",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "What comes after I'll kick you out of my home if you don't cut that hair",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949178",
+    "type": "public",
+    "date": "4/06 5:26",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ummm",
+    "msgClasses": "chat_message bneon14"
   }
 ]
