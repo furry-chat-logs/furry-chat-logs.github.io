@@ -25126,5 +25126,35 @@
     "userClasses": "username bcolor23 ",
     "message": "Yall someone is trying to scam me again by pretending to commission me...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947963",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2V3d2w3cXFpeGF6NnN4b3I2c3V0bDFxOHJyYnFhbnM4NHN6eDlvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JkXVp9YX377j45pDQI/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947964",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_47495de4177d.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947965",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjM3NTI3OTVzdGZlam81NHdnYjF4ZTQ0NjZxN3A3bTZoMnF1cG11NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XTvFYmxwmOSpF0WP3K/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
