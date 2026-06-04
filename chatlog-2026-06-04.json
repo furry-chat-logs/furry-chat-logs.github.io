@@ -14524,5 +14524,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_0e8f182462d9.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949531",
+    "type": "public",
+    "date": "4/06 10:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yipppeeee",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949532",
+    "type": "public",
+    "date": "4/06 10:33",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "King_Scourge I want vrchat",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
