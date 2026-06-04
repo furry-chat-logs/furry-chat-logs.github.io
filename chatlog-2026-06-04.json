@@ -17214,5 +17214,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "It's raining here 🌧️",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949800",
+    "type": "public",
+    "date": "4/06 12:27",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Mdekoni damn,lucky lmao",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
