@@ -12804,5 +12804,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "So is VPN allowed or not?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949359",
+    "type": "public",
+    "date": "4/06 9:39",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "SBB Here?",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
