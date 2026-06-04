@@ -21870,5 +21870,25 @@
     "userClasses": "username user ",
     "message": "Gumby_iguana did you read the rules",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950269",
+    "type": "public",
+    "date": "4/06 16:17",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_09c34f018d4d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950270",
+    "type": "public",
+    "date": "4/06 16:18",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "SearchingMinorSaurus",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
