@@ -14504,5 +14504,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SBB wats your vrchat name",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949529",
+    "type": "public",
+    "date": "4/06 10:32",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "I HAVE VR CHAT",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
   }
 ]
