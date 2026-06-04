@@ -11784,5 +11784,15 @@
     "userClasses": "username bneon21 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user26289_2d921ad2bf34.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949257",
+    "type": "public",
+    "date": "4/06 8:51",
+    "username": "derg",
+    "userId": "26289",
+    "userClasses": "username bneon21 bnfont14",
+    "message": "haha minimoog",
+    "msgClasses": "chat_message bneon30 bold bfont14"
   }
 ]
