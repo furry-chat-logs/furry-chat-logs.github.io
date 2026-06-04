@@ -14234,5 +14234,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Spectre_protogen will add u!",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949502",
+    "type": "public",
+    "date": "4/06 10:24",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I don't feel like mismatching the letters lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949503",
+    "type": "public",
+    "date": "4/06 10:24",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "SoraTheMikuFan aight bet",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949504",
+    "type": "public",
+    "date": "4/06 10:24",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Sighsigh mine was sweetcaroline03 back in the day.",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
