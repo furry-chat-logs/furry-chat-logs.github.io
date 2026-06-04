@@ -21550,5 +21550,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_de78a5754b1b.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950237",
+    "type": "public",
+    "date": "4/06 16:10",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hello innocent",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
