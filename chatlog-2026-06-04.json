@@ -22000,5 +22000,35 @@
     "userClasses": "username bcolor8 ",
     "message": "In some places age of consent is under 18",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950282",
+    "type": "public",
+    "date": "4/06 16:19",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36767_3283f27772f3.mp3 | Lo_Fi_Sample.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950283",
+    "type": "public",
+    "date": "4/06 16:19",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Not here though",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950284",
+    "type": "public",
+    "date": "4/06 16:20",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "That doesn't mean adults go for kids?",
+    "msgClasses": "chat_message bneon9"
   }
 ]
