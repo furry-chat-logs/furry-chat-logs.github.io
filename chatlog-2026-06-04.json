@@ -29046,5 +29046,35 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950991",
+    "type": "public",
+    "date": "4/06 18:36",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "QueenKit says the groomer defender",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950992",
+    "type": "public",
+    "date": "4/06 18:36",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Like Runefaust says... Good golly.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950993",
+    "type": "public",
+    "date": "4/06 18:36",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Sup chat",
+    "msgClasses": "chat_message "
   }
 ]
