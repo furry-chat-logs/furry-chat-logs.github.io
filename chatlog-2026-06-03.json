@@ -19806,5 +19806,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "oh ok",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947410",
+    "type": "public",
+    "date": "3/06 19:16",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "i see how it is😔",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947411",
+    "type": "public",
+    "date": "3/06 19:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I don't even want to get a whiff don't even ask me bro",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
