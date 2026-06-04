@@ -20810,5 +20810,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "16",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950161",
+    "type": "public",
+    "date": "4/06 16:02",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Ch3rry_Drop Welcome to the depths of hell.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950162",
+    "type": "public",
+    "date": "4/06 16:02",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Exactly",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950163",
+    "type": "public",
+    "date": "4/06 16:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ch3rry_Drop, Gumby_iguana another one of those weirdos",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
