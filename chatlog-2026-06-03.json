@@ -22166,5 +22166,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36006_2134b692d536.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947664",
+    "type": "public",
+    "date": "3/06 21:42",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Flazza-Blazzalright",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7947665",
+    "type": "public",
+    "date": "3/06 21:42",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36957_80a7139c98ac.png]",
+    "msgClasses": "chat_message "
   }
 ]
