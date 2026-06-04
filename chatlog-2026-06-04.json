@@ -2148,5 +2148,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "I won't do it ever again.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948292",
+    "type": "public",
+    "date": "4/06 0:33",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "Sonic The Hedgehog lowkey i think ur ip is showing",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
   }
 ]
