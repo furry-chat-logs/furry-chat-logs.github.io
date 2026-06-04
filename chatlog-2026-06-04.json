@@ -21290,5 +21290,25 @@
     "userClasses": "username bgrad39 ",
     "message": "I hate stupid ppl",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950211",
+    "type": "public",
+    "date": "4/06 16:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmczZuYW9xZ2ZzemxwNzBheW80d3ZudzhjdWExeThmeHRibXNmZ3gwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XD4qHZpkyUFfq/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950212",
+    "type": "public",
+    "date": "4/06 16:07",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Ch3rry_Drop hey I'm stupid 😭",
+    "msgClasses": "chat_message "
   }
 ]
