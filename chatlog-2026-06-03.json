@@ -22656,5 +22656,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "But the CT-5 V Blackwing is my dream car",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7947714",
+    "type": "public",
+    "date": "3/06 21:58",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Leeland buddy,we get it [sob] lmao",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7947715",
+    "type": "public",
+    "date": "3/06 21:58",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Dodge has the Hemi back y'all :3",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7947716",
+    "type": "public",
+    "date": "3/06 21:58",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[sob]",
+    "msgClasses": "chat_message bneon19"
   }
 ]
