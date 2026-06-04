@@ -24090,5 +24090,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_9ba39015936d.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950492",
+    "type": "public",
+    "date": "4/06 16:49",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Who gave it VIP.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950493",
+    "type": "public",
+    "date": "4/06 16:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Yeah... sending VMs on my tablet [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
