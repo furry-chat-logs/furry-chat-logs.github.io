@@ -11844,5 +11844,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I don't even know how that happened",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7949263",
+    "type": "public",
+    "date": "4/06 8:53",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bneon31 bnfont4",
+    "message": "Lucky spread",
+    "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7949264",
+    "type": "public",
+    "date": "4/06 8:53",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bneon31 bnfont4",
+    "message": "Stupid Ace AK\\",
+    "msgClasses": "chat_message bneon1 bold bfont4"
   }
 ]
