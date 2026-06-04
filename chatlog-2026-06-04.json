@@ -11974,5 +11974,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Just finished a french reading exam. :P",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949276",
+    "type": "public",
+    "date": "4/06 8:59",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "oh, hi Frogmin",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7949277",
+    "type": "public",
+    "date": "4/06 8:59",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Spectre_protogen damn how did it go",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
