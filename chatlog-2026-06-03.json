@@ -24436,5 +24436,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "(look at my tabs)",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7947894",
+    "type": "public",
+    "date": "3/06 23:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bergindine bro...",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
