@@ -24816,5 +24816,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "GlamRockHeart hi👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947932",
+    "type": "public",
+    "date": "3/06 23:08",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Hi :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947933",
+    "type": "public",
+    "date": "3/06 23:08",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "( What's your favorite color of the rainbow.  3/06 21:07 ) Either sunflower yellow or sky blue (but both)",
+    "msgClasses": "chat_message "
   }
 ]
