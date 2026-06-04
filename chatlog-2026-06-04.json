@@ -10608,5 +10608,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "I digress",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7949138",
+    "type": "public",
+    "date": "4/06 5:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wutttttttttttttt",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949139",
+    "type": "public",
+    "date": "4/06 5:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "U digest?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
