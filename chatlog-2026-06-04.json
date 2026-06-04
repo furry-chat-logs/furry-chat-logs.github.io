@@ -12784,5 +12784,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hi",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949357",
+    "type": "public",
+    "date": "4/06 9:38",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Porphyrophobia what could you have possibly read as JFK",
+    "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7949358",
+    "type": "public",
+    "date": "4/06 9:38",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "So is VPN allowed or not?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
