@@ -21756,5 +21756,15 @@
     "userClasses": "username user ",
     "message": "I attempted to connect with others on emerald chat and it was the strangest thing I have ever done",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947622",
+    "type": "public",
+    "date": "3/06 21:20",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Jesterandsugar btw mentioning/refering to other chatsites is a ban possibly",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
