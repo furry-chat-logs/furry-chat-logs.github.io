@@ -2278,5 +2278,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Sonic The Hedgehog that shows your ip and vpn ip",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7948305",
+    "type": "public",
+    "date": "4/06 0:34",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "later losers, finna watch L4D2 content and fall asleep",
+    "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7948306",
+    "type": "public",
+    "date": "4/06 0:34",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Those are my VPNs so I can go search for leashes without my friends lookingnat me",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
