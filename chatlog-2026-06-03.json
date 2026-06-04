@@ -19346,5 +19346,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "That's kinda gay bro",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947363",
+    "type": "public",
+    "date": "3/06 19:08",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Jk",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7947364",
+    "type": "public",
+    "date": "3/06 19:08",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "homos scare me sometimes",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
