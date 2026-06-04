@@ -1758,5 +1758,35 @@
     "userClasses": "username bneon4 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user21748_1c6106e21de9.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948253",
+    "type": "public",
+    "date": "4/06 0:27",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmam9zN2cxMm9qeTVhaThhZjBicXQwMnFycGpyYXA5ZGE3NXNpYjJtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/olYmdffiX2C9OQAGtZ/giphy.gif]",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948254",
+    "type": "public",
+    "date": "4/06 0:28",
+    "username": "Lemon",
+    "userId": "21748",
+    "userClasses": "username bneon4 bnfont14",
+    "message": "This survivor needs a hero!",
+    "msgClasses": "chat_message bneon3  bfont5"
+  },
+  {
+    "id": "7948255",
+    "type": "public",
+    "date": "4/06 0:28",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODhjejZvNW9sZnYxeXVodHprd3hlbTZuY3RtNTd3Z2p5Y3Y3ZHdnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lj1pfe02fNNSQ4Ra2y/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
