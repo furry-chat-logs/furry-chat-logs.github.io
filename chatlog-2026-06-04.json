@@ -7818,5 +7818,45 @@
     "userClasses": "username user ",
     "message": "Heyo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948859",
+    "type": "public",
+    "date": "4/06 3:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948860",
+    "type": "public",
+    "date": "4/06 3:27",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "Sora",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948861",
+    "type": "public",
+    "date": "4/06 3:27",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "As soon as you got here",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948862",
+    "type": "public",
+    "date": "4/06 3:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yes u kinda did",
+    "msgClasses": "chat_message bneon14"
   }
 ]
