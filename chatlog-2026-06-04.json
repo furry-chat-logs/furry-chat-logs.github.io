@@ -16484,5 +16484,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sharkish girl vip",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949727",
+    "type": "public",
+    "date": "4/06 12:05",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "No",
+    "msgClasses": "chat_message "
   }
 ]
