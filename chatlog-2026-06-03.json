@@ -19216,5 +19216,25 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "My pms are open to you all",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947350",
+    "type": "public",
+    "date": "3/06 19:06",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I don't know, I think Porphyrophobia may be triggered guys 🧐",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947351",
+    "type": "public",
+    "date": "3/06 19:07",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "Sacarverdasaiko okay",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
