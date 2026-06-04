@@ -3208,5 +3208,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "He could be a woman, or underage",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948398",
+    "type": "public",
+    "date": "4/06 0:52",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I can be Mexican or American",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
