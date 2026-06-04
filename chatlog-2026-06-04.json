@@ -27058,5 +27058,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Everything will be purple",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950791",
+    "type": "public",
+    "date": "4/06 17:47",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Gumby is my childhood favorite show in american claymation classic",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950792",
+    "type": "public",
+    "date": "4/06 17:47",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Make it neon green Runefaust",
+    "msgClasses": "chat_message bneon9"
   }
 ]
