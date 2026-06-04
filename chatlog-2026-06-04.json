@@ -2698,5 +2698,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "ykw",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948347",
+    "type": "public",
+    "date": "4/06 0:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOG5nbHZnZ2QweThpd3pzaWQ1NmZ4MDZ1d2Y3djV2aTg0MWs2YzBrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6fJ26gWqC1LVs0wM/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948348",
+    "type": "public",
+    "date": "4/06 0:42",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "It wasn't a question it was a statement",
+    "msgClasses": "chat_message "
   }
 ]
