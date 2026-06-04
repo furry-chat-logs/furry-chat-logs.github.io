@@ -12274,5 +12274,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "LOL",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949306",
+    "type": "public",
+    "date": "4/06 9:12",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Spectre_protogen Strange.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
