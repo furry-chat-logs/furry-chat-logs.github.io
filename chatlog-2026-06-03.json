@@ -22686,5 +22686,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[sob]",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7947717",
+    "type": "public",
+    "date": "3/06 21:58",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "And the new SRT line up is underway",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
