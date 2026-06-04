@@ -25300,5 +25300,15 @@
     "userClasses": "username bcolor8 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_7568ac2c7d9a.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950615",
+    "type": "public",
+    "date": "4/06 17:09",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_ce580935c8ba.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
