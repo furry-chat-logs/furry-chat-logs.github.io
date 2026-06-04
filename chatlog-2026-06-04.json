@@ -22920,5 +22920,55 @@
     "userClasses": "username bcolor32 bnfont15",
     "message": ":(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950374",
+    "type": "public",
+    "date": "4/06 16:33",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "...",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950375",
+    "type": "public",
+    "date": "4/06 16:33",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Giggled",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950376",
+    "type": "public",
+    "date": "4/06 16:33",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[idontcare] ..",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950377",
+    "type": "public",
+    "date": "4/06 16:33",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Gumby_iguana don't tag me, for all I know you got the whole hepatitis alphabet",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950378",
+    "type": "public",
+    "date": "4/06 16:33",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_c588659dbfec.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
