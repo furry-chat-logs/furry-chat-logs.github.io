@@ -4788,5 +4788,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "GlamRockHeart sure",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948556",
+    "type": "public",
+    "date": "4/06 1:23",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm gonna get going for a little bit",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
