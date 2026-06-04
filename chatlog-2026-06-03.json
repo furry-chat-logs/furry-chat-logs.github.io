@@ -24346,5 +24346,15 @@
     "userClasses": "username bneon3 bnfont14",
     "message": "While having ice cream without me, that's kind of a bummer",
     "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7947885",
+    "type": "public",
+    "date": "3/06 22:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": ".^.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
