@@ -12894,5 +12894,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "ik",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7949368",
+    "type": "public",
+    "date": "4/06 9:42",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Yeah",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7949369",
+    "type": "public",
+    "date": "4/06 9:43",
+    "username": "Funtime_Foxy",
+    "userId": "31879",
+    "userClasses": "username bgrad2 bnfont9",
+    "message": "wsp",
+    "msgClasses": "chat_message bgrad10 heavyital bfont11"
   }
 ]
