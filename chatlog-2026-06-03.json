@@ -23286,5 +23286,25 @@
     "userClasses": "username bneon31 bnfont4",
     "message": "QueenKit yes hi im zeenar",
     "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7947779",
+    "type": "public",
+    "date": "3/06 22:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[secret-share: CjnekMbpu58CrzwEMVWmaTDDm&n=47581] ~.~ Questions are fine",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7947780",
+    "type": "public",
+    "date": "3/06 22:24",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnpoYWd6bnk3dGlwOGpqdjg2cjhjNnNvdjU3dnl0M294b3ZubjVwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gDtsxRfqRzEp7VIhwU/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
