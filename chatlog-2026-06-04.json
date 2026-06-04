@@ -8288,5 +8288,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Where your character is more than 1 species",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948906",
+    "type": "public",
+    "date": "4/06 3:36",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "Oh kk",
+    "msgClasses": "chat_message "
   }
 ]
