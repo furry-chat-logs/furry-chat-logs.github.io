@@ -58,5 +58,15 @@
     "userClasses": "username bgrad2 bnfont15",
     "message": "Heh!",
     "msgClasses": "chat_message bneon10 heavyital bfont13"
+  },
+  {
+    "id": "7948082",
+    "type": "public",
+    "date": "4/06 0:03",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "Anyone sleep or awake?",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
   }
 ]
