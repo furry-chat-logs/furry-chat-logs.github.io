@@ -3788,5 +3788,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Wtfissachip nope",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948456",
+    "type": "public",
+    "date": "4/06 1:10",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Thank you I feel vindicated",
+    "msgClasses": "chat_message "
   }
 ]
