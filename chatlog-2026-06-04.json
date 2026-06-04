@@ -3248,5 +3248,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "But you get the point",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948402",
+    "type": "public",
+    "date": "4/06 0:52",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Possibly",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948403",
+    "type": "public",
+    "date": "4/06 0:52",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Either way I hate their existence",
+    "msgClasses": "chat_message "
   }
 ]
