@@ -6438,5 +6438,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Por Que No",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948721",
+    "type": "public",
+    "date": "4/06 2:05",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_61ca0c7977f7.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
