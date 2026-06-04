@@ -3748,5 +3748,25 @@
     "userClasses": "username user ",
     "message": "Man I need a therapist",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948452",
+    "type": "public",
+    "date": "4/06 1:09",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "FUUCKK!!!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948453",
+    "type": "public",
+    "date": "4/06 1:09",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Wtfissachip same",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
