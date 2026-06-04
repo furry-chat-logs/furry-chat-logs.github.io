@@ -27438,5 +27438,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I eat GERMAN BREAD VOLLKORNMEHL BROT VOM FEINSTEN",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950829",
+    "type": "public",
+    "date": "4/06 17:56",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNjNpcGx6N3Y0cmZjbWNyczlnbTdpZDE0b3g2ZXF0eTJiNGhleWxsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBDkwmIgmihgc/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
