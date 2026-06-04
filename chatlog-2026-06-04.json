@@ -6118,5 +6118,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Sonic The Hedgehog nvm",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948689",
+    "type": "public",
+    "date": "4/06 1:56",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "There's a place called Gayland in my country?",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
