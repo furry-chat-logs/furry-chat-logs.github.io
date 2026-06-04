@@ -29656,5 +29656,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Go away",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951052",
+    "type": "public",
+    "date": "4/06 18:59",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "?",
+    "msgClasses": "chat_message "
   }
 ]
