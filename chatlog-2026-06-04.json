@@ -29526,5 +29526,25 @@
     "userClasses": "username user ",
     "message": "THAT'S MY CLOSET DOOR",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951039",
+    "type": "public",
+    "date": "4/06 18:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Walked in",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951040",
+    "type": "public",
+    "date": "4/06 18:57",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hecks nah",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
