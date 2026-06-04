@@ -2418,5 +2418,25 @@
     "userClasses": "username user ",
     "message": "God I got so fucking infuriated I have a headache now",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948319",
+    "type": "public",
+    "date": "4/06 0:38",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "Ture",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948320",
+    "type": "public",
+    "date": "4/06 0:38",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "alright well. this doesnt appear to be any problem of mine",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
   }
 ]
