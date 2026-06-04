@@ -25096,5 +25096,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Cheepuddin to energetic lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947960",
+    "type": "public",
+    "date": "3/06 23:12",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2V3d2w3cXFpeGF6NnN4b3I2c3V0bDFxOHJyYnFhbnM4NHN6eDlvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Sw61SNhyBc3zbXster/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
