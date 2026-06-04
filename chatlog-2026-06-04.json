@@ -6188,5 +6188,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Sonic The Hedgehog already knew about that though lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948696",
+    "type": "public",
+    "date": "4/06 1:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Gayland✨",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7948697",
+    "type": "public",
+    "date": "4/06 1:58",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_92270a0daea5.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
