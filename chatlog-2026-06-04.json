@@ -20450,5 +20450,15 @@
     "userClasses": "username bneon18 ",
     "message": "[pokerface]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950125",
+    "type": "public",
+    "date": "4/06 15:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Porphyrophobia trying not to be a serial victim for 5 seconds: impossible",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
