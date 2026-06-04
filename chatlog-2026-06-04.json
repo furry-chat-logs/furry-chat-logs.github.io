@@ -23600,5 +23600,25 @@
     "userClasses": "username bgrad39 ",
     "message": "I don't have a her cosplay",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950442",
+    "type": "public",
+    "date": "4/06 16:41",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "What the FUCK is happening.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950443",
+    "type": "public",
+    "date": "4/06 16:41",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
