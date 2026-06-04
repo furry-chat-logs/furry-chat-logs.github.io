@@ -14884,5 +14884,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "GlamRockHeart did you just make my day better?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949567",
+    "type": "public",
+    "date": "4/06 10:47",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_5acd3fcc0665.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
