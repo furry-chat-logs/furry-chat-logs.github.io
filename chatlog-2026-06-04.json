@@ -14004,5 +14004,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36927_4b806c0758e7.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949479",
+    "type": "public",
+    "date": "4/06 10:20",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh u can't hear",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7949480",
+    "type": "public",
+    "date": "4/06 10:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oof",
+    "msgClasses": "chat_message bneon14"
   }
 ]
