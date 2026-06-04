@@ -27258,5 +27258,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "That thing",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950811",
+    "type": "public",
+    "date": "4/06 17:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_638fc73f3d28.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950812",
+    "type": "public",
+    "date": "4/06 17:54",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[verysad]",
+    "msgClasses": "chat_message ital"
   }
 ]
