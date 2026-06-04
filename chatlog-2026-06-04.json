@@ -6238,5 +6238,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Time to meet the cartel",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7948701",
+    "type": "public",
+    "date": "4/06 1:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Meoww",
+    "msgClasses": "chat_message bneon14"
   }
 ]
