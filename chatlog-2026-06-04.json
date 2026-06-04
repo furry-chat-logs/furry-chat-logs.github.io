@@ -6028,5 +6028,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Or",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7948680",
+    "type": "public",
+    "date": "4/06 1:55",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWFjcXhlNHIxMGdtNXhnZXBrem5zN2tzNXdmdXFpeGp3bzBnYTExcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A8aLCwedrakVNyalLH/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7948681",
+    "type": "public",
+    "date": "4/06 1:55",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Mexico?",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
