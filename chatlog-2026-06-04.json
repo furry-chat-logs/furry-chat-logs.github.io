@@ -228,5 +228,15 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Hehe ^^ to be honest Wolf is the cool to be honest ^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948099",
+    "type": "public",
+    "date": "4/06 0:07",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ3Z2Z3Z0MDh3ZW03MTFvbDhrc2txMW5kNnRodDR4eGVrczc1ZXg3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrmVCNbpOyqgJ9zQTn/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
