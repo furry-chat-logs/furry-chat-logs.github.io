@@ -4088,5 +4088,15 @@
     "userClasses": "username user ",
     "message": "Not him ACTUALLY leaving",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948486",
+    "type": "public",
+    "date": "4/06 1:14",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Ashton McKennan not allowed",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
