@@ -25240,5 +25240,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "SBB *loud clunk outside your door*",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7950609",
+    "type": "public",
+    "date": "4/06 17:08",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "My cell phone battery died",
+    "msgClasses": "chat_message "
   }
 ]
