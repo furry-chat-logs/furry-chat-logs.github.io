@@ -23210,5 +23210,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "ihatethisplaceihatethisplaceihatethisplaceihatethisplace",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7950403",
+    "type": "public",
+    "date": "4/06 16:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Real",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7950404",
+    "type": "public",
+    "date": "4/06 16:37",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "\"Back in my day\"",
+    "msgClasses": "chat_message bneon9"
   }
 ]
