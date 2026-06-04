@@ -8368,5 +8368,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I have to do the rest of my bio",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948914",
+    "type": "public",
+    "date": "4/06 3:38",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "I'ma change my pfp",
+    "msgClasses": "chat_message "
   }
 ]
