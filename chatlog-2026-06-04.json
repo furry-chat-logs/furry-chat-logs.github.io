@@ -5508,5 +5508,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I do not really kno fahrenheid, but I live in the Netherlands, and it has been fricking pouring for almost three days straight",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948628",
+    "type": "public",
+    "date": "4/06 1:46",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "*know",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7948629",
+    "type": "public",
+    "date": "4/06 1:46",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sharkish highly depressing",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
