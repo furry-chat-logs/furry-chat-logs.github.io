@@ -28288,5 +28288,15 @@
     "userClasses": "username bneon3 bnfont6",
     "message": ".•.",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950914",
+    "type": "public",
+    "date": "4/06 18:17",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": ".・.",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
