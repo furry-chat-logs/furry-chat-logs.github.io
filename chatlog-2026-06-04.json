@@ -2438,5 +2438,15 @@
     "userClasses": "username bneon27 bnfont6",
     "message": "alright well. this doesnt appear to be any problem of mine",
     "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7948321",
+    "type": "public",
+    "date": "4/06 0:38",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "goodbye everyone",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
   }
 ]
