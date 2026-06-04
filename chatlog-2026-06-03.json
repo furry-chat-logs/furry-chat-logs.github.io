@@ -24456,5 +24456,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "its like 41 and thats just the base ones",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7947896",
+    "type": "public",
+    "date": "3/06 23:01",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "i also need my QoL ones like JER JEB JEI thats stuff",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7947897",
+    "type": "public",
+    "date": "3/06 23:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bergindine I feel like you kild chat.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
