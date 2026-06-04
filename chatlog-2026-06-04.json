@@ -28418,5 +28418,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcng2ejBscTNiMHA2dDlsaXFiam55NGhkcHU2M2V0MGJpc24yY2tyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LrQdI5XBVw8mdMDfFN/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7950927",
+    "type": "public",
+    "date": "4/06 18:24",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "It runs at like 5 fps",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
