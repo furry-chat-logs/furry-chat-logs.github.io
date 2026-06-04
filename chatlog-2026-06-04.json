@@ -22600,5 +22600,35 @@
     "userClasses": "username bcolor8 ",
     "message": "Brain zaps",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950342",
+    "type": "public",
+    "date": "4/06 16:29",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "I think I became straight now.I want to be straight really bad",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950343",
+    "type": "public",
+    "date": "4/06 16:29",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Who's zapping ur brain",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950344",
+    "type": "public",
+    "date": "4/06 16:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Can somebody Charlie Kirk this guy",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
