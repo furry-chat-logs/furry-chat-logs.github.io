@@ -8348,5 +8348,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbXluemdlaGVlY2V1M3AzaXV1dGRpdnRkemppcnpxbzZwaXdwaHpkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FN6731cXHeb7VJCkly/giphy.gif]",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7948912",
+    "type": "public",
+    "date": "4/06 3:37",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "!!",
+    "msgClasses": "chat_message "
   }
 ]
