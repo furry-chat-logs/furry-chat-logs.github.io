@@ -4798,5 +4798,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'm gonna get going for a little bit",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948557",
+    "type": "public",
+    "date": "4/06 1:24",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "channel666_mondo btw who is nadia cuz we gotta inform them 💀",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948558",
+    "type": "public",
+    "date": "4/06 1:24",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sonic The Hedgehog absolute scare crow [totallove]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
