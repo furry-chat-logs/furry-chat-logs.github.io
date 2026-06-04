@@ -1618,5 +1618,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Is he your next victim? 😭💔",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7948239",
+    "type": "public",
+    "date": "4/06 0:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Holy Parasocial",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948240",
+    "type": "public",
+    "date": "4/06 0:26",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "He's next ah",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
