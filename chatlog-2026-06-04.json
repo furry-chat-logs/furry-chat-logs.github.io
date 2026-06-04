@@ -11754,5 +11754,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": ">:3",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7949254",
+    "type": "public",
+    "date": "4/06 8:48",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bneon31 bnfont4",
+    "message": "I have work until 7",
+    "msgClasses": "chat_message bneon1 bold bfont4"
   }
 ]
