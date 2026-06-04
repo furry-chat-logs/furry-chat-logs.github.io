@@ -8938,5 +8938,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It tastes terrible but it's really really really good for you",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948971",
+    "type": "public",
+    "date": "4/06 4:53",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It completely cleaned your liver Lowers your blood pressure cleans out your stomach Cleans out your throat Lowers your blood sugar",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948972",
+    "type": "public",
+    "date": "4/06 4:53",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Uhuh",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
