@@ -9388,5 +9388,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Oh god hunter your pfp",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949016",
+    "type": "public",
+    "date": "4/06 4:58",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hello",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949017",
+    "type": "public",
+    "date": "4/06 4:58",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "Imma see if I can doordash sum I'm also hungry",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
