@@ -24460,5 +24460,25 @@
     "userClasses": "username user ",
     "message": "Oh.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950530",
+    "type": "public",
+    "date": "4/06 16:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a9319f46809d.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950531",
+    "type": "public",
+    "date": "4/06 16:55",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Frogmin he said weird things to a minor tho",
+    "msgClasses": "chat_message bneon9"
   }
 ]
