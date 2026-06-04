@@ -4618,5 +4618,25 @@
     "userClasses": "username user ",
     "message": "Ah good",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948539",
+    "type": "public",
+    "date": "4/06 1:21",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Knowing my luck I'm getting shafted",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948540",
+    "type": "public",
+    "date": "4/06 1:21",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "ok wrong choice of words",
+    "msgClasses": "chat_message "
   }
 ]
