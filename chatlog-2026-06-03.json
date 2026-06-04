@@ -20246,5 +20246,15 @@
     "userClasses": "username bcolor27 bnfont15",
     "message": "*lick",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947454",
+    "type": "public",
+    "date": "3/06 19:27",
+    "username": "Bunnynut Churro",
+    "userId": "37501",
+    "userClasses": "username bcolor27 bnfont15",
+    "message": "Your mood thing",
+    "msgClasses": "chat_message "
   }
 ]
