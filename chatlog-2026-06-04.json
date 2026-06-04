@@ -12724,5 +12724,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "They can see internet usage in terms of websites and such.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949351",
+    "type": "public",
+    "date": "4/06 9:31",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "but they can't monitor anything past DNS level. So VPN and all of that can't be seen.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
