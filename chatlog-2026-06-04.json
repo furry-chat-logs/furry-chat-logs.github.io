@@ -24320,5 +24320,25 @@
     "userClasses": "username user ",
     "message": "Gumby_iguana your literally lying because there's no moderators on.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950515",
+    "type": "public",
+    "date": "4/06 16:53",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "You don't have to be afraid to admit your spending money to look cool",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950516",
+    "type": "public",
+    "date": "4/06 16:53",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I might get caught but that is a risk I'm willing to take",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
