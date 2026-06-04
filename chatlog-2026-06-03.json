@@ -25656,5 +25656,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_179ef832f6c2.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948016",
+    "type": "public",
+    "date": "3/06 23:22",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I love pineapples but I'm a bit allergic </3",
+    "msgClasses": "chat_message "
   }
 ]
