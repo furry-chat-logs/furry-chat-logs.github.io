@@ -12704,5 +12704,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Spectre_protogen Can't show what \"devices are doing\"",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7949349",
+    "type": "public",
+    "date": "4/06 9:30",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Frogmin oooh, okay. thanks!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
