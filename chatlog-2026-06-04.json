@@ -18482,5 +18482,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Surprisingly this*",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7949927",
+    "type": "public",
+    "date": "4/06 14:34",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Y'all be like:",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7949928",
+    "type": "public",
+    "date": "4/06 14:34",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SwiggleRattle bro this cald bullying",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
