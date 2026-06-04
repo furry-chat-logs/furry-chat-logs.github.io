@@ -17832,5 +17832,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "hi",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7949862",
+    "type": "public",
+    "date": "4/06 13:11",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Nyx welcome in",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
