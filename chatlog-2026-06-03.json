@@ -20586,5 +20586,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Dinonour ?",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947488",
+    "type": "public",
+    "date": "3/06 19:44",
+    "username": "Dinonour",
+    "userId": "37152",
+    "userClasses": "username bneon9 bnfont16",
+    "message": "Idk",
+    "msgClasses": "chat_message bneon9 bold bfont1"
   }
 ]
