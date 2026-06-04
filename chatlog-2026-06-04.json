@@ -16594,5 +16594,25 @@
     "userClasses": "username user ",
     "message": "Lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949738",
+    "type": "public",
+    "date": "4/06 12:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sharkish Nuh uh [angry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7949739",
+    "type": "public",
+    "date": "4/06 12:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Me no share.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
