@@ -16944,5 +16944,15 @@
     "userClasses": "username bneon24 ",
     "message": "It took ten seconds",
     "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7949773",
+    "type": "public",
+    "date": "4/06 12:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Protogen",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
