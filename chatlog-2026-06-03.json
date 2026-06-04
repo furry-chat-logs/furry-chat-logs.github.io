@@ -24576,5 +24576,25 @@
     "userClasses": "username bcolor19 bnfont3",
     "message": "Also sup wolf",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947908",
+    "type": "public",
+    "date": "3/06 23:02",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "Hey, what's up, bro? Thundercloudgaming03",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7947909",
+    "type": "public",
+    "date": "3/06 23:02",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_b96dbb7c99a1.png]",
+    "msgClasses": "chat_message "
   }
 ]
