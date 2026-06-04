@@ -478,5 +478,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Wolf ecilpse I wanna see if you'll connect the dots",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948124",
+    "type": "public",
+    "date": "4/06 0:12",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "Yeah, I know my spelling is bad but I didn't mean to say, brother",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7948125",
+    "type": "public",
+    "date": "4/06 0:12",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "channel666_mondo I don't connect",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
