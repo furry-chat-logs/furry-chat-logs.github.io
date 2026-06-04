@@ -17842,5 +17842,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Nyx welcome in",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7949863",
+    "type": "public",
+    "date": "4/06 13:11",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "hey",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
