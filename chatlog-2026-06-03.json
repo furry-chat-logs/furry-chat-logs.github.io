@@ -20576,5 +20576,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_e4c67687086f.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947487",
+    "type": "public",
+    "date": "3/06 19:43",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Dinonour ?",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
