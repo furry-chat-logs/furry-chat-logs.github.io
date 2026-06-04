@@ -29496,5 +29496,25 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_4e35de96ae63.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951036",
+    "type": "public",
+    "date": "4/06 18:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "GOD WHY MY HEADPHONES ARE ON MAX VOLUME",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951037",
+    "type": "public",
+    "date": "4/06 18:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "MY EARS",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
