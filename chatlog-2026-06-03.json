@@ -22196,5 +22196,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Mr-Shark yeah we heard it the first time",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7947668",
+    "type": "public",
+    "date": "3/06 21:45",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "EagleEdge ik",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
