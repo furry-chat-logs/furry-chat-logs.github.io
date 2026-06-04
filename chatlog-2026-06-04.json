@@ -11278,5 +11278,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "My favorite part of the song:",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949205",
+    "type": "public",
+    "date": "4/06 5:35",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Man living at home is such a drag",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
