@@ -26708,5 +26708,15 @@
     "userClasses": "username bcolor8 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_55537b8269f8.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950756",
+    "type": "public",
+    "date": "4/06 17:36",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "This is awful who the hell is playing that football",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
