@@ -11328,5 +11328,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I gotta be happy",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949210",
+    "type": "public",
+    "date": "4/06 5:36",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[hilarious]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
