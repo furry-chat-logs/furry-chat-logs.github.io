@@ -8248,5 +8248,15 @@
     "userClasses": "username user ",
     "message": "That",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948902",
+    "type": "public",
+    "date": "4/06 3:35",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Sol_Aizawa eh",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
