@@ -7228,5 +7228,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "And it's almost 4am",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7948800",
+    "type": "public",
+    "date": "4/06 2:51",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_87de27fea64d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
