@@ -23606,5 +23606,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Jesus is it really that bad?",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7947811",
+    "type": "public",
+    "date": "3/06 22:36",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "~ flatpak install flathub org.flycast.Flycast",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
   }
 ]
