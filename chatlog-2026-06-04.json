@@ -20750,5 +20750,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Hi",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7950155",
+    "type": "public",
+    "date": "4/06 16:01",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "mf said \"I want peach not eggplant\" in Hearts DMS (with actual word)",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7950156",
+    "type": "public",
+    "date": "4/06 16:01",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Hi cherry :3",
+    "msgClasses": "chat_message "
   }
 ]
