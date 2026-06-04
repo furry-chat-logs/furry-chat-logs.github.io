@@ -27198,5 +27198,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "That was so crazy i need to turn on my raspi",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950805",
+    "type": "public",
+    "date": "4/06 17:53",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_9539d99f602e.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
