@@ -15794,5 +15794,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "So how was talking with solen?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949658",
+    "type": "public",
+    "date": "4/06 11:42",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Sharkish nu I am a multisona",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949659",
+    "type": "public",
+    "date": "4/06 11:42",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "With whatever is making you do the cringy role play in general",
+    "msgClasses": "chat_message "
   }
 ]
