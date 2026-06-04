@@ -11508,5 +11508,13 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nobody here",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7949229",
+    "type": "system",
+    "date": "4/06 7:15",
+    "username": "System",
+    "userId": null,
+    "message": "ImYoursToCuddle has been removed from chat"
   }
 ]
