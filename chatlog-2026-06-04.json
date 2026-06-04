@@ -2518,5 +2518,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Alright The Kingdom Hearts",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7948329",
+    "type": "public",
+    "date": "4/06 0:40",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeTVwN3I0bzFtbjBwYzJlOTQ0dGRldzA3bTVxOGp4cTc1NGFlenRoMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d1H22LHUXMfQlZz2B5/giphy.gif]",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
   }
 ]
