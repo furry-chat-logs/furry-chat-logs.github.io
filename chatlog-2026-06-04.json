@@ -18172,5 +18172,15 @@
     "userClasses": "username user ",
     "message": "hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949896",
+    "type": "public",
+    "date": "4/06 14:02",
+    "username": "Nøx",
+    "userId": "27590",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Hello",
+    "msgClasses": "chat_message bneon18 boldital bfont14"
   }
 ]
