@@ -24580,5 +24580,15 @@
     "userClasses": "username bcolor8 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_789b84e843f8.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950542",
+    "type": "public",
+    "date": "4/06 16:56",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Spectre_protogen Hopefully not.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
