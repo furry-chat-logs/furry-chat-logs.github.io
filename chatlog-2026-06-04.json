@@ -19330,5 +19330,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_7b2c4f24ed72.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950012",
+    "type": "public",
+    "date": "4/06 15:28",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im just saying it bro",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950013",
+    "type": "public",
+    "date": "4/06 15:28",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "You're not the one drinking it 😔✌️",
+    "msgClasses": "chat_message bneon19"
   }
 ]
