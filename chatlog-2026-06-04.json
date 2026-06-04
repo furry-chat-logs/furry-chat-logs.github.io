@@ -12464,5 +12464,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Spectre_protogen look at this lol",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7949325",
+    "type": "public",
+    "date": "4/06 9:16",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Frogmin sounds like a crappy system if it breaks for one second and starts screaming ngl q_q",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7949326",
+    "type": "public",
+    "date": "4/06 9:16",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "channel666_mondo oh cool",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
