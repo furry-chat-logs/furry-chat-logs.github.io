@@ -6158,5 +6158,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMHg4NmViOWFmbjRqaHF5dHRqbzIwNHd3b3JqZ3dsNmp1Y21mMmE4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ia93duCQfUSfHeaq8A/giphy.gif]",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7948693",
+    "type": "public",
+    "date": "4/06 1:57",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_e3fa2ffd51f6.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
