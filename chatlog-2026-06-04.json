@@ -23040,5 +23040,25 @@
     "userClasses": "username bcolor32 bnfont15",
     "message": "y'all i lowkey need to stop smoking",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950386",
+    "type": "public",
+    "date": "4/06 16:34",
+    "username": "phthiafig",
+    "userId": "37522",
+    "userClasses": "username bcolor32 bnfont15",
+    "message": "it gets to a point",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7950387",
+    "type": "public",
+    "date": "4/06 16:35",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Real",
+    "msgClasses": "chat_message bneon9"
   }
 ]
