@@ -18452,5 +18452,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "crazy cortisol spike",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7949924",
+    "type": "public",
+    "date": "4/06 14:33",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Surprisingly that this thing knows how to use emojis like us",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
