@@ -26358,5 +26358,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Walked around Runefaust shaped",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950721",
+    "type": "public",
+    "date": "4/06 17:27",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Is Runefaust the Runefaust man",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7950722",
+    "type": "public",
+    "date": "4/06 17:27",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_0d92652687d9.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
