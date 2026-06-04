@@ -22526,5 +22526,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "But",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7947701",
+    "type": "public",
+    "date": "3/06 21:56",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "The newer ones are",
+    "msgClasses": "chat_message bneon19"
   }
 ]
