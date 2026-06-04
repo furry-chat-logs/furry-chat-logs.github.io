@@ -5568,5 +5568,35 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "It's crack head central over here💔",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948634",
+    "type": "public",
+    "date": "4/06 1:47",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "That was the weirdest thing ever.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948635",
+    "type": "public",
+    "date": "4/06 1:47",
+    "username": "channel666_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon32 bnfont15",
+    "message": "Sharkish pretty much",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948636",
+    "type": "public",
+    "date": "4/06 1:47",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Bullshit!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
