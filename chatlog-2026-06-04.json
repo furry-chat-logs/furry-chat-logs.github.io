@@ -6368,5 +6368,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Why so many Dora's",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948714",
+    "type": "public",
+    "date": "4/06 2:02",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Why not",
+    "msgClasses": "chat_message "
   }
 ]
