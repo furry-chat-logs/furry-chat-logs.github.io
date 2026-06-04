@@ -15954,5 +15954,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Is that English Premium Lite?",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7949674",
+    "type": "public",
+    "date": "4/06 11:51",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Doesn't seem very refined.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
