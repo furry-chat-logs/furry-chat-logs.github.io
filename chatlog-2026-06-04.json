@@ -6788,5 +6788,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "[omgomg] howww",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948756",
+    "type": "public",
+    "date": "4/06 2:18",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37456_fdf3e747e8cb.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948757",
+    "type": "public",
+    "date": "4/06 2:18",
+    "username": "Xxchrryb0mbxx",
+    "userId": "25139",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "im crine how does one not know what mtnw dew is",
+    "msgClasses": "chat_message "
   }
 ]
