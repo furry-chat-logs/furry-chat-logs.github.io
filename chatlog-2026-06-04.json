@@ -25508,5 +25508,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I should add Sid from flushed away as an emoji",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7950636",
+    "type": "public",
+    "date": "4/06 17:12",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user1_e819e7e12054.png]",
+    "msgClasses": "chat_message "
   }
 ]
