@@ -6848,5 +6848,25 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "Sol_Aizawa hello! I have not started yet! Day full of work and I just gor home, gonna sleep soon",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7948762",
+    "type": "public",
+    "date": "4/06 2:20",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_79c8f261bf47.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948763",
+    "type": "public",
+    "date": "4/06 2:20",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "No worries",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
