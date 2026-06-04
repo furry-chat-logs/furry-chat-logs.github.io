@@ -2898,5 +2898,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Porphyrophobia Tomorrow 9 PM",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948367",
+    "type": "public",
+    "date": "4/06 0:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "It should be now",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
