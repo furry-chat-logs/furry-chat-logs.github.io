@@ -25026,5 +25026,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYm12ZTByZWZzaHV2NGoycnZra2xrbnNrZTk0NXJsZ2NsdjZ6OTBxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lY7lX65DdmVR5qBY9n/giphy.gif]",
     "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947953",
+    "type": "public",
+    "date": "3/06 23:11",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Cheepuddin hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947954",
+    "type": "public",
+    "date": "3/06 23:11",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user2169_a67d3e8f2155.mp3 | Hachimi_chimichi_MAMBOW.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
