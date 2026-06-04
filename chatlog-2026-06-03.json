@@ -26016,5 +26016,15 @@
     "userClasses": "username user ",
     "message": "🥹",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948053",
+    "type": "public",
+    "date": "3/06 23:40",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "gotta be gayer",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
