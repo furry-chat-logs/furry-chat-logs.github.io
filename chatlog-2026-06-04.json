@@ -2088,5 +2088,25 @@
     "userClasses": "username user ",
     "message": "Don't you sad face us your freak of nature",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948286",
+    "type": "public",
+    "date": "4/06 0:32",
+    "username": "parfait",
+    "userId": "8529",
+    "userClasses": "username bneon27 bnfont6",
+    "message": "ok i clearly must have missed something",
+    "msgClasses": "chat_message bcolor29 heavybold bfont12"
+  },
+  {
+    "id": "7948287",
+    "type": "public",
+    "date": "4/06 0:32",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "ik ok..",
+    "msgClasses": "chat_message "
   }
 ]
