@@ -3928,5 +3928,25 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Wtfissachip not on my carpet 😡",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7948470",
+    "type": "public",
+    "date": "4/06 1:13",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I don't wanna hear another word About you talking to a minor like that again",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948471",
+    "type": "public",
+    "date": "4/06 1:13",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "channel666_mondo fine the walls then",
+    "msgClasses": "chat_message "
   }
 ]
