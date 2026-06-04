@@ -25346,5 +25346,25 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_fe213f209d3f.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947985",
+    "type": "public",
+    "date": "3/06 23:13",
+    "username": "Cheepuddin",
+    "userId": "37516",
+    "userClasses": "username bcolor23 ",
+    "message": "they sent me fake paypal emails..",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947986",
+    "type": "public",
+    "date": "3/06 23:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_af5cc628dacb.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
