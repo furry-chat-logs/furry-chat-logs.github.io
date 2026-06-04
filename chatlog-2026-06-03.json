@@ -24396,5 +24396,35 @@
     "userClasses": "username bneon3 bnfont14",
     "message": ":3",
     "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7947890",
+    "type": "public",
+    "date": "3/06 22:59",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "im making a modpack",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7947891",
+    "type": "public",
+    "date": "3/06 22:59",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_f0d46f7f2261.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947892",
+    "type": "public",
+    "date": "3/06 22:59",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "is this enough mods",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
