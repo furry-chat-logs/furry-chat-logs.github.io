@@ -23336,5 +23336,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Mom",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947784",
+    "type": "public",
+    "date": "3/06 22:25",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdmZvdHl2aTJqcnd4aXZ4eXp2cTc2YWRnZTBmMWg2NXJqODkwNmJ6ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YrGG6ntHuAHPsCPETu/giphy.gif]",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7947785",
+    "type": "public",
+    "date": "3/06 22:25",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Botom text is crazy",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
