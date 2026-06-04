@@ -20626,5 +20626,15 @@
     "userClasses": "username bneon32 bnfont15",
     "message": "Dinonour I can see that my friend",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7947492",
+    "type": "public",
+    "date": "3/06 19:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[SS] I got the name 'Rune' from a very old RPG game series I liked since I was a toddler. ^^",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
