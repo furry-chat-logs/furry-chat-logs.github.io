@@ -16744,5 +16744,25 @@
     "userClasses": "username user ",
     "message": "So what are the perks of vip",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949753",
+    "type": "public",
+    "date": "4/06 12:11",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Jesterandsugar you have svip",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949754",
+    "type": "public",
+    "date": "4/06 12:11",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Which is special vip",
+    "msgClasses": "chat_message "
   }
 ]
