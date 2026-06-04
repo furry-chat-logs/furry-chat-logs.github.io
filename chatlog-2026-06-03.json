@@ -23196,5 +23196,15 @@
     "userClasses": "username bneon31 bnfont4",
     "message": "game",
     "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7947770",
+    "type": "public",
+    "date": "3/06 22:21",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "QueenKit im worried",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
