@@ -8298,5 +8298,25 @@
     "userClasses": "username user ",
     "message": "Oh kk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948907",
+    "type": "public",
+    "date": "4/06 3:37",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Like a bearcat or Or a wolf dog",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948908",
+    "type": "public",
+    "date": "4/06 3:37",
+    "username": "Astroshark",
+    "userId": "37518",
+    "userClasses": "username user ",
+    "message": "You know who gawr gura is",
+    "msgClasses": "chat_message "
   }
 ]
