@@ -9268,5 +9268,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I always make lemon on my snitzel",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949004",
+    "type": "public",
+    "date": "4/06 4:57",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOXJrc3pzbnk0b3Ric3A2cnBjc2VjZGVrdmN1aW9xdzg3dWdyYmRkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3daE0bX2iA8NjF4VX/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
