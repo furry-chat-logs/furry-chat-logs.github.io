@@ -1,0 +1,22 @@
+[
+  {
+    "id": "7948076",
+    "type": "public",
+    "date": "4/06 0:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7948077",
+    "type": "public",
+    "date": "4/06 0:00",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "Yes.",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
+  }
+]
