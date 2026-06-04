@@ -10908,5 +10908,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Help me out here sora",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7949168",
+    "type": "public",
+    "date": "4/06 5:24",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Just a photo i found",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7949169",
+    "type": "public",
+    "date": "4/06 5:24",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It looks like a mole",
+    "msgClasses": "chat_message bneon14"
   }
 ]
