@@ -8748,5 +8748,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I might go on a 2 day fast",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7948952",
+    "type": "public",
+    "date": "4/06 4:48",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Wh-why",
+    "msgClasses": "chat_message bneon14"
   }
 ]
