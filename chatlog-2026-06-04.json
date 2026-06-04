@@ -6638,5 +6638,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36931_6b04d5d6d1e5.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948741",
+    "type": "public",
+    "date": "4/06 2:14",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_330416c77aaa.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
