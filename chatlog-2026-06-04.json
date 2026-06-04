@@ -28328,5 +28328,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I gotta try that",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7950918",
+    "type": "public",
+    "date": "4/06 18:20",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "I really miss that PC.... [scared]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
