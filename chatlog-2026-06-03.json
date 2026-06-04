@@ -20336,5 +20336,25 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Bunnynut Churro how are you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947463",
+    "type": "public",
+    "date": "3/06 19:29",
+    "username": "Bunnynut Churro",
+    "userId": "37501",
+    "userClasses": "username bcolor27 bnfont15",
+    "message": "Bit bored but otherwise fine ish I guess",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947464",
+    "type": "public",
+    "date": "3/06 19:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": ".",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
