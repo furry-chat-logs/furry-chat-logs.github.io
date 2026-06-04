@@ -718,5 +718,15 @@
     "userClasses": "username user ",
     "message": "Would be a Nintendo fan",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948148",
+    "type": "public",
+    "date": "4/06 0:17",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "Hey guys, I really wanna take a bite out of someone",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
   }
 ]
