@@ -24186,5 +24186,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( [secret-share: zWFvB1VjontkDBm56RoY8T0lZ&n=39244] ) My phone is glitching so yes.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947869",
+    "type": "public",
+    "date": "3/06 22:52",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[secret-share: CjnekMbpu58CrzwEMVWmaTDDm&n=47581]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
