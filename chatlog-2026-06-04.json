@@ -15704,5 +15704,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "if you were to call me a citizen tough",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949649",
+    "type": "public",
+    "date": "4/06 11:40",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Sol_Aizawa yes",
+    "msgClasses": "chat_message "
   }
 ]
