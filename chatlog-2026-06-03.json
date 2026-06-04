@@ -24276,5 +24276,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( This sentence is in spanish. 3/06 20:52 ) Good thing I know a bit of Spanish.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7947878",
+    "type": "public",
+    "date": "3/06 22:55",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaHJ4ZXN0emNkMTI0NTAwdzl2M3hnMjBmZm9tZWFycjNnZHN3anJwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dKnBuVZdi5G12/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7947879",
+    "type": "public",
+    "date": "3/06 22:55",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "im baack",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
   }
 ]
