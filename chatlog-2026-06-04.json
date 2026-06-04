@@ -15824,5 +15824,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Sol_Aizawa im just a sily shark",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7949661",
+    "type": "public",
+    "date": "4/06 11:43",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Thats just who I am",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7949662",
+    "type": "public",
+    "date": "4/06 11:43",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "sorry not sorry",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
