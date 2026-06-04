@@ -2118,5 +2118,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_f8583db96c8e.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948289",
+    "type": "public",
+    "date": "4/06 0:33",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Lemom what should I do next",
+    "msgClasses": "chat_message bgrad34 heavyital bfont3"
+  },
+  {
+    "id": "7948290",
+    "type": "public",
+    "date": "4/06 0:33",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "And that's why I hate you. You know what you're doing and act like you just spilled a fucking glass of water",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948291",
+    "type": "public",
+    "date": "4/06 0:33",
+    "username": "Thundercloudgaming03",
+    "userId": "37438",
+    "userClasses": "username bcolor19 bnfont3",
+    "message": "I won't do it ever again.",
+    "msgClasses": "chat_message "
   }
 ]
