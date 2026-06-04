@@ -7238,5 +7238,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_87de27fea64d.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7948801",
+    "type": "public",
+    "date": "4/06 2:51",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user28253_b4142f30d81e.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
