@@ -37252,5 +37252,25 @@
     "userClasses": "username user ",
     "message": "Everyone say hi wybie :3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951822",
+    "type": "public",
+    "date": "4/06 21:57",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Dats my cats name",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951823",
+    "type": "public",
+    "date": "4/06 21:57",
+    "username": "7vhl_Mike",
+    "userId": "27654",
+    "userClasses": "username bcolor1 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27654_930c86df9151.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
