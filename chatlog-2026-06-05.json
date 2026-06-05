@@ -348,5 +348,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "?",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7952092",
+    "type": "public",
+    "date": "5/06 0:06",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "What's that word",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952093",
+    "type": "public",
+    "date": "5/06 0:06",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "wtf is that second option D",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7952094",
+    "type": "public",
+    "date": "5/06 0:07",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "XD",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
