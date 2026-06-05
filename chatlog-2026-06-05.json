@@ -11308,5 +11308,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Alex_007 idfk",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7953201",
+    "type": "public",
+    "date": "5/06 16:11",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Alex_007 you didn't need to use fuck twice",
+    "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7953202",
+    "type": "public",
+    "date": "5/06 16:11",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "its a lot to type",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
