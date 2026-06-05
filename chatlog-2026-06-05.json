@@ -10798,5 +10798,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "shudders",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953150",
+    "type": "public",
+    "date": "5/06 16:05",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Momma's lemon pound cake, it tastes so niiiicccceeeeee",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953151",
+    "type": "public",
+    "date": "5/06 16:05",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Spoke didn't you fake your age to date someone",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
