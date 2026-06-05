@@ -9218,5 +9218,25 @@
     "userClasses": "username bgrad15 ",
     "message": "hi chat",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7952992",
+    "type": "public",
+    "date": "5/06 15:10",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "🥹😭",
+    "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7952993",
+    "type": "public",
+    "date": "5/06 15:10",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Hiii",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
