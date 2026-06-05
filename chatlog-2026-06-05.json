@@ -818,5 +818,15 @@
     "userClasses": "username user ",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952140",
+    "type": "public",
+    "date": "5/06 0:32",
+    "username": "Volkner K",
+    "userId": "37456",
+    "userClasses": "username bcolor17 bnfont1",
+    "message": "Hello",
+    "msgClasses": "chat_message bcolor17 heavybold"
   }
 ]
