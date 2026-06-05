@@ -838,5 +838,15 @@
     "userClasses": "username bcolor17 bnfont1",
     "message": "How is everyone?",
     "msgClasses": "chat_message bcolor17 heavybold"
+  },
+  {
+    "id": "7952142",
+    "type": "public",
+    "date": "5/06 0:32",
+    "username": "SërpëntRösë",
+    "userId": "758",
+    "userClasses": "username bgrad34 bnfont16",
+    "message": "I'm good",
+    "msgClasses": "chat_message bgrad35 ital bfont1"
   }
 ]
