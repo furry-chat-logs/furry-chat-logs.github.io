@@ -38492,5 +38492,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "gm, mate",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7951946",
+    "type": "public",
+    "date": "4/06 23:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hehehhee",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7951947",
+    "type": "public",
+    "date": "4/06 23:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Mpreg",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
