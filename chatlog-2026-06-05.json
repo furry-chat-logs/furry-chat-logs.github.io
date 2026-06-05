@@ -9038,5 +9038,15 @@
     "userClasses": "username bneon24 ",
     "message": "My bad",
     "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7952973",
+    "type": "public",
+    "date": "5/06 14:55",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Looks almost...ai 🧐",
+    "msgClasses": "chat_message "
   }
 ]
