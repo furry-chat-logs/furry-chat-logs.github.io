@@ -35806,5 +35806,43 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Gumby_iguana jump",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951672",
+    "type": "public",
+    "date": "4/06 20:57",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gumby_iguana you also did something along those lines but not ID",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951673",
+    "type": "system",
+    "date": "4/06 20:57",
+    "username": "System",
+    "userId": null,
+    "message": "Gumby_iguana has been kicked"
+  },
+  {
+    "id": "7951674",
+    "type": "public",
+    "date": "4/06 20:57",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Just D.",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951675",
+    "type": "public",
+    "date": "4/06 20:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_5c5ce4fe073d.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
