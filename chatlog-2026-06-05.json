@@ -1538,5 +1538,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "0___0",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952218",
+    "type": "public",
+    "date": "5/06 1:46",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I got them on my ipad hold on",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
