@@ -768,5 +768,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "im staying up.............2 days straight...or more.....unless smb can convince me not to",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7952135",
+    "type": "public",
+    "date": "5/06 0:24",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Interesting.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7952136",
+    "type": "public",
+    "date": "5/06 0:24",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[secret-share: W85cqh8CkvArFc00yg6JTDTK7&n=47609]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
