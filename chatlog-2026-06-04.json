@@ -32846,5 +32846,35 @@
     "userClasses": "username user ",
     "message": "Okay that's our mistake not your to correct",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951371",
+    "type": "public",
+    "date": "4/06 20:03",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Eh",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7951372",
+    "type": "public",
+    "date": "4/06 20:03",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_355aaa083450.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951373",
+    "type": "public",
+    "date": "4/06 20:03",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Least obvious PDF",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
