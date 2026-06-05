@@ -8878,5 +8878,15 @@
     "userClasses": "username bneon24 ",
     "message": "Lol",
     "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7952957",
+    "type": "public",
+    "date": "5/06 14:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm doing good",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
