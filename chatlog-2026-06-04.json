@@ -36382,5 +36382,25 @@
     "username": "System",
     "userId": null,
     "message": "Gumby_iguana has been kicked"
+  },
+  {
+    "id": "7951732",
+    "type": "public",
+    "date": "4/06 21:12",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "ooooh. chain-kick",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951733",
+    "type": "public",
+    "date": "4/06 21:13",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMjc4dGt0MnR1azFoNWF5djRyZ281bnBldzV4NnU1emVldWNhcXowciZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fUQ4rhUZJYiQsas6WD/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
