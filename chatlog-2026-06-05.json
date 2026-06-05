@@ -9968,5 +9968,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "spoke is spoking",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953067",
+    "type": "public",
+    "date": "5/06 15:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Speaking.>>",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7953068",
+    "type": "public",
+    "date": "5/06 15:27",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "✌🏽🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
