@@ -2668,5 +2668,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "That hypocrite smokes 2 pk a day!!!!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7952331",
+    "type": "public",
+    "date": "5/06 3:45",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Man living at home is such a drag",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
