@@ -33016,5 +33016,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "STOP",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951388",
+    "type": "public",
+    "date": "4/06 20:06",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "WHY DID YOU JUST TURN INTO THE TERMINATOR",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951389",
+    "type": "public",
+    "date": "4/06 20:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f7f2edd5079b.gif]",
+    "msgClasses": "chat_message "
   }
 ]
