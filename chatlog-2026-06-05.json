@@ -7078,5 +7078,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "She's my biggest hmo [totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952773",
+    "type": "public",
+    "date": "5/06 11:33",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
