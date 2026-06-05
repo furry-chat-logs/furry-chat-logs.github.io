@@ -32346,5 +32346,45 @@
     "userClasses": "username bcolor8 ",
     "message": "O k glam rock hart is massing with me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951321",
+    "type": "public",
+    "date": "4/06 19:57",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im chatting not speaking",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951322",
+    "type": "public",
+    "date": "4/06 19:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Are you intelligent as a mule as well?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951323",
+    "type": "public",
+    "date": "4/06 19:57",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "You guys are all so fucking lame",
+    "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7951324",
+    "type": "public",
+    "date": "4/06 19:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY3d2OHk4NGhsZ2V5ZnFneDFsdjVqazZvOTI3OTgzY204cnltbjI5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4AwFO4f2VLo2fIFFA2/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
