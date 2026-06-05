@@ -35616,5 +35616,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Gays",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951652",
+    "type": "public",
+    "date": "4/06 20:52",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Ch3rry_Drop you're one to talk",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951653",
+    "type": "public",
+    "date": "4/06 20:53",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Nuh uh",
+    "msgClasses": "chat_message bneon9"
   }
 ]
