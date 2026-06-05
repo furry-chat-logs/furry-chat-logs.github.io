@@ -37622,5 +37622,15 @@
     "userClasses": "username user ",
     "message": "Your picture is the SUN",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951859",
+    "type": "public",
+    "date": "4/06 22:18",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "It's a eclipse",
+    "msgClasses": "chat_message "
   }
 ]
