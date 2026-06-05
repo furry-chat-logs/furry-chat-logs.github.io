@@ -10368,5 +10368,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Smiley lol",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953107",
+    "type": "public",
+    "date": "5/06 15:50",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcDFscG5lZzRrcTE5ZjN6NTB2MDQyNHBwdjhreGc1aGJzdGZjbjZ3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VN3dGsdlp9nCPUfe8y/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
