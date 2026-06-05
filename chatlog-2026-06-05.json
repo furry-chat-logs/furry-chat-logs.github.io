@@ -2168,5 +2168,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I have no clue lmao",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7952281",
+    "type": "public",
+    "date": "5/06 3:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "maybe you had a good night of sleep",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7952282",
+    "type": "public",
+    "date": "5/06 3:22",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "-w-",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
