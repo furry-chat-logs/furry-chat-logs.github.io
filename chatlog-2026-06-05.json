@@ -6438,5 +6438,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Porphyrophobia i like the drawing !!",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7952709",
+    "type": "public",
+    "date": "5/06 11:08",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "When you have to say that you're nice",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952710",
+    "type": "public",
+    "date": "5/06 11:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Should I draw myself punching a pregnant woman's stomach",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
