@@ -33066,5 +33066,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "WHA",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951393",
+    "type": "public",
+    "date": "4/06 20:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "STOP.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951394",
+    "type": "public",
+    "date": "4/06 20:06",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Alex_007 who was it for you? The guy this reminds me of was profile link",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951395",
+    "type": "public",
+    "date": "4/06 20:06",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_28d567550353.png]",
+    "msgClasses": "chat_message "
   }
 ]
