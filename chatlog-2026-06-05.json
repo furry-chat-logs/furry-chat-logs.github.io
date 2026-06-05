@@ -9018,5 +9018,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnMzOHpkcDBnbWh2dDk5ZGRocDY5bWR5ZHhza2pldGFwcmJkemd5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5bQ9GKvboyqckRQmqG/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952971",
+    "type": "public",
+    "date": "5/06 14:55",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Porphyrophobia yesyes",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952972",
+    "type": "public",
+    "date": "5/06 14:55",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "My bad",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
