@@ -3098,5 +3098,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ello Mdekoni",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952374",
+    "type": "public",
+    "date": "5/06 7:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ello ghostship_mondo",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952375",
+    "type": "public",
+    "date": "5/06 7:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Sorry wrong buttob",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
