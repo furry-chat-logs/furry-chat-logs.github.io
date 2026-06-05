@@ -34056,5 +34056,25 @@
     "userClasses": "username bgrad39 ",
     "message": "SBB are u defending a ped?",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7951492",
+    "type": "public",
+    "date": "4/06 20:20",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Meep *tackle hugs* save me from this chaos",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951493",
+    "type": "public",
+    "date": "4/06 20:20",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_3a8d74b2a1a9.gif]",
+    "msgClasses": "chat_message "
   }
 ]
