@@ -34086,5 +34086,25 @@
     "userClasses": "username bgrad39 ",
     "message": "The vm I sent was against a ped how was it stupid",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7951495",
+    "type": "public",
+    "date": "4/06 20:21",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Spectre_protogen what chaos?",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7951496",
+    "type": "public",
+    "date": "4/06 20:21",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_c780f949b241.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
