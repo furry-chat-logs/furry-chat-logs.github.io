@@ -9408,5 +9408,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo nuthing",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7953011",
+    "type": "public",
+    "date": "5/06 15:15",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "XD",
+    "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7953012",
+    "type": "public",
+    "date": "5/06 15:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Just grey",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
