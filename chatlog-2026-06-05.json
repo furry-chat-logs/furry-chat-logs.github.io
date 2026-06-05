@@ -8,5 +8,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36927_5cc32cd15313.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952053",
+    "type": "public",
+    "date": "5/06 0:00",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bruh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952054",
+    "type": "public",
+    "date": "5/06 0:00",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Looks like a pancake",
+    "msgClasses": "chat_message bneon14"
   }
 ]
