@@ -10698,5 +10698,35 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "ZephTheFloofBoi sorry for being mean, it will happen again",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953140",
+    "type": "public",
+    "date": "5/06 16:03",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "Yatagarasu They found no kidnapping victims just some lemon pound cake",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7953141",
+    "type": "public",
+    "date": "5/06 16:03",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "[verysad]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953142",
+    "type": "public",
+    "date": "5/06 16:03",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "I don't even know what happened",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
