@@ -4228,5 +4228,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Last night I unlocked a golden AK-47 Skin in Hard Bullet",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7952488",
+    "type": "public",
+    "date": "5/06 9:27",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "questions killed the cat",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
