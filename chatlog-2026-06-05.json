@@ -14208,5 +14208,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "QueenMoon true I agree with that",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7953552",
+    "type": "public",
+    "date": "5/06 18:50",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "^^",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
