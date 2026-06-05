@@ -38802,5 +38802,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Good how about yourself",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7951977",
+    "type": "public",
+    "date": "4/06 23:45",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "SoraTheMikuFan how you doing",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7951978",
+    "type": "public",
+    "date": "4/06 23:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Magic is mpreg",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
