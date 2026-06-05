@@ -3228,5 +3228,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "We don't support zoos",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7952387",
+    "type": "public",
+    "date": "5/06 8:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Zoolover no but you can jump",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
