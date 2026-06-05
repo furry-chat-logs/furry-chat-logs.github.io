@@ -2798,5 +2798,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Random lines",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7952344",
+    "type": "public",
+    "date": "5/06 4:07",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Looks like a toilet ngl",
+    "msgClasses": "chat_message bneon14"
   }
 ]
