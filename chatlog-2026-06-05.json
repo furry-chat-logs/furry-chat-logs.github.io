@@ -10898,5 +10898,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "sigh",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953160",
+    "type": "public",
+    "date": "5/06 16:06",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "LukeWarm no?",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953161",
+    "type": "public",
+    "date": "5/06 16:06",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "(Facepalm)",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
   }
 ]
