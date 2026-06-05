@@ -12578,5 +12578,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Deimos the FPS cant process well",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7953329",
+    "type": "public",
+    "date": "5/06 16:59",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "that",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953330",
+    "type": "public",
+    "date": "5/06 16:59",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Deimos real",
+    "msgClasses": "chat_message "
   }
 ]
