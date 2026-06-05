@@ -7408,5 +7408,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I'm Issing my Issa",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952806",
+    "type": "public",
+    "date": "5/06 11:40",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I found this old Sublime shirt from years ago.",
+    "msgClasses": "chat_message ital"
   }
 ]
