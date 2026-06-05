@@ -5278,5 +5278,45 @@
     "userClasses": "username user ",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952593",
+    "type": "public",
+    "date": "5/06 9:44",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "chameleon557 hi there",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7952594",
+    "type": "public",
+    "date": "5/06 9:44",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_a9ffd7e35088.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952595",
+    "type": "public",
+    "date": "5/06 9:44",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "welcome to the chat",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7952596",
+    "type": "public",
+    "date": "5/06 9:44",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "wait a minute...",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
