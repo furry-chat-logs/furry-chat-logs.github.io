@@ -9768,5 +9768,15 @@
     "userClasses": "username bneon16 bnfont1",
     "message": "Spoke oh ello",
     "msgClasses": "chat_message bneon13 ital bfont12"
+  },
+  {
+    "id": "7953047",
+    "type": "public",
+    "date": "5/06 15:24",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "no clue what hes saying💔",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
