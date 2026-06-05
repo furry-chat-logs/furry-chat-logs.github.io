@@ -31476,5 +31476,15 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "Thomas_Steifstein LMAOOOO",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7951234",
+    "type": "public",
+    "date": "4/06 19:46",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "thats sad",
+    "msgClasses": "chat_message "
   }
 ]
