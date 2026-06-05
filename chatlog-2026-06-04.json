@@ -33826,5 +33826,25 @@
     "userClasses": "username bgrad39 ",
     "message": "LMAO.",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7951469",
+    "type": "public",
+    "date": "4/06 20:18",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "3fs bro",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951470",
+    "type": "public",
+    "date": "4/06 20:18",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmempud3Y5YjQ4cDBwMDBodHh1OHo5emgweTF6bzc2OGZ0czd2bXB3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wYyAgjRSnAFt6/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
