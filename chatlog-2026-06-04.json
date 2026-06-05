@@ -37992,5 +37992,15 @@
     "userClasses": "username bneon18 ",
     "message": "I'm heading to bed, soon.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7951896",
+    "type": "public",
+    "date": "4/06 22:38",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "For the record, my twin died in side of my mom",
+    "msgClasses": "chat_message "
   }
 ]
