@@ -39192,5 +39192,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Great job You took it into the context that I expected people to take it QueenKit",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7952016",
+    "type": "public",
+    "date": "4/06 23:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "😭😭😭",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952017",
+    "type": "public",
+    "date": "4/06 23:51",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9738_1643177f25ad.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952018",
+    "type": "public",
+    "date": "4/06 23:51",
+    "username": "JustAnAnt",
+    "userId": "9738",
+    "userClasses": "username bgrad13 bnfont6",
+    "message": "Doodle",
+    "msgClasses": "chat_message bneon15 bold bfont13"
   }
 ]
