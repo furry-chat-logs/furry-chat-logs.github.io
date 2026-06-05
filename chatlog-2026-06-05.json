@@ -6308,5 +6308,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I am NOT awful. [toro]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952696",
+    "type": "public",
+    "date": "5/06 11:05",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "again, my friends are very special.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
