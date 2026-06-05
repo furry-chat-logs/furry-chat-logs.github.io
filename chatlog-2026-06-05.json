@@ -398,5 +398,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": ".>.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952097",
+    "type": "public",
+    "date": "5/06 0:07",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Yawn",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7952098",
+    "type": "public",
+    "date": "5/06 0:07",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Art bump",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
