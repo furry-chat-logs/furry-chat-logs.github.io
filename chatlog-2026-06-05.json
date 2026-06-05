@@ -12538,5 +12538,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Wth even happened?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7953324",
+    "type": "public",
+    "date": "5/06 16:56",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "ts corny asf",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953325",
+    "type": "public",
+    "date": "5/06 16:57",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd21pNWI0YzRhbGVvZ3oxOTUzZWZnbzRwdG1pY210cTg5eTAyaGxqeSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/vPzbDN4rBxuvtpSpzF/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
