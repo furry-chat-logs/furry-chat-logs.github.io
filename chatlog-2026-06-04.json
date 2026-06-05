@@ -36344,5 +36344,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "That enemy mentioned them being an Innovator, which is the next apparent evolution of mankind, however, she is a artificial Innovator",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951727",
+    "type": "public",
+    "date": "4/06 21:09",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "fair enough",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
