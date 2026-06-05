@@ -38092,5 +38092,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Chikn but",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951906",
+    "type": "public",
+    "date": "4/06 22:44",
+    "username": "Wolf ecilpse",
+    "userId": "2473",
+    "userClasses": "username bneon3 bnfont14",
+    "message": "Hello everyone",
+    "msgClasses": "chat_message bneon2 boldital bfont11"
   }
 ]
