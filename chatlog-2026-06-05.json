@@ -8598,5 +8598,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I tried to copy lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952929",
+    "type": "public",
+    "date": "5/06 14:23",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_2b8452b0bb24.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
