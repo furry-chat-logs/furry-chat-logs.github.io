@@ -37472,5 +37472,25 @@
     "userClasses": "username bcolor1 bnfont8",
     "message": "My mouth got bleeding😔",
     "msgClasses": "chat_message bcolor4 heavybold bfont12"
+  },
+  {
+    "id": "7951844",
+    "type": "public",
+    "date": "4/06 22:06",
+    "username": "7vhl_Mike",
+    "userId": "27654",
+    "userClasses": "username bcolor1 bnfont8",
+    "message": "😣😣",
+    "msgClasses": "chat_message bcolor4 heavybold bfont12"
+  },
+  {
+    "id": "7951845",
+    "type": "public",
+    "date": "4/06 22:06",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "KingCorgz please rest.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
