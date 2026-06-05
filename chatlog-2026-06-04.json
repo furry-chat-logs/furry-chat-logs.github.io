@@ -37032,5 +37032,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'm back",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951799",
+    "type": "public",
+    "date": "4/06 21:51",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36767_82eae7f15b9d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951800",
+    "type": "public",
+    "date": "4/06 21:51",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "Hi",
+    "msgClasses": "chat_message "
   }
 ]
