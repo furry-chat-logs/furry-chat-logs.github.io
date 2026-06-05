@@ -4368,5 +4368,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "...5th finger",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952502",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "oh",
+    "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7952503",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Dyslexic final boss",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952504",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "MP-40 stands for Machinen Pistole 40",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7952505",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "learned something new",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
