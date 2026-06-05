@@ -30236,5 +30236,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yo Thomas wassup",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951110",
+    "type": "public",
+    "date": "4/06 19:09",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "wassup",
+    "msgClasses": "chat_message "
   }
 ]
