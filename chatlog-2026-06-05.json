@@ -3268,5 +3268,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Zoolover hi",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952391",
+    "type": "public",
+    "date": "5/06 8:22",
+    "username": "Wallber",
+    "userId": "36305",
+    "userClasses": "username user ",
+    "message": "What's up chat? How we feeling today?",
+    "msgClasses": "chat_message "
   }
 ]
