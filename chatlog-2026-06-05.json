@@ -4648,5 +4648,25 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Spectre_protogen I heard the kickback is crazy though",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7952530",
+    "type": "public",
+    "date": "5/06 9:32",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia English Premium is Issa Approved.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7952531",
+    "type": "public",
+    "date": "5/06 9:32",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "ghostship_mondo depends on your stance and how you decide to fire it. Since it is possible - yet not advised - to fire it stood up, rapid-fire.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
