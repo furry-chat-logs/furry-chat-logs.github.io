@@ -13788,5 +13788,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Sacarverdasaiko no chance.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7953504",
+    "type": "public",
+    "date": "5/06 18:34",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "the inquisition of the imperium have been monitoring me. Apparently the adeptus mechanicus think I'm a machine spirit incarnate.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
