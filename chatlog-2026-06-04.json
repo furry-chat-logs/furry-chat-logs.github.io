@@ -39342,5 +39342,35 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "QueenMoon what did it say",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7952031",
+    "type": "public",
+    "date": "4/06 23:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "That made my heart drop so fast",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952033",
+    "type": "public",
+    "date": "4/06 23:56",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "\"She was like the moon, part of her was always hidden away\"",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7952034",
+    "type": "public",
+    "date": "4/06 23:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbnpqaGxqMTd3MjM3MjIyMnlpaTM0cXUyOTlobGF5N3d3cnJ1Mjg1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OmqRHI3lSX7jR97WjZ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
