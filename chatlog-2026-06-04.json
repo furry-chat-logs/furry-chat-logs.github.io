@@ -36174,5 +36174,25 @@
     "userClasses": "username bcolor3 bnfont7",
     "message": "No Idea who it is, but sounds like a predator",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951709",
+    "type": "public",
+    "date": "4/06 21:01",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "He didn't rlly say anything weird to me he js sent me his face",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7951710",
+    "type": "public",
+    "date": "4/06 21:01",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "😭",
+    "msgClasses": "chat_message bneon9"
   }
 ]
