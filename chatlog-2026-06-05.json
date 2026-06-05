@@ -8258,5 +8258,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "I am TOO into Geometry Dash",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7952893",
+    "type": "public",
+    "date": "5/06 13:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I have a big fat crush on Mr. Peabody",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952894",
+    "type": "public",
+    "date": "5/06 13:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
