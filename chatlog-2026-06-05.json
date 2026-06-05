@@ -8988,5 +8988,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Big guy",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952968",
+    "type": "public",
+    "date": "5/06 14:54",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Huh?",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
