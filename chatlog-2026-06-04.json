@@ -39132,5 +39132,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Guys i love my boyfriend",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7952010",
+    "type": "public",
+    "date": "4/06 23:51",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Ashton McKennan that's what she-",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7952011",
+    "type": "public",
+    "date": "4/06 23:51",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Nvm",
+    "msgClasses": "chat_message bneon19"
   }
 ]
