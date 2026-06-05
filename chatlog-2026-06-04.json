@@ -39292,5 +39292,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Charlie Charlie kirkie",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952026",
+    "type": "public",
+    "date": "4/06 23:55",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Jesus",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
