@@ -12748,5 +12748,15 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "😂🙏",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953346",
+    "type": "public",
+    "date": "5/06 17:06",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Spoke talk about lack of commitment",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
