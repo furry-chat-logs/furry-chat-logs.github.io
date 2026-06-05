@@ -1218,5 +1218,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "My country is attacked all the time...",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952186",
+    "type": "public",
+    "date": "5/06 1:41",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "There is like a 20% tax on anything u buy to give to military forces",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952187",
+    "type": "public",
+    "date": "5/06 1:41",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Hello",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952188",
+    "type": "public",
+    "date": "5/06 1:41",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "Oh, I'm sorry..",
+    "msgClasses": "chat_message "
   }
 ]
