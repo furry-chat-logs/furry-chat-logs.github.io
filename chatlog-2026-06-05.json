@@ -13008,5 +13008,15 @@
     "userClasses": "username bneon16 bnfont1",
     "message": "sigh",
     "msgClasses": "chat_message bneon13 ital bfont12"
+  },
+  {
+    "id": "7953372",
+    "type": "public",
+    "date": "5/06 17:16",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbzRxaDRlMGZvMmh4aGM0cHdremw5OTB2NmV0YW80eTg4YmxpanZ0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3kD2Eciolhy4VOzjRV/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
