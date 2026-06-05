@@ -7828,5 +7828,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952848",
+    "type": "public",
+    "date": "5/06 12:00",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "My meme playlist is so peak trust",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
