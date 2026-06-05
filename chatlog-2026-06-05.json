@@ -1388,5 +1388,35 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "XxGuardianxX np lol",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952203",
+    "type": "public",
+    "date": "5/06 1:44",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "SoraTheMikuFan you never know ^^",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952204",
+    "type": "public",
+    "date": "5/06 1:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I think that new kid just logged out",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952205",
+    "type": "public",
+    "date": "5/06 1:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "He doesnt type anymore",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
