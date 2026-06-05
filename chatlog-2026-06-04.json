@@ -37732,5 +37732,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "A mistake",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951870",
+    "type": "public",
+    "date": "4/06 22:24",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "[medsmile]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951871",
+    "type": "public",
+    "date": "4/06 22:24",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_5a91a7e50e66.png]",
+    "msgClasses": "chat_message "
   }
 ]
