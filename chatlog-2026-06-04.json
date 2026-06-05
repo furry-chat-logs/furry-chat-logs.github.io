@@ -34866,5 +34866,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Nirvana is... eh.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951576",
+    "type": "public",
+    "date": "4/06 20:40",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I listen to peal",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951577",
+    "type": "public",
+    "date": "4/06 20:40",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_468c8a474b38.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951578",
+    "type": "public",
+    "date": "4/06 20:40",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Peak",
+    "msgClasses": "chat_message bneon19"
   }
 ]
