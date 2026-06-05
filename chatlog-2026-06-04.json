@@ -32656,5 +32656,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I did not have to",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951352",
+    "type": "public",
+    "date": "4/06 20:01",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "And cherry drop persuaded me to show her picture of me",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951353",
+    "type": "public",
+    "date": "4/06 20:01",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "but I'll shut uwup ^-^^ im a fuzzy fuwwy now and be normal again",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
