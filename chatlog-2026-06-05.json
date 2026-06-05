@@ -2318,5 +2318,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "or are you seated?",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7952296",
+    "type": "public",
+    "date": "5/06 3:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I was",
+    "msgClasses": "chat_message bneon14"
   }
 ]
