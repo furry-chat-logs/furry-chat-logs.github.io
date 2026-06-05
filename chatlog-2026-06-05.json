@@ -11588,5 +11588,25 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "You were like",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7953229",
+    "type": "public",
+    "date": "5/06 16:19",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "unfortunately people use that as an excuse to be horrible to people",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953230",
+    "type": "public",
+    "date": "5/06 16:19",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "\"who is so and so💔'",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
