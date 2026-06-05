@@ -13418,5 +13418,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "Numm Bug good good",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953463",
+    "type": "public",
+    "date": "5/06 18:18",
+    "username": "Sacarverdasaiko",
+    "userId": "37058",
+    "userClasses": "username bcolor1 bnfont7",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaHJneXFvOTdwaWNzZHB1MGhkNzF1YzBiOGRjaGNuM2pmbzVrbjNtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDtiVhSsaT4k8JTkhO/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
