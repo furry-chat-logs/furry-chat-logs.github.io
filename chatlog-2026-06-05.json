@@ -13728,5 +13728,15 @@
     "userClasses": "username bcolor1 bnfont7",
     "message": "QueenMoon I'm saying it's a long fight for one",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953497",
+    "type": "public",
+    "date": "5/06 18:30",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "At full power, the Turn A Gundam can wipe all technology and advances in the range from all of earth to Saturn",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
