@@ -13638,5 +13638,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "TARDIS won't be able to do crap",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7953486",
+    "type": "public",
+    "date": "5/06 18:27",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Yeah good luck with that",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953487",
+    "type": "public",
+    "date": "5/06 18:27",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "It'd be a hunk of metal in an instant",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
