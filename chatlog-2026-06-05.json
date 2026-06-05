@@ -8658,5 +8658,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Bro got flashbanged",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952935",
+    "type": "public",
+    "date": "5/06 14:24",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "He needs tips",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952936",
+    "type": "public",
+    "date": "5/06 14:24",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hes homeless",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
