@@ -7608,5 +7608,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "*shocked *",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952826",
+    "type": "public",
+    "date": "5/06 11:44",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_778394c2de30.png]",
+    "msgClasses": "chat_message "
   }
 ]
