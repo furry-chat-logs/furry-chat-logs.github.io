@@ -31276,5 +31276,25 @@
     "userClasses": "username bcolor8 ",
     "message": "And I got kicked off for half an hour , and I got a super scary message saying that the f b I may be involved",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951214",
+    "type": "public",
+    "date": "4/06 19:42",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "What? Who?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951215",
+    "type": "public",
+    "date": "4/06 19:42",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWEweWExbzQ0aWtsajh6dXg4aTM1am54bXFzaG42cnkxMmkxdG9leiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MOYUOOoIHOj9PKN1rE/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
