@@ -4198,5 +4198,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeXlyaWprcGx3b3ZsY3h5aHJpMXF0bXB0dmFybTlzcTd5czM4dXh1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOuVjiA6qvLGB3NusU/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952485",
+    "type": "public",
+    "date": "5/06 9:27",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYmlrYnBuZm5lcXdrOHM5ZGI0cm82eGczczdkN3hoeWR5dnkwZGVuNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT1Ra3IXmymuKFQufS/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7952486",
+    "type": "public",
+    "date": "5/06 9:27",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "ghostship_mondo 👁️",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
