@@ -8138,5 +8138,15 @@
     "userClasses": "username user ",
     "message": "Cool...cool haha",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952881",
+    "type": "public",
+    "date": "5/06 12:53",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "WAAAAAZZZAAAAPPP",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
