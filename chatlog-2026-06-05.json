@@ -3398,5 +3398,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": ". Wallber  thay wernt groing in strate",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952405",
+    "type": "public",
+    "date": "5/06 8:48",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm.",
+    "msgClasses": "chat_message ital"
   }
 ]
