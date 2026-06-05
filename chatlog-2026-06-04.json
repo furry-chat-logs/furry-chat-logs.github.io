@@ -36374,5 +36374,13 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "ooooooh",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951731",
+    "type": "system",
+    "date": "4/06 21:12",
+    "username": "System",
+    "userId": null,
+    "message": "Gumby_iguana has been kicked"
   }
 ]
