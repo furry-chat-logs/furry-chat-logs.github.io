@@ -38202,5 +38202,25 @@
     "userClasses": "username user ",
     "message": "How 🥹🥹🥹",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951917",
+    "type": "public",
+    "date": "4/06 22:51",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "you just do",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7951918",
+    "type": "public",
+    "date": "4/06 22:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_d76f51da93c6.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
