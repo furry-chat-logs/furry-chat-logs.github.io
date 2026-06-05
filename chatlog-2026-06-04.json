@@ -31606,5 +31606,25 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "Thomas_Steifstein LMAOOAOAOAOOOAOAOAOAOOO",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7951247",
+    "type": "public",
+    "date": "4/06 19:48",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "Leeland why??",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951248",
+    "type": "public",
+    "date": "4/06 19:48",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "Issa SAY WALLAHI BRO SAY WALLAHI",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
