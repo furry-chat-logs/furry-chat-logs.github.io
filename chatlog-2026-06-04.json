@@ -37572,5 +37572,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Hey everyone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951854",
+    "type": "public",
+    "date": "4/06 22:18",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Hello sun",
+    "msgClasses": "chat_message "
   }
 ]
