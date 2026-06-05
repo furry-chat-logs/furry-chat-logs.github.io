@@ -3558,5 +3558,15 @@
     "userClasses": "username bneon4 bnfont7",
     "message": "😵‍💫😵‍💫😵‍💫",
     "msgClasses": "chat_message bcolor27 boldital bfont7"
+  },
+  {
+    "id": "7952421",
+    "type": "public",
+    "date": "5/06 9:12",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*I appear*",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
