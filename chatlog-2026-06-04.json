@@ -31986,5 +31986,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I'm not the drama starting one",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951285",
+    "type": "public",
+    "date": "4/06 19:54",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gumby_iguana soooo",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951286",
+    "type": "public",
+    "date": "4/06 19:54",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "W-a-l-l-a-h-i.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7951287",
+    "type": "public",
+    "date": "4/06 19:54",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "The same thing you did?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
