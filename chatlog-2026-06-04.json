@@ -30256,5 +30256,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Hru?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951112",
+    "type": "public",
+    "date": "4/06 19:09",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "good, but im bored as hell",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951113",
+    "type": "public",
+    "date": "4/06 19:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Dies",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
