@@ -37592,5 +37592,25 @@
     "userClasses": "username user ",
     "message": "Why didn't you wake me up this morning",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951856",
+    "type": "public",
+    "date": "4/06 22:18",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Wut?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951857",
+    "type": "public",
+    "date": "4/06 22:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_9edbe62637d0.png]",
+    "msgClasses": "chat_message "
   }
 ]
