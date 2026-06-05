@@ -37272,5 +37272,15 @@
     "userClasses": "username bcolor1 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user27654_930c86df9151.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951824",
+    "type": "public",
+    "date": "4/06 21:57",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmajBxMXhtdnNsamdybG1zb29qMjZvN3JpbHhyNTdnc3RqM3JyMHYyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GBiODykrn8DZfo7Vsb/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
