@@ -4678,5 +4678,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "if you are in a prone position with the bipod set up correctly, you have a decent amount of recoil, though it is dampened by the stance",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7952533",
+    "type": "public",
+    "date": "5/06 9:33",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ok uh uh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
