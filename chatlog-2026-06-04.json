@@ -30316,5 +30316,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "No dying, dying is straight behaviour",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951118",
+    "type": "public",
+    "date": "4/06 19:10",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "well alright",
+    "msgClasses": "chat_message "
   }
 ]
