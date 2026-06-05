@@ -1668,5 +1668,35 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Make it the last time",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7952231",
+    "type": "public",
+    "date": "5/06 1:50",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZTV0bDJpcG0yZ2M3cDZsbTZwYXNudHBkb3VqeGppNHg1dGRmejF6NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ru9sjtZ09XOEg/giphy.gif]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7952232",
+    "type": "public",
+    "date": "5/06 1:50",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ok",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952233",
+    "type": "public",
+    "date": "5/06 1:50",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Rune goodnight",
+    "msgClasses": "chat_message "
   }
 ]
