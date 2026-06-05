@@ -13158,5 +13158,15 @@
     "userClasses": "username user ",
     "message": "The only thing that changed is the amount of people",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953389",
+    "type": "public",
+    "date": "5/06 17:33",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Aaaaaaa",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
