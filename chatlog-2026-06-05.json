@@ -2358,5 +2358,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "It's so full...",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952300",
+    "type": "public",
+    "date": "5/06 3:28",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "breathe",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
