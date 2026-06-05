@@ -33366,5 +33366,25 @@
     "userClasses": "username bgrad39 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_669a98f0f8e9.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951423",
+    "type": "public",
+    "date": "4/06 20:12",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_907dbba4abfc.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951424",
+    "type": "public",
+    "date": "4/06 20:12",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdW8ybWQ1bm9pb2tuYTN2NWV6dmZ6am9xZXBiYzhqcDh1Zzh1dHdsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3MtlDYfMTVl9fFVzA3/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
