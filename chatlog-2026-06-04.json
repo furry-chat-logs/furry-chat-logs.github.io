@@ -34926,5 +34926,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I listen to NF, Sleep Token, FFDP, Sullivan King, Dal Av, ADAM ON EARTH, PhaseOne, Disturbed, and Tay tay",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951583",
+    "type": "public",
+    "date": "4/06 20:42",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Nothing beats the gumby theme songs",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951584",
+    "type": "public",
+    "date": "4/06 20:42",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "favourite song but 1 hour of it looping.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
