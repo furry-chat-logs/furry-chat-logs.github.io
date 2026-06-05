@@ -36084,5 +36084,15 @@
     "userClasses": "username bcolor3 bnfont7",
     "message": "Evening all",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951700",
+    "type": "public",
+    "date": "4/06 21:00",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "nevermine. I have seen the kick message",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
