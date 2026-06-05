@@ -33156,5 +33156,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "You're just trying to have a gross experience with a minor",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951402",
+    "type": "public",
+    "date": "4/06 20:08",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Alex_007 oh, okay",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951403",
+    "type": "public",
+    "date": "4/06 20:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_460afb956822.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
