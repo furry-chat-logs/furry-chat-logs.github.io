@@ -34456,5 +34456,15 @@
     "userClasses": "username bneon18 ",
     "message": "I want to go there, sometime.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7951533",
+    "type": "public",
+    "date": "4/06 20:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hunter seven.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
