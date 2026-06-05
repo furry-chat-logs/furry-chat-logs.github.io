@@ -4668,5 +4668,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "ghostship_mondo depends on your stance and how you decide to fire it. Since it is possible - yet not advised - to fire it stood up, rapid-fire.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7952532",
+    "type": "public",
+    "date": "5/06 9:33",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "if you are in a prone position with the bipod set up correctly, you have a decent amount of recoil, though it is dampened by the stance",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
