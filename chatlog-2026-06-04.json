@@ -31576,5 +31576,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFma3J5cDdwaDViMjgydGNvMjJqNnVrNHAxZm9vdWZ6OXQxZnltNXhsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7sI6GmJUj1DRYAGwuH/giphy.gif]",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951244",
+    "type": "public",
+    "date": "4/06 19:47",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOXE0dG1iMmhmdGY0enVocHZoOGptcWlvczJyNDUxcWtna243enY1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/omM1i2ipzFyZxM6HwE/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951245",
+    "type": "public",
+    "date": "4/06 19:47",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user8620_c8b5f73310a1.mp3 | say_wallahi_bro.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951246",
+    "type": "public",
+    "date": "4/06 19:47",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "Thomas_Steifstein LMAOOAOAOAOOOAOAOAOAOOO",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
