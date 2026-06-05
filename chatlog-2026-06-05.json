@@ -8358,5 +8358,15 @@
     "userClasses": "username user ",
     "message": "bored",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952903",
+    "type": "public",
+    "date": "5/06 13:32",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "AJ232 same",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
