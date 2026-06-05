@@ -12318,5 +12318,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY2pybTZ2ZWk4a21xem53cTd5Y2x5ejQybnpzdDI5Z2V1ZngwMzdwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bbd0p10IKS40uMuItO/giphy.gif]",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953302",
+    "type": "public",
+    "date": "5/06 16:48",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "Numm Bug hellou",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953303",
+    "type": "public",
+    "date": "5/06 16:48",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Spoke you think i dont know that,dumbass?",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
