@@ -7348,5 +7348,25 @@
     "userClasses": "username bgrad15 ",
     "message": "die",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7952800",
+    "type": "public",
+    "date": "5/06 11:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ok",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952801",
+    "type": "public",
+    "date": "5/06 11:39",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "bye guys",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
