@@ -13358,5 +13358,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "If I had to sum it up, it'd be if Gundam and Armored Core had a baby",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7953455",
+    "type": "public",
+    "date": "5/06 18:09",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "excuse the music spam",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
