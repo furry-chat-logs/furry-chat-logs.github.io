@@ -36532,5 +36532,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "If you want to see the best fight in Gundam watch this video, it's only 4 minutes",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951749",
+    "type": "public",
+    "date": "4/06 21:20",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "What if I don't?",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
