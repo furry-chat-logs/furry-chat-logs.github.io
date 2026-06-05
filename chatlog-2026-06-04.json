@@ -35056,5 +35056,35 @@
     "userClasses": "username bcolor8 ",
     "message": "Yes",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951596",
+    "type": "public",
+    "date": "4/06 20:44",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I have 2 exams later today. BUT THIS IS way more worth it.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951597",
+    "type": "public",
+    "date": "4/06 20:44",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "I'm a fantastic singer",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951598",
+    "type": "public",
+    "date": "4/06 20:44",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "caps lock decided to make itself known, oops",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
