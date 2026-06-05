@@ -4858,5 +4858,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Uh uh atleast I can count yesyes",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952551",
+    "type": "public",
+    "date": "5/06 9:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Marsh is still very smart",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952552",
+    "type": "public",
+    "date": "5/06 9:37",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "i have two more days left and then I'm done",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7952553",
+    "type": "public",
+    "date": "5/06 9:37",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeXo5bmgzZnM5a2lhenVsbnE3bGZqZTRqbGs1a2w0aGdkMDF4bW9raCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CncEX02H3bxf6NjbK4/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7952554",
+    "type": "public",
+    "date": "5/06 9:37",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "He's just not locked in at the moment",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
