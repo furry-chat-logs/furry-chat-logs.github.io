@@ -32306,5 +32306,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Use a zipper to prevent yourself from saying anymore stupidity out of your mouth",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951317",
+    "type": "public",
+    "date": "4/06 19:57",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "So tuff",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951318",
+    "type": "public",
+    "date": "4/06 19:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "You sound like a goddamn mule",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951319",
+    "type": "public",
+    "date": "4/06 19:57",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Spectre_protogen the one that made her famous, the first one",
+    "msgClasses": "chat_message "
   }
 ]
