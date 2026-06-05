@@ -29876,5 +29876,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_747d43d1b12d.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951074",
+    "type": "public",
+    "date": "4/06 19:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "PLEASE. I BEG YOU.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951075",
+    "type": "public",
+    "date": "4/06 19:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "IT WAS AN ACCIDENT.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
