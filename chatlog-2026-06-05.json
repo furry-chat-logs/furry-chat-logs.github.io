@@ -588,5 +588,25 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9738_c00ffaf86dbf.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952116",
+    "type": "public",
+    "date": "5/06 0:09",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "To whom are you talking about QueenMoon",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7952117",
+    "type": "public",
+    "date": "5/06 0:09",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "\"Guess someone else gets your ice cream\" \"ice cream?\"",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
