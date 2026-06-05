@@ -12308,5 +12308,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Spoke hii",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7953301",
+    "type": "public",
+    "date": "5/06 16:47",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY2pybTZ2ZWk4a21xem53cTd5Y2x5ejQybnpzdDI5Z2V1ZngwMzdwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bbd0p10IKS40uMuItO/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
