@@ -8408,5 +8408,25 @@
     "userClasses": "username bgrad15 ",
     "message": "i am the back from the assembley",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7952908",
+    "type": "public",
+    "date": "5/06 13:46",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "I accidentally smacked my laptop and it gave me a blue screen",
+    "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7952909",
+    "type": "public",
+    "date": "5/06 13:46",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37459_16d79d8d481b.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
