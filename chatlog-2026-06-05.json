@@ -7328,5 +7328,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "🫃",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952798",
+    "type": "public",
+    "date": "5/06 11:39",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "i think i should",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7952799",
+    "type": "public",
+    "date": "5/06 11:39",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "die",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
