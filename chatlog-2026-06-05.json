@@ -8558,5 +8558,15 @@
     "userClasses": "username bgrad15 ",
     "message": "[scrylveon]",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7952925",
+    "type": "public",
+    "date": "5/06 14:17",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "My wifi keeps CUTTING IUT",
+    "msgClasses": "chat_message bold"
   }
 ]
