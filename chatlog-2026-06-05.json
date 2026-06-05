@@ -6458,5 +6458,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Should I draw myself punching a pregnant woman's stomach",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952711",
+    "type": "public",
+    "date": "5/06 11:08",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "No",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952712",
+    "type": "public",
+    "date": "5/06 11:08",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "yEah!!!",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
