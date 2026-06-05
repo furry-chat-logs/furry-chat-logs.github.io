@@ -8468,5 +8468,15 @@
     "userClasses": "username user ",
     "message": "SwiggleRattle I work in IT and I can say while that's not a good thing, I'm just as tempted to smack my laptop when it's misbehaving",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952914",
+    "type": "public",
+    "date": "5/06 14:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmajdjYnNicDRqaG9icmRpN2ZnaDc4M2Jud3V0bXVoYWZiY2pmZ2tyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XyAGm96eUIPsc/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
