@@ -11568,5 +11568,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "💔",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953227",
+    "type": "public",
+    "date": "5/06 16:18",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Spoke someone who joined the other day",
+    "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7953228",
+    "type": "public",
+    "date": "5/06 16:19",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "You were like",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
