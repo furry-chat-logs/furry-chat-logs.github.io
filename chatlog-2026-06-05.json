@@ -3138,5 +3138,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952378",
+    "type": "public",
+    "date": "5/06 7:59",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Finally back",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7952379",
+    "type": "public",
+    "date": "5/06 7:59",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Hallo!!!",
+    "msgClasses": "chat_message bold"
   }
 ]
