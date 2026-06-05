@@ -39172,5 +39172,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "He is just so relatable",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7952014",
+    "type": "public",
+    "date": "4/06 23:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "QueenKit never did that I'm 13 yk",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952015",
+    "type": "public",
+    "date": "4/06 23:51",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Great job You took it into the context that I expected people to take it QueenKit",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
