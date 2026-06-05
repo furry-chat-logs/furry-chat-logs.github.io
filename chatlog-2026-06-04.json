@@ -30216,5 +30216,15 @@
     "userClasses": "username bcolor17 bnfont3",
     "message": "its just a photo its alr gone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951108",
+    "type": "public",
+    "date": "4/06 19:09",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYmloa2w1ZG53NmRtaDhpYXU5azlyZXVjaXdlZWxsd3gwN2tnaDJ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/35KnK68bieK5CbZYdq/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
