@@ -1838,5 +1838,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I'm in school",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952248",
+    "type": "public",
+    "date": "5/06 1:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Today i have shool free",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
