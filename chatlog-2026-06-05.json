@@ -14178,5 +14178,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "If we both have opinions, we can both voice them",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7953549",
+    "type": "public",
+    "date": "5/06 18:49",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Had some random scotsman join a playstation party with me and my friends. the guy then started spouting some bullshit about me. my friends were adamant they didn't know the guy.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
