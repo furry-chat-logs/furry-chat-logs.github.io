@@ -30936,5 +30936,15 @@
     "userClasses": "username bcolor17 bnfont3",
     "message": "you started that kind of conversation",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951180",
+    "type": "public",
+    "date": "4/06 19:33",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "merp",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
