@@ -6148,5 +6148,25 @@
     "userClasses": "username bgrad15 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37005_ee63cf7aa001.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952680",
+    "type": "public",
+    "date": "5/06 11:01",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37005_85f632d7679d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952681",
+    "type": "public",
+    "date": "5/06 11:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "III I finke it's good Buggo is going places",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
