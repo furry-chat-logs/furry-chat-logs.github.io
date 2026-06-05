@@ -10278,5 +10278,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Smiley ts you?",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953098",
+    "type": "public",
+    "date": "5/06 15:47",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Hello people",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
