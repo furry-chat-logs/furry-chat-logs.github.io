@@ -6618,5 +6618,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Yes WE",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952727",
+    "type": "public",
+    "date": "5/06 11:21",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMGxtNzRyN2prZ2VzOTNnNTRtM3owbTBpeTdha3RtZTFqbnB4ZTdseCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGoL1fizDLmHdwycqq/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
