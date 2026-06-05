@@ -37802,5 +37802,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "The Nephalem that....is unfortunate",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951877",
+    "type": "public",
+    "date": "4/06 22:28",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_a87e21169fbc.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951878",
+    "type": "public",
+    "date": "4/06 22:28",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_8c1230b79915.png]",
+    "msgClasses": "chat_message "
   }
 ]
