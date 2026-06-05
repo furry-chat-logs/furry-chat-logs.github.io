@@ -3058,5 +3058,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ded chat lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952370",
+    "type": "public",
+    "date": "5/06 7:37",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Mdekoni indeed",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
