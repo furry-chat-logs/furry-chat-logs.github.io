@@ -6478,5 +6478,15 @@
     "userClasses": "username bgrad15 ",
     "message": "yEah!!!",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7952713",
+    "type": "public",
+    "date": "5/06 11:08",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Yeah",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
