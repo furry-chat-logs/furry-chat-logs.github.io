@@ -36562,5 +36562,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeTJ5NGlpMmZ4cWVqd2RwcGJ3Y3dtZ3V1cGhjZjFydHlhbm1nZmQwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/olnuKV0a3Et5C/giphy.gif]",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7951752",
+    "type": "public",
+    "date": "4/06 21:21",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "always love the unexpected input from the frog. lol",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951753",
+    "type": "public",
+    "date": "4/06 21:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Because nothing could measure to the power of the frog lord",
+    "msgClasses": "chat_message bneon19"
   }
 ]
