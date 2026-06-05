@@ -12798,5 +12798,15 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "that guy who was friends with fontaine",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953351",
+    "type": "public",
+    "date": "5/06 17:08",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "and then he got banned",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
