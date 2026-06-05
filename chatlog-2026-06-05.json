@@ -10858,5 +10858,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "when was this",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953156",
+    "type": "public",
+    "date": "5/06 16:05",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Ew don't type \"no?\"",
+    "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7953157",
+    "type": "public",
+    "date": "5/06 16:05",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "made the sheriff wanna put down his gun, and cut him a sliiiccceee",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
