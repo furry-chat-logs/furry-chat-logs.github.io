@@ -4568,5 +4568,45 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Eh,",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7952522",
+    "type": "public",
+    "date": "5/06 9:31",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Or super duper simple words",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952523",
+    "type": "public",
+    "date": "5/06 9:31",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "The gun that the A-10 Thunderbolt II is built around is known as the Gau-8 and is constructed by General Electric. Your plane may have a gun, but my gun has a plane.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7952524",
+    "type": "public",
+    "date": "5/06 9:31",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Shit like that",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952525",
+    "type": "public",
+    "date": "5/06 9:31",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "ghostship_mondo same",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
