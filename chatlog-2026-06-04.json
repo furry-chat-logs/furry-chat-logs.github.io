@@ -35716,5 +35716,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Not nice to say, but would be very nice to see you do",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951663",
+    "type": "public",
+    "date": "4/06 20:54",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "QueenKit not okay just say things like that to people",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951664",
+    "type": "public",
+    "date": "4/06 20:54",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Gumby_iguana Idc",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
