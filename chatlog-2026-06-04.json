@@ -36234,5 +36234,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I think",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951715",
+    "type": "public",
+    "date": "4/06 21:02",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I think we all need some Gundam badassery",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951716",
+    "type": "public",
+    "date": "4/06 21:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ts makes me feel ashamed of being one 🥀",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
