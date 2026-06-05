@@ -158,5 +158,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "Yet another doodle",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7952073",
+    "type": "public",
+    "date": "5/06 0:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bruh lol",
+    "msgClasses": "chat_message bneon14"
   }
 ]
