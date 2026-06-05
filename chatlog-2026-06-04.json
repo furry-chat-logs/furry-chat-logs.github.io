@@ -31776,5 +31776,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "not my problem. ignore button exists for a reason",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951264",
+    "type": "public",
+    "date": "4/06 19:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yep",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951265",
+    "type": "public",
+    "date": "4/06 19:50",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Is he a moderator or is he lying",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951266",
+    "type": "public",
+    "date": "4/06 19:50",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "And I'm quoting Frog-lord there",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
