@@ -3078,5 +3078,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "ghostship_mondo hi👋😝",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952372",
+    "type": "public",
+    "date": "5/06 7:44",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "im suprised i havent fallen asleep yet tonight....",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7952373",
+    "type": "public",
+    "date": "5/06 7:44",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ello Mdekoni",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
