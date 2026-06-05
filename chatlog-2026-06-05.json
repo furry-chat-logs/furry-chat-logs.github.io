@@ -1418,5 +1418,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "He doesnt type anymore",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952206",
+    "type": "public",
+    "date": "5/06 1:44",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "SBB who?",
+    "msgClasses": "chat_message "
   }
 ]
