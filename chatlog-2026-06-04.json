@@ -35106,5 +35106,15 @@
     "userClasses": "username bcolor8 ",
     "message": "Dude , I could make my one man band",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951601",
+    "type": "public",
+    "date": "4/06 20:44",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "You could'",
+    "msgClasses": "chat_message bneon19"
   }
 ]
