@@ -12358,5 +12358,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "ZephTheFloofBoi dumbass? im so scared [verysad]",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953306",
+    "type": "public",
+    "date": "5/06 16:49",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "you're acting like you dont know that",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953307",
+    "type": "public",
+    "date": "5/06 16:49",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOXlnajV5bWN6a3d5cmplNTU4cWlvcHM1azE4cHoyMnIzOXlwYnlrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCO5WNzFmlc0vjK8cA/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
