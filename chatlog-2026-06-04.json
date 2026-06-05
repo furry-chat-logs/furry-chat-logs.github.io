@@ -34506,5 +34506,15 @@
     "userClasses": "username user ",
     "message": "Who wants to come with!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951538",
+    "type": "public",
+    "date": "4/06 20:30",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "😭",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
