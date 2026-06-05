@@ -14028,5 +14028,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Why does such a mid game have to be so glazed",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7953533",
+    "type": "public",
+    "date": "5/06 18:46",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "glazed is wild",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7953534",
+    "type": "public",
+    "date": "5/06 18:46",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "QueenMoon don’t be judgy, some people could say the same about Gundam.",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
