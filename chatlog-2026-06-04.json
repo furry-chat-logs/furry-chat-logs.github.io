@@ -33956,5 +33956,55 @@
     "userClasses": "username user ",
     "message": "Bro likes gumby a little TOOOO much 💀💀",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951482",
+    "type": "public",
+    "date": "4/06 20:20",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZTZ6djk4bGFnYjF6dzhvY2NtdDQ1MW1za2JuZmo1a21oaXhhcnAwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SAHGcjT1jNvDB6oxI8/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951483",
+    "type": "public",
+    "date": "4/06 20:20",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Well idk all of it",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7951484",
+    "type": "public",
+    "date": "4/06 20:20",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_d52ced01a128.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951485",
+    "type": "public",
+    "date": "4/06 20:20",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Top 10 of Ch3rry_Dropˋs most stupidest audio files",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951486",
+    "type": "public",
+    "date": "4/06 20:20",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Update me idk why he likes gumby",
+    "msgClasses": "chat_message bneon9"
   }
 ]
