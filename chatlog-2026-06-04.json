@@ -35706,5 +35706,15 @@
     "userClasses": "username bcolor8 ",
     "message": "No",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951662",
+    "type": "public",
+    "date": "4/06 20:54",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Not nice to say, but would be very nice to see you do",
+    "msgClasses": "chat_message bneon19"
   }
 ]
