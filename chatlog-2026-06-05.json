@@ -628,5 +628,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Might do a SS before bed",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952120",
+    "type": "public",
+    "date": "5/06 0:10",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Welp. My computer is deciding to repedetly kill itself on me.",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7952121",
+    "type": "public",
+    "date": "5/06 0:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[secret-share: W85cqh8CkvArFc00yg6JTDTK7&n=47609] Q&A or wtv",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
