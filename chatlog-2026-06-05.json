@@ -11258,5 +11258,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "imma go update my bio brb",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953196",
+    "type": "public",
+    "date": "5/06 16:10",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "Wtf if fkn happening",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7953197",
+    "type": "public",
+    "date": "5/06 16:10",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Okay so no answer",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
