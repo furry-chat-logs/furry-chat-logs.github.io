@@ -33276,5 +33276,25 @@
     "userClasses": "username bgrad39 ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_2711f29f94a0.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951414",
+    "type": "public",
+    "date": "4/06 20:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_f6729bb5ef71.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951415",
+    "type": "public",
+    "date": "4/06 20:10",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Smiley hmmmm....yes",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
