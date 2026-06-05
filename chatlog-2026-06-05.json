@@ -7848,5 +7848,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Okay",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952850",
+    "type": "public",
+    "date": "5/06 12:01",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNGN6OHFqcHl1dDM2aHpqaWVjNDd0YXppNDdvdjRldTl5dTFvZXhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tu5YzWenRCrQZEnGp5/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
