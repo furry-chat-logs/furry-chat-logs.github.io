@@ -32796,5 +32796,25 @@
     "userClasses": "username user ",
     "message": "They're on the friends wall",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951366",
+    "type": "public",
+    "date": "4/06 20:02",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Of course",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951367",
+    "type": "public",
+    "date": "4/06 20:02",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Okay , if you people really are technically children , you have to be super super careful about what you post in a chat room online to people you don't know",
+    "msgClasses": "chat_message "
   }
 ]
