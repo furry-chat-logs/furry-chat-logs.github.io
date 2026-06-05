@@ -7788,5 +7788,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "HELP",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7952844",
+    "type": "public",
+    "date": "5/06 11:58",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "My playlist is killing me [sob]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7952845",
+    "type": "public",
+    "date": "5/06 11:58",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lol can't open the video",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
