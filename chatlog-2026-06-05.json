@@ -2918,5 +2918,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Haallo",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7952356",
+    "type": "public",
+    "date": "5/06 5:33",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ello",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
