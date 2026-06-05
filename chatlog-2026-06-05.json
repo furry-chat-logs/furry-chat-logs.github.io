@@ -5968,5 +5968,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Buggo Its to the depths with you 100%",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7952662",
+    "type": "public",
+    "date": "5/06 10:54",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "ghostship_mondo D:(",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
