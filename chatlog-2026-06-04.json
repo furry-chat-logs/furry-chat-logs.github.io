@@ -35396,5 +35396,35 @@
     "userClasses": "username bgrad39 ",
     "message": "Then u did drugs",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7951630",
+    "type": "public",
+    "date": "4/06 20:49",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Yes",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951631",
+    "type": "public",
+    "date": "4/06 20:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "James bond would hate you",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951632",
+    "type": "public",
+    "date": "4/06 20:49",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I'd never do drugs",
+    "msgClasses": "chat_message bneon9"
   }
 ]
