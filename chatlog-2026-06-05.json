@@ -12228,5 +12228,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Oh?",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7953293",
+    "type": "public",
+    "date": "5/06 16:45",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Spoke Porphyrophobia bruh whatever. yall said one thing abt last year,which i hate now. [skull]",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7953294",
+    "type": "public",
+    "date": "5/06 16:45",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY2pybTZ2ZWk4a21xem53cTd5Y2x5ejQybnpzdDI5Z2V1ZngwMzdwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YksPtHngYIBY91EIep/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
