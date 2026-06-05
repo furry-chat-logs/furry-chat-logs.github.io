@@ -8758,5 +8758,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Mdekoni hru",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7952945",
+    "type": "public",
+    "date": "5/06 14:33",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm happy",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952946",
+    "type": "public",
+    "date": "5/06 14:33",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Might be getting a new Gundam kit",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
