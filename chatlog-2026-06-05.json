@@ -7448,5 +7448,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Guh",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952810",
+    "type": "public",
+    "date": "5/06 11:42",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Porphyrophobia With tongue? [hmm]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7952811",
+    "type": "public",
+    "date": "5/06 11:42",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [kiss4]",
+    "msgClasses": "chat_message ital"
   }
 ]
