@@ -30806,5 +30806,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Share",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951167",
+    "type": "public",
+    "date": "4/06 19:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Stfu",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951168",
+    "type": "public",
+    "date": "4/06 19:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951169",
+    "type": "public",
+    "date": "4/06 19:21",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia Yes. [happy]",
+    "msgClasses": "chat_message ital"
   }
 ]
