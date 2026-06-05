@@ -4288,5 +4288,65 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a5325e2d0565.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952494",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "QueenMoon Automatic rifle.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7952495",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "QueenMoon assault rifle",
+    "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7952496",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I forgot the fith",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952497",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Fettv",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952498",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Filth",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952499",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Nope",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
