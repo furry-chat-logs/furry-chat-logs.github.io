@@ -37672,5 +37672,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Does anyone know what a nephalem is",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951864",
+    "type": "public",
+    "date": "4/06 22:22",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "nerp",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
