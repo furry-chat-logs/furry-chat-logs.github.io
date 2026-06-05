@@ -37352,5 +37352,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Or did something else happen?",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951832",
+    "type": "public",
+    "date": "4/06 21:58",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "🥺",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951833",
+    "type": "public",
+    "date": "4/06 21:58",
+    "username": "7vhl_Mike",
+    "userId": "27654",
+    "userClasses": "username bcolor1 bnfont8",
+    "message": "I'm eating my lollipop",
+    "msgClasses": "chat_message bcolor4 heavybold bfont12"
   }
 ]
