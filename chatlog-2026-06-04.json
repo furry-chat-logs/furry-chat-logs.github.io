@@ -37852,5 +37852,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "My mom says I have to be \"the perfect good girl\"",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951882",
+    "type": "public",
+    "date": "4/06 22:34",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "But I ain't",
+    "msgClasses": "chat_message "
   }
 ]
