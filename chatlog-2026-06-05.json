@@ -6658,5 +6658,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_34bc692e742a.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952731",
+    "type": "public",
+    "date": "5/06 11:24",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Good morning I finally got 8+ hours of sleep 🥹",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952732",
+    "type": "public",
+    "date": "5/06 11:24",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "what the fuck,someone messed with my mood thing?? how does one do that,im scared.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
