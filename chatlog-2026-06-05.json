@@ -1288,5 +1288,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Thats the same in germany we need to pay 19% taxes",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952193",
+    "type": "public",
+    "date": "5/06 1:42",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Dam",
+    "msgClasses": "chat_message "
   }
 ]
