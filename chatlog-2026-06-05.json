@@ -3548,5 +3548,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nach just ciding",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952420",
+    "type": "public",
+    "date": "5/06 9:12",
+    "username": "Brina",
+    "userId": "17643",
+    "userClasses": "username bneon4 bnfont7",
+    "message": "😵‍💫😵‍💫😵‍💫",
+    "msgClasses": "chat_message bcolor27 boldital bfont7"
   }
 ]
