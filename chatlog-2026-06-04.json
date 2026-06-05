@@ -31816,5 +31816,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "JUST REPORT HIM",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951268",
+    "type": "public",
+    "date": "4/06 19:51",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Or ignore him",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951269",
+    "type": "public",
+    "date": "4/06 19:51",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "He says he like loves me and needs me",
+    "msgClasses": "chat_message "
   }
 ]
