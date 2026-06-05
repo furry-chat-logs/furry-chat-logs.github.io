@@ -33616,5 +33616,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "This is just waste of my internet bro",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951448",
+    "type": "public",
+    "date": "4/06 20:16",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_da444d33d0da.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951449",
+    "type": "public",
+    "date": "4/06 20:16",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Gumby_iguana  care to explain the only reason you like gumby.",
+    "msgClasses": "chat_message "
   }
 ]
