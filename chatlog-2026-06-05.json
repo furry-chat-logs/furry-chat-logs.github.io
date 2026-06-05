@@ -7808,5 +7808,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Lol can't open the video",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952846",
+    "type": "public",
+    "date": "5/06 11:59",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWJiZjBmZ2w2ZDBoODVudXFuMHdzOXd3ajk5bm5rdGd1cmNyeGVweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCO5WNzFmlc0vjK8cA/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
