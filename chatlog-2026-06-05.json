@@ -10078,5 +10078,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I don't ficke so.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7953078",
+    "type": "public",
+    "date": "5/06 15:39",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Smiley hop on",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
