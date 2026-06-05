@@ -1988,5 +1988,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "He will trust u :<",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952263",
+    "type": "public",
+    "date": "5/06 2:12",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMWRvazN5dmpoZzNlZXo2M3JqYjFhMTJtOGxrYzJkdWFvYzIxcXR3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXbIYGc8kLxlowLjim/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
