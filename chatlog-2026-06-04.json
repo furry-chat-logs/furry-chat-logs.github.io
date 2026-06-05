@@ -30466,5 +30466,25 @@
     "userClasses": "username user ",
     "message": "I'm scared 😭",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951133",
+    "type": "public",
+    "date": "4/06 19:12",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "GlamRockHeart why?",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7951134",
+    "type": "public",
+    "date": "4/06 19:12",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "why?",
+    "msgClasses": "chat_message "
   }
 ]
