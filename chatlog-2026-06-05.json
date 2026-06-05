@@ -6418,5 +6418,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Deimos fr?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952707",
+    "type": "public",
+    "date": "5/06 11:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Wdym I'm the nicest one here",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
