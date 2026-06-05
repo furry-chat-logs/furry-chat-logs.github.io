@@ -3618,5 +3618,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Spectre_protogen lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952427",
+    "type": "public",
+    "date": "5/06 9:16",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "W",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
