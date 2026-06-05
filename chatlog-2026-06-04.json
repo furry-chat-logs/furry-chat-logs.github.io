@@ -34386,5 +34386,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7951526",
+    "type": "public",
+    "date": "4/06 20:28",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_220b69be0417.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
