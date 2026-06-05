@@ -12648,5 +12648,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "SIX SEVEEEEN COINS",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953336",
+    "type": "public",
+    "date": "5/06 17:00",
+    "username": "Acheron",
+    "userId": "37023",
+    "userClasses": "username user ",
+    "message": "Yatagarasu sygau",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953337",
+    "type": "public",
+    "date": "5/06 17:00",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "brooo....",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
