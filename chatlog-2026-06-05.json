@@ -10338,5 +10338,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Holy unc status",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7953104",
+    "type": "public",
+    "date": "5/06 15:49",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Im guessing Smiley is 16 or 17",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
