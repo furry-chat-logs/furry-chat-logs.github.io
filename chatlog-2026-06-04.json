@@ -30246,5 +30246,15 @@
     "userClasses": "username bcolor17 bnfont3",
     "message": "wassup",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951111",
+    "type": "public",
+    "date": "4/06 19:09",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hru?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
