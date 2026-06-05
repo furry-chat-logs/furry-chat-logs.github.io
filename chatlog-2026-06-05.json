@@ -2908,5 +2908,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I just ragequited him",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952355",
+    "type": "public",
+    "date": "5/06 5:33",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Haallo",
+    "msgClasses": "chat_message bold"
   }
 ]
