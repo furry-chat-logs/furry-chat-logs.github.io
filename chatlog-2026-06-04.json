@@ -31836,5 +31836,25 @@
     "userClasses": "username bcolor8 ",
     "message": "He says he like loves me and needs me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951270",
+    "type": "public",
+    "date": "4/06 19:51",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "oh nah",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951271",
+    "type": "public",
+    "date": "4/06 19:51",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "Which is super creepy?Because I barely met him today",
+    "msgClasses": "chat_message "
   }
 ]
