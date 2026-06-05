@@ -14098,5 +14098,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "other than that, only Transformers really gets mentioned in America",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7953540",
+    "type": "public",
+    "date": "5/06 18:47",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "You just contradicted your own statement 0-0",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7953541",
+    "type": "public",
+    "date": "5/06 18:47",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "woah, crazy [skull]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
