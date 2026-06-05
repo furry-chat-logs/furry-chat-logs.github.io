@@ -11758,5 +11758,25 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Deimos 🫩",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7953246",
+    "type": "public",
+    "date": "5/06 16:23",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "he kinda scared me not gonna lie😭",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953247",
+    "type": "public",
+    "date": "5/06 16:23",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Yikes",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
