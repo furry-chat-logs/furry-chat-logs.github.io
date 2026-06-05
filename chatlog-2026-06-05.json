@@ -3568,5 +3568,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "*I appear*",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7952422",
+    "type": "public",
+    "date": "5/06 9:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "QueenMoon uh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952423",
+    "type": "public",
+    "date": "5/06 9:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sure",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
