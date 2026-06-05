@@ -1518,5 +1518,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "I used to be banned",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952216",
+    "type": "public",
+    "date": "5/06 1:45",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I got 2 pictures made from him",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
