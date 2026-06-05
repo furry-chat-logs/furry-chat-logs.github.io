@@ -688,5 +688,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "\"Did you say ice cream?\"",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7952127",
+    "type": "public",
+    "date": "5/06 0:15",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Brother is a watermelon. Dawg has the survival instincts of pencil lead",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
