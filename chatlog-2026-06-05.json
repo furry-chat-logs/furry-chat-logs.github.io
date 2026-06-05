@@ -7588,5 +7588,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[hee]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7952824",
+    "type": "public",
+    "date": "5/06 11:43",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Runefaust let's not",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7952825",
+    "type": "public",
+    "date": "5/06 11:44",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "*shocked *",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
