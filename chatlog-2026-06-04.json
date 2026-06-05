@@ -30656,5 +30656,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc3JnZDJ6MmV1Z3ZzajZsMnhnZW9nbnN6aHhoeTc4OTV3YTd4eTVyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qcUZ43z5md36504gPb/giphy.gif]",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951152",
+    "type": "public",
+    "date": "4/06 19:17",
+    "username": "calva_lexion",
+    "userId": "37526",
+    "userClasses": "username user ",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
