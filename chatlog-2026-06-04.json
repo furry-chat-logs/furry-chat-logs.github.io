@@ -34486,5 +34486,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaDk0cTNtMWFlaTF6bThpb2sxZXAxNmw1Ym1mb3BjOHR3NzM4YWY5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pTAwoGGRmPetOw1oDy/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951536",
+    "type": "public",
+    "date": "4/06 20:29",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_7c9bdc6127a5.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951537",
+    "type": "public",
+    "date": "4/06 20:29",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Who wants to come with!",
+    "msgClasses": "chat_message "
   }
 ]
