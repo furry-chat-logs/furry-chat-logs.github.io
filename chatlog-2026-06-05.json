@@ -3658,5 +3658,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "agreed",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7952431",
+    "type": "public",
+    "date": "5/06 9:20",
+    "username": "Brina",
+    "userId": "17643",
+    "userClasses": "username bneon4 bnfont7",
+    "message": "You can look for references online thats not ai or even bulid one yourself",
+    "msgClasses": "chat_message bcolor27 boldital bfont7"
   }
 ]
