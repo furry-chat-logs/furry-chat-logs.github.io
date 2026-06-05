@@ -32726,5 +32726,25 @@
     "userClasses": "username bcolor8 ",
     "message": "G** d*** it.She showed me a picture of herself , clothed , of course",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951359",
+    "type": "public",
+    "date": "4/06 20:02",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Okay???",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951360",
+    "type": "public",
+    "date": "4/06 20:02",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "I do not ask her.She did it on her own volition",
+    "msgClasses": "chat_message "
   }
 ]
