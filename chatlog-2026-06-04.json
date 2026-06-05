@@ -38102,5 +38102,15 @@
     "userClasses": "username bneon3 bnfont14",
     "message": "Hello everyone",
     "msgClasses": "chat_message bneon2 boldital bfont11"
+  },
+  {
+    "id": "7951907",
+    "type": "public",
+    "date": "4/06 22:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-Er-",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
