@@ -9888,5 +9888,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "thats what i thought [doubt]",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953059",
+    "type": "public",
+    "date": "5/06 15:25",
+    "username": "0Mafioso0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "An imbecile you are",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7953060",
+    "type": "public",
+    "date": "5/06 15:26",
+    "username": "0Mafioso0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "T-T",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
