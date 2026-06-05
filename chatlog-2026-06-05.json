@@ -12628,5 +12628,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "ukddddkde",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953334",
+    "type": "public",
+    "date": "5/06 17:00",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "yet it can boil,drown and freeze you to death",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953335",
+    "type": "public",
+    "date": "5/06 17:00",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "SIX SEVEEEEN COINS",
+    "msgClasses": "chat_message "
   }
 ]
