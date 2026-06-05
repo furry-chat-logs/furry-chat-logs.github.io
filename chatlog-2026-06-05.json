@@ -10178,5 +10178,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "OLD",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953088",
+    "type": "public",
+    "date": "5/06 15:43",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Smiley not that old",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
