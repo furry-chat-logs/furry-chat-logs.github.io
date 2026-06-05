@@ -31506,5 +31506,25 @@
     "userClasses": "username bcolor17 bnfont3",
     "message": "its actually a good message!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951237",
+    "type": "public",
+    "date": "4/06 19:47",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_a2db20dba0eb.webp]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951238",
+    "type": "public",
+    "date": "4/06 19:47",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "fih.",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
