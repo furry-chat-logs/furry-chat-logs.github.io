@@ -5108,5 +5108,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "NeptuneLynxx give me.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7952576",
+    "type": "public",
+    "date": "5/06 9:40",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_fd14e6045f58.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
