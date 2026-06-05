@@ -33846,5 +33846,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmempud3Y5YjQ4cDBwMDBodHh1OHo5emgweTF6bzc2OGZ0czd2bXB3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wYyAgjRSnAFt6/giphy.gif]",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951471",
+    "type": "public",
+    "date": "4/06 20:18",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gif for everything",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951472",
+    "type": "public",
+    "date": "4/06 20:18",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_9c597d48f901.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951473",
+    "type": "public",
+    "date": "4/06 20:18",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "I only sent glam never mind",
+    "msgClasses": "chat_message "
   }
 ]
