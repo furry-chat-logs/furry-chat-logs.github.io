@@ -37022,5 +37022,15 @@
     "userClasses": "username bcolor1 bnfont8",
     "message": "[tongue]",
     "msgClasses": "chat_message bcolor4 heavybold bfont12"
+  },
+  {
+    "id": "7951798",
+    "type": "public",
+    "date": "4/06 21:51",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'm back",
+    "msgClasses": "chat_message bneon19"
   }
 ]
