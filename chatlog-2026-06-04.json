@@ -30066,5 +30066,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "hm",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7951093",
+    "type": "public",
+    "date": "4/06 19:04",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I find it funny how chat died.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
