@@ -2328,5 +2328,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I was",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952297",
+    "type": "public",
+    "date": "5/06 3:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Now I'm not",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952298",
+    "type": "public",
+    "date": "5/06 3:27",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "In the bus",
+    "msgClasses": "chat_message bneon14"
   }
 ]
