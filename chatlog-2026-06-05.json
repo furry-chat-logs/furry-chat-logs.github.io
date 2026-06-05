@@ -14078,5 +14078,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Meep Gundam is NOT glazed",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7953538",
+    "type": "public",
+    "date": "5/06 18:47",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "It's glazed by ME",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
