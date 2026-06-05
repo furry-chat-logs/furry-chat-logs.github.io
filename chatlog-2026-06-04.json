@@ -30606,5 +30606,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNWk0d2hobXFndDZoYWRkM2R6MGZ3c3dtcWg1Ymh0YTdva3ljYXo0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aDduBQ4Y8kODEcg/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7951147",
+    "type": "public",
+    "date": "4/06 19:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Thomas_Steifstein Go away I'm going to beat you",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951148",
+    "type": "public",
+    "date": "4/06 19:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
