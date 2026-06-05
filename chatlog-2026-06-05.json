@@ -12678,5 +12678,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "i need fwends",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953339",
+    "type": "public",
+    "date": "5/06 17:01",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Ashton McKennan yeah",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
