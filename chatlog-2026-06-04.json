@@ -31726,5 +31726,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I love it",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951259",
+    "type": "public",
+    "date": "4/06 19:49",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "Numm Bug hii",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
