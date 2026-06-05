@@ -37432,5 +37432,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Lobotomy",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951840",
+    "type": "public",
+    "date": "4/06 22:02",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM3V3OHl2M3E5OXZqazRiaTdzMWZobmZobzdrMXhwbnRxd3ZmOWE3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2Je9yeWdYjdZ5m3C/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
