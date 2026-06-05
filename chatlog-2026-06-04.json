@@ -35776,5 +35776,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_86c8b42d08cf.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951669",
+    "type": "public",
+    "date": "4/06 20:56",
+    "username": "Gumby_iguana",
+    "userId": "32629",
+    "userClasses": "username bcolor8 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user32629_75436b02fd69.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951670",
+    "type": "public",
+    "date": "4/06 20:56",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I'm so sad rn",
+    "msgClasses": "chat_message bneon9"
   }
 ]
