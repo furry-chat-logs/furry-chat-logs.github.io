@@ -10738,5 +10738,15 @@
     "userClasses": "username user ",
     "message": "THEY FOUND NO KIDNAPPING VICTIMS, JUST SOME LEMON POUND CAKE",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953144",
+    "type": "public",
+    "date": "5/06 16:04",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "I don't get it",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
