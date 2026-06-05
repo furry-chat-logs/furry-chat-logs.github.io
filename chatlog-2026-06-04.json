@@ -39102,5 +39102,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "[skull] [skull] [skull] [skull]",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7952007",
+    "type": "public",
+    "date": "4/06 23:50",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "White has been ejected.",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
