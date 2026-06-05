@@ -1958,5 +1958,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": ":0",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952260",
+    "type": "public",
+    "date": "5/06 2:01",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_a8c87d76fcb2.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952261",
+    "type": "public",
+    "date": "5/06 2:01",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Tell him that youre bored",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
