@@ -4268,5 +4268,25 @@
     "userClasses": "username bneon18 ",
     "message": "I feel like wearing that Ren & Stimpy shirt today.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7952492",
+    "type": "public",
+    "date": "5/06 9:27",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "What does AR stand for?",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7952493",
+    "type": "public",
+    "date": "5/06 9:27",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a5325e2d0565.png]",
+    "msgClasses": "chat_message "
   }
 ]
