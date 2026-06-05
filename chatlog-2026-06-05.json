@@ -5028,5 +5028,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "sigh",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7952568",
+    "type": "public",
+    "date": "5/06 9:39",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I'm dying",
+    "msgClasses": "chat_message bneon9"
   }
 ]
