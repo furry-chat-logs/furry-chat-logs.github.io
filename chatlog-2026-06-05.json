@@ -8678,5 +8678,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Hes homeless",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952937",
+    "type": "public",
+    "date": "5/06 14:25",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "My eyes",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952938",
+    "type": "public",
+    "date": "5/06 14:25",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Got no moneh",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
