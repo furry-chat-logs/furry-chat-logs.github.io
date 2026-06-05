@@ -31756,5 +31756,25 @@
     "userClasses": "username bcolor8 ",
     "message": "Glam rock heart keep sending me messages",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951262",
+    "type": "public",
+    "date": "4/06 19:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "What??",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7951263",
+    "type": "public",
+    "date": "4/06 19:50",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "not my problem. ignore button exists for a reason",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
