@@ -3858,5 +3858,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Issa Don't kiss me I will kill you bro",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952451",
+    "type": "public",
+    "date": "5/06 9:22",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Maybe 10$ is too much or something?",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7952452",
+    "type": "public",
+    "date": "5/06 9:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[toro]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
