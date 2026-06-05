@@ -33326,5 +33326,25 @@
     "userClasses": "username bneon18 ",
     "message": "I'm healing.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7951419",
+    "type": "public",
+    "date": "4/06 20:11",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "The glorious block button bro 🥹",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951420",
+    "type": "public",
+    "date": "4/06 20:11",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_52668cbc124c.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
