@@ -8428,5 +8428,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37459_16d79d8d481b.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952910",
+    "type": "public",
+    "date": "5/06 13:51",
+    "username": "derg",
+    "userId": "26289",
+    "userClasses": "username bneon21 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user26289_796346b050cd.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
