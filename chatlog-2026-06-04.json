@@ -33416,5 +33416,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_93b1e91e5663.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951428",
+    "type": "public",
+    "date": "4/06 20:14",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_a48f26653917.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951429",
+    "type": "public",
+    "date": "4/06 20:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Speddy Gonzales",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
