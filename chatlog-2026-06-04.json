@@ -38782,5 +38782,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hewwooo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7951975",
+    "type": "public",
+    "date": "4/06 23:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "•⩊•",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7951976",
+    "type": "public",
+    "date": "4/06 23:45",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Good how about yourself",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
