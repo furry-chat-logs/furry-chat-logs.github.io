@@ -3258,5 +3258,15 @@
     "userClasses": "username bgrad12 bnfont6",
     "message": "Zoolover ayo wtf",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952390",
+    "type": "public",
+    "date": "5/06 8:21",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Zoolover hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
