@@ -12428,5 +12428,15 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "*defensive",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953313",
+    "type": "public",
+    "date": "5/06 16:50",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWZid2ZqZm5kamJjdXhvOHQxZmYxemY5cjZybTQ4eWp5ZGp1ZHlwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3hrUIAoU6T7Gg/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
