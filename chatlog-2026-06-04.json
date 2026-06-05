@@ -33436,5 +33436,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Speddy Gonzales",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951430",
+    "type": "public",
+    "date": "4/06 20:14",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "The plot is lightyears away.",
+    "msgClasses": "chat_message ital"
   }
 ]
