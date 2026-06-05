@@ -39042,5 +39042,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan lol bye👋🤣",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952001",
+    "type": "public",
+    "date": "4/06 23:48",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Mdekoni relatable",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7952002",
+    "type": "public",
+    "date": "4/06 23:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_8b0e6faf9a2e.png]",
+    "msgClasses": "chat_message "
   }
 ]
