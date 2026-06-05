@@ -9478,5 +9478,25 @@
     "userClasses": "username bneon24 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37515_8478bae2e181.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953018",
+    "type": "public",
+    "date": "5/06 15:16",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "So evil",
+    "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7953019",
+    "type": "public",
+    "date": "5/06 15:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "nooo i am so scary and evillll",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
