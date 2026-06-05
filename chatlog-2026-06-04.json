@@ -32416,5 +32416,25 @@
     "userClasses": "username bcolor17 bnfont3",
     "message": "so funny watching this lmfao",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951328",
+    "type": "public",
+    "date": "4/06 19:58",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "And ONLY the Sleep Token cover",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951329",
+    "type": "public",
+    "date": "4/06 19:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Anywhom",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
