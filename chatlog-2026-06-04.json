@@ -38982,5 +38982,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I sometimes don't dreem. I just skip the cut seen",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7951995",
+    "type": "public",
+    "date": "4/06 23:47",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Quite normal",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
