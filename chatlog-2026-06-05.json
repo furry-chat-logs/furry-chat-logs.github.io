@@ -12778,5 +12778,15 @@
     "userClasses": "username bneon16 bnfont1",
     "message": "Spoke who zeph 💔",
     "msgClasses": "chat_message bneon13 ital bfont12"
+  },
+  {
+    "id": "7953349",
+    "type": "public",
+    "date": "5/06 17:08",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "Profile Link profile link",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
