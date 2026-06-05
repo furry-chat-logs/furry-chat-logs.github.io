@@ -4408,5 +4408,35 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "learned something new",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7952506",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Porphyrophobia I didn't know you were a final boss",
+    "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7952507",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_e0c53a179f9a.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952508",
+    "type": "public",
+    "date": "5/06 9:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmczVyeW55MjRxZDY1eWFqMXd3dzlrZmU0NzVjdnF1cjhoczE3cjV0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lR1FLeDcZlFTHJo3zq/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
