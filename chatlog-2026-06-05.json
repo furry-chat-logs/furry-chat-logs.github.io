@@ -2928,5 +2928,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ello",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7952357",
+    "type": "public",
+    "date": "5/06 6:02",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_e47101bd1e4d.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
