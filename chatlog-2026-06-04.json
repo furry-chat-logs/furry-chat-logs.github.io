@@ -33466,5 +33466,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "SBB the iStock watermark is frying me",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951433",
+    "type": "public",
+    "date": "4/06 20:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "HELP.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951434",
+    "type": "public",
+    "date": "4/06 20:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "HE IS SO UGLY.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
