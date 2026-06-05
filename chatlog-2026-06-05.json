@@ -1268,5 +1268,25 @@
     "userClasses": "username bgrad12 bnfont6",
     "message": "Sharkish hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952191",
+    "type": "public",
+    "date": "5/06 1:42",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "XxGuardianxX it's ok, u get used to it...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952192",
+    "type": "public",
+    "date": "5/06 1:42",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Thats the same in germany we need to pay 19% taxes",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
