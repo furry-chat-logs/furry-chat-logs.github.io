@@ -8748,5 +8748,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Deimos hi👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952944",
+    "type": "public",
+    "date": "5/06 14:33",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Mdekoni hru",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
