@@ -3668,5 +3668,35 @@
     "userClasses": "username bneon4 bnfont7",
     "message": "You can look for references online thats not ai or even bulid one yourself",
     "msgClasses": "chat_message bcolor27 boldital bfont7"
+  },
+  {
+    "id": "7952432",
+    "type": "public",
+    "date": "5/06 9:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "What episode does Issa gets skinned",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952433",
+    "type": "public",
+    "date": "5/06 9:21",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Brina Yeah you can",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7952434",
+    "type": "public",
+    "date": "5/06 9:21",
+    "username": "Brina",
+    "userId": "17643",
+    "userClasses": "username bneon4 bnfont7",
+    "message": "Thats what i do",
+    "msgClasses": "chat_message bcolor27 boldital bfont7"
   }
 ]
