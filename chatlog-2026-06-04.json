@@ -32556,5 +32556,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Roar roar",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7951342",
+    "type": "public",
+    "date": "4/06 19:59",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "-.-- --- ..- / ..--- / ... .... --- ..- .-.. -.. / ..-. ..- -.-. -.- / - --- --. . - .... . .-. / -... . -.-. .- ..- ... . / -.-- --- ..- / .-.. --- ...- . / -.-- --- ..- / ... --- / -- ..- -.-. .... / ... --- / ... .-- . . --.-- --- ..- / ..--- / ... .... --- ..- .-.. -.. / ..-. ..- -.-. -.- / - --",
+    "msgClasses": "chat_message "
   }
 ]
