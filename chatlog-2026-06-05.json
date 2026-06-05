@@ -8818,5 +8818,25 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_5f81a7cf556d.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952951",
+    "type": "public",
+    "date": "5/06 14:50",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Soo how's it going y'all",
+    "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7952952",
+    "type": "public",
+    "date": "5/06 14:50",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Jesterandsugar hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
