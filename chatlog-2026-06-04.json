@@ -38012,5 +38012,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "So I didn't do shit but she just hates me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951898",
+    "type": "public",
+    "date": "4/06 22:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_11cd948dbc16.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951899",
+    "type": "public",
+    "date": "4/06 22:39",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27699_bfba4bc1e2dd.png]",
+    "msgClasses": "chat_message "
   }
 ]
