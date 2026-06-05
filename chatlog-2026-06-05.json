@@ -3208,5 +3208,15 @@
     "userClasses": "username user ",
     "message": "I have questions, can anyone dm me ?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952385",
+    "type": "public",
+    "date": "5/06 8:16",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Nah",
+    "msgClasses": "chat_message bneon19"
   }
 ]
