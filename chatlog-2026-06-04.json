@@ -38132,5 +38132,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmemRtd2RubGppMWUyOTV6a295NmtmY2czN3hib2IwbHJ4em43OXp1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7aQf1adpOZvqAc8/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7951910",
+    "type": "public",
+    "date": "4/06 22:49",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "Hi Chat",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7951911",
+    "type": "public",
+    "date": "4/06 22:50",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_48cb4920c6ad.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
