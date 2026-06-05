@@ -33396,5 +33396,25 @@
     "userClasses": "username user ",
     "message": "💀💀💀💀",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951426",
+    "type": "public",
+    "date": "4/06 20:13",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Did you though?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951427",
+    "type": "public",
+    "date": "4/06 20:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_93b1e91e5663.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
