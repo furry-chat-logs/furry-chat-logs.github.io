@@ -32056,5 +32056,25 @@
     "userClasses": "username bcolor17 bnfont3",
     "message": "Porphyrophobia bro doesnt know what morse code is",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951292",
+    "type": "public",
+    "date": "4/06 19:55",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Porphyrophobia I read it",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951293",
+    "type": "public",
+    "date": "4/06 19:55",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Here's what it said",
+    "msgClasses": "chat_message bneon19"
   }
 ]
