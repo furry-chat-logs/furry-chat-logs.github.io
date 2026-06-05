@@ -34206,5 +34206,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "\"Stop calling me that!!\" 5 seconds after \"Hey lets talk about weird shit I like\"",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951508",
+    "type": "public",
+    "date": "4/06 20:24",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia LMFAO.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7951509",
+    "type": "public",
+    "date": "4/06 20:24",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Should I go to chino California?",
+    "msgClasses": "chat_message bneon9"
   }
 ]
