@@ -1338,5 +1338,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "What does it mean",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7952198",
+    "type": "public",
+    "date": "5/06 1:43",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "SoraTheMikuFan later in life",
+    "msgClasses": "chat_message "
   }
 ]
