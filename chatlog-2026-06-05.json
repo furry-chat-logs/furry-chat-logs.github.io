@@ -6328,5 +6328,35 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo I got my mic ficed hope you can too",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7952698",
+    "type": "public",
+    "date": "5/06 11:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_29eb147e1169.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952699",
+    "type": "public",
+    "date": "5/06 11:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Guiner pig",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952700",
+    "type": "public",
+    "date": "5/06 11:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "And uh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
