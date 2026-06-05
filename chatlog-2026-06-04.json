@@ -33236,5 +33236,45 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Mf is from EDP Kids bruh",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951410",
+    "type": "public",
+    "date": "4/06 20:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbWh2cXJxb3kwYWF3NnV5amN6OTl2MHBrZTBwenBrcDdnMG82dHN0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951411",
+    "type": "public",
+    "date": "4/06 20:09",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY2I0a2k2NmxtNjU4Y2xwcG1tdmJicjBhb2NhbXR5bXlicTRvZnF1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GWe9nHlT5NC2s4lnHk/giphy.gif]",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951412",
+    "type": "public",
+    "date": "4/06 20:09",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Spectre_protogen do you want me to spam tf out of their phone?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951413",
+    "type": "public",
+    "date": "4/06 20:09",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37449_2711f29f94a0.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
