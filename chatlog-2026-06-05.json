@@ -808,5 +808,15 @@
     "userClasses": "username bgrad34 bnfont16",
     "message": "Hai",
     "msgClasses": "chat_message bgrad35 ital bfont1"
+  },
+  {
+    "id": "7952139",
+    "type": "public",
+    "date": "5/06 0:31",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
