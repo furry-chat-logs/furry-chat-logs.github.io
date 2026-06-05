@@ -11778,5 +11778,15 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Yikes",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7953248",
+    "type": "public",
+    "date": "5/06 16:23",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2NhbTFneXlkajh6OG1iaXQzaTRwYmQzMTNhd2s0bHJpd203Z2dobiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MF07IimBLd3va/giphy.gif]",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
