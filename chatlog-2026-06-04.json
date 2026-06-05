@@ -31556,5 +31556,25 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "fih 💔",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7951242",
+    "type": "public",
+    "date": "4/06 19:47",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "fih with ah dih",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951243",
+    "type": "public",
+    "date": "4/06 19:47",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFma3J5cDdwaDViMjgydGNvMjJqNnVrNHAxZm9vdWZ6OXQxZnltNXhsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7sI6GmJUj1DRYAGwuH/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
