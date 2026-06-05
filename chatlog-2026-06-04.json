@@ -30696,5 +30696,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Are you on T-t-t-the s-s-spectrum?",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7951156",
+    "type": "public",
+    "date": "4/06 19:18",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I am!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
