@@ -37872,5 +37872,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Yin and Yang 🥀",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7951884",
+    "type": "public",
+    "date": "4/06 22:35",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "She also blames me for the death of my twin brother",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951885",
+    "type": "public",
+    "date": "4/06 22:35",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Slime her out",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
