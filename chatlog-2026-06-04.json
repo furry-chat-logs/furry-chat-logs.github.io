@@ -31486,5 +31486,25 @@
     "userClasses": "username bcolor17 bnfont3",
     "message": "thats sad",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951235",
+    "type": "public",
+    "date": "4/06 19:46",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "*wheeze*",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7951236",
+    "type": "public",
+    "date": "4/06 19:47",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "its actually a good message!",
+    "msgClasses": "chat_message "
   }
 ]
