@@ -32816,5 +32816,35 @@
     "userClasses": "username bcolor8 ",
     "message": "Okay , if you people really are technically children , you have to be super super careful about what you post in a chat room online to people you don't know",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951368",
+    "type": "public",
+    "date": "4/06 20:02",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gumby_iguana you're telling me",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951369",
+    "type": "public",
+    "date": "4/06 20:03",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "EDP",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7951370",
+    "type": "public",
+    "date": "4/06 20:03",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "Okay that's our mistake not your to correct",
+    "msgClasses": "chat_message "
   }
 ]
