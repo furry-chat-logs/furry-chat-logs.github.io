@@ -8548,5 +8548,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Ya",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952924",
+    "type": "public",
+    "date": "5/06 14:12",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[scrylveon]",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
