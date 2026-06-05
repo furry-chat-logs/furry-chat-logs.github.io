@@ -12598,5 +12598,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Deimos real",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953331",
+    "type": "public",
+    "date": "5/06 16:59",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Ashton McKennan real",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953332",
+    "type": "public",
+    "date": "5/06 16:59",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "you need water to survive",
+    "msgClasses": "chat_message "
   }
 ]
