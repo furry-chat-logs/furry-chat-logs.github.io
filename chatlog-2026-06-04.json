@@ -39272,5 +39272,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "icles",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7952024",
+    "type": "public",
+    "date": "4/06 23:54",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Moonie Likey",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
