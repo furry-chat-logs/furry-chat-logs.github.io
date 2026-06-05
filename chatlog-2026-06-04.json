@@ -34656,5 +34656,25 @@
     "userClasses": "username user ",
     "message": "Who wants to see a meme I made of my ex :D",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951553",
+    "type": "public",
+    "date": "4/06 20:33",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I'm planning a vacation in chino California",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7951554",
+    "type": "public",
+    "date": "4/06 20:33",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "With GlamRockHeart",
+    "msgClasses": "chat_message bneon9"
   }
 ]
