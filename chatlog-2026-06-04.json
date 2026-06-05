@@ -31626,5 +31626,15 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "Issa SAY WALLAHI BRO SAY WALLAHI",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7951249",
+    "type": "public",
+    "date": "4/06 19:48",
+    "username": "Thomas_Steifstein",
+    "userId": "37524",
+    "userClasses": "username bcolor17 bnfont3",
+    "message": "have you read the morse?",
+    "msgClasses": "chat_message "
   }
 ]
