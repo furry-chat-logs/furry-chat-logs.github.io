@@ -30486,5 +30486,15 @@
     "userClasses": "username bcolor17 bnfont3",
     "message": "why?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7951135",
+    "type": "public",
+    "date": "4/06 19:13",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sigh... [verysad]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
