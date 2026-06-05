@@ -7198,5 +7198,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_2e609b944c07.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7952785",
+    "type": "public",
+    "date": "5/06 11:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Buggo Strider?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7952786",
+    "type": "public",
+    "date": "5/06 11:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHo3eWs2Nm15d3NvdnF1YTFnMnY3aWVnemw5NjJnMTIzdzVoa2J2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MuVccSvKZvPAw5FWr0/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
