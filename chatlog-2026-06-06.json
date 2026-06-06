@@ -6198,5 +6198,35 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Mdekoni Eh off and on",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7954956",
+    "type": "public",
+    "date": "6/06 10:42",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "I've been here since",
+    "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7954957",
+    "type": "public",
+    "date": "6/06 10:42",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Last year",
+    "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7954958",
+    "type": "public",
+    "date": "6/06 10:42",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "I exist in a different plane of existence",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
