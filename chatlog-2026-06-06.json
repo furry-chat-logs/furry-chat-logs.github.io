@@ -548,5 +548,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "wam",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7954387",
+    "type": "public",
+    "date": "6/06 0:37",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm gonna go watch ridiculousness",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
