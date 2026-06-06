@@ -15990,5 +15990,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "🥀",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7955937",
+    "type": "public",
+    "date": "6/06 18:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Kid thinks I should give any care what a 14 year old says online.",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7955938",
+    "type": "public",
+    "date": "6/06 18:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "We are genuinely losing the plot",
+    "msgClasses": "chat_message bneon19"
   }
 ]
