@@ -8138,5 +8138,15 @@
     "userClasses": "username user ",
     "message": "Who got blocked",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955151",
+    "type": "public",
+    "date": "6/06 13:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Me",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
