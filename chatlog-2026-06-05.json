@@ -14378,5 +14378,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": ".-.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7953571",
+    "type": "public",
+    "date": "5/06 19:12",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "a a a",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
