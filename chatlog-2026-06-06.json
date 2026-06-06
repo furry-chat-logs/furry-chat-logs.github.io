@@ -648,5 +648,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "QueenKit",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954397",
+    "type": "public",
+    "date": "6/06 0:40",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Definitely the cringe side of the Hazbin fandom",
+    "msgClasses": "chat_message bneon19"
   }
 ]
