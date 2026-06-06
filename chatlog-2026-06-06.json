@@ -14166,5 +14166,13 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_ff7e04ec6854.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955754",
+    "type": "system",
+    "date": "6/06 15:19",
+    "username": "System",
+    "userId": null,
+    "message": "SBB has been muted"
   }
 ]
