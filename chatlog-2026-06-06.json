@@ -11976,5 +11976,25 @@
     "userClasses": "username user ",
     "message": "You a bunch of pussies anyway",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955535",
+    "type": "public",
+    "date": "6/06 14:35",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SwiggleRattle [good]",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955536",
+    "type": "public",
+    "date": "6/06 14:35",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Bye and have a great day hoes",
+    "msgClasses": "chat_message "
   }
 ]
