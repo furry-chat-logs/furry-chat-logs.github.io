@@ -1688,5 +1688,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Hello cherry drop",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954503",
+    "type": "public",
+    "date": "6/06 1:29",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I wonder if I can ping myself",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
