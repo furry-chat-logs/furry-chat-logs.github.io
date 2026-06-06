@@ -10158,5 +10158,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "O noo",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955353",
+    "type": "public",
+    "date": "6/06 14:04",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Kill them all.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
