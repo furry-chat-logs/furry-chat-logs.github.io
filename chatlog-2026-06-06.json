@@ -13106,5 +13106,25 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Furries love drama",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7955648",
+    "type": "public",
+    "date": "6/06 14:48",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "always",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955649",
+    "type": "public",
+    "date": "6/06 14:48",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "God forbid people get along",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
