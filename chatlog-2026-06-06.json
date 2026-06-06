@@ -2808,5 +2808,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Ashton Ash McKennan bout time you learned",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7954616",
+    "type": "public",
+    "date": "6/06 3:06",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Fuck you!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
