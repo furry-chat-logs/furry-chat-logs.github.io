@@ -15748,5 +15748,45 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Wtfissachip Remember that one Austrain Painter?",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953711",
+    "type": "public",
+    "date": "5/06 20:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I think I know what it is.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7953712",
+    "type": "public",
+    "date": "5/06 20:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "But I think the topic should be switched.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7953713",
+    "type": "public",
+    "date": "5/06 20:21",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sonic The Hedgehog you mean Hitler",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953714",
+    "type": "public",
+    "date": "5/06 20:21",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Austrian*",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
