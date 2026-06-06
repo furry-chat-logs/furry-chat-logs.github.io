@@ -14590,5 +14590,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Cammy you can put a link in your about me quickly to test if its filtered",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7955797",
+    "type": "public",
+    "date": "6/06 16:37",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "if it is, it'll tell you",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
