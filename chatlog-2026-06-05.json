@@ -15856,5 +15856,35 @@
     "userClasses": "username user ",
     "message": "Trust me it looked real",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953722",
+    "type": "public",
+    "date": "5/06 20:22",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "an account last active two years ago. Thank you Data for providing me with a distraction from....this.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7953723",
+    "type": "public",
+    "date": "5/06 20:22",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "But now he was cooking Jews",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953724",
+    "type": "public",
+    "date": "5/06 20:22",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sonic The Hedgehog higher standards plus they where probably snobs",
+    "msgClasses": "chat_message "
   }
 ]
