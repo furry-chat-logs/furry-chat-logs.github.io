@@ -15428,5 +15428,25 @@
     "userClasses": "username user ",
     "message": "Deimos cat blender?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953679",
+    "type": "public",
+    "date": "5/06 20:18",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "animal cruelty is the worst.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7953680",
+    "type": "public",
+    "date": "5/06 20:18",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Nah I haven't seen it",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
