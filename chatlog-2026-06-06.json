@@ -9788,5 +9788,15 @@
     "userClasses": "username user ",
     "message": "I said something kinda evil",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955316",
+    "type": "public",
+    "date": "6/06 13:52",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2J0MGpkNzM4aDVsb3J6ZmI0N2x0YmpuMWhsMjA0eTZoZGxlaXZtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p0ydOvZ6xm8PMe5qlr/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
