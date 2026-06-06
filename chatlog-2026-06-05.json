@@ -16316,5 +16316,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "It was confusing because you would hear Russian in the backround",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953768",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Alex_007 that takes courage which they lack",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953769",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Getting ready to see the new scary movie [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7953770",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "But something else in the video",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
