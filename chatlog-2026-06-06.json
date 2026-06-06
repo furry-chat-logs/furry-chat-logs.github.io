@@ -13006,5 +13006,25 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Lyman Some people were being rude",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7955638",
+    "type": "public",
+    "date": "6/06 14:47",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Ashton McKennan was also being rude",
+    "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7955639",
+    "type": "public",
+    "date": "6/06 14:47",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Mdekoni *hands you a choc chip cookie.*",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
