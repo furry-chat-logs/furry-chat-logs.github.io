@@ -11616,5 +11616,15 @@
     "userClasses": "username user ",
     "message": "I said my slur",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955499",
+    "type": "public",
+    "date": "6/06 14:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Slurs shouldn't be said on here, that's the point.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
