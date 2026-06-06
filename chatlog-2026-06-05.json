@@ -14468,5 +14468,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19606_1d74d6762ed6.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953580",
+    "type": "public",
+    "date": "5/06 19:19",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Spectre_protogen yaaaay =D",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7953581",
+    "type": "public",
+    "date": "5/06 19:19",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "damn I forgot a spot",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
