@@ -15630,5 +15630,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Spectre_protogen oh?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955901",
+    "type": "public",
+    "date": "6/06 17:59",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcnExbWtxZTdoeXQyaTBuaWNjZmlvb3A4bWo3OGpzcGM2aHQ2dDNuMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eFxpuiAuG4nrPNCPEM/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
