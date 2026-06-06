@@ -13636,5 +13636,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "He's my love bug",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955701",
+    "type": "public",
+    "date": "6/06 14:55",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "wer denn sonst noch? (und eig nicht der aber ist oke ;)",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
