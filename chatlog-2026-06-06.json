@@ -158,5 +158,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Capital of Thailand",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954348",
+    "type": "public",
+    "date": "6/06 0:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "KAI CENAT?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
