@@ -3768,5 +3768,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Hallo hallo",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7954712",
+    "type": "public",
+    "date": "6/06 6:15",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "liminal hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
