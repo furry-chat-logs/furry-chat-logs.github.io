@@ -7938,5 +7938,15 @@
     "userClasses": "username user ",
     "message": "HOLY JUMPSCARE",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955131",
+    "type": "public",
+    "date": "6/06 12:54",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "LOOP",
+    "msgClasses": "chat_message bcolor14 heavyital bfont3"
   }
 ]
