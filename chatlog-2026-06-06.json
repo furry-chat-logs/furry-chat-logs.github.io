@@ -6648,5 +6648,15 @@
     "userClasses": "username bneon18 ",
     "message": "[skull]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7955001",
+    "type": "public",
+    "date": "6/06 10:56",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Im boreds",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
