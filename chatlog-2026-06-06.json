@@ -12906,5 +12906,15 @@
     "userClasses": "username user ",
     "message": "Bye",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955628",
+    "type": "public",
+    "date": "6/06 14:45",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Wow",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
