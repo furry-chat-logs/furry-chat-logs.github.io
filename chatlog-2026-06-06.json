@@ -10318,5 +10318,15 @@
     "userClasses": "username user ",
     "message": "Sorry mcfarland",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955369",
+    "type": "public",
+    "date": "6/06 14:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Alright Ken Burns",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
