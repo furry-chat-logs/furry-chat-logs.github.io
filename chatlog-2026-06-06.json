@@ -6678,5 +6678,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWc0amdkNHEzcGY2bHpydzgyMXNvbHpmOTc4aDBhbWZheGZjbzVlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mVCn9793gZmh55Qpkm/giphy.gif]",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7955004",
+    "type": "public",
+    "date": "6/06 10:58",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": ":3",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
