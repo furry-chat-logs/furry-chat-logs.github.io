@@ -11596,5 +11596,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "HMMMMMMMMM",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955497",
+    "type": "public",
+    "date": "6/06 14:28",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Smiley [good]",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955498",
+    "type": "public",
+    "date": "6/06 14:28",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "I said my slur",
+    "msgClasses": "chat_message "
   }
 ]
