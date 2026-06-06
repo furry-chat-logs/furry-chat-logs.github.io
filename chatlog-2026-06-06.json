@@ -14282,5 +14282,15 @@
     "username": "System",
     "userId": null,
     "message": "Mdekoni has been muted"
+  },
+  {
+    "id": "7955766",
+    "type": "public",
+    "date": "6/06 15:26",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Mdekoni theres no way lol",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
