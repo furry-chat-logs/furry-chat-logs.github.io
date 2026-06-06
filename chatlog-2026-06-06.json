@@ -14530,5 +14530,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Most links get you muted/kicked :/",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955791",
+    "type": "public",
+    "date": "6/06 16:35",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Give it a shot though, there's a 50/50 chance",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955792",
+    "type": "public",
+    "date": "6/06 16:35",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Okie lemme find an image then",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
