@@ -16906,5 +16906,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I'ma murder drones fan",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7953828",
+    "type": "public",
+    "date": "5/06 20:31",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaW56OWVrdDA3czk2dm00aXB0cWUyZW02eTZ5N2FqaWs2cG13cmVqOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b4ab9TBk9Ornvrt9W8/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953829",
+    "type": "public",
+    "date": "5/06 20:31",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "i used to fucking LOVE half life",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953830",
+    "type": "public",
+    "date": "5/06 20:31",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Spectre_protogen me too",
+    "msgClasses": "chat_message "
   }
 ]
