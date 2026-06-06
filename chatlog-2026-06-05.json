@@ -17286,5 +17286,35 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "Deimos i didnt ven bother listening to the new album💔",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953867",
+    "type": "public",
+    "date": "5/06 20:34",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "nvm",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953868",
+    "type": "public",
+    "date": "5/06 20:34",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "*even",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953869",
+    "type": "public",
+    "date": "5/06 20:34",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Sonic Unleashed",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
