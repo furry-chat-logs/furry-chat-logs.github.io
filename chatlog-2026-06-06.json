@@ -408,5 +408,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I can't understand you when you're speaking that island language could you translate that to English",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954373",
+    "type": "public",
+    "date": "6/06 0:32",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "lmao",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
