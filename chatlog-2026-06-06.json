@@ -7328,5 +7328,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Why are we hitting people",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955070",
+    "type": "public",
+    "date": "6/06 11:53",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Idk",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
