@@ -15038,5 +15038,25 @@
     "userClasses": "username user ",
     "message": "Numm Bug its a very messed up movie",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953638",
+    "type": "public",
+    "date": "5/06 20:13",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "(made in beepbox)",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7953639",
+    "type": "public",
+    "date": "5/06 20:13",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "SilverXD very beautiful",
+    "msgClasses": "chat_message "
   }
 ]
