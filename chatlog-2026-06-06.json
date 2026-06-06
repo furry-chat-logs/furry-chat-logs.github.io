@@ -328,5 +328,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I set up an open poll!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954365",
+    "type": "public",
+    "date": "6/06 0:27",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Put your opinions in",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
