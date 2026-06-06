@@ -8878,5 +8878,25 @@
     "userClasses": "username user ",
     "message": "any hot freaks? 😝",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955225",
+    "type": "public",
+    "date": "6/06 13:41",
+    "username": "KURTIS",
+    "userId": "28569",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Fair enough I'm not paying much attention honestly",
+    "msgClasses": "chat_message bgrad38 heavyital bfont3"
+  },
+  {
+    "id": "7955226",
+    "type": "public",
+    "date": "6/06 13:41",
+    "username": "KURTIS",
+    "userId": "28569",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "I'm killing the ender dragon",
+    "msgClasses": "chat_message bgrad38 heavyital bfont3"
   }
 ]
