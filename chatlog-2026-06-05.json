@@ -18366,5 +18366,45 @@
     "userClasses": "username user ",
     "message": "Hold up you talking about me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953986",
+    "type": "public",
+    "date": "5/06 20:50",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "my music taste in just getting weirder and weirder i swear...😟",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953987",
+    "type": "public",
+    "date": "5/06 20:50",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I didn't say nothing",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953988",
+    "type": "public",
+    "date": "5/06 20:50",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "*is",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953989",
+    "type": "public",
+    "date": "5/06 20:50",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "GeorgeR34 what is the last 3 letters and numbers",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
