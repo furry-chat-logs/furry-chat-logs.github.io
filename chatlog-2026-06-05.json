@@ -20302,5 +20302,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Its that season",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954183",
+    "type": "public",
+    "date": "5/06 22:57",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "According to the predators summer break is hunting season",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
