@@ -15110,5 +15110,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Meep no I just know my accent is wayyy thicker :p",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7955849",
+    "type": "public",
+    "date": "6/06 17:00",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Try to convince her to send a vm, youll see",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
