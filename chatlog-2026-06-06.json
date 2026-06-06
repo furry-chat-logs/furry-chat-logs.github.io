@@ -14790,5 +14790,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "One full water for every alcoholic beverage keeps the hangovers away",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955817",
+    "type": "public",
+    "date": "6/06 16:48",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I am a native european.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
