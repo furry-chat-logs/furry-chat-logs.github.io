@@ -14274,5 +14274,13 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "Mdekoni is muting also in pms?",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7955765",
+    "type": "system",
+    "date": "6/06 15:25",
+    "username": "System",
+    "userId": null,
+    "message": "Mdekoni has been muted"
   }
 ]
