@@ -2478,5 +2478,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sonic The Hedgehog wah?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954583",
+    "type": "public",
+    "date": "6/06 2:31",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaThnaTZnbTk1N3VoNmFtYzR1Z3B6cnRqbXZtenRqa3lqanZoaWxnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xlFctkojOD35dva75P/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
