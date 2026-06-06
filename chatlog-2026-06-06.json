@@ -5608,5 +5608,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Mdekoni oh you mean purified water",
     "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7954897",
+    "type": "public",
+    "date": "6/06 10:31",
+    "username": "starbound_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "I thought you meant actual holy water",
+    "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7954898",
+    "type": "public",
+    "date": "6/06 10:31",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Lol it's the same 🤣",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
