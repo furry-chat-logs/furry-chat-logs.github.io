@@ -17996,5 +17996,15 @@
     "userClasses": "username user ",
     "message": "Worth it",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953941",
+    "type": "public",
+    "date": "5/06 20:43",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_9b124f340809.png]",
+    "msgClasses": "chat_message "
   }
 ]
