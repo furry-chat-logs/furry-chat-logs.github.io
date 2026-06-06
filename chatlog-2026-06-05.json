@@ -15558,5 +15558,35 @@
     "userClasses": "username user ",
     "message": "When the death is quick or quiet I can handle it but if it's slow and full of screams I gotta pause it",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953692",
+    "type": "public",
+    "date": "5/06 20:20",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "pretty sure he got arrested for killing a person",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953693",
+    "type": "public",
+    "date": "5/06 20:20",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Alex_007 Trust, we got you if you're wearing it",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953694",
+    "type": "public",
+    "date": "5/06 20:20",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Mhm",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
