@@ -13236,5 +13236,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Evelyn1 gracias",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7955661",
+    "type": "public",
+    "date": "6/06 14:50",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "always ^^",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
