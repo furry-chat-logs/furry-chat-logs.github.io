@@ -708,5 +708,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Genuinely looks like a better Armored core",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7954403",
+    "type": "public",
+    "date": "6/06 0:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "QueenKit WHAT",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
