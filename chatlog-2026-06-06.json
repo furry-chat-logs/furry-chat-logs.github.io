@@ -9368,5 +9368,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "saltz lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955274",
+    "type": "public",
+    "date": "6/06 13:45",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbXFleHdubzZub2U4eTczM2Q1cDdjZDBjcmt5Znk4M3N4cnpwc3VhOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sUESEgyN7FmBG/giphy.gif]",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
