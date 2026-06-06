@@ -19904,5 +19904,23 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Richie why though",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7954143",
+    "type": "public",
+    "date": "5/06 22:41",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Here of all places",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954144",
+    "type": "system",
+    "date": "5/06 22:41",
+    "username": "System",
+    "userId": null,
+    "message": "Richie has been kicked"
   }
 ]
