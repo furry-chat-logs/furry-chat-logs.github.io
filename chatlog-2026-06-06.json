@@ -2288,5 +2288,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Okay dokey",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954564",
+    "type": "public",
+    "date": "6/06 2:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "~^~",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
