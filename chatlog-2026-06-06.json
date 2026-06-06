@@ -1428,5 +1428,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "YEAH",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954476",
+    "type": "public",
+    "date": "6/06 1:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "You question the words of the mighty jimmy [angry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
