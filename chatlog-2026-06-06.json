@@ -4978,5 +4978,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "JayBeast cool hi ther👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954833",
+    "type": "public",
+    "date": "6/06 8:43",
+    "username": "JayBeast",
+    "userId": "37555",
+    "userClasses": "username user ",
+    "message": "👋🏼",
+    "msgClasses": "chat_message "
   }
 ]
