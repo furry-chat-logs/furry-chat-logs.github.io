@@ -948,5 +948,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "He won an award for it too",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954428",
+    "type": "public",
+    "date": "6/06 1:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ashton Ash McKennan wah",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954429",
+    "type": "public",
+    "date": "6/06 1:02",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "He broke his pelvis in 3 spots and fractured his elbow",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
