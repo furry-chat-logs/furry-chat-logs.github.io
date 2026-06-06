@@ -3568,5 +3568,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Heyo",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7954692",
+    "type": "public",
+    "date": "6/06 3:48",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
