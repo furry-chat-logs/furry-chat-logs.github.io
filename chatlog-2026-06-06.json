@@ -6718,5 +6718,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Neo The Protogen You look better then that.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7955008",
+    "type": "public",
+    "date": "6/06 11:00",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Numm Bug OwO",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
