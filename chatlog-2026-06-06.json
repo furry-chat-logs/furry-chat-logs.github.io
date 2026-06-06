@@ -5148,5 +5148,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "My hand is green",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954850",
+    "type": "public",
+    "date": "6/06 10:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_484fa21c26b8.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
