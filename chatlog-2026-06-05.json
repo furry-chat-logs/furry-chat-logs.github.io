@@ -18886,5 +18886,35 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "how do these \"people\" find this website",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7954041",
+    "type": "public",
+    "date": "5/06 21:47",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "FunHorseGuy18 die immediately in a gruesome fashion.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7954042",
+    "type": "public",
+    "date": "5/06 21:47",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Trust me",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954043",
+    "type": "public",
+    "date": "5/06 21:47",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "We are like a fkn mafia in this bitch foo",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
   }
 ]
