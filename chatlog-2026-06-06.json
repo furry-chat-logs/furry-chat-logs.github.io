@@ -6748,5 +6748,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "That but human And short.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7955011",
+    "type": "public",
+    "date": "6/06 11:01",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Well chat ima go afk for a bit",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
