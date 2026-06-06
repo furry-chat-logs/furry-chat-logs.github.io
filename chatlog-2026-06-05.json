@@ -17926,5 +17926,15 @@
     "userClasses": "username user ",
     "message": "Btw I love infinite warfare",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953934",
+    "type": "public",
+    "date": "5/06 20:42",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "*in",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
