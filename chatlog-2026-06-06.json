@@ -1338,5 +1338,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "NO",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954467",
+    "type": "public",
+    "date": "6/06 1:13",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Mdekoni oh ummmmmmmmmmmmm",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7954468",
+    "type": "public",
+    "date": "6/06 1:13",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "idl",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7954469",
+    "type": "public",
+    "date": "6/06 1:13",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "idk*",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
