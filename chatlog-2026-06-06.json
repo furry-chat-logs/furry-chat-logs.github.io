@@ -8108,5 +8108,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Right.",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7955148",
+    "type": "public",
+    "date": "6/06 13:00",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "QueenKit huh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955149",
+    "type": "public",
+    "date": "6/06 13:00",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "You're probably just talking to someone I have blocked and so it looks like your yapping lol",
+    "msgClasses": "chat_message bneon19"
   }
 ]
