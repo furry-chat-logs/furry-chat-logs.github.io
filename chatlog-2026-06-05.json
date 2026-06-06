@@ -15108,5 +15108,35 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Knew it 💀",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7953645",
+    "type": "public",
+    "date": "5/06 20:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Oh god",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953646",
+    "type": "public",
+    "date": "5/06 20:13",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Don't tell why i did i was forced",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953647",
+    "type": "public",
+    "date": "5/06 20:14",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "that was my first guess",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
