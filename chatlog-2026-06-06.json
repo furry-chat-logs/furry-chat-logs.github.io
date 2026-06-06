@@ -1248,5 +1248,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Inzucht",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954458",
+    "type": "public",
+    "date": "6/06 1:09",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ I'm not wrong",
+    "msgClasses": "chat_message bneon19"
   }
 ]
