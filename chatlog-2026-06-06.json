@@ -1368,5 +1368,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "idk*",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7954470",
+    "type": "public",
+    "date": "6/06 1:13",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nobody is going to read it",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
