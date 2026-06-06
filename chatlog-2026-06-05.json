@@ -20512,5 +20512,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "[boykisser.png] [boykisser.png]",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954204",
+    "type": "public",
+    "date": "5/06 23:01",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll] [troll]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
