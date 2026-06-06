@@ -19656,5 +19656,23 @@
     "userClasses": "username user ",
     "message": "THE KNICKS WON GAME 2 OF THE NBA FINALS!!!!!!!!!!!",
     "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7954118",
+    "type": "system",
+    "date": "5/06 22:36",
+    "username": "System",
+    "userId": null,
+    "message": "FunHorseGuy18 has been kicked"
+  },
+  {
+    "id": "7954119",
+    "type": "public",
+    "date": "5/06 22:36",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Night yall",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
