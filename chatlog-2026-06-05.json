@@ -20312,5 +20312,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "According to the predators summer break is hunting season",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954184",
+    "type": "public",
+    "date": "5/06 22:58",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2o0ZnA5aXA2cXB5bzFzdjJ6ajBvazZmNWFscnN1cXowbnhsdXBvaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QbynZZRVHMmkpNmHkL/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
