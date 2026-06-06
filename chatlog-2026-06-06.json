@@ -2548,5 +2548,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFma2I5emZzdWhwazhkajYzdTNyOWIwOWt2cTB3aGRncnlpcmJyeGh3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iS98hvKyiBm80/giphy.gif]",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954590",
+    "type": "public",
+    "date": "6/06 2:38",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_cda4f60f2e7b.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
