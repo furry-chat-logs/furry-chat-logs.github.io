@@ -15850,5 +15850,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "SBB whatever",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7955923",
+    "type": "public",
+    "date": "6/06 18:10",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "He's funnier than you.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
