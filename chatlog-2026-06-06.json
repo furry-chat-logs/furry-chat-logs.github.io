@@ -14650,5 +14650,15 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "Congrats",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7955803",
+    "type": "public",
+    "date": "6/06 16:39",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "they also gave me a blanket for the indigenous blanket ceremony",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
