@@ -1158,5 +1158,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "didnt even know you but if it makes you feel better",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7954449",
+    "type": "public",
+    "date": "6/06 1:05",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Mdekoni pm me",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
