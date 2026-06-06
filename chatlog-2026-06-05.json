@@ -15258,5 +15258,35 @@
     "userClasses": "username user ",
     "message": "Tbh cartel shit ain't that bad",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953662",
+    "type": "public",
+    "date": "5/06 20:17",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Grave of the Fireflies changed me",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953663",
+    "type": "public",
+    "date": "5/06 20:17",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "In the grand scale that is",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953664",
+    "type": "public",
+    "date": "5/06 20:17",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Wtfissachip Fr",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
