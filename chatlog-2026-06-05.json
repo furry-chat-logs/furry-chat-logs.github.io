@@ -20832,5 +20832,25 @@
     "userClasses": "username user ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user27699_f0486e6fdf83.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954236",
+    "type": "public",
+    "date": "5/06 23:08",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "Pentagram",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7954237",
+    "type": "public",
+    "date": "5/06 23:08",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Pentagram",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
