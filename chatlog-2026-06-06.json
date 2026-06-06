@@ -7808,5 +7808,25 @@
     "userClasses": "username user ",
     "message": "Ig",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955118",
+    "type": "public",
+    "date": "6/06 12:35",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "What are you playing?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7955119",
+    "type": "public",
+    "date": "6/06 12:35",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ig? What that mean?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
