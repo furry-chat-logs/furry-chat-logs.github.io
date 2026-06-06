@@ -21652,5 +21652,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "I'm texan so I'm going for the spurs",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954320",
+    "type": "public",
+    "date": "5/06 23:51",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNjNmNzhuNmljMXR1ZXZxMDFybnZ3czBxc3V2ZTJ6bXpqd3g3MHEwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mh4054W5jajekGGNNL/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954321",
+    "type": "public",
+    "date": "5/06 23:51",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "How it feels just searching up Kit from Gamoverse:",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
