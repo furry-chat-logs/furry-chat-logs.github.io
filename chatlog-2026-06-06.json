@@ -3958,5 +3958,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan your back",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954731",
+    "type": "public",
+    "date": "6/06 7:35",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan what happened?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
