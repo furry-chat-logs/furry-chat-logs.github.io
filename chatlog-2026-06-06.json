@@ -3828,5 +3828,15 @@
     "userClasses": "username bcolor3 bnfont7",
     "message": "Skittle hi there",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954718",
+    "type": "public",
+    "date": "6/06 7:25",
+    "username": "Skittle",
+    "userId": "19316",
+    "userClasses": "username bgrad7 bnfont16",
+    "message": "Hello!",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
