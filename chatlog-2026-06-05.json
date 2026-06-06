@@ -17466,5 +17466,15 @@
     "userClasses": "username user ",
     "message": "That's why I own a gun",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953886",
+    "type": "public",
+    "date": "5/06 20:37",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I only play unbound because it was playstation plus",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
