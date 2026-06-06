@@ -598,5 +598,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": ".",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954392",
+    "type": "public",
+    "date": "6/06 0:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODJoMWR6c3RyZHhheW45d3g1aGhicDVsdWd2cHM0dXk0bHB6Y2VtdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vPzbDN4rBxuvtpSpzF/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954393",
+    "type": "public",
+    "date": "6/06 0:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "NeonGreen101 lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
