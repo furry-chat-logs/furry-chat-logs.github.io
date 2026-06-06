@@ -2218,5 +2218,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Jeffery Smurfstein",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954557",
+    "type": "public",
+    "date": "6/06 1:51",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "The goat",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
