@@ -1958,5 +1958,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ashton Ash McKennan okay I didn't know lol",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954530",
+    "type": "public",
+    "date": "6/06 1:34",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I know who that is",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
