@@ -13686,5 +13686,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "Ashton McKennan exactly",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7955706",
+    "type": "public",
+    "date": "6/06 14:55",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "ZÜRICH",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7955707",
+    "type": "public",
+    "date": "6/06 14:56",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ne warte oder?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
