@@ -2948,5 +2948,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "ghostship_mondo why being all hostile towards Ashton Ash McKennan ?",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7954630",
+    "type": "public",
+    "date": "6/06 3:31",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Because I'm in a fucking situation!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
