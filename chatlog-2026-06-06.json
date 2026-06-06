@@ -16010,5 +16010,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "We are genuinely losing the plot",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7955939",
+    "type": "public",
+    "date": "6/06 18:15",
+    "username": "Sylveon",
+    "userId": "8363",
+    "userClasses": "username bgrad3 bnfont16",
+    "message": "I watched Sam and Colby with The Boys",
+    "msgClasses": "chat_message bneon19 ital bfont14"
   }
 ]
