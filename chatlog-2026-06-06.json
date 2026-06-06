@@ -10138,5 +10138,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37148_37c34fbf85b6.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955351",
+    "type": "public",
+    "date": "6/06 14:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_2ab9f73fefc6.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955352",
+    "type": "public",
+    "date": "6/06 14:03",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "O noo",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
