@@ -1508,5 +1508,25 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ huh",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7954485",
+    "type": "public",
+    "date": "6/06 1:19",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "doobe :D",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7954486",
+    "type": "public",
+    "date": "6/06 1:19",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I forget that y'all experienced the internet the same way I did",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
