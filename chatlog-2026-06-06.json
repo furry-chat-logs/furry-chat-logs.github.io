@@ -3888,5 +3888,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Nothing going on I see.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954724",
+    "type": "public",
+    "date": "6/06 7:30",
+    "username": "Skittle",
+    "userId": "19316",
+    "userClasses": "username bgrad7 bnfont16",
+    "message": "I use also commission ppl on here",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
