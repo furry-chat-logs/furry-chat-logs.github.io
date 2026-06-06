@@ -20582,5 +20582,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_cb788273bb09.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954211",
+    "type": "public",
+    "date": "5/06 23:02",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYXJhY3VmZTA2ZGYxYmQzdHZjMHQycmljcjMzNmRuZXgyZnl6YjY2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x9BA8yN0FRkvEr1Uym/giphy.gif]",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
