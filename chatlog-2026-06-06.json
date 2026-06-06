@@ -15670,5 +15670,15 @@
     "userClasses": "username bgrad3 bnfont16",
     "message": "Oh my gosh is that my husband",
     "msgClasses": "chat_message bneon19 ital bfont14"
+  },
+  {
+    "id": "7955905",
+    "type": "public",
+    "date": "6/06 18:00",
+    "username": "Sylveon",
+    "userId": "8363",
+    "userClasses": "username bgrad3 bnfont16",
+    "message": "Oh wait that's Ghost",
+    "msgClasses": "chat_message bneon19 ital bfont14"
   }
 ]
