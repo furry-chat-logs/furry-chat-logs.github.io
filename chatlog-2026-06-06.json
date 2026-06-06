@@ -10068,5 +10068,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sand",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955344",
+    "type": "public",
+    "date": "6/06 14:01",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I'm inside and I see a cute dog",
+    "msgClasses": "chat_message "
   }
 ]
