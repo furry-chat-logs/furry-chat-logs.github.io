@@ -9118,5 +9118,25 @@
     "userClasses": "username user ",
     "message": "any hot freaks? 😝",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955249",
+    "type": "public",
+    "date": "6/06 13:43",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Everynyan ur making me bawl on the floor am I a spoon",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7955250",
+    "type": "public",
+    "date": "6/06 13:43",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWR4N3R1eGhzdWFycG8wN25vejdmNGR4anRiaHhvNWNrbjM4bGdyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vZcE6QIuvRLJr59UG/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
