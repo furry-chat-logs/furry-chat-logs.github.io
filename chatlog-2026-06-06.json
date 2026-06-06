@@ -178,5 +178,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_902c8b656f00.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954350",
+    "type": "public",
+    "date": "6/06 0:18",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Sonic",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
