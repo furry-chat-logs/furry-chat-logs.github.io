@@ -15198,5 +15198,25 @@
     "userClasses": "username user ",
     "message": "Its absolutely horrible in everyway",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953655",
+    "type": "public",
+    "date": "5/06 20:16",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "One movie changed my whole perspective on humanity",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953656",
+    "type": "public",
+    "date": "5/06 20:16",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Cannibal Holocaust is also a unique one",
+    "msgClasses": "chat_message "
   }
 ]
