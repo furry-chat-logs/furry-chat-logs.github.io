@@ -6618,5 +6618,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Anyone remember Beepstregen ? His name doesn't deserve to get spelled, right.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7954998",
+    "type": "public",
+    "date": "6/06 10:55",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Numm Bug why?",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
