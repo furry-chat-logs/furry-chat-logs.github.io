@@ -20572,5 +20572,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "[runefaust]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954210",
+    "type": "public",
+    "date": "5/06 23:02",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user25868_cb788273bb09.gif]",
+    "msgClasses": "chat_message "
   }
 ]
