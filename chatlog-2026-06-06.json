@@ -9808,5 +9808,25 @@
     "userClasses": "username user ",
     "message": "Don't worry about it he ain't your bf",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955318",
+    "type": "public",
+    "date": "6/06 13:53",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Uwubunny444 bro how you talk to?",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955319",
+    "type": "public",
+    "date": "6/06 13:53",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmejh4NXA5bGI0aHEzdWZzbGd0OWoyeHFyMWkybmJqMXByNXZwYW1qbyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/H5C8CevNMbpBqNqFjl/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
