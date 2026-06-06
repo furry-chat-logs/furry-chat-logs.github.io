@@ -3328,5 +3328,25 @@
     "userClasses": "username user ",
     "message": "That's a dude?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954668",
+    "type": "public",
+    "date": "6/06 3:41",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Damn",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954669",
+    "type": "public",
+    "date": "6/06 3:41",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ask Ashton Ash McKennan",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
