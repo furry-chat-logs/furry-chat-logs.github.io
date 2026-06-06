@@ -8088,5 +8088,25 @@
     "userClasses": "username user ",
     "message": "Not me😳",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955146",
+    "type": "public",
+    "date": "6/06 13:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_a9c8a8604007.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955147",
+    "type": "public",
+    "date": "6/06 13:00",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Right.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
