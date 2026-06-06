@@ -9398,5 +9398,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Neo The Protogen mj?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955277",
+    "type": "public",
+    "date": "6/06 13:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Gn",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7955278",
+    "type": "public",
+    "date": "6/06 13:45",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZ3RrZDZjbjZ2cmdhbzZrdzR5bmN1M3cxYms0bzZjN3U2OXFzcTNzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wWYaQjh779pY1ai7yA/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
