@@ -17626,5 +17626,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Fr",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953902",
+    "type": "public",
+    "date": "5/06 20:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "The PS2 games were fire",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953903",
+    "type": "public",
+    "date": "5/06 20:38",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "And i have an old walter i got when i was a kid its an old germen pistol",
+    "msgClasses": "chat_message "
   }
 ]
