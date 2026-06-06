@@ -20692,5 +20692,35 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMzA0cmp0Nzdlb2g2cWZvc3RvZnJoZ2xkNWdmc2dud3ZsNXdqZGZrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4E4KqxulO9JtRF8s6T/giphy.gif]",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954222",
+    "type": "public",
+    "date": "5/06 23:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "WAZZZAAAAAAAAA",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7954223",
+    "type": "public",
+    "date": "5/06 23:05",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36957_b2f193ba1674.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954224",
+    "type": "public",
+    "date": "5/06 23:05",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNXVzeHV6b3JpZWE0bzljdWQwb3FrOHU3MTU2cHdkd2lmejNjbXFndiZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/3ohze3K1ZJ35yFDgsw/giphy.gif]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
