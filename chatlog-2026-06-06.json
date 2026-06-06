@@ -15760,5 +15760,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I eat rice",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7955914",
+    "type": "public",
+    "date": "6/06 18:03",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "I heard we're talking about COD men from the twink",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
