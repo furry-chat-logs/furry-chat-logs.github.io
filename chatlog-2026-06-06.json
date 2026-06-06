@@ -6698,5 +6698,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWc0amdkNHEzcGY2bHpydzgyMXNvbHpmOTc4aDBhbWZheGZjbzVlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qVjmysM8luHk6JLfv3/giphy.gif]",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7955006",
+    "type": "public",
+    "date": "6/06 10:59",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Me",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
