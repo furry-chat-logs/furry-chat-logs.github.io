@@ -3758,5 +3758,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "But idk how to say what I did",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954711",
+    "type": "public",
+    "date": "6/06 6:14",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Hallo hallo",
+    "msgClasses": "chat_message bold"
   }
 ]
