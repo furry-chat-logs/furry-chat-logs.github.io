@@ -1118,5 +1118,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ashton Ash McKennan rip brain.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954445",
+    "type": "public",
+    "date": "6/06 1:04",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "QueenKit oh wow ok",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7954446",
+    "type": "public",
+    "date": "6/06 1:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog cold have been worse",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
