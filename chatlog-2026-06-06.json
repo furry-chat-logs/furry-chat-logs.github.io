@@ -16770,5 +16770,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "misha I have a great life.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7956015",
+    "type": "public",
+    "date": "6/06 18:44",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin well if you're always drunk no wonder",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
