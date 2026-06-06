@@ -14770,5 +14770,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "The frog is probably living a W life fr",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7955815",
+    "type": "public",
+    "date": "6/06 16:48",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I love native Americans",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
