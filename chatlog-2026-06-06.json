@@ -12366,5 +12366,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I like the drama",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955574",
+    "type": "public",
+    "date": "6/06 14:39",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Bunnynut Churro same",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955575",
+    "type": "public",
+    "date": "6/06 14:39",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Of course you do",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
