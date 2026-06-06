@@ -8208,5 +8208,15 @@
     "userClasses": "username user ",
     "message": "Bye bye silly wim",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955158",
+    "type": "public",
+    "date": "6/06 13:04",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "👋😝",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
