@@ -19704,5 +19704,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[lynxx3]",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7954123",
+    "type": "public",
+    "date": "5/06 22:37",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "He pmed me and I js saw it. 💔💔",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7954124",
+    "type": "public",
+    "date": "5/06 22:37",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "NeptuneLynxx oh hi!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
