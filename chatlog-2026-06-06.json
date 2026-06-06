@@ -15280,5 +15280,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Wait what?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7955866",
+    "type": "public",
+    "date": "6/06 17:15",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I dont see that?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
