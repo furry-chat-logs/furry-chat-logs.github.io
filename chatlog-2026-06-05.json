@@ -21232,5 +21232,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Therefore I put my name up here on my username",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954276",
+    "type": "public",
+    "date": "5/06 23:18",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "But I go by ash!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954277",
+    "type": "public",
+    "date": "5/06 23:18",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hi.",
+    "msgClasses": "chat_message ital"
   }
 ]
