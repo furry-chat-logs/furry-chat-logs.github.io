@@ -18846,5 +18846,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb2hya2p2cmRydGdocXBzYWhvaGZremJ1Mnk3b285cTBmemgxcTVwaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1WDPXjoRunc9KLbt13/giphy.gif]",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954037",
+    "type": "public",
+    "date": "5/06 21:47",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "FunHorseGuy18 hope you get run over by a car 😊",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7954038",
+    "type": "public",
+    "date": "5/06 21:47",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You have precisely 2 minutes to get off of here",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
