@@ -21532,5 +21532,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "What can we not send pictures",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954308",
+    "type": "public",
+    "date": "5/06 23:39",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "Good night y'all",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
