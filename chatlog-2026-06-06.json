@@ -2228,5 +2228,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "The goat",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7954558",
+    "type": "public",
+    "date": "6/06 1:52",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I opened up a poll",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
