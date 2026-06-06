@@ -14810,5 +14810,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "[syndrome]",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7955819",
+    "type": "public",
+    "date": "6/06 16:49",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "I am a native earth person",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
