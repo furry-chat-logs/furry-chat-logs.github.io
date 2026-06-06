@@ -15658,5 +15658,35 @@
     "userClasses": "username user ",
     "message": "Im out i have trauma",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953702",
+    "type": "public",
+    "date": "5/06 20:21",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Sonic The Hedgehog same person",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953703",
+    "type": "public",
+    "date": "5/06 20:21",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I...need to uh.....I need to......I don't know what I need to do.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7953704",
+    "type": "public",
+    "date": "5/06 20:21",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Ok.........",
+    "msgClasses": "chat_message "
   }
 ]
