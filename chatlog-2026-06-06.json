@@ -6968,5 +6968,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Interesting",
     "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7955034",
+    "type": "public",
+    "date": "6/06 11:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa Issa",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7955035",
+    "type": "public",
+    "date": "6/06 11:16",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_dcc86e5f914c.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
