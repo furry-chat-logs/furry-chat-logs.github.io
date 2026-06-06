@@ -7548,5 +7548,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I'm so bored!",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955092",
+    "type": "public",
+    "date": "6/06 12:07",
+    "username": "٭٭",
+    "userId": "7582",
+    "userClasses": "username bneon3 bnfont5",
+    "message": "🦖...",
+    "msgClasses": "chat_message bfont7"
   }
 ]
