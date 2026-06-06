@@ -3428,5 +3428,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ashton Ash McKennan thay can definitely help",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954678",
+    "type": "public",
+    "date": "6/06 3:46",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Bullshit they can't",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
