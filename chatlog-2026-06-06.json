@@ -10378,5 +10378,13 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "You're the reason why the big bang theory can't be solved.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7955375",
+    "type": "system",
+    "date": "6/06 14:10",
+    "username": "System",
+    "userId": null,
+    "message": "saltz has been kicked"
   }
 ]
