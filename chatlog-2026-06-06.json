@@ -13706,5 +13706,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ne warte oder?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7955708",
+    "type": "public",
+    "date": "6/06 14:56",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "SBB ja eig bern aber shon zürich",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
