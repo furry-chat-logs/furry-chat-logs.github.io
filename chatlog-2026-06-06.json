@@ -15290,5 +15290,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I dont see that?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7955867",
+    "type": "public",
+    "date": "6/06 17:15",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_ad0c4c1e6636.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955868",
+    "type": "public",
+    "date": "6/06 17:15",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Dude the cat is mine why do u gave it saved",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
