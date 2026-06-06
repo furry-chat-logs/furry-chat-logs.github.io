@@ -10436,5 +10436,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[nosebleed]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7955381",
+    "type": "public",
+    "date": "6/06 14:11",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "saltz is gone.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7955382",
+    "type": "public",
+    "date": "6/06 14:11",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Oh wait my reptilian is here [totallove]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
