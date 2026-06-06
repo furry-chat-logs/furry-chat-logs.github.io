@@ -6668,5 +6668,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Neo The Protogen ill tell you in pms .",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7955003",
+    "type": "public",
+    "date": "6/06 10:56",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWc0amdkNHEzcGY2bHpydzgyMXNvbHpmOTc4aDBhbWZheGZjbzVlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mVCn9793gZmh55Qpkm/giphy.gif]",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
