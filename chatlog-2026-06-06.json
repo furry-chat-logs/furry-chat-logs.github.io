@@ -5818,5 +5818,15 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Your mood says so",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7954918",
+    "type": "public",
+    "date": "6/06 10:35",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Damn",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
