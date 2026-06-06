@@ -14950,5 +14950,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Smiley Woah partner, what's got your boots in a ballad",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7955833",
+    "type": "public",
+    "date": "6/06 16:53",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35401_5f9bd998abeb.png]",
+    "msgClasses": "chat_message "
   }
 ]
