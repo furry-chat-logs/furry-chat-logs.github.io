@@ -12786,5 +12786,15 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Your flirting sucks",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7955616",
+    "type": "public",
+    "date": "6/06 14:44",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Denied",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
