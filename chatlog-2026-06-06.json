@@ -6188,5 +6188,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Neo The Protogen nonstop",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954955",
+    "type": "public",
+    "date": "6/06 10:42",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Mdekoni Eh off and on",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
