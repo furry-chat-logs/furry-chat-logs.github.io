@@ -3628,5 +3628,15 @@
     "userClasses": "username user ",
     "message": "I miss the 5 Dollar footlong",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954698",
+    "type": "public",
+    "date": "6/06 3:51",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Sol_Aizawa meh",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
