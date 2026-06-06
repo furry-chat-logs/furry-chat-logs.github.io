@@ -1548,5 +1548,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": ":P",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954489",
+    "type": "public",
+    "date": "6/06 1:23",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I spent 235$ on a pokemon booster box (36 packs)",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
