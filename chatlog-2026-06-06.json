@@ -3968,5 +3968,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan what happened?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954732",
+    "type": "public",
+    "date": "6/06 7:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Frogmin umm thought I didn't quite exist",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7954733",
+    "type": "public",
+    "date": "6/06 7:36",
+    "username": "Skittle",
+    "userId": "19316",
+    "userClasses": "username bgrad7 bnfont16",
+    "message": "SoraTheMikuFan i need to show u something i deww miku in adventure time style",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
