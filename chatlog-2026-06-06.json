@@ -10616,5 +10616,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Can this run FurryChat",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7955399",
+    "type": "public",
+    "date": "6/06 14:14",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaDhsODB5ZXBvZWN1OHh6cW93YmlzYnU1eGdpNmQwajFpbG1naGl2OCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tXL4FHPSnVJ0A/giphy.gif]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955400",
+    "type": "public",
+    "date": "6/06 14:14",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Porphyrophobia i hope you work out you life cause ragebaiting like this is the reason why your bloodline is disappearing every day",
+    "msgClasses": "chat_message "
   }
 ]
