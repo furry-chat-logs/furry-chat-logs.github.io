@@ -10596,5 +10596,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Uwubunny444 yach this stupidity is not capable of existing (it's all is your had)",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955397",
+    "type": "public",
+    "date": "6/06 14:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36006_21f41f9874a3.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955398",
+    "type": "public",
+    "date": "6/06 14:14",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Can this run FurryChat",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
