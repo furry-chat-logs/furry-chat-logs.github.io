@@ -14840,5 +14840,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "I'm native to the milky way",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7955822",
+    "type": "public",
+    "date": "6/06 16:50",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Real",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
