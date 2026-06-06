@@ -2508,5 +2508,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Yach still can't open pictures",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954586",
+    "type": "public",
+    "date": "6/06 2:32",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_0e0ddf15a679.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954587",
+    "type": "public",
+    "date": "6/06 2:32",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Sonic The Hedgehog",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
