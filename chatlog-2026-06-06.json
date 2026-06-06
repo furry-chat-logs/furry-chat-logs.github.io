@@ -16760,5 +16760,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Gotta drink a whole ass cherry pepsi",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7956014",
+    "type": "public",
+    "date": "6/06 18:44",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "misha I have a great life.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
