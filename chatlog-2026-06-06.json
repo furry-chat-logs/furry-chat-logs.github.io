@@ -3288,5 +3288,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Mdekoni excuse me?",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7954664",
+    "type": "public",
+    "date": "6/06 3:40",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Something something twilight saga",
+    "msgClasses": "chat_message "
   }
 ]
