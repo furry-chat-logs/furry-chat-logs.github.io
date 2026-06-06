@@ -3438,5 +3438,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Bullshit they can't",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954679",
+    "type": "public",
+    "date": "6/06 3:46",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "They just make it worse",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954680",
+    "type": "public",
+    "date": "6/06 3:46",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I feel like my brain is telling my kidneys to stop",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954681",
+    "type": "public",
+    "date": "6/06 3:46",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Okay",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
