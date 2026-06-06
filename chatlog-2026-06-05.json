@@ -15808,5 +15808,33 @@
     "userClasses": "username user ",
     "message": "Does anyone in chat who listen to thrash metal know the band Acid Bath?",
     "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7953717",
+    "type": "system",
+    "date": "5/06 20:22",
+    "username": "System",
+    "userId": null,
+    "message": "ihatefurries has been removed from chat"
+  },
+  {
+    "id": "7953718",
+    "type": "public",
+    "date": "5/06 20:22",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "I hope he gets the Ian Watkins treatment in prison",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953719",
+    "type": "public",
+    "date": "5/06 20:22",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Is not that bad itsJust a movie. Uwubunny444",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
