@@ -14988,5 +14988,15 @@
     "userClasses": "username user ",
     "message": "I watched the worst movie of all time and i don't feel right",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953633",
+    "type": "public",
+    "date": "5/06 20:12",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Huh",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
