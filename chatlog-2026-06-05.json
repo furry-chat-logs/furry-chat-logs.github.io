@@ -20672,5 +20672,25 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "Circle",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7954220",
+    "type": "public",
+    "date": "5/06 23:05",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "BOXXXXXXXXXXX",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954221",
+    "type": "public",
+    "date": "5/06 23:05",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMzA0cmp0Nzdlb2g2cWZvc3RvZnJoZ2xkNWdmc2dud3ZsNXdqZGZrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4E4KqxulO9JtRF8s6T/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
