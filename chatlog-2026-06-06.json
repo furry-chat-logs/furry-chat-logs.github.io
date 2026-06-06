@@ -808,5 +808,25 @@
     "userClasses": "username bneon30 bnfont7",
     "message": "Sonic The Hedgehog very yes",
     "msgClasses": "chat_message bcolor14 heavyital bfont3"
+  },
+  {
+    "id": "7954414",
+    "type": "public",
+    "date": "6/06 0:59",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hhfjgjf",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7954415",
+    "type": "public",
+    "date": "6/06 0:59",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "why...",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
