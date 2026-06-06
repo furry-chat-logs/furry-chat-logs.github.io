@@ -3028,5 +3028,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Why the fuck else do you think?",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954638",
+    "type": "public",
+    "date": "6/06 3:33",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Night chat",
+    "msgClasses": "chat_message "
   }
 ]
