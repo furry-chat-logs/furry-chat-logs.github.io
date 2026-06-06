@@ -20072,5 +20072,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Yeah twin I got like 80",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954160",
+    "type": "public",
+    "date": "5/06 22:45",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Dude we're getting the band back together",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7954161",
+    "type": "public",
+    "date": "5/06 22:45",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOWoyYXB4c2JmMndrMGthaTllZzYzaHVtcXN1MWNwMWw0aHhwenMyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SHQPfVrV7OpLW/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
