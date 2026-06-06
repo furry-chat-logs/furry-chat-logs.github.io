@@ -15058,5 +15058,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "SilverXD very beautiful",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953640",
+    "type": "public",
+    "date": "5/06 20:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYW52bTR0Zmt3Znl6ejIwemtocDJ5amkxYWp2bnhhZGt3cTRkeGozZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xr8lYAdQFMWfMhij4w/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
