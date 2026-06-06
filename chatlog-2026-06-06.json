@@ -7338,5 +7338,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Idk",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955071",
+    "type": "public",
+    "date": "6/06 11:54",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": ":<",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
