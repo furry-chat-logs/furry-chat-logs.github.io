@@ -128,5 +128,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcXY0NHBtMmF5bjVtbzQ5cGYyaDhvZWszcHoyYjI2ZzBqdm9rM3prYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oaXRLIMnkGBnuQOBzE/giphy.gif]",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954344",
+    "type": "public",
+    "date": "6/06 0:12",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It's gonna be so fun!!!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
