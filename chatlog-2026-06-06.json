@@ -16450,5 +16450,15 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Meep ...",
     "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7955983",
+    "type": "public",
+    "date": "6/06 18:30",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Bruh.",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
