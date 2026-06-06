@@ -498,5 +498,15 @@
     "userClasses": "username bgrad2 bnfont15",
     "message": "Sonic The Hedgehog real?",
     "msgClasses": "chat_message bneon10 heavyital bfont13"
+  },
+  {
+    "id": "7954382",
+    "type": "public",
+    "date": "6/06 0:36",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "NeonGreen101 real",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
