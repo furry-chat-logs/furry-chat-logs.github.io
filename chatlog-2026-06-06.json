@@ -6018,5 +6018,25 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "Smiley good morning",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7954938",
+    "type": "public",
+    "date": "6/06 10:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "good morning Smiley 😝",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954939",
+    "type": "public",
+    "date": "6/06 10:39",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Gmornin",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
