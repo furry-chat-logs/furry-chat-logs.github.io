@@ -16816,5 +16816,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "I never played Halo In my life but ****** Chiefs Hot,",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7953819",
+    "type": "public",
+    "date": "5/06 20:30",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "Wtfissachip same",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953820",
+    "type": "public",
+    "date": "5/06 20:30",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY3BxeHlraGszOTQxdGxzZjdzM3c4cmF4NHh0Y3ViczFkanl4bTl5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XjQHj2QgBovmQC1UAn/giphy.gif]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
