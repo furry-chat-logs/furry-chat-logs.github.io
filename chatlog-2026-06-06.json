@@ -3268,5 +3268,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "wait Mdekoni what is \"sirios\"?",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7954662",
+    "type": "public",
+    "date": "6/06 3:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "ghostship_mondo cinda privat",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
