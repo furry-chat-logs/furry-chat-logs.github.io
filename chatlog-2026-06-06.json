@@ -568,5 +568,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNmxodnhqbHRzaWxpa3B4YjJpMnk3Njk3YjRhOXNrbnRuZGkyaWt5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5eI4EW6tYgjCDmlVA7/giphy.gif]",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954389",
+    "type": "public",
+    "date": "6/06 0:38",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Night.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7954390",
+    "type": "public",
+    "date": "6/06 0:38",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM3Z6Yzd0ZG5uMXh6cXJlNjAzN3J1YTkxeGt4YjI0bDV2ajNxcDIyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hCt8CNy1joUChsUA9K/giphy.gif]",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
   }
 ]
