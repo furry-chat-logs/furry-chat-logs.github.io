@@ -7848,5 +7848,15 @@
     "userClasses": "username user ",
     "message": "QueenKit beamng drive",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955122",
+    "type": "public",
+    "date": "6/06 12:36",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I guess you can try different things.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
