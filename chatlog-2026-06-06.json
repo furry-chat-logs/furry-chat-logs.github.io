@@ -2038,5 +2038,15 @@
     "userClasses": "username user ",
     "message": "Mdekoni Oh I see, what book?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954538",
+    "type": "public",
+    "date": "6/06 1:37",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Wah",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
