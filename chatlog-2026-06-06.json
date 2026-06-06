@@ -1388,5 +1388,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "I thought that was the Bible",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954472",
+    "type": "public",
+    "date": "6/06 1:14",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sonic The Hedgehog it is",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954473",
+    "type": "public",
+    "date": "6/06 1:14",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "that says the bibble Sonic The Hedgehog",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
