@@ -2988,5 +2988,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'm scared to fucking death!!",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954634",
+    "type": "public",
+    "date": "6/06 3:33",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Ring a ding ding baby",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954635",
+    "type": "public",
+    "date": "6/06 3:33",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "if he was truly in a \"situation\" then why is bro still on a site called furrychat?",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
