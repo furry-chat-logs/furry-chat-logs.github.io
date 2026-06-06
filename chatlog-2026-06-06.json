@@ -4328,5 +4328,15 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "Tehehe",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7954768",
+    "type": "public",
+    "date": "6/06 7:56",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Goat",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
