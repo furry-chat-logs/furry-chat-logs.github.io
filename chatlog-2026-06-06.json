@@ -2898,5 +2898,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello everyone",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7954625",
+    "type": "public",
+    "date": "6/06 3:29",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hunter77 hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
