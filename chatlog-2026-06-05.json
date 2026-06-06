@@ -20962,5 +20962,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "\"NO, NO, NO NO\"",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954249",
+    "type": "public",
+    "date": "5/06 23:13",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Hey so...",
+    "msgClasses": "chat_message bneon19"
   }
 ]
