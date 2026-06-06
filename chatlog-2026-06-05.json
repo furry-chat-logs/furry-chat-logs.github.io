@@ -20562,5 +20562,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36957_e8c8e00a92c0.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954209",
+    "type": "public",
+    "date": "5/06 23:02",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[runefaust]",
+    "msgClasses": "chat_message "
   }
 ]
