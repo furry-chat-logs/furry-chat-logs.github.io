@@ -15060,5 +15060,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "SilverXD huh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955844",
+    "type": "public",
+    "date": "6/06 16:57",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Smiley bud. Brochaco. Broritto. Brosephine. You sound more country than me, you sound like you wrangle cattle and ride horses, you sound like you spend your days out farming or helping sick farm animals",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7955845",
+    "type": "public",
+    "date": "6/06 16:58",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_26334635a6c6.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
