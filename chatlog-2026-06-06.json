@@ -6268,5 +6268,15 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "I've heard rumors of a man by the name of BoltTheProto",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7954963",
+    "type": "public",
+    "date": "6/06 10:44",
+    "username": "starbound_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Neo The Protogen pms",
+    "msgClasses": "chat_message bneon4 ital bfont12"
   }
 ]
