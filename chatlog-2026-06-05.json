@@ -16566,5 +16566,25 @@
     "userClasses": "username user ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user27699_bcb0ff177088.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953793",
+    "type": "public",
+    "date": "5/06 20:28",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "Chechnya!",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7953794",
+    "type": "public",
+    "date": "5/06 20:28",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Do some halo shit and punch the tank till it implodes",
+    "msgClasses": "chat_message "
   }
 ]
