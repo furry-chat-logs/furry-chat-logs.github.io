@@ -7108,5 +7108,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Answer your pms =|",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7955048",
+    "type": "public",
+    "date": "6/06 11:41",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "Issa You said it 4 times, which makes him vanish. Beetlegeuse it (i cant spell)",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7955049",
+    "type": "public",
+    "date": "6/06 11:41",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Meep I am, cool it you impatient midget",
+    "msgClasses": "chat_message "
   }
 ]
