@@ -13916,5 +13916,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Smiley :D",
     "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7955729",
+    "type": "public",
+    "date": "6/06 15:07",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Evelyn1 they go by spoke now I think",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955730",
+    "type": "public",
+    "date": "6/06 15:07",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "300,000 times more Rings",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
