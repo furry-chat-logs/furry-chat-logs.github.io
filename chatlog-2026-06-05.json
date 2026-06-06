@@ -21402,5 +21402,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "🥶🔥🔥",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7954294",
+    "type": "public",
+    "date": "5/06 23:28",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHJ4dWNqb3Z3c2ZweWkxbmRodHV3YWp1dGd3cnJieTZodWFyMnFuciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QAVQ43S4Jq7e/giphy.gif]",
+    "msgClasses": "chat_message "
   }
 ]
