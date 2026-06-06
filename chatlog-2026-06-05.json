@@ -21252,5 +21252,15 @@
     "userClasses": "username bneon18 ",
     "message": "Hi.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7954278",
+    "type": "public",
+    "date": "5/06 23:18",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I keep telling everybody that and they always still call me Ashton",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
