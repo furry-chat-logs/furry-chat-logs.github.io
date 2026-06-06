@@ -13196,5 +13196,15 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "starbound_mondo and of course you too *hands you a cookie.*",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7955657",
+    "type": "public",
+    "date": "6/06 14:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I almost opened this website while my VPN was on",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
