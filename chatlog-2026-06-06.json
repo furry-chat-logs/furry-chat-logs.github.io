@@ -2738,5 +2738,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "He also threatened to beat my ass",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954609",
+    "type": "public",
+    "date": "6/06 3:03",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Ashton Ash McKennan well...",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
