@@ -6358,5 +6358,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Cammy ...👁️ *slowly pulls out water bottle*",
     "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7954972",
+    "type": "public",
+    "date": "6/06 10:48",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Nuuu *hisss*",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7954973",
+    "type": "public",
+    "date": "6/06 10:48",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "🧑‍🦯",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
