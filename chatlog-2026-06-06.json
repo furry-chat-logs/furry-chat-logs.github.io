@@ -3608,5 +3608,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'm scared",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954696",
+    "type": "public",
+    "date": "6/06 3:50",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I'm scared of inflation",
+    "msgClasses": "chat_message "
   }
 ]
