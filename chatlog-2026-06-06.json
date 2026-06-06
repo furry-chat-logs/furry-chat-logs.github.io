@@ -4608,5 +4608,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user33677_fa64bc0cc1cc.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954796",
+    "type": "public",
+    "date": "6/06 8:07",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Thats so cool",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
