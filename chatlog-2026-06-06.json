@@ -4458,5 +4458,25 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "Yesss",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7954781",
+    "type": "public",
+    "date": "6/06 8:02",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Mlst i spent on her was around 200",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7954782",
+    "type": "public",
+    "date": "6/06 8:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Cammy wow cool",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
