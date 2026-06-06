@@ -3878,5 +3878,15 @@
     "userClasses": "username bgrad7 bnfont16",
     "message": "Hi hi",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7954723",
+    "type": "public",
+    "date": "6/06 7:30",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Nothing going on I see.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
