@@ -20822,5 +20822,15 @@
     "userClasses": "username bcolor12 bnfont3",
     "message": "Rectangle",
     "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7954235",
+    "type": "public",
+    "date": "5/06 23:08",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27699_f0486e6fdf83.png]",
+    "msgClasses": "chat_message "
   }
 ]
