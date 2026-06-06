@@ -1588,5 +1588,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Shinys?",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954493",
+    "type": "public",
+    "date": "6/06 1:25",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Got 2 super illustration rares",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7954494",
+    "type": "public",
+    "date": "6/06 1:25",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "3 full arts",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7954495",
+    "type": "public",
+    "date": "6/06 1:25",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "And a couple exa",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
