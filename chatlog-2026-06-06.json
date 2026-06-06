@@ -7398,5 +7398,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bock",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955077",
+    "type": "public",
+    "date": "6/06 11:56",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "its a book",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
