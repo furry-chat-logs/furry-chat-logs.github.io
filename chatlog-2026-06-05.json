@@ -18426,5 +18426,35 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaDZ5dHUzNTNicWxveGl4ZHdqbGF0ZGhzcGx2d2Ntb3g2NHRjMnlkNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/YaP3iYxN3T8nIEN5rD/giphy.gif]",
     "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953992",
+    "type": "public",
+    "date": "5/06 20:50",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Bye",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953993",
+    "type": "public",
+    "date": "5/06 20:50",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "MISCLICK",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7953994",
+    "type": "public",
+    "date": "5/06 20:50",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Or did i",
+    "msgClasses": "chat_message "
   }
 ]
