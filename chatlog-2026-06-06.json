@@ -15930,5 +15930,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Yeah SMii77y is funny",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7955931",
+    "type": "public",
+    "date": "6/06 18:12",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "I like Sam & Colby",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
