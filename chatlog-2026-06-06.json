@@ -7528,5 +7528,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdXplZnNvcnpyOHVwYTY3d2IxajV0end5dncxand2c2kxNHk0aTR5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/icv6M1gP90k4mtGT6G/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7955090",
+    "type": "public",
+    "date": "6/06 12:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY25pdDE0aGV5bjE5aW5rYzJhdTFzenA4dGN3NG41Z2U4ODdlbnhlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wQ2wDLXSOtIMUPIKxf/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
