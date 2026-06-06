@@ -15420,5 +15420,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "What is Washington ON RIGHT NOW",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7955880",
+    "type": "public",
+    "date": "6/06 17:47",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "\"New law states no kids on electric motorcycles\"",
+    "msgClasses": "chat_message bneon19"
   }
 ]
