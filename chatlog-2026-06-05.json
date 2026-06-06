@@ -20372,5 +20372,45 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "[scrylveon]",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954190",
+    "type": "public",
+    "date": "5/06 23:00",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": ":JustAnAss:",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7954191",
+    "type": "public",
+    "date": "5/06 23:00",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "oops",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7954192",
+    "type": "public",
+    "date": "5/06 23:00",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss] [JustAnAss]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954193",
+    "type": "public",
+    "date": "5/06 23:00",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "i thought i bought it :[",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
