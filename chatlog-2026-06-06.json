@@ -7908,5 +7908,15 @@
     "userClasses": "username user ",
     "message": "Besides nobody helps me anyway",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955128",
+    "type": "public",
+    "date": "6/06 12:43",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Idk",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
