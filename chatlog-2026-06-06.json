@@ -7278,5 +7278,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hi",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955065",
+    "type": "public",
+    "date": "6/06 11:51",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "starbound_mondo don't traumatize the cat",
+    "msgClasses": "chat_message "
   }
 ]
