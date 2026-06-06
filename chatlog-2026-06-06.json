@@ -6398,5 +6398,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Smiley :(",
     "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7954976",
+    "type": "public",
+    "date": "6/06 10:49",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "I'll be going now since this chat clearly has favorites",
+    "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7954977",
+    "type": "public",
+    "date": "6/06 10:50",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Farewell",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
