@@ -1988,5 +1988,25 @@
     "userClasses": "username user ",
     "message": "Mdekoni What's up?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954533",
+    "type": "public",
+    "date": "6/06 1:35",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Shira2494 nothing much. I just need to read a bock for shool.",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954534",
+    "type": "public",
+    "date": "6/06 1:35",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I just can't remember his name Cause I don't talk to him anymore",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
