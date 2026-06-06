@@ -14016,5 +14016,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Alliances?",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955739",
+    "type": "public",
+    "date": "6/06 15:10",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjk1ZHhkbWgycTNsenNjYXJkdDI3dDdrbTAyMjF1eWhwaGU3NnBjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHB1lWgaM1WJ4fS/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
