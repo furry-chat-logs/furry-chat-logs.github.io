@@ -3528,5 +3528,25 @@
     "userClasses": "username user ",
     "message": "We don't have real bananas anymore it's all artificial",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954688",
+    "type": "public",
+    "date": "6/06 3:48",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Wtfissachip wild",
+    "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7954689",
+    "type": "public",
+    "date": "6/06 3:48",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "but lowkey thought",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
