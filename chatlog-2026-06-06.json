@@ -15980,5 +15980,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "We just have a negative 14 year old who has an attitude.",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7955936",
+    "type": "public",
+    "date": "6/06 18:13",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "🥀",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
