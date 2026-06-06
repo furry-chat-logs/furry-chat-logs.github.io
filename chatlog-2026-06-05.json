@@ -18136,5 +18136,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Spoke yes [angry]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7953958",
+    "type": "public",
+    "date": "5/06 20:45",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "oml that bitch stole my metallica cd too",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953959",
+    "type": "public",
+    "date": "5/06 20:45",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sonic The Hedgehog I find it funny how the m14 isn't on the map",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953960",
+    "type": "public",
+    "date": "5/06 20:45",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "genuinely sobbing rn",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
