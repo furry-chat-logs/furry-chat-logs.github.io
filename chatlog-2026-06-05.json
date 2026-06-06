@@ -20442,5 +20442,35 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "[dragorosie1]",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954197",
+    "type": "public",
+    "date": "5/06 23:01",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox] [lynxfox]",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7954198",
+    "type": "public",
+    "date": "5/06 23:01",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "Why doesn't it work",
+    "msgClasses": "chat_message bgrad4  bfont13"
+  },
+  {
+    "id": "7954199",
+    "type": "public",
+    "date": "5/06 23:01",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[boykisser.png]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
