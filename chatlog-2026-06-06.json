@@ -7028,5 +7028,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "I also have strawberry but they taste like nothing.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955040",
+    "type": "public",
+    "date": "6/06 11:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f49ecd475508.webp]",
+    "msgClasses": "chat_message "
   }
 ]
