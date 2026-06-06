@@ -8478,5 +8478,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "NAH",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955185",
+    "type": "public",
+    "date": "6/06 13:38",
+    "username": "saltz",
+    "userId": "37557",
+    "userClasses": "username user ",
+    "message": "anyfreaks? 😝",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955186",
+    "type": "public",
+    "date": "6/06 13:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "U are getting reported u a freak wth",
+    "msgClasses": "chat_message bneon14"
   }
 ]
