@@ -13256,5 +13256,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Evelyn1 tyyyyy :D",
     "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7955663",
+    "type": "public",
+    "date": "6/06 14:51",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33275_1a7495b6d5a4.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955664",
+    "type": "public",
+    "date": "6/06 14:51",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Aight imma go play half life",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
