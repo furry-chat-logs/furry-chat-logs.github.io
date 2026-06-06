@@ -14214,5 +14214,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "here we go again...",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7955759",
+    "type": "public",
+    "date": "6/06 15:23",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Mdekoni quick*",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7955760",
+    "type": "public",
+    "date": "6/06 15:23",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "aCHOO",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
