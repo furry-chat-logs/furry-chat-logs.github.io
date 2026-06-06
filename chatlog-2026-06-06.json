@@ -3098,5 +3098,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Wtfissachip i have a bag of sour ones right next to my bed",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954645",
+    "type": "public",
+    "date": "6/06 3:34",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "ghostship_mondo this is sirios",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954646",
+    "type": "public",
+    "date": "6/06 3:34",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sharkish I drown while you thrive",
+    "msgClasses": "chat_message "
   }
 ]
