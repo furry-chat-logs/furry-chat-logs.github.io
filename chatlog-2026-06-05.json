@@ -19296,5 +19296,25 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "yeah its a gas blowback 1911 compact",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7954082",
+    "type": "public",
+    "date": "5/06 22:00",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Sad thing is that other Christians are toxic",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954083",
+    "type": "public",
+    "date": "5/06 22:00",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Fuck that's nice",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
