@@ -16506,5 +16506,15 @@
     "userClasses": "username user ",
     "message": "Sonic The Hedgehog Japan got 2",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953787",
+    "type": "public",
+    "date": "5/06 20:27",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Boom Boom,",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
