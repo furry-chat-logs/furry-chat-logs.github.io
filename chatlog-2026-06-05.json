@@ -20012,5 +20012,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "Ashton McKennan what is it?",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7954154",
+    "type": "public",
+    "date": "5/06 22:43",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "There's a hundred and four days-",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
