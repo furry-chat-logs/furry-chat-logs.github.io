@@ -3188,5 +3188,35 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Wtfissachip",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7954654",
+    "type": "public",
+    "date": "6/06 3:35",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_9f4fcdab84cc.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954655",
+    "type": "public",
+    "date": "6/06 3:35",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Sames",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954656",
+    "type": "public",
+    "date": "6/06 3:35",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "I also have a 11 hour shift in 8 hours",
+    "msgClasses": "chat_message "
   }
 ]
