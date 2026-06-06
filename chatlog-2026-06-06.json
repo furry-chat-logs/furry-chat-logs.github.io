@@ -238,5 +238,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeTZqNnRvdWV4NXNkMTRtanRvYW5lM3VlcjR1aGYzbnlmZXptbGU1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rBpG1qXdB1n3PEjrgV/giphy.gif]",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954356",
+    "type": "public",
+    "date": "6/06 0:20",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[hilarious]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
