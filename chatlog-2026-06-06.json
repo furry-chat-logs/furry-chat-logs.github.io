@@ -6158,5 +6158,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "LukeWarm yach",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954952",
+    "type": "public",
+    "date": "6/06 10:41",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Damn i jst realized ive been here for 3 or 4 years",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
