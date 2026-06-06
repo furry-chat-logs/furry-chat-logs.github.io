@@ -358,5 +358,15 @@
     "userClasses": "username user ",
     "message": "Meow",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954368",
+    "type": "public",
+    "date": "6/06 0:31",
+    "username": "Zavier",
+    "userId": "35446",
+    "userClasses": "username user ",
+    "message": "Hehehe",
+    "msgClasses": "chat_message "
   }
 ]
