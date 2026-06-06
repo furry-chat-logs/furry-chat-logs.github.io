@@ -188,5 +188,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Sonic",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954351",
+    "type": "public",
+    "date": "6/06 0:18",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "What's the capital of Thailand",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
