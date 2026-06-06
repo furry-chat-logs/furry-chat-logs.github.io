@@ -16726,5 +16726,25 @@
     "userClasses": "username user ",
     "message": "Deimos really my guy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953810",
+    "type": "public",
+    "date": "5/06 20:30",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "i think i spelt that wrong",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953811",
+    "type": "public",
+    "date": "5/06 20:30",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user25868_0a2bcfc21585.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
