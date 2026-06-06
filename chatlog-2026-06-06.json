@@ -3348,5 +3348,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ask Ashton Ash McKennan",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954670",
+    "type": "public",
+    "date": "6/06 3:42",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Ask me what [indiferent]",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954671",
+    "type": "public",
+    "date": "6/06 3:42",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "I'm at the point of being tired where every time I blink I risk falling asleep",
+    "msgClasses": "chat_message "
   }
 ]
