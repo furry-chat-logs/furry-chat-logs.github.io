@@ -15548,5 +15548,15 @@
     "userClasses": "username bneon31 bnfont4",
     "message": "That video is HORRIBLE",
     "msgClasses": "chat_message bneon1 bold bfont4"
+  },
+  {
+    "id": "7953691",
+    "type": "public",
+    "date": "5/06 20:19",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "When the death is quick or quiet I can handle it but if it's slow and full of screams I gotta pause it",
+    "msgClasses": "chat_message "
   }
 ]
