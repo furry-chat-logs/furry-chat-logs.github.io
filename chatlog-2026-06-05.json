@@ -19894,5 +19894,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Y'all in the danger zone so good luck",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954142",
+    "type": "public",
+    "date": "5/06 22:41",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Richie why though",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
