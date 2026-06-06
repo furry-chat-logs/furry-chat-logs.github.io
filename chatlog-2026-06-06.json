@@ -3678,5 +3678,15 @@
     "userClasses": "username user ",
     "message": "It's winhej",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954703",
+    "type": "public",
+    "date": "6/06 4:27",
+    "username": "buckgirl",
+    "userId": "3425",
+    "userClasses": "username bgrad39 bnfont14",
+    "message": ":p",
+    "msgClasses": "chat_message bgrad31 bold bfont12"
   }
 ]
