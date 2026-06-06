@@ -6088,5 +6088,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "starbound_mondo haiii",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954945",
+    "type": "public",
+    "date": "6/06 10:40",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "I think tuff is a good thing I haven't properly grasped these slangs",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7954946",
+    "type": "public",
+    "date": "6/06 10:40",
+    "username": "starbound_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "LukeWarm u never said mines was tuff :(",
+    "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7954947",
+    "type": "public",
+    "date": "6/06 10:40",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Why thank you LukeWarm",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
