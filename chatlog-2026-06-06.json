@@ -8628,5 +8628,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Yea let 'em be yk",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7955200",
+    "type": "public",
+    "date": "6/06 13:39",
+    "username": "saltz",
+    "userId": "37557",
+    "userClasses": "username user ",
+    "message": "im just looking for a freak",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955201",
+    "type": "public",
+    "date": "6/06 13:39",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "It has the brain cell of an half-processed fetus.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
