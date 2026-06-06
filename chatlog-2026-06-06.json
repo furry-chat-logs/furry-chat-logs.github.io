@@ -2498,5 +2498,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Mdekoni",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954585",
+    "type": "public",
+    "date": "6/06 2:31",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Yach still can't open pictures",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
