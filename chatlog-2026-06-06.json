@@ -10396,5 +10396,35 @@
     "userClasses": "username user ",
     "message": "Well at least i am something",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955377",
+    "type": "public",
+    "date": "6/06 14:10",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "sorry I'm at my grad",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7955378",
+    "type": "public",
+    "date": "6/06 14:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Whenever you move around, the faster all the continents spread further apart.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7955379",
+    "type": "public",
+    "date": "6/06 14:10",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "that's all i can do",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
