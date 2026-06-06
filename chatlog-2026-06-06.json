@@ -3158,5 +3158,15 @@
     "userClasses": "username user ",
     "message": "I mean lucky",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954651",
+    "type": "public",
+    "date": "6/06 3:35",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Lol",
+    "msgClasses": "chat_message "
   }
 ]
