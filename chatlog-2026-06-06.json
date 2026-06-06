@@ -12216,5 +12216,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Bunnynut Churro what is happening?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955559",
+    "type": "public",
+    "date": "6/06 14:38",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Er-",
+    "msgClasses": "chat_message ital"
   }
 ]
