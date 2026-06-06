@@ -18956,5 +18956,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Yeah chill",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954048",
+    "type": "public",
+    "date": "5/06 21:48",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "FunHorseGuy18 hope your family forgets about you ❤️",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7954049",
+    "type": "public",
+    "date": "5/06 21:48",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Good he's gone",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
