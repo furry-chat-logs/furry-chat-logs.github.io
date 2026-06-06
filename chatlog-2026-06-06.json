@@ -4558,5 +4558,15 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "guyysss i got my skulldog mask in",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7954791",
+    "type": "public",
+    "date": "6/06 8:05",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "It wont let me",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
