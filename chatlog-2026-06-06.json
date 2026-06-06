@@ -3368,5 +3368,15 @@
     "userClasses": "username user ",
     "message": "I'm at the point of being tired where every time I blink I risk falling asleep",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954672",
+    "type": "public",
+    "date": "6/06 3:44",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Wtfissachip stay up",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
