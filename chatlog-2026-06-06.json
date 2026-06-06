@@ -5998,5 +5998,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "LukeWarm Iwe benn waiting so long for that",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954936",
+    "type": "public",
+    "date": "6/06 10:38",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Good morning",
+    "msgClasses": "chat_message "
   }
 ]
