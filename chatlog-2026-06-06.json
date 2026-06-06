@@ -7648,5 +7648,15 @@
     "userClasses": "username user ",
     "message": "Im calling them so they can give me money",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955102",
+    "type": "public",
+    "date": "6/06 12:27",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Here you go",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
