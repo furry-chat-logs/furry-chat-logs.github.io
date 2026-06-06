@@ -1318,5 +1318,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hiding my furry art",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954465",
+    "type": "public",
+    "date": "6/06 1:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "YEAH",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954466",
+    "type": "public",
+    "date": "6/06 1:13",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "NO",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
