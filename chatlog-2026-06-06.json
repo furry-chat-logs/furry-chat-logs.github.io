@@ -718,5 +718,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "QueenKit WHAT",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954405",
+    "type": "public",
+    "date": "6/06 0:43",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "The main Gundam showed up and aura farmed with Doom esque heavy metal",
+    "msgClasses": "chat_message bneon19"
   }
 ]
