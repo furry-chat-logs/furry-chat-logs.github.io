@@ -10038,5 +10038,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[totallove]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7955341",
+    "type": "public",
+    "date": "6/06 14:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm outside and see suiside",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955342",
+    "type": "public",
+    "date": "6/06 14:00",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Im outside and i see a piece of sand its soooo adorable",
+    "msgClasses": "chat_message "
   }
 ]
