@@ -14264,5 +14264,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Evelyn1 lol SBB got muted",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955764",
+    "type": "public",
+    "date": "6/06 15:24",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Mdekoni is muting also in pms?",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
