@@ -17026,5 +17026,35 @@
     "userClasses": "username user ",
     "message": "I love skyrim and doom",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953841",
+    "type": "public",
+    "date": "5/06 20:33",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_ae6c8415ef65.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953842",
+    "type": "public",
+    "date": "5/06 20:33",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "And fallout too",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953843",
+    "type": "public",
+    "date": "5/06 20:33",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "i lost my frmtanyl cd imma cry",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
