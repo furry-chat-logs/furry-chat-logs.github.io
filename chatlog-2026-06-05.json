@@ -17386,5 +17386,25 @@
     "userClasses": "username user ",
     "message": "I heard the story wasn't the best but tbh I don't play a racing game for story",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953877",
+    "type": "public",
+    "date": "5/06 20:36",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I might start listening to femtanyl",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7953878",
+    "type": "public",
+    "date": "5/06 20:36",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Wtfissachip fair enough",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
