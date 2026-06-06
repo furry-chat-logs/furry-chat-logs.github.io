@@ -19962,5 +19962,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[lynxx1]",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7954149",
+    "type": "public",
+    "date": "5/06 22:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "It's as if Thanos snapped his fingers",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954150",
+    "type": "public",
+    "date": "5/06 22:42",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Anyways",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
