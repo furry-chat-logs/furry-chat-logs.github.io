@@ -10198,5 +10198,15 @@
     "userClasses": "username user ",
     "message": "You've made a grave mistake",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955357",
+    "type": "public",
+    "date": "6/06 14:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Syau",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
