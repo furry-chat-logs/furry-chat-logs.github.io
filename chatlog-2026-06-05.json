@@ -19744,5 +19744,25 @@
     "userClasses": "username user ",
     "message": "HIII M13",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954127",
+    "type": "public",
+    "date": "5/06 22:38",
+    "username": "Richie",
+    "userId": "37548",
+    "userClasses": "username user ",
+    "message": "Furries dm me M13",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954128",
+    "type": "public",
+    "date": "5/06 22:38",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmejljcmJwNDBnZmVpMG9taWxsNWJlNmh5cjBveGs5cHgyNjNpN2V4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
