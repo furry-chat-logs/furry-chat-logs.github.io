@@ -7318,5 +7318,15 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "struck starbound_mondo in the head with a rolled up magizine",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7955069",
+    "type": "public",
+    "date": "6/06 11:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Why are we hitting people",
+    "msgClasses": "chat_message "
   }
 ]
