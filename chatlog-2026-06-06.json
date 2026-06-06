@@ -7918,5 +7918,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Idk",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955129",
+    "type": "public",
+    "date": "6/06 12:53",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon30 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user13262_594164b114ea.png]",
+    "msgClasses": "chat_message "
   }
 ]
