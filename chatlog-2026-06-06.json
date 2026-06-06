@@ -4268,5 +4268,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Mdekoni hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954762",
+    "type": "public",
+    "date": "6/06 7:52",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm going to help my dad move some things.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
