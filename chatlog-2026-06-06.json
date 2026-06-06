@@ -3278,5 +3278,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "ghostship_mondo cinda privat",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954663",
+    "type": "public",
+    "date": "6/06 3:40",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Mdekoni excuse me?",
+    "msgClasses": "chat_message bneon14 ital bfont12"
   }
 ]
