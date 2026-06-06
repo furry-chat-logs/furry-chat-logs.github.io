@@ -14588,5 +14588,15 @@
     "userClasses": "username bcolor2 bnfont11",
     "message": "[media: https://furrychat.net/chat/upload/chat/user33604_60b48de67f06.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953592",
+    "type": "public",
+    "date": "5/06 19:25",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "williams oh cool!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
