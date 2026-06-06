@@ -2578,5 +2578,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Sharkish ?",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7954593",
+    "type": "public",
+    "date": "6/06 2:54",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Help",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
