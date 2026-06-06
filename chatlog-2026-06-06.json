@@ -1838,5 +1838,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I have a pet wolf though",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954518",
+    "type": "public",
+    "date": "6/06 1:33",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ashton Ash McKennan wow can you send a picture??",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954519",
+    "type": "public",
+    "date": "6/06 1:33",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gn",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
