@@ -4888,5 +4888,15 @@
     "userClasses": "username user ",
     "message": ":3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954824",
+    "type": "public",
+    "date": "6/06 8:38",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": ":p",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
