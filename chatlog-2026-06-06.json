@@ -11716,5 +11716,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Uwubunny444 you’re*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955509",
+    "type": "public",
+    "date": "6/06 14:30",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "1st off I literally help everybody on here!",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955510",
+    "type": "public",
+    "date": "6/06 14:30",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Second call me a cracker again and shit's gonna go down",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
