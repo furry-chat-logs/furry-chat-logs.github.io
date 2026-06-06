@@ -13656,5 +13656,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "German I presume",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955703",
+    "type": "public",
+    "date": "6/06 14:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Gggrgrgirie",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
