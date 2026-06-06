@@ -16020,5 +16020,35 @@
     "userClasses": "username bgrad3 bnfont16",
     "message": "I watched Sam and Colby with The Boys",
     "msgClasses": "chat_message bneon19 ital bfont14"
+  },
+  {
+    "id": "7955940",
+    "type": "public",
+    "date": "6/06 18:15",
+    "username": "Sylveon",
+    "userId": "8363",
+    "userClasses": "username bgrad3 bnfont16",
+    "message": "they're honestly like two peas in a pod they're so funny",
+    "msgClasses": "chat_message bneon19 ital bfont14"
+  },
+  {
+    "id": "7955941",
+    "type": "public",
+    "date": "6/06 18:15",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I also watch The Boys",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7955942",
+    "type": "public",
+    "date": "6/06 18:15",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Sylveon yess!! I love those two YouTubers",
+    "msgClasses": "chat_message bneon19"
   }
 ]
