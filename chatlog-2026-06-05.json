@@ -16256,5 +16256,45 @@
     "userClasses": "username user ",
     "message": "Lugers",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953762",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "People were trying to find the guy",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953763",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "i never heard about this",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7953764",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Alex_007",
+    "userId": "27699",
+    "userClasses": "username user ",
+    "message": "WHY DON'T PRESIDENTS FIGHT THE WAR WHY DO THEY ALWAYS SEND THE POOR!",
+    "msgClasses": "chat_message bgrad37 bold bfont1"
+  },
+  {
+    "id": "7953765",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "😨",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
