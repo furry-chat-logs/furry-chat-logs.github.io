@@ -3778,5 +3778,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "liminal hi👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7954713",
+    "type": "public",
+    "date": "6/06 6:27",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Im sooo boreddd",
+    "msgClasses": "chat_message bold"
   }
 ]
