@@ -8438,5 +8438,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "USE, BRAIN.",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7955181",
+    "type": "public",
+    "date": "6/06 13:37",
+    "username": "saltz",
+    "userId": "37557",
+    "userClasses": "username user ",
+    "message": "even better",
+    "msgClasses": "chat_message "
   }
 ]
