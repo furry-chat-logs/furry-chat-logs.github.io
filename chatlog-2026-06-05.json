@@ -19774,5 +19774,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFma3k2NnY1YTQ2M3M4NTE4N2RpcWVkb3piMW4xOWdmN2pqOW43YjVpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lgo4RIudsPTAGlRiIw/giphy.gif]",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7954130",
+    "type": "public",
+    "date": "5/06 22:39",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMnR3Z3RxdHh4dTNvcXpvNzFzOXZxd3kwdmljcmJpbzUxMHIybWw3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A8aLCwedrakVNyalLH/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
