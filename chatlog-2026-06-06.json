@@ -4088,5 +4088,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's not AI",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954744",
+    "type": "public",
+    "date": "6/06 7:39",
+    "username": "Skittle",
+    "userId": "19316",
+    "userClasses": "username bgrad7 bnfont16",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19316_5e20bf35f668.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
