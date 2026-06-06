@@ -20292,5 +20292,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "lmfao right?",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954182",
+    "type": "public",
+    "date": "5/06 22:57",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Its that season",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
