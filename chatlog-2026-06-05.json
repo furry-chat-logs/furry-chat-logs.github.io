@@ -16216,5 +16216,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Spoke yup",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953758",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "It went viral",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953759",
+    "type": "public",
+    "date": "5/06 20:25",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "Plus flamethrowers where heavily used",
+    "msgClasses": "chat_message "
   }
 ]
