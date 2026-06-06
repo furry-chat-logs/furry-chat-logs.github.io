@@ -21472,5 +21472,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Slashing my gash",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7954302",
+    "type": "public",
+    "date": "5/06 23:32",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMjZ0NTNkbW05dTBha2pqYTA2MXZtY3E2MTZidHhkaXU3cDk4OW12aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/clw2xFbtNVTmILMeGM/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
