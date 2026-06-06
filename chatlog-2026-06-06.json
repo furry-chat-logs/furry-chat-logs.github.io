@@ -14670,5 +14670,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8513_7cf8eeb9b4eb.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955805",
+    "type": "public",
+    "date": "6/06 16:39",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Thats a pretty blanket",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7955806",
+    "type": "public",
+    "date": "6/06 16:39",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "NeptuneLynxx so many pretty things",
+    "msgClasses": "chat_message "
   }
 ]
