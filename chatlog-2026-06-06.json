@@ -15010,5 +15010,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Keep your shit together",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7955839",
+    "type": "public",
+    "date": "6/06 16:55",
+    "username": "Rawrrrr",
+    "userId": "37559",
+    "userClasses": "username user ",
+    "message": "This chat is relatively dead since the last time I used it on my first acc",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955840",
+    "type": "public",
+    "date": "6/06 16:55",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "SilverXD bruh -.-",
+    "msgClasses": "chat_message "
   }
 ]
