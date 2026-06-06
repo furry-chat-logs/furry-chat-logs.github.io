@@ -17776,5 +17776,35 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "And a better sequal",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7953918",
+    "type": "public",
+    "date": "5/06 20:40",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "That's a different studio",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7953919",
+    "type": "public",
+    "date": "5/06 20:40",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "YEYSSSSS",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7953920",
+    "type": "public",
+    "date": "5/06 20:40",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Wtfissachip ik",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
