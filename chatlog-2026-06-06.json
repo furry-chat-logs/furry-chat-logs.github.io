@@ -13596,5 +13596,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Kurtis*",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955697",
+    "type": "public",
+    "date": "6/06 14:54",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "LukeWarm ohhhhh",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7955698",
+    "type": "public",
+    "date": "6/06 14:54",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Aha subba der dritte der schon deutsch kann",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
