@@ -18666,5 +18666,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Bruh",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7954018",
+    "type": "public",
+    "date": "5/06 21:22",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "sorry",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7954019",
+    "type": "public",
+    "date": "5/06 21:22",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "What the FUCK is this",
+    "msgClasses": "chat_message bneon19"
   }
 ]
