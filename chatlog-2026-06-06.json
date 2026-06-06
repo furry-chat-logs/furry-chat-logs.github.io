@@ -4998,5 +4998,15 @@
     "userClasses": "username user ",
     "message": "So how's everybody's day going?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954835",
+    "type": "public",
+    "date": "6/06 8:48",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "A little tired",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
