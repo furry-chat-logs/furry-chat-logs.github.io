@@ -19266,5 +19266,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Cutieozzy Sick",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954079",
+    "type": "public",
+    "date": "5/06 22:00",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I don't care if somebody is a Satanist I just don't wanna be a part of the rituals",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954080",
+    "type": "public",
+    "date": "5/06 22:00",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Cutieozzy what type",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
