@@ -1818,5 +1818,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I know they're so fucking cute",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954516",
+    "type": "public",
+    "date": "6/06 1:32",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Yach",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
