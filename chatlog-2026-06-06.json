@@ -11076,5 +11076,15 @@
     "userClasses": "username user ",
     "message": "Yeah ok you probably do that stuff in the basement",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955445",
+    "type": "public",
+    "date": "6/06 14:22",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Clearsight yo you have the baner of snack_bitsised",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
