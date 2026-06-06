@@ -5028,5 +5028,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Probably the cabinet LMAO",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954838",
+    "type": "public",
+    "date": "6/06 9:04",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "Lmao",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
