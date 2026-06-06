@@ -3298,5 +3298,15 @@
     "userClasses": "username user ",
     "message": "Something something twilight saga",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954665",
+    "type": "public",
+    "date": "6/06 3:41",
+    "username": "ghostship_mondo",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_da3b109a9afa.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
