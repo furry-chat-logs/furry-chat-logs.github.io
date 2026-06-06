@@ -16690,5 +16690,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "misha LOL",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7956007",
+    "type": "public",
+    "date": "6/06 18:40",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Spectre_protogen I come in monthly",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
