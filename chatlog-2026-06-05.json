@@ -20102,5 +20102,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "i sent my mother a Phineas and Ferb gif today!",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7954163",
+    "type": "public",
+    "date": "5/06 22:46",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "Lemme see",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954164",
+    "type": "public",
+    "date": "5/06 22:46",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8513_80fbd7df54c6.png]",
+    "msgClasses": "chat_message "
   }
 ]
