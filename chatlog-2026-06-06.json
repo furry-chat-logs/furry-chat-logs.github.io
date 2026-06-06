@@ -8298,5 +8298,25 @@
     "userClasses": "username bneon18 ",
     "message": "Porphyrophobia [totallove]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7955167",
+    "type": "public",
+    "date": "6/06 13:35",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "He's right behind me isn't he",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7955168",
+    "type": "public",
+    "date": "6/06 13:35",
+    "username": "saltz",
+    "userId": "37557",
+    "userClasses": "username user ",
+    "message": "anyfreaks? 😝",
+    "msgClasses": "chat_message "
   }
 ]
