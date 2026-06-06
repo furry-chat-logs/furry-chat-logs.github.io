@@ -5588,5 +5588,15 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "no",
     "msgClasses": "chat_message bneon4 ital bfont12"
+  },
+  {
+    "id": "7954895",
+    "type": "public",
+    "date": "6/06 10:30",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "You boil the hell out of it.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
