@@ -9468,5 +9468,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Nobody wants to match your freak",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7955284",
+    "type": "public",
+    "date": "6/06 13:46",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Honestly, atp.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7955285",
+    "type": "public",
+    "date": "6/06 13:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "But maybe Diddy won't say the same",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
