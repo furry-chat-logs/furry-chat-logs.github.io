@@ -9608,5 +9608,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Uwubunny444 saltz",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955298",
+    "type": "public",
+    "date": "6/06 13:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_0aa4e6316c1f.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955299",
+    "type": "public",
+    "date": "6/06 13:48",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "This is what i come to as soon as i get here",
+    "msgClasses": "chat_message "
   }
 ]
