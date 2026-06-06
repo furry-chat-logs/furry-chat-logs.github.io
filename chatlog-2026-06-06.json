@@ -9448,5 +9448,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "saltz bro",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955282",
+    "type": "public",
+    "date": "6/06 13:46",
+    "username": "saltz",
+    "userId": "37557",
+    "userClasses": "username user ",
+    "message": "wsg",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955283",
+    "type": "public",
+    "date": "6/06 13:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Nobody wants to match your freak",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
