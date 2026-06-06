@@ -1658,5 +1658,15 @@
     "userClasses": "username bgrad39 ",
     "message": "Hi",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7954500",
+    "type": "public",
+    "date": "6/06 1:27",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Does anybody here know hazbin hotel besides my kurtis",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
