@@ -7598,5 +7598,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Neo The Protogen wdym",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955097",
+    "type": "public",
+    "date": "6/06 12:14",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Hello",
+    "msgClasses": "chat_message "
   }
 ]
