@@ -9698,5 +9698,15 @@
     "userClasses": "username user ",
     "message": "Brb",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955307",
+    "type": "public",
+    "date": "6/06 13:49",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Uwubunny444 [good]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
