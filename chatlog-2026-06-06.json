@@ -12346,5 +12346,25 @@
     "userClasses": "username bgrad38 bnfont3",
     "message": "It IS NOT that hard",
     "msgClasses": "chat_message bneon23  bfont9"
+  },
+  {
+    "id": "7955572",
+    "type": "public",
+    "date": "6/06 14:39",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "nope",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955573",
+    "type": "public",
+    "date": "6/06 14:39",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I like the drama",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
