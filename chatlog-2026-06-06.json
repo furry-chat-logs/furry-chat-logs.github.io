@@ -10386,5 +10386,15 @@
     "username": "System",
     "userId": null,
     "message": "saltz has been kicked"
+  },
+  {
+    "id": "7955376",
+    "type": "public",
+    "date": "6/06 14:10",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Well at least i am something",
+    "msgClasses": "chat_message "
   }
 ]
