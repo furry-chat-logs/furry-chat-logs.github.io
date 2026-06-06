@@ -3518,5 +3518,15 @@
     "userClasses": "username user ",
     "message": "And a real banana",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954687",
+    "type": "public",
+    "date": "6/06 3:47",
+    "username": "Wtfissachip",
+    "userId": "36531",
+    "userClasses": "username user ",
+    "message": "We don't have real bananas anymore it's all artificial",
+    "msgClasses": "chat_message "
   }
 ]
