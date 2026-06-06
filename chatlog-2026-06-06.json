@@ -7248,5 +7248,15 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": ":<",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7955062",
+    "type": "public",
+    "date": "6/06 11:49",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "Furrychat looking real furry rn",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
