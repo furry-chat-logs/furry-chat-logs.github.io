@@ -14720,5 +14720,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "I love being native",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7955810",
+    "type": "public",
+    "date": "6/06 16:42",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I like being native too",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
