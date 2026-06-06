@@ -1638,5 +1638,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "damn",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954498",
+    "type": "public",
+    "date": "6/06 1:26",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'ma probably take my pokemon binder to the card store and see if they worth anything",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7954499",
+    "type": "public",
+    "date": "6/06 1:27",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon9"
   }
 ]
