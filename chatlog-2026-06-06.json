@@ -16380,5 +16380,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Meep what????",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955976",
+    "type": "public",
+    "date": "6/06 18:29",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_e818424613f7.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
