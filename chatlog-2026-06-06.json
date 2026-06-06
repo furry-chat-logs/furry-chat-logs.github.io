@@ -4868,5 +4868,15 @@
     "userClasses": "username user ",
     "message": "Mdekoni My name is Ethan",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954822",
+    "type": "public",
+    "date": "6/06 8:36",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ethan2000mace lol",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
