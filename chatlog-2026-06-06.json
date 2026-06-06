@@ -14392,5 +14392,13 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "999 [prayer]",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7955777",
+    "type": "system",
+    "date": "6/06 16:00",
+    "username": "System",
+    "userId": null,
+    "message": "Uwubunny444 has been kicked"
   }
 ]
