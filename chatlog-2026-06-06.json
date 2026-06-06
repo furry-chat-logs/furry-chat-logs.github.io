@@ -2128,5 +2128,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Homeless Smurf",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954548",
+    "type": "public",
+    "date": "6/06 1:44",
+    "username": "Hunter77",
+    "userId": "36931",
+    "userClasses": "username bcolor22 bnfont10",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZmtjMHI5eTR1eXIyeG16ZXR3bTYxZHgzczRramtlMWd0bnZlYm5veiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3klc9zYVQC7UlNnAMR/giphy.gif]",
+    "msgClasses": "chat_message bcolor21"
   }
 ]
