@@ -3018,5 +3018,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "instead of doing something smarter",
     "msgClasses": "chat_message bneon14 ital bfont12"
+  },
+  {
+    "id": "7954637",
+    "type": "public",
+    "date": "6/06 3:33",
+    "username": "Ashton Ash McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Why the fuck else do you think?",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
   }
 ]
