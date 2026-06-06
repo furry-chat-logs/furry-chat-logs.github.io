@@ -4748,5 +4748,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ive never seen a cat raptor",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7954810",
+    "type": "public",
+    "date": "6/06 8:12",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "I still have her arts",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
