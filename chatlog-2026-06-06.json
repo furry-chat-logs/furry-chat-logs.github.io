@@ -4968,5 +4968,15 @@
     "userClasses": "username user ",
     "message": "Hey im new here",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954832",
+    "type": "public",
+    "date": "6/06 8:42",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "JayBeast cool hi ther👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
