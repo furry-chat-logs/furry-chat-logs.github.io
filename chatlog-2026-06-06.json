@@ -9908,5 +9908,15 @@
     "userClasses": "username user ",
     "message": "😐",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955328",
+    "type": "public",
+    "date": "6/06 13:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Taps chin",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
