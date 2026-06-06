@@ -4198,5 +4198,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Hey there",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954755",
+    "type": "public",
+    "date": "6/06 7:50",
+    "username": "Skittle",
+    "userId": "19316",
+    "userClasses": "username bgrad7 bnfont16",
+    "message": "Hiya",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
