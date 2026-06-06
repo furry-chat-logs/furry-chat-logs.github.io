@@ -1438,5 +1438,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "You question the words of the mighty jimmy [angry]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7954477",
+    "type": "public",
+    "date": "6/06 1:16",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_8b48f6dee440.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
