@@ -9628,5 +9628,15 @@
     "userClasses": "username user ",
     "message": "This is what i come to as soon as i get here",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955300",
+    "type": "public",
+    "date": "6/06 13:48",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Okay, I managed to reach out to the admin about ts.",
+    "msgClasses": "chat_message ital"
   }
 ]
