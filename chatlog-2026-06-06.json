@@ -15700,5 +15700,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "wow. a lot of people went offline just now",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7955908",
+    "type": "public",
+    "date": "6/06 18:01",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_02e8c6b21e98.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
