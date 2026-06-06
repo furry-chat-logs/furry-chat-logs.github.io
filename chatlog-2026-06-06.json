@@ -6548,5 +6548,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Yea 900 years ago",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7954991",
+    "type": "public",
+    "date": "6/06 10:54",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Numm Bug Goof hes not on rn",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7954992",
+    "type": "public",
+    "date": "6/06 10:54",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Tbf I was hibernating for two years.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
