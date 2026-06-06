@@ -10078,5 +10078,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I'm inside and I see a cute dog",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955345",
+    "type": "public",
+    "date": "6/06 14:01",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "I'm inside and I see no brain",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
