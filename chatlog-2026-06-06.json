@@ -11756,5 +11756,15 @@
     "userClasses": "username user ",
     "message": "Ashton McKennan what are you gonna do shoot me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955513",
+    "type": "public",
+    "date": "6/06 14:32",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad38 bnfont3",
+    "message": "Not my fight, not my problem, I will return after a bit",
+    "msgClasses": "chat_message bneon23  bfont9"
   }
 ]
