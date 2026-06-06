@@ -20652,5 +20652,25 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYXl4MXR0aXhyajhneThtazcwdjRpejB4YzJmNGdnZ3pyaDcxN2ZlMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/17mNCcKU1mJlrbXodo/giphy.gif]",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7954218",
+    "type": "public",
+    "date": "5/06 23:05",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36957_154f47f2ea97.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954219",
+    "type": "public",
+    "date": "5/06 23:05",
+    "username": "Mr-Shark",
+    "userId": "36957",
+    "userClasses": "username bcolor12 bnfont3",
+    "message": "Circle",
+    "msgClasses": "chat_message bgrad4  bfont13"
   }
 ]
