@@ -9138,5 +9138,45 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWR4N3R1eGhzdWFycG8wN25vejdmNGR4anRiaHhvNWNrbjM4bGdyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vZcE6QIuvRLJr59UG/giphy.gif]",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7955251",
+    "type": "public",
+    "date": "6/06 13:43",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "saltz hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7955252",
+    "type": "public",
+    "date": "6/06 13:43",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "saltz ragebait 0/10 btw",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955253",
+    "type": "public",
+    "date": "6/06 13:44",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdWc5ZmVsbW1nZnMyNnc5bjVxZW9uaWdsb29qbHQ1NTEyYTUyN24wYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I7peJPfJ7DdRSXAyR4/giphy.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955254",
+    "type": "public",
+    "date": "6/06 13:44",
+    "username": "saltz",
+    "userId": "37557",
+    "userClasses": "username user ",
+    "message": "ragebait?",
+    "msgClasses": "chat_message "
   }
 ]
