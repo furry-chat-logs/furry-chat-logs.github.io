@@ -18736,5 +18736,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "JustAnAnt no",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7954026",
+    "type": "public",
+    "date": "5/06 21:45",
+    "username": "FunHorseGuy18",
+    "userId": "37547",
+    "userClasses": "username user ",
+    "message": "Heyy",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7954027",
+    "type": "public",
+    "date": "5/06 21:45",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "JustAnAnt hell naw",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
