@@ -15040,5 +15040,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_d331078e1ce5.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7955842",
+    "type": "public",
+    "date": "6/06 16:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hm",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
