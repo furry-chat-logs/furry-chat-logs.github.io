@@ -12826,5 +12826,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Don't come back",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7955620",
+    "type": "public",
+    "date": "6/06 14:45",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "IDGAF",
+    "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955621",
+    "type": "public",
+    "date": "6/06 14:45",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Hello people",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
