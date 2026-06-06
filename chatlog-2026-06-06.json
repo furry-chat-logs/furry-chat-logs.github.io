@@ -12916,5 +12916,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Wow",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7955629",
+    "type": "public",
+    "date": "6/06 14:45",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "just dont do any beef",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
