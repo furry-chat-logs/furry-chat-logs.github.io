@@ -2008,5 +2008,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I just can't remember his name Cause I don't talk to him anymore",
     "msgClasses": "chat_message bcolor1 ital bfont8"
+  },
+  {
+    "id": "7954535",
+    "type": "public",
+    "date": "6/06 1:36",
+    "username": "0Mafioso0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Heh imagine",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7954536",
+    "type": "public",
+    "date": "6/06 1:37",
+    "username": "0Mafioso0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Anyways",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
