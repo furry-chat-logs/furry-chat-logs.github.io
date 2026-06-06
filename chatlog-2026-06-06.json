@@ -8238,5 +8238,15 @@
     "userClasses": "username bgrad34 bnfont16",
     "message": "Hey guys",
     "msgClasses": "chat_message bgrad35 ital bfont1"
+  },
+  {
+    "id": "7955161",
+    "type": "public",
+    "date": "6/06 13:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ih",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
