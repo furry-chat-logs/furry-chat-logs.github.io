@@ -15720,5 +15720,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Not really",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7955910",
+    "type": "public",
+    "date": "6/06 18:01",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "to me, anything more than 3 people is a lot",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
