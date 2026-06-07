@@ -986,5 +986,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "Porphyrophobia sign my back please",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7956937",
+    "type": "public",
+    "date": "7/06 0:55",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Evelyn1 why",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7956938",
+    "type": "public",
+    "date": "7/06 0:55",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeDMwOTFsdXlidGZtdnNjaTh1MXRlNzFqbng2M3JsNzdyaTAwNWRmOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K9siJLzU9nR93DTOtR/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
