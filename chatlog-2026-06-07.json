@@ -2066,5 +2066,25 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8914_0ad876bcac67.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957045",
+    "type": "public",
+    "date": "7/06 1:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_cd6cee9de457.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957046",
+    "type": "public",
+    "date": "7/06 1:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "My version is better",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
