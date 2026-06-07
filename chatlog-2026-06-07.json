@@ -18590,5 +18590,15 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "💔",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958703",
+    "type": "public",
+    "date": "7/06 17:07",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "because my email is owned by the russian state.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
