@@ -20288,5 +20288,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "QueenMoon Yes she was.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958873",
+    "type": "public",
+    "date": "7/06 17:32",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[idontcare] .",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7958874",
+    "type": "public",
+    "date": "7/06 17:32",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "misha nahhh that road is closed for today",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
