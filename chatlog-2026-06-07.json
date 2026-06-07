@@ -3106,5 +3106,25 @@
     "userClasses": "username bneon18 ",
     "message": "Kiddy?",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7957149",
+    "type": "public",
+    "date": "7/06 1:56",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "NeptuneLynxx hiya!!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957150",
+    "type": "public",
+    "date": "7/06 1:56",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "popstxr_sonic It's time for the wonderful ABCs again.",
+    "msgClasses": "chat_message ital"
   }
 ]
