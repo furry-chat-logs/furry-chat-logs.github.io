@@ -23222,5 +23222,35 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "RuffRuffRobyn *throws a stick.*",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7959170",
+    "type": "public",
+    "date": "7/06 18:09",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I ate too much candy and everything hurts.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959171",
+    "type": "public",
+    "date": "7/06 18:09",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "rawr x3  Cute furry Fluff *pounces*",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959172",
+    "type": "public",
+    "date": "7/06 18:09",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I seem to be stuck in Space Marine mode",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
