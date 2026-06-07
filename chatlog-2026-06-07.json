@@ -6846,5 +6846,25 @@
     "userClasses": "username user ",
     "message": "dawg what",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957523",
+    "type": "public",
+    "date": "7/06 10:30",
+    "username": "bat",
+    "userId": "33261",
+    "userClasses": "username user ",
+    "message": "EW",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957524",
+    "type": "public",
+    "date": "7/06 10:30",
+    "username": "bat",
+    "userId": "33261",
+    "userClasses": "username user ",
+    "message": "HAHAHA",
+    "msgClasses": "chat_message "
   }
 ]
