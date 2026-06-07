@@ -926,5 +926,15 @@
     "userClasses": "username bneon18 ",
     "message": "I have no time to spare for this. [skull]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956930",
+    "type": "public",
+    "date": "7/06 0:54",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Max4552 reading a book.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
