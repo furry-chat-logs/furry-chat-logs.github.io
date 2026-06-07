@@ -18430,5 +18430,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "misha Also, do you want your girlfriends number?",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958686",
+    "type": "public",
+    "date": "7/06 17:04",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin you let that dude back in here",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7958687",
+    "type": "public",
+    "date": "7/06 17:04",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "HELLO?",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
