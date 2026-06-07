@@ -13332,5 +13332,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I was karaokeing today and went to sleep like this",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958175",
+    "type": "public",
+    "date": "7/06 15:09",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "just tbreathe. inhale. exhale.",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958176",
+    "type": "public",
+    "date": "7/06 15:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Now I'm not going to school anymore",
+    "msgClasses": "chat_message bneon14"
   }
 ]
