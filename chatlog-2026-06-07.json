@@ -7474,5 +7474,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Probably like $20",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957587",
+    "type": "public",
+    "date": "7/06 10:48",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "yeah i assumed like 15-20",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
