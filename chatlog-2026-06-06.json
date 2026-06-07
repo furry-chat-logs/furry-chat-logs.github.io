@@ -24080,5 +24080,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "You caught me there I'm not a poet",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956754",
+    "type": "public",
+    "date": "6/06 23:27",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Lol",
+    "msgClasses": "chat_message bgrad32  bfont11"
   }
 ]
