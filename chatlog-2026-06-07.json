@@ -3306,5 +3306,25 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "[lynxx3]",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7957169",
+    "type": "public",
+    "date": "7/06 1:59",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "isn't every black panther like hella rich?",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957170",
+    "type": "public",
+    "date": "7/06 1:59",
+    "username": "DragoRosie",
+    "userId": "10284",
+    "userClasses": "username bgrad33 ",
+    "message": "[bottom_line]",
+    "msgClasses": "chat_message bneon1  bfont4"
   }
 ]
