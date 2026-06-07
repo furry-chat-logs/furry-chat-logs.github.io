@@ -11452,5 +11452,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Gotta close by myself tn",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7957985",
+    "type": "public",
+    "date": "7/06 13:57",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "People do it all the time",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
