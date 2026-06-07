@@ -15250,5 +15250,25 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "ok let's get something straight",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7958367",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[tongue3]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958368",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "popstxr_sonic i never called you a pedo, just a predator",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
