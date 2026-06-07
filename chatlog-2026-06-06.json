@@ -17760,5 +17760,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "it*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956115",
+    "type": "public",
+    "date": "6/06 19:43",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "oh right thanks",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
