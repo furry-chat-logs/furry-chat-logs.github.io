@@ -5226,5 +5226,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "<full-speech-access> wmonE5WML221",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957361",
+    "type": "public",
+    "date": "7/06 6:54",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "<run-update>",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
