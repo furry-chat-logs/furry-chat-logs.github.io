@@ -12302,5 +12302,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "SilverXD yes or no? Do we do it?",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7958071",
+    "type": "public",
+    "date": "7/06 14:49",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Meep no.",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7958072",
+    "type": "public",
+    "date": "7/06 14:49",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Oh god",
+    "msgClasses": "chat_message "
   }
 ]
