@@ -17880,5 +17880,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "The Nephalem good, you?",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956127",
+    "type": "public",
+    "date": "6/06 19:49",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "furtastic",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
