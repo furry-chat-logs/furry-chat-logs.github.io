@@ -19248,5 +19248,15 @@
     "userClasses": "username user ",
     "message": "Tf i do bro",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958769",
+    "type": "public",
+    "date": "7/06 17:16",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYWRxdmt3bnQ5MXYwdjFmNXVyNjY0dHp5c3I4dDBnamJ2OTVhYWMwZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/kC8N6DPOkbqWTxkNTe/giphy.gif]",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
