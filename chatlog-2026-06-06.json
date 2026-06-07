@@ -18990,5 +18990,15 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "The Nephalem  you",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956240",
+    "type": "public",
+    "date": "6/06 20:09",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "mkay",
+    "msgClasses": "chat_message "
   }
 ]
