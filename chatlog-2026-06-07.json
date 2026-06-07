@@ -1736,5 +1736,25 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "Porphyrophobia you were just having a convi with the person u love I don't see how u can be mad :D",
     "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7957012",
+    "type": "public",
+    "date": "7/06 1:29",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [kiss4]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7957013",
+    "type": "public",
+    "date": "7/06 1:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Go away",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
