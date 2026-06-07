@@ -7854,5 +7854,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's hard for me to control my anger without that shit",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957625",
+    "type": "public",
+    "date": "7/06 11:03",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "If I miss a dose at some point don't aggravate me",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957626",
+    "type": "public",
+    "date": "7/06 11:03",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "New Kid most of them use it as an excuse to hate people",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
   }
 ]
