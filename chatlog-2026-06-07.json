@@ -676,5 +676,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ashton McKennan about what?",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7956905",
+    "type": "public",
+    "date": "7/06 0:51",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb283ZmhzY2Vyam4xZWxlZnJyMXk0cHQxYWs1eWQxbW0wdHJjbWZxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lgcUUCXgC8mEo/giphy.gif]",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7956906",
+    "type": "public",
+    "date": "7/06 0:51",
+    "username": "feminineboiii12345",
+    "userId": "37566",
+    "userClasses": "username user ",
+    "message": "OMG SONIC",
+    "msgClasses": "chat_message "
   }
 ]
