@@ -19898,5 +19898,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "0NOMOREINNOCENCE0 exactly",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7958834",
+    "type": "public",
+    "date": "7/06 17:27",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "QueenKit shush",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7958835",
+    "type": "public",
+    "date": "7/06 17:27",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "🥀",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
