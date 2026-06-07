@@ -11222,5 +11222,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "KingCorgz :33",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957962",
+    "type": "public",
+    "date": "7/06 13:46",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "I'm judging",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
