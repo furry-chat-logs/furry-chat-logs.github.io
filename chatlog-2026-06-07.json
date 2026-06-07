@@ -5806,5 +5806,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "welp, I amso tired",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7957419",
+    "type": "public",
+    "date": "7/06 7:14",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa hi👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957420",
+    "type": "public",
+    "date": "7/06 7:14",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "but hru you all doing",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
