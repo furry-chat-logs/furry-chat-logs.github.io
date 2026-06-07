@@ -24402,5 +24402,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Looks great",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7959289",
+    "type": "public",
+    "date": "7/06 18:53",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "Neo The Protogen KingCorgz thank you :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959290",
+    "type": "public",
+    "date": "7/06 18:53",
+    "username": "XxGuardianxX",
+    "userId": "37146",
+    "userClasses": "username bgrad12 bnfont6",
+    "message": "It feels good to be out of graduation",
+    "msgClasses": "chat_message "
   }
 ]
