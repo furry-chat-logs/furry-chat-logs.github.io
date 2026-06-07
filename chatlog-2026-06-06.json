@@ -17010,5 +17010,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "NeptuneLynxx let's not forget you tripped on a plastic playground house",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7956039",
+    "type": "public",
+    "date": "6/06 19:19",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "EEEEE",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7956040",
+    "type": "public",
+    "date": "6/06 19:19",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Kidnapped the isser",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
