@@ -11862,5 +11862,15 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "Ooo someone in troubleee",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7958026",
+    "type": "public",
+    "date": "7/06 14:23",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Meep nonono, I'm fine. You're not dragging me into a therapy session/",
+    "msgClasses": "chat_message "
   }
 ]
