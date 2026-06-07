@@ -7334,5 +7334,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "We had to pay 80$ USD for YEARBOOKS",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957573",
+    "type": "public",
+    "date": "7/06 10:45",
+    "username": "Dredger",
+    "userId": "37573",
+    "userClasses": "username user ",
+    "message": "Ew",
+    "msgClasses": "chat_message "
   }
 ]
