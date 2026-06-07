@@ -6056,5 +6056,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Gm I Just woke up,",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7957444",
+    "type": "public",
+    "date": "7/06 8:26",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Numm Bug morning!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
