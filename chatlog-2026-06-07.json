@@ -18600,5 +18600,35 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "because my email is owned by the russian state.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958704",
+    "type": "public",
+    "date": "7/06 17:07",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "imagine",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958705",
+    "type": "public",
+    "date": "7/06 17:07",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7958706",
+    "type": "public",
+    "date": "7/06 17:07",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Frogmin same here.",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
