@@ -20408,5 +20408,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Chills down my spine at that mention 😢",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7958885",
+    "type": "public",
+    "date": "7/06 17:33",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "You can ban if you want",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958886",
+    "type": "public",
+    "date": "7/06 17:33",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "oh true that was probably during the time i left thisplace",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
