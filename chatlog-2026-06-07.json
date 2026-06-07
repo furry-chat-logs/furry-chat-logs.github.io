@@ -24272,5 +24272,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Smiley *laughs* I will see it happen one day",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7959276",
+    "type": "public",
+    "date": "7/06 18:45",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Guhd night ;33",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959277",
+    "type": "public",
+    "date": "7/06 18:45",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Why didn't u js say lol",
+    "msgClasses": "chat_message bneon9"
   }
 ]
