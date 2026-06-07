@@ -19730,5 +19730,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Runefaust STOP. I’M STEALING THAT",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956314",
+    "type": "public",
+    "date": "6/06 20:18",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I am also stealing that",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
