@@ -19698,5 +19698,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Person >.>",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958814",
+    "type": "public",
+    "date": "7/06 17:25",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_f6b38a021c45.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958815",
+    "type": "public",
+    "date": "7/06 17:25",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "yeaaa >:3 [gay] i can do this and not get hated for it and imthankfulllll",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
