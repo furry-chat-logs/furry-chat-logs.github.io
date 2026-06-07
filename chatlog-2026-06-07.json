@@ -4986,5 +4986,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Spectre_protogen gosh u dying there?",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957337",
+    "type": "public",
+    "date": "7/06 6:39",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "This unit is currently experiencing technical difficulties. Please consult Protogen Labs user manual or call customer support for further information.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
