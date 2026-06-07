@@ -6806,5 +6806,15 @@
     "userClasses": "username bneon18 ",
     "message": "Bye.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7957519",
+    "type": "public",
+    "date": "7/06 10:29",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Get out",
+    "msgClasses": "chat_message bneon19"
   }
 ]
