@@ -5566,5 +5566,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": ":3",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7957395",
+    "type": "public",
+    "date": "7/06 7:04",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "shit..",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
