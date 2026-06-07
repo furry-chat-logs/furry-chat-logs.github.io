@@ -19480,5 +19480,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "bluee, on a scale 1-10, you're the 9 and i'm the 1 you need",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956289",
+    "type": "public",
+    "date": "6/06 20:15",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_9f0bcb019df6.png]",
+    "msgClasses": "chat_message "
   }
 ]
