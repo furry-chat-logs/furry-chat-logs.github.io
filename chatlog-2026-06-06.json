@@ -18840,5 +18840,25 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "E",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7956225",
+    "type": "public",
+    "date": "6/06 20:07",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_fc8d8cc6e00b.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956226",
+    "type": "public",
+    "date": "6/06 20:07",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "A",
+    "msgClasses": "chat_message "
   }
 ]
