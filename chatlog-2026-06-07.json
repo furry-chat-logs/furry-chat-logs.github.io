@@ -4296,5 +4296,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yey",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957268",
+    "type": "public",
+    "date": "7/06 4:54",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Dinanor *rawr",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957269",
+    "type": "public",
+    "date": "7/06 4:54",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37148_d1820b349140.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
