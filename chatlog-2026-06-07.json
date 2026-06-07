@@ -15040,5 +15040,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "Porphyrophobia cackling",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958346",
+    "type": "public",
+    "date": "7/06 15:29",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Bergindine the angle messed it up",
+    "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7958347",
+    "type": "public",
+    "date": "7/06 15:29",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Evelyn1 yeah, im ambidex :/",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
