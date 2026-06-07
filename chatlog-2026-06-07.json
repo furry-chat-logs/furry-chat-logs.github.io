@@ -9044,5 +9044,15 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "Sup",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957744",
+    "type": "public",
+    "date": "7/06 11:18",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Fist bump",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
