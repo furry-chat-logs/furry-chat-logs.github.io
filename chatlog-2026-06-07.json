@@ -11682,5 +11682,35 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19316_8bf7274937f1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958008",
+    "type": "public",
+    "date": "7/06 14:14",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Rubbed my hands together",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958009",
+    "type": "public",
+    "date": "7/06 14:14",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Isnt he adorable",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7958010",
+    "type": "public",
+    "date": "7/06 14:14",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "OwO",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
