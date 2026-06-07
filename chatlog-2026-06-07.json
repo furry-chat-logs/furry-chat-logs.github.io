@@ -226,5 +226,25 @@
     "userClasses": "username user ",
     "message": "any furrys?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956860",
+    "type": "public",
+    "date": "7/06 0:18",
+    "username": "punkstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon15 bnfont15",
+    "message": "furryboy88 in a site called furrychat",
+    "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7956861",
+    "type": "public",
+    "date": "7/06 0:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "No we are all old men.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
