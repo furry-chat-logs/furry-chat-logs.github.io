@@ -2266,5 +2266,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Wait aren't u kicked",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957065",
+    "type": "public",
+    "date": "7/06 1:43",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I was only kicked for 30 minutes",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957066",
+    "type": "public",
+    "date": "7/06 1:43",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Why",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
