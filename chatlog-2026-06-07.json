@@ -3916,5 +3916,15 @@
     "userClasses": "username user ",
     "message": "Idk I just joined. My bad",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957230",
+    "type": "public",
+    "date": "7/06 2:20",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Issa aaaaaaaaaaaaaaaa aaaaaa!!!!",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
