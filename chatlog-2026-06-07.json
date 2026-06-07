@@ -20618,5 +20618,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I've recovered",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7958906",
+    "type": "public",
+    "date": "7/06 17:35",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Spectre_protogen depressed but hannging in there",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958907",
+    "type": "public",
+    "date": "7/06 17:35",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Frogmin BURN THE WITCH BURN THE WITCH /j",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
