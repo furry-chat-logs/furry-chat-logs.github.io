@@ -5016,5 +5016,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "*licks to check if alive*",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957340",
+    "type": "public",
+    "date": "7/06 6:39",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "rebooting",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7957341",
+    "type": "public",
+    "date": "7/06 6:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*gets electrified* ouch!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
