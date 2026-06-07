@@ -23782,5 +23782,25 @@
     "userClasses": "username user ",
     "message": "*boops your nose* B W OWO",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959226",
+    "type": "public",
+    "date": "7/06 18:14",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "F U C K :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959227",
+    "type": "public",
+    "date": "7/06 18:15",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "QueenMoon 3.14159 etc etc",
+    "msgClasses": "chat_message "
   }
 ]
