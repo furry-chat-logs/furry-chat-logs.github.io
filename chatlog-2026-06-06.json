@@ -18580,5 +18580,25 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Syau",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7956199",
+    "type": "public",
+    "date": "6/06 20:03",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Bites The Nephalem",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7956200",
+    "type": "public",
+    "date": "6/06 20:03",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "The Nephalem nah",
+    "msgClasses": "chat_message bneon19"
   }
 ]
