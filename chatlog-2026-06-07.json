@@ -20308,5 +20308,35 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "misha nahhh that road is closed for today",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958875",
+    "type": "public",
+    "date": "7/06 17:32",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Guys",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958876",
+    "type": "public",
+    "date": "7/06 17:33",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "genuinely jumped out of my seat i thought that was fanta",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958877",
+    "type": "public",
+    "date": "7/06 17:33",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Honestly",
+    "msgClasses": "chat_message "
   }
 ]
