@@ -23452,5 +23452,35 @@
     "userClasses": "username user ",
     "message": "rawr~ A wUwUbew woom",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959193",
+    "type": "public",
+    "date": "7/06 18:11",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "A wUwUbbew woom",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959194",
+    "type": "public",
+    "date": "7/06 18:11",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Bwah",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959195",
+    "type": "public",
+    "date": "7/06 18:11",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "a rubber room with SwiggleRattle\" class=\"emocc emo_chat\" src=\"c_emoticon/rattlebiggle.png\">",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
