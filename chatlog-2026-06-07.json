@@ -6836,5 +6836,15 @@
     "userClasses": "username user ",
     "message": "O.o",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957522",
+    "type": "public",
+    "date": "7/06 10:30",
+    "username": "bat",
+    "userId": "33261",
+    "userClasses": "username user ",
+    "message": "dawg what",
+    "msgClasses": "chat_message "
   }
 ]
