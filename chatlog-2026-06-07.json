@@ -23282,5 +23282,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Smiley so the cant talk normally?",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7959176",
+    "type": "public",
+    "date": "7/06 18:10",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Neo The Protogen pretty much",
+    "msgClasses": "chat_message "
   }
 ]
