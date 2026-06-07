@@ -6696,5 +6696,15 @@
     "userClasses": "username bcolor9 bnfont12",
     "message": "[angel]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957508",
+    "type": "public",
+    "date": "7/06 10:20",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Hello",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
