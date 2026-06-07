@@ -6656,5 +6656,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "I'm the admin here?",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7957504",
+    "type": "public",
+    "date": "7/06 10:16",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "What I mean is I send a contact form",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
