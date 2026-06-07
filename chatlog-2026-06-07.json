@@ -17930,5 +17930,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Evelyn1 I get public transport. A night out for me doesn't end until the ritualised breakfast out.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958635",
+    "type": "public",
+    "date": "7/06 16:53",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "better than driving drunk ^^",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
