@@ -18480,5 +18480,35 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOWw5ZGFvMzEwOGE2cmR5bzh6b3JjODRoc2xob3FmOTZibnUxZXZ2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ACZqfCpSGhG8h6HRV6/giphy.gif]",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7956188",
+    "type": "public",
+    "date": "6/06 20:00",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "my phone alarm for school was the teletubby theme song",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956189",
+    "type": "public",
+    "date": "6/06 20:01",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_28fb2a734e0a.mp3 | payday_2_sound_cloaker_scream.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956190",
+    "type": "public",
+    "date": "6/06 20:01",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "i have a lot siblings",
+    "msgClasses": "chat_message "
   }
 ]
