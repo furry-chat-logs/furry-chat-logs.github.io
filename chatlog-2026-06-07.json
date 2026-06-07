@@ -876,5 +876,35 @@
     "userClasses": "username bneon18 ",
     "message": "Yeah ts is the next tweedle invasion.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956925",
+    "type": "public",
+    "date": "7/06 0:54",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Max4552 👁️‍🗨️",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956926",
+    "type": "public",
+    "date": "7/06 0:54",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Max4552 haii",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7956927",
+    "type": "public",
+    "date": "7/06 0:54",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "feminineboiii12345 mkay!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
