@@ -7524,5 +7524,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "These coins have been burning a hole in my pocket",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957592",
+    "type": "public",
+    "date": "7/06 10:55",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I swear by it 2 weeks ago I had 2,573 coins now I only have like 800 and something",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
