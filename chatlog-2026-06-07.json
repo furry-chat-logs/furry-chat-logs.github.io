@@ -13612,5 +13612,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Bergindine hmm ?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958203",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Oop",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7958204",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Bergindine what do you guys be talking about",
+    "msgClasses": "chat_message "
   }
 ]
