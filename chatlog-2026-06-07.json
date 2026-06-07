@@ -10432,5 +10432,25 @@
     "userClasses": "username user ",
     "message": "MrHyde31 idk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957883",
+    "type": "public",
+    "date": "7/06 13:01",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Ooook",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957884",
+    "type": "public",
+    "date": "7/06 13:01",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Im bored as hell",
+    "msgClasses": "chat_message "
   }
 ]
