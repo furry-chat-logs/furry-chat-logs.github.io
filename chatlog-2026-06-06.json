@@ -17770,5 +17770,25 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "oh right thanks",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956116",
+    "type": "public",
+    "date": "6/06 19:43",
+    "username": "Pomleafy",
+    "userId": "37561",
+    "userClasses": "username bcolor18 bnfont10",
+    "message": "Lol",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956117",
+    "type": "public",
+    "date": "6/06 19:43",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "lol much better",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
