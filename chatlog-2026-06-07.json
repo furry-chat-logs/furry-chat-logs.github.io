@@ -5706,5 +5706,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Icome online",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7957409",
+    "type": "public",
+    "date": "7/06 7:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "36 things on the wall",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
