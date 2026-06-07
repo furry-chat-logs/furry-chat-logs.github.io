@@ -22632,5 +22632,15 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "misha huh? who talked about weight?",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7959110",
+    "type": "public",
+    "date": "7/06 17:59",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9189_9bdbc8e4c430.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
