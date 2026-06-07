@@ -2696,5 +2696,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "😭✌🏽🥀",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957108",
+    "type": "public",
+    "date": "7/06 1:50",
+    "username": "DragoRosie",
+    "userId": "10284",
+    "userClasses": "username bgrad33 ",
+    "message": "me staring at the SS of the light mode users",
+    "msgClasses": "chat_message bneon1  bfont4"
+  },
+  {
+    "id": "7957109",
+    "type": "public",
+    "date": "7/06 1:50",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "NeptuneLynxx awww",
+    "msgClasses": "chat_message bneon14"
   }
 ]
