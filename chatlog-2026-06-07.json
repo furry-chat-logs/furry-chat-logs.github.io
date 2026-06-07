@@ -12062,5 +12062,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "SilverXD no.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958047",
+    "type": "public",
+    "date": "7/06 14:43",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Calm down that was a response to that god forsaken video",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7958048",
+    "type": "public",
+    "date": "7/06 14:43",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "bruh disturbia hits so hard",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
