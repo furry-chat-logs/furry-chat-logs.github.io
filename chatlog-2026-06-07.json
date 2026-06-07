@@ -15800,5 +15800,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19606_fc5ec6335040.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958422",
+    "type": "public",
+    "date": "7/06 15:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea fih",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958423",
+    "type": "public",
+    "date": "7/06 15:38",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_35c95e99e59d.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
