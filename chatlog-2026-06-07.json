@@ -1206,5 +1206,15 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "Tom and Jerry ass laugh",
     "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7956959",
+    "type": "public",
+    "date": "7/06 1:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "My new room needs to hurry up [angry]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
