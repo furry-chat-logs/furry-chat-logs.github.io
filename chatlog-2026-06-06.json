@@ -23610,5 +23610,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdnAybW1tanZvcDJlbTB4azJhZzhiNTFmZjYzMmx6Ynh3MGd5eW5rciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QMsWHA7lm8FLtDOyf9/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956707",
+    "type": "public",
+    "date": "6/06 22:45",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "It could be a billion more songs and I could never understand Sleep Token",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7956708",
+    "type": "public",
+    "date": "6/06 22:45",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdjhpazJ5bzV4dGR2OGsxajQ5c2NvMmN5cmlpcGdnMjVjOXNzcXhxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pboSBvzZyMAYCMpwVI/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
