@@ -1936,5 +1936,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hi",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957032",
+    "type": "public",
+    "date": "7/06 1:34",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [nana]",
+    "msgClasses": "chat_message ital"
   }
 ]
