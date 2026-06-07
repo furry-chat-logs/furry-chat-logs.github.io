@@ -19590,5 +19590,15 @@
     "userClasses": "username bneon18 ",
     "message": "Is this based?",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956300",
+    "type": "public",
+    "date": "6/06 20:16",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "are you a triangle? because you're acute one",
+    "msgClasses": "chat_message "
   }
 ]
