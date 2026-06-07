@@ -21664,5 +21664,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "StupidRobyn be with?!?",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959012",
+    "type": "public",
+    "date": "7/06 17:47",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I'm not DATING HIM",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959013",
+    "type": "public",
+    "date": "7/06 17:48",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "QueenMoon Ohhh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959014",
+    "type": "public",
+    "date": "7/06 17:48",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaWd5cWltdTg2YzAwMW95aGJxYWNqYmwwc2lvdDduank0a3V2d3BicyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lgcUUCXgC8mEo/giphy.gif]",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
