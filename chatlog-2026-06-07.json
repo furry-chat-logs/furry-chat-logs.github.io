@@ -7604,5 +7604,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "^w^",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957600",
+    "type": "public",
+    "date": "7/06 10:58",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Idk why My heads Been feeling weird hopefully I Don't gtg hospital again.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7957601",
+    "type": "public",
+    "date": "7/06 10:58",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Smiley thas alot",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
