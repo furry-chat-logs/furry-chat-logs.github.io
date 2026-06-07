@@ -11042,5 +11042,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Okay everyone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957944",
+    "type": "public",
+    "date": "7/06 13:23",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Smiley Hi :3",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
