@@ -14500,5 +14500,35 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": ">w<",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7958292",
+    "type": "public",
+    "date": "7/06 15:21",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": ":d",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958293",
+    "type": "public",
+    "date": "7/06 15:21",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Spoke a pred got called out, people started getting annoyed at them, and then a few attention seekers showed up and started bitching, and then i called some people out and talked about how this chat is so shitty and the people are even worse",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958294",
+    "type": "public",
+    "date": "7/06 15:21",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "QwQ",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
