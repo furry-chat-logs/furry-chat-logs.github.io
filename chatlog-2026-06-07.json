@@ -4166,5 +4166,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "it was pretty good",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7957255",
+    "type": "public",
+    "date": "7/06 3:46",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Hi I'm back",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
