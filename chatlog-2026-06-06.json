@@ -24020,5 +24020,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "You are a poet and you didn't know it",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956748",
+    "type": "public",
+    "date": "6/06 23:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Er-",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
