@@ -1176,5 +1176,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Dear god they're multiplying",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956956",
+    "type": "public",
+    "date": "7/06 1:01",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Porphyrophobia oh I'm not the only one getting the same vibe from three different userd",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7956957",
+    "type": "public",
+    "date": "7/06 1:01",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Thank gosh",
+    "msgClasses": "chat_message bneon19"
   }
 ]
