@@ -13632,5 +13632,35 @@
     "userClasses": "username user ",
     "message": "Bergindine what do you guys be talking about",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958205",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "im trying to help but noone care",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7958206",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Oh my",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958207",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "-shrugs-",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
