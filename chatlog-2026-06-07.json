@@ -22252,5 +22252,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "That's why I'm a bug in the first place.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959072",
+    "type": "public",
+    "date": "7/06 17:55",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "cackled",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7959073",
+    "type": "public",
+    "date": "7/06 17:55",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Frogmin culture is not your costume",
+    "msgClasses": "chat_message "
   }
 ]
