@@ -17660,5 +17660,25 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "Oof",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956105",
+    "type": "public",
+    "date": "6/06 19:40",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNnczdnFqNm5tMDd2d2JiMDgybW1xdW9kd2hiNWcxaGZsOGRpMmZsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pboSBvzZyMAYCMpwVI/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956106",
+    "type": "public",
+    "date": "6/06 19:40",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "type /coins",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
