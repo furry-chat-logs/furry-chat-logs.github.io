@@ -9114,5 +9114,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "MrHyde31 [skull]",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957751",
+    "type": "public",
+    "date": "7/06 11:19",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_3f12603e546d.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957752",
+    "type": "public",
+    "date": "7/06 11:19",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Whats the skull emote?",
+    "msgClasses": "chat_message "
   }
 ]
