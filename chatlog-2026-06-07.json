@@ -17980,5 +17980,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Spoke They wish.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958640",
+    "type": "public",
+    "date": "7/06 16:54",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "It takes too much intelligence to be me.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
