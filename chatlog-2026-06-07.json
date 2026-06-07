@@ -7324,5 +7324,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Planet why so expensive god damn",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957572",
+    "type": "public",
+    "date": "7/06 10:45",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "We had to pay 80$ USD for YEARBOOKS",
+    "msgClasses": "chat_message bneon19"
   }
 ]
