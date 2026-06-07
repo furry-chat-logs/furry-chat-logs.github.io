@@ -18080,5 +18080,15 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "💔",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956147",
+    "type": "public",
+    "date": "6/06 19:53",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "my mom told me to stop crying after getting bit and i was bleeding",
+    "msgClasses": "chat_message "
   }
 ]
