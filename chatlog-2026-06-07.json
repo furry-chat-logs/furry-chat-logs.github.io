@@ -16370,5 +16370,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "some are",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958479",
+    "type": "public",
+    "date": "7/06 15:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Nebulais_0 not good",
+    "msgClasses": "chat_message bneon14"
   }
 ]
