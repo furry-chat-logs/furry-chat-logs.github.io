@@ -666,5 +666,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Hell no! Mdekoni",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956904",
+    "type": "public",
+    "date": "7/06 0:51",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ashton McKennan about what?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
