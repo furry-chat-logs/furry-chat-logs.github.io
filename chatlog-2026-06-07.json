@@ -23992,5 +23992,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Thank you everybody for the moment of silence",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7959247",
+    "type": "public",
+    "date": "7/06 18:30",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "chat has became deceased",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
