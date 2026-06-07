@@ -21494,5 +21494,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "StupidRobyn He's the one that paid for your shit.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958995",
+    "type": "public",
+    "date": "7/06 17:46",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "I know",
+    "msgClasses": "chat_message "
   }
 ]
