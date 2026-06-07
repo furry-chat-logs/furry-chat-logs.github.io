@@ -15480,5 +15480,45 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "[verysad]",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958390",
+    "type": "public",
+    "date": "7/06 15:34",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Bergindine oh",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958391",
+    "type": "public",
+    "date": "7/06 15:34",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Spoke dictionary",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958392",
+    "type": "public",
+    "date": "7/06 15:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdWdveXdxMG92bm8zNzE3YTZkYmwyYXI5eDVpaWZjcHQ1dzVrNWo4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/olLyDUpnv5z3xhmeyB/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958393",
+    "type": "public",
+    "date": "7/06 15:34",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "A preds a Broad word it Doesn't just mean adult and little kid.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
