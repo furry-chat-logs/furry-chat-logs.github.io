@@ -8674,5 +8674,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I don't care what you think about me",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957707",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "No wonder you're christian",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957708",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I love you too!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957709",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "O.o",
+    "msgClasses": "chat_message "
   }
 ]
