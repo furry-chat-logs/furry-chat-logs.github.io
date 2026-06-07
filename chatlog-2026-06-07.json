@@ -5626,5 +5626,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "failed.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7957401",
+    "type": "public",
+    "date": "7/06 7:06",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "re-attempting...",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7957402",
+    "type": "public",
+    "date": "7/06 7:06",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "attempt failed",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
