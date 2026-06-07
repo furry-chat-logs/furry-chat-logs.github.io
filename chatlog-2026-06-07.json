@@ -15220,5 +15220,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Oh boy-",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958364",
+    "type": "public",
+    "date": "7/06 15:31",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Bergindine thats cool",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958365",
+    "type": "public",
+    "date": "7/06 15:31",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "wat",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
