@@ -10602,5 +10602,35 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "I like homestuck",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957900",
+    "type": "public",
+    "date": "7/06 13:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hm?",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957901",
+    "type": "public",
+    "date": "7/06 13:08",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ohh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957902",
+    "type": "public",
+    "date": "7/06 13:08",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "I have so many ocs",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
