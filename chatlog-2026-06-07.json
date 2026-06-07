@@ -6536,5 +6536,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "mm hi",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957492",
+    "type": "public",
+    "date": "7/06 9:51",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "coffee",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
