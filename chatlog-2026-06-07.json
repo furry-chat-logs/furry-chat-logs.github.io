@@ -8794,5 +8794,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ashton McKennan I'm Satanist",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957719",
+    "type": "public",
+    "date": "7/06 11:15",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "QueenKit ok you need to calm yo lame ass down",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957720",
+    "type": "public",
+    "date": "7/06 11:15",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "What do you think about that?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
