@@ -20488,5 +20488,35 @@
     "userClasses": "username user ",
     "message": "QueenMoon also i dont think i did anything to you?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958893",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Spectre_protogen hey bud",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958894",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I said that to see if you'd react and blow your cover",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7958895",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Hows it hanging",
+    "msgClasses": "chat_message "
   }
 ]
