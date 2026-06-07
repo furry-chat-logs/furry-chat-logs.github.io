@@ -596,5 +596,15 @@
     "userClasses": "username user ",
     "message": "NO I DONT",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956897",
+    "type": "public",
+    "date": "7/06 0:50",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "We should tell him",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
