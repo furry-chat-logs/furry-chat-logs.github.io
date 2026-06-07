@@ -8984,5 +8984,25 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "Sorry....",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957738",
+    "type": "public",
+    "date": "7/06 11:17",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "No worries I forgive you QueenKit",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957739",
+    "type": "public",
+    "date": "7/06 11:17",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "MFs see drama and try to \"help\" but it makes it take longer",
+    "msgClasses": "chat_message bneon19"
   }
 ]
