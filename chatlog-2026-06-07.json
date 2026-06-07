@@ -14060,5 +14060,35 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "whats happening",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958248",
+    "type": "public",
+    "date": "7/06 15:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm too connected to this place",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958249",
+    "type": "public",
+    "date": "7/06 15:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I don't even know anymore",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958250",
+    "type": "public",
+    "date": "7/06 15:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I could hardly care",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
