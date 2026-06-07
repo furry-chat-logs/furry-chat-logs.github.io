@@ -946,5 +946,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Nice to know Carter has common sense",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7956933",
+    "type": "public",
+    "date": "7/06 0:55",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_7fe88f9741db.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956934",
+    "type": "public",
+    "date": "7/06 0:55",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Max4552 watching yt and eating the first time in like 2 days",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
