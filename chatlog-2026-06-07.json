@@ -7134,5 +7134,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Good morning",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957553",
+    "type": "public",
+    "date": "7/06 10:42",
+    "username": "Dredger",
+    "userId": "37573",
+    "userClasses": "username user ",
+    "message": "Im just glad i have staff that lets me to be able play my characters",
+    "msgClasses": "chat_message "
   }
 ]
