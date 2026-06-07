@@ -14400,5 +14400,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Ok then",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958282",
+    "type": "public",
+    "date": "7/06 15:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "If it was for attention things were else",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958283",
+    "type": "public",
+    "date": "7/06 15:19",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "can someone catch me up?💔",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
