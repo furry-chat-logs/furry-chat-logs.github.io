@@ -786,5 +786,25 @@
     "userClasses": "username user ",
     "message": "dam",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956916",
+    "type": "public",
+    "date": "7/06 0:53",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "We have had a lot of pedophiles and perverts on here and we want you to be safe.",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956917",
+    "type": "public",
+    "date": "7/06 0:53",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Mdekoni *evil laugh* it's a rickroll muahahahaaaa",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
