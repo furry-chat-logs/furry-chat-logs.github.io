@@ -4756,5 +4756,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Thanks!",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957314",
+    "type": "public",
+    "date": "7/06 6:20",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SBB tf is your mood",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
