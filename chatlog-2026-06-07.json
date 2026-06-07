@@ -8624,5 +8624,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Nice try but didn't work QueenKit",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957702",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Oh you were?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957703",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Ashton McKennan Balright",
+    "msgClasses": "chat_message bneon19"
   }
 ]
