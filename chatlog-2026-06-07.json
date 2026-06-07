@@ -7624,5 +7624,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Smiley thas alot",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957602",
+    "type": "public",
+    "date": "7/06 10:58",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Ashton McKennan I know, it's too much imo",
+    "msgClasses": "chat_message "
   }
 ]
