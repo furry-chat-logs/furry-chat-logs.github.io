@@ -2726,5 +2726,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_1719b2ff8a72.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957111",
+    "type": "public",
+    "date": "7/06 1:51",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "DragoRosie haiiiiiii [lynxx1]",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7957112",
+    "type": "public",
+    "date": "7/06 1:51",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "chat i need to be in a mental hosptial atp [skull]",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
