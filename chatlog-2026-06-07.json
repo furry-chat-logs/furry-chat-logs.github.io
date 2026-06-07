@@ -4086,5 +4086,25 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Any horror movie recommendations?",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7957247",
+    "type": "public",
+    "date": "7/06 2:44",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "damn it",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957248",
+    "type": "public",
+    "date": "7/06 2:44",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "I missed tj",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
