@@ -18480,5 +18480,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "misha I only banned that dude because your girlfriend was making up shit and causing drama constantly, and you would've thrown a hissy fit if she got the boot.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958691",
+    "type": "public",
+    "date": "7/06 17:05",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin I love how we all know who we are talking about",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7958692",
+    "type": "public",
+    "date": "7/06 17:05",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Bergindine hii back i am evelyn",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
