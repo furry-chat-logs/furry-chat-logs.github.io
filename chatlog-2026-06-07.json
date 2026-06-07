@@ -8504,5 +8504,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Have you ever heard those words",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957690",
+    "type": "public",
+    "date": "7/06 11:12",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Now I gotta do the impression",
+    "msgClasses": "chat_message bneon19"
   }
 ]
