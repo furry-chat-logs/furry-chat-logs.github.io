@@ -23632,5 +23632,25 @@
     "userClasses": "username user ",
     "message": "K I L L M E",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959211",
+    "type": "public",
+    "date": "7/06 18:13",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Spectre_protogen No, I think it won't be.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7959212",
+    "type": "public",
+    "date": "7/06 18:13",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_210b1f69da70.gif]",
+    "msgClasses": "chat_message "
   }
 ]
