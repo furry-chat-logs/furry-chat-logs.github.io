@@ -12402,5 +12402,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmenAyYmZzczgyd3JranZzdjM0Yno1MGVkcjlheW1mZmF0YTJ2YjFhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOuVjiA6qvLGB3NusU/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958081",
+    "type": "public",
+    "date": "7/06 14:51",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Meep no I dont",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7958082",
+    "type": "public",
+    "date": "7/06 14:51",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Porphyrophobia SILENCE",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
