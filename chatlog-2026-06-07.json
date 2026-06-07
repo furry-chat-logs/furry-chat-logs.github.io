@@ -8534,5 +8534,35 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "I dont know 😕",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957693",
+    "type": "public",
+    "date": "7/06 11:13",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "You guys need to calm the fuck down",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957694",
+    "type": "public",
+    "date": "7/06 11:13",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36767_8b3d2b62db7c.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957695",
+    "type": "public",
+    "date": "7/06 11:13",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Uwubunny444 dramaaaa [devil]",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
