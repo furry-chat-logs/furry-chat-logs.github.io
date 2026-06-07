@@ -8574,5 +8574,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ashton McKennan",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957697",
+    "type": "public",
+    "date": "7/06 11:13",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Ahahhaha nice voice",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957698",
+    "type": "public",
+    "date": "7/06 11:13",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "QueenKit bro is trying to sound like donald trump",
+    "msgClasses": "chat_message "
   }
 ]
