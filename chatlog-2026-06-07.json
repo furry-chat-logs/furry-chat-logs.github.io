@@ -14540,5 +14540,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Rest in peace my granny",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958296",
+    "type": "public",
+    "date": "7/06 15:21",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "wait imma draw something nice",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
