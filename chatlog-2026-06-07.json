@@ -6006,5 +6006,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Somebody just hacked into the system",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957439",
+    "type": "public",
+    "date": "7/06 7:52",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Ashton McKennan wasnt me",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
