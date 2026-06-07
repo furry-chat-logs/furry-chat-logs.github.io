@@ -23802,5 +23802,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "QueenMoon 3.14159 etc etc",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959228",
+    "type": "public",
+    "date": "7/06 18:15",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Smiley 3.1415926535897932384626433832795028841971693993 etc etc",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7959229",
+    "type": "public",
+    "date": "7/06 18:15",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9189_50f3cf4c817e.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
