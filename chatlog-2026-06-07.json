@@ -14010,5 +14010,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Irritated",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958243",
+    "type": "public",
+    "date": "7/06 15:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_d5e2629b2c53.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958244",
+    "type": "public",
+    "date": "7/06 15:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Numm Bug I know I'm sorry",
+    "msgClasses": "chat_message bneon14"
   }
 ]
