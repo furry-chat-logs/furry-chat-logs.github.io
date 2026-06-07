@@ -22342,5 +22342,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "StupidRobyn Your culture is when I'm hungry and there's no potatoes in the kitchen.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7959081",
+    "type": "public",
+    "date": "7/06 17:56",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Frogmin or chasing cheese for whatever fucking reason",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
