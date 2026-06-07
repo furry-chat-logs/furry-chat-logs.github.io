@@ -17600,5 +17600,25 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "Oh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956099",
+    "type": "public",
+    "date": "6/06 19:40",
+    "username": "Pomleafy",
+    "userId": "37561",
+    "userClasses": "username bcolor18 bnfont10",
+    "message": "How?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956100",
+    "type": "public",
+    "date": "6/06 19:40",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_979e48905fdd.png]",
+    "msgClasses": "chat_message "
   }
 ]
