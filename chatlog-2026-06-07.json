@@ -20638,5 +20638,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Frogmin BURN THE WITCH BURN THE WITCH /j",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7958908",
+    "type": "public",
+    "date": "7/06 17:35",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "😐",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
