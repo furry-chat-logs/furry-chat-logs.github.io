@@ -1526,5 +1526,35 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "Porphyrophobia what is it that pyo this time?",
     "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7956991",
+    "type": "public",
+    "date": "7/06 1:26",
+    "username": "punkstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon15 bnfont15",
+    "message": "KingCorgz e",
+    "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7956992",
+    "type": "public",
+    "date": "7/06 1:26",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Evelyn1 u still exist",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7956993",
+    "type": "public",
+    "date": "7/06 1:26",
+    "username": "punkstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon15 bnfont15",
+    "message": "SwiggleRattle fr",
+    "msgClasses": "chat_message bneon17 ital bfont12"
   }
 ]
