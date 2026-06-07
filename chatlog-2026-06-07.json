@@ -5056,5 +5056,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "SoraTheMikuFan Windows 🤣",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957344",
+    "type": "public",
+    "date": "7/06 6:42",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "unable to connect to main network.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
