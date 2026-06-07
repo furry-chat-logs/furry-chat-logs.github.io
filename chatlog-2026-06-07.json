@@ -12322,5 +12322,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Oh god",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958073",
+    "type": "public",
+    "date": "7/06 14:49",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Meep death sentance for them",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
