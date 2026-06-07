@@ -23910,5 +23910,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "What on earth is going on here",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956737",
+    "type": "public",
+    "date": "6/06 23:23",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Ugh I'm chronically Gundam and Black Clover",
+    "msgClasses": "chat_message bneon19"
   }
 ]
