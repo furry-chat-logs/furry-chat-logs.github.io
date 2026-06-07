@@ -17970,5 +17970,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "bunnies and rabbits are scary",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956136",
+    "type": "public",
+    "date": "6/06 19:51",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "i almost got my pinkie bit off",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956137",
+    "type": "public",
+    "date": "6/06 19:51",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "The Nephalem how.",
+    "msgClasses": "chat_message "
   }
 ]
