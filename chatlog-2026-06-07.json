@@ -8714,5 +8714,35 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "Ok no need to bash a religion",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957711",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Ashton McKennan do you)",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957712",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "QueenKit what did he do to you that got you so butt hurt",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957713",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "MrHyde31 who are you",
+    "msgClasses": "chat_message bneon19"
   }
 ]
