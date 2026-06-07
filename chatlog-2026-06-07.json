@@ -6726,5 +6726,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's a speaker company",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957511",
+    "type": "public",
+    "date": "7/06 10:26",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Sound equipment speakers et cetera",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
