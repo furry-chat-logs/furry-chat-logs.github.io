@@ -7694,5 +7694,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I'd fucking love to have all that",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957609",
+    "type": "public",
+    "date": "7/06 11:00",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Ashton McKennan gamble",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957610",
+    "type": "public",
+    "date": "7/06 11:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Numm Bug hi",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
