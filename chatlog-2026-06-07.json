@@ -8194,5 +8194,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Bruh",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957659",
+    "type": "public",
+    "date": "7/06 11:09",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Ashton McKennan that's the way",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7957660",
+    "type": "public",
+    "date": "7/06 11:09",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_89877ac8038c.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
