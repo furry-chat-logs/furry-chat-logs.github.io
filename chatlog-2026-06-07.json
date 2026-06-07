@@ -15240,5 +15240,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "wat",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7958366",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "ok let's get something straight",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
