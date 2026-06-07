@@ -20916,5 +20916,35 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "alr guess not",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958937",
+    "type": "public",
+    "date": "7/06 17:38",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Spoke he is an amphibian. what kind, we may never know",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7958938",
+    "type": "public",
+    "date": "7/06 17:38",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Its so jover",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958939",
+    "type": "public",
+    "date": "7/06 17:38",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "StupidRobyn bye i guess [verysad]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
