@@ -20648,5 +20648,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "😐",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7958909",
+    "type": "public",
+    "date": "7/06 17:35",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Ima dip",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7958910",
+    "type": "public",
+    "date": "7/06 17:35",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "SilverXD what did i do to you😭",
+    "msgClasses": "chat_message "
   }
 ]
