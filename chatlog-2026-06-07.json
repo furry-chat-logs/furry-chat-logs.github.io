@@ -23602,5 +23602,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "pi starts with 3.",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7959208",
+    "type": "public",
+    "date": "7/06 18:13",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "RuffRuffRobyn it'll be fixed eventually",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959209",
+    "type": "public",
+    "date": "7/06 18:13",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNnJqMjhva2R0N2hzaXU5czUyODZyanBweWRrcnFibmcwZnd1NnZjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BXAmOq4NueOL7P9Rdi/giphy.gif]",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
