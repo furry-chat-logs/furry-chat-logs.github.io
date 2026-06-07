@@ -12092,5 +12092,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "SilverXD its peak trust",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958050",
+    "type": "public",
+    "date": "7/06 14:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_bcc579a73c03.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958051",
+    "type": "public",
+    "date": "7/06 14:44",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Hello!",
+    "msgClasses": "chat_message bold"
   }
 ]
