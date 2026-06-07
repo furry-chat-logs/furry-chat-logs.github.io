@@ -13722,5 +13722,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Meep mf youre one of the good ones",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958214",
+    "type": "public",
+    "date": "7/06 15:12",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Please I want an option to stay aliveee",
+    "msgClasses": "chat_message bneon14"
   }
 ]
