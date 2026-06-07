@@ -17820,5 +17820,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I drank enough to get shirtless in the nightclub LMAO",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958624",
+    "type": "public",
+    "date": "7/06 16:50",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Frogmin LMFAO",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
