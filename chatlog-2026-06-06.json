@@ -23360,5 +23360,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "anyway. I should sleep now, it's 4:36 in the morning. Goodnight everyone",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956680",
+    "type": "public",
+    "date": "6/06 22:37",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Goodnight",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7956681",
+    "type": "public",
+    "date": "6/06 22:37",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Spectre_protogen goodnight have a great sleep",
+    "msgClasses": "chat_message "
   }
 ]
