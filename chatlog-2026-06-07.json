@@ -16990,5 +16990,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Damn. Everyone I’ve known for months is leaving",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958541",
+    "type": "public",
+    "date": "7/06 16:11",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Damn",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
