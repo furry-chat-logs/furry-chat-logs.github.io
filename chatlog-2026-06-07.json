@@ -10782,5 +10782,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Deimos",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957918",
+    "type": "public",
+    "date": "7/06 13:14",
+    "username": "Yatagarasu",
+    "userId": "37024",
+    "userClasses": "username bcolor1 bnfont16",
+    "message": "Porphyrophobia",
+    "msgClasses": "chat_message "
   }
 ]
