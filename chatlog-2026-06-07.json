@@ -4586,5 +4586,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And scary",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957297",
+    "type": "public",
+    "date": "7/06 5:41",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "But if u get harassed, you should leave or change the server",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
