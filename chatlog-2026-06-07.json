@@ -3666,5 +3666,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "popstxr_sonic I want to talk to someone",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957205",
+    "type": "public",
+    "date": "7/06 2:08",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Mdekoni talk to Porphyrophobia or Issa",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
