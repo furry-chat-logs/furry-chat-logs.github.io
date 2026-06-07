@@ -8154,5 +8154,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Idk I'm not religious nor have I read the bible",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957655",
+    "type": "public",
+    "date": "7/06 11:08",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Uwubunny444 bro do you believe in God?",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957656",
+    "type": "public",
+    "date": "7/06 11:09",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Smiley same :3",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
