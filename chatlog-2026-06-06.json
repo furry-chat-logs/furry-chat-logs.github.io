@@ -21310,5 +21310,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Uwubunny444 milos tea IS fire",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7956473",
+    "type": "public",
+    "date": "6/06 21:23",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon19 bnfont11",
+    "message": "SwiggleRattle yes",
+    "msgClasses": "chat_message bneon18 heavyital bfont3"
+  },
+  {
+    "id": "7956474",
+    "type": "public",
+    "date": "6/06 21:24",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "SwiggleRattle ikr",
+    "msgClasses": "chat_message "
   }
 ]
