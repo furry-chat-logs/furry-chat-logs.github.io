@@ -15300,5 +15300,45 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "popstxr_sonic don’t.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958372",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user32985_f35d821bef67.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958373",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "popstxr_sonic nope",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958374",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Like this ???",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958375",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ts making me so jolly",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
