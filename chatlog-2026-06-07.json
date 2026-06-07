@@ -13582,5 +13582,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Bergindine I'm sorry just wanna say smthn befpre I die",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958200",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "attention seeking? a cry for help",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7958201",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Bergindine finally someone said it",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7958202",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Bergindine hmm ?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
