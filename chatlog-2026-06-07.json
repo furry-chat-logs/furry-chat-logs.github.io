@@ -6546,5 +6546,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "coffee",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957493",
+    "type": "public",
+    "date": "7/06 9:53",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM2V4OHF5dHBqeWF6NnluNHhheTc4cTRpNTA1aHd5enk5ZG55d2RzMiZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/6CVvsul3Br9XW/giphy.gif]",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
