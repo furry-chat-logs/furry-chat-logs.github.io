@@ -22060,5 +22060,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Yawn.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7956549",
+    "type": "public",
+    "date": "6/06 22:02",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "One of those kinds of nights",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7956550",
+    "type": "public",
+    "date": "6/06 22:02",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[moonpie]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
