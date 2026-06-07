@@ -24710,5 +24710,15 @@
     "userClasses": "username bneon18 ",
     "message": "Great golly.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956818",
+    "type": "public",
+    "date": "6/06 23:51",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Wait a goddamn minute",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
