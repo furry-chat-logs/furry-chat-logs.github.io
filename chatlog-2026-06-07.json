@@ -13092,5 +13092,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I'm so scared",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958151",
+    "type": "public",
+    "date": "7/06 15:07",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I am gonna efging die",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958152",
+    "type": "public",
+    "date": "7/06 15:07",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "[lynxx2]",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
