@@ -23712,5 +23712,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "My name is Anderdingus",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959219",
+    "type": "public",
+    "date": "7/06 18:14",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_72324e6f780b.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959220",
+    "type": "public",
+    "date": "7/06 18:14",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "M I S H A I S E N J OWO Y ING M Y P A I N",
+    "msgClasses": "chat_message "
   }
 ]
