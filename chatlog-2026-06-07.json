@@ -2666,5 +2666,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I'm not going to slap your ashy ass knees I'd already played tic tac toe on them for the millionth time",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957105",
+    "type": "public",
+    "date": "7/06 1:50",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcXhpdWptNDU5ZWl1ZWgyZzRpdWpmeTAzZnZ1ZzkwcWxibW43ZXJhcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NEAh5nxOe7rFGB4aQ5/giphy.gif]",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7957106",
+    "type": "public",
+    "date": "7/06 1:50",
+    "username": "DragoRosie",
+    "userId": "10284",
+    "userClasses": "username bgrad33 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHF0NWp2NXVuZG50N2ZweWk3NTY5bHdxcWdlcWRsdW95OGh6ZnAwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pDMOAUz2QLfDuqmygf/giphy.gif]",
+    "msgClasses": "chat_message bneon1  bfont4"
   }
 ]
