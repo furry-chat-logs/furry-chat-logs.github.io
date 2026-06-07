@@ -9554,5 +9554,13 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Meep ...👁️",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957795",
+    "type": "system",
+    "date": "7/06 11:58",
+    "username": "System",
+    "userId": null,
+    "message": "bugbite has been kicked"
   }
 ]
