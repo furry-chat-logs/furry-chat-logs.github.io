@@ -22630,5 +22630,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2pldm16Z2dldnhtNXRtOGl6cjJ5cHZlcnBzemJjZ2kxMmIwMzQ3ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13T6DyI34hGK5i/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956607",
+    "type": "public",
+    "date": "6/06 22:17",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user6405_b9eb27989a10.mp3 | dokkaebi_buzz.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
