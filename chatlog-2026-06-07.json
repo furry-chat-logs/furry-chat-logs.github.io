@@ -11852,5 +11852,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Oh shi",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7958025",
+    "type": "public",
+    "date": "7/06 14:23",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Ooo someone in troubleee",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
