@@ -17680,5 +17680,15 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "type /coins",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956107",
+    "type": "public",
+    "date": "6/06 19:40",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "coins are earned over a set time period. hence why many peope just afk",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
