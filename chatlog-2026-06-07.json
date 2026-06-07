@@ -13112,5 +13112,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "[lynxx2]",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958153",
+    "type": "public",
+    "date": "7/06 15:07",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Why... why do I deserve this...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958154",
+    "type": "public",
+    "date": "7/06 15:07",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "SoraTheMikuFan Me too",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
