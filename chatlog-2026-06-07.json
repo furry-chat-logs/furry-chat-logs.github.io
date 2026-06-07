@@ -17610,5 +17610,15 @@
     "userClasses": "username bneon1 bnfont7",
     "message": "Wuh",
     "msgClasses": "chat_message bneon1 heavybold bfont2"
+  },
+  {
+    "id": "7958603",
+    "type": "public",
+    "date": "7/06 16:38",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Whaaa",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
