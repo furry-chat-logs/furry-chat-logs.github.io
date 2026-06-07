@@ -7274,5 +7274,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "damn",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957567",
+    "type": "public",
+    "date": "7/06 10:44",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "we got overpriced food thats not even that good",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
