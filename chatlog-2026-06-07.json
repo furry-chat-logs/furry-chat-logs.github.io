@@ -9104,5 +9104,15 @@
     "userClasses": "username user ",
     "message": "Hunter77 HUH",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957750",
+    "type": "public",
+    "date": "7/06 11:18",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "MrHyde31 [skull]",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
