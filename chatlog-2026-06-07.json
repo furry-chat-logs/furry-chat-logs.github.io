@@ -12272,5 +12272,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Meep who are we talking about?...",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7958068",
+    "type": "public",
+    "date": "7/06 14:48",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "SilverXD <.<",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
