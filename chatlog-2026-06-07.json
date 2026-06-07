@@ -11922,5 +11922,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "No",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958032",
+    "type": "public",
+    "date": "7/06 14:25",
+    "username": "SeriousPhoenix457",
+    "userId": "37577",
+    "userClasses": "username user ",
+    "message": "Ok",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958033",
+    "type": "public",
+    "date": "7/06 14:26",
+    "username": "SeriousPhoenix457",
+    "userId": "37577",
+    "userClasses": "username user ",
+    "message": "Whos gay",
+    "msgClasses": "chat_message "
   }
 ]
