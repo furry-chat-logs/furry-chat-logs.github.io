@@ -3676,5 +3676,45 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Mdekoni talk to Porphyrophobia or Issa",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957206",
+    "type": "public",
+    "date": "7/06 2:08",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_9c6453d0eff6.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957207",
+    "type": "public",
+    "date": "7/06 2:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I'm not talking to that perv [skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957208",
+    "type": "public",
+    "date": "7/06 2:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Anyways",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957209",
+    "type": "public",
+    "date": "7/06 2:09",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "popstxr_sonic I don't want to talk with them.",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
