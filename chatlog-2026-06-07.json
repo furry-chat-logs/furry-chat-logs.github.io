@@ -15820,5 +15820,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_35c95e99e59d.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958424",
+    "type": "public",
+    "date": "7/06 15:38",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I'm moveing to Viltrum",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958425",
+    "type": "public",
+    "date": "7/06 15:38",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Cute",
+    "msgClasses": "chat_message bneon14"
   }
 ]
