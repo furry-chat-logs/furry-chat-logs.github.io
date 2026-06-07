@@ -24410,5 +24410,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_f793a082f793.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956788",
+    "type": "public",
+    "date": "6/06 23:40",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGY5OTM0cnJhOWczcXA0bTVqZmE5c21qeDZvMG9yajJqZHZmaDFscCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/XHeLeuirRbwptHhSWd/giphy.gif]",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956789",
+    "type": "public",
+    "date": "6/06 23:40",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Sarcastic Fringehead ass mouth.",
+    "msgClasses": "chat_message ital"
   }
 ]
