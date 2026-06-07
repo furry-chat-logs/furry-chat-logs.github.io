@@ -1266,5 +1266,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "Alex_007 nice",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7956965",
+    "type": "public",
+    "date": "7/06 1:08",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Went ghost hunting again",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7956966",
+    "type": "public",
+    "date": "7/06 1:08",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Encountered a demon",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
