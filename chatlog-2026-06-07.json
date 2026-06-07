@@ -6396,5 +6396,15 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "I can see that it's failing you",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7957478",
+    "type": "public",
+    "date": "7/06 9:22",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Hey chat",
+    "msgClasses": "chat_message "
   }
 ]
