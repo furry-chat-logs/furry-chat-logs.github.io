@@ -18050,5 +18050,35 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "muscles x frogmin",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958647",
+    "type": "public",
+    "date": "7/06 16:56",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Last time I went out I made out with a 40 year old blackgirl.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958648",
+    "type": "public",
+    "date": "7/06 16:56",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "About to play steam games",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7958649",
+    "type": "public",
+    "date": "7/06 16:57",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "At-least it didn't happen this time LMAO",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
