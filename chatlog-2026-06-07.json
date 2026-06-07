@@ -6166,5 +6166,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "By letting him see your toe nail...",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7957455",
+    "type": "public",
+    "date": "7/06 8:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I didnt send that",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957456",
+    "type": "public",
+    "date": "7/06 8:50",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_2076494a66f4.png]",
+    "msgClasses": "chat_message "
   }
 ]
