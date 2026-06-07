@@ -9732,5 +9732,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ofc when I'm done it's going through Clip Studio",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957813",
+    "type": "public",
+    "date": "7/06 12:28",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "popstxr_sonic stop flirting with the twink smh",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7957814",
+    "type": "public",
+    "date": "7/06 12:28",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Meep ...",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
