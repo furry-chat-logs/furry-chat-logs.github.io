@@ -13542,5 +13542,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "WHAT AM I DOINGGG",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958196",
+    "type": "public",
+    "date": "7/06 15:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "What in the name of tweedle tribe is happening here",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958197",
+    "type": "public",
+    "date": "7/06 15:10",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "god you all suck, there are very few of you that arent fucking self centered or just a horrible person, i can name those people on one hand without using all fingers",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958198",
+    "type": "public",
+    "date": "7/06 15:11",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "idk",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
