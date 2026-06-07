@@ -4676,5 +4676,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And cakes",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957306",
+    "type": "public",
+    "date": "7/06 5:43",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Especially choco cakes",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957307",
+    "type": "public",
+    "date": "7/06 5:43",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yum",
+    "msgClasses": "chat_message bneon14"
   }
 ]
