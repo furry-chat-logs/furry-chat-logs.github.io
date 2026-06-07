@@ -18620,5 +18620,15 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "hey i just met you",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956203",
+    "type": "public",
+    "date": "6/06 20:04",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "i think i saw you on spotify. you were listed as hottest single",
+    "msgClasses": "chat_message "
   }
 ]
