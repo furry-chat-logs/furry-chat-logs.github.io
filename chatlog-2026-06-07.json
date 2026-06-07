@@ -21504,5 +21504,25 @@
     "userClasses": "username user ",
     "message": "I know",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958996",
+    "type": "public",
+    "date": "7/06 17:46",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Evelyn1 what 😭",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7958997",
+    "type": "public",
+    "date": "7/06 17:47",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "StupidRobyn why everyone writing hoe with e? i thought it wa ho???",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
