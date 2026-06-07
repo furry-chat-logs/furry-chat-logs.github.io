@@ -3286,5 +3286,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "We believe in you black panther",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957167",
+    "type": "public",
+    "date": "7/06 1:59",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "wait",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
