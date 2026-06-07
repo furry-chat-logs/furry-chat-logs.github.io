@@ -9024,5 +9024,25 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Hello",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7957742",
+    "type": "public",
+    "date": "7/06 11:18",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Hunter77 what the helly",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957743",
+    "type": "public",
+    "date": "7/06 11:18",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Sup",
+    "msgClasses": "chat_message "
   }
 ]
