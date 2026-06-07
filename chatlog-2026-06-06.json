@@ -19110,5 +19110,25 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "What the",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956252",
+    "type": "public",
+    "date": "6/06 20:11",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "SBB  no cussing!!!!! >:(",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956253",
+    "type": "public",
+    "date": "6/06 20:11",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_02e842e94480.png]",
+    "msgClasses": "chat_message "
   }
 ]
