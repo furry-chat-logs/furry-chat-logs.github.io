@@ -24232,5 +24232,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "The what",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7959272",
+    "type": "public",
+    "date": "7/06 18:43",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I was going to meet Donald Trump",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7959273",
+    "type": "public",
+    "date": "7/06 18:43",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "but because I'm not 21, I wasn't allowed to go </3",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
