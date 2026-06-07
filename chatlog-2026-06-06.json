@@ -16870,5 +16870,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Pluh",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956025",
+    "type": "public",
+    "date": "6/06 19:15",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gundam vs Godzilla",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7956026",
+    "type": "public",
+    "date": "6/06 19:15",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gundam wins",
+    "msgClasses": "chat_message bneon19"
   }
 ]
