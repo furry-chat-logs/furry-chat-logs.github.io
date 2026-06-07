@@ -18180,5 +18180,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "it just didn't load in when I bought it",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956157",
+    "type": "public",
+    "date": "6/06 19:55",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Pomleafy a bunny",
+    "msgClasses": "chat_message "
   }
 ]
