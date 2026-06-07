@@ -23030,5 +23030,25 @@
     "userClasses": "username user ",
     "message": "Spectre_protogen willy wonka and the nighquil factory",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956647",
+    "type": "public",
+    "date": "6/06 22:31",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "*Nightquil",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956648",
+    "type": "public",
+    "date": "6/06 22:31",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Uwubunny444 exactly",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
