@@ -6096,5 +6096,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Ill eep a Little more",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7957448",
+    "type": "public",
+    "date": "7/06 8:46",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_b0946513712a.png]",
+    "msgClasses": "chat_message "
   }
 ]
