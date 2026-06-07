@@ -916,5 +916,15 @@
     "userClasses": "username user ",
     "message": "What's up",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956929",
+    "type": "public",
+    "date": "7/06 0:54",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "I have no time to spare for this. [skull]",
+    "msgClasses": "chat_message ital"
   }
 ]
