@@ -16850,5 +16850,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I cast revive on chat. lemme roll a d20 real quick",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956023",
+    "type": "public",
+    "date": "6/06 19:07",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I rolled a 13",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
