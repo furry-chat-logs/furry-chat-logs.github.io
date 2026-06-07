@@ -20598,5 +20598,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "StupidRobyn I've been better. how about you?",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7958904",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Spoke it's okay",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7958905",
+    "type": "public",
+    "date": "7/06 17:35",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I've recovered",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
