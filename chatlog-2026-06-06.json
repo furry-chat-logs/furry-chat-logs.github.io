@@ -21470,5 +21470,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Stand ready for my arrival.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956489",
+    "type": "public",
+    "date": "6/06 21:29",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "punkstxr_sonic lmao",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
