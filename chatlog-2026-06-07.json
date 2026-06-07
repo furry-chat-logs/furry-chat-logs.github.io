@@ -12652,5 +12652,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "\"friends and loved ones\"",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7958107",
+    "type": "public",
+    "date": "7/06 14:58",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "yall know it.... it takes one word...",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
