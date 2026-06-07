@@ -9304,5 +9304,25 @@
     "userClasses": "username user ",
     "message": "Ashton McKennan ofc also sorry bout yesterday",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957770",
+    "type": "public",
+    "date": "7/06 11:22",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It's all good I forgive you Uwubunny444",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957771",
+    "type": "public",
+    "date": "7/06 11:22",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Hpw do i get my messages on a different color or fonts",
+    "msgClasses": "chat_message "
   }
 ]
