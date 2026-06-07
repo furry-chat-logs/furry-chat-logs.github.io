@@ -17390,5 +17390,15 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "Oof",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956078",
+    "type": "public",
+    "date": "6/06 19:33",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_7cc9a56e15f9.png]",
+    "msgClasses": "chat_message "
   }
 ]
