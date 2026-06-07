@@ -15880,5 +15880,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "im back",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958430",
+    "type": "public",
+    "date": "7/06 15:38",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Wait wtf Did not put The awww First time ???",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958431",
+    "type": "public",
+    "date": "7/06 15:39",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Porphyrophobia you wish",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
