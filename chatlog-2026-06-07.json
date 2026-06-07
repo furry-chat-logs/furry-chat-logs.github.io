@@ -11072,5 +11072,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Farts",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957947",
+    "type": "public",
+    "date": "7/06 13:25",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user11705_2beb2f75f874.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
