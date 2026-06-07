@@ -19208,5 +19208,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "Longrod78 thats an interesting username choice!",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958765",
+    "type": "public",
+    "date": "7/06 17:16",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Person no.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958766",
+    "type": "public",
+    "date": "7/06 17:16",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "aber ja ich bin hundert prozent schwiizer und au stolz aber verthsch ja eh nüt",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
