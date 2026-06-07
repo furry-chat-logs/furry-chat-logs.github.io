@@ -3716,5 +3716,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "popstxr_sonic I don't want to talk with them.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957210",
+    "type": "public",
+    "date": "7/06 2:09",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Mdekoni and u think I wanna talk with u?",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
