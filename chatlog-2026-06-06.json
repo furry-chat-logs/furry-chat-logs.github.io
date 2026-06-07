@@ -20410,5 +20410,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Modern art in a nutshell",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956382",
+    "type": "public",
+    "date": "6/06 20:51",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMnRzcGlvbHBtbm42M2Y2ZzExZW82bzRxNTA5Y3YxOXZyOGxwMHQyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/02V9Ot9j2uLGHanaQD/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
