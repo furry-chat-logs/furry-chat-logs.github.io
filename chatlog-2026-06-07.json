@@ -6876,5 +6876,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Hi",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957526",
+    "type": "public",
+    "date": "7/06 10:31",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Oh my god ts reminded me of when I was superadmin on a different site and the ownér told me I can't kick anyone doing anything against the rules because it would \"drive new users away\"",
+    "msgClasses": "chat_message bneon19"
   }
 ]
