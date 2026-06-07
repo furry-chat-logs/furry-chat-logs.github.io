@@ -17740,5 +17740,25 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "mah leg hurts :(",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956113",
+    "type": "public",
+    "date": "6/06 19:43",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "bluee unhurt ir",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956114",
+    "type": "public",
+    "date": "6/06 19:43",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "it*",
+    "msgClasses": "chat_message "
   }
 ]
