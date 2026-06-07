@@ -17620,5 +17620,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user27278_979e48905fdd.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956101",
+    "type": "public",
+    "date": "6/06 19:40",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Pomleafy coins",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7956102",
+    "type": "public",
+    "date": "6/06 19:40",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Not money",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7956103",
+    "type": "public",
+    "date": "6/06 19:40",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "not sure",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
