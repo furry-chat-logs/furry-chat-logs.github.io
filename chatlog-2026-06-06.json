@@ -18010,5 +18010,25 @@
     "userClasses": "username bneon18 ",
     "message": "The Nephalem 👁️",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956140",
+    "type": "public",
+    "date": "6/06 19:52",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[runefaust]",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7956141",
+    "type": "public",
+    "date": "6/06 19:52",
+    "username": "Pomleafy",
+    "userId": "37561",
+    "userClasses": "username bcolor18 bnfont10",
+    "message": "I just burnt my eggs💔",
+    "msgClasses": "chat_message "
   }
 ]
