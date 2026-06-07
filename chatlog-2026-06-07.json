@@ -15160,5 +15160,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Evelyn1 both hands",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958358",
+    "type": "public",
+    "date": "7/06 15:30",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Bergindine who was this pred ?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958359",
+    "type": "public",
+    "date": "7/06 15:30",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Bergindine yeai like write with my left hand but the right one is my stronger one",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
