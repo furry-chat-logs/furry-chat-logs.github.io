@@ -13212,5 +13212,35 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Ehh?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958163",
+    "type": "public",
+    "date": "7/06 15:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "My life",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958164",
+    "type": "public",
+    "date": "7/06 15:08",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "popstxr_sonic you have hurt people close to me and your own self.",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7958165",
+    "type": "public",
+    "date": "7/06 15:08",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "You allright?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
