@@ -20866,5 +20866,25 @@
     "username": "System",
     "userId": null,
     "message": "misha has been kicked"
+  },
+  {
+    "id": "7958932",
+    "type": "public",
+    "date": "7/06 17:38",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "oh my",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958933",
+    "type": "public",
+    "date": "7/06 17:38",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Spoke still a frog lol",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
