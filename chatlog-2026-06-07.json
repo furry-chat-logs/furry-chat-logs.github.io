@@ -5536,5 +5536,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Are u using Arduino to run???",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957392",
+    "type": "public",
+    "date": "7/06 7:04",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "error 404 - common sense not found.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
