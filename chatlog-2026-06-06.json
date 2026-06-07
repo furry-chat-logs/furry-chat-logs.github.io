@@ -18250,5 +18250,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "4-5 more",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7956165",
+    "type": "public",
+    "date": "6/06 19:57",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "[good]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956166",
+    "type": "public",
+    "date": "6/06 19:57",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_0ca2e95396ce.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
