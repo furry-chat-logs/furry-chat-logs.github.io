@@ -9344,5 +9344,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "MrHyde31 VIP",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957774",
+    "type": "public",
+    "date": "7/06 11:23",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Ahhh",
+    "msgClasses": "chat_message "
   }
 ]
