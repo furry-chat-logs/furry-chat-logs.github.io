@@ -14250,5 +14250,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "SwiggleRattle you seem chill, i like you",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958267",
+    "type": "public",
+    "date": "7/06 15:17",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm hopeless",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958268",
+    "type": "public",
+    "date": "7/06 15:18",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "SwiggleRattle nicee",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
