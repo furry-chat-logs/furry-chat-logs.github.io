@@ -18300,5 +18300,55 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "Wha",
     "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7958673",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_45d1385ded09.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958674",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "King_Scourge the site couldn't handle my big brain and it crashed",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7958675",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "I screenshotted everything frogmin",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7958676",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Thank god he can delete that shit",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7958677",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "misha I do not spend it on cheap drinks and we do not use any usernames I have except ones on here",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
