@@ -21404,5 +21404,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "Frogmin SOBBING WHAT..",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958986",
+    "type": "public",
+    "date": "7/06 17:45",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Frogmin dwaf",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958987",
+    "type": "public",
+    "date": "7/06 17:45",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Dwag",
+    "msgClasses": "chat_message "
   }
 ]
