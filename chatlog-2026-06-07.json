@@ -20468,5 +20468,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "StupidRobyn you're not a bitch btw",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7958891",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "StupidRobyn well then. hi Robyn",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7958892",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "QueenMoon also i dont think i did anything to you?",
+    "msgClasses": "chat_message "
   }
 ]
