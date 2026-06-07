@@ -18450,5 +18450,15 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "HELLO?",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958688",
+    "type": "public",
+    "date": "7/06 17:04",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "hatschu",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
