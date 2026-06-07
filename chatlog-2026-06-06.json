@@ -17930,5 +17930,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Runefaust [good]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956132",
+    "type": "public",
+    "date": "6/06 19:50",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_8fb5b01afb37.png]",
+    "msgClasses": "chat_message "
   }
 ]
