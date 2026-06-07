@@ -18998,5 +18998,35 @@
     "userClasses": "username bgrad39 ",
     "message": "Once y hit 20 ur old",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7958744",
+    "type": "public",
+    "date": "7/06 17:12",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "isnt it 18",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958745",
+    "type": "public",
+    "date": "7/06 17:12",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Evelyn1 wait, youre swiss right?",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958746",
+    "type": "public",
+    "date": "7/06 17:12",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "💔",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
