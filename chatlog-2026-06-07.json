@@ -16750,5 +16750,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_5ab22867e9ab.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958517",
+    "type": "public",
+    "date": "7/06 16:04",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "just move to a different chat site that isnt so bad :/",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958518",
+    "type": "public",
+    "date": "7/06 16:04",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35115_63a863e2ba80.png]",
+    "msgClasses": "chat_message "
   }
 ]
