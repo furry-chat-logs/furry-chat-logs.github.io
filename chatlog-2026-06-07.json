@@ -10392,5 +10392,15 @@
     "userClasses": "username user ",
     "message": "MrHyde31 oiii mate",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957879",
+    "type": "public",
+    "date": "7/06 13:01",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Whats up.",
+    "msgClasses": "chat_message "
   }
 ]
