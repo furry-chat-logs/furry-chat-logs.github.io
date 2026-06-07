@@ -16890,5 +16890,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Gundam wins",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7956027",
+    "type": "public",
+    "date": "6/06 19:15",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "depends on which mobile suit",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
