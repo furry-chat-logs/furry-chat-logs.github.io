@@ -15270,5 +15270,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "popstxr_sonic i never called you a pedo, just a predator",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958369",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "question mark",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958370",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Bergindine I'm pretty sure a predator is when someone over 18 wants someone under 18",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7958371",
+    "type": "public",
+    "date": "7/06 15:32",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "popstxr_sonic don’t.",
+    "msgClasses": "chat_message "
   }
 ]
