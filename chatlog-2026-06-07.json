@@ -16,5 +16,15 @@
     "username": "System",
     "userId": null,
     "message": "Ashton McKennan has been kicked"
+  },
+  {
+    "id": "7956839",
+    "type": "public",
+    "date": "7/06 0:02",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "LMAO",
+    "msgClasses": "chat_message bneon19"
   }
 ]
