@@ -21892,5 +21892,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Evelyn1 good for you",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959035",
+    "type": "public",
+    "date": "7/06 17:49",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "QueenMoon ik right",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
