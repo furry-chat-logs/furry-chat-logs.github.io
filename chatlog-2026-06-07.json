@@ -20258,5 +20258,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "i beg your FINEST pardon",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958870",
+    "type": "public",
+    "date": "7/06 17:32",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Misha, if you write another thing like that I'm banning her new account.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958871",
+    "type": "public",
+    "date": "7/06 17:32",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Yeah Robyn was a bitch",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
