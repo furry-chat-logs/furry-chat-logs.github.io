@@ -21444,5 +21444,25 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "Frogmin don't expose ne like that",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7958990",
+    "type": "public",
+    "date": "7/06 17:46",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Frogmin stealing that for later",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958991",
+    "type": "public",
+    "date": "7/06 17:46",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Hes my hoe",
+    "msgClasses": "chat_message "
   }
 ]
