@@ -5366,5 +5366,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Bruh",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957375",
+    "type": "public",
+    "date": "7/06 6:59",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "SBB nope",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
