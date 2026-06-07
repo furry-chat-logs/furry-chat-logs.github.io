@@ -7364,5 +7364,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Prom tickets were 25$ for us (good thing I don't like social interaction)",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957576",
+    "type": "public",
+    "date": "7/06 10:45",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "Smiley because when you dont have any water fountains in the waterpark, you can be damn sure to upsale",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
