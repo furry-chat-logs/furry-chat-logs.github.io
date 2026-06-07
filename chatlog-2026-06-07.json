@@ -6336,5 +6336,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Teams just got an dating website",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957472",
+    "type": "public",
+    "date": "7/06 9:10",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "idk why you'd be on teams in the first place",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7957473",
+    "type": "public",
+    "date": "7/06 9:10",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "oh that makes sense",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
