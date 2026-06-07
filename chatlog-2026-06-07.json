@@ -556,5 +556,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd3o3dmFxamQxM2VmNDF5cG96MGQ5bGl0NXI3ZjV2a2thYXprMHdsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/21VTFJTEr1x9ortvO3/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956893",
+    "type": "public",
+    "date": "7/06 0:50",
+    "username": "feminineboiii12345",
+    "userId": "37566",
+    "userClasses": "username user ",
+    "message": "im scared help O.O",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956894",
+    "type": "public",
+    "date": "7/06 0:50",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Watches you",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
