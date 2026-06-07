@@ -6236,5 +6236,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Thats my private acc there btw so i dont know how they get on me",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957462",
+    "type": "public",
+    "date": "7/06 8:58",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "Ts is frying me",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
