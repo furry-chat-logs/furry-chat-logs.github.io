@@ -576,5 +576,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Watches you",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956895",
+    "type": "public",
+    "date": "7/06 0:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_8f60ff91aa39.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
