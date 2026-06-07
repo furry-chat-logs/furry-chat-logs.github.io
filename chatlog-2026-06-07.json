@@ -106,5 +106,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_199d90dee0b2.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956848",
+    "type": "public",
+    "date": "7/06 0:09",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user8620_e632fca20fac.mp3 | say_wallahi_bro.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
