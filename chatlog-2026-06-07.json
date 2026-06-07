@@ -1456,5 +1456,15 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "nobody in chat besides the love birds -___-",
     "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7956984",
+    "type": "public",
+    "date": "7/06 1:24",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "damn",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
