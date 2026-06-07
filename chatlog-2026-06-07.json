@@ -6036,5 +6036,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Guys it was too late to save him",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957442",
+    "type": "public",
+    "date": "7/06 8:18",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "He has now been reset to factory defaults",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
