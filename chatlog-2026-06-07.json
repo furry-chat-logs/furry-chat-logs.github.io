@@ -11952,5 +11952,25 @@
     "userClasses": "username user ",
     "message": "Just asking",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958035",
+    "type": "public",
+    "date": "7/06 14:26",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "SeriousPhoenix457 haha get out.",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958036",
+    "type": "public",
+    "date": "7/06 14:26",
+    "username": "SeriousPhoenix457",
+    "userId": "37577",
+    "userClasses": "username user ",
+    "message": "Y",
+    "msgClasses": "chat_message "
   }
 ]
