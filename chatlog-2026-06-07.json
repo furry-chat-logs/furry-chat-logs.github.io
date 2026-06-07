@@ -18390,5 +18390,25 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "no",
     "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7958682",
+    "type": "public",
+    "date": "7/06 17:02",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "OH FUCK IM FRYING FOOD",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958683",
+    "type": "public",
+    "date": "7/06 17:02",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "King_Scourge you know the movie?",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
