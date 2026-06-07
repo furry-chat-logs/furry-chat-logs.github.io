@@ -18510,5 +18510,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "i have a lot siblings",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956191",
+    "type": "public",
+    "date": "6/06 20:01",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "This has been my ringtone since 7th grade [sob]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7956192",
+    "type": "public",
+    "date": "6/06 20:01",
+    "username": "Pomleafy",
+    "userId": "37561",
+    "userClasses": "username bcolor18 bnfont10",
+    "message": "Same The Nephalem",
+    "msgClasses": "chat_message "
   }
 ]
