@@ -7744,5 +7744,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Plus I go to church today",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957614",
+    "type": "public",
+    "date": "7/06 11:00",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "In 45 minutes",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957615",
+    "type": "public",
+    "date": "7/06 11:00",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ashton McKennan put all on red😝",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957616",
+    "type": "public",
+    "date": "7/06 11:01",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Which religion 🤔",
+    "msgClasses": "chat_message "
   }
 ]
