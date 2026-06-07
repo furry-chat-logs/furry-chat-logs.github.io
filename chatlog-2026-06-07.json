@@ -24012,5 +24012,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Finally",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7959250",
+    "type": "public",
+    "date": "7/06 18:34",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "My bad, I was talking to Nyx",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7959251",
+    "type": "public",
+    "date": "7/06 18:34",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "whos amy",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
