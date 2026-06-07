@@ -22242,5 +22242,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Neo The Protogen mhm .",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959071",
+    "type": "public",
+    "date": "7/06 17:55",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "That's why I'm a bug in the first place.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
