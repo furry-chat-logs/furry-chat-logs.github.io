@@ -19168,5 +19168,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "Ch3rry_Drop im taking your tattoo gun",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958761",
+    "type": "public",
+    "date": "7/06 17:15",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "😒",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958762",
+    "type": "public",
+    "date": "7/06 17:15",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Bergindine crazyy",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
