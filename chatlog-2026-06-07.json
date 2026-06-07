@@ -10922,5 +10922,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Meep",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957932",
+    "type": "public",
+    "date": "7/06 13:19",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I swear to god Meep, if you keep spamming my phone with memes and brainrot I'm going to throw you into the Bellagio fountains.",
+    "msgClasses": "chat_message "
   }
 ]
