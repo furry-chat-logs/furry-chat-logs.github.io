@@ -17760,5 +17760,35 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "Frogmin is my biggest role model guys",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958618",
+    "type": "public",
+    "date": "7/06 16:49",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Frogmin drink water",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958619",
+    "type": "public",
+    "date": "7/06 16:49",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Frogmin drink water :)",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958620",
+    "type": "public",
+    "date": "7/06 16:49",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I wanna be just like him when I grow up",
+    "msgClasses": "chat_message bneon19"
   }
 ]
