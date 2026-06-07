@@ -1316,5 +1316,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Evelyn1 god",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7956970",
+    "type": "public",
+    "date": "7/06 1:11",
+    "username": "punkstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon15 bnfont15",
+    "message": "Mdekoni ???",
+    "msgClasses": "chat_message bneon17 ital bfont12"
   }
 ]
