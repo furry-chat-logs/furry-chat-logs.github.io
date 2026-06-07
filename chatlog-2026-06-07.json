@@ -6976,5 +6976,13 @@
     "userClasses": "username user ",
     "message": "I had to kick some people out of my minecraft dnd server just for advertising, scams or just not following rules :L",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957537",
+    "type": "system",
+    "date": "7/06 10:35",
+    "username": "System",
+    "userId": null,
+    "message": "Marten has been kicked"
   }
 ]
