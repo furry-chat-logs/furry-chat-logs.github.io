@@ -6286,5 +6286,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "This is just for entertainment",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957467",
+    "type": "public",
+    "date": "7/06 9:01",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "I'm incapable of reading german",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
