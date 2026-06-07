@@ -6366,5 +6366,15 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "weird",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7957475",
+    "type": "public",
+    "date": "7/06 9:10",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I use it for shool",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
