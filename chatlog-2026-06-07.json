@@ -7714,5 +7714,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Numm Bug hi",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957611",
+    "type": "public",
+    "date": "7/06 11:00",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I cant!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957612",
+    "type": "public",
+    "date": "7/06 11:00",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I don't have good luck",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
