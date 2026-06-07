@@ -20148,5 +20148,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "i dont like women..😭",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958859",
+    "type": "public",
+    "date": "7/06 17:31",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "WHO IS ROBYN",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958860",
+    "type": "public",
+    "date": "7/06 17:31",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "80 is actually crazy",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
