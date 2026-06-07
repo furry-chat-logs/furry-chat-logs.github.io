@@ -2466,5 +2466,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "NeptuneLynxx u said eugh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957085",
+    "type": "public",
+    "date": "7/06 1:47",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Eugh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957086",
+    "type": "public",
+    "date": "7/06 1:47",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "my brightness was up",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
