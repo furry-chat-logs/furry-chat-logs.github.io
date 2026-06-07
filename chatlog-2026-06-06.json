@@ -18960,5 +18960,25 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "twink",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956237",
+    "type": "public",
+    "date": "6/06 20:08",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "whats a twink",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956238",
+    "type": "public",
+    "date": "6/06 20:08",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Smiley Aha! I got you with the EA sports",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
