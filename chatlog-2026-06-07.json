@@ -1686,5 +1686,25 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "Porphyrophobia right after yours :D",
     "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7957007",
+    "type": "public",
+    "date": "7/06 1:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Burn at stake",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957008",
+    "type": "public",
+    "date": "7/06 1:28",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "French style",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
