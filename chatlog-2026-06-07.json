@@ -21912,5 +21912,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I was being sarcastic",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959037",
+    "type": "public",
+    "date": "7/06 17:50",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "You can be gay but you don't gotta tell the whole galaxy every 5 seconds",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959038",
+    "type": "public",
+    "date": "7/06 17:50",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "QueenMoon ik ^^",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
