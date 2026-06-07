@@ -6786,5 +6786,15 @@
     "userClasses": "username user ",
     "message": "i am lycanroc can confirm",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957517",
+    "type": "public",
+    "date": "7/06 10:28",
+    "username": "Marten",
+    "userId": "37572",
+    "userClasses": "username user ",
+    "message": "Hi",
+    "msgClasses": "chat_message "
   }
 ]
