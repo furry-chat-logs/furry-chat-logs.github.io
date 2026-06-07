@@ -22620,5 +22620,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Set this as my ringtone so I can inflict flashbacks on anyone around me",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7956606",
+    "type": "public",
+    "date": "6/06 22:17",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2pldm16Z2dldnhtNXRtOGl6cjJ5cHZlcnBzemJjZ2kxMmIwMzQ3ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13T6DyI34hGK5i/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
