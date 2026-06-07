@@ -23342,5 +23342,25 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "[pills]",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7959182",
+    "type": "public",
+    "date": "7/06 18:10",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[troll]",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7959183",
+    "type": "public",
+    "date": "7/06 18:10",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Numm Bug id understand if it was alcohol or drugs but never expeed it with candy lol",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
