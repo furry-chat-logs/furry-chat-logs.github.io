@@ -19200,5 +19200,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "that felt oddly good to say",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956261",
+    "type": "public",
+    "date": "6/06 20:12",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19750_4f215b237547.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956262",
+    "type": "public",
+    "date": "6/06 20:12",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "lets all be nice",
+    "msgClasses": "chat_message "
   }
 ]
