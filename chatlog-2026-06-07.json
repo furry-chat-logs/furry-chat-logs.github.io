@@ -24092,5 +24092,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ascend",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7959258",
+    "type": "public",
+    "date": "7/06 18:38",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "KingCorgz I'm almost able to surpass you in coins",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959259",
+    "type": "public",
+    "date": "7/06 18:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_4a681410f79f.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
