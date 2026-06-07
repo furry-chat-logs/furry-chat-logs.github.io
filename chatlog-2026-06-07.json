@@ -7774,5 +7774,15 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "Which religion 🤔",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957617",
+    "type": "public",
+    "date": "7/06 11:01",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Christian",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
