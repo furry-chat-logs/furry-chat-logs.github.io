@@ -21074,5 +21074,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "hmo",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958953",
+    "type": "public",
+    "date": "7/06 17:40",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Evelyn1 They're not going 2 by 2 like noahs ark.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958954",
+    "type": "public",
+    "date": "7/06 17:40",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Uwubunny444 that's what you get for spreading false information about people U.U",
+    "msgClasses": "chat_message "
   }
 ]
