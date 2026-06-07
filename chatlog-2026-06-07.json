@@ -15130,5 +15130,35 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Smiley huhh?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958355",
+    "type": "public",
+    "date": "7/06 15:30",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Spoke a pred got called out, people started getting annoyed at them, and then a few attention seekers showed up and started bitching, and then i called some people out and talked about how this chat is so shitty and the people are even worse",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958356",
+    "type": "public",
+    "date": "7/06 15:30",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Bergindine oh great",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958357",
+    "type": "public",
+    "date": "7/06 15:30",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Evelyn1 both hands",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
