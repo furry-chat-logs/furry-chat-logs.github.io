@@ -6446,5 +6446,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Nothing like a morning cup of coffee and some chill hop in the morning before I go to church",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957483",
+    "type": "public",
+    "date": "7/06 9:39",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ello",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
