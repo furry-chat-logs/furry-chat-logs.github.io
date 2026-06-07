@@ -4856,5 +4856,25 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": "cuz",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7957324",
+    "type": "public",
+    "date": "7/06 6:31",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "not even eating?",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957325",
+    "type": "public",
+    "date": "7/06 6:31",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "drinking?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
