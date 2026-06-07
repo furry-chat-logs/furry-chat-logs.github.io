@@ -1466,5 +1466,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "damn",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7956985",
+    "type": "public",
+    "date": "7/06 1:24",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "I wonder if people are afk or they are not an afk people",
+    "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7956986",
+    "type": "public",
+    "date": "7/06 1:24",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "...",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
