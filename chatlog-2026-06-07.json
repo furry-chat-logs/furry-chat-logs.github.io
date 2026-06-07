@@ -6386,5 +6386,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I do homeshooling thru teams and when i firstly had it i needed to use my own account befor i got a shool account",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957477",
+    "type": "public",
+    "date": "7/06 9:12",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "I can see that it's failing you",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
