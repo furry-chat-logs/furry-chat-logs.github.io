@@ -5926,5 +5926,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Ashton McKennan oki",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7957431",
+    "type": "public",
+    "date": "7/06 7:30",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Now I just have to wait for the rest of his update and he'll be finished!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
