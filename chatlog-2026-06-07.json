@@ -19668,5 +19668,15 @@
     "userClasses": "username user ",
     "message": "Wait what?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958811",
+    "type": "public",
+    "date": "7/06 17:25",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "misha Yes.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
