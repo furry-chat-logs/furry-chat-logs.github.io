@@ -24342,5 +24342,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "XxGuardianxX Sure",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7959283",
+    "type": "public",
+    "date": "7/06 18:51",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Sup",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
