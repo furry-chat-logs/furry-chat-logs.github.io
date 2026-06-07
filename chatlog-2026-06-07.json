@@ -4326,5 +4326,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd3V0dmI5ZmJoa3F0em9waHI1amR1d3V2Y3d4cGkwNzdqYW52NHRjMyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/gaoc9A4z87Fz653rrj/giphy.gif]",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7957271",
+    "type": "public",
+    "date": "7/06 5:02",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMnl2NGtlb2ZudXlwdXNmemNlNjJhN2E1ZHU3YWV4bmlwZmJndW1pZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8LMnJFAWhGjVZn5fY/giphy.gif]",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
