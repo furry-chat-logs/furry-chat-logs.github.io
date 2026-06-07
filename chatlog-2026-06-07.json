@@ -13452,5 +13452,45 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "UR SCARING ME",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958187",
+    "type": "public",
+    "date": "7/06 15:10",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "SoraTheMikuFan wanna tell me about it all in pms",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958188",
+    "type": "public",
+    "date": "7/06 15:10",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "no remington retirement plan",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7958189",
+    "type": "public",
+    "date": "7/06 15:10",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMHpnanhtd3F5M2ZucHVlMHcxdDJ3Z2EzY3cwb2pta3lyZ281YjU3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wr7oA0rSjnWuiLJOY5/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958190",
+    "type": "public",
+    "date": "7/06 15:10",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "IT HAPPENS IRL HERE",
+    "msgClasses": "chat_message bneon14"
   }
 ]
