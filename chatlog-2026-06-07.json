@@ -3166,5 +3166,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "popstxr_sonic why sharks",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957155",
+    "type": "public",
+    "date": "7/06 1:56",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm kind of just in the middle of something",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957156",
+    "type": "public",
+    "date": "7/06 1:56",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Ashton McKennan bye👋",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
