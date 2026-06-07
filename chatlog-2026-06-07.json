@@ -4146,5 +4146,25 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "popstxr_sonic yeah i watched it last week",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7957253",
+    "type": "public",
+    "date": "7/06 3:19",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "NotAWarlock i watched iron lung",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7957254",
+    "type": "public",
+    "date": "7/06 3:19",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "it was pretty good",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
