@@ -20038,5 +20038,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Hm.",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7958848",
+    "type": "public",
+    "date": "7/06 17:29",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "oh",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
