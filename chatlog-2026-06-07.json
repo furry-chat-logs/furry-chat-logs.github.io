@@ -2606,5 +2606,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Ig",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7957099",
+    "type": "public",
+    "date": "7/06 1:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "You're the joke",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957100",
+    "type": "public",
+    "date": "7/06 1:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
