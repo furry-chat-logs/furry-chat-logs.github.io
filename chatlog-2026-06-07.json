@@ -7154,5 +7154,15 @@
     "userClasses": "username user ",
     "message": "Cornchips and bananas",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957555",
+    "type": "public",
+    "date": "7/06 10:42",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Smiley smiles!!!! :D",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
