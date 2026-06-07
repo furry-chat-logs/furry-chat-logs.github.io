@@ -22460,5 +22460,15 @@
     "userClasses": "username bgrad26 bnfont8",
     "message": "So volume controls itself",
     "msgClasses": "chat_message bneon20  bfont8"
+  },
+  {
+    "id": "7956590",
+    "type": "public",
+    "date": "6/06 22:13",
+    "username": "KLOFU",
+    "userId": "7561",
+    "userClasses": "username bgrad26 bnfont15",
+    "message": "Hi",
+    "msgClasses": "chat_message bcolor22 heavyital bfont4"
   }
 ]
