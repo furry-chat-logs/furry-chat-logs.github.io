@@ -12332,5 +12332,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Meep death sentance for them",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958074",
+    "type": "public",
+    "date": "7/06 14:49",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "The madame denied it so I will hold no trial",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
