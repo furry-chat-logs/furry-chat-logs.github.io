@@ -5716,5 +5716,35 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "36 things on the wall",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7957410",
+    "type": "public",
+    "date": "7/06 7:08",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sol_Aizawa indeed",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7957411",
+    "type": "public",
+    "date": "7/06 7:08",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "<common-sense> code-gh75576zzYOXZ",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957412",
+    "type": "public",
+    "date": "7/06 7:08",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Sol_Aizawa welcome back",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
