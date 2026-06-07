@@ -13392,5 +13392,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "A LIFE",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958181",
+    "type": "public",
+    "date": "7/06 15:09",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*sobs*",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958182",
+    "type": "public",
+    "date": "7/06 15:09",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "kaboom",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
