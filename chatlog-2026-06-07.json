@@ -10792,5 +10792,25 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Porphyrophobia",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957919",
+    "type": "public",
+    "date": "7/06 13:15",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Yatagarasu",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957920",
+    "type": "public",
+    "date": "7/06 13:15",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Deimos hello",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
