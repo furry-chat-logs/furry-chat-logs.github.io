@@ -17900,5 +17900,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Oh, alcohol poisoning is very much in my future",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958632",
+    "type": "public",
+    "date": "7/06 16:52",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Frogmin dw at least youre not driving...",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
