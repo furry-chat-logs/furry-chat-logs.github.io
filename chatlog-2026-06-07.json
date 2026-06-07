@@ -5686,5 +5686,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "<setnewcodefile>",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957407",
+    "type": "public",
+    "date": "7/06 7:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I haven't been online in a bit",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7957408",
+    "type": "public",
+    "date": "7/06 7:08",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Icome online",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
