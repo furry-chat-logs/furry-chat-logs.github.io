@@ -23220,5 +23220,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Uwubunny444 it's called panzerchocolade. and yes, you can find it online",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956666",
+    "type": "public",
+    "date": "6/06 22:35",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Thank you",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7956667",
+    "type": "public",
+    "date": "6/06 22:35",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "although it's 80 years old now.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
