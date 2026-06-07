@@ -22652,5 +22652,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "that scares me...and I'm a windows user",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959112",
+    "type": "public",
+    "date": "7/06 18:00",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "im scared.",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
