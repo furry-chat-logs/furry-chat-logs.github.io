@@ -9164,5 +9164,25 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "I love that movie",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957756",
+    "type": "public",
+    "date": "7/06 11:19",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "MrHyde31 laughing till u die",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957757",
+    "type": "public",
+    "date": "7/06 11:19",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "My friend got me into that movie",
+    "msgClasses": "chat_message "
   }
 ]
