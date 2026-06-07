@@ -5996,5 +5996,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I hate these damn firewalls man",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957438",
+    "type": "public",
+    "date": "7/06 7:49",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Somebody just hacked into the system",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
