@@ -15870,5 +15870,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcnZ5cXk2aWQwMjZxcnVqaWZvZzVwa2RrdjhuZzZ6eWlhcXU0bDQ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2Ay8nTk87Xl2kjlcNc/giphy.gif]",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7958429",
+    "type": "public",
+    "date": "7/06 15:38",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "im back",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
