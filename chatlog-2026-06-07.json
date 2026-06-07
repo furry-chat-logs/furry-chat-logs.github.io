@@ -22562,5 +22562,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "im joking of COURSE",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7959103",
+    "type": "public",
+    "date": "7/06 17:58",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Spoke huh ???",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959104",
+    "type": "public",
+    "date": "7/06 17:58",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Numm Bug *boo*",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
