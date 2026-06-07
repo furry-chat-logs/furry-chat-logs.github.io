@@ -23260,5 +23260,45 @@
     "userClasses": "username user ",
     "message": "Spectre_protogen idc",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956670",
+    "type": "public",
+    "date": "6/06 22:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_2527f344dbdd.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956671",
+    "type": "public",
+    "date": "6/06 22:36",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Spectre_protogen I NEEEEED IIIIITT",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956672",
+    "type": "public",
+    "date": "6/06 22:36",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Hey it's just chocolate",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7956673",
+    "type": "public",
+    "date": "6/06 22:36",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "^^",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
