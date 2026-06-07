@@ -3986,5 +3986,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "🆗",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957237",
+    "type": "public",
+    "date": "7/06 2:26",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Does anyone knows how to crack the back? Like manually and all that",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
