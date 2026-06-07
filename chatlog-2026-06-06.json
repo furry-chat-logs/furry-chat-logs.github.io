@@ -21620,5 +21620,25 @@
     "userClasses": "username user ",
     "message": "Actually im gonna test that right now lets see if it works",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956504",
+    "type": "public",
+    "date": "6/06 21:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "•o.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956505",
+    "type": "public",
+    "date": "6/06 21:36",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "If im not back in 5 mins ive feel asleep in the nightquil bath",
+    "msgClasses": "chat_message "
   }
 ]
