@@ -12632,5 +12632,25 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "ZephTheFloofBoi real",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958105",
+    "type": "public",
+    "date": "7/06 14:58",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "ima go feed the dogs or smthn",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958106",
+    "type": "public",
+    "date": "7/06 14:58",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "\"friends and loved ones\"",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
