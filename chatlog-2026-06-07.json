@@ -9394,5 +9394,25 @@
     "userClasses": "username user ",
     "message": "Alright i gotta get going to church too and i need to shop for food",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957779",
+    "type": "public",
+    "date": "7/06 11:23",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "I'm outta here",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957780",
+    "type": "public",
+    "date": "7/06 11:23",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Later 444",
+    "msgClasses": "chat_message "
   }
 ]
