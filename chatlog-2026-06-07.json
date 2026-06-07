@@ -16020,5 +16020,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_a3f68bd468fe.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958444",
+    "type": "public",
+    "date": "7/06 15:41",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Gundih 🥀🥀🥀",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7958445",
+    "type": "public",
+    "date": "7/06 15:41",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "oh.",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
