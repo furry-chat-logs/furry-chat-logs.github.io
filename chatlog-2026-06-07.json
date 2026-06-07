@@ -19438,5 +19438,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "ye",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958788",
+    "type": "public",
+    "date": "7/06 17:19",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "im so sorry",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
