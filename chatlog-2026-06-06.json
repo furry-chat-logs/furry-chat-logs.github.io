@@ -24480,5 +24480,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": ":0 KRYPTONITE!!",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956795",
+    "type": "public",
+    "date": "6/06 23:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f14e95e3e8fe.png]",
+    "msgClasses": "chat_message "
   }
 ]
