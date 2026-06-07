@@ -24462,5 +24462,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "XxGuardianxX Np",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7959295",
+    "type": "public",
+    "date": "7/06 18:55",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "Im Graduating Two Days",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
   }
 ]
