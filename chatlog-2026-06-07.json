@@ -22672,5 +22672,25 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9189_802e1624b2c5.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959114",
+    "type": "public",
+    "date": "7/06 18:01",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "[link: https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO?si=BfWWamlzQhqo_AbFEPbn5A]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959115",
+    "type": "public",
+    "date": "7/06 18:01",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Songgg",
+    "msgClasses": "chat_message "
   }
 ]
