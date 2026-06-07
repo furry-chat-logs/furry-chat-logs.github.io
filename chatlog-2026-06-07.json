@@ -17040,5 +17040,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Guess this was expected",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958546",
+    "type": "public",
+    "date": "7/06 16:15",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Bro",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
