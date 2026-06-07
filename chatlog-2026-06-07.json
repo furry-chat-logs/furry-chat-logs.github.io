@@ -18270,5 +18270,35 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "Frogmin 7/06 17:56 Last time I went out I made out with a 40 year old blackgirl.",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958670",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "thank GOD i saved it",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958671",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "lmfao",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958672",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Wha",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
