@@ -7124,5 +7124,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I think I remember my DND character",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957552",
+    "type": "public",
+    "date": "7/06 10:41",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Good morning",
+    "msgClasses": "chat_message "
   }
 ]
