@@ -23532,5 +23532,25 @@
     "userClasses": "username user ",
     "message": "H E L P ME",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959201",
+    "type": "public",
+    "date": "7/06 18:12",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_1f1ea494e7e7.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959202",
+    "type": "public",
+    "date": "7/06 18:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Haha.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
