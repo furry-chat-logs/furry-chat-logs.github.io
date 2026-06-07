@@ -16210,5 +16210,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I finished my fanart of Kit.",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7958463",
+    "type": "public",
+    "date": "7/06 15:44",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "why is living lwk harder than dying :'(",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958464",
+    "type": "public",
+    "date": "7/06 15:44",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_005effa375f4.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
