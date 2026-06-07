@@ -3866,5 +3866,15 @@
     "userClasses": "username user ",
     "message": "Hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957225",
+    "type": "public",
+    "date": "7/06 2:19",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Shhh.",
+    "msgClasses": "chat_message ital"
   }
 ]
