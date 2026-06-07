@@ -14290,5 +14290,35 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "I think I found wiffle",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958271",
+    "type": "public",
+    "date": "7/06 15:18",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "SwiggleRattle nice bird",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958272",
+    "type": "public",
+    "date": "7/06 15:18",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Aka In0",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958273",
+    "type": "public",
+    "date": "7/06 15:18",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "SoraTheMikuFan Your not .",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
