@@ -10872,5 +10872,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_bb544c0231ba.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957927",
+    "type": "public",
+    "date": "7/06 13:16",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "*dies*",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
