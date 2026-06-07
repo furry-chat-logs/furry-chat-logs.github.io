@@ -18230,5 +18230,35 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "What happened",
     "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7958666",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "LMAOOO",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958667",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "wait",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958668",
+    "type": "public",
+    "date": "7/06 17:01",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "BEER MOMENT",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
