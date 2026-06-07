@@ -24440,5 +24440,25 @@
     "userClasses": "username user ",
     "message": "Where is bomboiash",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956791",
+    "type": "public",
+    "date": "6/06 23:40",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "He said he be here",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956792",
+    "type": "public",
+    "date": "6/06 23:40",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGY5OTM0cnJhOWczcXA0bTVqZmE5c21qeDZvMG9yajJqZHZmaDFscCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tXL4FHPSnVJ0A/giphy.gif]",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
