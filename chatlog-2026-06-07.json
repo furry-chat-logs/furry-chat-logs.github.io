@@ -17160,5 +17160,65 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "If you read it more carefully",
     "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7958558",
+    "type": "public",
+    "date": "7/06 16:16",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "oh. okay.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7958559",
+    "type": "public",
+    "date": "7/06 16:17",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Spoke yea nd maybe bruno mars isnt actually from mars",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958560",
+    "type": "public",
+    "date": "7/06 16:17",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "0NOMOREINNOCENCE0 I'm in a bad mood. And I apologise for not making sure to double check.",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7958561",
+    "type": "public",
+    "date": "7/06 16:17",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Spectre_protogen you're good bro",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7958562",
+    "type": "public",
+    "date": "7/06 16:17",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "Evelyn1 see, now thats where i disagree😔",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958563",
+    "type": "public",
+    "date": "7/06 16:17",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "I'm too relaxed to actually get mad",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
