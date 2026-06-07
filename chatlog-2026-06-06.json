@@ -18680,5 +18680,15 @@
     "userClasses": "username bneon3 bnfont6",
     "message": "Or I will run you over",
     "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7956209",
+    "type": "public",
+    "date": "6/06 20:05",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "bluee, i must be a squirrel because i'm nuts for you",
+    "msgClasses": "chat_message "
   }
 ]
