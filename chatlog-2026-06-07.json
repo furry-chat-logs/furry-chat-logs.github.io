@@ -16070,5 +16070,45 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "i was skinned twice already this week",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958449",
+    "type": "public",
+    "date": "7/06 15:42",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Indeed,",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958450",
+    "type": "public",
+    "date": "7/06 15:42",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I say aye",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7958451",
+    "type": "public",
+    "date": "7/06 15:42",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "and i have a third scheduled next wedneday",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958452",
+    "type": "public",
+    "date": "7/06 15:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_4ad72009eeaa.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
