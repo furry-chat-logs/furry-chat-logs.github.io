@@ -9374,5 +9374,25 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "Thank u",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957777",
+    "type": "public",
+    "date": "7/06 11:23",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "All right see you guys later!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957778",
+    "type": "public",
+    "date": "7/06 11:23",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Alright i gotta get going to church too and i need to shop for food",
+    "msgClasses": "chat_message "
   }
 ]
