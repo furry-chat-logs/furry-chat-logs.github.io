@@ -7894,5 +7894,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I love my enemies and I love my friends no matter what",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957629",
+    "type": "public",
+    "date": "7/06 11:04",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "If somebody hates me I love them",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957630",
+    "type": "public",
+    "date": "7/06 11:04",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Thats good. Alot of people i know like to use excuse for anything",
+    "msgClasses": "chat_message "
   }
 ]
