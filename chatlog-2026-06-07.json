@@ -2316,5 +2316,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "gn.",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957070",
+    "type": "public",
+    "date": "7/06 1:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_72be7616dcee.png]",
+    "msgClasses": "chat_message "
   }
 ]
