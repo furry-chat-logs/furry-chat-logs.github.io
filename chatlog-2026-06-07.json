@@ -21464,5 +21464,25 @@
     "userClasses": "username user ",
     "message": "Hes my hoe",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958992",
+    "type": "public",
+    "date": "7/06 17:46",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "StupidRobyn He used slightly different words, but yes.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958993",
+    "type": "public",
+    "date": "7/06 17:46",
+    "username": "Skylar Rosevelt Gunz",
+    "userId": "26529",
+    "userClasses": "username bgrad22 bnfont15",
+    "message": "QueenMoon makes no sense to me but Americans make no sense to me either PFT",
+    "msgClasses": "chat_message bgrad22 heavyital bfont8"
   }
 ]
