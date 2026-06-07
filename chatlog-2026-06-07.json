@@ -9244,5 +9244,25 @@
     "userClasses": "username user ",
     "message": "Ashton McKennan have a good Day at church",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957764",
+    "type": "public",
+    "date": "7/06 11:21",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "See you later!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957765",
+    "type": "public",
+    "date": "7/06 11:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Ashton McKennan also I was lying about being satanist",
+    "msgClasses": "chat_message bneon19"
   }
 ]
