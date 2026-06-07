@@ -15440,5 +15440,45 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "close enough",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958386",
+    "type": "public",
+    "date": "7/06 15:33",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "thats just the defination",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958387",
+    "type": "public",
+    "date": "7/06 15:33",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "ok google ai",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958388",
+    "type": "public",
+    "date": "7/06 15:33",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "and thats what you did",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958389",
+    "type": "public",
+    "date": "7/06 15:34",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "[verysad]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
