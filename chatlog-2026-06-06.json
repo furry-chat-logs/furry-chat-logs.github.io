@@ -18770,5 +18770,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956218",
+    "type": "public",
+    "date": "6/06 20:07",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "wut",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956219",
+    "type": "public",
+    "date": "6/06 20:07",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_a3dd052834e2.png]",
+    "msgClasses": "chat_message "
   }
 ]
