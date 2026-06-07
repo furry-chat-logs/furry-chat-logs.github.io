@@ -3346,5 +3346,25 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "eh not worth it",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957173",
+    "type": "public",
+    "date": "7/06 2:00",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcG9kNDZpZTduZjA5a2czZXUzZmVycmgybG0wN2psYzJkMmJ2eHBoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l50uSBj3K2xvf8kool/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7957174",
+    "type": "public",
+    "date": "7/06 2:00",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "plus black panther is a buns hero",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
