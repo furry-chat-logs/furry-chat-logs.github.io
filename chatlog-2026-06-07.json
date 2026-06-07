@@ -9562,5 +9562,15 @@
     "username": "System",
     "userId": null,
     "message": "bugbite has been kicked"
+  },
+  {
+    "id": "7957796",
+    "type": "public",
+    "date": "7/06 11:58",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Data finally",
+    "msgClasses": "chat_message "
   }
 ]
