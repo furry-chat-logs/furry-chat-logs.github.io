@@ -22332,5 +22332,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Yall short",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959080",
+    "type": "public",
+    "date": "7/06 17:55",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "StupidRobyn Your culture is when I'm hungry and there's no potatoes in the kitchen.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
