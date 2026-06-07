@@ -13732,5 +13732,53 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Please I want an option to stay aliveee",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958215",
+    "type": "public",
+    "date": "7/06 15:12",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Bergindine what about me",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7958216",
+    "type": "public",
+    "date": "7/06 15:12",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Porphyrophobia I'm sorry I'm just",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958217",
+    "type": "public",
+    "date": "7/06 15:12",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "you call people out on their shit",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958218",
+    "type": "system",
+    "date": "7/06 15:12",
+    "username": "System",
+    "userId": null,
+    "message": "Cutieozzy has been muted"
+  },
+  {
+    "id": "7958219",
+    "type": "public",
+    "date": "7/06 15:12",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "This post has been marked as spam",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
