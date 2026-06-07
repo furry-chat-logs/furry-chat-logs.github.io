@@ -1966,5 +1966,25 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "are we larping?",
     "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7957035",
+    "type": "public",
+    "date": "7/06 1:34",
+    "username": "punkstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon15 bnfont15",
+    "message": "is that what his is?",
+    "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7957036",
+    "type": "public",
+    "date": "7/06 1:34",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_2b800a48c0fb.gif]",
+    "msgClasses": "chat_message "
   }
 ]
