@@ -6796,5 +6796,15 @@
     "userClasses": "username user ",
     "message": "Hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957518",
+    "type": "public",
+    "date": "7/06 10:28",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Bye.",
+    "msgClasses": "chat_message ital"
   }
 ]
