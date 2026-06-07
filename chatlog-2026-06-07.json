@@ -22272,5 +22272,35 @@
     "userClasses": "username user ",
     "message": "Frogmin culture is not your costume",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959074",
+    "type": "public",
+    "date": "7/06 17:55",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Numm Bug *pets the bug*",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7959075",
+    "type": "public",
+    "date": "7/06 17:55",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "MY CULTURE",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959076",
+    "type": "public",
+    "date": "7/06 17:55",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "6' on the point, i have no idea what a midget is am i one?",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
