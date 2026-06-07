@@ -9184,5 +9184,15 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "My friend got me into that movie",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957758",
+    "type": "public",
+    "date": "7/06 11:20",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "[funny]",
+    "msgClasses": "chat_message "
   }
 ]
