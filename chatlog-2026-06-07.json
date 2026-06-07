@@ -4706,5 +4706,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Well have fun!",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957309",
+    "type": "public",
+    "date": "7/06 5:46",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "SoraTheMikuFan miku the pillow sized frog",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
