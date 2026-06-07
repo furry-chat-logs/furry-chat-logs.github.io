@@ -3896,5 +3896,25 @@
     "userClasses": "username bneon18 ",
     "message": "This is a library.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7957228",
+    "type": "public",
+    "date": "7/06 2:20",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Itsme092748 hi👋😝",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957229",
+    "type": "public",
+    "date": "7/06 2:20",
+    "username": "Itsme092748",
+    "userId": "37570",
+    "userClasses": "username user ",
+    "message": "Idk I just joined. My bad",
+    "msgClasses": "chat_message "
   }
 ]
