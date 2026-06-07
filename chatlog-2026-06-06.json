@@ -19670,5 +19670,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Smiley please do",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956308",
+    "type": "public",
+    "date": "6/06 20:17",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Damn girl are you a fire alarm? Because you're really fucking loud and annoying",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
+  },
+  {
+    "id": "7956309",
+    "type": "public",
+    "date": "6/06 20:17",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
