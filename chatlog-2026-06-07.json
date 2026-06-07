@@ -9194,5 +9194,15 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "[funny]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957759",
+    "type": "public",
+    "date": "7/06 11:20",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I gotta get going!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
