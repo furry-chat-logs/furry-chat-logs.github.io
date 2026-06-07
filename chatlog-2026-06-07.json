@@ -1346,5 +1346,15 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "KingCorgz awesome",
     "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7956973",
+    "type": "public",
+    "date": "7/06 1:12",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "KingCorgz hii",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
