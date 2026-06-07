@@ -1326,5 +1326,15 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "Mdekoni ???",
     "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7956971",
+    "type": "public",
+    "date": "7/06 1:11",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_0a218e50579d.png]",
+    "msgClasses": "chat_message "
   }
 ]
