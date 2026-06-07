@@ -19220,5 +19220,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "lets all be nice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956263",
+    "type": "public",
+    "date": "6/06 20:12",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "[skull]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956264",
+    "type": "public",
+    "date": "6/06 20:12",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjY5aXBkc2MzbjAxbmY5bjdmeTlpcjIyZXBxbnhvMHFkcjVyZGJmOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S5cMyO9kmwwgxyHkPp/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
