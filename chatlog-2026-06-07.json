@@ -16300,5 +16300,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Bergindine costco hotdog combo",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7958472",
+    "type": "public",
+    "date": "7/06 15:45",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "SwiggleRattle beef hotdogs make me sick 😔",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958473",
+    "type": "public",
+    "date": "7/06 15:45",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "like genuinely XD",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
