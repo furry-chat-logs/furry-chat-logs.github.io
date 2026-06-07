@@ -7344,5 +7344,15 @@
     "userClasses": "username user ",
     "message": "Ew",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957574",
+    "type": "public",
+    "date": "7/06 10:45",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "QueenKit ours was 100 usd",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
