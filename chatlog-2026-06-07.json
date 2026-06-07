@@ -10672,5 +10672,25 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "Some mlp and some furries",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957907",
+    "type": "public",
+    "date": "7/06 13:09",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Got few mains i like most",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957908",
+    "type": "public",
+    "date": "7/06 13:09",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Mlp furries httyd warrior cats dnd",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
