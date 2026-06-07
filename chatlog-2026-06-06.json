@@ -18300,5 +18300,35 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "The Nephalem tbh i didn't think they bite people",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956170",
+    "type": "public",
+    "date": "6/06 19:57",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "bluee delish",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956171",
+    "type": "public",
+    "date": "6/06 19:57",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Runefaust you didn't roll a d20 saving throw bro. You coulda kept your fur",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956172",
+    "type": "public",
+    "date": "6/06 19:58",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "mah fuckin pancakes",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
