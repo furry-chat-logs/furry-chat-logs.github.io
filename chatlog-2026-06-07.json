@@ -8124,5 +8124,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's not a cult if it's Christian Uwubunny444",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957652",
+    "type": "public",
+    "date": "7/06 11:08",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "I believe in human achievements.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7957653",
+    "type": "public",
+    "date": "7/06 11:08",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Then you've never read the bible",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957654",
+    "type": "public",
+    "date": "7/06 11:08",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Idk I'm not religious nor have I read the bible",
+    "msgClasses": "chat_message "
   }
 ]
