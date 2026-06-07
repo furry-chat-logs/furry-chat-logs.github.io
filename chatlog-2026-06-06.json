@@ -18690,5 +18690,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "bluee, i must be a squirrel because i'm nuts for you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956210",
+    "type": "public",
+    "date": "6/06 20:05",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Runefaust fire version",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956211",
+    "type": "public",
+    "date": "6/06 20:05",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNWw1aGlwdmhkaGNvdGVmanZ0MzkwcXUwaHp4eDhmdjZzMTlwdTJ1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
