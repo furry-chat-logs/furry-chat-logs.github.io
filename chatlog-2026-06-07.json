@@ -23252,5 +23252,35 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I seem to be stuck in Space Marine mode",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959173",
+    "type": "public",
+    "date": "7/06 18:09",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "I LOVE IT HEWE hehe",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959174",
+    "type": "public",
+    "date": "7/06 18:09",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Spectre_protogen Hiiiii",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959175",
+    "type": "public",
+    "date": "7/06 18:09",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Smiley so the cant talk normally?",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
