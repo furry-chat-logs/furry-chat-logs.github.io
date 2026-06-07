@@ -16780,5 +16780,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "im on 6-8 different sites sadly",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958520",
+    "type": "public",
+    "date": "7/06 16:05",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "maybe go talk to some real people",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
