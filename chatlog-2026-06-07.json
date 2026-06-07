@@ -10742,5 +10742,15 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957914",
+    "type": "public",
+    "date": "7/06 13:10",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": ":3",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
