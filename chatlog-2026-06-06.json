@@ -18410,5 +18410,15 @@
     "userClasses": "username bgrad39 bnfont9",
     "message": "blows up pancakes with mind",
     "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956181",
+    "type": "public",
+    "date": "6/06 19:59",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Blows up mind with pancakes",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
