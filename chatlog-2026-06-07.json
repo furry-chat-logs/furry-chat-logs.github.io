@@ -9592,5 +9592,15 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "very vibrant today",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7957799",
+    "type": "public",
+    "date": "7/06 12:09",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Who's bugbite?",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
