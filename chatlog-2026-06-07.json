@@ -23202,5 +23202,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[neutral]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7959168",
+    "type": "public",
+    "date": "7/06 18:09",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "By the emperor....",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959169",
+    "type": "public",
+    "date": "7/06 18:09",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "RuffRuffRobyn *throws a stick.*",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
