@@ -4966,5 +4966,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Spectre_protogen not minakraft 😭",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957335",
+    "type": "public",
+    "date": "7/06 6:38",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "error - 273. Unexpected access detected.",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
