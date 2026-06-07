@@ -18030,5 +18030,15 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "I just burnt my eggs💔",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956142",
+    "type": "public",
+    "date": "6/06 19:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "[runefaust]",
+    "msgClasses": "chat_message "
   }
 ]
