@@ -18768,5 +18768,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "?",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7958721",
+    "type": "public",
+    "date": "7/06 17:09",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "wheres zon",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958722",
+    "type": "public",
+    "date": "7/06 17:09",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Ch3rry_Drop a partial suit",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958723",
+    "type": "public",
+    "date": "7/06 17:09",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "No",
+    "msgClasses": "chat_message bneon9"
   }
 ]
