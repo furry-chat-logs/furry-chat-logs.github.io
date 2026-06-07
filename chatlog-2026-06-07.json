@@ -6466,5 +6466,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "mornnin",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957485",
+    "type": "public",
+    "date": "7/06 9:41",
+    "username": "drammy",
+    "userId": "37246",
+    "userClasses": "username bgrad5 bnfont14",
+    "message": "hello everyone",
+    "msgClasses": "chat_message bgrad5 bold bfont14"
   }
 ]
