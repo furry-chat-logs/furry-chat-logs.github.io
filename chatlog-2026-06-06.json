@@ -20860,5 +20860,25 @@
     "userClasses": "username user ",
     "message": "The hoa is coming for you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956428",
+    "type": "public",
+    "date": "6/06 21:16",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Your lawn is not trimmed",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956429",
+    "type": "public",
+    "date": "6/06 21:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHRqaHhhY2ZvOG93N2lwZTFxMm5rYmFibXhnNm95NHYwazh2NWE5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hv53DaYcXWe3nRbR1A/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
