@@ -19400,5 +19400,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "Runefaust I'd only delete part of the universe",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956281",
+    "type": "public",
+    "date": "6/06 20:13",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Runefaust This.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956282",
+    "type": "public",
+    "date": "6/06 20:13",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*parts",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
