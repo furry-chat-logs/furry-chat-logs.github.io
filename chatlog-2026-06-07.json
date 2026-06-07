@@ -1056,5 +1056,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Evelyn1 (just)",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7956944",
+    "type": "public",
+    "date": "7/06 0:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_4d4b2ceafcdb.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956945",
+    "type": "public",
+    "date": "7/06 0:58",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Mdekoni lol but to make up for it im eating like 20 pancales now",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
