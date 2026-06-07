@@ -17750,5 +17750,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "You would not believe it.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7958617",
+    "type": "public",
+    "date": "7/06 16:49",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "Frogmin is my biggest role model guys",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
