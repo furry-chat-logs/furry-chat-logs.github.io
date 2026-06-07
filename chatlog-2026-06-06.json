@@ -18600,5 +18600,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "The Nephalem nah",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7956201",
+    "type": "public",
+    "date": "6/06 20:03",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Runefaust dies*",
+    "msgClasses": "chat_message "
   }
 ]
