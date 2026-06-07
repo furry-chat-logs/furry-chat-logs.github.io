@@ -7984,5 +7984,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "People say that drinking is a sin but yet there's wine",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957638",
+    "type": "public",
+    "date": "7/06 11:05",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I'm not religious tbh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957639",
+    "type": "public",
+    "date": "7/06 11:05",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "And they say that smoking is a sin But there's not a single thing in the bible that says anything about smoking being a sin",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
