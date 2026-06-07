@@ -18818,5 +18818,35 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "i feel like im too young to understand the world",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958726",
+    "type": "public",
+    "date": "7/06 17:10",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Ch3rry_Drop its a horse",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958727",
+    "type": "public",
+    "date": "7/06 17:10",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Evelyn1 happnes",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958728",
+    "type": "public",
+    "date": "7/06 17:10",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Ur literally so old Evelyn1",
+    "msgClasses": "chat_message bneon9"
   }
 ]
