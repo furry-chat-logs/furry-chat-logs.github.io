@@ -24180,5 +24180,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Where's my Kurtis? :(",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7956765",
+    "type": "public",
+    "date": "6/06 23:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Does that say Kirk",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
