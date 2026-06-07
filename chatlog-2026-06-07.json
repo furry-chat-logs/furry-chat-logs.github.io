@@ -14590,5 +14590,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "It's so easy",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958301",
+    "type": "public",
+    "date": "7/06 15:22",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Like a Parasitic organism.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
