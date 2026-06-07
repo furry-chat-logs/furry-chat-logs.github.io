@@ -20858,5 +20858,13 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "misha wanna hear a secret",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958931",
+    "type": "system",
+    "date": "7/06 17:38",
+    "username": "System",
+    "userId": null,
+    "message": "misha has been kicked"
   }
 ]
