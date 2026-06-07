@@ -3606,5 +3606,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "popstxr_sonic sega",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957199",
+    "type": "public",
+    "date": "7/06 2:07",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Cocomelon drove them cuckoo-crazy.",
+    "msgClasses": "chat_message ital"
   }
 ]
