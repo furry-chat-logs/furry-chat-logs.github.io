@@ -13182,5 +13182,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Destined to",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958160",
+    "type": "public",
+    "date": "7/06 15:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "...",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958161",
+    "type": "public",
+    "date": "7/06 15:08",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "What did i just come in too",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958162",
+    "type": "public",
+    "date": "7/06 15:08",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Ehh?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
