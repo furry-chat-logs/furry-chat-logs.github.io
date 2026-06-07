@@ -7654,5 +7654,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Probably I'm Just tired",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7957605",
+    "type": "public",
+    "date": "7/06 10:59",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "You better catch up on sleep",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
