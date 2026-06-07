@@ -18610,5 +18610,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Runefaust dies*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956202",
+    "type": "public",
+    "date": "6/06 20:04",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "hey i just met you",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
