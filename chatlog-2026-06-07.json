@@ -2586,5 +2586,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXRhZG1pOWs3MXZuZmxvMzB1MmQwcDlyd3hucHpnaHh3Zzh1amFsdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4hchT0ykGCVDW/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957097",
+    "type": "public",
+    "date": "7/06 1:49",
+    "username": "punkstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon15 bnfont15",
+    "message": "joke of the year?",
+    "msgClasses": "chat_message bneon17 ital bfont12"
+  },
+  {
+    "id": "7957098",
+    "type": "public",
+    "date": "7/06 1:49",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ig",
+    "msgClasses": "chat_message bneon14"
   }
 ]
