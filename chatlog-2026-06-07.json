@@ -3726,5 +3726,25 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "Mdekoni and u think I wanna talk with u?",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957211",
+    "type": "public",
+    "date": "7/06 2:09",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "popstxr_sonic aww man",
+    "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957212",
+    "type": "public",
+    "date": "7/06 2:09",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Issa GYAAA",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
