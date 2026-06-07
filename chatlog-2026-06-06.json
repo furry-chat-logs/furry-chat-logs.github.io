@@ -21940,5 +21940,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_4bce53ff5f2a.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956536",
+    "type": "public",
+    "date": "6/06 21:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "YAISSOPH mentioned",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956537",
+    "type": "public",
+    "date": "6/06 21:50",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "❤️‍🩹",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
