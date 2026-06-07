@@ -3186,5 +3186,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Ashton McKennan bye👋",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957157",
+    "type": "public",
+    "date": "7/06 1:57",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_b363e7dd7532.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957158",
+    "type": "public",
+    "date": "7/06 1:57",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "[good]",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
