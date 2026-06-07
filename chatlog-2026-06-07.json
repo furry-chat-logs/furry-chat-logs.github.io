@@ -20238,5 +20238,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "misha HELLO?",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958868",
+    "type": "public",
+    "date": "7/06 17:32",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Spoke hai",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7958869",
+    "type": "public",
+    "date": "7/06 17:32",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "i beg your FINEST pardon",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
