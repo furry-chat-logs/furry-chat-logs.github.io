@@ -8404,5 +8404,15 @@
     "userClasses": "username user ",
     "message": "I'll read more",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957680",
+    "type": "public",
+    "date": "7/06 11:11",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "And we don't fucking need to hear gods word",
+    "msgClasses": "chat_message bneon19"
   }
 ]
