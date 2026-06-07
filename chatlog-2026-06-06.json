@@ -17960,5 +17960,15 @@
     "userClasses": "username bneon18 ",
     "message": "Runefaust [kiss4]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956135",
+    "type": "public",
+    "date": "6/06 19:51",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "bunnies and rabbits are scary",
+    "msgClasses": "chat_message "
   }
 ]
