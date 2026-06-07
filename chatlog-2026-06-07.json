@@ -6984,5 +6984,15 @@
     "username": "System",
     "userId": null,
     "message": "Marten has been kicked"
+  },
+  {
+    "id": "7957538",
+    "type": "public",
+    "date": "7/06 10:35",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Dredger I want there to be a Blade and Sorcery Mod that makes everything DND",
+    "msgClasses": "chat_message bneon19"
   }
 ]
