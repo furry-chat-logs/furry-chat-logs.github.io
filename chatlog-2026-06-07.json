@@ -5166,5 +5166,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "<DATA-REBOOT> Spectre_protogen",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957355",
+    "type": "public",
+    "date": "7/06 6:50",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "code: x3MNOXY",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
