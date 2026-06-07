@@ -14630,5 +14630,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "...",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958305",
+    "type": "public",
+    "date": "7/06 15:23",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Or Pretend to be happy. I do it all the time it works tbh SoraTheMikuFan",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958306",
+    "type": "public",
+    "date": "7/06 15:23",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "Numm Bug thought that said smthn else..",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
