@@ -8814,5 +8814,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "What do you think about that?",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957721",
+    "type": "public",
+    "date": "7/06 11:15",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "It's not that big of a deal",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957722",
+    "type": "public",
+    "date": "7/06 11:15",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Uwubunny444 didn't ask you",
+    "msgClasses": "chat_message bneon19"
   }
 ]
