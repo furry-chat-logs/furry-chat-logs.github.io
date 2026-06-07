@@ -21360,5 +21360,15 @@
     "userClasses": "username user ",
     "message": "Leeland what flavor of tea do you want greentea,watermelon, sweet tea, grape tea, dark tea, berry tea, or just very bland tea",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956478",
+    "type": "public",
+    "date": "6/06 21:25",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_f94c76b38ba2.gif]",
+    "msgClasses": "chat_message "
   }
 ]
