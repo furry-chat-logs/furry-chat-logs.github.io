@@ -21770,5 +21770,15 @@
     "userClasses": "username user ",
     "message": "Its ok theres nothing wrong with that",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956519",
+    "type": "public",
+    "date": "6/06 21:41",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdHlzem0wd2Q4aDJsY29xN2ljbHJseXVsY242bnRhandkY3I4bmhrZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qe2DMhaP23jBZiS8sz/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
