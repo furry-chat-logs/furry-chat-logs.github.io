@@ -22040,5 +22040,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_24b27ac02d68.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956547",
+    "type": "public",
+    "date": "6/06 22:00",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZXBtb3luemc0MnBiY2RqMzU1dDR1ZnRpcnJsOXRqODhldWwyZGNxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXgjY2JxefDFavfZnP/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
