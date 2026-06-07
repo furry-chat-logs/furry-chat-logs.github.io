@@ -7084,5 +7084,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "He has confirmed to follow them all",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957548",
+    "type": "public",
+    "date": "7/06 10:40",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "He didn't do anything bad soo",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957549",
+    "type": "public",
+    "date": "7/06 10:40",
+    "username": "Dredger",
+    "userId": "37573",
+    "userClasses": "username user ",
+    "message": "QueenKit what im kinda hoping for is a full dwarf party that plays on my server xD",
+    "msgClasses": "chat_message "
   }
 ]
