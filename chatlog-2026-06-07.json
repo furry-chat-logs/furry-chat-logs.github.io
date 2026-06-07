@@ -6406,5 +6406,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Hey chat",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957479",
+    "type": "public",
+    "date": "7/06 9:27",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
