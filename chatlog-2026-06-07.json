@@ -486,5 +486,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "hihihih",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7956886",
+    "type": "public",
+    "date": "7/06 0:48",
+    "username": "feminineboiii12345",
+    "userId": "37566",
+    "userClasses": "username user ",
+    "message": "im new...",
+    "msgClasses": "chat_message "
   }
 ]
