@@ -21290,5 +21290,25 @@
     "userClasses": "username user ",
     "message": "Don't worry i got milos tea to quench your thirst",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956471",
+    "type": "public",
+    "date": "6/06 21:23",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon19 bnfont11",
+    "message": "LMAO",
+    "msgClasses": "chat_message bneon18 heavyital bfont3"
+  },
+  {
+    "id": "7956472",
+    "type": "public",
+    "date": "6/06 21:23",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Uwubunny444 milos tea IS fire",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
