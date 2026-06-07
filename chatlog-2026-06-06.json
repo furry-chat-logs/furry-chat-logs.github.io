@@ -19600,5 +19600,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "are you a triangle? because you're acute one",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956301",
+    "type": "public",
+    "date": "6/06 20:16",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "bluee left",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956302",
+    "type": "public",
+    "date": "6/06 20:16",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": "The Nephalem [skull]",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
