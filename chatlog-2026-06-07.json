@@ -13522,5 +13522,25 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "no remington retirement plan ok?",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7958194",
+    "type": "public",
+    "date": "7/06 15:10",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Rest in peace my grannyyy",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958195",
+    "type": "public",
+    "date": "7/06 15:10",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "WHAT AM I DOINGGG",
+    "msgClasses": "chat_message bneon14"
   }
 ]
