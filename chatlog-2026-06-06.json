@@ -17330,5 +17330,15 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "How you guys get color text?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956072",
+    "type": "public",
+    "date": "6/06 19:30",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "you need special VIP i think",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
   }
 ]
