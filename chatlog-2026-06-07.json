@@ -17130,5 +17130,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "I wasn't toxic",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7958555",
+    "type": "public",
+    "date": "7/06 16:16",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Not saying you were",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7958556",
+    "type": "public",
+    "date": "7/06 16:16",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Spectre_protogen not you, the predator",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
