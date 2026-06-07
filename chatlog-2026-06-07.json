@@ -9134,5 +9134,25 @@
     "userClasses": "username bcolor9 bnfont15",
     "message": "Whats the skull emote?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957753",
+    "type": "public",
+    "date": "7/06 11:19",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Heheheheheh hes too cure for an alien rock",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957754",
+    "type": "public",
+    "date": "7/06 11:19",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Awww project hail mary",
+    "msgClasses": "chat_message "
   }
 ]
