@@ -18200,5 +18200,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "*kids",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958662",
+    "type": "public",
+    "date": "7/06 17:00",
+    "username": "Data",
+    "userId": "2",
+    "userClasses": "username bneon9 bnfont7",
+    "message": "This room has been cleared by Frogmin",
+    "msgClasses": "chat_message chat_system"
+  },
+  {
+    "id": "7958663",
+    "type": "public",
+    "date": "7/06 17:00",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Hello Misha!",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
