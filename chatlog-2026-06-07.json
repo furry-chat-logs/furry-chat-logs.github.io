@@ -936,5 +936,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Max4552 reading a book.",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7956931",
+    "type": "public",
+    "date": "7/06 0:55",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Nice to know Carter has common sense",
+    "msgClasses": "chat_message bneon19"
   }
 ]
