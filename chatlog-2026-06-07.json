@@ -13780,5 +13780,25 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "This post has been marked as spam",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7958220",
+    "type": "public",
+    "date": "7/06 15:13",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm a horrible person ain't I",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958221",
+    "type": "public",
+    "date": "7/06 15:13",
+    "username": "Meep",
+    "userId": "33413",
+    "userClasses": "username bneon4 bnfont3",
+    "message": "Bergindine oh- Yay =D",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
