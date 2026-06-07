@@ -7634,5 +7634,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Ashton McKennan I know, it's too much imo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957603",
+    "type": "public",
+    "date": "7/06 10:58",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Oh no!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957604",
+    "type": "public",
+    "date": "7/06 10:58",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Probably I'm Just tired",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
