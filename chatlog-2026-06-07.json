@@ -276,5 +276,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYmdlYm1uZDY2MjQwMjUzMGJnZ2lhMDdqOW1zdGlva2FxMXpvZW40cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nry46O07xcwE/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956865",
+    "type": "public",
+    "date": "7/06 0:20",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Bye.",
+    "msgClasses": "chat_message ital"
   }
 ]
