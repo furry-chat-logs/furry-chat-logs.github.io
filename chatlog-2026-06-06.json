@@ -19770,5 +19770,25 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "Bye guysss",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956318",
+    "type": "public",
+    "date": "6/06 20:20",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "bye",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956319",
+    "type": "public",
+    "date": "6/06 20:20",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Pomleafy bye",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
