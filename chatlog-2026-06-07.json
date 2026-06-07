@@ -14670,5 +14670,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I can't talk to ppl",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958309",
+    "type": "public",
+    "date": "7/06 15:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm fuckin terrified",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958310",
+    "type": "public",
+    "date": "7/06 15:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's so loud",
+    "msgClasses": "chat_message bneon14"
   }
 ]
