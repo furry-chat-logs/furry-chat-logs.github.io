@@ -7384,5 +7384,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Planet that seems like negligence on the waterparks side, you should have water fountains especially in summer",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957578",
+    "type": "public",
+    "date": "7/06 10:47",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "no outside food or drink btw",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
