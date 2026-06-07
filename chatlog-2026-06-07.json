@@ -5396,5 +5396,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Well oka",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7957378",
+    "type": "public",
+    "date": "7/06 7:00",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im waitin in the Train",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
