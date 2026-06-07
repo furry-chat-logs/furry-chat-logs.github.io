@@ -15860,5 +15860,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Awww",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958428",
+    "type": "public",
+    "date": "7/06 15:38",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcnZ5cXk2aWQwMjZxcnVqaWZvZzVwa2RrdjhuZzZ6eWlhcXU0bDQ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2Ay8nTk87Xl2kjlcNc/giphy.gif]",
+    "msgClasses": "chat_message bneon19"
   }
 ]
