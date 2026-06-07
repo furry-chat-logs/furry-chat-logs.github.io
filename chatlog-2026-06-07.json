@@ -5276,5 +5276,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "<update-confirmation-needed>",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957366",
+    "type": "public",
+    "date": "7/06 6:57",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Version NO. 16.09.887.9",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
