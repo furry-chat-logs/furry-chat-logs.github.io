@@ -8454,5 +8454,35 @@
     "userClasses": "username user ",
     "message": "Ashton McKennan nah its ok i will",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957685",
+    "type": "public",
+    "date": "7/06 11:12",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "The big beautiful ignore button QueenKit",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957686",
+    "type": "public",
+    "date": "7/06 11:12",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Beside i need to start reading anyway",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957687",
+    "type": "public",
+    "date": "7/06 11:12",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "QueenKit just block them like you’ve done 90% of us if you don’t wanna hear them",
+    "msgClasses": "chat_message "
   }
 ]
