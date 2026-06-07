@@ -7814,5 +7814,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "I never really got the idea of religion",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7957621",
+    "type": "public",
+    "date": "7/06 11:02",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Let alone that I took my medicine",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
