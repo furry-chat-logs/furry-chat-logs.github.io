@@ -21190,5 +21190,15 @@
     "userClasses": "username user ",
     "message": "Like your in the bunkers",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956461",
+    "type": "public",
+    "date": "6/06 21:21",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37226_d9957532e914.png]",
+    "msgClasses": "chat_message "
   }
 ]
