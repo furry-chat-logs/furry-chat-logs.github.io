@@ -8184,5 +8184,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I believe between the 2 Deimos",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957658",
+    "type": "public",
+    "date": "7/06 11:09",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Bruh",
+    "msgClasses": "chat_message bneon19"
   }
 ]
