@@ -19250,5 +19250,45 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yall see what my friend sent me",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7956266",
+    "type": "public",
+    "date": "6/06 20:12",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Startrek",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956267",
+    "type": "public",
+    "date": "6/06 20:12",
+    "username": "bluee",
+    "userId": "31220",
+    "userClasses": "username bgrad39 bnfont9",
+    "message": "its a serenaaaa",
+    "msgClasses": "chat_message bgrad39 heavyital bfont9"
+  },
+  {
+    "id": "7956268",
+    "type": "public",
+    "date": "6/06 20:12",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_15a02761d716.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956269",
+    "type": "public",
+    "date": "6/06 20:12",
+    "username": "Runefaust",
+    "userId": "19750",
+    "userClasses": "username bneon3 bnfont6",
+    "message": ".",
+    "msgClasses": "chat_message bneon3 heavyital bfont6"
   }
 ]
