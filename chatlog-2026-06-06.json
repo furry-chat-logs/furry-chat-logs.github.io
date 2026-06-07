@@ -23480,5 +23480,25 @@
     "userClasses": "username user ",
     "message": "Spectre_protogen what is this",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956694",
+    "type": "public",
+    "date": "6/06 22:40",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Cyn",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956695",
+    "type": "public",
+    "date": "6/06 22:40",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "singing",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
