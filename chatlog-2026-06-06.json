@@ -22870,5 +22870,35 @@
     "userClasses": "username user ",
     "message": "Turns out the nightquil tactic doesn't work",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956631",
+    "type": "public",
+    "date": "6/06 22:26",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Uwubunny444 dang",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7956632",
+    "type": "public",
+    "date": "6/06 22:26",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "Ive read about on youtube",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956633",
+    "type": "public",
+    "date": "6/06 22:26",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove] HABSHDHADSVJ-",
+    "msgClasses": "chat_message ital"
   }
 ]
