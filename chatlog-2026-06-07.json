@@ -5516,5 +5516,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "There we go!",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957390",
+    "type": "public",
+    "date": "7/06 7:04",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Welcome back my friend",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957391",
+    "type": "public",
+    "date": "7/06 7:04",
+    "username": "SBB",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Are u using Arduino to run???",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
