@@ -14870,5 +14870,35 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37226_54d83f81e102.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958329",
+    "type": "public",
+    "date": "7/06 15:26",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "this chat frfr",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958330",
+    "type": "public",
+    "date": "7/06 15:26",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Evelyn1 ok I admit its nice.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958331",
+    "type": "public",
+    "date": "7/06 15:26",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "lol",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
