@@ -17790,5 +17790,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I wanna be just like him when I grow up",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7958621",
+    "type": "public",
+    "date": "7/06 16:50",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Frogmin Oop",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7958622",
+    "type": "public",
+    "date": "7/06 16:50",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "QueenKit literally",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
