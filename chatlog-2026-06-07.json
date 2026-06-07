@@ -2116,5 +2116,15 @@
     "userClasses": "username bneon15 bnfont15",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8914_6aa68681263a.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957050",
+    "type": "public",
+    "date": "7/06 1:39",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "this plot is getting harder and harder to follow",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
