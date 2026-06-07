@@ -22520,5 +22520,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Sigh",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7956596",
+    "type": "public",
+    "date": "6/06 22:15",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7956597",
+    "type": "public",
+    "date": "6/06 22:15",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Shiryudatoasterderg real",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
