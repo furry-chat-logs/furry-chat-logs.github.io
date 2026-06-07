@@ -24482,5 +24482,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "18 and life",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959297",
+    "type": "public",
+    "date": "7/06 18:58",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "i draduate in 2 years",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
