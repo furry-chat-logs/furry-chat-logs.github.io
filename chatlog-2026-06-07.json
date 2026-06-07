@@ -8654,5 +8654,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "You're kind of a bitch NGL",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957705",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "QueenKit hey man don't be like that",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957706",
+    "type": "public",
+    "date": "7/06 11:14",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I don't care what you think about me",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
