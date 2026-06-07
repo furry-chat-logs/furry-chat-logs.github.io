@@ -10122,5 +10122,25 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "popstxr_sonic real",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7957852",
+    "type": "public",
+    "date": "7/06 12:49",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "Meep same person who talks shit about me btw",
+    "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957853",
+    "type": "public",
+    "date": "7/06 12:49",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I need to use the photo to import in Clip Studio Pro, and then I trace the lines I drew on paper so it's lineart, then I need to color it and shade it",
+    "msgClasses": "chat_message bneon19"
   }
 ]
