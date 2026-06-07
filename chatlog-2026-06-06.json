@@ -22990,5 +22990,25 @@
     "userClasses": "username user ",
     "message": "The hell is voidquil",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956643",
+    "type": "public",
+    "date": "6/06 22:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZWcxdmhyMGF2ejVzejhnb2dsY2psbjY4cXdoMTI2YmYwOXo0N2h6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n3Sdfo0L5qQHt8cv7O/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956644",
+    "type": "public",
+    "date": "6/06 22:29",
+    "username": "Uwubunny444",
+    "userId": "36911",
+    "userClasses": "username user ",
+    "message": "It sounds like death to me",
+    "msgClasses": "chat_message "
   }
 ]
