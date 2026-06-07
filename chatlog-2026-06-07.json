@@ -7294,5 +7294,25 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "2 bucks for WATER",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7957569",
+    "type": "public",
+    "date": "7/06 10:44",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Jesus",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957570",
+    "type": "public",
+    "date": "7/06 10:44",
+    "username": "popstxr_sonic",
+    "userId": "8914",
+    "userClasses": "username bneon13 bnfont15",
+    "message": "excuse me?",
+    "msgClasses": "chat_message bneon15 ital bfont12"
   }
 ]
