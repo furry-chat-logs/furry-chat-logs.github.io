@@ -5906,5 +5906,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Meet me in the PM's",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957429",
+    "type": "public",
+    "date": "7/06 7:17",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Sol_Aizawa resting my bock allot latly",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
