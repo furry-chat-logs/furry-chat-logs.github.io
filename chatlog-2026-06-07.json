@@ -12842,5 +12842,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "popstxr_sonic you act just like her, you hurt people just like her, you’re just like Scream n Shout. Almost a carbon copy.",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7958126",
+    "type": "public",
+    "date": "7/06 15:02",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "What's Happening now ?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
