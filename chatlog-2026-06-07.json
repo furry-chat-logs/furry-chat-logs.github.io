@@ -7934,5 +7934,25 @@
     "userClasses": "username bneon18 ",
     "message": "Brb, I'm going to be busy today.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7957633",
+    "type": "public",
+    "date": "7/06 11:05",
+    "username": "Deimos",
+    "userId": "24440",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "You should see Twitter then.",
+    "msgClasses": "chat_message bgrad22 heavybold bfont8"
+  },
+  {
+    "id": "7957634",
+    "type": "public",
+    "date": "7/06 11:05",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Damn straight Smiley",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
