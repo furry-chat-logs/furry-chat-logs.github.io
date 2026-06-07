@@ -3366,5 +3366,15 @@
     "userClasses": "username bneon13 bnfont15",
     "message": "plus black panther is a buns hero",
     "msgClasses": "chat_message bneon15 ital bfont12"
+  },
+  {
+    "id": "7957175",
+    "type": "public",
+    "date": "7/06 2:00",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": ".",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
