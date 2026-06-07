@@ -17640,5 +17640,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "Cammy today but 2 years ago you created this furrychat account",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7958606",
+    "type": "public",
+    "date": "7/06 16:40",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "OH",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7958607",
+    "type": "public",
+    "date": "7/06 16:40",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "REALLY?",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
