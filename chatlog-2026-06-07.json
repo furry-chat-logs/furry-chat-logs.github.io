@@ -11892,5 +11892,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Meep I am-",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958029",
+    "type": "public",
+    "date": "7/06 14:25",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Pluh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7958030",
+    "type": "public",
+    "date": "7/06 14:25",
+    "username": "SeriousPhoenix457",
+    "userId": "37577",
+    "userClasses": "username user ",
+    "message": "Yall furries",
+    "msgClasses": "chat_message "
   }
 ]
