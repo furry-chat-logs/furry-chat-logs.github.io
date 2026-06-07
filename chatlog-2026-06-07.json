@@ -16600,5 +16600,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "Evelyn1 sure!",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7958502",
+    "type": "public",
+    "date": "7/06 15:56",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "okayy just wait a minute",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
