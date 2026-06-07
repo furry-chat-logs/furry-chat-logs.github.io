@@ -18110,5 +18110,15 @@
     "userClasses": "username bcolor18 bnfont10",
     "message": "What did that",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956150",
+    "type": "public",
+    "date": "6/06 19:54",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I just spent nearly 1000 coins on emojis",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
