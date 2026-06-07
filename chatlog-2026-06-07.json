@@ -11712,5 +11712,25 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "OwO",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7958011",
+    "type": "public",
+    "date": "7/06 14:14",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "AHH",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7958012",
+    "type": "public",
+    "date": "7/06 14:14",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "should i be scared",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
