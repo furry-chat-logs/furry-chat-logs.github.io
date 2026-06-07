@@ -20718,5 +20718,15 @@
     "userClasses": "username user ",
     "message": "Alr blud",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958917",
+    "type": "public",
+    "date": "7/06 17:36",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "SilverXD no /j",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
