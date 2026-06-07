@@ -23402,5 +23402,35 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "Frogmin ribbit",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7959188",
+    "type": "public",
+    "date": "7/06 18:11",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "*experienced",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7959189",
+    "type": "public",
+    "date": "7/06 18:11",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "I was cwazy once",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959190",
+    "type": "public",
+    "date": "7/06 18:11",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[ohare]",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
