@@ -19838,5 +19838,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "0NOMOREINNOCENCE0 said he hates gays",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958828",
+    "type": "public",
+    "date": "7/06 17:26",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Spoke when",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7958829",
+    "type": "public",
+    "date": "7/06 17:26",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "?",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
