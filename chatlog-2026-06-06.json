@@ -21490,5 +21490,15 @@
     "userClasses": "username user ",
     "message": "Conquest",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956491",
+    "type": "public",
+    "date": "6/06 21:30",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Johnny test",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
