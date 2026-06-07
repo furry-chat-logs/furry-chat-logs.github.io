@@ -22350,5 +22350,15 @@
     "userClasses": "username user ",
     "message": "Sometimes you gotta rob someone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956579",
+    "type": "public",
+    "date": "6/06 22:09",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "wut",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
