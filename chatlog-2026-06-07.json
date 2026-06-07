@@ -5916,5 +5916,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Sol_Aizawa resting my bock allot latly",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957430",
+    "type": "public",
+    "date": "7/06 7:17",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Ashton McKennan oki",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
