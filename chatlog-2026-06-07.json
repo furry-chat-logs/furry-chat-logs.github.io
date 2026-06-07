@@ -21852,5 +21852,15 @@
     "username": "System",
     "userId": null,
     "message": "StupidRobyn has been kicked"
+  },
+  {
+    "id": "7959031",
+    "type": "public",
+    "date": "7/06 17:49",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Data hi",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
