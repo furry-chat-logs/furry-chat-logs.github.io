@@ -14690,5 +14690,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "It's so loud",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958311",
+    "type": "public",
+    "date": "7/06 15:23",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Spoke what Exactly friend ???",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7958312",
+    "type": "public",
+    "date": "7/06 15:23",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Too loud",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7958313",
+    "type": "public",
+    "date": "7/06 15:23",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeWU3dmx1cXdkZjZxZGFjM3R2a3QzbTFncjJ3NTFleDF0c2ZleHF5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
+    "msgClasses": "chat_message bneon19 ital bfont12"
   }
 ]
