@@ -9802,5 +9802,15 @@
     "userClasses": "username bneon4 bnfont3",
     "message": "Sends popstxr_sonic to Dagestan",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7957820",
+    "type": "public",
+    "date": "7/06 12:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[skull]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
