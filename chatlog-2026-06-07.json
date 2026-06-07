@@ -2036,5 +2036,15 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "punkstxr_sonic hi",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7957042",
+    "type": "public",
+    "date": "7/06 1:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I don't want to talk about it now, I'll talk about it whenever I want TO talk about it. [toro]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
