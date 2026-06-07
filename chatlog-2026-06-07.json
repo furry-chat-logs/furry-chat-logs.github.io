@@ -6776,5 +6776,15 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "bat lycanroc pov",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7957516",
+    "type": "public",
+    "date": "7/06 10:28",
+    "username": "bat",
+    "userId": "33261",
+    "userClasses": "username user ",
+    "message": "i am lycanroc can confirm",
+    "msgClasses": "chat_message "
   }
 ]
