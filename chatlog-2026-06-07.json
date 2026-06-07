@@ -9334,5 +9334,15 @@
     "userClasses": "username user ",
     "message": "Ashton McKennan ok great",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957773",
+    "type": "public",
+    "date": "7/06 11:22",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "MrHyde31 VIP",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
