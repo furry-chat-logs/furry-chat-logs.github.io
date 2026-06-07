@@ -20886,5 +20886,35 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Spoke still a frog lol",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7958934",
+    "type": "public",
+    "date": "7/06 17:38",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Im next",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958935",
+    "type": "public",
+    "date": "7/06 17:38",
+    "username": "StupidRobyn",
+    "userId": "37578",
+    "userClasses": "username user ",
+    "message": "Guys",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958936",
+    "type": "public",
+    "date": "7/06 17:38",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "alr guess not",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
