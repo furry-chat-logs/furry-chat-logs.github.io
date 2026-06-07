@@ -18460,5 +18460,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Runefaust *dies from fear*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7956186",
+    "type": "public",
+    "date": "6/06 20:00",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "QueenKit gonna set my phone ringtone and alarms to the cloaker warble",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
