@@ -20438,5 +20438,35 @@
     "userClasses": "username user ",
     "message": "I got bored",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7958888",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "tf is going on",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7958889",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "Spoke",
+    "userId": "25944",
+    "userClasses": "username bgrad1 bnfont3",
+    "message": "QueenMoon im sorry omg😭",
+    "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958890",
+    "type": "public",
+    "date": "7/06 17:34",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "StupidRobyn you're not a bitch btw",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
