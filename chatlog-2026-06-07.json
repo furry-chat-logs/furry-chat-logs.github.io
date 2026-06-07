@@ -8314,5 +8314,45 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "QueenKit not forcing, discussing",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7957671",
+    "type": "public",
+    "date": "7/06 11:10",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Read Leviticus Uwubunny444",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957672",
+    "type": "public",
+    "date": "7/06 11:10",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Or even none at all",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7957673",
+    "type": "public",
+    "date": "7/06 11:10",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It says it all right in there",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7957674",
+    "type": "public",
+    "date": "7/06 11:10",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I don't know what's going on honestly",
+    "msgClasses": "chat_message "
   }
 ]
