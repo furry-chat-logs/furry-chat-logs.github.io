@@ -17950,5 +17950,25 @@
     "userClasses": "username bgrad1 bnfont3",
     "message": "we all growing up to be just like Frogmin",
     "msgClasses": "chat_message bneon19 ital bfont12"
+  },
+  {
+    "id": "7958637",
+    "type": "public",
+    "date": "7/06 16:54",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "Spoke nah",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7958638",
+    "type": "public",
+    "date": "7/06 16:54",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "my fav game rn is a browser game about a frog and food",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
