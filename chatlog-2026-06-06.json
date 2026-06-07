@@ -17070,5 +17070,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNzI4MWxkdG1uZ3BtbW04ZGRkOTRyYWN5ZXQyazRoMTR6cTN0NjlqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lR1FLeDcZlFTHJo3zq/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956046",
+    "type": "public",
+    "date": "6/06 19:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Kills Issa",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7956047",
+    "type": "public",
+    "date": "6/06 19:20",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNHRzdmI0ZmdpdmI5aTJha3Q1NDNveTU2ZXNpdnRxdDdqMzdwMGYydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pldlTsJkifRYY/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
