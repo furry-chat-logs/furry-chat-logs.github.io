@@ -3126,5 +3126,35 @@
     "userClasses": "username bneon18 ",
     "message": "popstxr_sonic It's time for the wonderful ABCs again.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7957151",
+    "type": "public",
+    "date": "7/06 1:56",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMzdieXg5eWthdDBibmtidGJmaHFvYWs3cHB1MnlwYnl3ejNjaTJidiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0GznKQsfVsEzHNElzm/giphy.gif]",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7957152",
+    "type": "public",
+    "date": "7/06 1:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "popstxr_sonic say your Wakanda chant",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7957153",
+    "type": "public",
+    "date": "7/06 1:56",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I'm not staying",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
