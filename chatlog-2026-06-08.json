@@ -4204,5 +4204,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "H-hewwo~ E >///<",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960254",
+    "type": "public",
+    "date": "8/06 11:18",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMnY5dTg2bDV3Z3Rnd2FjYTRpMTZoNXZvanV3dDdjOHdnNTcwMmdrZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B6HJmnVSxnn7TCPxmR/giphy.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960255",
+    "type": "public",
+    "date": "8/06 11:18",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "ELEPME?",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
