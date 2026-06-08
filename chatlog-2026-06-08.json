@@ -10474,5 +10474,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "QueenMoon I can come up with alot",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960899",
+    "type": "public",
+    "date": "8/06 13:32",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Lmao",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
