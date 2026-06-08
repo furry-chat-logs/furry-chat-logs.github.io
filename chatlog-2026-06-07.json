@@ -26756,5 +26756,25 @@
     "userClasses": "username bneon19 bnfont6",
     "message": "u gotta verify",
     "msgClasses": "chat_message bgrad10  bfont11"
+  },
+  {
+    "id": "7959530",
+    "type": "public",
+    "date": "7/06 21:10",
+    "username": "absurdfurry",
+    "userId": "30116",
+    "userClasses": "username bneon19 bnfont6",
+    "message": "by phone",
+    "msgClasses": "chat_message bgrad10  bfont11"
+  },
+  {
+    "id": "7959531",
+    "type": "public",
+    "date": "7/06 21:10",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "i dont have one",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
   }
 ]
