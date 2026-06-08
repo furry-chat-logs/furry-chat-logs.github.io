@@ -28986,5 +28986,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Buggo tell glorbo to save some for me",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959753",
+    "type": "public",
+    "date": "7/06 22:37",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "EagleEdge | Do you already have RAM?",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
