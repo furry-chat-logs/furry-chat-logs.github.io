@@ -12504,5 +12504,35 @@
     "userClasses": "username bcolor32 ",
     "message": "ZIBZI thanks",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961102",
+    "type": "public",
+    "date": "8/06 14:06",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "NotAWarlock how?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961103",
+    "type": "public",
+    "date": "8/06 14:06",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "\"i have the power of friendship\" ahh",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961104",
+    "type": "public",
+    "date": "8/06 14:06",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "NotAWarlock fuck Warlocks",
+    "msgClasses": "chat_message bneon19"
   }
 ]
