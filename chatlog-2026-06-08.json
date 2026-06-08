@@ -17234,5 +17234,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "*purrs* misha yesh baby x3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961577",
+    "type": "public",
+    "date": "8/06 17:04",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "RuffRuffRobyn gay",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7961578",
+    "type": "public",
+    "date": "8/06 17:04",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "kiss kiss",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
