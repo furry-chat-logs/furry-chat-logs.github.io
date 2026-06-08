@@ -10504,5 +10504,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Lmao",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7960902",
+    "type": "public",
+    "date": "8/06 13:32",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Spectre_protogen you sound so British I'm questioning if you are the physical embodiment of the stereotyped",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960903",
+    "type": "public",
+    "date": "8/06 13:32",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "(Your mood btw)",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7960904",
+    "type": "public",
+    "date": "8/06 13:32",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "I think i like furry women",
+    "msgClasses": "chat_message "
   }
 ]
