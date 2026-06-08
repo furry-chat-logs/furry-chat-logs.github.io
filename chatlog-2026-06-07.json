@@ -24752,5 +24752,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Extremely tired",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959324",
+    "type": "public",
+    "date": "7/06 19:16",
+    "username": "Imlonely",
+    "userId": "37581",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "Oof",
+    "msgClasses": "chat_message "
   }
 ]
