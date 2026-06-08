@@ -28716,5 +28716,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "Overpriced Gigabyte motherboard, 1 TB Gen 5 Nvme.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959726",
+    "type": "public",
+    "date": "7/06 22:31",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Because 2 TB is $500.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
