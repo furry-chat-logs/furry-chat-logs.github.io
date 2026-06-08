@@ -13914,5 +13914,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Brb",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961243",
+    "type": "public",
+    "date": "8/06 14:35",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Derikgodzilla18 I hope a murder hornet stings you 27 times.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961244",
+    "type": "public",
+    "date": "8/06 14:35",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "QueenKit focus on your boyfriend please not me",
+    "msgClasses": "chat_message "
   }
 ]
