@@ -28836,5 +28836,35 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "I honestly can't recommend any Nvidia cards right now.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959738",
+    "type": "public",
+    "date": "7/06 22:34",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "i got a 760 gtx i beleive",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959739",
+    "type": "public",
+    "date": "7/06 22:34",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Yall are talking abt a lot of stuff i dont understand",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7959740",
+    "type": "public",
+    "date": "7/06 22:34",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "lemme check",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
