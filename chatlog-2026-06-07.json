@@ -27716,5 +27716,25 @@
     "userClasses": "username bneon19 bnfont7",
     "message": "I've tried before was stopping me now",
     "msgClasses": "chat_message bcolor19 heavyital bfont1"
+  },
+  {
+    "id": "7959626",
+    "type": "public",
+    "date": "7/06 21:49",
+    "username": "Luna444",
+    "userId": "35510",
+    "userClasses": "username bneon19 bnfont7",
+    "message": "[bigsmile]",
+    "msgClasses": "chat_message bcolor19 heavyital bfont1"
+  },
+  {
+    "id": "7959627",
+    "type": "public",
+    "date": "7/06 21:49",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "QueenMoon why",
+    "msgClasses": "chat_message "
   }
 ]
