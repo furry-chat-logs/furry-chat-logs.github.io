@@ -6104,5 +6104,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user11758_6d6d7a26f4ed.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960444",
+    "type": "public",
+    "date": "8/06 12:03",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user11758_d4b897156657.mp3 | the_upside_down_stranger_things.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
