@@ -1518,5 +1518,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user11758_f67567609091.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959983",
+    "type": "public",
+    "date": "8/06 4:35",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Tryna learn how to animate lolz",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7959984",
+    "type": "public",
+    "date": "8/06 4:35",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "chat ima be alright.............im...just going through mid depressiona dn am trying to recover what was lost from school......n shit...",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
