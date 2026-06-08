@@ -9354,5 +9354,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Ill try ro stay awake",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7960769",
+    "type": "public",
+    "date": "8/06 12:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[moai]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7960770",
+    "type": "public",
+    "date": "8/06 12:58",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Uwubunny444 nuu!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
