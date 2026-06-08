@@ -10624,5 +10624,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Wait lemme get on my alt",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7960914",
+    "type": "public",
+    "date": "8/06 13:33",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "uhh FUCKING PISS ON THE FLOORR",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960915",
+    "type": "public",
+    "date": "8/06 13:33",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_e8fe2123c5a0.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
