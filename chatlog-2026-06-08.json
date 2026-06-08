@@ -3994,5 +3994,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Just letting then know",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960233",
+    "type": "public",
+    "date": "8/06 11:16",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Sharkish she always talks like that",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
