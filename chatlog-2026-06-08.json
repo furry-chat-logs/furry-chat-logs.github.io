@@ -1318,5 +1318,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Tyyy ^^",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7959963",
+    "type": "public",
+    "date": "8/06 4:10",
+    "username": "GlamRockHeart",
+    "userId": "36664",
+    "userClasses": "username user ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_68cfaeeea747.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
