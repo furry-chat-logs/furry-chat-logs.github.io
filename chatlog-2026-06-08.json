@@ -738,5 +738,15 @@
     "userClasses": "username user ",
     "message": "I remember one time my heart beat was so loud that it was the only thing I could hear. I ended up having to crawl my way back home cause my legs wouldn't let me walk",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959905",
+    "type": "public",
+    "date": "8/06 0:47",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "SwiggleRattle V <- bird",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
