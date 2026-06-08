@@ -5824,5 +5824,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "sniff sniff~ LUwUkeWawm bwoh~ got it tOowoO",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960416",
+    "type": "public",
+    "date": "8/06 11:51",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Oh no, do they got the filter 💔",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960417",
+    "type": "public",
+    "date": "8/06 11:51",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad7 bnfont3",
+    "message": "Ram3n what filter",
+    "msgClasses": "chat_message bneon20  bfont9"
   }
 ]
