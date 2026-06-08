@@ -14664,5 +14664,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Pick him up for me so I can take care of him I'm in Texas",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961318",
+    "type": "public",
+    "date": "8/06 15:04",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Who?",
+    "msgClasses": "chat_message "
   }
 ]
