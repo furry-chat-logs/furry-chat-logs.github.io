@@ -718,5 +718,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "hello people",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959903",
+    "type": "public",
+    "date": "8/06 0:45",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19606_4527ee7eb9a7.png]",
+    "msgClasses": "chat_message "
   }
 ]
