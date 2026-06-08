@@ -3474,5 +3474,15 @@
     "userClasses": "username bcolor27 ",
     "message": "I think it can be used for both",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7960181",
+    "type": "public",
+    "date": "8/06 10:52",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad7 bnfont3",
+    "message": "Does my profile look like I'd be an age player, please say no",
+    "msgClasses": "chat_message bneon20  bfont9"
   }
 ]
