@@ -8074,5 +8074,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I need to make one that says",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7960641",
+    "type": "public",
+    "date": "8/06 12:43",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "EvangeliSON 😭😭😭",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7960642",
+    "type": "public",
+    "date": "8/06 12:43",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Fuck i forgot about that",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
