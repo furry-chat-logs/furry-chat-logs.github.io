@@ -27276,5 +27276,15 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "KingCorgz oh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959582",
+    "type": "public",
+    "date": "7/06 21:30",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "QueenKit all good",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
