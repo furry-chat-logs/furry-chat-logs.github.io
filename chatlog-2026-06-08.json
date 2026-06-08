@@ -1168,5 +1168,35 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "i called him big guy",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7959948",
+    "type": "public",
+    "date": "8/06 3:43",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "because i dont want to say bro or twin",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7959949",
+    "type": "public",
+    "date": "8/06 3:44",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "SoraTheMikuFan well you can add me on vrc and maybe we can play other time :3",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7959950",
+    "type": "public",
+    "date": "8/06 3:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ohhhhhhhhhhhhh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
