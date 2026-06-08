@@ -24940,5 +24940,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Tf happened",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7959343",
+    "type": "public",
+    "date": "7/06 19:29",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Data [good]",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959344",
+    "type": "public",
+    "date": "7/06 19:29",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Neo The Protogen idk",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
