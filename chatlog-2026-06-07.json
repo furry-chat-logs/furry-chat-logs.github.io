@@ -28166,5 +28166,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Zamn",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959671",
+    "type": "public",
+    "date": "7/06 22:01",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "My dogs names are lite and dim",
+    "msgClasses": "chat_message "
   }
 ]
