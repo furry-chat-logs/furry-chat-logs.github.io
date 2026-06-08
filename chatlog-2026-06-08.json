@@ -4314,5 +4314,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "I cant take ts seriously bro 😭",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960265",
+    "type": "public",
+    "date": "8/06 11:19",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "RuffRuffRobyn dont nuzzle me",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960266",
+    "type": "public",
+    "date": "8/06 11:19",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Ram3n FR",
+    "msgClasses": "chat_message "
   }
 ]
