@@ -18244,5 +18244,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "THEY ESCAPED THE LAB",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961683",
+    "type": "public",
+    "date": "8/06 18:42",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "this is the hamster purge",
+    "msgClasses": "chat_message bneon19"
   }
 ]
