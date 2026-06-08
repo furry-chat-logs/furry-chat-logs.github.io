@@ -12484,5 +12484,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Just no i have no enemies",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961100",
+    "type": "public",
+    "date": "8/06 14:05",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "It hasn't stopped raining for 3 days i swear",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961101",
+    "type": "public",
+    "date": "8/06 14:06",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "ZIBZI thanks",
+    "msgClasses": "chat_message "
   }
 ]
