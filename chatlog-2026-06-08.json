@@ -1048,5 +1048,25 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "No",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7959936",
+    "type": "public",
+    "date": "8/06 3:35",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "awww",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7959937",
+    "type": "public",
+    "date": "8/06 3:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "too bad",
+    "msgClasses": "chat_message bneon14"
   }
 ]
