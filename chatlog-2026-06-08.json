@@ -13264,5 +13264,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I currently have every Gundam game on PS4",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961178",
+    "type": "public",
+    "date": "8/06 14:17",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'm excited for the new one",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961179",
+    "type": "public",
+    "date": "8/06 14:17",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "easy bake oven is crazy",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
