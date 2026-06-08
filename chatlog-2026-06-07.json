@@ -26166,5 +26166,25 @@
     "userClasses": "username user ",
     "message": "Smiley bruh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959471",
+    "type": "public",
+    "date": "7/06 20:51",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Smiley that's the problem with email. Idk if she's online",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959472",
+    "type": "public",
+    "date": "7/06 20:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Uwubunny444 what?",
+    "msgClasses": "chat_message "
   }
 ]
