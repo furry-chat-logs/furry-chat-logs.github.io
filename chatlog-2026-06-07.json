@@ -25886,5 +25886,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's not a matter of if it's a matter of when",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959442",
+    "type": "public",
+    "date": "7/06 20:38",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Okay, when",
+    "msgClasses": "chat_message "
   }
 ]
