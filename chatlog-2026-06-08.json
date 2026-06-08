@@ -10864,5 +10864,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Girls are the best",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960938",
+    "type": "public",
+    "date": "8/06 13:37",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeHNrMjQ3eXN2cDRzdmoxOTY0c2FvMDNidm9tdThwMWZrdzlsMHl4MCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fWRVZpi3U1YV17oKzE/giphy.gif]",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
