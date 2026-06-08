@@ -29686,5 +29686,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "What'd you do",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959823",
+    "type": "public",
+    "date": "7/06 23:46",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Crashed going down hill on the side of the road",
+    "msgClasses": "chat_message "
   }
 ]
