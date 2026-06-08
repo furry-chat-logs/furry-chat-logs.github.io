@@ -3734,5 +3734,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Hey",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960207",
+    "type": "public",
+    "date": "8/06 11:13",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "misha hello",
+    "msgClasses": "chat_message "
   }
 ]
