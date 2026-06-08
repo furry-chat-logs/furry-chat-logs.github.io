@@ -1876,5 +1876,15 @@
     "userClasses": "username bcolor27 ",
     "message": "[amazing]",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7960021",
+    "type": "public",
+    "date": "8/06 8:53",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Lmfao",
+    "msgClasses": "chat_message bneon19"
   }
 ]
