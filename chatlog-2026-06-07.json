@@ -26236,5 +26236,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "There's / quotes",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959478",
+    "type": "public",
+    "date": "7/06 20:53",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Without the space",
+    "msgClasses": "chat_message bneon19"
   }
 ]
