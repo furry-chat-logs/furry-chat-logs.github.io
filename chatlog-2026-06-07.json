@@ -25956,5 +25956,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "It's too risky",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959449",
+    "type": "public",
+    "date": "7/06 20:41",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Wow I just got 200 coins",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
