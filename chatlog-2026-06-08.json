@@ -13764,5 +13764,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "I need more gundams, period",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961228",
+    "type": "public",
+    "date": "8/06 14:27",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Derikgodzilla18 don't talk to him.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
