@@ -13514,5 +13514,45 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "NotAWarlock DYNAMES!",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961203",
+    "type": "public",
+    "date": "8/06 14:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Custom Barbatos!",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961204",
+    "type": "public",
+    "date": "8/06 14:21",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user31609_7f5c5e5833a3.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961205",
+    "type": "public",
+    "date": "8/06 14:21",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "These 3 buddies",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961206",
+    "type": "public",
+    "date": "8/06 14:21",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "And",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
