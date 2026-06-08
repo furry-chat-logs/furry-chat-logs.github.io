@@ -27126,5 +27126,25 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "Also idk how to do the ping thinggy",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959567",
+    "type": "public",
+    "date": "7/06 21:22",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Then my other side there's a forest that's almost pitch black even during the day",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959568",
+    "type": "public",
+    "date": "7/06 21:22",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Iyas_fox click people's username",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
