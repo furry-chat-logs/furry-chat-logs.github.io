@@ -25050,5 +25050,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Neo The Protogen lol, babe",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959354",
+    "type": "public",
+    "date": "7/06 19:32",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Thats when i hit da pen to many times",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
