@@ -28576,5 +28576,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "My precious.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959712",
+    "type": "public",
+    "date": "7/06 22:29",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Insidiae Nice cable management",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
