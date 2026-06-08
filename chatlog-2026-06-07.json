@@ -24900,5 +24900,15 @@
     "username": "System",
     "userId": null,
     "message": "Imlonely has been kicked"
+  },
+  {
+    "id": "7959339",
+    "type": "public",
+    "date": "7/06 19:28",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "whoopee",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
