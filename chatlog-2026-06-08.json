@@ -3744,5 +3744,35 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "misha hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960208",
+    "type": "public",
+    "date": "8/06 11:13",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "-racks shotgun-",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7960209",
+    "type": "public",
+    "date": "8/06 11:13",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZHRlM25ybW9rcHA2dzA5cm03YXM5MXcwMzltd2xhZHJvOXM5c2VnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C5xMq51fA8mvrfUAqQ/giphy.gif]",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960210",
+    "type": "public",
+    "date": "8/06 11:13",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "UwU Penis",
+    "msgClasses": "chat_message "
   }
 ]
