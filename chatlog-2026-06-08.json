@@ -7594,5 +7594,35 @@
     "userClasses": "username bneon6 bnfont14",
     "message": "i couldn't imagine dropping out",
     "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7960593",
+    "type": "public",
+    "date": "8/06 12:33",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I'm chewing on a popcorn kernel",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7960594",
+    "type": "public",
+    "date": "8/06 12:33",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Ch3rry_Drop ive already git 4 college credits after my sophmore year",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7960595",
+    "type": "public",
+    "date": "8/06 12:33",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "I'm an honours student",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
