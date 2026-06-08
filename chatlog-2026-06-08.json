@@ -15324,5 +15324,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[tongue3]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7961385",
+    "type": "public",
+    "date": "8/06 15:53",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "[tongue3]",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
