@@ -28146,5 +28146,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Well my parents called the dogs their kids",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959669",
+    "type": "public",
+    "date": "7/06 22:01",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "And say they are better than me",
+    "msgClasses": "chat_message "
   }
 ]
