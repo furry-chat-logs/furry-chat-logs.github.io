@@ -588,5 +588,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "That's the first time I've seen you swear lol",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7959890",
+    "type": "public",
+    "date": "8/06 0:37",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "[gay]",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
