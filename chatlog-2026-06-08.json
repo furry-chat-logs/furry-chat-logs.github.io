@@ -1018,5 +1018,15 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Night night guys",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959933",
+    "type": "public",
+    "date": "8/06 3:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Gn!!",
+    "msgClasses": "chat_message bneon14"
   }
 ]
