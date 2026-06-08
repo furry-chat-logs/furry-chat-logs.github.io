@@ -12354,5 +12354,25 @@
     "userClasses": "username bcolor8 bnfont7",
     "message": "you will live",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961087",
+    "type": "public",
+    "date": "8/06 14:03",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "ZIBZI you don't think family is love why?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961088",
+    "type": "public",
+    "date": "8/06 14:03",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Derikgodzilla18 Balright",
+    "msgClasses": "chat_message bneon19"
   }
 ]
