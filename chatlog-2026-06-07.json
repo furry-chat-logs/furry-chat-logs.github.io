@@ -28636,5 +28636,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Sharts",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7959718",
+    "type": "public",
+    "date": "7/06 22:30",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "EagleEdge | Appreciate it.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959719",
+    "type": "public",
+    "date": "7/06 22:30",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "What you running in it?",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
