@@ -28316,5 +28316,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Buggo ik",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959686",
+    "type": "public",
+    "date": "7/06 22:14",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Have a creature from the abyss to make you feel better",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
