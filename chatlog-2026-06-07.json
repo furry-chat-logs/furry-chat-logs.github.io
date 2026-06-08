@@ -26586,5 +26586,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I hate that",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959513",
+    "type": "public",
+    "date": "7/06 21:05",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "YUHH",
+    "msgClasses": "chat_message bneon19"
   }
 ]
