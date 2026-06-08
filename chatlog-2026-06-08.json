@@ -5034,5 +5034,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Look what happened to my bike",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960337",
+    "type": "public",
+    "date": "8/06 11:27",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "tuh n tuh",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
