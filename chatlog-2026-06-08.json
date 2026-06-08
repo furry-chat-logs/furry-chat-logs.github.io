@@ -11324,5 +11324,45 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "How come Porphyrophobia didn't knew about this",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7960984",
+    "type": "public",
+    "date": "8/06 13:46",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Numm Bug Changed his age from 18 to 16",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960985",
+    "type": "public",
+    "date": "8/06 13:46",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Mojito the freak your saying that cause I'm friending you",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960986",
+    "type": "public",
+    "date": "8/06 13:46",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ What happened Snakey?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960987",
+    "type": "public",
+    "date": "8/06 13:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Porphyrophobia needs the tea ASAP",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
