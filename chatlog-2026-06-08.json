@@ -15164,5 +15164,15 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "misha 17",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7961368",
+    "type": "public",
+    "date": "8/06 15:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "99",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
