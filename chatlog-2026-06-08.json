@@ -2486,5 +2486,25 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "UwU",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7960082",
+    "type": "public",
+    "date": "8/06 9:29",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "misha so yuh uwuw iwwegaw? ^-^^^ :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960083",
+    "type": "public",
+    "date": "8/06 9:29",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "But no Les, they're fine",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
