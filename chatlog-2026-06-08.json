@@ -6334,5 +6334,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "ill cyall laterrr",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960467",
+    "type": "public",
+    "date": "8/06 12:09",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Ram3n have fun",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7960468",
+    "type": "public",
+    "date": "8/06 12:09",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "What the fuck",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
