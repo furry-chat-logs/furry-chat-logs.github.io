@@ -15454,5 +15454,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "lxnar fine",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7961398",
+    "type": "public",
+    "date": "8/06 16:03",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Walked in",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
