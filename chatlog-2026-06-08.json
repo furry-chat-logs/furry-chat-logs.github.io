@@ -9584,5 +9584,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "[troll]",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7960792",
+    "type": "public",
+    "date": "8/06 13:02",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "AAAAAA",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
