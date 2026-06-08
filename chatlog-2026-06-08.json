@@ -10174,5 +10174,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Roobot STOP!",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960869",
+    "type": "public",
+    "date": "8/06 13:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_f1844d4de470.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960870",
+    "type": "public",
+    "date": "8/06 13:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Fat isser",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
