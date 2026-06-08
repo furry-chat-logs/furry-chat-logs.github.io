@@ -16424,5 +16424,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Jax toy ahh",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7961496",
+    "type": "public",
+    "date": "8/06 16:48",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmY3BrdnEzbWV5ZG5jYm9yNnJuN21nb25vbjZ2Z2JxejF3OGhhMDlheiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RSItmEnzko32pXy3GY/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
