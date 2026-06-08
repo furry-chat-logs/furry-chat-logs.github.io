@@ -13224,5 +13224,35 @@
     "userClasses": "username bcolor8 bnfont7",
     "message": "Derikgodzilla18 do you think im that dumb",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961174",
+    "type": "public",
+    "date": "8/06 14:16",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "you fucking easy bake oven",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961175",
+    "type": "public",
+    "date": "8/06 14:16",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "ZIBZI why you asked",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961176",
+    "type": "public",
+    "date": "8/06 14:16",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "NotAWarlock YUH",
+    "msgClasses": "chat_message bneon19"
   }
 ]
