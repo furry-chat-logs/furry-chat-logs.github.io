@@ -818,5 +818,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Ok",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7959913",
+    "type": "public",
+    "date": "8/06 1:32",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I AM SCAREDDDDD",
+    "msgClasses": "chat_message bneon14"
   }
 ]
