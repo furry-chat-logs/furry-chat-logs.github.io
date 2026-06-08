@@ -7894,5 +7894,15 @@
     "userClasses": "username bgrad39 ",
     "message": "Are u gonna tell ppl to stop going outside",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7960623",
+    "type": "public",
+    "date": "8/06 12:38",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "I tried once, never again",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
