@@ -6314,5 +6314,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "misha I believe they said \"your the best\"",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7960465",
+    "type": "public",
+    "date": "8/06 12:08",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Oop, gtg, got chores to dooo",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960466",
+    "type": "public",
+    "date": "8/06 12:08",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "ill cyall laterrr",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
