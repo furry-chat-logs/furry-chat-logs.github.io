@@ -15844,5 +15844,25 @@
     "userClasses": "username bgrad38 bnfont6",
     "message": "**testing colors**",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961438",
+    "type": "public",
+    "date": "8/06 16:24",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYjJpOGYzaW5kd2ZkanZ0bm1yM3hwYTAyMTFiMzJzNWRwd2k4dTE3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FZ7QqHoznY49i/giphy.gif]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7961439",
+    "type": "public",
+    "date": "8/06 16:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": ">_>",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
