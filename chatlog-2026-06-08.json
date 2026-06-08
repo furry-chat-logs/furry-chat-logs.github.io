@@ -11514,5 +11514,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Another one of these creatures.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7961003",
+    "type": "public",
+    "date": "8/06 13:49",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Can everyone stop fighting respectfully",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
