@@ -15304,5 +15304,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Interesting.",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7961383",
+    "type": "public",
+    "date": "8/06 15:43",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Mojito ye",
+    "msgClasses": "chat_message "
   }
 ]
