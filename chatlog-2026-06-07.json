@@ -25278,5 +25278,23 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "CHATTT!",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959378",
+    "type": "public",
+    "date": "7/06 19:37",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "QueenKit yes?",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959379",
+    "type": "system",
+    "date": "7/06 19:37",
+    "username": "System",
+    "userId": null,
+    "message": "Imlonely has been removed from chat"
   }
 ]
