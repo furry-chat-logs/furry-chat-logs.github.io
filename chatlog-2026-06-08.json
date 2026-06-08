@@ -6884,5 +6884,15 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "ALL",
     "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7960522",
+    "type": "public",
+    "date": "8/06 12:23",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "*uses the word all*",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
