@@ -2376,5 +2376,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "I ok",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960071",
+    "type": "public",
+    "date": "8/06 9:28",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "In you ?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960072",
+    "type": "public",
+    "date": "8/06 9:28",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "rawr x3 NeptUwUneLynxx 😭😭😭 *pounces*",
+    "msgClasses": "chat_message "
   }
 ]
