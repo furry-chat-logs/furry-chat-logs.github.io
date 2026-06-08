@@ -26476,5 +26476,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "NAHHHHHHHHHH",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7959502",
+    "type": "public",
+    "date": "7/06 20:59",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Spectre_protogen aye, what",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959503",
+    "type": "public",
+    "date": "7/06 20:59",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Sighhh I think I got blocked for the 79th time by a friend U.U",
+    "msgClasses": "chat_message "
   }
 ]
