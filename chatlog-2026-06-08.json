@@ -13834,5 +13834,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ohhh oki",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7961235",
+    "type": "public",
+    "date": "8/06 14:33",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "KingCorgz working on your Gundam rn",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961236",
+    "type": "public",
+    "date": "8/06 14:34",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "KingCorgz I'm not 18 I'm 16",
+    "msgClasses": "chat_message "
   }
 ]
