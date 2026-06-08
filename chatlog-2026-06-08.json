@@ -14734,5 +14734,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "She/they",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961325",
+    "type": "public",
+    "date": "8/06 15:06",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "The Nephalem Ih",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
