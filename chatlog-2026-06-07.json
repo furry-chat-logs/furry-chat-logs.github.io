@@ -24712,5 +24712,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "no Neo The Protogen",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959320",
+    "type": "public",
+    "date": "7/06 19:15",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I don't have a phone",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959321",
+    "type": "public",
+    "date": "7/06 19:15",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Ashton McKennan :<",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
