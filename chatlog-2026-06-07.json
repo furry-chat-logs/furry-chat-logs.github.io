@@ -25856,5 +25856,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "1/3 of my money will always be Meep's. which means when she returns, I'll give her exactly 1/3 of however much money I have at that time.",
     "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959439",
+    "type": "public",
+    "date": "7/06 20:36",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "If she returns",
+    "msgClasses": "chat_message "
   }
 ]
