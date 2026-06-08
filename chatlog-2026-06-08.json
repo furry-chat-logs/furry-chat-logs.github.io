@@ -14634,5 +14634,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Porphyrophobia hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961315",
+    "type": "public",
+    "date": "8/06 15:03",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Hru",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961316",
+    "type": "public",
+    "date": "8/06 15:03",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "The Nephalem why not",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
