@@ -8694,5 +8694,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "^^",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7960703",
+    "type": "public",
+    "date": "8/06 12:51",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Pawphywofobia hi *tail swish*",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960704",
+    "type": "public",
+    "date": "8/06 12:51",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Fewwa >w<",
+    "msgClasses": "chat_message "
   }
 ]
