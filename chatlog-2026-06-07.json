@@ -24822,5 +24822,15 @@
     "userClasses": "username bcolor26 bnfont5",
     "message": "I just joined hi everyone!!",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959331",
+    "type": "public",
+    "date": "7/06 19:19",
+    "username": "Imlonely",
+    "userId": "37581",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "O hey I just joins too",
+    "msgClasses": "chat_message "
   }
 ]
