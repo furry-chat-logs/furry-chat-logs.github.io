@@ -25000,5 +25000,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Neo The Protogen [wolf3]",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959349",
+    "type": "public",
+    "date": "7/06 19:30",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Ashton McKennan :0",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
