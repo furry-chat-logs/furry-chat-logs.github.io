@@ -14424,5 +14424,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "My parents named me Nemona but I get called Nemo",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961294",
+    "type": "public",
+    "date": "8/06 14:55",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I finished Corgz Gundam",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961295",
+    "type": "public",
+    "date": "8/06 14:55",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_d55c8d01b901.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
