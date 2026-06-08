@@ -6634,5 +6634,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Lyman Bruh",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960497",
+    "type": "public",
+    "date": "8/06 12:15",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Mojito ik",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
