@@ -10984,5 +10984,15 @@
     "userClasses": "username bcolor32 ",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ idk i am 16",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960950",
+    "type": "public",
+    "date": "8/06 13:40",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Mojito bubber",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
