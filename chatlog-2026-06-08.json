@@ -5404,5 +5404,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "*purrs* Shawkish simp x3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960374",
+    "type": "public",
+    "date": "8/06 11:33",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Sharkish Damn boi, u got dough 😭",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960375",
+    "type": "public",
+    "date": "8/06 11:33",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "RuffRuffRobyn I do NOT simp for them",
+    "msgClasses": "chat_message "
   }
 ]
