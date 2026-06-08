@@ -1976,5 +1976,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "P",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960031",
+    "type": "public",
+    "date": "8/06 8:55",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Son I'm crine",
+    "msgClasses": "chat_message bneon19"
   }
 ]
