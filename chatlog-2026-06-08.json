@@ -1656,5 +1656,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Whyd they get muted?",
     "msgClasses": "chat_message bneon18 boldital bfont14"
+  },
+  {
+    "id": "7959997",
+    "type": "public",
+    "date": "8/06 7:44",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "🤷",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
