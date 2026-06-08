@@ -15434,5 +15434,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Voidscales no [scrylveon]",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7961396",
+    "type": "public",
+    "date": "8/06 16:03",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Im on my bed rn with my homie just chilling",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961397",
+    "type": "public",
+    "date": "8/06 16:03",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "lxnar fine",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
