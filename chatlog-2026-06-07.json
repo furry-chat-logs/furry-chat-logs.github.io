@@ -26666,5 +26666,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Im going to pavlov vr",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7959521",
+    "type": "public",
+    "date": "7/06 21:07",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "King_Scourge huh",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959522",
+    "type": "public",
+    "date": "7/06 21:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a64444176219.gif]",
+    "msgClasses": "chat_message "
   }
 ]
