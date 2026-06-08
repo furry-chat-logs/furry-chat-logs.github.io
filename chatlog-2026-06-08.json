@@ -11714,5 +11714,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Neo The Protogen quality i mean",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961023",
+    "type": "public",
+    "date": "8/06 13:52",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Sorry I Was told about this .",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
