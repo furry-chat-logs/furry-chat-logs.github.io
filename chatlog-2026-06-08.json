@@ -17544,5 +17544,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Very first thing 💔💔",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961609",
+    "type": "public",
+    "date": "8/06 17:22",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "DALRIGHT",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
