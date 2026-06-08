@@ -25160,5 +25160,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Ashton McKennan what You going to nom ?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959366",
+    "type": "public",
+    "date": "7/06 19:34",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Neo The Protogen bye hun",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
