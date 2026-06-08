@@ -14784,5 +14784,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "My mom is the head of the house",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961330",
+    "type": "public",
+    "date": "8/06 15:08",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "My dad is GENUINELY Kratos",
+    "msgClasses": "chat_message bneon19"
   }
 ]
