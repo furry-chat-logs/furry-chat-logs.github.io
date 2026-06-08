@@ -8814,5 +8814,35 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Weirdo!",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7960715",
+    "type": "public",
+    "date": "8/06 12:51",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Misa :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960716",
+    "type": "public",
+    "date": "8/06 12:51",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Teww dam",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960717",
+    "type": "public",
+    "date": "8/06 12:51",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "H-hewwo~ Pweazee >///<",
+    "msgClasses": "chat_message "
   }
 ]
