@@ -14934,5 +14934,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "I think so because his arms,neck are slightly bruised",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961345",
+    "type": "public",
+    "date": "8/06 15:14",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "0-0",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961346",
+    "type": "public",
+    "date": "8/06 15:14",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm.",
+    "msgClasses": "chat_message ital"
   }
 ]
