@@ -6574,5 +6574,15 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "Just tell the friend that you got more friends than him or her",
     "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7960491",
+    "type": "public",
+    "date": "8/06 12:14",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "99 Notifications is CRAZY.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
