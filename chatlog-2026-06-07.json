@@ -28156,5 +28156,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "And say they are better than me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959670",
+    "type": "public",
+    "date": "7/06 22:01",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Zamn",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
