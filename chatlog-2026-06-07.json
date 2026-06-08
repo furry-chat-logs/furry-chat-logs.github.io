@@ -26876,5 +26876,25 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "00 prEtzeL I could just ask someone to help",
     "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7959542",
+    "type": "public",
+    "date": "7/06 21:11",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": ":",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959543",
+    "type": "public",
+    "date": "7/06 21:11",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "*:3",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
