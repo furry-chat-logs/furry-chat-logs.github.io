@@ -9194,5 +9194,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Neo The Protogen porphyo",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7960753",
+    "type": "public",
+    "date": "8/06 12:56",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "RuffRuffRobyn i called a lot of people the n word some of them might still remember it",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7960754",
+    "type": "public",
+    "date": "8/06 12:56",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "How is that your fucking boyfriend he's gay!",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
