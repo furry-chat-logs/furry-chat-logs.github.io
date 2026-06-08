@@ -14594,5 +14594,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Wisconsin",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961311",
+    "type": "public",
+    "date": "8/06 15:02",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Sharts",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
