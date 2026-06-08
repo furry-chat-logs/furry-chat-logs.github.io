@@ -29196,5 +29196,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Thanks!",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959774",
+    "type": "public",
+    "date": "7/06 22:55",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_3ae468e3a1c7.png]",
+    "msgClasses": "chat_message "
   }
 ]
