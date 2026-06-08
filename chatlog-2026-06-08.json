@@ -918,5 +918,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "Very frustrating",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7959923",
+    "type": "public",
+    "date": "8/06 1:47",
+    "username": "Carpet",
+    "userId": "32006",
+    "userClasses": "username user ",
+    "message": "That sucks",
+    "msgClasses": "chat_message "
   }
 ]
