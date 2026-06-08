@@ -268,5 +268,15 @@
     "userClasses": "username bcolor1 bnfont16",
     "message": "Has anyone watched scream?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959855",
+    "type": "public",
+    "date": "8/06 0:19",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "No",
+    "msgClasses": "chat_message bneon14"
   }
 ]
