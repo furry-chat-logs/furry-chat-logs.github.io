@@ -15064,5 +15064,35 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeGp6ZXJtZG9lcG5yMTBudHc5cm1idHlmZ2NhZmd3Mjlicm5mbmhwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EgV4JXqsxYCYM/giphy.gif]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7961358",
+    "type": "public",
+    "date": "8/06 15:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I eat dogs",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7961359",
+    "type": "public",
+    "date": "8/06 15:20",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7961360",
+    "type": "public",
+    "date": "8/06 15:20",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Hello gays",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
