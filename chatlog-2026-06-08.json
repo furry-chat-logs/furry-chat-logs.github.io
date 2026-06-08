@@ -15284,5 +15284,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_c83a33ebf088.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961381",
+    "type": "public",
+    "date": "8/06 15:39",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "The chat died",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
