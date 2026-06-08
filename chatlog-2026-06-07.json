@@ -25556,5 +25556,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "hmmmm",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959409",
+    "type": "public",
+    "date": "7/06 20:23",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_9adf2e578fc4.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
