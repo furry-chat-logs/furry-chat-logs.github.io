@@ -25406,5 +25406,25 @@
     "userClasses": "username user ",
     "message": "I run my minecraft server off it just people try poach members",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959392",
+    "type": "public",
+    "date": "7/06 19:48",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Frogmin daily coin login rewards fr",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7959393",
+    "type": "public",
+    "date": "7/06 19:48",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "lmao i js woke up for like the 3rd time today",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
