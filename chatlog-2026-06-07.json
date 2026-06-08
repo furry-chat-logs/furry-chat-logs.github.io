@@ -24882,5 +24882,15 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "Yep:(",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959337",
+    "type": "public",
+    "date": "7/06 19:27",
+    "username": "Dinonour",
+    "userId": "37152",
+    "userClasses": "username bneon9 bnfont16",
+    "message": "Sad",
+    "msgClasses": "chat_message bneon9 bold bfont1"
   }
 ]
