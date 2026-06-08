@@ -11234,5 +11234,45 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Neo The Protogen hiii",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960975",
+    "type": "public",
+    "date": "8/06 13:45",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Numm Bug hewwo",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960976",
+    "type": "public",
+    "date": "8/06 13:45",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Mojito this is tru",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7960977",
+    "type": "public",
+    "date": "8/06 13:45",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Mojito really?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960978",
+    "type": "public",
+    "date": "8/06 13:45",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Mojito what?",
+    "msgClasses": "chat_message "
   }
 ]
