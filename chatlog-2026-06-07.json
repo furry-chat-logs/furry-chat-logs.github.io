@@ -28036,5 +28036,15 @@
     "userClasses": "username bneon19 bnfont7",
     "message": "Sure",
     "msgClasses": "chat_message bcolor19 heavyital bfont1"
+  },
+  {
+    "id": "7959658",
+    "type": "public",
+    "date": "7/06 21:56",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Do da do doo",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
