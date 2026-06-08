@@ -4524,5 +4524,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "💔😭",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960286",
+    "type": "public",
+    "date": "8/06 11:21",
+    "username": "Dredger",
+    "userId": "37573",
+    "userClasses": "username user ",
+    "message": "Im to tired to to understand lol",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960287",
+    "type": "public",
+    "date": "8/06 11:21",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "Sharkish - sticks barrel of my colt .45 in your face - show the lady some respect....",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
