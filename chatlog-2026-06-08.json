@@ -14134,5 +14134,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Yeah and I don't need it",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961265",
+    "type": "public",
+    "date": "8/06 14:47",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Then LEAVE.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961266",
+    "type": "public",
+    "date": "8/06 14:47",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "KingCorgz baby your Gundam is coming along nicely",
+    "msgClasses": "chat_message bneon19"
   }
 ]
