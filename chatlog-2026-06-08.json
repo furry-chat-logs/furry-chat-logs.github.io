@@ -3644,5 +3644,15 @@
     "userClasses": "username bgrad7 bnfont3",
     "message": "There",
     "msgClasses": "chat_message bneon20  bfont9"
+  },
+  {
+    "id": "7960198",
+    "type": "public",
+    "date": "8/06 11:07",
+    "username": "Dredger",
+    "userId": "37573",
+    "userClasses": "username user ",
+    "message": "Finally im unmuted",
+    "msgClasses": "chat_message "
   }
 ]
