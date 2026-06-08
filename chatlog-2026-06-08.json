@@ -11664,5 +11664,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Neo The Protogen same",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961018",
+    "type": "public",
+    "date": "8/06 13:51",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "ZIBZI A Parasitic alien organism in chat.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
