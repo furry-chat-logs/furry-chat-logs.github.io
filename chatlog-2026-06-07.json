@@ -26116,5 +26116,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I hit the thousand coin jackpot but I lost it next thing you know",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959466",
+    "type": "public",
+    "date": "7/06 20:50",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "i'm bored",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
