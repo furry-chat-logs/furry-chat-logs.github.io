@@ -988,5 +988,15 @@
     "userClasses": "username user ",
     "message": "Thanks",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959930",
+    "type": "public",
+    "date": "8/06 2:03",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_0cc75aa88cf3.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
