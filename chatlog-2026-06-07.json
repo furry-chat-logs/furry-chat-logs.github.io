@@ -29386,5 +29386,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Buggo ill decline it",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959793",
+    "type": "public",
+    "date": "7/06 23:06",
+    "username": "Mdekoni",
+    "userId": "37148",
+    "userClasses": "username bcolor7 bnfont15",
+    "message": "Buggo woww",
+    "msgClasses": "chat_message bcolor7  bfont11"
   }
 ]
