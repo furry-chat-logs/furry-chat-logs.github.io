@@ -2716,5 +2716,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "NeptuneLynxx Good Luck",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960105",
+    "type": "public",
+    "date": "8/06 9:35",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "NeptuneLynxx is Nyx still a owner",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
