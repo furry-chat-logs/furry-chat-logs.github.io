@@ -16154,5 +16154,15 @@
     "userClasses": "username bcolor27 ",
     "message": "Mojito Issa Hey!!!!",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7961469",
+    "type": "public",
+    "date": "8/06 16:36",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Hruu? :3",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
