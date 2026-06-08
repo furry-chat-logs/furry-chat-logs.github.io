@@ -11844,5 +11844,25 @@
     "userClasses": "username bcolor32 ",
     "message": "ZIBZI how?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961036",
+    "type": "public",
+    "date": "8/06 13:54",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Derikgodzilla18 Snakey in Mojito Are my best friends and I trust them so yes ,",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7961037",
+    "type": "public",
+    "date": "8/06 13:54",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_165423923fc6.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
