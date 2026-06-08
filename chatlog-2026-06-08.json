@@ -3264,5 +3264,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "H-hewwo~ I miss my wife bwoh~ >///<",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960160",
+    "type": "public",
+    "date": "8/06 10:36",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "Please tell me this is satire",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
