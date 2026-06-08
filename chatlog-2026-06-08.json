@@ -14554,5 +14554,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Here I'll kidnap you and we can go to Kansas or something together /j",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961307",
+    "type": "public",
+    "date": "8/06 15:01",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "They wouldn't even care",
+    "msgClasses": "chat_message "
   }
 ]
