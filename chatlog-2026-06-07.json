@@ -28916,5 +28916,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Ofc!!",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7959746",
+    "type": "public",
+    "date": "7/06 22:35",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "I need the DLSS and VRSS tho",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959747",
+    "type": "public",
+    "date": "7/06 22:35",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "EagleEdge | 5800X3D will be your best bet.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
