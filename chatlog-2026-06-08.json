@@ -12674,5 +12674,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "You're 18.",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961119",
+    "type": "public",
+    "date": "8/06 14:07",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "Derikgodzilla18 stop trying to build an army",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961120",
+    "type": "public",
+    "date": "8/06 14:07",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "NotAWarlock Yeah...",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961121",
+    "type": "public",
+    "date": "8/06 14:07",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "QueenKit how do you know you don't even know me",
+    "msgClasses": "chat_message "
   }
 ]
