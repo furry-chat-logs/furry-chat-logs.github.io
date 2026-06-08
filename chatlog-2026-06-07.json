@@ -25366,5 +25366,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I only have my closets friends on there :3",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959387",
+    "type": "public",
+    "date": "7/06 19:41",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Some form of daily user rewards (coins, steam games, etcetera.) in pipeline.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
