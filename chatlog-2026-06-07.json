@@ -29336,5 +29336,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "[secret-share: XrXwkxnDTHn1ag4CsWNf9BbNG&n=44807]",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959788",
+    "type": "public",
+    "date": "7/06 23:03",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_cc7e2e9cbbce.png]",
+    "msgClasses": "chat_message "
   }
 ]
