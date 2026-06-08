@@ -25656,5 +25656,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "neaw!",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959419",
+    "type": "public",
+    "date": "7/06 20:28",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Thinking whether I should clear the friends list on this account or not. Either way, bio updated.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
