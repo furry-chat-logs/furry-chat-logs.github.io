@@ -8574,5 +8574,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Walked around with holes on my body",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7960691",
+    "type": "public",
+    "date": "8/06 12:49",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Lyman Sup dork",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
