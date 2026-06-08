@@ -28006,5 +28006,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Luna444 stay safe out there",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959655",
+    "type": "public",
+    "date": "7/06 21:56",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Cammy good to hear",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959656",
+    "type": "public",
+    "date": "7/06 21:56",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "^-^",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
