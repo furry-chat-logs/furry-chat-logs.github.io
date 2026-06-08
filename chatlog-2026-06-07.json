@@ -28606,5 +28606,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "SwiggleRattle | It appears like that on the surface. Just don't open the rear panel.",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959715",
+    "type": "public",
+    "date": "7/06 22:30",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "It's better now, though. I fixed it up.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
