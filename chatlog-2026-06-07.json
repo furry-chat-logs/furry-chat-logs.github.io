@@ -24832,5 +24832,15 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "O hey I just joins too",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959332",
+    "type": "public",
+    "date": "7/06 19:22",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "brb",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
