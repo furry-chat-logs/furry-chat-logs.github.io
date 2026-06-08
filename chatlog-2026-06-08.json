@@ -16554,5 +16554,25 @@
     "userClasses": "username bneon18 ",
     "message": "Ion know you.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7961509",
+    "type": "public",
+    "date": "8/06 16:52",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*licks paw* Issa shawkish ex",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961510",
+    "type": "public",
+    "date": "8/06 16:52",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "rawr x3 WOBIN *pounces*",
+    "msgClasses": "chat_message "
   }
 ]
