@@ -28586,5 +28586,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "Insidiae Nice cable management",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7959713",
+    "type": "public",
+    "date": "7/06 22:29",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Insidiae I like it",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959714",
+    "type": "public",
+    "date": "7/06 22:29",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "SwiggleRattle | It appears like that on the surface. Just don't open the rear panel.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
