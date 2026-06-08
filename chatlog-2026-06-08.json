@@ -14514,5 +14514,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Life with my parents sucks",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961303",
+    "type": "public",
+    "date": "8/06 15:00",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Same here actually",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
