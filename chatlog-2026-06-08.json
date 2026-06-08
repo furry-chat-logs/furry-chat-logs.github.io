@@ -14544,5 +14544,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "So they argue about my religion",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961306",
+    "type": "public",
+    "date": "8/06 15:01",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Here I'll kidnap you and we can go to Kansas or something together /j",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
