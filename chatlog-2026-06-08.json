@@ -9794,5 +9794,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "lmao",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7960813",
+    "type": "public",
+    "date": "8/06 13:14",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "👀",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
