@@ -5484,5 +5484,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "They joined 10 monthes later than me bruh 😔",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960382",
+    "type": "public",
+    "date": "8/06 11:37",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user11705_5dfab4e39bb6.png]",
+    "msgClasses": "chat_message "
   }
 ]
