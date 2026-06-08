@@ -24502,5 +24502,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "😭",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7959299",
+    "type": "public",
+    "date": "7/06 19:01",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "blepp",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
