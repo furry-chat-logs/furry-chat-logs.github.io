@@ -25946,5 +25946,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I don't wanna gamble",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959448",
+    "type": "public",
+    "date": "7/06 20:40",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "It's too risky",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
