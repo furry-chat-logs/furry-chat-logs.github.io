@@ -17064,5 +17064,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "H-hewwo~ OWOnly >///<",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961560",
+    "type": "public",
+    "date": "8/06 16:58",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "rawr x3 500 to go *pounces*",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961561",
+    "type": "public",
+    "date": "8/06 16:58",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Just make a new account 🫩",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
