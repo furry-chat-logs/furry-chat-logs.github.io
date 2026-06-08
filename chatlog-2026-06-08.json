@@ -9104,5 +9104,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Away from him!",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7960744",
+    "type": "public",
+    "date": "8/06 12:54",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_d3fdeba55367.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
