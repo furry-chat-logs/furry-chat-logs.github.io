@@ -12724,5 +12724,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Same",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961124",
+    "type": "public",
+    "date": "8/06 14:08",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "But in this account i mean warlock as the male version of a witch",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961125",
+    "type": "public",
+    "date": "8/06 14:08",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I started with Titan",
+    "msgClasses": "chat_message bneon19"
   }
 ]
