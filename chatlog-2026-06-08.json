@@ -15344,5 +15344,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "[scrylveon]",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7961387",
+    "type": "public",
+    "date": "8/06 15:53",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "[scrylveon]",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
