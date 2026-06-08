@@ -26046,5 +26046,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Deme gets Jumpscared by Charlie but it's low quality",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959458",
+    "type": "public",
+    "date": "7/06 20:47",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "hmm",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
