@@ -788,5 +788,15 @@
     "userClasses": "username user ",
     "message": "But as long as I maintain proper consumption I'll be fine",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959910",
+    "type": "public",
+    "date": "8/06 1:01",
+    "username": "NeonGreen101",
+    "userId": "21929",
+    "userClasses": "username bgrad2 bnfont15",
+    "message": "...",
+    "msgClasses": "chat_message bneon10 heavyital bfont13"
   }
 ]
