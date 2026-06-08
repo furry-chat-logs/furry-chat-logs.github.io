@@ -1588,5 +1588,15 @@
     "userClasses": "username user ",
     "message": "Dwag ;33",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959990",
+    "type": "public",
+    "date": "8/06 6:59",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "RuffRuffRobyn furry",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
