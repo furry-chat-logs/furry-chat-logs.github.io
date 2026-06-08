@@ -28996,5 +28996,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "EagleEdge | Do you already have RAM?",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959754",
+    "type": "public",
+    "date": "7/06 22:37",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Yeah DDR4 32gigs. I forget the speed tho",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
