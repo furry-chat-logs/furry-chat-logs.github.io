@@ -27456,5 +27456,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Leeland hewwo !",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959600",
+    "type": "public",
+    "date": "7/06 21:45",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon19 bnfont11",
+    "message": "Numm Bug hi",
+    "msgClasses": "chat_message bneon18 heavyital bfont3"
+  },
+  {
+    "id": "7959601",
+    "type": "public",
+    "date": "7/06 21:45",
+    "username": "Luna444",
+    "userId": "35510",
+    "userClasses": "username bneon19 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user35510_d3772ff0779b.png]",
+    "msgClasses": "chat_message "
   }
 ]
