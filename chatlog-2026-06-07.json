@@ -27756,5 +27756,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "It's called seeking attention",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959630",
+    "type": "public",
+    "date": "7/06 21:50",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "[indiferent]",
+    "msgClasses": "chat_message "
   }
 ]
