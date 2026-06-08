@@ -27976,5 +27976,25 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "Hruuu",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7959652",
+    "type": "public",
+    "date": "7/06 21:55",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "Cammy good good wbu",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959653",
+    "type": "public",
+    "date": "7/06 21:56",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Im okiee",
+    "msgClasses": "chat_message bneon20  bfont11"
   }
 ]
