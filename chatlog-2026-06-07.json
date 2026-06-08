@@ -27486,5 +27486,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "I'm eepy now nini everyone",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959603",
+    "type": "public",
+    "date": "7/06 21:45",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_3fa47df1af4f.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959604",
+    "type": "public",
+    "date": "7/06 21:45",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Fanart",
+    "msgClasses": "chat_message bneon19"
   }
 ]
