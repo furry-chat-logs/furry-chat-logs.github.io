@@ -3674,5 +3674,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Cute furry Fluff yuh uwu",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960201",
+    "type": "public",
+    "date": "8/06 11:09",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcDhibmV5d29vNGFzaDJ6aXV4N3VjNDg2OWszZ3dnZ20xdHlrM3NqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/125E8v90blHqtr4HrB/giphy.gif]",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
