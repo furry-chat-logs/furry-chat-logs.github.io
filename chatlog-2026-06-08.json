@@ -12154,5 +12154,25 @@
     "userClasses": "username bcolor8 bnfont7",
     "message": "gossip would be us liying",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961067",
+    "type": "public",
+    "date": "8/06 14:00",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "Did anyone report yet I Can't I'm on Console.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7961068",
+    "type": "public",
+    "date": "8/06 14:00",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Wasn't he 18?",
+    "msgClasses": "chat_message bneon19"
   }
 ]
