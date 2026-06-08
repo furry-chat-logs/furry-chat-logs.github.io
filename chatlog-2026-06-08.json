@@ -9544,5 +9544,35 @@
     "userClasses": "username bgrad15 ",
     "message": "Mojito Hii^^",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7960788",
+    "type": "public",
+    "date": "8/06 13:01",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[foshizzle]",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7960789",
+    "type": "public",
+    "date": "8/06 13:01",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Ashton McKennan pms rq",
+    "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7960790",
+    "type": "public",
+    "date": "8/06 13:01",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Ashton McKennan I will pet you. Agressively.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
