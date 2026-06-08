@@ -8384,5 +8384,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Ashton McKennan maybe your so calmed bf is a bad person",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7960672",
+    "type": "public",
+    "date": "8/06 12:47",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Nah maybe he did smth wrong",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7960673",
+    "type": "public",
+    "date": "8/06 12:47",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "That's a weird reason",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
