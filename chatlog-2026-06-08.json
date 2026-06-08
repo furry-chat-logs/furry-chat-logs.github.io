@@ -17354,5 +17354,25 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Jk",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7961589",
+    "type": "public",
+    "date": "8/06 17:09",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Lol",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961590",
+    "type": "public",
+    "date": "8/06 17:09",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "None of that even makes sense if you think about it",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
