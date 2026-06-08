@@ -17554,5 +17554,25 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "DALRIGHT",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7961610",
+    "type": "public",
+    "date": "8/06 17:22",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Asphallrighhttt",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961611",
+    "type": "public",
+    "date": "8/06 17:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnIwN2l1bmQ1czBtcTlicWVndjQwNTgzdG9xcnR5M3FiOGZ4dnMxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ndxvWtWlh7ITYjutD/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
