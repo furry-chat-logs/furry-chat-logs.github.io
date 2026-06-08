@@ -15404,5 +15404,15 @@
     "userClasses": "username bneon18 ",
     "message": "[heu]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7961393",
+    "type": "public",
+    "date": "8/06 16:03",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "lxnar [wolf2] yes",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
