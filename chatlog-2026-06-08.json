@@ -3684,5 +3684,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmcDhibmV5d29vNGFzaDJ6aXV4N3VjNDg2OWszZ3dnZ20xdHlrM3NqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/125E8v90blHqtr4HrB/giphy.gif]",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960202",
+    "type": "public",
+    "date": "8/06 11:11",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "oh",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
