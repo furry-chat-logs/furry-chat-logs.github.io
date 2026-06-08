@@ -12854,5 +12854,35 @@
     "userClasses": "username bcolor8 bnfont7",
     "message": "why do people have to be funnier then me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961137",
+    "type": "public",
+    "date": "8/06 14:10",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "What's my second name then",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961138",
+    "type": "public",
+    "date": "8/06 14:10",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Derik got no dih, built like the short stick, only girls you pull is the young schtick, you're actions are caustic, bombastic, like my rhymes and flow, keeping your mind hostage",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961139",
+    "type": "public",
+    "date": "8/06 14:10",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Jeffrey Phantomstein",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
