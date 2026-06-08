@@ -29236,5 +29236,25 @@
     "userClasses": "username bgrad15 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37005_f0ccfa643f45.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959778",
+    "type": "public",
+    "date": "7/06 22:58",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "The only thing that could wake glorbo up is the smell of his favorite food",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7959779",
+    "type": "public",
+    "date": "7/06 22:58",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Buggo I see",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
