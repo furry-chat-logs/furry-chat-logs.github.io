@@ -2706,5 +2706,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "😭😭😭😭 Meoww ^-^^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960104",
+    "type": "public",
+    "date": "8/06 9:35",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "NeptuneLynxx Good Luck",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
