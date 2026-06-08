@@ -16204,5 +16204,15 @@
     "userClasses": "username bcolor27 ",
     "message": "What about yourself?",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7961474",
+    "type": "public",
+    "date": "8/06 16:39",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "liminal I'm good, currently need cuddles tho-",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
