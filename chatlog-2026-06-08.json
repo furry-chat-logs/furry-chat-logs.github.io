@@ -11014,5 +11014,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I now see why I had him on the block list",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960953",
+    "type": "public",
+    "date": "8/06 13:40",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ its because hes a pedp",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960954",
+    "type": "public",
+    "date": "8/06 13:40",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "and we all belived him",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7960955",
+    "type": "public",
+    "date": "8/06 13:40",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ bro I'm 16 i promise",
+    "msgClasses": "chat_message "
   }
 ]
