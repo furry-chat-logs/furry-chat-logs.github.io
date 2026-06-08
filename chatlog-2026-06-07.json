@@ -25716,5 +25716,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Rune nice design",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959425",
+    "type": "public",
+    "date": "7/06 20:30",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user31348_79e2ae861356.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959426",
+    "type": "public",
+    "date": "7/06 20:30",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Eh.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
