@@ -26076,5 +26076,15 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "FUCK!",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959462",
+    "type": "public",
+    "date": "7/06 20:49",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "Ashton McKennan I gave you more coins.",
+    "msgClasses": "chat_message bneon32  bfont3"
   }
 ]
