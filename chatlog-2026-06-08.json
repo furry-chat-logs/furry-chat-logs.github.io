@@ -648,5 +648,15 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "Oh well",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7959896",
+    "type": "public",
+    "date": "8/06 0:40",
+    "username": "Kami",
+    "userId": "11760",
+    "userClasses": "username bgrad10 bnfont6",
+    "message": "Hiya peoples",
+    "msgClasses": "chat_message bneon2 heavyital bfont10"
   }
 ]
