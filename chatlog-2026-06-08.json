@@ -14204,5 +14204,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "I feel lonley now",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961272",
+    "type": "public",
+    "date": "8/06 14:49",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "QueenKit loves ya too",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7961273",
+    "type": "public",
+    "date": "8/06 14:49",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": ":3",
+    "msgClasses": "chat_message bneon19"
   }
 ]
