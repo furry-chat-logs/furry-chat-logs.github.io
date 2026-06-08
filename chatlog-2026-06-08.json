@@ -4494,5 +4494,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "HUH",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960283",
+    "type": "public",
+    "date": "8/06 11:21",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "I CAN READ THAT STIILL",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
