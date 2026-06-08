@@ -2686,5 +2686,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "******",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960102",
+    "type": "public",
+    "date": "8/06 9:34",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": "got an exam, I'll be here after it",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
+  },
+  {
+    "id": "7960103",
+    "type": "public",
+    "date": "8/06 9:35",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "😭😭😭😭 Meoww ^-^^",
+    "msgClasses": "chat_message "
   }
 ]
