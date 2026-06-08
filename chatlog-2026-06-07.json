@@ -24732,5 +24732,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Ashton McKennan :<",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7959322",
+    "type": "public",
+    "date": "7/06 19:16",
+    "username": "Imlonely",
+    "userId": "37581",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "Hello how are you guys",
+    "msgClasses": "chat_message "
   }
 ]
