@@ -11614,5 +11614,15 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "Wellp im leaving",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7961013",
+    "type": "public",
+    "date": "8/06 13:50",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "what went down?",
+    "msgClasses": "chat_message "
   }
 ]
