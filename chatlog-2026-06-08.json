@@ -6584,5 +6584,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "99 Notifications is CRAZY.",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960492",
+    "type": "public",
+    "date": "8/06 12:14",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "00 pretzel",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7960493",
+    "type": "public",
+    "date": "8/06 12:14",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Hello friend",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
