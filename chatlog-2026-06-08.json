@@ -11494,5 +11494,15 @@
     "userClasses": "username bcolor32 ",
     "message": "*sigh* the owner still has beef with me i already stopped",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961001",
+    "type": "public",
+    "date": "8/06 13:48",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Omfg",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
