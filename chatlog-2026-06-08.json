@@ -13854,5 +13854,25 @@
     "userClasses": "username bcolor32 ",
     "message": "KingCorgz I'm not 18 I'm 16",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961237",
+    "type": "public",
+    "date": "8/06 14:34",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'll make it a king aesthetic",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961238",
+    "type": "public",
+    "date": "8/06 14:34",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Hes still here??",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
