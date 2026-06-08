@@ -14694,5 +14694,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "I'm a girl/non binary",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961321",
+    "type": "public",
+    "date": "8/06 15:05",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Oh mb!!",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
