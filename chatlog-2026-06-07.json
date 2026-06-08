@@ -27606,5 +27606,35 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Goofball",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959615",
+    "type": "public",
+    "date": "7/06 21:47",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Ok well how am I supposed to know lol",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959616",
+    "type": "public",
+    "date": "7/06 21:48",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Sorry",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959617",
+    "type": "public",
+    "date": "7/06 21:48",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "See?",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
