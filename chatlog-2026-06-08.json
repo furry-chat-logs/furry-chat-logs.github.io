@@ -188,5 +188,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "U r kinda brainrotted",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7959847",
+    "type": "public",
+    "date": "8/06 0:16",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I'm like a rlly early gen alpha",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7959848",
+    "type": "public",
+    "date": "8/06 0:16",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bgrad34 bnfont8",
+    "message": "SoraTheMikuFan lmao",
+    "msgClasses": "chat_message bgrad34 bold bfont12"
   }
 ]
