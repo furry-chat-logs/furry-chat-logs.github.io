@@ -16114,5 +16114,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "OWOH",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961465",
+    "type": "public",
+    "date": "8/06 16:34",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Two letters.",
+    "msgClasses": "chat_message ital"
   }
 ]
