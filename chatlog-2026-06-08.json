@@ -10384,5 +10384,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Spectre_protogen chaos as always",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960890",
+    "type": "public",
+    "date": "8/06 13:30",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_f25f0ece88eb.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960891",
+    "type": "public",
+    "date": "8/06 13:30",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Spectre_protogen Becuz its fun",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
