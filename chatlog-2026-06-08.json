@@ -6704,5 +6704,25 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Ch3rry_Drop hola",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7960504",
+    "type": "public",
+    "date": "8/06 12:17",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "Hru guys",
+    "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7960505",
+    "type": "public",
+    "date": "8/06 12:17",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I hated when I wasn't able to guarantee my presence in a relationship here because of my parents and then going into a deep depression and overthink without any way to suppress it super worried about coming back and losing that relationship",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
