@@ -948,5 +948,15 @@
     "userClasses": "username user ",
     "message": "4 me ive been sleeping to much, i wana be more active and stay up",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959926",
+    "type": "public",
+    "date": "8/06 1:49",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "Try listening to more vibrant music",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
   }
 ]
