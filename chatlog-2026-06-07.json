@@ -26556,5 +26556,25 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "[media: https://furrychat.net/chat/upload/chat/user26601_958e6858bfe6.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959510",
+    "type": "public",
+    "date": "7/06 21:03",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "I GOT THIS WHEN I DONT HAVE A PHONE",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7959511",
+    "type": "public",
+    "date": "7/06 21:03",
+    "username": "King_Scourge",
+    "userId": "26601",
+    "userClasses": "username bgrad26 bnfont16",
+    "message": "I NEED HELP",
+    "msgClasses": "chat_message bgrad40 heavybold bfont14"
   }
 ]
