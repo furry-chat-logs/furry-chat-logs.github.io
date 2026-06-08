@@ -27576,5 +27576,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "I thought QueenMoon made it",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959612",
+    "type": "public",
+    "date": "7/06 21:47",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "EagleEdge IM QUEENMOON LMAO",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959613",
+    "type": "public",
+    "date": "7/06 21:47",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "QueenKit [good] [good]",
+    "msgClasses": "chat_message "
   }
 ]
