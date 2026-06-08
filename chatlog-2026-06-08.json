@@ -11594,5 +11594,25 @@
     "userClasses": "username bneon32 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user19606_68f93f794d1d.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961011",
+    "type": "public",
+    "date": "8/06 13:50",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "I drew a rock",
+    "msgClasses": "chat_message bneon32  bfont14"
+  },
+  {
+    "id": "7961012",
+    "type": "public",
+    "date": "8/06 13:50",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "Wellp im leaving",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
