@@ -4024,5 +4024,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "NOWO I DOWONT ~nya",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960236",
+    "type": "public",
+    "date": "8/06 11:16",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "misha ykw valid",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960237",
+    "type": "public",
+    "date": "8/06 11:16",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*purrs*  Cute furry Fluff x3",
+    "msgClasses": "chat_message "
   }
 ]
