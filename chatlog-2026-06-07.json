@@ -25100,5 +25100,25 @@
     "userClasses": "username bneon12 bnfont15",
     "message": "I just blew a bubble bigger than my head",
     "msgClasses": "chat_message bneon12 ital bfont14"
+  },
+  {
+    "id": "7959359",
+    "type": "public",
+    "date": "7/06 19:33",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Neo The Protogen lmao",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959360",
+    "type": "public",
+    "date": "7/06 19:33",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "That makes my neck hurt",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
