@@ -888,5 +888,15 @@
     "userClasses": "username user ",
     "message": "Hi",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959920",
+    "type": "public",
+    "date": "8/06 1:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hewwo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
