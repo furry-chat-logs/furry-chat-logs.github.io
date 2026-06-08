@@ -26576,5 +26576,15 @@
     "userClasses": "username bgrad26 bnfont16",
     "message": "I NEED HELP",
     "msgClasses": "chat_message bgrad40 heavybold bfont14"
+  },
+  {
+    "id": "7959512",
+    "type": "public",
+    "date": "7/06 21:04",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "I hate that",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
