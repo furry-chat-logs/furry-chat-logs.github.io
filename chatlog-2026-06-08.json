@@ -14274,5 +14274,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Who wants to hear something funny?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961279",
+    "type": "public",
+    "date": "8/06 14:53",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "My real name is Nemo",
+    "msgClasses": "chat_message "
   }
 ]
