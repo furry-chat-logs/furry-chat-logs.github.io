@@ -27016,5 +27016,25 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "Spextre_prorogen hihi :3",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959556",
+    "type": "public",
+    "date": "7/06 21:19",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "Iyas_fox hi there!",
+    "msgClasses": "chat_message bgrad34  bfont6"
+  },
+  {
+    "id": "7959557",
+    "type": "public",
+    "date": "7/06 21:19",
+    "username": "Iyas_fox",
+    "userId": "36593",
+    "userClasses": "username bcolor13 bnfont3",
+    "message": "And hi king corgz :3",
+    "msgClasses": "chat_message "
   }
 ]
