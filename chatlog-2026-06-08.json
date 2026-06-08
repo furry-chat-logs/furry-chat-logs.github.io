@@ -9654,5 +9654,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hm",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7960799",
+    "type": "public",
+    "date": "8/06 13:07",
+    "username": "MuzeMutt",
+    "userId": "37589",
+    "userClasses": "username bcolor13 bnfont9",
+    "message": "Hiiiiiii",
+    "msgClasses": "chat_message "
   }
 ]
