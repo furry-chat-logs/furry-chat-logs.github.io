@@ -25446,5 +25446,25 @@
     "userClasses": "username bcolor27 ",
     "message": "2am which means GOODNIGHT",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7959397",
+    "type": "public",
+    "date": "7/06 19:52",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "Bye bye guys goodnight",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7959398",
+    "type": "public",
+    "date": "7/06 19:52",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[happy]",
+    "msgClasses": "chat_message bold"
   }
 ]
