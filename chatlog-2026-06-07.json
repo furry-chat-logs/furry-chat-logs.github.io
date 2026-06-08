@@ -27376,5 +27376,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I miss you",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959592",
+    "type": "public",
+    "date": "7/06 21:40",
+    "username": "Leeland",
+    "userId": "13262",
+    "userClasses": "username bneon19 bnfont11",
+    "message": "guys",
+    "msgClasses": "chat_message bneon18 heavyital bfont3"
   }
 ]
