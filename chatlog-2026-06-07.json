@@ -29666,5 +29666,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "I think it needs some gas",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959821",
+    "type": "public",
+    "date": "7/06 23:44",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Sharkish lmao",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959822",
+    "type": "public",
+    "date": "7/06 23:45",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "What'd you do",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
