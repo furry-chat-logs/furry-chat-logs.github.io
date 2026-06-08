@@ -28136,5 +28136,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "The Nephalem some weird person who thought his dogs were his siblings or sum shit",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959668",
+    "type": "public",
+    "date": "7/06 22:00",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Well my parents called the dogs their kids",
+    "msgClasses": "chat_message "
   }
 ]
