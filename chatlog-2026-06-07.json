@@ -28056,5 +28056,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "I like eating butter plain",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959660",
+    "type": "public",
+    "date": "7/06 21:57",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "[happy]",
+    "msgClasses": "chat_message "
   }
 ]
