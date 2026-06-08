@@ -6264,5 +6264,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Youwuw da wawst",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960460",
+    "type": "public",
+    "date": "8/06 12:06",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "RuffRuffRobyn not sure what you meant to say but I agree",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
