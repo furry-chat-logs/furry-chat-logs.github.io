@@ -29296,5 +29296,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Buggo Ill go get him some popeyes from just down the road.",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959784",
+    "type": "public",
+    "date": "7/06 23:00",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_36195f757ade.png]",
+    "msgClasses": "chat_message "
   }
 ]
