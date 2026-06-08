@@ -24970,5 +24970,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Curiosity will kill the cat.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7959346",
+    "type": "public",
+    "date": "7/06 19:29",
+    "username": "Neo The Protogen",
+    "userId": "7705",
+    "userClasses": "username bneon12 bnfont15",
+    "message": "💚💚",
+    "msgClasses": "chat_message bneon12 ital bfont14"
   }
 ]
