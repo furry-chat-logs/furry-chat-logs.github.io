@@ -27916,5 +27916,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Especially since I felt the need to go out of my way to empathize",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959646",
+    "type": "public",
+    "date": "7/06 21:54",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Hii",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7959647",
+    "type": "public",
+    "date": "7/06 21:54",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Luna444 yes because as soon as I sent that message I realized how much I sounded like everyone else",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
