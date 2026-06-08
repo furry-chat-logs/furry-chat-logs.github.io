@@ -28666,5 +28666,25 @@
     "userClasses": "username bgrad15 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37005_caa46724a2f7.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959721",
+    "type": "public",
+    "date": "7/06 22:30",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "9850X3D, 9070XT.",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959722",
+    "type": "public",
+    "date": "7/06 22:30",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "And I love the AIO",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
