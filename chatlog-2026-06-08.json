@@ -6284,5 +6284,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "My mom Thinks I'm weird...",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960462",
+    "type": "public",
+    "date": "8/06 12:07",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "He doesn't leave me alone.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960463",
+    "type": "public",
+    "date": "8/06 12:07",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*wags tail* NUwUmm BUwUg i do tOowoO",
+    "msgClasses": "chat_message "
   }
 ]
