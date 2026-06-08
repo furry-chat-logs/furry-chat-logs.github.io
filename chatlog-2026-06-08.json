@@ -12054,5 +12054,25 @@
     "userClasses": "username bcolor32 ",
     "message": "ZIBZI huh?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961057",
+    "type": "public",
+    "date": "8/06 13:59",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "Derikgodzilla18 go touch grass instead of kids",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961058",
+    "type": "public",
+    "date": "8/06 13:59",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Spectre_protogen We fight because he is a creep.",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
