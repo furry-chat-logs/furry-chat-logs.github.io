@@ -12584,5 +12584,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_26664e090313.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961110",
+    "type": "public",
+    "date": "8/06 14:07",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "NotAWarlock I'm talking about Destiny",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961111",
+    "type": "public",
+    "date": "8/06 14:07",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "NotAWarlock we both did nothing",
+    "msgClasses": "chat_message "
   }
 ]
