@@ -18,5 +18,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Neurosamaaa",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7959830",
+    "type": "public",
+    "date": "8/06 0:09",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "bup",
+    "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7959831",
+    "type": "public",
+    "date": "8/06 0:09",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Evelyn was here xx",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
