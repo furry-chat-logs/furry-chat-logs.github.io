@@ -28436,5 +28436,15 @@
     "userClasses": "username bgrad15 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37005_c438d96c3de2.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959698",
+    "type": "public",
+    "date": "7/06 22:18",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I love cats",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
