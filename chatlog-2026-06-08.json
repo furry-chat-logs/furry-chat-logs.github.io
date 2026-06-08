@@ -7904,5 +7904,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "I tried once, never again",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960624",
+    "type": "public",
+    "date": "8/06 12:39",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Mojito interesting",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
