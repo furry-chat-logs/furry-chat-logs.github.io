@@ -9644,5 +9644,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user13262_244dac00ff84.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960798",
+    "type": "public",
+    "date": "8/06 13:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Hm",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
