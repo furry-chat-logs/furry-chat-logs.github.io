@@ -14614,5 +14614,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "The Nephalem im going there with my idiot friends soon",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7961313",
+    "type": "public",
+    "date": "8/06 15:03",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "What for?",
+    "msgClasses": "chat_message "
   }
 ]
