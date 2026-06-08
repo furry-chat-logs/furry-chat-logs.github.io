@@ -13564,5 +13564,45 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user31609_832ca65c3cac.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961208",
+    "type": "public",
+    "date": "8/06 14:21",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "A sentinel",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961209",
+    "type": "public",
+    "date": "8/06 14:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Custom Barbatos Lupus Rex!",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961210",
+    "type": "public",
+    "date": "8/06 14:21",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "The sentinel is fucking huge",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961211",
+    "type": "public",
+    "date": "8/06 14:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Wwww!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
