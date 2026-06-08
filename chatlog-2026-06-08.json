@@ -15584,5 +15584,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "[media: https://furrychat.net/chat/upload/chat/user13262_1a335ac9a3d4.webp]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961411",
+    "type": "public",
+    "date": "8/06 16:07",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "PATRICIA",
+    "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7961412",
+    "type": "public",
+    "date": "8/06 16:07",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": ">:[",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
