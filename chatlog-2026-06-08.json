@@ -8284,5 +8284,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "I've never dumped anybody",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7960662",
+    "type": "public",
+    "date": "8/06 12:46",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNDFjMHV1ZWljY2RiczludThncWxxNjQyZXM5OGFwZ3BzdzNzZDVseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xSSbG2qAjjHprGVCbP/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7960663",
+    "type": "public",
+    "date": "8/06 12:46",
+    "username": "Ch3rry_Drop",
+    "userId": "37449",
+    "userClasses": "username bgrad39 ",
+    "message": "I mean ur bf dumped u",
+    "msgClasses": "chat_message bneon9"
   }
 ]
