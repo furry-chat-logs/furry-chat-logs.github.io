@@ -10674,5 +10674,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "larparp larporp ararp larporp urp ovarp marp larpurp larp",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7960919",
+    "type": "public",
+    "date": "8/06 13:34",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "idfk",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7960920",
+    "type": "public",
+    "date": "8/06 13:34",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmd2VnbnE0N3VycXVveHM1NDJrZDl3c282cDk4Z2tianF3bTZta3k0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sBffRwz30Z81xlBw4i/giphy.gif]",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
