@@ -3484,5 +3484,25 @@
     "userClasses": "username bgrad7 bnfont3",
     "message": "Does my profile look like I'd be an age player, please say no",
     "msgClasses": "chat_message bneon20  bfont9"
+  },
+  {
+    "id": "7960182",
+    "type": "public",
+    "date": "8/06 10:52",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad7 bnfont3",
+    "message": "I am just making sure",
+    "msgClasses": "chat_message bneon20  bfont9"
+  },
+  {
+    "id": "7960183",
+    "type": "public",
+    "date": "8/06 10:52",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "no",
+    "msgClasses": "chat_message bneon19 ital bfont2"
   }
 ]
