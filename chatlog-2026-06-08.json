@@ -3894,5 +3894,35 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "*uear",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960223",
+    "type": "public",
+    "date": "8/06 11:15",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "HUGGO ME PWEASE! ~nya",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960224",
+    "type": "public",
+    "date": "8/06 11:15",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "CUTE FURRY FLUFFING HEWW",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960225",
+    "type": "public",
+    "date": "8/06 11:15",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "**year",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
