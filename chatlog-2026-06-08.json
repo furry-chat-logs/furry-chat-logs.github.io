@@ -14704,5 +14704,25 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Oh mb!!",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961322",
+    "type": "public",
+    "date": "8/06 15:06",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "It's fine",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961323",
+    "type": "public",
+    "date": "8/06 15:06",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "What's your pronoun so I can know?",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
