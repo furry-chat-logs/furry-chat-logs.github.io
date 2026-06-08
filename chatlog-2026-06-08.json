@@ -14334,5 +14334,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_86b84d9f3d37.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961285",
+    "type": "public",
+    "date": "8/06 14:54",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "I'm here ñ",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961286",
+    "type": "public",
+    "date": "8/06 14:54",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Spectre_protogen bye British man",
+    "msgClasses": "chat_message "
   }
 ]
