@@ -24762,5 +24762,15 @@
     "userClasses": "username bcolor10 bnfont6",
     "message": "Oof",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959325",
+    "type": "public",
+    "date": "7/06 19:16",
+    "username": "Springtr4p",
+    "userId": "14787",
+    "userClasses": "username bgrad33 bnfont12",
+    "message": "Bored",
+    "msgClasses": "chat_message bgrad33  bfont12"
   }
 ]
