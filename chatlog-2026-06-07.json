@@ -28526,5 +28526,15 @@
     "userClasses": "username bgrad15 ",
     "message": "The abyss creature needs a name.",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7959707",
+    "type": "public",
+    "date": "7/06 22:26",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "you name it Buggo",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
