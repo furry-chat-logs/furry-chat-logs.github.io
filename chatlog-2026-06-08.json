@@ -3924,5 +3924,35 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "**year",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960226",
+    "type": "public",
+    "date": "8/06 11:15",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Btw chat robyn has a uwu filter on",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960227",
+    "type": "public",
+    "date": "8/06 11:16",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Sub put it on her",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960228",
+    "type": "public",
+    "date": "8/06 11:16",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "H-hewwo~ WE KNOWOW >///<",
+    "msgClasses": "chat_message "
   }
 ]
