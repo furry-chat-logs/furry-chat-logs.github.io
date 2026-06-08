@@ -12204,5 +12204,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Wait we have bigger balls to scratch",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961072",
+    "type": "public",
+    "date": "8/06 14:00",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Numm Bug HOW?!",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961073",
+    "type": "public",
+    "date": "8/06 14:00",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "oh",
+    "msgClasses": "chat_message bneon13 ital bfont12"
   }
 ]
