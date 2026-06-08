@@ -15954,5 +15954,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "Mojito *does nonbinary bread magic to re-live you*",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7961449",
+    "type": "public",
+    "date": "8/06 16:28",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmODVxZjRnaGcxNTFrdmt6N3JvM3VtYnlpZHg5N3VsazY0ZDh0b3F4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IspsYDd1YLqwMyCnho/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
