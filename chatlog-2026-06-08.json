@@ -2366,5 +2366,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Meh",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7960070",
+    "type": "public",
+    "date": "8/06 9:28",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I ok",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
