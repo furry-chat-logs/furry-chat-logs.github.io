@@ -14994,5 +14994,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "My mom is scary",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961351",
+    "type": "public",
+    "date": "8/06 15:16",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "what he hell yo",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7961352",
+    "type": "public",
+    "date": "8/06 15:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Skinned Issa cutely",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
