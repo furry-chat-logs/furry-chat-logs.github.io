@@ -15934,5 +15934,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Dies violently.",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961447",
+    "type": "public",
+    "date": "8/06 16:28",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmb3lvN2kzNWFvdHdsbzg4d3RwNHpuZ213bW9jbXp2Y21rOW1vcjJlcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ezQoIG6dUPZvDObHd9/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
