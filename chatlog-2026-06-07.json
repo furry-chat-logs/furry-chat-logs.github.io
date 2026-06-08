@@ -29186,5 +29186,15 @@
     "userClasses": "username bgrad15 ",
     "message": "QueenKit Thats so good!!",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7959773",
+    "type": "public",
+    "date": "7/06 22:54",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Thanks!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
