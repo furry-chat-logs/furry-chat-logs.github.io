@@ -3504,5 +3504,25 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "no",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7960184",
+    "type": "public",
+    "date": "8/06 10:52",
+    "username": "Skylar Rosevelt Gunz",
+    "userId": "26529",
+    "userClasses": "username bgrad22 bnfont15",
+    "message": "LukeWarm I thought it was a kiss too lol",
+    "msgClasses": "chat_message bgrad22 heavyital bfont8"
+  },
+  {
+    "id": "7960185",
+    "type": "public",
+    "date": "8/06 10:52",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad7 bnfont3",
+    "message": "Thank god",
+    "msgClasses": "chat_message bneon20  bfont9"
   }
 ]
