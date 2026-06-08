@@ -14454,5 +14454,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "Jasajz6aJg2ua2",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961297",
+    "type": "public",
+    "date": "8/06 14:56",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "The Nephalem That name sounds like Pneumonia",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961298",
+    "type": "public",
+    "date": "8/06 14:56",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Sorry found a tick on my body",
+    "msgClasses": "chat_message "
   }
 ]
