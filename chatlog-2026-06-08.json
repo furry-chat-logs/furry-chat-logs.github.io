@@ -16814,5 +16814,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "ME",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961535",
+    "type": "public",
+    "date": "8/06 16:54",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "😭😭😭 >w<",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961536",
+    "type": "public",
+    "date": "8/06 16:54",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "Help you?",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
