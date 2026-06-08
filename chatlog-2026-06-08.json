@@ -17614,5 +17614,25 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "jake paulright",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7961617",
+    "type": "public",
+    "date": "8/06 17:26",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[secret-share: 2sMw3nVOd9tisAqe9TDmM1Agy&n=35783] eee",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7961618",
+    "type": "public",
+    "date": "8/06 17:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZnIwN2l1bmQ1czBtcTlicWVndjQwNTgzdG9xcnR5M3FiOGZ4dnMxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RkMuw6XZxPqNy/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
