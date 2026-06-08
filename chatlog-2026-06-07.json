@@ -25776,5 +25776,25 @@
     "userClasses": "username bneon1 bnfont8",
     "message": "Smiley lol never",
     "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7959431",
+    "type": "public",
+    "date": "7/06 20:32",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "I really miss Anthony",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7959432",
+    "type": "public",
+    "date": "7/06 20:32",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Thinks would be better if he was here",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
