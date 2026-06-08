@@ -14294,5 +14294,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "(well Nemona)",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961281",
+    "type": "public",
+    "date": "8/06 14:53",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Has anyone seen The Nephalem ?",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961282",
+    "type": "public",
+    "date": "8/06 14:53",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I can't find them",
+    "msgClasses": "chat_message bneon19"
   }
 ]
