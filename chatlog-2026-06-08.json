@@ -17764,5 +17764,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "( Scheiße 8/06 15:34 ) Ok",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961633",
+    "type": "public",
+    "date": "8/06 17:37",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Shizen",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
