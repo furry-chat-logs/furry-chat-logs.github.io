@@ -4274,5 +4274,35 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "rawr x3 HES BEING A MEANIE *pounces*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960261",
+    "type": "public",
+    "date": "8/06 11:19",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "Thats cause its hilarious",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960262",
+    "type": "public",
+    "date": "8/06 11:19",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9189_d74527819013.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960263",
+    "type": "public",
+    "date": "8/06 11:19",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*nuzzles* Is it weawing off? ^-^^^",
+    "msgClasses": "chat_message "
   }
 ]
