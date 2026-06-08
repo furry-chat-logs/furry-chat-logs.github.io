@@ -16964,5 +16964,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "H-hewwo~ E >///<",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961550",
+    "type": "public",
+    "date": "8/06 16:56",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "L",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7961551",
+    "type": "public",
+    "date": "8/06 16:56",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Wtf ~nya",
+    "msgClasses": "chat_message "
   }
 ]
