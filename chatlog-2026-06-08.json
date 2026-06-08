@@ -15294,5 +15294,15 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "The chat died",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7961382",
+    "type": "public",
+    "date": "8/06 15:42",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Interesting.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
