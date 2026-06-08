@@ -368,5 +368,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And now it came back what is going onnnnn",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7959867",
+    "type": "public",
+    "date": "8/06 0:31",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "I spend it all",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
