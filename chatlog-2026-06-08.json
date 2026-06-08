@@ -2136,5 +2136,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Huggo me pwease",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960047",
+    "type": "public",
+    "date": "8/06 9:18",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Still filtered, huh?",
+    "msgClasses": "chat_message "
   }
 ]
