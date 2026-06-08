@@ -1328,5 +1328,15 @@
     "userClasses": "username user ",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user36664_68cfaeeea747.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959964",
+    "type": "public",
+    "date": "8/06 4:12",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Bro my sleep schedule is bunz 💔",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
