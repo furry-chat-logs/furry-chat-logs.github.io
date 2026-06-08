@@ -10454,5 +10454,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Mom here gtg",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960897",
+    "type": "public",
+    "date": "8/06 13:31",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Bruh",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7960898",
+    "type": "public",
+    "date": "8/06 13:31",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "QueenMoon I can come up with alot",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
