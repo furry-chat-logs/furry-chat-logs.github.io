@@ -2916,5 +2916,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "DSAF is ball knowledge",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7960125",
+    "type": "public",
+    "date": "8/06 9:45",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user27278_026e2bde244e.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
