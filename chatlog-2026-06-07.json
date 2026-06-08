@@ -25736,5 +25736,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "Eh.",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7959427",
+    "type": "public",
+    "date": "7/06 20:30",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Anyone want 1000 coins? U.U",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959428",
+    "type": "public",
+    "date": "7/06 20:31",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "Yes please",
+    "msgClasses": "chat_message bneon1 ital bfont10"
   }
 ]
