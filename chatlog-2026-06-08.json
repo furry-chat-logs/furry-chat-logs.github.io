@@ -9844,5 +9844,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "ok bro",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7960818",
+    "type": "public",
+    "date": "8/06 13:15",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "I Feeling clingy today.",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7960819",
+    "type": "public",
+    "date": "8/06 13:16",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "I'm done with my shit",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
