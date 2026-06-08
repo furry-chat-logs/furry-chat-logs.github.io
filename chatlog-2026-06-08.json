@@ -18344,5 +18344,15 @@
     "userClasses": "username bneon21 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user26289_ba9d4b75ee24.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961693",
+    "type": "public",
+    "date": "8/06 18:52",
+    "username": "derg",
+    "userId": "26289",
+    "userClasses": "username bneon21 bnfont14",
+    "message": "what do we think of the front panel being grey-ish?",
+    "msgClasses": "chat_message bneon30 bold bfont14"
   }
 ]
