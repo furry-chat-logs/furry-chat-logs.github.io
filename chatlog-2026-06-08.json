@@ -2746,5 +2746,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Daddy ~nya",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960108",
+    "type": "public",
+    "date": "8/06 9:39",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "RuffRuffRobyn hello princes",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
