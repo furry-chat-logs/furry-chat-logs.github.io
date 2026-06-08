@@ -1628,5 +1628,13 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "you want a fursuit to be ordered",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7959994",
+    "type": "system",
+    "date": "8/06 7:12",
+    "username": "System",
+    "userId": null,
+    "message": "Dredger has been muted"
   }
 ]
