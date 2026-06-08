@@ -28026,5 +28026,15 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "^-^",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7959657",
+    "type": "public",
+    "date": "7/06 21:56",
+    "username": "Luna444",
+    "userId": "35510",
+    "userClasses": "username bneon19 bnfont7",
+    "message": "Sure",
+    "msgClasses": "chat_message bcolor19 heavyital bfont1"
   }
 ]
