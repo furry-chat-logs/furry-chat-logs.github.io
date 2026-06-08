@@ -14884,5 +14884,25 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "She once told him to beggod to forgive him",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961340",
+    "type": "public",
+    "date": "8/06 15:12",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "The Nephalem ZAMN",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961341",
+    "type": "public",
+    "date": "8/06 15:12",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Sorry I'm having to use My amazon remote for voice command so",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
