@@ -27066,5 +27066,25 @@
     "userClasses": "username bcolor13 bnfont3",
     "message": "Maybe try a difreand post if your neck hurt",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959561",
+    "type": "public",
+    "date": "7/06 21:21",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "KingCorgz HII",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7959562",
+    "type": "public",
+    "date": "7/06 21:21",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "thanks for the advice!",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
