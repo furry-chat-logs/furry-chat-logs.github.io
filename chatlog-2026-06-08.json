@@ -848,5 +848,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Can't",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7959916",
+    "type": "public",
+    "date": "8/06 1:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Might die",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7959917",
+    "type": "public",
+    "date": "8/06 1:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Here we go again",
+    "msgClasses": "chat_message bneon14"
   }
 ]
