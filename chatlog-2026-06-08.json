@@ -3584,5 +3584,15 @@
     "userClasses": "username bcolor27 ",
     "message": "I was a huge fan of the first chapter",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7960192",
+    "type": "public",
+    "date": "8/06 10:53",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad7 bnfont3",
+    "message": "Its supposed to come out this year",
+    "msgClasses": "chat_message bneon20  bfont9"
   }
 ]
