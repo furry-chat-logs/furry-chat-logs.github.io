@@ -28686,5 +28686,35 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "And I love the AIO",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959723",
+    "type": "public",
+    "date": "7/06 22:31",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I can see it in his eyes. Hes a glorbo.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7959724",
+    "type": "public",
+    "date": "7/06 22:31",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "Damn that's really nice",
+    "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959725",
+    "type": "public",
+    "date": "7/06 22:31",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "Overpriced Gigabyte motherboard, 1 TB Gen 5 Nvme.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
