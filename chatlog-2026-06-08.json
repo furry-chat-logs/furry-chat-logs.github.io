@@ -16054,5 +16054,15 @@
     "userClasses": "username bneon18 ",
     "message": "Hi.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7961459",
+    "type": "public",
+    "date": "8/06 16:32",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "liminal Heyaa",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
