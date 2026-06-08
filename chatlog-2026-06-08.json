@@ -88,5 +88,15 @@
     "userClasses": "username bgrad13 bnfont6",
     "message": "WHAT...",
     "msgClasses": "chat_message bneon15 bold bfont13"
+  },
+  {
+    "id": "7959837",
+    "type": "public",
+    "date": "8/06 0:12",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Yeah and it was the size of a goddamn eraser",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
