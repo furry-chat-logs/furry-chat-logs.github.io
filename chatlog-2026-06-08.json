@@ -16874,5 +16874,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "YESH ~nya",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961541",
+    "type": "public",
+    "date": "8/06 16:55",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "Different account?\\",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
