@@ -3454,5 +3454,25 @@
     "userClasses": "username bgrad7 bnfont3",
     "message": "I thought it was a kiss of sorts",
     "msgClasses": "chat_message bneon20  bfont9"
+  },
+  {
+    "id": "7960179",
+    "type": "public",
+    "date": "8/06 10:51",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmM3cyZm9jZ3hteTB3cWlibnlzOWE2Y2NqbnViaXkzbmsydnNrZThpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b4tLpVsIingGI/giphy.gif]",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7960180",
+    "type": "public",
+    "date": "8/06 10:51",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I think it can be used for both",
+    "msgClasses": "chat_message bold"
   }
 ]
