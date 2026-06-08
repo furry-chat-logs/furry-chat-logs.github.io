@@ -29696,5 +29696,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "Crashed going down hill on the side of the road",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959824",
+    "type": "public",
+    "date": "7/06 23:47",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "A cop pulled over to make sure i was okay",
+    "msgClasses": "chat_message "
   }
 ]
