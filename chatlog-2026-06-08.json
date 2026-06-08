@@ -13334,5 +13334,45 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "I love them so much",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961185",
+    "type": "public",
+    "date": "8/06 14:18",
+    "username": "Derikgodzilla18",
+    "userId": "36910",
+    "userClasses": "username bcolor32 ",
+    "message": "Ps4?",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961186",
+    "type": "public",
+    "date": "8/06 14:18",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_478c1796dcd2.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961187",
+    "type": "public",
+    "date": "8/06 14:18",
+    "username": "NotAWarlock",
+    "userId": "31609",
+    "userClasses": "username bcolor9 bnfont8",
+    "message": "They are so relaxing and frustrating to build",
+    "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961188",
+    "type": "public",
+    "date": "8/06 14:18",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_cc6a7a9d518c.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
