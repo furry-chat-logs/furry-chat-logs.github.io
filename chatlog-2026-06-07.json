@@ -29396,5 +29396,25 @@
     "userClasses": "username bcolor7 bnfont15",
     "message": "Buggo woww",
     "msgClasses": "chat_message bcolor7  bfont11"
+  },
+  {
+    "id": "7959794",
+    "type": "public",
+    "date": "7/06 23:06",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Do you like green eggs and ham? 8/06 0:03 i do not like them sam i am i do not like green egs and ham",
+    "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959795",
+    "type": "public",
+    "date": "7/06 23:07",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_eff324526c98.png]",
+    "msgClasses": "chat_message "
   }
 ]
