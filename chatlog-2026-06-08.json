@@ -1856,5 +1856,25 @@
     "userClasses": "username bcolor27 ",
     "message": "I deadass didnt realise it was a filter",
     "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7960019",
+    "type": "public",
+    "date": "8/06 8:52",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "I just thought they actually spoke like that",
+    "msgClasses": "chat_message bold"
+  },
+  {
+    "id": "7960020",
+    "type": "public",
+    "date": "8/06 8:53",
+    "username": "liminal",
+    "userId": "484",
+    "userClasses": "username bcolor27 ",
+    "message": "[amazing]",
+    "msgClasses": "chat_message bold"
   }
 ]
