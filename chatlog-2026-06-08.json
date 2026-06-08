@@ -13084,5 +13084,25 @@
     "userClasses": "username bcolor32 ",
     "message": "Guess my age",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961160",
+    "type": "public",
+    "date": "8/06 14:13",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Leave me alone Epstien I'm playing Gundam 💔",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961161",
+    "type": "public",
+    "date": "8/06 14:13",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "18-19",
+    "msgClasses": "chat_message "
   }
 ]
