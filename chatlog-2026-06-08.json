@@ -128,5 +128,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Ah",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7959841",
+    "type": "public",
+    "date": "8/06 0:13",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Why it's gone now yippee",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
