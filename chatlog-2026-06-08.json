@@ -18354,5 +18354,25 @@
     "userClasses": "username bneon21 bnfont14",
     "message": "what do we think of the front panel being grey-ish?",
     "msgClasses": "chat_message bneon30 bold bfont14"
+  },
+  {
+    "id": "7961694",
+    "type": "public",
+    "date": "8/06 18:52",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Iss my er.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7961695",
+    "type": "public",
+    "date": "8/06 18:52",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Er.",
+    "msgClasses": "chat_message ital"
   }
 ]
