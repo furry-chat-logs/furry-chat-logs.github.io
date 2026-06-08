@@ -26906,5 +26906,25 @@
     "userClasses": "username bgrad39 bnfont14",
     "message": "King_Scourge I gotchu :O",
     "msgClasses": "chat_message bgrad31 bold bfont12"
+  },
+  {
+    "id": "7959545",
+    "type": "public",
+    "date": "7/06 21:12",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_9806310f7129.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959546",
+    "type": "public",
+    "date": "7/06 21:12",
+    "username": "Spectre_protogen",
+    "userId": "27278",
+    "userClasses": "username bgrad34 bnfont6",
+    "message": "I return already due to not being mentally able to miss anything interesting",
+    "msgClasses": "chat_message bgrad34  bfont6"
   }
 ]
