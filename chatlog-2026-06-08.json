@@ -10654,5 +10654,15 @@
     "userClasses": "username bcolor32 ",
     "message": "Heheh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960917",
+    "type": "public",
+    "date": "8/06 13:34",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "CUMBALL!!",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
   }
 ]
