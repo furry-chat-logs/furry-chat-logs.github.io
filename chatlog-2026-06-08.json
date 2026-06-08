@@ -12664,5 +12664,15 @@
     "userClasses": "username bcolor9 bnfont8",
     "message": "They killed a bomb ass game",
     "msgClasses": "chat_message bcolor7 boldital bfont14"
+  },
+  {
+    "id": "7961118",
+    "type": "public",
+    "date": "8/06 14:07",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "You're 18.",
+    "msgClasses": "chat_message bneon19"
   }
 ]
