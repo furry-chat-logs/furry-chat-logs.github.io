@@ -12134,5 +12134,25 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_5c6c396b69d2.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961065",
+    "type": "public",
+    "date": "8/06 14:00",
+    "username": "Mojito",
+    "userId": "19822",
+    "userClasses": "username bgrad39 bnfont16",
+    "message": "Derikgodzilla18 No gossip, only the truth",
+    "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961066",
+    "type": "public",
+    "date": "8/06 14:00",
+    "username": "ZIBZI",
+    "userId": "36830",
+    "userClasses": "username bcolor8 bnfont7",
+    "message": "gossip would be us liying",
+    "msgClasses": "chat_message "
   }
 ]
