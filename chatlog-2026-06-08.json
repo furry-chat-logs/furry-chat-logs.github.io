@@ -558,5 +558,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "My great grandmother was born in Canada 💀",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7959887",
+    "type": "public",
+    "date": "8/06 0:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "*heart racing*",
+    "msgClasses": "chat_message bneon14"
   }
 ]
