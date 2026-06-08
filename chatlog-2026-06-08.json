@@ -1298,5 +1298,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user11758_da6158e2ca91.mp3 | Hemopang.mp3]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959961",
+    "type": "public",
+    "date": "8/06 4:06",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "woah dis is good",
+    "msgClasses": "chat_message bneon14"
   }
 ]
