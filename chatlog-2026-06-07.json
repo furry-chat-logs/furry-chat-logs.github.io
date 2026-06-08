@@ -27566,5 +27566,15 @@
     "userClasses": "username bcolor2 bnfont1",
     "message": "looks nice",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959611",
+    "type": "public",
+    "date": "7/06 21:47",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "I thought QueenMoon made it",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
