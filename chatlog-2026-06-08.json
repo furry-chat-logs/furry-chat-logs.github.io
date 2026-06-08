@@ -6964,5 +6964,25 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "Anyways",
     "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7960530",
+    "type": "public",
+    "date": "8/06 12:23",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "I'll be going now",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7960531",
+    "type": "public",
+    "date": "8/06 12:23",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "Ch3rry_Drop ik",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
