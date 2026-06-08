@@ -24772,5 +24772,15 @@
     "userClasses": "username bgrad33 bnfont12",
     "message": "Bored",
     "msgClasses": "chat_message bgrad33  bfont12"
+  },
+  {
+    "id": "7959326",
+    "type": "public",
+    "date": "7/06 19:16",
+    "username": "Imlonely",
+    "userId": "37581",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "Me too",
+    "msgClasses": "chat_message "
   }
 ]
