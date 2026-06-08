@@ -28516,5 +28516,15 @@
     "userClasses": "username bgrad15 ",
     "message": "The abyss creature is happy to!!",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7959706",
+    "type": "public",
+    "date": "7/06 22:20",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "The abyss creature needs a name.",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
