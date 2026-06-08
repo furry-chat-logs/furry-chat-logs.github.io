@@ -17804,5 +17804,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "My ss died",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7961637",
+    "type": "public",
+    "date": "8/06 17:39",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "KingCorgz same",
+    "msgClasses": "chat_message "
   }
 ]
