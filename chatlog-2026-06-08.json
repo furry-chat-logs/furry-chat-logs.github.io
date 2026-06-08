@@ -13804,5 +13804,15 @@
     "userClasses": "username bgrad34 bnfont6",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user27278_8105b011e190.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961232",
+    "type": "public",
+    "date": "8/06 14:31",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "I'm so confused",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
