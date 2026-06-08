@@ -14604,5 +14604,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Sharts",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7961312",
+    "type": "public",
+    "date": "8/06 15:02",
+    "username": "Lyman",
+    "userId": "28253",
+    "userClasses": "username bneon16 bnfont16",
+    "message": "The Nephalem im going there with my idiot friends soon",
+    "msgClasses": "chat_message bneon16  bfont10"
   }
 ]
