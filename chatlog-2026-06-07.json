@@ -27846,5 +27846,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Your generic find help crap people use just to sound like they care",
     "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959639",
+    "type": "public",
+    "date": "7/06 21:53",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGt5eXhxb2VrbmNsdDYxdTV0c212ZWUyMXM0YW91djNqOTc3dTk2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TDjQmPUrNLNrovwbpk/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
