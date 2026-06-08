@@ -24872,5 +24872,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "How unfortunate.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7959336",
+    "type": "public",
+    "date": "7/06 19:27",
+    "username": "Imlonely",
+    "userId": "37581",
+    "userClasses": "username bcolor10 bnfont6",
+    "message": "Yep:(",
+    "msgClasses": "chat_message "
   }
 ]
