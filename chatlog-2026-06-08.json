@@ -15834,5 +15834,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "👁️",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7961437",
+    "type": "public",
+    "date": "8/06 16:23",
+    "username": "XxRainbowDashxX",
+    "userId": "37146",
+    "userClasses": "username bgrad38 bnfont6",
+    "message": "**testing colors**",
+    "msgClasses": "chat_message "
   }
 ]
