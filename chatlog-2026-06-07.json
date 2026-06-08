@@ -25220,5 +25220,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Ashton McKennan give me.",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7959372",
+    "type": "public",
+    "date": "7/06 19:36",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "CHAT!!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
