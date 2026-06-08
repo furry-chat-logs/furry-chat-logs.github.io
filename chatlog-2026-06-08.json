@@ -6484,5 +6484,35 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "My fwiend",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960482",
+    "type": "public",
+    "date": "8/06 12:13",
+    "username": "0NOMOREINNOCENCE0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "?",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7960483",
+    "type": "public",
+    "date": "8/06 12:13",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*purrs* Is shawt shameing me x3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960484",
+    "type": "public",
+    "date": "8/06 12:13",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*purrs* Im 5,1 x3",
+    "msgClasses": "chat_message "
   }
 ]
