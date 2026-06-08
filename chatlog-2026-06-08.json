@@ -5754,5 +5754,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "sniff sniff~ Whoa",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960409",
+    "type": "public",
+    "date": "8/06 11:50",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "woah",
+    "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7960410",
+    "type": "public",
+    "date": "8/06 11:50",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "misha womp womp",
+    "msgClasses": "chat_message bneon32 bold bfont13"
   }
 ]
