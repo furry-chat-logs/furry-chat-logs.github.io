@@ -878,5 +878,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMWk1MHFkd29wdXZhcXVtM3c1d2g1eXZiNjg5ZTZ3NDV0dHIxM3I1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gx8vjqf2OyadHHZ6cL/giphy.gif]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7959919",
+    "type": "public",
+    "date": "8/06 1:44",
+    "username": "Carpet",
+    "userId": "32006",
+    "userClasses": "username user ",
+    "message": "Hi",
+    "msgClasses": "chat_message "
   }
 ]
