@@ -5354,5 +5354,25 @@
     "userClasses": "username bcolor21 bnfont8",
     "message": "lowkey finna hop on vrc",
     "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7960369",
+    "type": "public",
+    "date": "8/06 11:32",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Nvm, my broke ahh probs never affording a vr headset 💔😭",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7960370",
+    "type": "public",
+    "date": "8/06 11:32",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "RuffRuffRobyn whos a straight man",
+    "msgClasses": "chat_message "
   }
 ]
