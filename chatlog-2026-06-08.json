@@ -1258,5 +1258,25 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user11758_45a6b2fd44c0.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959957",
+    "type": "public",
+    "date": "8/06 3:59",
+    "username": "Ram3n",
+    "userId": "11758",
+    "userClasses": "username bneon1 bnfont6",
+    "message": "Some art i finished earlierrr",
+    "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7959958",
+    "type": "public",
+    "date": "8/06 3:59",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ram3n oohhh cool",
+    "msgClasses": "chat_message bneon14"
   }
 ]
