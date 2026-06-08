@@ -8554,5 +8554,25 @@
     "userClasses": "username bgrad39 ",
     "message": "Ok?",
     "msgClasses": "chat_message bneon9"
+  },
+  {
+    "id": "7960689",
+    "type": "public",
+    "date": "8/06 12:49",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "Neo The Protogen Wsg",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7960690",
+    "type": "public",
+    "date": "8/06 12:49",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Walked around with holes on my body",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
