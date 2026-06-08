@@ -25326,5 +25326,15 @@
     "userClasses": "username user ",
     "message": "Hiiii",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7959383",
+    "type": "public",
+    "date": "7/06 19:38",
+    "username": "QueenKit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Miau :3",
+    "msgClasses": "chat_message bneon19"
   }
 ]
