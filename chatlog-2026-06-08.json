@@ -11584,5 +11584,15 @@
     "userClasses": "username bgrad39 bnfont16",
     "message": "Neo The Protogen Not if Darik is still here.",
     "msgClasses": "chat_message bgrad2 boldital bfont14"
+  },
+  {
+    "id": "7961010",
+    "type": "public",
+    "date": "8/06 13:50",
+    "username": "SwiggleRattle",
+    "userId": "19606",
+    "userClasses": "username bneon32 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user19606_68f93f794d1d.png]",
+    "msgClasses": "chat_message "
   }
 ]
