@@ -28866,5 +28866,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "lemme check",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7959741",
+    "type": "public",
+    "date": "7/06 22:34",
+    "username": "Insidiae",
+    "userId": "14829",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "They're just too expensive and don't justify the price.",
+    "msgClasses": "chat_message bneon32 heavybold"
   }
 ]
