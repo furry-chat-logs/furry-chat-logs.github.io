@@ -1636,5 +1636,15 @@
     "username": "System",
     "userId": null,
     "message": "Dredger has been muted"
+  },
+  {
+    "id": "7959995",
+    "type": "public",
+    "date": "8/06 7:21",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[pokerface]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
