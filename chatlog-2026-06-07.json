@@ -27656,5 +27656,25 @@
     "userClasses": "username bgrad40 bnfont2",
     "message": "Yeah I'm sorry",
     "msgClasses": "chat_message bgrad11"
+  },
+  {
+    "id": "7959620",
+    "type": "public",
+    "date": "7/06 21:48",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "It's okay",
+    "msgClasses": "chat_message bneon32 heavybold"
+  },
+  {
+    "id": "7959621",
+    "type": "public",
+    "date": "7/06 21:48",
+    "username": "EagleEdge",
+    "userId": "36986",
+    "userClasses": "username bgrad40 bnfont2",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbGJkNTBkN3V5N3oyaGR3ejZ2Mm1wYzliZ2dkNnhhbHN2a2xodDJxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5xYc45ly7QduU/giphy.gif]",
+    "msgClasses": "chat_message bgrad11"
   }
 ]
