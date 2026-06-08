@@ -5194,5 +5194,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "RuffRuffRobyn yeah i moved",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7960353",
+    "type": "public",
+    "date": "8/06 11:29",
+    "username": "Cutieozzy",
+    "userId": "33677",
+    "userClasses": "username bcolor21 bnfont8",
+    "message": "looking for a group to watch brandon herrera with in vrc movie theater...",
+    "msgClasses": "chat_message bneon19 ital bfont2"
+  },
+  {
+    "id": "7960354",
+    "type": "public",
+    "date": "8/06 11:29",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "rawr~ Shawkish oh hot",
+    "msgClasses": "chat_message "
   }
 ]
