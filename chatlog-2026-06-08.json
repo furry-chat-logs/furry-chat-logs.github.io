@@ -18154,5 +18154,15 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "huh",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7961674",
+    "type": "public",
+    "date": "8/06 18:33",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmZmE3Y2gxOWJsdzBrbGIwNThldTh4ZGs4Z3gzemZodTI4eTdubXYyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eEzzFsQtNtXbZBdyUd/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
