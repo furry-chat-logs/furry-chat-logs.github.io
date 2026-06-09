@@ -2086,5 +2086,15 @@
     "userClasses": "username user ",
     "message": "New Kid *old man voice* Back in my day we roasted ants with a magnifying glass in the sun",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962073",
+    "type": "public",
+    "date": "9/06 7:47",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "themysteriousfox ooo fun",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
