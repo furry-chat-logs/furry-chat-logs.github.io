@@ -5686,5 +5686,15 @@
     "userClasses": "username bneon24 ",
     "message": "Hi",
     "msgClasses": "chat_message bcolor24  bfont6"
+  },
+  {
+    "id": "7962433",
+    "type": "public",
+    "date": "9/06 13:18",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "I murked chat",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
