@@ -6616,5 +6616,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "misha the way they talk",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962526",
+    "type": "public",
+    "date": "9/06 13:37",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ not my faUwUlt hehe",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962527",
+    "type": "public",
+    "date": "9/06 13:37",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ it's a filter Frogmin made",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
