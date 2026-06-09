@@ -3546,5 +3546,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Kept you waiting huh?",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7962219",
+    "type": "public",
+    "date": "9/06 9:47",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Good morning",
+    "msgClasses": "chat_message "
   }
 ]
