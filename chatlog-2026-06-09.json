@@ -5016,5 +5016,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "3FS is so funny",
     "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962366",
+    "type": "public",
+    "date": "9/06 12:24",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "The guy you just posted",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
