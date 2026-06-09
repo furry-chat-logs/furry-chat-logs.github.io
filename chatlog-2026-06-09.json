@@ -9804,5 +9804,25 @@
     "userClasses": "username user ",
     "message": "It makes none of the since",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962849",
+    "type": "public",
+    "date": "9/06 15:14",
+    "username": "Miss Rose",
+    "userId": "6405",
+    "userClasses": "username bcolor24 bnfont3",
+    "message": "THIS$",
+    "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7962850",
+    "type": "public",
+    "date": "9/06 15:14",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "i wish i could buy by the litter because i only drink milk when it is chocolate of when its in cereal",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
