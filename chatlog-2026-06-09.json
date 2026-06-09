@@ -3786,5 +3786,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Wow ~nya",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962243",
+    "type": "public",
+    "date": "9/06 10:05",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "I am finding this out firsthand",
+    "msgClasses": "chat_message "
   }
 ]
