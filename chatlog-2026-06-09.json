@@ -8634,5 +8634,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "Dutch = Nederland, German = Deutchland",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962732",
+    "type": "public",
+    "date": "9/06 14:19",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "germans...👁️😡",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
