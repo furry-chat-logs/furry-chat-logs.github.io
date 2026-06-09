@@ -11424,5 +11424,25 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Churgerbeese",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963011",
+    "type": "public",
+    "date": "9/06 17:02",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [totallove]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7963012",
+    "type": "public",
+    "date": "9/06 17:02",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Hamger",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
