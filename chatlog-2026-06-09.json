@@ -7006,5 +7006,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Exactly",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962565",
+    "type": "public",
+    "date": "9/06 13:40",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Fuwwy Wobin Misha knows? He dealt with half the reports of you cheating on your boyfriend.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962566",
+    "type": "public",
+    "date": "9/06 13:40",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "im not",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
