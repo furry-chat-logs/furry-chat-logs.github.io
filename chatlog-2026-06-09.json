@@ -10994,5 +10994,25 @@
     "userClasses": "username bgrad15 ",
     "message": "Evelyn1 Lemme google that i have no idea where that is-",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7962968",
+    "type": "public",
+    "date": "9/06 16:36",
+    "username": "Rell",
+    "userId": "6662",
+    "userClasses": "username bgrad25 bnfont13",
+    "message": "Evelyn1 1101000111100101",
+    "msgClasses": "chat_message bgrad25 boldital bfont7"
+  },
+  {
+    "id": "7962969",
+    "type": "public",
+    "date": "9/06 16:36",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "basically just switzerland",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
