@@ -1246,5 +1246,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "I didnt sleep at al",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961989",
+    "type": "public",
+    "date": "9/06 6:25",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Its currently 4:25am and i havent slept at all",
+    "msgClasses": "chat_message bneon19"
   }
 ]
