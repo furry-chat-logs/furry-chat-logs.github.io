@@ -836,5 +836,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "Relatable",
     "msgClasses": "chat_message bneon15 heavyital bfont3"
+  },
+  {
+    "id": "7961948",
+    "type": "public",
+    "date": "9/06 2:05",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "welp, i have to head to bed, i gotta be up in 4 hours :[",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
