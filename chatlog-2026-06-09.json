@@ -2016,5 +2016,15 @@
     "userClasses": "username user ",
     "message": "frit How many and what type?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962066",
+    "type": "public",
+    "date": "9/06 7:44",
+    "username": "frit",
+    "userId": "7279",
+    "userClasses": "username bgrad32 bnfont8",
+    "message": "New Kid a lot of people",
+    "msgClasses": "chat_message bneon31"
   }
 ]
