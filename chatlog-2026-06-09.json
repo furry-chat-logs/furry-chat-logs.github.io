@@ -5406,5 +5406,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Awww cute proot",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962405",
+    "type": "public",
+    "date": "9/06 12:34",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Proto is me",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
