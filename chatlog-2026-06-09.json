@@ -12044,5 +12044,15 @@
     "userClasses": "username bcolor10 bnfont3",
     "message": "ble",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963135",
+    "type": "public",
+    "date": "9/06 17:45",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Rafteatsrocks cool mood",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
