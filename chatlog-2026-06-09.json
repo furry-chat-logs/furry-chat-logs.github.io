@@ -12174,5 +12174,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Evelyn1 shitshit",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7963148",
+    "type": "public",
+    "date": "9/06 17:51",
+    "username": "SylviaXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_92760c2e63b8.mp3 | steam_whistle.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963149",
+    "type": "public",
+    "date": "9/06 17:51",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "SylviaXD ohh",
+    "msgClasses": "chat_message bneon13 bold bfont5"
   }
 ]
