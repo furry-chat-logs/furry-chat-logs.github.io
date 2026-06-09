@@ -288,5 +288,15 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "I'd win",
     "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7961893",
+    "type": "public",
+    "date": "9/06 0:06",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Brother said \"Ill give you all the fight you want\" like he's Asta 💔",
+    "msgClasses": "chat_message bneon19"
   }
 ]
