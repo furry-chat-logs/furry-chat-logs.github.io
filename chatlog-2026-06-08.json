@@ -18684,5 +18684,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "J",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961727",
+    "type": "public",
+    "date": "8/06 19:42",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[hono]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
