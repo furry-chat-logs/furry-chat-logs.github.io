@@ -5896,5 +5896,35 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "You've been banned countless times.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962454",
+    "type": "public",
+    "date": "9/06 13:28",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "If you want, give it to me but take it off her",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962455",
+    "type": "public",
+    "date": "9/06 13:28",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*wags tail* No😭😭",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962456",
+    "type": "public",
+    "date": "9/06 13:28",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "yes.",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
