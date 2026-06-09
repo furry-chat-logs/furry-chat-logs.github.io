@@ -4916,5 +4916,15 @@
     "userClasses": "username bneon24 ",
     "message": "I'm a bit special and still trying to figure it out",
     "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7962356",
+    "type": "public",
+    "date": "9/06 12:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oh",
+    "msgClasses": "chat_message bneon14"
   }
 ]
