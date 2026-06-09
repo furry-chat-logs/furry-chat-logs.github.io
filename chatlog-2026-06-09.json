@@ -4046,5 +4046,15 @@
     "userClasses": "username bneon32 bnfont1",
     "message": "guh",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7962269",
+    "type": "public",
+    "date": "9/06 10:45",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_03524794fc62.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
