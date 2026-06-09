@@ -11384,5 +11384,15 @@
     "userClasses": "username bneon20 bnfont10",
     "message": "Bamhurger",
     "msgClasses": "chat_message bneon30 bold"
+  },
+  {
+    "id": "7963007",
+    "type": "public",
+    "date": "9/06 17:01",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Beesechurger",
+    "msgClasses": "chat_message "
   }
 ]
