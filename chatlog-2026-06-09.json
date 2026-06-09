@@ -1916,5 +1916,15 @@
     "userClasses": "username user ",
     "message": "SilverXD How come?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962056",
+    "type": "public",
+    "date": "9/06 7:40",
+    "username": "New Kid",
+    "userId": "36006",
+    "userClasses": "username bcolor15 bnfont1",
+    "message": "themysteriousfox ahh",
+    "msgClasses": "chat_message bgrad34 bold bfont1"
   }
 ]
