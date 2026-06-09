@@ -7744,5 +7744,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37578_bf508400f7c3.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962642",
+    "type": "public",
+    "date": "9/06 14:06",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Im tired of seeing it",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962643",
+    "type": "public",
+    "date": "9/06 14:06",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Oh no a voice message",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
