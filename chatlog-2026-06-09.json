@@ -13672,5 +13672,15 @@
     "userClasses": "username bneon18 ",
     "message": "[happy]",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7963298",
+    "type": "public",
+    "date": "9/06 18:55",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "brains have melted",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
