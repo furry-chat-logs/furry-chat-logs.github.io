@@ -7694,5 +7694,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Not really",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962637",
+    "type": "public",
+    "date": "9/06 14:04",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37578_9ea9e53df1c2.png]",
+    "msgClasses": "chat_message "
   }
 ]
