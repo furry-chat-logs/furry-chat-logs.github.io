@@ -13612,5 +13612,15 @@
     "userClasses": "username bneon18 ",
     "message": "Me and Rune trust.",
     "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7963292",
+    "type": "public",
+    "date": "9/06 18:47",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_8ed634486d53.gif]",
+    "msgClasses": "chat_message "
   }
 ]
