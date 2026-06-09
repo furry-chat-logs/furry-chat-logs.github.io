@@ -6066,5 +6066,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "rawr~ owo fr-OwO-gmin-chan ik",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962471",
+    "type": "public",
+    "date": "9/06 13:30",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Thanks OnO",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962472",
+    "type": "public",
+    "date": "9/06 13:30",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": ":o",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
