@@ -2136,5 +2136,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Hi",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7962078",
+    "type": "public",
+    "date": "9/06 7:51",
+    "username": "themysteriousfox",
+    "userId": "37536",
+    "userClasses": "username user ",
+    "message": "Porphyrophobia ******, but cool",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962079",
+    "type": "public",
+    "date": "9/06 7:51",
+    "username": "themysteriousfox",
+    "userId": "37536",
+    "userClasses": "username user ",
+    "message": "weird*",
+    "msgClasses": "chat_message "
   }
 ]
