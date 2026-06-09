@@ -1326,5 +1326,15 @@
     "userClasses": "username user ",
     "message": "How are you doing today?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961997",
+    "type": "public",
+    "date": "9/06 6:49",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ello",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
