@@ -6346,5 +6346,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "misha i love you hehe",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962499",
+    "type": "public",
+    "date": "9/06 13:33",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "misha I'm re-banning you next.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
