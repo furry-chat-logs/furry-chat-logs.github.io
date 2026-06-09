@@ -11354,5 +11354,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "wait nah thats what you say after they complimented your food",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7963004",
+    "type": "public",
+    "date": "9/06 17:01",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "ah nevermind",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7963005",
+    "type": "public",
+    "date": "9/06 17:01",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Hamborgor",
+    "msgClasses": "chat_message "
   }
 ]
