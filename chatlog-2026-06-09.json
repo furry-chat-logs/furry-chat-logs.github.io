@@ -4286,5 +4286,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "God afternoon Numm Bug",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962293",
+    "type": "public",
+    "date": "9/06 10:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "AAAAAA MY LEG IS SPIKEY",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962294",
+    "type": "public",
+    "date": "9/06 10:54",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "OUCH OUCH OUCH",
+    "msgClasses": "chat_message bneon14"
   }
 ]
