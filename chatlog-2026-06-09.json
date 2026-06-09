@@ -5956,5 +5956,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Stop playing hewo OnO",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962460",
+    "type": "public",
+    "date": "9/06 13:28",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin I once banned myself",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
