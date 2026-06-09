@@ -1096,5 +1096,15 @@
     "userClasses": "username user ",
     "message": "burbur",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961974",
+    "type": "public",
+    "date": "9/06 4:33",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Dead chat",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
