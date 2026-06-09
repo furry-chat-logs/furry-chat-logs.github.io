@@ -8514,5 +8514,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "lxnar Damn I believe I should know you, your in my friendslist yet I don't TwT",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962720",
+    "type": "public",
+    "date": "9/06 14:18",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Sol_Aizawa pms",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962721",
+    "type": "public",
+    "date": "9/06 14:18",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "lxnar DEUTSCHLAND",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
