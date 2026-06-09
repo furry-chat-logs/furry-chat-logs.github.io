@@ -5476,5 +5476,35 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "I have a tail and ears but non-related to fursona",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962412",
+    "type": "public",
+    "date": "9/06 12:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ yea?",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962413",
+    "type": "public",
+    "date": "9/06 12:36",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ hmm??",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7962414",
+    "type": "public",
+    "date": "9/06 12:36",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "i think my ex is trying to get back with me </3",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
