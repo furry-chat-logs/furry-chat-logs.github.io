@@ -10244,5 +10244,15 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "Madame Thorne",
     "msgClasses": "chat_message bneon10 ital bfont12"
+  },
+  {
+    "id": "7962893",
+    "type": "public",
+    "date": "9/06 15:29",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "UGH",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
