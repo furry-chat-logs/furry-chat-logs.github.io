@@ -3426,5 +3426,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "But I LOVE big storms",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7962207",
+    "type": "public",
+    "date": "9/06 9:38",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Ts is NOT summer.",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
