@@ -11244,5 +11244,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "I got pinged",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962993",
+    "type": "public",
+    "date": "9/06 16:50",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "it wasnt me",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
