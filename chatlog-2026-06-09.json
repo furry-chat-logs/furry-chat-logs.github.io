@@ -1746,5 +1746,25 @@
     "userClasses": "username user ",
     "message": "No need to apologize",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962039",
+    "type": "public",
+    "date": "9/06 7:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea I gotta apologize to someone else",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962040",
+    "type": "public",
+    "date": "9/06 7:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "...",
+    "msgClasses": "chat_message bneon14"
   }
 ]
