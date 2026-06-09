@@ -4246,5 +4246,25 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Gm guys",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7962289",
+    "type": "public",
+    "date": "9/06 10:52",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_1f1a0ba4d97e.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962290",
+    "type": "public",
+    "date": "9/06 10:52",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Horrible at drawing hands✌️",
+    "msgClasses": "chat_message bneon14"
   }
 ]
