@@ -8484,5 +8484,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ok",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962717",
+    "type": "public",
+    "date": "9/06 14:17",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "fahhh",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
