@@ -358,5 +358,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Wendy's wins burger wise",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961900",
+    "type": "public",
+    "date": "9/06 0:08",
+    "username": "1JackinTheBox0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "How dare you",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
