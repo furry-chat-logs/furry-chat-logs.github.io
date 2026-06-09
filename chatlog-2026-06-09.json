@@ -9504,5 +9504,25 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "lxnar you ’shhhh’ you're the twink here",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962819",
+    "type": "public",
+    "date": "9/06 14:54",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Smiley false information",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962820",
+    "type": "public",
+    "date": "9/06 14:54",
+    "username": "ImAcTaullyaTheriaN",
+    "userId": "37599",
+    "userClasses": "username user ",
+    "message": "SLAV MAN German?",
+    "msgClasses": "chat_message "
   }
 ]
