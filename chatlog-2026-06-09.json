@@ -6886,5 +6886,25 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "Solene gm",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7962553",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "LMAO-",
+    "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962554",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin she only has one..",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
