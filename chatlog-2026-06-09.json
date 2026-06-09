@@ -4926,5 +4926,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962357",
+    "type": "public",
+    "date": "9/06 12:22",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Jesterandsugar you're on Furrychat, most of us are special :3",
+    "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962358",
+    "type": "public",
+    "date": "9/06 12:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "I never knew that(╥﹏╥)",
+    "msgClasses": "chat_message bneon14"
   }
 ]
