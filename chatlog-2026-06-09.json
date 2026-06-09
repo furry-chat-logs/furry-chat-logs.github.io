@@ -8724,5 +8724,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "I can",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962741",
+    "type": "public",
+    "date": "9/06 14:21",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Äöü",
+    "msgClasses": "chat_message "
   }
 ]
