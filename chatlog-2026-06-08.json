@@ -19954,5 +19954,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36767_5d643312ef77.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961854",
+    "type": "public",
+    "date": "8/06 23:53",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Uh....",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7961855",
+    "type": "public",
+    "date": "8/06 23:53",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "Miss Kit 💔",
+    "msgClasses": "chat_message bneon13 ital bfont12"
   }
 ]
