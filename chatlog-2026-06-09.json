@@ -8494,5 +8494,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "fahhh",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962718",
+    "type": "public",
+    "date": "9/06 14:17",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "SLAV MAN what language is that twin?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962719",
+    "type": "public",
+    "date": "9/06 14:17",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "lxnar Damn I believe I should know you, your in my friendslist yet I don't TwT",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
