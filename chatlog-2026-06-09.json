@@ -11734,5 +11734,15 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "Yoo*",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963043",
+    "type": "public",
+    "date": "9/06 17:20",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "It's Zen!",
+    "msgClasses": "chat_message bfont3"
   }
 ]
