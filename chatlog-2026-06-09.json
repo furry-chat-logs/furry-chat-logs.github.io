@@ -12614,5 +12614,23 @@
     "userClasses": "username bneon2 bnfont8",
     "message": "Madame Thorne Good 4 u :3",
     "msgClasses": "chat_message bneon2 bold bfont12"
+  },
+  {
+    "id": "7963192",
+    "type": "public",
+    "date": "9/06 18:03",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "rawr~ 🤓☝️",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963193",
+    "type": "system",
+    "date": "9/06 18:03",
+    "username": "System",
+    "userId": null,
+    "message": "ImAcTaullyaTheriaN has been kicked"
   }
 ]
