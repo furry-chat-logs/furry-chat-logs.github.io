@@ -2676,5 +2676,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "And you're just sitting there saving the shit too? That clearly says something.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7962132",
+    "type": "public",
+    "date": "9/06 8:16",
+    "username": "SylviaXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "That's kinda creepy my guy",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7962133",
+    "type": "public",
+    "date": "9/06 8:16",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNnVmNDV2aWo2bHlrdzU0czhxaDd1bTgxdmxpdXVsdHhpNmJyZnI2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gx8vjqf2OyadHHZ6cL/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
