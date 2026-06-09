@@ -1806,5 +1806,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "It's been awhile",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7962045",
+    "type": "public",
+    "date": "9/06 7:37",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Welcome backkk",
+    "msgClasses": "chat_message bneon14"
   }
 ]
