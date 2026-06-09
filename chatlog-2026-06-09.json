@@ -1556,5 +1556,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "It's ok ig we can talk abt other things too",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962020",
+    "type": "public",
+    "date": "9/06 7:01",
+    "username": "themysteriousfox",
+    "userId": "37536",
+    "userClasses": "username user ",
+    "message": "What do you do for fun?",
+    "msgClasses": "chat_message "
   }
 ]
