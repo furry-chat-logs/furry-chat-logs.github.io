@@ -4216,5 +4216,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Tf?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962286",
+    "type": "public",
+    "date": "9/06 10:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Oops made it cursed",
+    "msgClasses": "chat_message bneon14"
   }
 ]
