@@ -3756,5 +3756,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "God bless us 🫩✌️",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962240",
+    "type": "public",
+    "date": "9/06 10:05",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "🥹 >w<",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962241",
+    "type": "public",
+    "date": "9/06 10:05",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Lizards have very strong jaws.",
+    "msgClasses": "chat_message "
   }
 ]
