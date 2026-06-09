@@ -11984,5 +11984,25 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_e42fcb977ea9.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963128",
+    "type": "public",
+    "date": "9/06 17:43",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "Kimmel",
+    "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963129",
+    "type": "public",
+    "date": "9/06 17:43",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "*Jimmeh",
+    "msgClasses": "chat_message bfont3"
   }
 ]
