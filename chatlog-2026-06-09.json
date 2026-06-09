@@ -9844,5 +9844,15 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "Oh yeah this is perfect",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7962853",
+    "type": "public",
+    "date": "9/06 15:16",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeDQ3amwwcGk3YXFuejB5bGdnbjY3OW93ajc5c2YyOXhrcmdkYWU3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YT8woTY5Zqs7iUo5BS/giphy.gif]",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
