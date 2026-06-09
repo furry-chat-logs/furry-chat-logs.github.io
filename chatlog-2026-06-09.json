@@ -926,5 +926,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "I don got one 💔",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7961957",
+    "type": "public",
+    "date": "9/06 2:07",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "I ain't a professional this 3D stuff is difficult",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
