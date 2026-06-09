@@ -4746,5 +4746,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "There",
     "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962339",
+    "type": "public",
+    "date": "9/06 12:19",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Yes very nice",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
