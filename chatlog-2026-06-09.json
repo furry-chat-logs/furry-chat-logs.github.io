@@ -4876,5 +4876,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oh rlly???",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962352",
+    "type": "public",
+    "date": "9/06 12:22",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Yeah",
+    "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962353",
+    "type": "public",
+    "date": "9/06 12:22",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "So what is flip a coin doing",
+    "msgClasses": "chat_message bneon14"
   }
 ]
