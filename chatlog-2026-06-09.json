@@ -3866,5 +3866,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "*boops your nose* OWO CUTE PUPPYYYY ^-^",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962251",
+    "type": "public",
+    "date": "9/06 10:33",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[skull]",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
