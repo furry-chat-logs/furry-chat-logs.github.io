@@ -13022,5 +13022,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "YOWOU HATE ME hehe",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963233",
+    "type": "public",
+    "date": "9/06 18:10",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37578_a85fb474c800.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
