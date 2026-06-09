@@ -10714,5 +10714,15 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "Cammy oh noo",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7962940",
+    "type": "public",
+    "date": "9/06 16:15",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "Blep",
+    "msgClasses": "chat_message bfont3"
   }
 ]
