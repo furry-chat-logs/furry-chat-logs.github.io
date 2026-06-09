@@ -5246,5 +5246,25 @@
     "userClasses": "username bneon24 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37515_ebdc392e9d3e.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962389",
+    "type": "public",
+    "date": "9/06 12:32",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "loo",
+    "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962390",
+    "type": "public",
+    "date": "9/06 12:32",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "lol*",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
