@@ -4666,5 +4666,15 @@
     "userClasses": "username bneon24 ",
     "message": "It's cute",
     "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7962331",
+    "type": "public",
+    "date": "9/06 12:18",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": ":3",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
