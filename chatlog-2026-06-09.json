@@ -2556,5 +2556,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "This what I get for sleeping for a singular hour 💔",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7962120",
+    "type": "public",
+    "date": "9/06 8:14",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Lemme tell you",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962121",
+    "type": "public",
+    "date": "9/06 8:15",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "That i got",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
