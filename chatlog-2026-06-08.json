@@ -19064,5 +19064,15 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_4823c70d68ee.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961765",
+    "type": "public",
+    "date": "8/06 21:10",
+    "username": "KLOFU",
+    "userId": "7561",
+    "userClasses": "username bgrad26 bnfont15",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmYXg3d3hjNm5rOGprbGkyOWhsN3E0enJudGl3N2swbWQzbWhlejBtZSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fWRVZpi3U1YV17oKzE/giphy.gif]",
+    "msgClasses": "chat_message bcolor22 heavyital bfont4"
   }
 ]
