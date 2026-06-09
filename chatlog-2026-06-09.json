@@ -6286,5 +6286,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I can ban you already so you dont come back",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962493",
+    "type": "public",
+    "date": "9/06 13:33",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin she's a good girl come on",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962494",
+    "type": "public",
+    "date": "9/06 13:33",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "She didn't do anything",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
