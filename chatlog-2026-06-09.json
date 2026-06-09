@@ -2286,5 +2286,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Oop sorry",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962093",
+    "type": "public",
+    "date": "9/06 7:59",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user16465_01d0c210d0f1.png]",
+    "msgClasses": "chat_message "
   }
 ]
