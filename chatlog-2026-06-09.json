@@ -9194,5 +9194,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Well you can do use auto translate for this website",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962788",
+    "type": "public",
+    "date": "9/06 14:29",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Not everyone",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
