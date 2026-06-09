@@ -6266,5 +6266,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I can ban you already",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962491",
+    "type": "public",
+    "date": "9/06 13:33",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Ik",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962492",
+    "type": "public",
+    "date": "9/06 13:33",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I can ban you already so you dont come back",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
