@@ -6736,5 +6736,45 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "SLAV MAN stop they cant help it",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962538",
+    "type": "public",
+    "date": "9/06 13:38",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ pms ?",
+    "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7962539",
+    "type": "public",
+    "date": "9/06 13:38",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "QueenMoon frrr bro",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962540",
+    "type": "public",
+    "date": "9/06 13:38",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Not my faUwUlt :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962541",
+    "type": "public",
+    "date": "9/06 13:38",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user1_8421b9207cce.png]",
+    "msgClasses": "chat_message "
   }
 ]
