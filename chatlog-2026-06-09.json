@@ -12404,5 +12404,35 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37578_0267bb7f891d.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963171",
+    "type": "public",
+    "date": "9/06 18:01",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "rawr~ Misa is cUwUmming",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963172",
+    "type": "public",
+    "date": "9/06 18:01",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "I can heaw him *tail swish*",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963173",
+    "type": "public",
+    "date": "9/06 18:01",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_a0fce67b02f3.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
