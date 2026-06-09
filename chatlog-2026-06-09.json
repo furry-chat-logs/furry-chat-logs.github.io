@@ -10704,5 +10704,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ baa",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962939",
+    "type": "public",
+    "date": "9/06 15:52",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "Cammy oh noo",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
