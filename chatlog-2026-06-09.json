@@ -1586,5 +1586,25 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "themysteriousfox robyn",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962023",
+    "type": "public",
+    "date": "9/06 7:02",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And I love listening to vocaloid!",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962024",
+    "type": "public",
+    "date": "9/06 7:02",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "(That joke will never get old)",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
