@@ -1716,5 +1716,15 @@
     "userClasses": "username user ",
     "message": "SoraTheMikuFan Oooh okay, just curious.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962036",
+    "type": "public",
+    "date": "9/06 7:15",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea srry",
+    "msgClasses": "chat_message bneon14"
   }
 ]
