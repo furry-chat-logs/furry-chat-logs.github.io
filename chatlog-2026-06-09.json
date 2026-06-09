@@ -12194,5 +12194,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "SylviaXD ohh",
     "msgClasses": "chat_message bneon13 bold bfont5"
+  },
+  {
+    "id": "7963150",
+    "type": "public",
+    "date": "9/06 17:51",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "okay...",
+    "msgClasses": "chat_message bneon13 bold bfont5"
+  },
+  {
+    "id": "7963151",
+    "type": "public",
+    "date": "9/06 17:51",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Evelyn1 It's pretty self-explanatory.",
+    "msgClasses": "chat_message ital"
   }
 ]
