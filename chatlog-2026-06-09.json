@@ -7384,5 +7384,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Yes",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962603",
+    "type": "public",
+    "date": "9/06 13:46",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "owo fr-OwO-gmin-chan My name is Wobin ~nya",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962604",
+    "type": "public",
+    "date": "9/06 13:46",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "lxnar [scrylveon] [scrylveon] [scrylveon] [scrylveon] [scrylveon] [scrylveon]",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7962605",
+    "type": "public",
+    "date": "9/06 13:46",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*boops your nose* 😭😭😭",
+    "msgClasses": "chat_message "
   }
 ]
