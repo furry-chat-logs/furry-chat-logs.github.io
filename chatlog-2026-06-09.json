@@ -9984,5 +9984,15 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ so u wanna be turned into canned beans?",
     "msgClasses": "chat_message bneon10 ital bfont12"
+  },
+  {
+    "id": "7962867",
+    "type": "public",
+    "date": "9/06 15:20",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "canned beans",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
