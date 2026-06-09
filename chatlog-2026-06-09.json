@@ -7026,5 +7026,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "im not",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962567",
+    "type": "public",
+    "date": "9/06 13:41",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_48b0a3531696.jpg]",
+    "msgClasses": "chat_message "
   }
 ]
