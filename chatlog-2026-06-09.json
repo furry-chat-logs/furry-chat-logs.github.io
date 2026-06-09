@@ -11064,5 +11064,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "GIVE ME A BREAK",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962975",
+    "type": "public",
+    "date": "9/06 16:38",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Evelyn1 Now i want chocolate..",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
