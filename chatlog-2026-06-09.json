@@ -3056,5 +3056,15 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "frog got a vendetta against me yo",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7962170",
+    "type": "public",
+    "date": "9/06 8:29",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "yesterday some mf was using cheats and he was full auto headshotting me from a few rooms down behind a WALL with the SMG-11!",
+    "msgClasses": "chat_message bneon19"
   }
 ]
