@@ -11324,5 +11324,15 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "Evelyn1 oh wow thank you",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7963001",
+    "type": "public",
+    "date": "9/06 16:57",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Lalalala",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
