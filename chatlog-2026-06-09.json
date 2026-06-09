@@ -10454,5 +10454,25 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "You're identity and preferences are important to you again that's all that matters",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7962914",
+    "type": "public",
+    "date": "9/06 15:38",
+    "username": "SylviaXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Yes",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7962915",
+    "type": "public",
+    "date": "9/06 15:38",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "At the end of the day, you are you and anyone who doesn't support you, aren't ones you should let into your circle",
+    "msgClasses": "chat_message bfont3"
   }
 ]
