@@ -9854,5 +9854,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeDQ3amwwcGk3YXFuejB5bGdnbjY3OW93ajc5c2YyOXhrcmdkYWU3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YT8woTY5Zqs7iUo5BS/giphy.gif]",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962854",
+    "type": "public",
+    "date": "9/06 15:16",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "Is the name tuff",
+    "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7962855",
+    "type": "public",
+    "date": "9/06 15:16",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Hm",
+    "msgClasses": "chat_message ital"
   }
 ]
