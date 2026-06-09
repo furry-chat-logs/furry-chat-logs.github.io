@@ -9394,5 +9394,15 @@
     "userClasses": "username user ",
     "message": "Я новенький",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962808",
+    "type": "public",
+    "date": "9/06 14:49",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "ImAcTaullyaTheriaN English please and thank you",
+    "msgClasses": "chat_message "
   }
 ]
