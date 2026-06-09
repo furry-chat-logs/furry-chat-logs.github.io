@@ -5176,5 +5176,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Lalalalalal",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962382",
+    "type": "public",
+    "date": "9/06 12:30",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Shimme shimme aye shimme aye shimme ahh",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
