@@ -3346,5 +3346,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "And sometimes it gets fucking Arizona level hot",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7962199",
+    "type": "public",
+    "date": "9/06 9:36",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "2021 or so, it was 120 degrees Fahrenheit",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7962200",
+    "type": "public",
+    "date": "9/06 9:36",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "My weather is like that too [sob]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
