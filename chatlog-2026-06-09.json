@@ -7156,5 +7156,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I sent you my drawing!",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962580",
+    "type": "public",
+    "date": "9/06 13:43",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Dwag",
+    "msgClasses": "chat_message "
   }
 ]
