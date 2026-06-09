@@ -3646,5 +3646,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Huzzah",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962229",
+    "type": "public",
+    "date": "9/06 9:57",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I am a magician in my day job.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
