@@ -8704,5 +8704,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "Tuberculosis, it's one hell of a thing..",
     "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962739",
+    "type": "public",
+    "date": "9/06 14:21",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "äöü",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962740",
+    "type": "public",
+    "date": "9/06 14:21",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "I can",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
