@@ -1996,5 +1996,25 @@
     "userClasses": "username user ",
     "message": "SilverXD Okay well I wish the best for you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962064",
+    "type": "public",
+    "date": "9/06 7:43",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "k",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7962065",
+    "type": "public",
+    "date": "9/06 7:43",
+    "username": "themysteriousfox",
+    "userId": "37536",
+    "userClasses": "username user ",
+    "message": "frit How many and what type?",
+    "msgClasses": "chat_message "
   }
 ]
