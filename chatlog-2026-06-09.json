@@ -5056,5 +5056,15 @@
     "userClasses": "username bneon16 bnfont16",
     "message": "Jesterandsugar relatable",
     "msgClasses": "chat_message bneon16  bfont10"
+  },
+  {
+    "id": "7962370",
+    "type": "public",
+    "date": "9/06 12:26",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
