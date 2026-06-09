@@ -458,5 +458,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "As soon as I said that I laughed to tears",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961910",
+    "type": "public",
+    "date": "9/06 0:10",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Hmmm",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
