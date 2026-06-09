@@ -9374,5 +9374,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Me on gwad",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962806",
+    "type": "public",
+    "date": "9/06 14:45",
+    "username": "ImAcTaullyaTheriaN",
+    "userId": "37599",
+    "userClasses": "username user ",
+    "message": "Привет",
+    "msgClasses": "chat_message "
   }
 ]
