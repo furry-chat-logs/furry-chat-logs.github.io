@@ -1256,5 +1256,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Its currently 4:25am and i havent slept at all",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961990",
+    "type": "public",
+    "date": "9/06 6:27",
+    "username": "ZephTheFloofBoi",
+    "userId": "31959",
+    "userClasses": "username bneon2 bnfont8",
+    "message": "..it's also 4am here.",
+    "msgClasses": "chat_message bneon2 bold bfont12"
   }
 ]
