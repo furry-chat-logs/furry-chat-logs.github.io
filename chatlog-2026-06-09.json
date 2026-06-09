@@ -5936,5 +5936,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "dwag",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962458",
+    "type": "public",
+    "date": "9/06 13:28",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "lol",
+    "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962459",
+    "type": "public",
+    "date": "9/06 13:28",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Stop playing hewo OnO",
+    "msgClasses": "chat_message "
   }
 ]
