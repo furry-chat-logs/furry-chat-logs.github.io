@@ -4696,5 +4696,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "I'ma get some water chat brb",
     "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962334",
+    "type": "public",
+    "date": "9/06 12:18",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "KingCorgz yesh",
+    "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962335",
+    "type": "public",
+    "date": "9/06 12:18",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Oh! I should put a filter",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
