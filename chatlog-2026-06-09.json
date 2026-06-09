@@ -12544,5 +12544,15 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "Robyn you text like a furry, you even talk like one",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7963185",
+    "type": "public",
+    "date": "9/06 18:03",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "I finally got Bonelab again",
+    "msgClasses": "chat_message bfont3"
   }
 ]
