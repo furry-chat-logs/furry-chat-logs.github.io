@@ -11744,5 +11744,15 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "It's Zen!",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963044",
+    "type": "public",
+    "date": "9/06 17:20",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "It's Zen ! Hell yeah",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
