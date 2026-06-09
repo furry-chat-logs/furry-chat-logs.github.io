@@ -8434,5 +8434,35 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "lxnar censored*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962712",
+    "type": "public",
+    "date": "9/06 14:16",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "heyo",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962713",
+    "type": "public",
+    "date": "9/06 14:16",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Smiley tysm",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962714",
+    "type": "public",
+    "date": "9/06 14:17",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "iPhone is greedy, inconvenient, and trash",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
