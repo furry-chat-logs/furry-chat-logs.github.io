@@ -3876,5 +3876,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[skull]",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7962252",
+    "type": "public",
+    "date": "9/06 10:33",
+    "username": "LukeWarm",
+    "userId": "33275",
+    "userClasses": "username bgrad7 bnfont3",
+    "message": "I think it's the filter",
+    "msgClasses": "chat_message bneon20  bfont9"
   }
 ]
