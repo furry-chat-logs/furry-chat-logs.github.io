@@ -6196,5 +6196,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Idc hehe",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962484",
+    "type": "public",
+    "date": "9/06 13:32",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "H-hewwo~ Honestly i don't >///<",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962485",
+    "type": "public",
+    "date": "9/06 13:32",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Only because of the filter.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
