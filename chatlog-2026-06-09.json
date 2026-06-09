@@ -8874,5 +8874,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "sum like that",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962756",
+    "type": "public",
+    "date": "9/06 14:23",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Oh my gosh guys I can literally slide text!!",
+    "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962757",
+    "type": "public",
+    "date": "9/06 14:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "Also IQ 130 and ADHD do NOT go well together",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
