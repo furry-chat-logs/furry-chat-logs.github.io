@@ -4846,5 +4846,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "To access flip a coin send the message /coins",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962349",
+    "type": "public",
+    "date": "9/06 12:21",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "SoraTheMikuFan you randomly get things",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
