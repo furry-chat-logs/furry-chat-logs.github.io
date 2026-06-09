@@ -3956,5 +3956,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "What did you drink today Fuwwy Wobin ?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962260",
+    "type": "public",
+    "date": "9/06 10:43",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Should I eat peeling gummy",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962261",
+    "type": "public",
+    "date": "9/06 10:44",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "SoraTheMikuFan same but i gotta to to a restaurant with my mom",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962262",
+    "type": "public",
+    "date": "9/06 10:44",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It looks yum",
+    "msgClasses": "chat_message bneon14"
   }
 ]
