@@ -6836,5 +6836,25 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "lol",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962548",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin that's 6 votes",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962549",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "mornin",
+    "msgClasses": "chat_message bneon13 ital bfont12"
   }
 ]
