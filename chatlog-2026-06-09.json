@@ -6526,5 +6526,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "Frogmin i dont think there doing anything wrong but i dont like it",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962517",
+    "type": "public",
+    "date": "9/06 13:36",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ agreed.",
+    "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962518",
+    "type": "public",
+    "date": "9/06 13:36",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "maybe if they just stop being that weird?",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
