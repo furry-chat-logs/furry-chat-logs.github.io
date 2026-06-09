@@ -5026,5 +5026,15 @@
     "userClasses": "username bneon24 ",
     "message": "The guy you just posted",
     "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7962367",
+    "type": "public",
+    "date": "9/06 12:25",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user6405_cfec881bbf6f.gif]",
+    "msgClasses": "chat_message "
   }
 ]
