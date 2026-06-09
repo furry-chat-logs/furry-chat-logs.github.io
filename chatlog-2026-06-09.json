@@ -11294,5 +11294,15 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "you want a fanart too?",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7962998",
+    "type": "public",
+    "date": "9/06 16:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Nah, I'm good",
+    "msgClasses": "chat_message "
   }
 ]
