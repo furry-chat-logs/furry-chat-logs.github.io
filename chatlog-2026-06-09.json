@@ -5356,5 +5356,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "*spins*",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962400",
+    "type": "public",
+    "date": "9/06 12:33",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "But I'm saving up",
+    "msgClasses": "chat_message bcolor24  bfont6"
+  },
+  {
+    "id": "7962401",
+    "type": "public",
+    "date": "9/06 12:33",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "AAAAA I'M GETTING DIZZY",
+    "msgClasses": "chat_message bneon14"
   }
 ]
