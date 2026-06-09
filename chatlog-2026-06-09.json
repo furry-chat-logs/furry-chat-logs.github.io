@@ -5376,5 +5376,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "AAAAA I'M GETTING DIZZY",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962402",
+    "type": "public",
+    "date": "9/06 12:34",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37515_f419dbc14812.gif]",
+    "msgClasses": "chat_message "
   }
 ]
