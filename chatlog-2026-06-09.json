@@ -7454,5 +7454,25 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "lxnar aww man 😞",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7962610",
+    "type": "public",
+    "date": "9/06 13:48",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Coldzenith muhahahaha",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962611",
+    "type": "public",
+    "date": "9/06 13:48",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_a65d60ed0818.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
