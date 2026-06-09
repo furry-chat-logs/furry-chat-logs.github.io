@@ -5746,5 +5746,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "They have a filter put on my the site ownër",
     "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962439",
+    "type": "public",
+    "date": "9/06 13:26",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Yeq",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962440",
+    "type": "public",
+    "date": "9/06 13:26",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Yea",
+    "msgClasses": "chat_message "
   }
 ]
