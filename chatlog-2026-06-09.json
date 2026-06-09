@@ -9384,5 +9384,15 @@
     "userClasses": "username user ",
     "message": "Привет",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962807",
+    "type": "public",
+    "date": "9/06 14:49",
+    "username": "ImAcTaullyaTheriaN",
+    "userId": "37599",
+    "userClasses": "username user ",
+    "message": "Я новенький",
+    "msgClasses": "chat_message "
   }
 ]
