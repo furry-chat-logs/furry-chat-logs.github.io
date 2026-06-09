@@ -338,5 +338,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Only for the curly fries",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961898",
+    "type": "public",
+    "date": "9/06 0:07",
+    "username": "1JackinTheBox0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Nah",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7961899",
+    "type": "public",
+    "date": "9/06 0:07",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Wendy's wins burger wise",
+    "msgClasses": "chat_message bneon19"
   }
 ]
