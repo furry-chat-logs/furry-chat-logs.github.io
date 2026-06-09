@@ -3656,5 +3656,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "I am a magician in my day job.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962230",
+    "type": "public",
+    "date": "9/06 10:01",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "If you can do magic, can you clean my laptop?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
