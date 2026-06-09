@@ -7514,5 +7514,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "lxnar wait like the actual time 🧐",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7962619",
+    "type": "public",
+    "date": "9/06 13:50",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Coldzenith what time is it? :3",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
