@@ -5546,5 +5546,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "thats the thing idk if thats what there doing or not",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962419",
+    "type": "public",
+    "date": "9/06 12:38",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Oh, if they try something that is when you should say something",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
