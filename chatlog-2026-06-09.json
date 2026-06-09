@@ -8074,5 +8074,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_2cc1adcda270.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962675",
+    "type": "public",
+    "date": "9/06 14:11",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Da way to go *tail swish*",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962676",
+    "type": "public",
+    "date": "9/06 14:11",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "iPhone users see simplicity I see restrictions",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
