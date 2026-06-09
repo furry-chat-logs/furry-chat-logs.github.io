@@ -5576,5 +5576,15 @@
     "userClasses": "username bneon1 bnfont7",
     "message": "Helo :P",
     "msgClasses": "chat_message bneon1 heavybold bfont2"
+  },
+  {
+    "id": "7962422",
+    "type": "public",
+    "date": "9/06 13:05",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "dead chat",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
