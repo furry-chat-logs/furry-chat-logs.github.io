@@ -5166,5 +5166,15 @@
     "userClasses": "username bneon32 bnfont1",
     "message": "rubs eye ball",
     "msgClasses": "chat_message bneon29 ital bfont11"
+  },
+  {
+    "id": "7962381",
+    "type": "public",
+    "date": "9/06 12:30",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Lalalalalal",
+    "msgClasses": "chat_message bneon14"
   }
 ]
