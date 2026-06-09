@@ -328,5 +328,15 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "I am Better than Burger King, McDonald's, and Wendy's",
     "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7961897",
+    "type": "public",
+    "date": "9/06 0:07",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Only for the curly fries",
+    "msgClasses": "chat_message bneon19"
   }
 ]
