@@ -13702,5 +13702,15 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "GYAA",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7963301",
+    "type": "public",
+    "date": "9/06 18:57",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdTVqb3F5cHhlbHViemRvcjc5OXVjeTIycmV3ZGlnanpsMnplcTQxaSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fUQ4rhUZJYiQsas6WD/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
