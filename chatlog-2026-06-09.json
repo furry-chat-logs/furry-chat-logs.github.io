@@ -2366,5 +2366,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_4af27b1567d7.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962101",
+    "type": "public",
+    "date": "9/06 8:03",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Tung",
+    "msgClasses": "chat_message bneon14"
   }
 ]
