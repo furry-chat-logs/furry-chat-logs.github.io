@@ -6086,5 +6086,25 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": ":o",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7962473",
+    "type": "public",
+    "date": "9/06 13:30",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "BUwUt if yuh uwu tekk it offowo hehe im not going to be stawting anything ~nya",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962474",
+    "type": "public",
+    "date": "9/06 13:30",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "misha she keeps the chat hating her.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
