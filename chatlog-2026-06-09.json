@@ -10674,5 +10674,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmajJtcnd3MXpnaHgybjBhb3ZtN3FibTVxdXljNzJrcWJwd201em5oYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cdRRRt38epefOY1Fqj/giphy.gif]",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962936",
+    "type": "public",
+    "date": "9/06 15:51",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "wait what",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
