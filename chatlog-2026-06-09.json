@@ -448,5 +448,15 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "✨",
     "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7961909",
+    "type": "public",
+    "date": "9/06 0:09",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "As soon as I said that I laughed to tears",
+    "msgClasses": "chat_message bneon19"
   }
 ]
