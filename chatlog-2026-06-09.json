@@ -13442,5 +13442,35 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "How many Rens are there",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7963275",
+    "type": "public",
+    "date": "9/06 18:39",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "The Renverse",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7963276",
+    "type": "public",
+    "date": "9/06 18:39",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Ren Hana.",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7963277",
+    "type": "public",
+    "date": "9/06 18:39",
+    "username": "Luke the hellhound",
+    "userId": "7402",
+    "userClasses": "username user ",
+    "message": "It's been so long since I last got on here",
+    "msgClasses": "chat_message "
   }
 ]
