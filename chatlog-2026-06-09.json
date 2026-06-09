@@ -208,5 +208,25 @@
     "userClasses": "username bneon30 bnfont1",
     "message": "[media: https://furrychat.net/chat/upload/chat/user26198_90a0a938c257.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961885",
+    "type": "public",
+    "date": "9/06 0:06",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "1JackinTheBox0 Nuh uh",
+    "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961886",
+    "type": "public",
+    "date": "9/06 0:06",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "GUNDAM",
+    "msgClasses": "chat_message bneon19"
   }
 ]
