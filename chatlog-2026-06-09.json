@@ -656,5 +656,15 @@
     "userClasses": "username bcolor22 bnfont10",
     "message": "Oof",
     "msgClasses": "chat_message bcolor21"
+  },
+  {
+    "id": "7961930",
+    "type": "public",
+    "date": "9/06 1:24",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "lol",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
