@@ -4676,5 +4676,25 @@
     "userClasses": "username bneon30 bnfont8",
     "message": ":3",
     "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962332",
+    "type": "public",
+    "date": "9/06 12:18",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "QueenMoon still looks great",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7962333",
+    "type": "public",
+    "date": "9/06 12:18",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "I'ma get some water chat brb",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
