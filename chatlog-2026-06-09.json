@@ -4436,5 +4436,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Hewwoooo",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962308",
+    "type": "public",
+    "date": "9/06 11:42",
+    "username": "MrHyde31",
+    "userId": "37571",
+    "userClasses": "username bcolor9 bnfont15",
+    "message": "Hi",
+    "msgClasses": "chat_message "
   }
 ]
