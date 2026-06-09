@@ -4826,5 +4826,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "And getting gifted stuff",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962347",
+    "type": "public",
+    "date": "9/06 12:21",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Oh ok and how do I flip the coins?",
+    "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7962348",
+    "type": "public",
+    "date": "9/06 12:21",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "To access flip a coin send the message /coins",
+    "msgClasses": "chat_message bneon14"
   }
 ]
