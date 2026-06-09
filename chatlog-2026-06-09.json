@@ -10114,5 +10114,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "that sounds goods",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962880",
+    "type": "public",
+    "date": "9/06 15:26",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "This year, a local bar and grill near me had ICE CREAM BURGERS",
+    "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7962881",
+    "type": "public",
+    "date": "9/06 15:26",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ fr",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
