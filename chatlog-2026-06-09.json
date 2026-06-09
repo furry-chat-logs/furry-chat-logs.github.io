@@ -7354,5 +7354,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "lxnar [scrylveon] [scrylveon] [scrylveon] [scrylveon]",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7962600",
+    "type": "public",
+    "date": "9/06 13:45",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Fuwwy Wobin Stop it wobin.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
