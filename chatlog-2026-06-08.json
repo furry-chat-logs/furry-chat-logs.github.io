@@ -19644,5 +19644,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Pfft",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961823",
+    "type": "public",
+    "date": "8/06 23:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Why did moon disappear",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7961824",
+    "type": "public",
+    "date": "8/06 23:15",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "OH",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
