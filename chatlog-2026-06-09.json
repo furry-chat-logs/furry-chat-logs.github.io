@@ -10794,5 +10794,15 @@
     "userClasses": "username bgrad15 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37005_d3ec27bd530b.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962948",
+    "type": "public",
+    "date": "9/06 16:25",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I have arrived",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
