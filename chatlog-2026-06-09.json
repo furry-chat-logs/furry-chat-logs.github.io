@@ -6406,5 +6406,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "God has given, and God can take away.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962505",
+    "type": "public",
+    "date": "9/06 13:34",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Like and he knows it ~nya",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962506",
+    "type": "public",
+    "date": "9/06 13:34",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "did he just call himself god?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
