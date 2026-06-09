@@ -9764,5 +9764,15 @@
     "userClasses": "username user ",
     "message": "Why u buy milk by the gallon tho!? ☹️🤔",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962845",
+    "type": "public",
+    "date": "9/06 15:12",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "theres half gallons",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
