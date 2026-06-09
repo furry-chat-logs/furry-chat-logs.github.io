@@ -1486,5 +1486,15 @@
     "userClasses": "username user ",
     "message": "SoraTheMikuFan Spaghetti with just a little butter, black pepper and a ton of parmesean cheese",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962013",
+    "type": "public",
+    "date": "9/06 6:58",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Ooh sounds yum, tho milk also makes me throw up",
+    "msgClasses": "chat_message bneon14"
   }
 ]
