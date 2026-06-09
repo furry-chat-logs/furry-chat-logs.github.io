@@ -10774,5 +10774,15 @@
     "userClasses": "username bgrad15 ",
     "message": "Hi chat",
     "msgClasses": "chat_message bcolor23 bold bfont4"
+  },
+  {
+    "id": "7962946",
+    "type": "public",
+    "date": "9/06 16:24",
+    "username": "SylviaXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_0c15f85f2808.mp3 | steam_whistle.mp3]",
+    "msgClasses": "chat_message "
   }
 ]
