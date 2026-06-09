@@ -11854,5 +11854,35 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "why do i feel irrational :')",
     "msgClasses": "chat_message bneon13 bold bfont5"
+  },
+  {
+    "id": "7963055",
+    "type": "public",
+    "date": "9/06 17:22",
+    "username": "SylviaXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_0ed22e548d59.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963056",
+    "type": "public",
+    "date": "9/06 17:22",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "Yeah",
+    "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963057",
+    "type": "public",
+    "date": "9/06 17:22",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "Evelyn1 become rational",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
   }
 ]
