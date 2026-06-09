@@ -298,5 +298,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Brother said \"Ill give you all the fight you want\" like he's Asta 💔",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961894",
+    "type": "public",
+    "date": "9/06 0:07",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_6fc8c588712d.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961895",
+    "type": "public",
+    "date": "9/06 0:07",
+    "username": "1JackinTheBox0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Uh gotta admit",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
