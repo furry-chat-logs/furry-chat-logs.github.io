@@ -7924,5 +7924,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "😭",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962660",
+    "type": "public",
+    "date": "9/06 14:09",
+    "username": "AppleS",
+    "userId": "34435",
+    "userClasses": "username bneon17 ",
+    "message": "SLAV MAN beta is always laggy",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962661",
+    "type": "public",
+    "date": "9/06 14:09",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Well have sone fun with bugs",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
