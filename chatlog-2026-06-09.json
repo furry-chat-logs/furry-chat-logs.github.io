@@ -12942,5 +12942,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37578_d4c1b67f2559.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963225",
+    "type": "public",
+    "date": "9/06 18:08",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Oh wow",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7963226",
+    "type": "public",
+    "date": "9/06 18:08",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Hehe",
+    "msgClasses": "chat_message "
   }
 ]
