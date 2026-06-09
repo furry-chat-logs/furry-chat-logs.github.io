@@ -20024,5 +20024,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "That was weird",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961861",
+    "type": "public",
+    "date": "8/06 23:54",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "I've should of never placed my bed next to the window omfg",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7961862",
+    "type": "public",
+    "date": "8/06 23:54",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "my mom just put the thing for soothing ur muscle cream on her lip bc she thought it was lip balm..",
+    "msgClasses": "chat_message bneon13 ital bfont12"
   }
 ]
