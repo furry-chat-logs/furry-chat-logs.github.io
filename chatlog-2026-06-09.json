@@ -7604,5 +7604,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Coldzenith fr",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962628",
+    "type": "public",
+    "date": "9/06 13:53",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Haven't heard the name bubble guppies in like 7 years",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962629",
+    "type": "public",
+    "date": "9/06 13:53",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "im so hungry",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
