@@ -1416,5 +1416,15 @@
     "userClasses": "username user ",
     "message": "Lol well if it's sweet and tasty and doesn't make you throw up...good enough",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962006",
+    "type": "public",
+    "date": "9/06 6:55",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Yea it was yum",
+    "msgClasses": "chat_message bneon14"
   }
 ]
