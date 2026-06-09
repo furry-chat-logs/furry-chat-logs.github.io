@@ -18864,5 +18864,25 @@
     "userClasses": "username bneon18 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user8620_d7151d9eee2f.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961745",
+    "type": "public",
+    "date": "8/06 20:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Uh uh",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7961746",
+    "type": "public",
+    "date": "8/06 20:40",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Protodirk",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
