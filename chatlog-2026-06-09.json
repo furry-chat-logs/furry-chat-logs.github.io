@@ -11264,5 +11264,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "oh wait it was me",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7962995",
+    "type": "public",
+    "date": "9/06 16:50",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "Lol",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962996",
+    "type": "public",
+    "date": "9/06 16:50",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "because of the misha fanart",
+    "msgClasses": "chat_message bgrad38 boldital bfont6"
   }
 ]
