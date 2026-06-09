@@ -8774,5 +8774,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "SLAV MAN an umlaut is not hard to do",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962746",
+    "type": "public",
+    "date": "9/06 14:22",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Ok",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
