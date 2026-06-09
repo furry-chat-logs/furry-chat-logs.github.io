@@ -6356,5 +6356,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "misha I'm re-banning you next.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962500",
+    "type": "public",
+    "date": "9/06 13:34",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin I haven't done anything as well",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
