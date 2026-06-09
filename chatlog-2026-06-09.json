@@ -1366,5 +1366,15 @@
     "userClasses": "username user ",
     "message": "SoraTheMikuFan I've never had that, it looks interesting! How was it?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962001",
+    "type": "public",
+    "date": "9/06 6:53",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Umm it was with boba and soy milk, so it tasted rlly sweet",
+    "msgClasses": "chat_message bneon14"
   }
 ]
