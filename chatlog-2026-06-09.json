@@ -548,5 +548,15 @@
     "userClasses": "username bneon14 bnfont3",
     "message": "[media: https://furrychat.net/chat/upload/chat/user25868_3da66ed8c342.jpg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961919",
+    "type": "public",
+    "date": "9/06 1:08",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "This place died",
+    "msgClasses": "chat_message bneon14"
   }
 ]
