@@ -18694,5 +18694,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[hono]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7961728",
+    "type": "public",
+    "date": "8/06 19:45",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "[hono]",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
