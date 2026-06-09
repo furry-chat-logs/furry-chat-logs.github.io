@@ -9734,5 +9734,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "nom",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962842",
+    "type": "public",
+    "date": "9/06 15:11",
+    "username": "ImAcTaullyaTheriaN",
+    "userId": "37599",
+    "userClasses": "username user ",
+    "message": "What is this gallon of milk I always hear of",
+    "msgClasses": "chat_message "
   }
 ]
