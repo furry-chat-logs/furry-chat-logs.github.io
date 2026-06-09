@@ -6476,5 +6476,35 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "sniff sniff~ lxnaw dont bOowoOst his ego",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962512",
+    "type": "public",
+    "date": "9/06 13:35",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "I do not lowkey vibe with \" Fuwwy Wobin \"",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962513",
+    "type": "public",
+    "date": "9/06 13:35",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Petition for ban?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962514",
+    "type": "public",
+    "date": "9/06 13:35",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Its awweady big enouwugh",
+    "msgClasses": "chat_message "
   }
 ]
