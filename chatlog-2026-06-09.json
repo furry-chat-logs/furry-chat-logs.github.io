@@ -9784,5 +9784,15 @@
     "userClasses": "username user ",
     "message": "We buy by litter",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962847",
+    "type": "public",
+    "date": "9/06 15:13",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "idk why we buy so much",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
