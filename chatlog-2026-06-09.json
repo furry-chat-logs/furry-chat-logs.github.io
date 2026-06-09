@@ -2376,5 +2376,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Tung",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962102",
+    "type": "public",
+    "date": "9/06 8:03",
+    "username": "SylviaXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "Test",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
