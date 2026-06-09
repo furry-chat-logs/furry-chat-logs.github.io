@@ -6606,5 +6606,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "open poll",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962525",
+    "type": "public",
+    "date": "9/06 13:37",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "misha the way they talk",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
