@@ -9064,5 +9064,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "People genuinely mentally impossible to understand simple rules.",
     "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962775",
+    "type": "public",
+    "date": "9/06 14:26",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Well it makes fun",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962776",
+    "type": "public",
+    "date": "9/06 14:26",
+    "username": "Ashton McKennan",
+    "userId": "31348",
+    "userClasses": "username bneon1 bnfont8",
+    "message": "mlem",
+    "msgClasses": "chat_message bneon1 ital bfont10"
+  },
+  {
+    "id": "7962777",
+    "type": "public",
+    "date": "9/06 14:26",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Follow 5 simple rules challenge impossible",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
