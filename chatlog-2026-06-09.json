@@ -12394,5 +12394,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user37578_4ecf86adbecc.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963170",
+    "type": "public",
+    "date": "9/06 18:00",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user37578_0267bb7f891d.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
