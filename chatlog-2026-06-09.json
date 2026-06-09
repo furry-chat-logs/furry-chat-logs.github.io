@@ -4036,5 +4036,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc2diYjZ6M2lkZTZkZTA4aWVwNnNqaDE1OWFwOTZ4ZmNuczN6dG12MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PrzIrP5WjXHccWK7eE/giphy.gif]",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962268",
+    "type": "public",
+    "date": "9/06 10:45",
+    "username": "0悲しみ 0",
+    "userId": "19106",
+    "userClasses": "username bneon32 bnfont1",
+    "message": "guh",
+    "msgClasses": "chat_message bneon29 ital bfont11"
   }
 ]
