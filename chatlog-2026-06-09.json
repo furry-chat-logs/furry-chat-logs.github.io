@@ -4906,5 +4906,15 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "SoraTheMikuFan You bet some coins and flip and if you win with the right selection you get more coins",
     "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962355",
+    "type": "public",
+    "date": "9/06 12:22",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "I'm a bit special and still trying to figure it out",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
