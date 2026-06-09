@@ -4966,5 +4966,25 @@
     "userClasses": "username bneon24 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37515_1200bcf0d388.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962361",
+    "type": "public",
+    "date": "9/06 12:23",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Blep",
+    "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962362",
+    "type": "public",
+    "date": "9/06 12:23",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "So where do I do the /coin at",
+    "msgClasses": "chat_message bcolor24"
   }
 ]
