@@ -7634,5 +7634,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "but math",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962631",
+    "type": "public",
+    "date": "9/06 13:54",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "I alr went to a chinese buffet today",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962632",
+    "type": "public",
+    "date": "9/06 13:54",
+    "username": "Numm Bug",
+    "userId": "32985",
+    "userClasses": "username bneon18 bnfont15",
+    "message": "....",
+    "msgClasses": "chat_message bneon17 bold bfont14"
   }
 ]
