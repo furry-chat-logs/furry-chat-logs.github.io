@@ -1076,5 +1076,15 @@
     "userClasses": "username user ",
     "message": "hamborgor",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961972",
+    "type": "public",
+    "date": "9/06 2:59",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNWdpcWVzczMxeTEyNmd6dm0zdGMxeG8wYmM3OXd5bnFuaHo1NmsxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P9cVQuJXU1dIxRRsS9/giphy.gif]",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
