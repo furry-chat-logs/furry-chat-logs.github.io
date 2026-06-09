@@ -19844,5 +19844,25 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Sharkish hi so bored.",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7961843",
+    "type": "public",
+    "date": "8/06 23:49",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "I got on just to say goodnight to you all.",
+    "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7961844",
+    "type": "public",
+    "date": "8/06 23:49",
+    "username": "0G Stupendous Man",
+    "userId": "3475",
+    "userClasses": "username bcolor1 bnfont1",
+    "message": "Cuz yall are cool",
+    "msgClasses": "chat_message bgrad32  bfont11"
   }
 ]
