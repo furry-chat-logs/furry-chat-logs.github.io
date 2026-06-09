@@ -5926,5 +5926,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "yes.",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962457",
+    "type": "public",
+    "date": "9/06 13:28",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "dwag",
+    "msgClasses": "chat_message "
   }
 ]
