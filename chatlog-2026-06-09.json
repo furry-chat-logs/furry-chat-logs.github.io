@@ -7096,5 +7096,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Dwag hehe",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962574",
+    "type": "public",
+    "date": "9/06 13:42",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "I left cuz Robyn left",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962575",
+    "type": "public",
+    "date": "9/06 13:42",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Im not as bad as yuh uwu think i am OnO",
+    "msgClasses": "chat_message "
   }
 ]
