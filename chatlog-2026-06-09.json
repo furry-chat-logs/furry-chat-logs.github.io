@@ -10764,5 +10764,15 @@
     "userClasses": "username bcolor19 ",
     "message": "Hi Misha. How are you doing today?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962945",
+    "type": "public",
+    "date": "9/06 16:23",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "Hi chat",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
