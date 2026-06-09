@@ -6956,5 +6956,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_431de4cdfb4a.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962560",
+    "type": "public",
+    "date": "9/06 13:40",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "He knows dat ;33",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962561",
+    "type": "public",
+    "date": "9/06 13:40",
+    "username": "NeptuneLynxx",
+    "userId": "8513",
+    "userClasses": "username bneon6 bnfont14",
+    "message": ";33",
+    "msgClasses": "chat_message bneon6 heavyital bfont14"
   }
 ]
