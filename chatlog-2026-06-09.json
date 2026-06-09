@@ -7056,5 +7056,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_d3663d7f5b78.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962570",
+    "type": "public",
+    "date": "9/06 13:41",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Misha was admin previously.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
