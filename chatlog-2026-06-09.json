@@ -3776,5 +3776,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Lizards have very strong jaws.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962242",
+    "type": "public",
+    "date": "9/06 10:05",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Wow ~nya",
+    "msgClasses": "chat_message "
   }
 ]
