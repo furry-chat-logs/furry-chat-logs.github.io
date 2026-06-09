@@ -5636,5 +5636,35 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "U *tail swish*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962428",
+    "type": "public",
+    "date": "9/06 13:06",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "sniff sniff~ C",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962429",
+    "type": "public",
+    "date": "9/06 13:06",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "sniff sniff~ K",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962430",
+    "type": "public",
+    "date": "9/06 13:06",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "rawr x3 Me *pounces*",
+    "msgClasses": "chat_message "
   }
 ]
