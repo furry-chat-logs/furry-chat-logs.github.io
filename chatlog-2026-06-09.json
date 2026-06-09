@@ -2186,5 +2186,25 @@
     "userClasses": "username user ",
     "message": "I'm use to various bites on my hands and feet, but then I walk around barefoot most of the time and live in a very rural area",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962083",
+    "type": "public",
+    "date": "9/06 7:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Chat",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962084",
+    "type": "public",
+    "date": "9/06 7:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Is",
+    "msgClasses": "chat_message bneon14"
   }
 ]
