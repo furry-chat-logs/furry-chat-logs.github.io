@@ -1876,5 +1876,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "Ok",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7962052",
+    "type": "public",
+    "date": "9/06 7:39",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Then what happened SilverXD ?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
