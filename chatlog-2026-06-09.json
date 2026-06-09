@@ -8824,5 +8824,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "I can just type sht in german",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962751",
+    "type": "public",
+    "date": "9/06 14:22",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "so we're flexing age and IQ now?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
