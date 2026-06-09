@@ -886,5 +886,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "Bergindine Nigh nigh",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7961953",
+    "type": "public",
+    "date": "9/06 2:06",
+    "username": "Bergindine",
+    "userId": "37226",
+    "userClasses": "username bcolor20 bnfont2",
+    "message": "Sonic The Hedgehog nah that should only take 45 seconds, 30 to animate and then 15 to rewatch at double speed",
+    "msgClasses": "chat_message bgrad7 heavyital bfont14"
   }
 ]
