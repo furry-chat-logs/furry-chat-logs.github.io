@@ -6866,5 +6866,25 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "Frogmin look now",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962551",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "misha One for each of your girlfriends' boyfriends.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962552",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "Solene gm",
+    "msgClasses": "chat_message bneon19 ital bfont9"
   }
 ]
