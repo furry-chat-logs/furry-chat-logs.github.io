@@ -9704,5 +9704,15 @@
     "userClasses": "username bcolor24 bnfont3",
     "message": "Moon likey",
     "msgClasses": "chat_message bneon32  bfont3"
+  },
+  {
+    "id": "7962839",
+    "type": "public",
+    "date": "9/06 15:10",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "maybe",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
