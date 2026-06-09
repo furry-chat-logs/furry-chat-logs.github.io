@@ -1306,5 +1306,15 @@
     "userClasses": "username user ",
     "message": "Hello everyone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961995",
+    "type": "public",
+    "date": "9/06 6:47",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Hewwoo",
+    "msgClasses": "chat_message bneon14"
   }
 ]
