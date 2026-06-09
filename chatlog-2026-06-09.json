@@ -4536,5 +4536,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "Voidscales pms ?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7962318",
+    "type": "public",
+    "date": "9/06 12:15",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "Boom :3",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
