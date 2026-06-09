@@ -8664,5 +8664,15 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "lxnar Germans are fine man",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962735",
+    "type": "public",
+    "date": "9/06 14:20",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "ICH BIN DEUTSCH",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
