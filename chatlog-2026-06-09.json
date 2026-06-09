@@ -9024,5 +9024,25 @@
     "userClasses": "username bcolor10 bnfont7",
     "message": "-w-",
     "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962771",
+    "type": "public",
+    "date": "9/06 14:25",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Uhuh?",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962772",
+    "type": "public",
+    "date": "9/06 14:25",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "😂",
+    "msgClasses": "chat_message bneon29 heavybold"
   }
 ]
