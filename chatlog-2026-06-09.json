@@ -9444,5 +9444,15 @@
     "userClasses": "username user ",
     "message": "Smiley srry i'll do English. I might get some other words wrong though.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962813",
+    "type": "public",
+    "date": "9/06 14:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "ImAcTaullyaTheriaN no need to apologize, it's just easier for others to understand ^^",
+    "msgClasses": "chat_message "
   }
 ]
