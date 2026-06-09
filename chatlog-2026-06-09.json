@@ -7834,5 +7834,25 @@
     "userClasses": "username bneon17 ",
     "message": "SLAV MAN ah",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962651",
+    "type": "public",
+    "date": "9/06 14:08",
+    "username": "AppleS",
+    "userId": "34435",
+    "userClasses": "username bneon17 ",
+    "message": "You have to apply for developer beta on apples website",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962652",
+    "type": "public",
+    "date": "9/06 14:08",
+    "username": "AppleS",
+    "userId": "34435",
+    "userClasses": "username bneon17 ",
+    "message": "I believe",
+    "msgClasses": "chat_message "
   }
 ]
