@@ -7266,5 +7266,35 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "*boops your nose*  CUTE FURRY FLUFF",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962591",
+    "type": "public",
+    "date": "9/06 13:44",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "UwU 😭😭😭",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962592",
+    "type": "public",
+    "date": "9/06 13:44",
+    "username": "Coldzenith",
+    "userId": "27437",
+    "userClasses": "username bcolor20 bnfont8",
+    "message": "[scrylveon]",
+    "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7962593",
+    "type": "public",
+    "date": "9/06 13:44",
+    "username": "Solene",
+    "userId": "3164",
+    "userClasses": "username bneon16 bnfont1",
+    "message": "🐈‍⬛",
+    "msgClasses": "chat_message bneon13 ital bfont12"
   }
 ]
