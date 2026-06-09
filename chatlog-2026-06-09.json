@@ -2296,5 +2296,25 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user16465_01d0c210d0f1.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962094",
+    "type": "public",
+    "date": "9/06 8:00",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962095",
+    "type": "public",
+    "date": "9/06 8:00",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Oh god",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
