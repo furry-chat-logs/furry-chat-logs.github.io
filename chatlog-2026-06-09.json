@@ -6146,5 +6146,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "She's not popular.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962479",
+    "type": "public",
+    "date": "9/06 13:31",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "I knowowo hehe im not",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962480",
+    "type": "public",
+    "date": "9/06 13:31",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "BUwUt like :3",
+    "msgClasses": "chat_message "
   }
 ]
