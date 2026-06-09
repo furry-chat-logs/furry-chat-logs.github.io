@@ -1456,5 +1456,15 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "themysteriousfox Robyn",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962010",
+    "type": "public",
+    "date": "9/06 6:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "What's yours themysteriousfox ?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
