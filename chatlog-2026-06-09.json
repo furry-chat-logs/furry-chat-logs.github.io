@@ -7216,5 +7216,25 @@
     "userClasses": "username bneon9 bnfont7",
     "message": "This room has been cleared by Frogmin",
     "msgClasses": "chat_message chat_system"
+  },
+  {
+    "id": "7962586",
+    "type": "public",
+    "date": "9/06 13:44",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Anyway",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962587",
+    "type": "public",
+    "date": "9/06 13:44",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": ":I",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
