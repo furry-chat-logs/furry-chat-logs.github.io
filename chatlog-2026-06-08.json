@@ -18604,5 +18604,15 @@
     "userClasses": "username bgrad5 bnfont12",
     "message": "Hiyaa hruu",
     "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7961719",
+    "type": "public",
+    "date": "8/06 19:29",
+    "username": "Normal Person",
+    "userId": "33087",
+    "userClasses": "username bcolor23 bnfont9",
+    "message": "Hi there 🙂",
+    "msgClasses": "chat_message "
   }
 ]
