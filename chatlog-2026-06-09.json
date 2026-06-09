@@ -10784,5 +10784,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_0c15f85f2808.mp3 | steam_whistle.mp3]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962947",
+    "type": "public",
+    "date": "9/06 16:25",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_d3ec27bd530b.png]",
+    "msgClasses": "chat_message "
   }
 ]
