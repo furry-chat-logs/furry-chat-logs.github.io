@@ -9924,5 +9924,25 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "lowkey",
     "msgClasses": "chat_message bneon10 ital bfont12"
+  },
+  {
+    "id": "7962861",
+    "type": "public",
+    "date": "9/06 15:18",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "i like",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962862",
+    "type": "public",
+    "date": "9/06 15:18",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ your being turned into canned beans",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
