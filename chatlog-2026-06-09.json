@@ -3526,5 +3526,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "No! That is NOT Solid Snake!",
     "msgClasses": "chat_message bneon19"
+  },
+  {
+    "id": "7962217",
+    "type": "public",
+    "date": "9/06 9:47",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "*gasp!*",
+    "msgClasses": "chat_message bneon19"
   }
 ]
