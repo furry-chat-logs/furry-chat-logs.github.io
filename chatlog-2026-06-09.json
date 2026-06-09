@@ -10134,5 +10134,25 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ fr",
     "msgClasses": "chat_message bneon10 ital bfont12"
+  },
+  {
+    "id": "7962882",
+    "type": "public",
+    "date": "9/06 15:26",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "I mean REAL BURGER MEAT, and ICE CREAM between a bun",
+    "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7962883",
+    "type": "public",
+    "date": "9/06 15:26",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Madame Thorne fried chicken ice cream lol",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
