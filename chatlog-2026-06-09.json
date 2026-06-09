@@ -1196,5 +1196,15 @@
     "userClasses": "username bneon1 bnfont6",
     "message": "🤔",
     "msgClasses": "chat_message bneon32 bold bfont13"
+  },
+  {
+    "id": "7961984",
+    "type": "public",
+    "date": "9/06 5:33",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Gay",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
