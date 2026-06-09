@@ -10174,5 +10174,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "Madame Thorne discusting",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962886",
+    "type": "public",
+    "date": "9/06 15:27",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Evelyn1 but chocolate pizza is not a option?",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
