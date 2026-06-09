@@ -13312,5 +13312,15 @@
     "userClasses": "username user ",
     "message": "Hi everyone",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963262",
+    "type": "public",
+    "date": "9/06 18:37",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "I don't plan on changing the background anytime soon since it seems to match.",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
