@@ -6046,5 +6046,25 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Fuwwy Wobin and I didn't ban you despite everyone, including me, voting to.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962469",
+    "type": "public",
+    "date": "9/06 13:30",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin she keeps the chat alive",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962470",
+    "type": "public",
+    "date": "9/06 13:30",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "rawr~ owo fr-OwO-gmin-chan ik",
+    "msgClasses": "chat_message "
   }
 ]
