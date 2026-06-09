@@ -11374,5 +11374,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Hamborgor",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963006",
+    "type": "public",
+    "date": "9/06 17:01",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "Bamhurger",
+    "msgClasses": "chat_message bneon30 bold"
   }
 ]
