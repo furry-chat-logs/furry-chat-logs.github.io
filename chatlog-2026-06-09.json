@@ -8854,5 +8854,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Please no",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962754",
+    "type": "public",
+    "date": "9/06 14:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "15 y/o IQ 130",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962755",
+    "type": "public",
+    "date": "9/06 14:23",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "sum like that",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
