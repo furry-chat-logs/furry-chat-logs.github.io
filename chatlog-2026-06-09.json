@@ -1816,5 +1816,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Welcome backkk",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962046",
+    "type": "public",
+    "date": "9/06 7:37",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "I'm exhausted",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
