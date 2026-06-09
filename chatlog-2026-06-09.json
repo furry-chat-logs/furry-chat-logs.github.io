@@ -5086,5 +5086,15 @@
     "userClasses": "username bneon24 ",
     "message": "Ok where do I go to flip coins?",
     "msgClasses": "chat_message bcolor24"
+  },
+  {
+    "id": "7962373",
+    "type": "public",
+    "date": "9/06 12:28",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Main chat",
+    "msgClasses": "chat_message bneon14"
   }
 ]
