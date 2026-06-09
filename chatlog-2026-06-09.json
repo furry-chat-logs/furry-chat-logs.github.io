@@ -6986,5 +6986,25 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "Frogmin like half the chat is still poly here",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962563",
+    "type": "public",
+    "date": "9/06 13:40",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "\"Poly 3/4 ask to date\"",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962564",
+    "type": "public",
+    "date": "9/06 13:40",
+    "username": "Fuwwy Wobin",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Exactly",
+    "msgClasses": "chat_message "
   }
 ]
