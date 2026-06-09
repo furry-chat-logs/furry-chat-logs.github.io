@@ -2576,5 +2576,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "That i got",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962122",
+    "type": "public",
+    "date": "9/06 8:15",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "2 photos of you from mdekoni",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962123",
+    "type": "public",
+    "date": "9/06 8:15",
+    "username": "RuffRuffRobyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "Dwag ;33",
+    "msgClasses": "chat_message "
   }
 ]
