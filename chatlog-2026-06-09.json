@@ -7136,5 +7136,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "Misha got demoted because he threw a temper tantrum when I said \"Wobin\" asked to date me, and I instead insulted them and drew a very insulting picture of them.",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962578",
+    "type": "public",
+    "date": "9/06 13:43",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Frogmin you had no proof",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
