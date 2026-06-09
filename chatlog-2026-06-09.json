@@ -5766,5 +5766,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Yea",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962441",
+    "type": "public",
+    "date": "9/06 13:27",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "QueenMoon No. They're also a creep.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962442",
+    "type": "public",
+    "date": "9/06 13:27",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "It can be both.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
