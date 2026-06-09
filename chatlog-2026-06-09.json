@@ -5716,5 +5716,15 @@
     "userClasses": "username bneon32 bnfont11",
     "message": "oop",
     "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962436",
+    "type": "public",
+    "date": "9/06 13:22",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Sorry if i say that but its just weird",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
