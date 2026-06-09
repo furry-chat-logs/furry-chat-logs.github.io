@@ -6936,5 +6936,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "I do.",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962558",
+    "type": "public",
+    "date": "9/06 13:40",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "That comment is funny because \"Wobin\" is notorious for dating hundreds of people on here before they were banned.",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962559",
+    "type": "public",
+    "date": "9/06 13:40",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37459_431de4cdfb4a.png]",
+    "msgClasses": "chat_message "
   }
 ]
