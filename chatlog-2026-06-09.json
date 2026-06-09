@@ -5506,5 +5506,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "i think my ex is trying to get back with me </3",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962415",
+    "type": "public",
+    "date": "9/06 12:36",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "And... do u want that to happen?",
+    "msgClasses": "chat_message bneon14"
   }
 ]
