@@ -2206,5 +2206,25 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Is",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962085",
+    "type": "public",
+    "date": "9/06 7:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Dead",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962086",
+    "type": "public",
+    "date": "9/06 7:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "._.",
+    "msgClasses": "chat_message bneon14"
   }
 ]
