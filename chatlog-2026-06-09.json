@@ -12642,5 +12642,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_c97dd2f6cc9d.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963195",
+    "type": "public",
+    "date": "9/06 18:04",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user8620_6fe2304648c5.mp3 | say_wallahi_bro.mp3]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963196",
+    "type": "public",
+    "date": "9/06 18:04",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "Sigh",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
