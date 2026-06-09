@@ -8974,5 +8974,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Sure",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962766",
+    "type": "public",
+    "date": "9/06 14:24",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "alright alright my deutch is only so far yk",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962767",
+    "type": "public",
+    "date": "9/06 14:24",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Why not",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
