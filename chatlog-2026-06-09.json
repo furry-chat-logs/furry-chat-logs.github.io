@@ -9464,5 +9464,15 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "you don't have to listen to the twink",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962815",
+    "type": "public",
+    "date": "9/06 14:52",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "lxnar I'm not a twink >:[",
+    "msgClasses": "chat_message "
   }
 ]
