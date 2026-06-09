@@ -8154,5 +8154,35 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "🗿?",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962684",
+    "type": "public",
+    "date": "9/06 14:13",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "SLAV MAN indeed",
+    "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962685",
+    "type": "public",
+    "date": "9/06 14:13",
+    "username": "QueenMoon",
+    "userId": "6405",
+    "userClasses": "username bneon30 bnfont8",
+    "message": "1. There's less restrictions to anything, like Android has an built in package installer and entire dev website for anyone using debug, and it has better features, for many things, like customization and themes, plus compatibility with things not its own os",
+    "msgClasses": "chat_message bneon29 heavybold"
+  },
+  {
+    "id": "7962686",
+    "type": "public",
+    "date": "9/06 14:13",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Oh yeah i see",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
