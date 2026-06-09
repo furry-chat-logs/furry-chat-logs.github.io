@@ -5566,5 +5566,15 @@
     "userClasses": "username bneon18 bnfont15",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ pms ?",
     "msgClasses": "chat_message bneon17 bold bfont14"
+  },
+  {
+    "id": "7962421",
+    "type": "public",
+    "date": "9/06 12:56",
+    "username": "wiffie",
+    "userId": "12859",
+    "userClasses": "username bneon1 bnfont7",
+    "message": "Helo :P",
+    "msgClasses": "chat_message bneon1 heavybold bfont2"
   }
 ]
