@@ -19904,5 +19904,25 @@
     "userClasses": "username bcolor1 bnfont1",
     "message": "Miss Kit : )",
     "msgClasses": "chat_message bgrad32  bfont11"
+  },
+  {
+    "id": "7961849",
+    "type": "public",
+    "date": "8/06 23:51",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Yeah pinterest is so ass when it comes to fanart 🫩",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7961850",
+    "type": "public",
+    "date": "8/06 23:52",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "Ts pmo",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
   }
 ]
