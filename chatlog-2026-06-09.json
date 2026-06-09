@@ -7534,5 +7534,15 @@
     "userClasses": "username bcolor20 bnfont8",
     "message": "lxnar time to eat 😋",
     "msgClasses": "chat_message bneon19 ital bfont9"
+  },
+  {
+    "id": "7962621",
+    "type": "public",
+    "date": "9/06 13:51",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Coldzenith NO!😡",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
