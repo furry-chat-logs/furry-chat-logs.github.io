@@ -4396,5 +4396,15 @@
     "userClasses": "username bneon14 bnfont14",
     "message": "Bruh-s",
     "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962304",
+    "type": "public",
+    "date": "9/06 11:22",
+    "username": "Ethan2000mace",
+    "userId": "29710",
+    "userClasses": "username user ",
+    "message": "Hi everyone",
+    "msgClasses": "chat_message "
   }
 ]
