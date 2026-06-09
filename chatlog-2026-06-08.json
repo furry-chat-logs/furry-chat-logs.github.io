@@ -18714,5 +18714,15 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "[hono]",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7961730",
+    "type": "public",
+    "date": "8/06 19:56",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Good golly.",
+    "msgClasses": "chat_message ital"
   }
 ]
