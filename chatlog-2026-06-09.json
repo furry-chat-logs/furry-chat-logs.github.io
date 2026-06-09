@@ -4576,5 +4576,35 @@
     "userClasses": "username bneon30 bnfont8",
     "message": "[media: https://furrychat.net/chat/upload/chat/user6405_d3c226d19dde.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962322",
+    "type": "public",
+    "date": "9/06 12:16",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Me boom",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7962323",
+    "type": "public",
+    "date": "9/06 12:16",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Mr.",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7962324",
+    "type": "public",
+    "date": "9/06 12:16",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "lol",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
