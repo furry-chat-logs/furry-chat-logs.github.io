@@ -1126,5 +1126,15 @@
     "userClasses": "username bgrad34 bnfont8",
     "message": ":p",
     "msgClasses": "chat_message bgrad34 bold bfont12"
+  },
+  {
+    "id": "7961977",
+    "type": "public",
+    "date": "9/06 4:44",
+    "username": "frit",
+    "userId": "7279",
+    "userClasses": "username bgrad32 bnfont8",
+    "message": "false",
+    "msgClasses": "chat_message bneon31"
   }
 ]
