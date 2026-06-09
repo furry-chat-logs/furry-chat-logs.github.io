@@ -8914,5 +8914,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Du fettsack Sol_Aizawa",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962760",
+    "type": "public",
+    "date": "9/06 14:24",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8914_1b693ee641f3.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962761",
+    "type": "public",
+    "date": "9/06 14:24",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "SLAV MAN Nein, du bist ein fettsack",
+    "msgClasses": "chat_message bgrad4  bfont14"
   }
 ]
