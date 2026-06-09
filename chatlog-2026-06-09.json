@@ -6796,5 +6796,45 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "SLAV MAN did gng read any of the messages?",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962544",
+    "type": "public",
+    "date": "9/06 13:38",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Hell yeah",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962545",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "YEAHHHHHHHHHHH",
+    "msgClasses": "chat_message heavyital bfont3"
+  },
+  {
+    "id": "7962546",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Yes",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962547",
+    "type": "public",
+    "date": "9/06 13:39",
+    "username": "Voidscales",
+    "userId": "13262",
+    "userClasses": "username bneon32 bnfont11",
+    "message": "lol",
+    "msgClasses": "chat_message heavyital bfont3"
   }
 ]
