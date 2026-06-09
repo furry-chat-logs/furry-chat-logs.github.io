@@ -13412,5 +13412,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "BSEHUEAJAHAHAUAIWIEJEHSHAHAUWIEJD",
     "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7963272",
+    "type": "public",
+    "date": "9/06 18:38",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "It's Nick Wilde trust",
+    "msgClasses": "chat_message bneon18 boldital bfont4"
+  },
+  {
+    "id": "7963273",
+    "type": "public",
+    "date": "9/06 18:38",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmaHRybzRxMmtqYXNwNnc0Zzd5dGJ1ZGFicHIxeXhqYmk0cGI3NmkzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jIV1sF2ONg46I/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
