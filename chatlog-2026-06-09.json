@@ -1436,5 +1436,25 @@
     "userClasses": "username user ",
     "message": "What's your favorite food?",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962008",
+    "type": "public",
+    "date": "9/06 6:56",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "Sushi and bubble tea ^^",
+    "msgClasses": "chat_message bneon14"
+  },
+  {
+    "id": "7962009",
+    "type": "public",
+    "date": "9/06 6:56",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "themysteriousfox Robyn",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
