@@ -12074,5 +12074,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "Just spilled mountain dew because of a mosquito all over my pillow.. great",
     "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7963138",
+    "type": "public",
+    "date": "9/06 17:48",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media0.giphy.com/media/v1.Y2lkPWQ1MThhNjFmMGo1eGEwbDNqaXl2b2V5dml0bWNmbW9sMDYwdnR4eWZsa2Ztemd1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WuwODzIiZQQIo/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
