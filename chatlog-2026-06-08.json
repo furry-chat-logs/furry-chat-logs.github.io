@@ -18924,5 +18924,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Remove thyself from my sight at once! [toro]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7961751",
+    "type": "public",
+    "date": "8/06 20:53",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_4c76cf219407.png]",
+    "msgClasses": "chat_message "
   }
 ]
