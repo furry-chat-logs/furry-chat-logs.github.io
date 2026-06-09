@@ -1276,5 +1276,15 @@
     "userClasses": "username bneon2 bnfont8",
     "message": "crrazyy",
     "msgClasses": "chat_message bneon2 bold bfont12"
+  },
+  {
+    "id": "7961992",
+    "type": "public",
+    "date": "9/06 6:39",
+    "username": "frit",
+    "userId": "7279",
+    "userClasses": "username bgrad32 bnfont8",
+    "message": "trash timezones",
+    "msgClasses": "chat_message bneon31"
   }
 ]
