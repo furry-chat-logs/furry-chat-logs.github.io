@@ -11394,5 +11394,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Beesechurger",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963008",
+    "type": "public",
+    "date": "9/06 17:02",
+    "username": "Rimshu",
+    "userId": "2169",
+    "userClasses": "username bneon20 bnfont10",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user2169_5be3b253c59f.png]",
+    "msgClasses": "chat_message "
   }
 ]
