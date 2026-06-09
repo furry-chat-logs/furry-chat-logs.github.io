@@ -1926,5 +1926,15 @@
     "userClasses": "username bcolor15 bnfont1",
     "message": "themysteriousfox ahh",
     "msgClasses": "chat_message bgrad34 bold bfont1"
+  },
+  {
+    "id": "7962057",
+    "type": "public",
+    "date": "9/06 7:40",
+    "username": "SilverXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "themysteriousfox isolation and loneliness",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
   }
 ]
