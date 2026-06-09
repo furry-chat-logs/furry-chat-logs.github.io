@@ -11574,5 +11574,25 @@
     "userClasses": "username user ",
     "message": "I can't keep going",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963026",
+    "type": "public",
+    "date": "9/06 17:07",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_a903bdf21df5.jpeg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963027",
+    "type": "public",
+    "date": "9/06 17:07",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Rotation",
+    "msgClasses": "chat_message "
   }
 ]
