@@ -4026,5 +4026,15 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "Ima tell her that",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962267",
+    "type": "public",
+    "date": "9/06 10:45",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmc2diYjZ6M2lkZTZkZTA4aWVwNnNqaDE1OWFwOTZ4ZmNuczN6dG12MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PrzIrP5WjXHccWK7eE/giphy.gif]",
+    "msgClasses": "chat_message bneon14"
   }
 ]
