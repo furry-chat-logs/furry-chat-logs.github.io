@@ -10604,5 +10604,15 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_759227264a3d.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962929",
+    "type": "public",
+    "date": "9/06 15:44",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "[secret-share: V0rP00943gQpHtpVeGdd4wm4c&n=36515]",
+    "msgClasses": "chat_message bfont3"
   }
 ]
