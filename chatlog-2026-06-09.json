@@ -13512,5 +13512,25 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "the fact that this Ren Hana is from a visual novel fails to surprise me",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7963282",
+    "type": "public",
+    "date": "9/06 18:40",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36773_100d2a9b3a2c.png]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963283",
+    "type": "public",
+    "date": "9/06 18:40",
+    "username": "Rune",
+    "userId": "33678",
+    "userClasses": "username bneon18 bnfont4",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user33678_5750677d9d29.gif]",
+    "msgClasses": "chat_message "
   }
 ]
