@@ -6396,5 +6396,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Im da one who gets pissed off mawe ;33",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962504",
+    "type": "public",
+    "date": "9/06 13:34",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "God has given, and God can take away.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
