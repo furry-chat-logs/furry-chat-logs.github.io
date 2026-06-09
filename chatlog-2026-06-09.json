@@ -1546,5 +1546,15 @@
     "userClasses": "username user ",
     "message": "SoraTheMikuFan Awhh! Maybe we shouldn't talk about foods then...",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962019",
+    "type": "public",
+    "date": "9/06 7:00",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "It's ok ig we can talk abt other things too",
+    "msgClasses": "chat_message bneon14"
   }
 ]
