@@ -3556,5 +3556,15 @@
     "userClasses": "username bcolor4 bnfont7",
     "message": "Good morning",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962220",
+    "type": "public",
+    "date": "9/06 9:50",
+    "username": "Nyx",
+    "userId": "495",
+    "userClasses": "username bneon23 bnfont15",
+    "message": "👀",
+    "msgClasses": "chat_message bneon23 bold bfont11"
   }
 ]
