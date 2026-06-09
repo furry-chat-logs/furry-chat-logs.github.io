@@ -18734,5 +18734,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Er-",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7961732",
+    "type": "public",
+    "date": "8/06 20:10",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmeGdpd3ltbHEwZXFlenF0NTJ2bDh1MXBnbjJzc2U3bWRqN2U4NndmZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WmDZ6jrswtV37ClLc2/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
