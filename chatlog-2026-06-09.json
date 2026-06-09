@@ -108,5 +108,25 @@
     "userClasses": "username bneon18 bnfont4",
     "message": "[media: https://furrychat.net/chat/upload/chat/user33678_916ed482bc53.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7961875",
+    "type": "public",
+    "date": "9/06 0:03",
+    "username": "1JackinTheBox0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "Oh",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
+  },
+  {
+    "id": "7961876",
+    "type": "public",
+    "date": "9/06 0:03",
+    "username": "1JackinTheBox0",
+    "userId": "26198",
+    "userClasses": "username bneon30 bnfont1",
+    "message": "A fox?",
+    "msgClasses": "chat_message bneon32 boldital bfont10"
   }
 ]
