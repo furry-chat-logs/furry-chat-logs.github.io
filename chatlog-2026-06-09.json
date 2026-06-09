@@ -3626,5 +3626,15 @@
     "userClasses": "username bcolor10 bnfont15",
     "message": "and it worked!",
     "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962227",
+    "type": "public",
+    "date": "9/06 9:53",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "It did",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
