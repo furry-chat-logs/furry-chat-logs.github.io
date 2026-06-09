@@ -7206,5 +7206,15 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "cooking up a new oc",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962585",
+    "type": "public",
+    "date": "9/06 13:44",
+    "username": "Data",
+    "userId": "2",
+    "userClasses": "username bneon9 bnfont7",
+    "message": "This room has been cleared by Frogmin",
+    "msgClasses": "chat_message chat_system"
   }
 ]
