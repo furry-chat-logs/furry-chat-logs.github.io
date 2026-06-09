@@ -11814,5 +11814,45 @@
     "userClasses": "username bgrad24 bnfont6",
     "message": "URRGGFHHFG i hope so",
     "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7963051",
+    "type": "public",
+    "date": "9/06 17:22",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "its been miserable recently",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7963052",
+    "type": "public",
+    "date": "9/06 17:22",
+    "username": "Planet",
+    "userId": "16465",
+    "userClasses": "username bgrad24 bnfont6",
+    "message": "both siege and overwatch",
+    "msgClasses": "chat_message bgrad24 bold bfont6"
+  },
+  {
+    "id": "7963053",
+    "type": "public",
+    "date": "9/06 17:22",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNmtoeHB2cTE4b3c3bm1ob2g5NXJuZ21lZWJoYWk2aXhiZmM2d3FtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XNA3ThA36zgizTktkK/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7963054",
+    "type": "public",
+    "date": "9/06 17:22",
+    "username": "Evelyn1",
+    "userId": "35115",
+    "userClasses": "username bgrad35 bnfont15",
+    "message": "why do i feel irrational :')",
+    "msgClasses": "chat_message bneon13 bold bfont5"
   }
 ]
