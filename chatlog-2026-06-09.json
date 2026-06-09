@@ -12962,5 +12962,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Hehe",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963227",
+    "type": "public",
+    "date": "9/06 18:08",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "want applause",
+    "msgClasses": "chat_message bneon13 heavyital bfont7"
   }
 ]
