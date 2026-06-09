@@ -12992,5 +12992,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37578_dacee6fd9230.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963230",
+    "type": "public",
+    "date": "9/06 18:09",
+    "username": "misha",
+    "userId": "9189",
+    "userClasses": "username bneon15 bnfont7",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9189_29c654ad7cc8.png]",
+    "msgClasses": "chat_message "
   }
 ]
