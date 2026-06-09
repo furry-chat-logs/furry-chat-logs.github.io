@@ -3436,5 +3436,15 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "Ts is NOT summer.",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7962208",
+    "type": "public",
+    "date": "9/06 9:38",
+    "username": "Miss Kit",
+    "userId": "36767",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36767_006a7cba2078.jpeg]",
+    "msgClasses": "chat_message "
   }
 ]
