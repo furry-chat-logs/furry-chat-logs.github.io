@@ -10684,5 +10684,25 @@
     "userClasses": "username bgrad35 bnfont15",
     "message": "wait what",
     "msgClasses": "chat_message bgrad38 boldital bfont6"
+  },
+  {
+    "id": "7962937",
+    "type": "public",
+    "date": "9/06 15:51",
+    "username": "Cammy",
+    "userId": "19316",
+    "userClasses": "username bgrad5 bnfont12",
+    "message": "Im being kicked out my place i just got a 30 days notice",
+    "msgClasses": "chat_message bneon20  bfont11"
+  },
+  {
+    "id": "7962938",
+    "type": "public",
+    "date": "9/06 15:51",
+    "username": "Smiley",
+    "userId": "36289",
+    "userClasses": "username bcolor4 bnfont7",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ baa",
+    "msgClasses": "chat_message "
   }
 ]
