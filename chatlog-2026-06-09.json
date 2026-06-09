@@ -5526,5 +5526,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "kinda but not really",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962417",
+    "type": "public",
+    "date": "9/06 12:37",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Well just tell them you don't know",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
