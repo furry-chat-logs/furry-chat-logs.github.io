@@ -956,5 +956,15 @@
     "userClasses": "username bcolor20 bnfont2",
     "message": "no shit",
     "msgClasses": "chat_message bgrad7 heavyital bfont14"
+  },
+  {
+    "id": "7961960",
+    "type": "public",
+    "date": "9/06 2:07",
+    "username": "Sonic The Hedgehog",
+    "userId": "25868",
+    "userClasses": "username bneon14 bnfont3",
+    "message": "And 3D modeling alongside the animation",
+    "msgClasses": "chat_message bneon15 heavyital bfont3"
   }
 ]
