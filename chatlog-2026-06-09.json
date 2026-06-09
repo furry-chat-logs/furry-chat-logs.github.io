@@ -8564,5 +8564,35 @@
     "userClasses": "username bneon29 bnfont15",
     "message": "SLAV MAN that's dutch???",
     "msgClasses": "chat_message bneon32 ital bfont12"
+  },
+  {
+    "id": "7962725",
+    "type": "public",
+    "date": "9/06 14:18",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "No german",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962726",
+    "type": "public",
+    "date": "9/06 14:18",
+    "username": "Sol_Aizawa",
+    "userId": "36863",
+    "userClasses": "username bcolor10 bnfont7",
+    "message": "lxnar fuck no thats german",
+    "msgClasses": "chat_message bgrad4  bfont14"
+  },
+  {
+    "id": "7962727",
+    "type": "public",
+    "date": "9/06 14:18",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "Sol_Aizawa yk I said pms for a reason right?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
