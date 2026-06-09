@@ -9574,5 +9574,25 @@
     "userClasses": "username user ",
     "message": "Eh what is thete thingy mijiga Americans have where they spray cheese out can",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962826",
+    "type": "public",
+    "date": "9/06 15:08",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "ImAcTaullyaTheriaN easy cheese?",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7962827",
+    "type": "public",
+    "date": "9/06 15:08",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon29 bnfont15",
+    "message": "u mean easy cheese?",
+    "msgClasses": "chat_message bneon32 ital bfont12"
   }
 ]
