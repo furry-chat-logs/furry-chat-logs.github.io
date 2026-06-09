@@ -5886,5 +5886,15 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "Frogmin I'll trade it for her",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7962453",
+    "type": "public",
+    "date": "9/06 13:28",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "You've been banned countless times.",
+    "msgClasses": "chat_message heavybold bfont3"
   }
 ]
