@@ -4186,5 +4186,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "It should come today or tomorrow idk",
     "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962283",
+    "type": "public",
+    "date": "9/06 10:51",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "[media: https://media1.giphy.com/media/v1.Y2lkPWQ1MThhNjFmNWY5d3Jodm51M3lzbGo2cXNyMWt2bzlhOHY5eTZ5M2JoMHdhc2RxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fqCBM1HgTT0fPYxDPV/giphy.gif]",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
+  },
+  {
+    "id": "7962284",
+    "type": "public",
+    "date": "9/06 10:51",
+    "username": "SoraTheMikuFan",
+    "userId": "36927",
+    "userClasses": "username bneon14 bnfont14",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user36927_f43184be1c41.png]",
+    "msgClasses": "chat_message "
   }
 ]
