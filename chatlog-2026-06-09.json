@@ -1106,5 +1106,15 @@
     "userClasses": "username bneon15 bnfont7",
     "message": "Dead chat",
     "msgClasses": "chat_message bneon13 heavyital bfont7"
+  },
+  {
+    "id": "7961975",
+    "type": "public",
+    "date": "9/06 4:40",
+    "username": "frit",
+    "userId": "7279",
+    "userClasses": "username bgrad32 bnfont8",
+    "message": "h",
+    "msgClasses": "chat_message bneon31"
   }
 ]
