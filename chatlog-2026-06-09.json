@@ -10574,5 +10574,15 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "SS) I'll do the tutorial in a vm",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7962926",
+    "type": "public",
+    "date": "9/06 15:43",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user6405_a3bc300844ea.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
