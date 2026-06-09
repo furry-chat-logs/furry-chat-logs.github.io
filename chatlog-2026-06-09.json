@@ -3576,5 +3576,25 @@
     "userClasses": "username bcolor1 bnfont14",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37459_b4ea505005e5.jpeg]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7962222",
+    "type": "public",
+    "date": "9/06 9:52",
+    "username": "Frogmin",
+    "userId": "1",
+    "userClasses": "username bcolor10 bnfont15",
+    "message": "Nyx Did you just message on my website but not respond to my whatsapp message?",
+    "msgClasses": "chat_message heavybold bfont3"
+  },
+  {
+    "id": "7962223",
+    "type": "public",
+    "date": "9/06 9:52",
+    "username": "SLAV MAN",
+    "userId": "37459",
+    "userClasses": "username bcolor1 bnfont14",
+    "message": "Nyx your profile is just a questionmark",
+    "msgClasses": "chat_message bcolor12 heavyital bfont6"
   }
 ]
