@@ -16812,5 +16812,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Ok",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963615",
+    "type": "public",
+    "date": "9/06 21:35",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "Haii!!!",
+    "msgClasses": "chat_message bfont3"
   }
 ]
