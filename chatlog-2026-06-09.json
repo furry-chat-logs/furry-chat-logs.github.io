@@ -17032,5 +17032,25 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "Hmmn",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963637",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Bruh",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7963638",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "Tkuoi",
+    "userId": "37605",
+    "userClasses": "username user ",
+    "message": "Huh",
+    "msgClasses": "chat_message "
   }
 ]
