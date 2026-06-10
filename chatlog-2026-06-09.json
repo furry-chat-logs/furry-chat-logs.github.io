@@ -17052,5 +17052,25 @@
     "userClasses": "username user ",
     "message": "Huh",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963639",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "😋😋😋😋 :3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963640",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "KingCorgz bwa",
+    "msgClasses": "chat_message bfont3"
   }
 ]
