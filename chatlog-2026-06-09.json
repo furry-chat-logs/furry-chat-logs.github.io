@@ -14812,5 +14812,35 @@
     "userClasses": "username bneon24 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37515_8187c777aa7c.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963415",
+    "type": "public",
+    "date": "9/06 20:28",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Sniffles",
+    "msgClasses": "chat_message bcolor24  bfont6"
+  },
+  {
+    "id": "7963416",
+    "type": "public",
+    "date": "9/06 20:29",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "I had cheezeburger for you tho",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963417",
+    "type": "public",
+    "date": "9/06 20:29",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Never logged back on my phone so quick",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
