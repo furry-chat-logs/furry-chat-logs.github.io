@@ -16852,5 +16852,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Madame Thorne hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963619",
+    "type": "public",
+    "date": "9/06 21:43",
+    "username": "KLOFU",
+    "userId": "7561",
+    "userClasses": "username bgrad26 bnfont15",
+    "message": "...",
+    "msgClasses": "chat_message bcolor22 heavyital bfont4"
   }
 ]
