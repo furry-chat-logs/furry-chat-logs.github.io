@@ -13912,5 +13912,15 @@
     "userClasses": "username bneon30 bnfont2",
     "message": "LMAO",
     "msgClasses": "chat_message bneon30 ital"
+  },
+  {
+    "id": "7963322",
+    "type": "public",
+    "date": "9/06 19:20",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[sob]",
+    "msgClasses": "chat_message ital"
   }
 ]
