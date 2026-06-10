@@ -17662,5 +17662,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963702",
+    "type": "public",
+    "date": "9/06 22:47",
+    "username": "Sharkish",
+    "userId": "11705",
+    "userClasses": "username bneon32 bnfont8",
+    "message": "[secret-share: d90Z03oHKGXJKDH8tMAjaSyfa&n=46738]",
+    "msgClasses": "chat_message "
   }
 ]
