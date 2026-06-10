@@ -17212,5 +17212,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": ". *tail swish*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963655",
+    "type": "public",
+    "date": "9/06 22:13",
+    "username": "Slinko",
+    "userId": "33413",
+    "userClasses": "username bneon29 bnfont7",
+    "message": "lxnar I’ll be back tomorrow ^^",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7963656",
+    "type": "public",
+    "date": "9/06 22:13",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "I was watching Joe Bart! Viable reason to not sleep",
+    "msgClasses": "chat_message bfont3"
   }
 ]
