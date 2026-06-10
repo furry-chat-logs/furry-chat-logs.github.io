@@ -14022,5 +14022,15 @@
     "userClasses": "username bneon24 bnfont7",
     "message": "slightly better",
     "msgClasses": "chat_message bneon24 bold bfont7"
+  },
+  {
+    "id": "7963333",
+    "type": "public",
+    "date": "9/06 19:31",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Cry harder",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
