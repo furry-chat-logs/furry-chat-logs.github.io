@@ -17852,5 +17852,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "MEOWSCRADA",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963721",
+    "type": "public",
+    "date": "9/06 23:17",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "BET",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
