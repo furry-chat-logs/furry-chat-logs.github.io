@@ -16882,5 +16882,15 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "How is everyone!!",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963622",
+    "type": "public",
+    "date": "9/06 21:47",
+    "username": "Slinko",
+    "userId": "33413",
+    "userClasses": "username bneon29 bnfont7",
+    "message": "Madame Thorne existing",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
