@@ -15062,5 +15062,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://media4.giphy.com/media/v1.Y2lkPWQ1MThhNjFmdDBoMDNtMmZyeWU2OXFjdTF6dDlrcWxoODQzNWI0dnczMGkzbzY0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif]",
     "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7963440",
+    "type": "public",
+    "date": "9/06 20:33",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "Porphyrophobia [skull]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7963441",
+    "type": "public",
+    "date": "9/06 20:33",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37515_5f75220d432b.gif]",
+    "msgClasses": "chat_message "
   }
 ]
