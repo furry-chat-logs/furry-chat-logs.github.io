@@ -15262,5 +15262,35 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "🍞",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963460",
+    "type": "public",
+    "date": "9/06 20:35",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Buns, ketchup, pickles, cheese",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963461",
+    "type": "public",
+    "date": "9/06 20:35",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Jesterandsugar uhh they have almost no tail",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7963462",
+    "type": "public",
+    "date": "9/06 20:35",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37515_3b26c30f72db.gif]",
+    "msgClasses": "chat_message "
   }
 ]
