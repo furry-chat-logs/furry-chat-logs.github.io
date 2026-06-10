@@ -15752,5 +15752,15 @@
     "userClasses": "username bneon24 ",
     "message": "I believe I can fly, I believe I can touch this guy",
     "msgClasses": "chat_message bcolor24  bfont6"
+  },
+  {
+    "id": "7963509",
+    "type": "public",
+    "date": "9/06 20:47",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "I refuse to believe that thing kidnapped me 💔",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
