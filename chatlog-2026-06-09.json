@@ -14362,5 +14362,15 @@
     "userClasses": "username bneon24 ",
     "message": "Hi",
     "msgClasses": "chat_message bcolor24  bfont6"
+  },
+  {
+    "id": "7963370",
+    "type": "public",
+    "date": "9/06 20:20",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "How art thou",
+    "msgClasses": "chat_message "
   }
 ]
