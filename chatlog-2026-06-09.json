@@ -15412,5 +15412,25 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Birb²",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963475",
+    "type": "public",
+    "date": "9/06 20:38",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Birb³",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963476",
+    "type": "public",
+    "date": "9/06 20:38",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Birb⁴",
+    "msgClasses": "chat_message "
   }
 ]
