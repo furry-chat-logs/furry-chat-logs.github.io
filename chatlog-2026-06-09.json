@@ -17622,5 +17622,15 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "In most areas",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963698",
+    "type": "public",
+    "date": "9/06 22:25",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Huh",
+    "msgClasses": "chat_message "
   }
 ]
