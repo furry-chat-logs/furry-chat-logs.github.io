@@ -16792,5 +16792,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Why did everyone die",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963613",
+    "type": "public",
+    "date": "9/06 21:33",
+    "username": "Slinko",
+    "userId": "33413",
+    "userClasses": "username bneon29 bnfont7",
+    "message": "Because yes",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
