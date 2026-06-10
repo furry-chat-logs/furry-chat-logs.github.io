@@ -17642,5 +17642,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Bam herger",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963700",
+    "type": "public",
+    "date": "9/06 22:43",
+    "username": "The Nephalem",
+    "userId": "37512",
+    "userClasses": "username bcolor2 bnfont1",
+    "message": "Hi everyone",
+    "msgClasses": "chat_message "
   }
 ]
