@@ -16922,5 +16922,15 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "*wags tail* 🥹",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963626",
+    "type": "public",
+    "date": "9/06 21:52",
+    "username": "Slinko",
+    "userId": "33413",
+    "userClasses": "username bneon29 bnfont7",
+    "message": "?",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
