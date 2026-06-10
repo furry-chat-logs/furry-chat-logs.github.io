@@ -17242,5 +17242,15 @@
     "userClasses": "username user ",
     "message": "I'm running on 3 c4 energy drinks",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963658",
+    "type": "public",
+    "date": "9/06 22:14",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Madame Thorne real",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
