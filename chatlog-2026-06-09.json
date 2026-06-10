@@ -17132,5 +17132,35 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "Madame Thorne go to sleep",
     "msgClasses": "chat_message bneon10 ital bfont12"
+  },
+  {
+    "id": "7963647",
+    "type": "public",
+    "date": "9/06 22:12",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "lxnar ?",
+    "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963648",
+    "type": "public",
+    "date": "9/06 22:12",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "What's that?",
+    "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963649",
+    "type": "public",
+    "date": "9/06 22:12",
+    "username": "Slinko",
+    "userId": "33413",
+    "userClasses": "username bneon29 bnfont7",
+    "message": "Good night y’all",
+    "msgClasses": "chat_message bneon29 heavyital bfont2"
   }
 ]
