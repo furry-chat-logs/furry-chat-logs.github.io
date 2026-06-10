@@ -16632,5 +16632,25 @@
     "userClasses": "username bneon29 bnfont7",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ don't let yourself be a rebound",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7963597",
+    "type": "public",
+    "date": "9/06 21:21",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Yea",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963598",
+    "type": "public",
+    "date": "9/06 21:21",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Zer0_is_the_goat he was crying more then i was when it happend",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
