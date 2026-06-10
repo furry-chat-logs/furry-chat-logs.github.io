@@ -14302,5 +14302,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Hello",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963364",
+    "type": "public",
+    "date": "9/06 20:18",
+    "username": "gamehawk20",
+    "userId": "37604",
+    "userClasses": "username user ",
+    "message": "how is it going with you",
+    "msgClasses": "chat_message "
   }
 ]
