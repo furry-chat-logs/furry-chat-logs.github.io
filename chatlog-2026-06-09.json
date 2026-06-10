@@ -14062,5 +14062,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Sad indeed",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7963337",
+    "type": "public",
+    "date": "9/06 19:41",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "it's so depressing in here",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
