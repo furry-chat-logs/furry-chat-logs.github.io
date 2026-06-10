@@ -17702,5 +17702,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "he keeps deflecting",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7963706",
+    "type": "public",
+    "date": "9/06 23:09",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Well you decide whether you want to get back together or bot",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963707",
+    "type": "public",
+    "date": "9/06 23:09",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "*not",
+    "msgClasses": "chat_message "
   }
 ]
