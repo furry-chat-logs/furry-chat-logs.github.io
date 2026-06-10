@@ -17352,5 +17352,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "Cute furry Fluff",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963670",
+    "type": "public",
+    "date": "9/06 22:16",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "*purrs* Hate Hamilton x3",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963671",
+    "type": "public",
+    "date": "9/06 22:16",
+    "username": "Tkuoi",
+    "userId": "37605",
+    "userClasses": "username user ",
+    "message": "I'm on my 4th energy drink",
+    "msgClasses": "chat_message "
   }
 ]
