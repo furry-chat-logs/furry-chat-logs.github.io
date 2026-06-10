@@ -14642,5 +14642,45 @@
     "userClasses": "username bneon24 ",
     "message": "Lol",
     "msgClasses": "chat_message bcolor24  bfont6"
+  },
+  {
+    "id": "7963398",
+    "type": "public",
+    "date": "9/06 20:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Now I remembered why I haven't laid a hand on this thing for months",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7963399",
+    "type": "public",
+    "date": "9/06 20:26",
+    "username": "SylviaXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "😭",
+    "msgClasses": "chat_message bneon3 heavybold bfont7"
+  },
+  {
+    "id": "7963400",
+    "type": "public",
+    "date": "9/06 20:26",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[moai]",
+    "msgClasses": "chat_message ital"
+  },
+  {
+    "id": "7963401",
+    "type": "public",
+    "date": "9/06 20:26",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://media3.giphy.com/media/v1.Y2lkPWQ1MThhNjFmOTZiejdsZWg1dGNlZ3pla2Z4cDNwN2cxZ29oOTlvOXQ0Nmg1OTNlYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OmqRHI3lSX7jR97WjZ/giphy.gif]",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
