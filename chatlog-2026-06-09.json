@@ -18302,5 +18302,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "He was just a kind man",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963766",
+    "type": "public",
+    "date": "9/06 23:37",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37005_a0306d894989.png]",
+    "msgClasses": "chat_message "
   }
 ]
