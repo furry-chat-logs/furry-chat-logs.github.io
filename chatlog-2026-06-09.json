@@ -14502,5 +14502,25 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Jesterandsugar am not movin",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963384",
+    "type": "public",
+    "date": "9/06 20:24",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "JWHRITI",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
+  },
+  {
+    "id": "7963385",
+    "type": "public",
+    "date": "9/06 20:24",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Ok",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
