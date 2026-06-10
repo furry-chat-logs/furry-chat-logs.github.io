@@ -17012,5 +17012,25 @@
     "userClasses": "username bcolor22 bnfont12",
     "message": "rawr x3 67? ^-^^^ *pounces*",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963635",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "Robyn",
+    "userId": "37578",
+    "userClasses": "username bcolor22 bnfont12",
+    "message": "SIX SEVEN",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963636",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "Hmmn",
+    "msgClasses": "chat_message bfont3"
   }
 ]
