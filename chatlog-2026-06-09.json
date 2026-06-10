@@ -14312,5 +14312,15 @@
     "userClasses": "username user ",
     "message": "how is it going with you",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963365",
+    "type": "public",
+    "date": "9/06 20:18",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Is goin good hie about ye",
+    "msgClasses": "chat_message "
   }
 ]
