@@ -14992,5 +14992,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963433",
+    "type": "public",
+    "date": "9/06 20:32",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://media2.giphy.com/media/v1.Y2lkPWQ1MThhNjFmbjltcmplN3cwOTQ3aHVucjMxenB3MDNubDNveHZlM2Q3Y3JpNno3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lxxOGaDRk4f7R5TkBd/giphy.gif]",
+    "msgClasses": "chat_message ital"
   }
 ]
