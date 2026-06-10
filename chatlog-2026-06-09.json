@@ -14782,5 +14782,25 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "No is my hamborgor",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963412",
+    "type": "public",
+    "date": "9/06 20:28",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "I already ate it",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963413",
+    "type": "public",
+    "date": "9/06 20:28",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Twas gub",
+    "msgClasses": "chat_message "
   }
 ]
