@@ -16942,5 +16942,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "man is this guy dropping hints",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7963628",
+    "type": "public",
+    "date": "9/06 22:05",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Er",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
