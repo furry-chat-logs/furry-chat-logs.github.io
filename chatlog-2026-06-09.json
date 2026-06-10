@@ -16982,5 +16982,15 @@
     "userClasses": "username user ",
     "message": "HELLO",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963632",
+    "type": "public",
+    "date": "9/06 22:10",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "do you mean 15",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
