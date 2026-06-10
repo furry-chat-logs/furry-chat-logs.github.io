@@ -16422,5 +16422,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "ＳＮＡＫＥ_ＢＩＴＥＺ throw them off a cliff",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963576",
+    "type": "public",
+    "date": "9/06 21:17",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Block",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
