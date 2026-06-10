@@ -17412,5 +17412,25 @@
     "userClasses": "username user ",
     "message": "Ok 5thh one",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963677",
+    "type": "public",
+    "date": "9/06 22:18",
+    "username": "Tkuoi",
+    "userId": "37605",
+    "userClasses": "username user ",
+    "message": "I'm going to do an all nighter",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963678",
+    "type": "public",
+    "date": "9/06 22:18",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "guys",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
