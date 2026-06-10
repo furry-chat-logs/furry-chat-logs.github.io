@@ -18242,5 +18242,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "Fire drawing right there",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963760",
+    "type": "public",
+    "date": "9/06 23:34",
+    "username": "Buggo",
+    "userId": "37005",
+    "userClasses": "username bgrad15 ",
+    "message": "I have snorlax pajama pants but i cant wear them this time of year or else i'll set on fire",
+    "msgClasses": "chat_message bcolor23 bold bfont4"
   }
 ]
