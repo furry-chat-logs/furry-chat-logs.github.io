@@ -14262,5 +14262,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "How are you doin",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963360",
+    "type": "public",
+    "date": "9/06 20:14",
+    "username": "Lilianathefox",
+    "userId": "34979",
+    "userClasses": "username bcolor13 bnfont16",
+    "message": "Zer0_is_the_goat good",
+    "msgClasses": "chat_message bgrad38 heavyital bfont10"
   }
 ]
