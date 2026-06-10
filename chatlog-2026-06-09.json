@@ -16562,5 +16562,25 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "He obviously doesnt love you unconditionally",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963590",
+    "type": "public",
+    "date": "9/06 21:20",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ then that might happen again",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963591",
+    "type": "public",
+    "date": "9/06 21:20",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "He probably realized that you were the only person who actually wanted him",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
