@@ -15592,5 +15592,25 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "I'm friends with the mustard that's under my bed",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963493",
+    "type": "public",
+    "date": "9/06 20:42",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "get along with the mayo thats in my head",
+    "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7963494",
+    "type": "public",
+    "date": "9/06 20:42",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Does anyone know nutshell animations",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
