@@ -14252,5 +14252,15 @@
     "userClasses": "username bcolor13 bnfont16",
     "message": "That's good",
     "msgClasses": "chat_message bgrad38 heavyital bfont10"
+  },
+  {
+    "id": "7963359",
+    "type": "public",
+    "date": "9/06 20:11",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "How are you doin",
+    "msgClasses": "chat_message "
   }
 ]
