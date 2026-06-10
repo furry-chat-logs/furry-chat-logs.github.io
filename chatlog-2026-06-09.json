@@ -14092,5 +14092,15 @@
     "userClasses": "username bneon24 bnfont7",
     "message": "question mark",
     "msgClasses": "chat_message bneon24 bold bfont7"
+  },
+  {
+    "id": "7963340",
+    "type": "public",
+    "date": "9/06 19:47",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "Taps chin",
+    "msgClasses": "chat_message bneon18 heavyital bfont6"
   }
 ]
