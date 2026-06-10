@@ -15312,5 +15312,25 @@
     "userClasses": "username bgrad10 bnfont7",
     "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_27723e4b010c.mp3 | Voice message]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963465",
+    "type": "public",
+    "date": "9/06 20:35",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Well king cogz said sugar gliders",
+    "msgClasses": "chat_message bcolor24  bfont6"
+  },
+  {
+    "id": "7963466",
+    "type": "public",
+    "date": "9/06 20:35",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "Zer0_is_the_goat humburger cheese burger big mac whoper",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
