@@ -14132,5 +14132,15 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "*forget",
     "msgClasses": "chat_message bneon10 ital bfont12"
+  },
+  {
+    "id": "7963344",
+    "type": "public",
+    "date": "9/06 19:51",
+    "username": "Zen",
+    "userId": "18532",
+    "userClasses": "username bneon24 bnfont7",
+    "message": "what",
+    "msgClasses": "chat_message bneon24 bold bfont7"
   }
 ]
