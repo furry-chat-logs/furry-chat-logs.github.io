@@ -17592,5 +17592,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "Madame Thorne meh ex",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7963695",
+    "type": "public",
+    "date": "9/06 22:22",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Random fact but did you know the brain doesn't have pain receptors",
+    "msgClasses": "chat_message "
   }
 ]
