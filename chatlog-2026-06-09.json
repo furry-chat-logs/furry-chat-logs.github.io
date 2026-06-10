@@ -15022,5 +15022,25 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "(⁠╯⁠°⁠□⁠°⁠）⁠╯⁠︵⁠ ⁠┻⁠━⁠┻",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963436",
+    "type": "public",
+    "date": "9/06 20:32",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_9cc5a8e0b327.jpg]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963437",
+    "type": "public",
+    "date": "9/06 20:33",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "ಠ⁠_⁠ಠ",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
