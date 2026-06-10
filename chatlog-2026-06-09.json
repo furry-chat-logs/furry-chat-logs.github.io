@@ -17912,5 +17912,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "YES",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7963727",
+    "type": "public",
+    "date": "9/06 23:22",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "WHAT DID YA SAY",
+    "msgClasses": "chat_message "
   }
 ]
