@@ -18112,5 +18112,15 @@
     "userClasses": "username bneon32 bnfont8",
     "message": "lxnar im not gonna anyway",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963747",
+    "type": "public",
+    "date": "9/06 23:30",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Sharkish same :D",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
