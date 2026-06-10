@@ -14052,5 +14052,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36773_30b6dd617b3e.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963336",
+    "type": "public",
+    "date": "9/06 19:33",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Sad indeed",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
