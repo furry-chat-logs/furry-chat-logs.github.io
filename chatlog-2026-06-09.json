@@ -14172,5 +14172,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "My cat is watching TV with me",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963348",
+    "type": "public",
+    "date": "9/06 19:58",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "zib zib",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
