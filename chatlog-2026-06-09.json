@@ -17162,5 +17162,25 @@
     "userClasses": "username bneon29 bnfont7",
     "message": "Good night y’all",
     "msgClasses": "chat_message bneon29 heavyital bfont2"
+  },
+  {
+    "id": "7963650",
+    "type": "public",
+    "date": "9/06 22:12",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Madame Thorne u yawned",
+    "msgClasses": "chat_message bneon10 ital bfont12"
+  },
+  {
+    "id": "7963651",
+    "type": "public",
+    "date": "9/06 22:12",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Slinko gn :(",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
