@@ -16262,5 +16262,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "this is my worst nightmare",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7963560",
+    "type": "public",
+    "date": "9/06 21:11",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user37515_6c11619336c5.png]",
+    "msgClasses": "chat_message "
   }
 ]
