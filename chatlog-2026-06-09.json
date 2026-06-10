@@ -15292,5 +15292,25 @@
     "userClasses": "username bneon24 ",
     "message": "[media: https://furrychat.net/chat/upload/chat/user37515_3b26c30f72db.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963463",
+    "type": "public",
+    "date": "9/06 20:35",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user9329_4d9ffc0db698.mp3 | Voice message]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963464",
+    "type": "public",
+    "date": "9/06 20:35",
+    "username": "SylviaXD",
+    "userId": "35401",
+    "userClasses": "username bgrad10 bnfont7",
+    "message": "[audio: https://furrychat.net/chat/upload/chat/user35401_27723e4b010c.mp3 | Voice message]",
+    "msgClasses": "chat_message "
   }
 ]
