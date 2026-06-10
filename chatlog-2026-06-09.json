@@ -17092,5 +17092,15 @@
     "userClasses": "username bneon4 bnfont6",
     "message": "Madame Thorne bwah",
     "msgClasses": "chat_message bneon4 heavybold bfont13"
+  },
+  {
+    "id": "7963643",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "lxnar",
+    "userId": "8914",
+    "userClasses": "username bneon6 bnfont15",
+    "message": "Tkuoi half the world",
+    "msgClasses": "chat_message bneon10 ital bfont12"
   }
 ]
