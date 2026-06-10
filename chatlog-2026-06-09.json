@@ -16042,5 +16042,25 @@
     "userClasses": "username bneon18 bnfont6",
     "message": "[media: https://furrychat.net/chat/upload/chat/user9329_6bcbcf6732a4.gif]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963538",
+    "type": "public",
+    "date": "9/06 20:57",
+    "username": "Issa",
+    "userId": "8620",
+    "userClasses": "username bneon18 ",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user8620_a87178aa33f8.gif]",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963539",
+    "type": "public",
+    "date": "9/06 20:57",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Rotato potato",
+    "msgClasses": "chat_message "
   }
 ]
