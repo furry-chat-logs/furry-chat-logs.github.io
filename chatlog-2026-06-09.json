@@ -16012,5 +16012,35 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "My cats are fighting for a spot next to the tv to watch birds",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963535",
+    "type": "public",
+    "date": "9/06 20:56",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "Lol",
+    "msgClasses": "chat_message bcolor24  bfont6"
+  },
+  {
+    "id": "7963536",
+    "type": "public",
+    "date": "9/06 20:56",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Jesterandsugar am depressed now",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963537",
+    "type": "public",
+    "date": "9/06 20:56",
+    "username": "Porphyrophobia",
+    "userId": "9329",
+    "userClasses": "username bneon18 bnfont6",
+    "message": "[media: https://furrychat.net/chat/upload/chat/user9329_6bcbcf6732a4.gif]",
+    "msgClasses": "chat_message "
   }
 ]
