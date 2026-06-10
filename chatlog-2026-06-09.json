@@ -17072,5 +17072,25 @@
     "userClasses": "username bneon24 bnfont3",
     "message": "KingCorgz bwa",
     "msgClasses": "chat_message bfont3"
+  },
+  {
+    "id": "7963641",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "Tkuoi",
+    "userId": "37605",
+    "userClasses": "username user ",
+    "message": "Who says 67 in 2026",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963642",
+    "type": "public",
+    "date": "9/06 22:11",
+    "username": "KingCorgz",
+    "userId": "21729",
+    "userClasses": "username bneon4 bnfont6",
+    "message": "Madame Thorne bwah",
+    "msgClasses": "chat_message bneon4 heavybold bfont13"
   }
 ]
