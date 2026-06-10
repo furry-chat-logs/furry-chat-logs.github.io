@@ -17752,5 +17752,15 @@
     "userClasses": "username bneon6 bnfont15",
     "message": "Zer0_is_the_goat how did it taste?",
     "msgClasses": "chat_message bneon10 ital bfont12"
+  },
+  {
+    "id": "7963711",
+    "type": "public",
+    "date": "9/06 23:13",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "It tasted kinda spicy and green",
+    "msgClasses": "chat_message "
   }
 ]
