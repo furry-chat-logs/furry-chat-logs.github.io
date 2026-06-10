@@ -14372,5 +14372,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "How art thou",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963371",
+    "type": "public",
+    "date": "9/06 20:21",
+    "username": "Jesterandsugar",
+    "userId": "37515",
+    "userClasses": "username bneon24 ",
+    "message": "I'm chilling wbu",
+    "msgClasses": "chat_message bcolor24  bfont6"
   }
 ]
