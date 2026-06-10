@@ -17562,5 +17562,25 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "i might",
     "msgClasses": "chat_message bcolor3  bfont3"
+  },
+  {
+    "id": "7963692",
+    "type": "public",
+    "date": "9/06 22:21",
+    "username": "Zer0_is_the_goat",
+    "userId": "37597",
+    "userClasses": "username bcolor17 bnfont12",
+    "message": "Ok",
+    "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963693",
+    "type": "public",
+    "date": "9/06 22:21",
+    "username": "Madame Thorne",
+    "userId": "6405",
+    "userClasses": "username bneon24 bnfont3",
+    "message": "ＳＮＡＫＥ_ＢＩＴＥＺ who?",
+    "msgClasses": "chat_message bfont3"
   }
 ]
