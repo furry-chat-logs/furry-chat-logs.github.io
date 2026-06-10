@@ -17922,5 +17922,15 @@
     "userClasses": "username bcolor17 bnfont12",
     "message": "WHAT DID YA SAY",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963728",
+    "type": "public",
+    "date": "9/06 23:23",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "HE HUNG UP BEFORE I COULD SAY ANYTHING",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
