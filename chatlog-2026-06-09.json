@@ -17462,5 +17462,15 @@
     "userClasses": "username user ",
     "message": "Who",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963682",
+    "type": "public",
+    "date": "9/06 22:18",
+    "username": "ＳＮＡＫＥ_ＢＩＴＥＺ",
+    "userId": "36773",
+    "userClasses": "username bcolor26 bnfont16",
+    "message": "my ex",
+    "msgClasses": "chat_message bcolor3  bfont3"
   }
 ]
