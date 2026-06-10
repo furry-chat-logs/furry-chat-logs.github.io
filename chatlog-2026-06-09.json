@@ -13772,5 +13772,15 @@
     "userClasses": "username bcolor26 bnfont16",
     "message": "[media: https://furrychat.net/chat/upload/chat/user36773_422638a5ddf5.png]",
     "msgClasses": "chat_message "
+  },
+  {
+    "id": "7963308",
+    "type": "public",
+    "date": "9/06 19:05",
+    "username": "AX UNIT 003",
+    "userId": "16465",
+    "userClasses": "username bneon30 bnfont6",
+    "message": "A.",
+    "msgClasses": "chat_message bneon30 bold bfont6"
   }
 ]
